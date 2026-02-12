@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neural Pulse</title>
+    <style>
+        :root { --accent: #2563eb; --bg: #ffffff; --text: #1e293b; }
+        body { font-family: 'Inter', system-ui, sans-serif; background: var(--bg); color: var(--text); padding: 5%; line-height: 1.6; }
+        .container { max-width: 700px; margin: auto; }
+        .header { margin-bottom: 50px; }
+        h1 { font-weight: 800; letter-spacing: -1px; font-size: 2.5rem; color: var(--accent); margin: 0; }
+        .article { margin-bottom: 40px; }
+        .article h3 { font-size: 1.25rem; margin-bottom: 8px; }
+        .article p { font-size: 0.95rem; color: #64748b; }
+        a { color: var(--accent); text-decoration: none; font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; }
+        .meta { font-size: 0.7rem; font-weight: bold; color: #94a3b8; text-transform: uppercase; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1 id="title">Pulse</h1>
+            <p id="tagline"></p>
+            <div class="meta" id="update-time"></div>
+        </div>
+        <div id="content"></div>
+    </div>
+    <script>
+        fetch('./data.json').then(r => r.json()).then(d => {
+            document.getElementById('tagline').innerText = d.tagline;
+            document.getElementById('update-time').innerText = `Last Sync: ${d.updated}`;
+            const container = document.getElementById('content');
+            d.news.forEach(a => {
+                const item = document.createElement('div');
+                item.className = 'article';
+                item.innerHTML = `<h3>${a.title}</h3><p>${a.description}</p><a href="${a.url}" target="_blank">View Analysis →</a>`;
+                container.appendChild(item);
+            });
+        });
+    </script>
+</body>
+</html>
