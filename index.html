@@ -3,169 +3,133 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neural Pulse | AI Frontier Intel</title>
+    <title>Neural Pulse | ShieldLogic</title>
     <style>
-        /* THE VIBE: AI Research Lab Minimalist */
         :root {
             --accent: #2563eb;
             --bg: #ffffff;
             --text: #0f172a;
             --subtext: #64748b;
             --border: #f1f5f9;
-            --card-hover: #f8fafc;
         }
 
         body {
             background-color: var(--bg);
             color: var(--text);
-            font-family: 'Inter', -apple-system, system-ui, sans-serif;
+            font-family: 'Inter', -apple-system, sans-serif;
             margin: 0;
             padding: 40px 20px;
             line-height: 1.6;
-            -webkit-font-smoothing: antialiased;
         }
 
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-        }
+        .container { max-width: 800px; margin: 0 auto; }
 
-        header {
-            margin-bottom: 60px;
-            text-align: center;
-        }
+        header { margin-bottom: 60px; text-align: center; }
 
+        /* THE PULSE ANIMATION */
         h1 {
             font-weight: 900;
-            font-size: 3rem;
+            font-size: 3.5rem;
             letter-spacing: -0.05em;
             margin: 0;
-            background: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
+            background: linear-gradient(135deg, #2563eb, #7c3aed);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
+            animation: pulse-glow 4s ease-in-out infinite;
         }
 
-        .tagline {
-            font-size: 1.1rem;
-            color: var(--subtext);
-            margin: 10px 0;
-            font-weight: 400;
+        @keyframes pulse-glow {
+            0%, 100% { opacity: 1; filter: drop-shadow(0 0 0px rgba(37, 99, 235, 0)); }
+            50% { opacity: 0.8; filter: drop-shadow(0 0 15px rgba(37, 99, 235, 0.2)); }
         }
 
-        #last-updated {
-            font-size: 0.75rem;
-            font-weight: 700;
+        .tagline { color: var(--subtext); font-size: 1.1rem; margin-top: 10px; }
+
+        #sync-meta {
+            font-size: 0.7rem;
+            font-weight: 800;
             text-transform: uppercase;
-            letter-spacing: 0.1em;
-            color: var(--subtext);
-            margin-top: 20px;
+            letter-spacing: 0.15em;
+            color: var(--accent);
+            margin-top: 25px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
         }
+
+        /* Signal Strength Dot */
+        .dot {
+            height: 6px;
+            width: 6px;
+            background-color: var(--accent);
+            border-radius: 50%;
+            display: inline-block;
+            animation: blink 1.5s infinite;
+        }
+
+        @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
 
         .article {
             border-bottom: 1px solid var(--border);
-            padding: 30px 0;
-            transition: all 0.3s ease;
+            padding: 35px 0;
+            transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
         }
 
-        .article:hover {
-            padding-left: 20px;
-            background-color: var(--card-hover);
-            border-bottom-color: var(--accent);
-        }
+        .article:hover { transform: translateY(-2px); border-bottom-color: var(--accent); }
 
-        .article h3 {
-            margin: 0 0 12px 0;
-            font-size: 1.4rem;
-            font-weight: 700;
-            line-height: 1.3;
-        }
+        .article h3 { font-size: 1.5rem; margin: 0 0 10px 0; font-weight: 700; color: #000; }
+        .article p { font-size: 1rem; color: var(--subtext); margin-bottom: 20px; }
+        .article a { color: var(--accent); text-decoration: none; font-weight: 600; font-size: 0.9rem; }
 
-        .article p {
-            font-size: 1rem;
-            color: var(--subtext);
-            margin-bottom: 20px;
-        }
-
-        .article a {
-            color: var(--accent);
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 0.9rem;
-            display: inline-flex;
-            align-items: center;
-        }
-
-        .article a::after {
-            content: ' →';
-            transition: transform 0.2s;
-        }
-
-        .article a:hover::after {
-            transform: translateX(5px);
-        }
-
-        .status-msg {
-            padding: 40px;
-            text-align: center;
-            color: var(--subtext);
-            font-style: italic;
-        }
+        .status-msg { padding: 60px; text-align: center; color: var(--subtext); font-style: italic; }
     </style>
 </head>
 <body>
 
     <div class="container">
         <header>
-            <h1 id="feed-title">Neural Pulse</h1>
+            <h1>Neural Pulse</h1>
             <p id="tagline" class="tagline">Tracking the heartbeat of the AI frontier.</p>
-            <div id="last-updated">NEURAL_SYNC: IN_PROGRESS</div>
+            <div id="sync-meta">
+                <span class="dot"></span>
+                <span id="update-text">NEURAL_LINK: INITIALIZING</span>
+            </div>
         </header>
 
         <div id="news-container">
-            <div class="status-msg">Fetching latest frontier intelligence...</div>
+            <div class="status-msg">Aligning neural weights...</div>
         </div>
     </div>
 
     <script>
         document.addEventListener('DOMContentLoaded', () => {
             const container = document.getElementById('news-container');
-            const updateEl = document.getElementById('last-updated');
+            const updateText = document.getElementById('update-text');
 
             fetch('./data.json')
-                .then(response => {
-                    if (!response.ok) throw new Error('INTEL_FILE_NOT_FOUND');
-                    return response.json();
+                .then(res => {
+                    if (!res.ok) throw new Error('OFFLINE');
+                    return res.json();
                 })
                 .then(data => {
                     container.innerHTML = ''; 
-                    
-                    document.getElementById('feed-title').innerText = data.title;
-                    document.getElementById('tagline').innerText = data.tagline;
-                    updateEl.innerText = `NEURAL_SYNC: ${data.updated}`;
+                    updateText.innerText = `NEURAL_LINK: ACTIVE | SYNC: ${data.updated}`;
 
-                    if (data.news && data.news.length > 0) {
-                        data.news.forEach(article => {
-                            const articleDiv = document.createElement('div');
-                            articleDiv.className = 'article';
-                            
-                            articleDiv.innerHTML = `
-                                <h3>${article.title}</h3>
-                                <p>${article.description || "No summary available."}</p>
-                                <a href="${article.url}" target="_blank" rel="noopener noreferrer">View Analysis</a>
-                            `;
-                            container.appendChild(articleDiv);
-                        });
-                    } else {
-                        container.innerHTML = '<div class="status-msg">No new signals detected in this cycle.</div>';
-                    }
+                    data.news.forEach(art => {
+                        const div = document.createElement('div');
+                        div.className = 'article';
+                        div.innerHTML = `
+                            <h3>${art.title}</h3>
+                            <p>${art.description || "Synthesizing briefing..."}</p>
+                            <a href="${art.url}" target="_blank" rel="noopener noreferrer">View Intel Report →</a>
+                        `;
+                        container.appendChild(div);
+                    });
                 })
-                .catch(error => {
-                    container.innerHTML = `
-                        <div style="color: #ef4444; text-align: center; padding: 40px;">
-                            <p><strong>[ SYSTEM_OFFLINE ]</strong></p>
-                            <p>Unable to establish link with Neural Pulse data.</p>
-                        </div>
-                    `;
+                .catch(err => {
+                    updateText.innerText = "NEURAL_LINK: DISCONNECTED";
+                    container.innerHTML = `<div class="status-msg">Establish manual link via GitHub Actions.</div>`;
                 });
         });
     </script>
