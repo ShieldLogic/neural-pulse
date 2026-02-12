@@ -1,0 +1,29 @@
+name: Daily Pulse Sync
+on:
+  schedule:
+    - cron: '30 11 * * *' # 6:30 AM EST (Staggered 30 mins after Sentinel)
+  workflow_dispatch:
+
+permissions:
+  contents: write 
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - run: pip install requests
+      - name: Fetch Intelligence
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: python main.py
+      - name: Commit Data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Pulse-Bot"
+          git add data.json
+          git commit -m "Pulse Sync: $(date)" || echo "No new signal"
+          git push
