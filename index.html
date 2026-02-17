@@ -107,21 +107,58 @@
             const container = document.getElementById('news-container');
             const updateText = document.getElementById('update-text');
 
-            fetch('./data.json')
-                .then(res => {
-                    if (!res.ok) throw new Error('OFFLINE');
-                    return res.json();
-                })
-                .then(data => {
+            .then(data => {
                     container.innerHTML = ''; 
-                    updateText.innerText = `NEURAL_LINK: ACTIVE | SYNC: ${data.updated}`;
 
+                    // --- AI IMPACT ANALYSIS ENGINE ---
+                    const headlines = data.news.map(n => (n.title + n.description).toLowerCase());
+                    const impactTerms = ['agi', 'breakthrough', 'regulation', 'deepfake', 'lawsuit', 'hallucination', 'vulnerability', 'openai', 'open-source', 'sued', 'banned'];
+                    
+                    let impactScore = 0;
+                    headlines.forEach(text => {
+                        impactTerms.forEach(word => { if (text.includes(word)) impactScore++; });
+                    });
+
+                    // Define the dynamic Pulse colors
+                    let state = { 
+                        level: 'NOMINAL_VELOCITY', 
+                        gradient: 'linear-gradient(135deg, #2563eb, #7c3aed)', // Blue/Purple
+                        dot: '#2563eb' 
+                    }; 
+                    
+                    if (impactScore > 5) {
+                        state = { 
+                            level: 'DISRUPTIVE_EVENT', 
+                            gradient: 'linear-gradient(135deg, #e11d48, #ea580c)', // Magenta/Orange
+                            dot: '#e11d48' 
+                        };
+                    } else if (impactScore > 1) {
+                        state = { 
+                            level: 'ELEVATED_ACTIVITY', 
+                            gradient: 'linear-gradient(135deg, #0d9488, #2dd4bf)', // Teal/Cyan
+                            dot: '#0d9488' 
+                        };
+                    }
+
+                    // Apply the Impact to the UI dynamically
+                    document.querySelector('h1').style.background = state.gradient;
+                    document.querySelector('h1').style.webkitBackgroundClip = 'text';
+                    document.querySelector('.dot').style.backgroundColor = state.dot;
+                    updateText.style.color = state.dot;
+                    updateText.innerText = `NEURAL_LINK: ${state.level} | SYNC: ${data.updated}`;
+
+                    // --- RENDER CONTENT ---
                     data.news.forEach(art => {
                         const div = document.createElement('div');
                         div.className = 'article';
+                        
+                        // Mild XSS Mitigation for Pulse
+                        const title = art.title.replace(/</g, "&lt;");
+                        const desc = (art.description || "Synthesizing briefing...").replace(/</g, "&lt;");
+
                         div.innerHTML = `
-                            <h3>${art.title}</h3>
-                            <p>${art.description || "Synthesizing briefing..."}</p>
+                            <h3>${title}</h3>
+                            <p>${desc}</p>
                             <a href="${art.url}" target="_blank" rel="noopener noreferrer">View Intel Report →</a>
                         `;
                         container.appendChild(div);
