@@ -1,10 +1,10 @@
 {
-    "updated": "2026-02-17 18:53:19 UTC",
+    "updated": "2026-02-17 20:32:57 UTC",
     "news": [
         {
-            "title": "Everything You Need to Know About How Python Manages Memory",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; In languages like C, you manually allocate and free memory.",
-            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-how-python-manages-memory/"
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
         },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
@@ -17,14 +17,14 @@
             "url": "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/"
         },
         {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Model Deployment with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; If you\u2019ve trained a machine learning model, a common question comes up: \u201cHow do we actually use it?\u201d This is where many machine learning practitioners get stuck.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-model-deployment-with-fastapi/"
-        },
-        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
+        },
+        {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -37,9 +37,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "The 2026 Time Series Toolkit: 5 Foundation Models for Autonomous Forecasting",
-            "description": "[MACHINELEARNINGMASTERY] Most forecasting work involves building custom models for each dataset \u2014 fit an ARIMA here, tune an LSTM there, wrestle with <a href=\"https://facebook.",
-            "url": "https://machinelearningmastery.com/the-2026-time-series-toolkit-5-foundation-models-for-autonomous-forecasting/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -52,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 5 Agentic AI Website Builders (That Actually Ship)",
-            "description": "[MACHINELEARNINGMASTERY] I have been building a payment platform using vibe coding, and I do not have a frontend background.",
-            "url": "https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/"
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
         },
         {
             "title": "How AI trained on birds is surfacing underwater mysteries",
@@ -62,14 +62,14 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "The Complete Guide to Data Augmentation for Machine Learning",
-            "description": "[MACHINELEARNINGMASTERY] Suppose you\u2019ve built your machine learning model, run the experiments, and stared at the results wondering what went wrong.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-data-augmentation-for-machine-learning/"
         },
         {
             "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Kerala\u2019s Minnu Mani shines as India A crush Nepal in Women\u2019s Asia Cup Rising Stars match",
-            "description": "[MALAYALA MANORAMA] Minnu bagged 3/8 as India crushed Nepal by 7 wickets in a Women's Asia Cup Rising Stars group match in Bangkok..India A Women's Asia Cup, Minnu Mani wickets, Nepal vs India A cricket, Women's cricket...",
-            "url": "https://www.onmanorama.com/sports/cricket/2026/02/17/womens-asia-cup-rising-stars-india-vs-nepal.html"
+            "title": "AI can bridge information gap in agriculture: MeitY Secretary S Krishnan",
+            "description": "[THE ECONOMIC TIMES] MeitY Secretary S Krishnan highlights the need for artificial intelligence in agriculture. He states that AI can bridge the information gap for farmers, who primarily seek timely advice. The...",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-can-bridge-information-gap-in-agriculture-meity-secretary-s-krishnan/articleshow/128456027.cms"
         },
         {
-            "title": "Anthropic, Infosys to Build Custom AI Agents for Firms",
-            "description": "[BLOOMBERG] Anthropic PBC has partnered Indian technology firm Infosys Ltd. to develop advanced artificial intelligence solutions for companies across sectors including telecommunications and financial services.",
-            "url": "https://www.bloomberg.com/news/articles/2026-02-17/anthropic-infosys-team-up-to-build-custom-ai-agents-for-firms"
+            "title": "Pentagon and Anthropic clash over use of Claude AI in military operations",
+            "description": "[THE NEWS INTERNATIONAL] The US Defence Department is locked in a growing dispute with AI developer Anthropic about how the Pentagon can use the company\u2019s Claude artificial intelligence models, raising questions about...",
+            "url": "https://www.thenews.com.pk/latest/1392610-pentagon-and-anthropic-clash-over-use-of-claude-ai-in-military-operations"
         },
         {
-            "title": "France's Macron eyes fighter jet deal in India",
-            "description": "[THE STAR] MUMBAI: French President Emmanuel Macron will meet Indian Prime Minister Narendra Modi in Mumbai on Tuesday (Feb 17), as he begins a three-day visit to India focused on artificial intelligence...",
-            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/02/17/france039s-macron-eyes-fighter-jet-deal-in-india"
+            "title": "Kerala logs high UV index amid rising temperatures, 6 districts on yellow alert",
+            "description": "[MALAYALA MANORAMA] Kerala UV alert has been issued across six districts due to a high UV index, prompting health and safety advisories..Kerala UV alert, high UV index Kerala, yellow alert six districts, UV index 6...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/17/kerala-uv-alert-districts-high-temperature-kottayam-kannur.html"
         },
         {
-            "title": "Kerala village offices are getting smart, this one at Kodumon is really \u2018breathtaking\u2019",
-            "description": "[MALAYALA MANORAMA] Kodumon village office faces significant accessibility challenges due to its hilltop location and poor road conditions..Kodumon village office access, Pathanamthitta village office problems,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/17/kodumon-village-office-access.html"
+            "title": "AI in Agriculture: Bridging the Information Gap for Farmers",
+            "description": "[DEVDISCOURSE] S Krishnan, MeitY Secretary, advocates using artificial intelligence to bridge information gaps in agriculture. He emphasizes the need for timely advice and explains how AI can improve extension...",
+            "url": "https://www.devdiscourse.com/article/headlines/3807669-ai-in-agriculture-bridging-the-information-gap-for-farmers"
         },
         {
-            "title": "Netcore Pioneers Agentic Marketing, Redefining Customer Engagement",
-            "description": "[THE TRIBUNE] MUMBAI, India, Feb. 17, 2026 /PRNewswire/ -- Autonomous agent-based, artificial intelligence systems are beginning to replace traditional campaign-based marketing, marking one of the most...",
-            "url": "https://www.tribuneindia.com/news/business/netcore-pioneers-agentic-marketing-redefining-customer-engagement/"
+            "title": "India's Adani to invest $100 billion in AI data centers by 2035",
+            "description": "[CNBC] The blockbuster investment comes as India pushes to gain a stronger foothold in the global artificial intelligence race.",
+            "url": "https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html"
         },
         {
-            "title": "Ayyappa won\u2019t spare the guilty, says Jayaram before ED appearance in Sabarimala gold theft case",
-            "description": "[MALAYALA MANORAMA] Actor Jayaram appeared before the Enforcement Directorate (ED) in Kochi for questioning in the Sabarimala gold theft case..Sabarimala gold theft case, Jayaram ED appearance, actor Jayaram Sabarimala,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/17/sabarimala-gold-theft-jayaram-ed.html"
+            "title": "This doctor is training AI to do her job. And it\u2019s a booming business",
+            "description": "[ABC17NEWS.COM] By Hadas Gold, CNN (CNN) \u2014 Dr. Alice Chiao used to teach emergency medicine to students at Stanford University\u2019s medical school. Now, she\u2019s teaching artificial intelligence-powered chatbots to think,...",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2026/02/17/this-doctor-is-training-ai-to-do-her-job-and-its-a-booming-business/"
         },
         {
-            "title": "Infosys stock rises over 3 pc after strategic tie-up with Anthropic",
-            "description": "[DAILY EXCELSIOR] NEW DELHI, Feb 17: Shares of IT major Infosys rose more than 3 per cent on Tuesday after the company said it has entered into a strategic collaboration with Anthropic to develop and deliver advanced...",
-            "url": "https://www.dailyexcelsior.com/infosys-stock-rises-over-3-pc-after-strategic-tie-up-with-anthropic/"
+            "title": "AI will power India's journey to developed nation by 2047: Dharmendra Pradhan",
+            "description": "[THE ECONOMIC TIMES] Union Education Minister Dharmendra Pradhan urged the youth of India to seize the opportunities presented by Artificial Intelligence. He emphasized that AI is not just a technological trend, but a...",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-to-transform-india-into-a-developed-nation-by-2047-says-union-minister-pradhan/articleshow/128454825.cms"
         },
         {
-            "title": "American billionaire Mark Cuban to those who say AI will wipe away software jobs: Who will ... at $33 million technology companies in the US",
-            "description": "[TIMES OF INDIA] Tech News News: American billionaire and former Shark Tank investor Mark Cuban has now challenged the narrative that artificial intelligence will wipe out software jo.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/american-billionaire-mark-cuban-to-those-who-say-ai-will-wipe-away-software-jobs-who-will-at-33-million-technology-companies-in-the-us/articleshow/128448025.cms"
+            "title": "AI disruption in IT: Nilesh Shah says it\u2019s too early to panic; also India's earnings are finally turning",
+            "description": "[THE ECONOMIC TIMES] Nilesh Shah of Kotak AMC believes artificial intelligence will transform India's IT sector gradually. He advises retail investors to let experts manage their investments during this period. Shah...",
+            "url": "https://economictimes.indiatimes.com/markets/expert-view/ai-disruption-in-it-nilesh-shah-says-its-too-early-to-panic-also-indias-earnings-are-finally-turning/articleshow/128454772.cms"
         },
         {
-            "title": "AI can help optimize clean energy save lives and livelihoods: Ceew CEO Anurabha Ghosh",
-            "description": "[THE ECONOMIC TIMES] Artificial Intelligence is emerging as a crucial tool in combating climate change, offering solutions for renewable energy, sustainable agriculture, and disaster resilience. Experts emphasize the...",
-            "url": "https://economictimes.indiatimes.com/industry/renewables/ai-can-help-optimize-clean-energy-save-lives-and-livelihoods-ceew-ceo-anurabha-ghosh/articleshow/128452384.cms"
+            "title": "IT services may benefit from AI over time despite near",
+            "description": "[CNBC TV18] Neeraj Seth, Founder & CIO of 3R Investment Management says artificial-intelligence (AI) capex concerns are weighing on tech stocks, expects near-term dollar strength and sees long-term opportunity...",
+            "url": "https://www.cnbctv18.com/market/it-services-may-benefit-from-ai-over-time-despite-near-term-pressure-neeraj-seth-alpha-article-19851562.htm"
         },
         {
-            "title": "AI can help optimize clean energy save lives and livelihoods: Ceew CEO Anurabha Ghosh",
-            "description": "[THE ECONOMIC TIMES] Artificial Intelligence is emerging as a crucial tool in combating climate change, offering solutions for renewable energy, sustainable agriculture, and disaster resilience. Experts emphasize the...",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-can-help-optimize-clean-energy-save-lives-and-livelihoods-ceew-ceo-anurabha-ghosh/articleshow/128452330.cms"
+            "title": "Konark wheel meets Artificial Intelligence: Odisha pavilion steals spotlight at AI Summit 2026",
+            "description": "[INDIA TV NEWS] Odisha showcases its iconic Konark Wheel at the India AI Impact Summit 2026, blending cultural heritage with artificial intelligence innovation and highlighting real-world AI use cases and...",
+            "url": "https://www.indiatvnews.com/technology/news/konark-wheel-meets-artificial-intelligence-odisha-pavilion-steals-spotlight-at-ai-summit-2026-2026-02-17-1030613"
         }
     ]
 }
