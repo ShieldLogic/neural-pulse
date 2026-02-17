@@ -2,7 +2,26 @@ import feedparser
 import requests
 import json
 import os
+import re  # <-- Used to strip HTML tags
 from datetime import datetime
+
+# --- THE SANITIZER FUNCTION ---
+def clean_summary(raw_text, max_length=200):
+    if not raw_text:
+        return "No intel summary available."
+    
+    # 1. Strip all HTML tags (like <p>, <a>, <img>)
+    text_no_html = re.sub(r'<[^>]+>', '', raw_text)
+    
+    # 2. Clean up weird spacing and newlines
+    clean_text = " ".join(text_no_html.split())
+    
+    # 3. Truncate cleanly so it doesn't cut a word in half
+    if len(clean_text) > max_length:
+        return clean_text[:max_length].rsplit(' ', 1)[0] + '...'
+        
+    return clean_text
+# ------------------------------
 
 # 1. High-Trust AI RSS Feeds (The Snipers)
 RSS_FEEDS = [
@@ -22,14 +41,19 @@ articles_list = []
 for url in RSS_FEEDS:
     try:
         feed = feedparser.parse(url)
+        # Clean up the source name for the UI
         source_name = url.split("//")[1].split("/")[0].replace("www.", "").split(".")[0]
         
         for entry in feed.entries[:5]: 
-            desc = getattr(entry, 'summary', getattr(entry, 'description', 'No intel summary available.'))
+            # Grab the raw description
+            raw_desc = getattr(entry, 'summary', getattr(entry, 'description', ''))
+            
+            # Sanitize and truncate it!
+            clean_desc = clean_summary(raw_desc)
             
             articles_list.append({
                 "title": entry.title,
-                "description": f"[{source_name.upper()}] {desc}", 
+                "description": f"[{source_name.upper()}] {clean_desc}", 
                 "url": entry.link,
                 "published_raw": getattr(entry, 'published', datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"))
             })
@@ -43,9 +67,15 @@ if GNEWS_API_KEY:
         if response.status_code == 200:
             api_data = response.json().get("articles", [])
             for art in api_data:
+                # Grab the raw API description
+                raw_desc = art.get('description', '')
+                
+                # Sanitize and truncate it!
+                clean_desc = clean_summary(raw_desc)
+                
                 articles_list.append({
                     "title": art["title"],
-                    "description": f"[{art['source']['name'].upper()}] {art['description']}",
+                    "description": f"[{art['source']['name'].upper()}] {clean_desc}",
                     "url": art["url"],
                     "published_raw": art["publishedAt"]
                 })
@@ -53,8 +83,10 @@ if GNEWS_API_KEY:
         print(f"API fetch failed: {e}")
 
 # --- SORT & FORMAT FOR FRONTEND ---
+# Sort by newest first
 articles_list.sort(key=lambda x: x["published_raw"], reverse=True)
 
+# Clean up the output so frontend only gets what it needs
 for article in articles_list:
     article.pop("published_raw", None)
 
@@ -66,4 +98,4 @@ output_data = {
 with open("data.json", "w") as f:
     json.dump(output_data, f, indent=4)
 
-print(f"Pulse Protocol Updated: {len(articles_list)} AI signals intercepted.")
+print(f"Pulse Protocol Updated: {len(articles_list)} AI signals intercepted and sanitized.")
