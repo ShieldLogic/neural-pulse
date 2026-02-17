@@ -1,20 +1,20 @@
 {
-    "updated": "2026-02-17 20:32:57 UTC",
+    "updated": "2026-02-17 22:27:07 UTC",
     "news": [
-        {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
-            "title": "\u200bSequential Attention: Making AI models leaner and faster without sacrificing accuracy",
-            "description": "[RESEARCH] Algorithms & Theory",
-            "url": "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/"
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
+        },
+        {
+            "title": "Teaching AI to read a map",
+            "description": "[RESEARCH] Machine Perception",
+            "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
-        },
-        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
+        },
+        {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,9 +37,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+        },
+        {
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -52,19 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "AI can bridge information gap in agriculture: MeitY Secretary S Krishnan",
-            "description": "[THE ECONOMIC TIMES] MeitY Secretary S Krishnan highlights the need for artificial intelligence in agriculture. He states that AI can bridge the information gap for farmers, who primarily seek timely advice. The...",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-can-bridge-information-gap-in-agriculture-meity-secretary-s-krishnan/articleshow/128456027.cms"
+            "title": "Bengaluru founder stranded outside own booth as crowds swarm India AI Impact Summit",
+            "description": "[THE INDIAN EXPRESS] The India AI Impact Summit opened on Monday at Bharat Mandapam with scenes resembling a concert rather than a tech conference\u2014overflowing halls, long queues and crowds stretching outside the venue....",
+            "url": "https://indianexpress.com/shorts/trending/trending-in-india/india-ai-impact-summit-delhi-crowd-bolna-founder-maitreya-wagh-viral-post-10536793/"
         },
         {
-            "title": "Pentagon and Anthropic clash over use of Claude AI in military operations",
-            "description": "[THE NEWS INTERNATIONAL] The US Defence Department is locked in a growing dispute with AI developer Anthropic about how the Pentagon can use the company\u2019s Claude artificial intelligence models, raising questions about...",
-            "url": "https://www.thenews.com.pk/latest/1392610-pentagon-and-anthropic-clash-over-use-of-claude-ai-in-military-operations"
+            "title": "Bengaluru founder stranded outside own booth as crowds swarm India AI Impact Summit: \u2018May set up a mini-booth at some Connaught Place cafe\u2019",
+            "description": "[THE INDIAN EXPRESS] Touted as the world\u2019s biggest gathering focused on artificial intelligence, the India AI Impact Summit will run till February 20, drawing founders, policymakers and global tech leaders.",
+            "url": "https://indianexpress.com/article/trending/trending-in-india/india-ai-impact-summit-delhi-crowd-bolna-founder-maitreya-wagh-viral-post-10536793/"
         },
         {
-            "title": "Kerala logs high UV index amid rising temperatures, 6 districts on yellow alert",
-            "description": "[MALAYALA MANORAMA] Kerala UV alert has been issued across six districts due to a high UV index, prompting health and safety advisories..Kerala UV alert, high UV index Kerala, yellow alert six districts, UV index 6...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/17/kerala-uv-alert-districts-high-temperature-kottayam-kannur.html"
+            "title": "Unfortunate that India had to suffer embarrassment due to chaos, mismanagement at AI Summit: Cong",
+            "description": "[THEPRINT] New Delhi, Feb 17 (PTI) Congress president Mallikarjun Kharge on Tuesday alleged that the chaos and mismanagement at the ongoing AI Impact Summit here is giving the country global embarrassment due...",
+            "url": "https://theprint.in/india/unfortunate-that-india-had-to-suffer-embarrassment-due-to-chaos-mismanagement-at-ai-summit-cong/2856827/"
         },
         {
-            "title": "AI in Agriculture: Bridging the Information Gap for Farmers",
-            "description": "[DEVDISCOURSE] S Krishnan, MeitY Secretary, advocates using artificial intelligence to bridge information gaps in agriculture. He emphasizes the need for timely advice and explains how AI can improve extension...",
-            "url": "https://www.devdiscourse.com/article/headlines/3807669-ai-in-agriculture-bridging-the-information-gap-for-farmers"
+            "title": "Ethics in AI: A Transformative Force in India's Health Sector",
+            "description": "[DEVDISCOURSE] Ethics is set to play a crucial role in the application of artificial intelligence (AI) in health. The government-backed BharatGen is pioneering multilingual AI models like the 17-billion-parameter...",
+            "url": "https://www.devdiscourse.com/article/science-environment/3807824-ethics-in-ai-a-transformative-force-in-indias-health-sector"
         },
         {
-            "title": "India's Adani to invest $100 billion in AI data centers by 2035",
-            "description": "[CNBC] The blockbuster investment comes as India pushes to gain a stronger foothold in the global artificial intelligence race.",
-            "url": "https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html"
+            "title": "TV actor Rekha Satheesh reveals she is facing harassment from YouTubers, seeks government\u2019s help",
+            "description": "[MALAYALA MANORAMA] Rekha also added that the YouTubers are not only insulting her but also targeting others in the industry..Rekha Satheesh, television actress harassment, YouTubers targeting actress, mental distress...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/17/rekha-satheesh-harassment-plea-online-abuse.html"
         },
         {
-            "title": "This doctor is training AI to do her job. And it\u2019s a booming business",
-            "description": "[ABC17NEWS.COM] By Hadas Gold, CNN (CNN) \u2014 Dr. Alice Chiao used to teach emergency medicine to students at Stanford University\u2019s medical school. Now, she\u2019s teaching artificial intelligence-powered chatbots to think,...",
-            "url": "https://abc17news.com/money/cnn-business-consumer/2026/02/17/this-doctor-is-training-ai-to-do-her-job-and-its-a-booming-business/"
+            "title": "AI set to make medical scan reports twice as easy to understand for patients",
+            "description": "[DAILY EXCELSIOR] LONDON, Feb 17: Artificial intelligence could soon help patients make sense of complex medical scan results, making them far easier to understand without losing clinical accuracy, a major new study...",
+            "url": "https://www.dailyexcelsior.com/ai-set-to-make-medical-scan-reports-twice-as-easy-to-understand-for-patients/"
         },
         {
-            "title": "AI will power India's journey to developed nation by 2047: Dharmendra Pradhan",
-            "description": "[THE ECONOMIC TIMES] Union Education Minister Dharmendra Pradhan urged the youth of India to seize the opportunities presented by Artificial Intelligence. He emphasized that AI is not just a technological trend, but a...",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-to-transform-india-into-a-developed-nation-by-2047-says-union-minister-pradhan/articleshow/128454825.cms"
+            "title": "AI Revolutionizing Healthcare: India's Path to Inclusive Intelligence",
+            "description": "[DEVDISCOURSE] India is leveraging Artificial Intelligence to revolutionize its healthcare system. By integrating AI in various healthcare sectors, from disease surveillance to treatment, India aims to address...",
+            "url": "https://www.devdiscourse.com/article/health/3807790-ai-revolutionizing-healthcare-indias-path-to-inclusive-intelligence"
         },
         {
-            "title": "AI disruption in IT: Nilesh Shah says it\u2019s too early to panic; also India's earnings are finally turning",
-            "description": "[THE ECONOMIC TIMES] Nilesh Shah of Kotak AMC believes artificial intelligence will transform India's IT sector gradually. He advises retail investors to let experts manage their investments during this period. Shah...",
-            "url": "https://economictimes.indiatimes.com/markets/expert-view/ai-disruption-in-it-nilesh-shah-says-its-too-early-to-panic-also-indias-earnings-are-finally-turning/articleshow/128454772.cms"
+            "title": "Off to a healthy start? Macron seen jogging in Mumbai on Day 1 of India visit | Watch",
+            "description": "[HINDUSTAN TIMES] French President Emmanuel Macron is in India for a three-day visit and will hold key bilateral talks with focus on artificial intelligence cooperation.| India News",
+            "url": "https://www.hindustantimes.com/india-news/off-to-a-healthy-start-macron-seen-jogging-in-mumbai-on-day-1-of-india-visit-watch-101771318371235.html"
         },
         {
-            "title": "IT services may benefit from AI over time despite near",
-            "description": "[CNBC TV18] Neeraj Seth, Founder & CIO of 3R Investment Management says artificial-intelligence (AI) capex concerns are weighing on tech stocks, expects near-term dollar strength and sees long-term opportunity...",
-            "url": "https://www.cnbctv18.com/market/it-services-may-benefit-from-ai-over-time-despite-near-term-pressure-neeraj-seth-alpha-article-19851562.htm"
+            "title": "AI wave will reshape nearly every knowledge job: Automation Anywhere\u2019s Mihir Shukla",
+            "description": "[LOKMAT TIMES] AI wave will reshape nearly every knowledge job: Automation Anywhere\u2019s Mihir Shukla - New Delhi, Feb 17 Artificial intelligence is set to redefine what work means across almost every role, especially...",
+            "url": "https://www.lokmattimes.com/business/ai-wave-will-reshape-nearly-every-knowledge-job-automation-anywheres-mihir-shukla/"
         },
         {
-            "title": "Konark wheel meets Artificial Intelligence: Odisha pavilion steals spotlight at AI Summit 2026",
-            "description": "[INDIA TV NEWS] Odisha showcases its iconic Konark Wheel at the India AI Impact Summit 2026, blending cultural heritage with artificial intelligence innovation and highlighting real-world AI use cases and...",
-            "url": "https://www.indiatvnews.com/technology/news/konark-wheel-meets-artificial-intelligence-odisha-pavilion-steals-spotlight-at-ai-summit-2026-2026-02-17-1030613"
+            "title": "AI wave will reshape nearly every knowledge job: Automation Anywhere\u2019s Mihir Shukla",
+            "description": "[LOKMAT TIMES] AI wave will reshape nearly every knowledge job: Automation Anywhere\u2019s Mihir Shukla - New Delhi, Feb 17 Artificial intelligence is set to redefine what work means across almost every role, especially...",
+            "url": "https://www.lokmattimes.com/technology/ai-wave-will-reshape-nearly-every-knowledge-job-automation-anywheres-mihir-shukla-1/"
         }
     ]
 }
