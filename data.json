@@ -1,15 +1,15 @@
 {
-    "updated": "2026-02-18 18:49:42 UTC",
+    "updated": "2026-02-18 20:35:10 UTC",
     "news": [
-        {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
+        },
+        {
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
-        },
-        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
+        },
+        {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,9 +37,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+        },
+        {
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -52,19 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Qualcomm Commits Up To $150 Mn For Strategic AI Venture Fund in India",
-            "description": "[OUTLOOK BUSINESS] Qualcomm will invest up to $150 million in a strategic AI venture fund in India, aiming to accelerate artificial intelligence innovation and startup growth.",
-            "url": "https://www.outlookbusiness.com/corporate/qualcomm-commits-up-to-150-mn-for-strategic-ai-venture-fund-in-india"
+            "title": "AI Job Boom: Analyzing the Concentration of Opportunities in Indian Cities",
+            "description": "[DEVDISCOURSE] Artificial Intelligence job opportunities are predominantly concentrated in Bengaluru, Delhi-NCR, and Mumbai, with these cities accounting for nearly 70% of AI-related job openings on Naukri.com....",
+            "url": "https://www.devdiscourse.com/article/technology/3809042-ai-job-boom-analyzing-the-concentration-of-opportunities-in-indian-cities"
         },
         {
-            "title": "Fake news: BSP on reports of her party contesting 2027 polls in alliance",
-            "description": "[DAILY EXCELSIOR] LUCKNOW, Feb 18: BSP president Mayawati on Wednesday trashed as \u201cfake news\u201d reports that her party would contest the 2027 Uttar Pradesh Assembly elections in alliance with other parties, asserting...",
-            "url": "https://www.dailyexcelsior.com/fake-news-bsp-on-reports-of-her-party-contesting-2027-polls-in-alliance/"
+            "title": "Pharmacelera raises \u20ac6M to expand in U.S. and build out its high speed, high accuracy, deep tech drug discovery platform",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Pharmacelera, a deep tech company applying Quantum Mechanics and Artificial Intelligence to revolutionize drug discovery, has closed a \u20ac6...",
+            "url": "https://www.prnewswire.co.uk/news-releases/pharmacelera-raises-6m-to-expand-in-us-and-build-out-its-high-speed-high-accuracy-deep-tech-drug-discovery-platform-302689680.html"
         },
         {
-            "title": "PM Modi meets Google CEO Sundar Pichai at India AI Impact Summit 2026",
-            "description": "[MONEYCONTROL] Meanwhile, PM Modi, on Tuesday, outlined India\u2019s broader vision for artificial intelligence under the theme \u201cSarvajan Hitay, Sarvajan Sukhaye\u201d.",
-            "url": "https://www.moneycontrol.com/news/business/pm-modi-meets-google-ceo-sundar-pichai-at-india-ai-impact-summit-2026-13833406.html"
+            "title": "Robotic dog snafu: Galgotias asked to vacate stall at AI Summit Expo",
+            "description": "[MALAYALA MANORAMA] The institution expressed that its faculty and students were deeply pained by the propaganda campaign against them..Galgotias University AI robot controversy, AI Summit Expo robotic dog, AI...",
+            "url": "https://www.onmanorama.com/news/india/2026/02/18/india-ai-expo-summit-robotic-dog-snafu-row-and-galgotia-university.html"
         },
         {
-            "title": "AI transforming farming, says Maha official; cites smart cow necklaces, satellite sugar tests",
-            "description": "[THE ECONOMIC TIMES] Artificial intelligence is already transforming agriculture for millions of smallholder farmers. Innovations like smart necklaces for cows in Kashmir detect infections early. Satellites accurately...",
-            "url": "https://economictimes.indiatimes.com/small-biz/security-tech/technology/ai-transforming-farming-says-maha-official-cites-smart-cow-necklaces-satellite-sugar-tests/articleshow/128495556.cms"
+            "title": "Nations, Companies, Individuals: Sovereignty In The Time Of AI",
+            "description": "[NDTV.COM] At NDTV's Ind.ai Summit, four prominent business leaders and investors from the world of Artificial Intelligence dissected sovereignty for an AI-driven world, urging India to rethink control beyond...",
+            "url": "https://www.ndtv.com/india-news/nations-companies-individuals-sovereignty-in-the-time-of-ai-11052758"
         },
         {
-            "title": "AI and the Workforce: Tech\u2019s \u2018culture reset\u2019 is now often about AI",
-            "description": "[THE ECONOMIC TIMES] Artificial intelligence is changing how companies operate. Many businesses are now rethinking their staffing needs. AI is automating routine tasks, leading to fewer jobs in some areas. Companies are...",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/artificial-intelligence-big-tech-job-cuts-culture-reset-it-services-ai-takeover-amazon-ibm-openai-meta/articleshow/128493644.cms"
+            "title": "Why AI data centres might push the PlayStation 6 launch to 2029",
+            "description": "[THE INDIAN EXPRESS] A sharp rise in demand for memory chips, driven largely by artificial intelligence, has left console makers facing higher costs and tighter supply.",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/why-ai-data-centres-might-push-the-playstation-6-launch-to-2029-10538470/"
         },
         {
-            "title": "Q&A | 'We Are Looking At AI Only As A Tool To Support Our Editing Community': Wikipedia's Jimmy Wales",
-            "description": "[NEWS18] In an interview, Wikipedia co-founder Jimmy Wales discusses artificial intelligence, misinformation risks, open-source innovation, and the future of human-led knowledge systems.",
-            "url": "https://www.news18.com/business/economy/qa-we-are-looking-at-ai-only-as-a-tool-to-support-our-editing-community-wikipedias-jimmy-wales-ws-cl-9911649.html"
+            "title": "Biker killed, one injured as motorcycles collide with truck in Kasaragod",
+            "description": "[MALAYALA MANORAMA] Kasaragod accident details are emerging after a tragic collision on NH 66 near Kumbla. A 23-year-old motorcyclist was killed and his friend seriously.Kasaragod accident, motorcycle collision...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/18/kasaragod-accident-nh66-biker-injured.html"
         },
         {
-            "title": "Why Manu Chopra's AI Startup Karya Pays Rs 450 An Hour To Villagers",
-            "description": "[NDTV.COM] A Stanford graduate, Chopra launched Karya in 2021 with an aim to make artificial intelligence work for everyone and not just English speakers. He wanted AI tools to understand local languages so...",
-            "url": "https://www.ndtv.com/india-news/ndtv-ai-summit-2026-why-manu-chopras-ai-startup-karya-pays-rs-450-an-hour-to-villagers-11052268"
+            "title": "SC verdict on differently abled quota in NSS schools: Kerala Govt to regularise over 20,000 teachers on daily wage",
+            "description": "[MALAYALA MANORAMA] The government has also directed district-level education department officers to take immediate action to appoint eligible candidates to vacant posts.Kerala aided school appointments, differently...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/18/differently-abled-quota-in-schools-temporary-staff-to-get-appointment-in-kerala.html"
         },
         {
-            "title": "California builds AI oversight unit and presses on xAI investigation",
-            "description": "[THE HINDU] California Attorney General \u200cRob Bonta is building an artificial intelligence accountability program as \u200bhis office probes Elon Musk\u2019s xAI over the generation \u2060of non-consensual sexually explicit...",
-            "url": "https://www.thehindu.com/sci-tech/technology/california-builds-ai-oversight-unit-and-presses-on-xai-investigation/article70645823.ece"
+            "title": "India energy stack can be India's gift to the world, says ISA Director General",
+            "description": "[THE TRIBUNE] The convergence of artificial intelligence and clean energy is set to redefine the global power landscape, with India's digital innovations positioned as a primary driver for decentralised solar...",
+            "url": "https://www.tribuneindia.com/news/business/india-energy-stack-can-be-indias-gift-to-the-world-says-isa-director-general/"
         },
         {
-            "title": "How Articul8 CEO Arun Subramaniyan Moved From Aerospace To Artificial Intelligence",
-            "description": "[NDTV.COM] Arun Subramaniyan previously served as Vice President of Cloud and AI, Strategy and Execution at Intel Corporation.",
-            "url": "https://www.ndtv.com/india-news/ndtv-ai-summit-how-articul8-ceo-arun-subramaniyan-moved-from-aerospace-to-artificial-intelligence-11052262"
+            "title": "India AI Impact Summit: Tech leaders call for inclusive, responsible AI",
+            "description": "[LIVEMINT] Leaders from across the globe underscored the need for equitable, collaborative and responsible development of artificial intelligence (AI) at the India AI Impact Summit, highlighting education...",
+            "url": "https://www.livemint.com/technology/india-ai-impact-summit-tech-leaders-call-for-inclusive-responsible-ai-11771401940217.html"
         },
         {
-            "title": "stack AI strategy to compete in global tech race: Report",
-            "description": "[THE TRIBUNE] India has unveiled an ambitious, full-stack artificial intelligence roadmap that positions the country as a serious contender in the next phase of the global technology race, with parallel progress...",
-            "url": "https://www.tribuneindia.com/news/business/india-charts-full-stack-ai-strategy-to-compete-in-global-tech-race-report/"
+            "title": "When an apology sounds too perfect: A New Zealand judge questions AI-written remorse",
+            "description": "[MONEYCONTROL] In a Christchurch courtroom, neatly phrased apology letters prompted a judge to ask whether remorse drafted by artificial intelligence can ever feel real.",
+            "url": "https://www.moneycontrol.com/world/when-an-apology-sounds-too-perfect-a-new-zealand-judge-questions-ai-written-remorse-article-13833652.html"
         }
     ]
 }
