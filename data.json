@@ -1,20 +1,15 @@
 {
-    "updated": "2026-02-18 12:56:53 UTC",
+    "updated": "2026-02-18 14:41:10 UTC",
     "news": [
-        {
-            "title": "Everything You Need to Know About How Python Manages Memory",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; In languages like C, you manually allocate and free memory.",
-            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-how-python-manages-memory/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Model Deployment with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; If you\u2019ve trained a machine learning model, a common question comes up: \u201cHow do we actually use it?\u201d This is where many machine learning practitioners get stuck.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-model-deployment-with-fastapi/"
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -32,14 +27,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "The 2026 Time Series Toolkit: 5 Foundation Models for Autonomous Forecasting",
-            "description": "[MACHINELEARNINGMASTERY] Most forecasting work involves building custom models for each dataset \u2014 fit an ARIMA here, tune an LSTM there, wrestle with <a href=\"https://facebook.",
-            "url": "https://machinelearningmastery.com/the-2026-time-series-toolkit-5-foundation-models-for-autonomous-forecasting/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+        },
+        {
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -52,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 5 Agentic AI Website Builders (That Actually Ship)",
-            "description": "[MACHINELEARNINGMASTERY] I have been building a payment platform using vibe coding, and I do not have a frontend background.",
-            "url": "https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
+        },
+        {
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -67,64 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Data Augmentation for Machine Learning",
-            "description": "[MACHINELEARNINGMASTERY] Suppose you\u2019ve built your machine learning model, run the experiments, and stared at the results wondering what went wrong.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-data-augmentation-for-machine-learning/"
-        },
-        {
             "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
             "description": "[BAIR] Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the...",
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "India\u2019s chance to create AI\u2019s third way: Mozilla Foundation president Mark Surman",
-            "description": "[THE ECONOMIC TIMES] There is a huge opportunity for countries like India to step forward and be champions in artificial intelligence by investing in open source and enabling the creation of a third way of AI that is...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-chance-to-create-ais-third-way-mozilla-foundation-president-mark-surman/articleshow/128473609.cms"
+            "title": "CHAT and WTAI: Two AI ETFs Offering High Dividend Yields",
+            "description": "[MARKETS INSIDER] Artificial intelligence (AI) has become one of the key themes in the market, but not all AI ETFs are built the same. While many focus mainly on ...",
+            "url": "https://markets.businessinsider.com/news/stocks/chat-and-wtai-two-ai-etfs-offering-high-dividend-yields-1035837867"
         },
         {
-            "title": "'No opportunity gap in AI, only execution risk': Infosys chairman Nandan Nilekani",
-            "description": "[THE ECONOMIC TIMES] Artificial intelligence does not present any opportunity gap and the real question is how businesses are using the opportunity, Infosys chairman Nandan Nilekani said, as he kicked off the IT firm\u2019s...",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/no-opportunity-gap-in-ai-only-execution-risk-infosys-chairman-nandan-nilekani/articleshow/128475186.cms"
+            "title": "India among key hubs for AI innovation, company deepening India partnerships: Nvidia",
+            "description": "[THE ECONOMIC TIMES] Nvidia's diversity of partnerships is critical as AI is not a single product, nor a lone one-off breakthrough, he said, likening Artificial Intelligence to a five-layer cake spanning energy (as the...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/india-among-key-hubs-for-ai-innovation-company-deepening-india-partnerships-nvidia/articleshow/128488604.cms"
         },
         {
-            "title": "India needs an AI creation metric to weigh progress, says Kore.ai founder Raj Koneru",
-            "description": "[THE ECONOMIC TIMES] India needs to start measuring how much artificial intelligence it creates, not just how many data centres it builds or how much AI it consumes, Raj Koneru, founder and CEO of Kore.ai, said on...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-needs-an-ai-creation-metric-to-weigh-progress-says-kore-ai-founder-raj-koneru/articleshow/128476189.cms"
+            "title": "Intel Looks for \u201cOne in Two\u201d PCs to be AI-Driven; Intel Stock (NASDAQ:INTC) Slips Regardless",
+            "description": "[MARKETS INSIDER] The notion of an artificial intelligence (AI) PC has caught some imaginations, but has not made a lot of headway in the market. But chip stock I...",
+            "url": "https://markets.businessinsider.com/news/stocks/intel-looks-for-one-in-two-pcs-to-be-ai-driven-intel-stock-nasdaq-intc-slips-regardless-1035839245"
         },
         {
-            "title": "Nvidia to sell Meta millions of chips in multiyear deal",
-            "description": "[THE STAR] SAN FRANCISCO, Feb 17 (Reuters) - Nvidia \u2060on Tuesday said it has signed a multiyear deal to sell Meta \u2060Platforms millions of its current and future artificial intelligence chips, including \u200ccentral...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/18/nvidia-to-sell-meta-millions-of-chips-in-multiyear-deal-"
+            "title": "Asia stocks rise despite lingering AI worries, oil down after US-Iran talks",
+            "description": "[REUTERS] Asian stocks pushed higher on Wednesday despite the renewed artificial intelligence worries gripping international markets, while oil prices were under pressure after Iran touted progress in nuclear...",
+            "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-02-18/"
         },
         {
-            "title": "Fed must dig deep on AI impact to make right rate calls ahead, Daly says",
-            "description": "[THE STAR] Feb 17 (Reuters) - The \u2060Federal Reserve must dig deep on the \u2060data to assess whether artificial intelligence is \u200cboosting productivity growth and enabling faster economic growth without igniting...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/18/fed-must-dig-deep-on-ai-impact-to-make-right-rate-calls-ahead-daly-says-"
+            "title": "Asia stocks rise despite lingering AI worries, oil down after US-Iran talks",
+            "description": "[MARKETSCREENER] Asian stocks pushed higher on Wednesday despite the renewed artificial intelligence worries gripping international markets, while oil prices were under pressure after Iran touted progress in...",
+            "url": "https://www.marketscreener.com/news/asia-stocks-rise-despite-lingering-ai-worries-oil-down-after-us-iran-talks-ce7e5dd9d18cf32d"
         },
         {
-            "title": "Only 30 pc professionals in AI are women: UN Women calls for inclusive design",
-            "description": "[THE HITAVADA] new delhi : women account for just 30 per cent of ai professionals worldwide and hold only 16 per cent of ai research roles, un women said on tuesday, calling for greater female participation in...",
-            "url": "https://www.thehitavada.com/Encyc/2026/2/18/only-30-pc-professionals-in-ai-are-women-un-women-calls-for-inclusive-design-.html"
+            "title": "5 Smart Ways to Diversify Your Portfolio in 2026",
+            "description": "[WDIV CLICKONDETROIT] Portfolio diversification might sound like a chore, but it\u2019s worth the effort in 2026, given how dominant the artificial intelligence trade was last year.",
+            "url": "https://www.clickondetroit.com/news/2026/02/18/5-smart-ways-to-diversify-your-portfolio-in-2026/"
         },
         {
-            "title": "AI will power India\u2019s journey to developed nation, says Pradhan",
-            "description": "[THE HITAVADA] new delhi : union education minister dharmendra pradhan on tuesday urged india\u2019s youth to harness the full potential of artificial intelligence (ai), asserting that the technology will play a pivotal...",
-            "url": "https://www.thehitavada.com/Encyc/2026/2/18/ai-will-power-indias-journey-to-developed-nation-says-pradhan.html"
+            "title": "Who are the architects of AI, and what are the ties that bind them?",
+            "description": "[THE INDIAN EXPRESS] The world\u2019s most consequential artificial intelligence research is being conducted by a strikingly small circle of scientists who studied mostly under the same mentors, taught in the same rooms and...",
+            "url": "https://indianexpress.com/article/explained/who-are-the-architects-of-ai-and-what-are-the-ties-that-bind-them-10537737/"
         },
         {
-            "title": "Trading Day: AI disruption, US-Iran nuclear talks, rate cut bets keep investors on their toes",
-            "description": "[REUTERS] Wall Street stocks see-sawed to nominal gains on Tuesday as investors juggled ongoing concerns over spending on artificial intelligence and the potential economic disruptions AI may bring, with...",
-            "url": "https://www.reuters.com/markets/wealth/global-markets-trading-day-2026-02-17/"
+            "title": "Four deaths in Idukki house fire: Case unsolved even after 8 months, natives to resume protest",
+            "description": "[MALAYALA MANORAMA] Chemical analysis detected traces of a substance believed to be used by the Forest Department, further deepening the mystery..Idukki house fire mystery, Kombodinjhal fire investigation, unsolved...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/18/four-member-family-killed-in-idukki-house-fire-police-fail-to-solve-case.html"
         },
         {
-            "title": "Trading Day: AI disruption, US-Iran nuclear talks, rate cut bets keep investors on their toes",
-            "description": "[MARKETSCREENER] Wall Street stocks see-sawed to nominal gains on Tuesday as investors juggled ongoing concerns over spending on artificial intelligence and the potential economic disruptions AI may bring, with...",
-            "url": "https://www.marketscreener.com/news/trading-day-ai-disruption-us-iran-nuclear-talks-rate-cut-bets-keep-investors-on-their-toes-ce7e5dd9de8cf724"
+            "title": "AI Impact Summit 2026: Can Artificial Intelligence Democratise Creativity Without Undermining Artists?",
+            "description": "[OUTLOOK INDIA] Panelists call for clearer legal frameworks around fair use, consent and remuneration, urging policy-makers to treat AI as a collective project shaped by ethical and economic accountability.",
+            "url": "https://www.outlookindia.com/national/ai-impact-summit-2026-can-artificial-intelligence-democratise-creativity-without-undermining-artists"
         },
         {
-            "title": "Andrew Yang Warns \u2018Millions\u2019 of Americans Could Lose Jobs This Year",
-            "description": "[NEWSWEEK] Yang said artificial intelligence will continue to replace white collar workers.",
-            "url": "https://www.newsweek.com/andrew-yang-warns-millions-of-americans-could-lose-jobs-this-year-11538973"
+            "title": "California builds AI oversight unit and presses on xAI investigation",
+            "description": "[THE STAR] SAN FRANCISCO, Feb 17 (Reuters) - California Attorney General Rob Bonta is building an artificial \u2060intelligence accountability program as his office probes Elon Musk's xAI over the generation of...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/18/california-builds-ai-oversight-unit-and-presses-on-xai-investigation"
         }
     ]
 }
