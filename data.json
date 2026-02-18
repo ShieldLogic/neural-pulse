@@ -1,20 +1,15 @@
 {
-    "updated": "2026-02-18 01:54:46 UTC",
+    "updated": "2026-02-18 04:20:00 UTC",
     "news": [
         {
-            "title": "Everything You Need to Know About How Python Manages Memory",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; In languages like C, you manually allocate and free memory.",
-            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-how-python-manages-memory/"
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
         },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
-        },
-        {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Model Deployment with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; If you\u2019ve trained a machine learning model, a common question comes up: \u201cHow do we actually use it?\u201d This is where many machine learning practitioners get stuck.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-model-deployment-with-fastapi/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -27,6 +22,11 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
+        },
+        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
@@ -37,9 +37,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "The 2026 Time Series Toolkit: 5 Foundation Models for Autonomous Forecasting",
-            "description": "[MACHINELEARNINGMASTERY] Most forecasting work involves building custom models for each dataset \u2014 fit an ARIMA here, tune an LSTM there, wrestle with <a href=\"https://facebook.",
-            "url": "https://machinelearningmastery.com/the-2026-time-series-toolkit-5-foundation-models-for-autonomous-forecasting/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -52,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 5 Agentic AI Website Builders (That Actually Ship)",
-            "description": "[MACHINELEARNINGMASTERY] I have been building a payment platform using vibe coding, and I do not have a frontend background.",
-            "url": "https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/"
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
         },
         {
             "title": "How AI trained on birds is surfacing underwater mysteries",
@@ -62,14 +62,14 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "The Complete Guide to Data Augmentation for Machine Learning",
-            "description": "[MACHINELEARNINGMASTERY] Suppose you\u2019ve built your machine learning model, run the experiments, and stared at the results wondering what went wrong.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-data-augmentation-for-machine-learning/"
         },
         {
             "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "AI Already Reshaping India's Wars: Strategic Forces Commander To NDTV",
-            "description": "[NDTV.COM] Artificial intelligence is no longer a futuristic buzzword for India's armed forces but a present-day operational reality, Lieutenant General Dinesh Singh Rana, Commander-in-Chief of the Strategic...",
-            "url": "https://www.ndtv.com/world-news/ai-impact-summit-2026-ai-already-reshaping-indias-wars-strategic-forces-commander-to-ndtv-11031758"
+            "title": "India's Adani to invest $100 billion in AI-ready data centers by 2035",
+            "description": "[THE MANILA TIMES] ADANI Enterprises said on Tuesday that the group will invest $100 billion to build renewable energy-powered artificial intelligence (AI)-ready data centers by 2035, as it seeks to create the world\u2019s...",
+            "url": "https://www.manilatimes.net/2026/02/18/business/foreign-business/indias-adani-to-invest-100-billion-in-ai-ready-data-centers-by-2035/2279282"
         },
         {
-            "title": "Zimbabwe and rain in Lanka say goodbye to Australia from T20 World Cup",
-            "description": "[MALAYALA MANORAMA] Australia crashed out, sending Zimbabwe through to the Super Eight stage of the T20 World Cup..Zimbabwe T20 World Cup, T20 World Cup Super Eight, Zimbabwe vs Australia T20, cricket World Cup upset,...",
-            "url": "https://www.onmanorama.com/sports/cricket/2026/02/17/t20-world-cup-zimbabwe-enter-super-eight-australia-crash-out.html"
+            "title": "Infosys Partners With Anthropic To Develop, Deploy AI Solutions",
+            "description": "[NDTV.COM] Infosys on Tuesday announced a strategic collaboration with American artificial intelligence company Anthropic to develop and deploy advanced enterprise AI solutions for companies.",
+            "url": "https://www.ndtv.com/india-news/infosys-partners-with-anthropic-to-develop-deploy-ai-solutions-11049004"
         },
         {
-            "title": "\u2018Not just consumption, but creation\u2019: PM Modi says India to become a global AI leader",
-            "description": "[FIRSTPOST] PM Modi on Tuesday said India must become a global leader in artificial intelligence, stressing that the country should move beyond being just a consumer of technology to creating advanced AI...",
-            "url": "https://www.firstpost.com/world/not-just-consumption-but-creation-pm-modi-says-india-to-become-a-global-ai-leader-13980864.html"
+            "title": "4 vanishing IT jobs and 5 fastest growing roles: Infosys' Nandan Nilekani explains how to reskill amid AI-focused hiring trends",
+            "description": "[THE ECONOMIC TIMES] At Infosys Investor Day 2026, Infosys co-founder and chairman Nandan Nilekani said artificial intelligence is fundamentally reshaping the IT workforce. He explained that writing code will no longer...",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/4-vanishing-it-jobs-and-5-fastest-growing-roles-infosys-nandan-nilekani-explains-how-to-reskill-amid-ai-focused-hiring-trends/articleshow/128471079.cms"
         },
         {
-            "title": "Reliance scouts for frontier AI engineering talent at AI Summit to build for Bharat",
-            "description": "[THE TRIBUNE] Reliance is scouting for engineering talent at the India AI Summit 2026 as the company looks to expand its workforce dedicated to building frontier artificial intelligence models. The recruitment...",
-            "url": "https://www.tribuneindia.com/news/business/reliance-scouts-for-frontier-ai-engineering-talent-at-ai-summit-to-build-for-bharat/"
+            "title": "PM Modi makes a pitch for democratisation of artificial intelligence",
+            "description": "[BUSINESS STANDARD] PM says India should be among the top three AI superpowers, not just in consumption, but in creation as well",
+            "url": "https://www.business-standard.com/technology/tech-news/pm-pushes-sovereign-inclusive-ai-vision-warns-of-bias-and-global-risks-126021701381_1.html"
         },
         {
-            "title": "Massive fire engulfs Jayalakshmi Silks in Kozhikode, no casualties",
-            "description": "[MALAYALA MANORAMA] Traffic curbs imposed on Kallayi road..Kozhikode fire, Jayalakshmi Silks fire, Palayam fire, textile showroom fire, Kerala fire news, fire in Kozhikode today, Jayalakshmi Silks Palayam, fire safety...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/17/fire-in-kozhikode-jayalakshmi-silks-rescue-operation-underway-live.html"
+            "title": "Apple's Recent Sell-off, AI Worries Unwarranted, Wedbush Securities Says",
+            "description": "[MARKETSCREENER] Apple's sell-off in recent weeks and worries over its ability to execute on its artificial intelligence strategy are unwarranted, Wedbush Securities said in a note Tuesday. The company still...",
+            "url": "https://www.marketscreener.com/news/apple-s-recent-sell-off-ai-worries-unwarranted-wedbush-securities-says-ce7e5dd9db8af52d"
         },
         {
-            "title": "Niti Aayog member flags AI as key to healthcare overhaul in India",
-            "description": "[THE ECONOMIC TIMES] Artificial Intelligence offers a significant chance to reshape India's healthcare system. It can speed up progress towards universal health coverage. AI integration with digital health infrastructure...",
-            "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/niti-aayog-member-flags-ai-as-key-to-healthcare-overhaul-in-india/articleshow/128466712.cms"
+            "title": "Alaska Communications and SurePath AI Bring Robust GenAI Governance Capabilities with an Industry-Leading Focus on Safety and Security",
+            "description": "[BUSINESS WIRE] As generative artificial intelligence (GenAI) increasingly becomes an essential tool for businesses and enterprises, so does the need for safeguards around d...",
+            "url": "https://www.businesswire.com/news/home/20260217337708/en/Alaska-Communications-and-SurePath-AI-Bring-Robust-GenAI-Governance-Capabilities-with-an-Industry-Leading-Focus-on-Safety-and-Security"
         },
         {
-            "title": "Top Tech News Today, February 17, 2026",
-            "description": "[TECHSTARTUPS.COM] It\u2019s Tuesday, February 17, 2026, and here are the top tech stories making waves today \u2014 from AI and startups to regulation and Big Tech. Artificial intelligence is redrawing the map of global power \u2014...",
-            "url": "https://techstartups.com/2026/02/17/top-tech-news-today-february-17-2026/"
+            "title": "Mumbai News: KC College Hosts 12th International Media Summit On Changing Media Ecologies",
+            "description": "[FREE PRESS JOURNAL] The summit was organised around the theme \u2018Strategic Communication for Changing Media Ecologies\u2019 and examined how journalism and strategic communication are being reshaped by misinformation,...",
+            "url": "https://www.freepressjournal.in/education/mumbai-news-kc-college-hosts-12th-international-media-summit-on-changing-media-ecologies"
         },
         {
-            "title": "India positions itself as global AI leader with 'people, planet, progress' focus",
-            "description": "[LOKMAT TIMES] India positions itself as global AI leader with 'people, planet, progress' focus - New Delhi, Feb 17 As Artificial Intelligence (AI) reshapes economies and societies worldwide, India is positioning...",
-            "url": "https://www.lokmattimes.com/technology/india-positions-itself-as-global-ai-leader-with-people-planet-progress-focus-1/"
+            "title": "India\u2019s GCCs become global AI hubs, drive demand for specialised skills",
+            "description": "[THE ECONOMIC TIMES] India's global capability centres are now deploying artificial intelligence at scale. This shift is creating new, specialized roles that blend technology, product, and strategy. Demand for these...",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indias-gccs-become-global-ai-hubs-drive-demand-for-specialised-skills/articleshow/128471891.cms"
         },
         {
-            "title": "India positions itself as global AI leader with 'people, planet, progress' focus",
-            "description": "[LOKMAT TIMES] India positions itself as global AI leader with 'people, planet, progress' focus - New Delhi, Feb 17 As Artificial Intelligence (AI) reshapes economies and societies worldwide, India is positioning...",
-            "url": "https://www.lokmattimes.com/business/india-positions-itself-as-global-ai-leader-with-people-planet-progress-focus/"
+            "title": "AI will drive down filmmaking costs and usher in new talent, says filmmaker Shekhar Kapur",
+            "description": "[LIVEMINT] Filmmaker Shekhar Kapur says artificial intelligence will slash filmmaking costs and empower a new generation of storytellers. Speaking at the India AI Impact Summit 2026, he called AI a democratic...",
+            "url": "https://www.livemint.com/technology/tech-news/ai-will-drive-down-filmmaking-costs-and-usher-in-new-talent-says-filmmaker-shekhar-kapur-11771343164920.html"
         },
         {
-            "title": "'Absolutely uncalled for': SC expresses concern over growing trend of lawyers using AI to file pleas",
-            "description": "[THEPRINT] New Delhi, Feb 17 (PTI) As India hosts the world\u2019s largest artificial intelligence conclave, the AI Impact Summit-2026, to make a big pitch for the new technology, the Supreme Court on Tuesday...",
-            "url": "https://theprint.in/india/absolutely-uncalled-for-sc-expresses-concern-over-growing-trend-of-lawyers-using-ai-to-file-pleas/2857038/"
+            "title": "'They will die like Hitler died,' J&K former CM Farooq Abdullah roars against BJP",
+            "description": "[MALAYALA MANORAMA] He reached Kerala to address the concluding session of the three-day Vision 2031 seminar organised by Kerala Planning Board in Thiruvananthapuram..Farooq Abdullah, Jammu and Kashmir, BJP, war...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/17/former-jammu-and-kashmir-cm-in-kerala-slams-bjp-govt.html"
         }
     ]
 }
