@@ -1,15 +1,20 @@
 {
-    "updated": "2026-02-18 04:20:00 UTC",
+    "updated": "2026-02-18 06:57:30 UTC",
     "news": [
         {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+            "title": "Everything You Need to Know About How Python Manages Memory",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; In languages like C, you manually allocate and free memory.",
+            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-how-python-manages-memory/"
         },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
+        },
+        {
+            "title": "The Machine Learning Practitioner\u2019s Guide to Model Deployment with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; If you\u2019ve trained a machine learning model, a common question comes up: \u201cHow do we actually use it?\u201d This is where many machine learning practitioners get stuck.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-model-deployment-with-fastapi/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -22,11 +27,6 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
-        },
-        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
@@ -37,9 +37,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "The 2026 Time Series Toolkit: 5 Foundation Models for Autonomous Forecasting",
+            "description": "[MACHINELEARNINGMASTERY] Most forecasting work involves building custom models for each dataset \u2014 fit an ARIMA here, tune an LSTM there, wrestle with <a href=\"https://facebook.",
+            "url": "https://machinelearningmastery.com/the-2026-time-series-toolkit-5-foundation-models-for-autonomous-forecasting/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -52,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+            "title": "Top 5 Agentic AI Website Builders (That Actually Ship)",
+            "description": "[MACHINELEARNINGMASTERY] I have been building a payment platform using vibe coding, and I do not have a frontend background.",
+            "url": "https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/"
         },
         {
             "title": "How AI trained on birds is surfacing underwater mysteries",
@@ -62,14 +62,14 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "The Complete Guide to Data Augmentation for Machine Learning",
+            "description": "[MACHINELEARNINGMASTERY] Suppose you\u2019ve built your machine learning model, run the experiments, and stared at the results wondering what went wrong.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-data-augmentation-for-machine-learning/"
         },
         {
             "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "India's Adani to invest $100 billion in AI-ready data centers by 2035",
-            "description": "[THE MANILA TIMES] ADANI Enterprises said on Tuesday that the group will invest $100 billion to build renewable energy-powered artificial intelligence (AI)-ready data centers by 2035, as it seeks to create the world\u2019s...",
-            "url": "https://www.manilatimes.net/2026/02/18/business/foreign-business/indias-adani-to-invest-100-billion-in-ai-ready-data-centers-by-2035/2279282"
+            "title": "Private Software Companies Open Their Books Early to Calm Nerves",
+            "description": "[BLOOMBERG] A handful of software firms including McAfee have released their earnings ahead of schedule in a bid to convince lenders of their resilience to disruption from artificial intelligence.",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-17/private-software-companies-open-their-books-early-to-calm-nerves"
         },
         {
-            "title": "Infosys Partners With Anthropic To Develop, Deploy AI Solutions",
-            "description": "[NDTV.COM] Infosys on Tuesday announced a strategic collaboration with American artificial intelligence company Anthropic to develop and deploy advanced enterprise AI solutions for companies.",
-            "url": "https://www.ndtv.com/india-news/infosys-partners-with-anthropic-to-develop-deploy-ai-solutions-11049004"
+            "title": "Anthropic's Pentagon Talks Hit Surveillance and Weapons Snag",
+            "description": "[MARKETSCREENER] Anthropic PBC's talks about extending a contract with the Pentagon are being held up over additional protections the artificial intelligence company wants to put on its Claude tool, a person......",
+            "url": "https://www.marketscreener.com/news/anthropic-s-pentagon-talks-hit-surveillance-and-weapons-snag-ce7e5dd9dd8af725"
         },
         {
-            "title": "4 vanishing IT jobs and 5 fastest growing roles: Infosys' Nandan Nilekani explains how to reskill amid AI-focused hiring trends",
-            "description": "[THE ECONOMIC TIMES] At Infosys Investor Day 2026, Infosys co-founder and chairman Nandan Nilekani said artificial intelligence is fundamentally reshaping the IT workforce. He explained that writing code will no longer...",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/4-vanishing-it-jobs-and-5-fastest-growing-roles-infosys-nandan-nilekani-explains-how-to-reskill-amid-ai-focused-hiring-trends/articleshow/128471079.cms"
+            "title": "Pioneering India's Technological Future: Youth at the Helm",
+            "description": "[DEVDISCOURSE] Lieutenant Governor Manoj Sinha emphasizes the role of AI and machine learning in reshaping human civilization. Speaking at a hackathon in Jammu, he urges youth to lead India in the technology...",
+            "url": "https://www.devdiscourse.com/article/technology/3808653-pioneering-indias-technological-future-youth-at-the-helm"
         },
         {
-            "title": "PM Modi makes a pitch for democratisation of artificial intelligence",
-            "description": "[BUSINESS STANDARD] PM says India should be among the top three AI superpowers, not just in consumption, but in creation as well",
-            "url": "https://www.business-standard.com/technology/tech-news/pm-pushes-sovereign-inclusive-ai-vision-warns-of-bias-and-global-risks-126021701381_1.html"
+            "title": "Apple Ramps Up Development of AI-Powered Wearable Devices",
+            "description": "[MARKETSCREENER] Apple is ramping up development of three new artificial intelligence-powered wearable devices, Bloomberg said Tuesday, citing people with knowledge of the plans. The company is working on smart...",
+            "url": "https://www.marketscreener.com/news/apple-ramps-up-development-of-ai-powered-wearable-devices-ce7e5dd9dd88f124"
         },
         {
-            "title": "Apple's Recent Sell-off, AI Worries Unwarranted, Wedbush Securities Says",
-            "description": "[MARKETSCREENER] Apple's sell-off in recent weeks and worries over its ability to execute on its artificial intelligence strategy are unwarranted, Wedbush Securities said in a note Tuesday. The company still...",
-            "url": "https://www.marketscreener.com/news/apple-s-recent-sell-off-ai-worries-unwarranted-wedbush-securities-says-ce7e5dd9db8af52d"
+            "title": "SC alarmed as 'some lawyers using AI for drafting petitions'",
+            "description": "[THE ECONOMIC TIMES] The Supreme Court is noticing a worrying trend of lawyers using artificial intelligence to draft court petitions. Judges have encountered cases where AI tools have cited judgments and quotations that...",
+            "url": "https://economictimes.indiatimes.com/news/india/sc-alarmed-as-some-lawyers-using-ai-for-drafting-petitions/articleshow/128476516.cms"
         },
         {
-            "title": "Alaska Communications and SurePath AI Bring Robust GenAI Governance Capabilities with an Industry-Leading Focus on Safety and Security",
-            "description": "[BUSINESS WIRE] As generative artificial intelligence (GenAI) increasingly becomes an essential tool for businesses and enterprises, so does the need for safeguards around d...",
-            "url": "https://www.businesswire.com/news/home/20260217337708/en/Alaska-Communications-and-SurePath-AI-Bring-Robust-GenAI-Governance-Capabilities-with-an-Industry-Leading-Focus-on-Safety-and-Security"
+            "title": "Question of True Remorse When A.I. Helps Write Your Court Apology",
+            "description": "[THE NEW YORK TIMES] The use of artificial intelligence gave a New Zealand judge pause about the genuineness of the remorse expressed in the apology. It reflects a wider discussion about using A.I. for personal...",
+            "url": "https://www.nytimes.com/2026/02/17/world/asia/new-zealand-court-ai-apology.html"
         },
         {
-            "title": "Mumbai News: KC College Hosts 12th International Media Summit On Changing Media Ecologies",
-            "description": "[FREE PRESS JOURNAL] The summit was organised around the theme \u2018Strategic Communication for Changing Media Ecologies\u2019 and examined how journalism and strategic communication are being reshaped by misinformation,...",
-            "url": "https://www.freepressjournal.in/education/mumbai-news-kc-college-hosts-12th-international-media-summit-on-changing-media-ecologies"
+            "title": "Insilico Medicine and MSK collaborate to discover new drug targets for gastroesophageal malignancies",
+            "description": "[NEWS-MEDICAL.NET] Insilico Medicine (\"Insilico\", 3696.HK), a clinical-stage generative artificial intelligence (AI)-driven drug discovery company, and Memorial Sloan Kettering Cancer Center (MSK) have entered into a...",
+            "url": "https://www.news-medical.net/news/20260217/Insilico-Medicine-and-MSK-collaborate-to-discover-new-drug-targets-for-gastroesophageal-malignancies.aspx"
         },
         {
-            "title": "India\u2019s GCCs become global AI hubs, drive demand for specialised skills",
-            "description": "[THE ECONOMIC TIMES] India's global capability centres are now deploying artificial intelligence at scale. This shift is creating new, specialized roles that blend technology, product, and strategy. Demand for these...",
-            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indias-gccs-become-global-ai-hubs-drive-demand-for-specialised-skills/articleshow/128471891.cms"
+            "title": "At India Summit, AI That Weaves Sarees, Rides Bike, And Helps Your Doctor",
+            "description": "[NDTV.COM] If there's one thing that's evident from the India AI Impact Summit 2026, it's that artificial intelligence is no longer just a digital assistant living in our phones, it is moving into our physical...",
+            "url": "https://www.ndtv.com/india-news/at-india-summit-ai-that-weaves-sarees-rides-bike-and-helps-your-doctor-11050779"
         },
         {
-            "title": "AI will drive down filmmaking costs and usher in new talent, says filmmaker Shekhar Kapur",
-            "description": "[LIVEMINT] Filmmaker Shekhar Kapur says artificial intelligence will slash filmmaking costs and empower a new generation of storytellers. Speaking at the India AI Impact Summit 2026, he called AI a democratic...",
-            "url": "https://www.livemint.com/technology/tech-news/ai-will-drive-down-filmmaking-costs-and-usher-in-new-talent-says-filmmaker-shekhar-kapur-11771343164920.html"
+            "title": "Anthropic Says New AI Model Is Better at Using Computers",
+            "description": "[BLOOMBERG] Anthropic PBC is releasing a new artificial intelligence model that\u2019s intended to be better at using people\u2019s computers in increasingly complicated ways, building on the startup\u2019s efforts to make AI...",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-17/anthropic-says-new-ai-model-is-better-at-using-computers"
         },
         {
-            "title": "'They will die like Hitler died,' J&K former CM Farooq Abdullah roars against BJP",
-            "description": "[MALAYALA MANORAMA] He reached Kerala to address the concluding session of the three-day Vision 2031 seminar organised by Kerala Planning Board in Thiruvananthapuram..Farooq Abdullah, Jammu and Kashmir, BJP, war...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/17/former-jammu-and-kashmir-cm-in-kerala-slams-bjp-govt.html"
+            "title": "Apple Ramps Up Work on Glasses, Pendant and Camera AirPods for AI Era",
+            "description": "[BLOOMBERG] Apple Inc. is accelerating development of three new wearable devices as part of a shift toward artificial intelligence-powered hardware, a category also being pursued by OpenAI and Meta Platforms Inc.",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-17/apple-ramps-up-work-on-glasses-pendant-and-camera-airpods-for-ai-era"
         }
     ]
 }
