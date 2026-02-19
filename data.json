@@ -1,15 +1,20 @@
 {
-    "updated": "2026-02-19 01:53:32 UTC",
+    "updated": "2026-02-19 04:18:14 UTC",
     "news": [
+        {
+            "title": "Everything You Need to Know About How Python Manages Memory",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; In languages like C, you manually allocate and free memory.",
+            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-how-python-manages-memory/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
+            "title": "The Machine Learning Practitioner\u2019s Guide to Model Deployment with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; If you\u2019ve trained a machine learning model, a common question comes up: \u201cHow do we actually use it?\u201d This is where many machine learning practitioners get stuck.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-model-deployment-with-fastapi/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -27,24 +32,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
-        },
-        {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "The 2026 Time Series Toolkit: 5 Foundation Models for Autonomous Forecasting",
+            "description": "[MACHINELEARNINGMASTERY] Most forecasting work involves building custom models for each dataset \u2014 fit an ARIMA here, tune an LSTM there, wrestle with <a href=\"https://facebook.",
+            "url": "https://machinelearningmastery.com/the-2026-time-series-toolkit-5-foundation-models-for-autonomous-forecasting/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 5 Agentic AI Website Builders (That Actually Ship)",
+            "description": "[MACHINELEARNINGMASTERY] I have been building a payment platform using vibe coding, and I do not have a frontend background.",
+            "url": "https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
-        },
-        {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -72,59 +67,64 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
+            "title": "The Complete Guide to Data Augmentation for Machine Learning",
+            "description": "[MACHINELEARNINGMASTERY] Suppose you\u2019ve built your machine learning model, run the experiments, and stared at the results wondering what went wrong.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-data-augmentation-for-machine-learning/"
+        },
+        {
             "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
             "description": "[BAIR] Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the...",
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "From healthcare to road safety: How India is introducing AI into everyday living",
-            "description": "[FIRSTPOST] India is integrating artificial intelligence (AI) into everyday lives by bringing tools in healthcare, education and even road safety. As New Delhi hosts the AI Impact Summit 2026, we explore how the...",
-            "url": "https://www.firstpost.com/explainers/india-ai-healthcare-road-safety-education-13981287.html"
+            "title": "Beyond the FTA: AI emerging as new pillar of India-Europe relations",
+            "description": "[THEPRINT] New Delhi, Feb 18 (PTI) Prime Minister Narendra Modi and Spanish President Pedro Sanchez on Wednesday hailed artificial intelligence (AI) as a transformative force and underlined the need for closer...",
+            "url": "https://theprint.in/india/beyond-the-fta-ai-emerging-as-new-pillar-of-india-europe-relations/2858098/"
         },
         {
-            "title": "Data is the \u2018beacon of truth\u2019: AI leaders flag governance, localisation as India\u2019s defining challenge",
-            "description": "[FIRSTPOST] As India accelerates its artificial intelligence ambitions, industry leaders are warning that the country\u2019s long-term competitiveness will depend less on flashy models and more on the integrity of...",
-            "url": "https://www.firstpost.com/business/data-the-beacon-of-truth-ai-leaders-flag-governance-localisation-india-defining-challenge-13981174.html"
+            "title": "AI Rout Has Europe Looking to Old Economy IPOs for Revival",
+            "description": "[BLOOMBERG] A long-awaited recovery in European initial public offerings appears set to hinge on traditional sectors like defense and industrials for now, as investors rush to cut their exposure to anything in...",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-18/ai-rout-has-europe-looking-to-old-economy-ipos-for-revival"
         },
         {
-            "title": "US Business Spending Surge Indicates Economic Resilience",
-            "description": "[DEVDISCOURSE] U.S. business spending on capital goods rose significantly in December, driven by growth in the artificial intelligence sector. Despite tariffs hindering non-AI manufacturing, the sector is...",
-            "url": "https://www.devdiscourse.com/article/law-order/3809516-us-business-spending-surge-indicates-economic-resilience"
+            "title": "Crafting an AI strategy for PH",
+            "description": "[THE MANILA TIMES] THE message was clear on the recent news that Singapore\u2019s 2026 budget calls for a \u201cNational AI Strategy\u201c to transition from AI experimentation to full-scale economic integration: the use of...",
+            "url": "https://www.manilatimes.net/2026/02/19/business/top-business/crafting-an-ai-strategy-for-ph/2280417"
         },
         {
-            "title": "India has the talent, data and policy edge to lead in AI: Industry leaders",
-            "description": "[CNBC TV18] Archana Vemulapalli, VP - Global Sales at AMD said India must move from being only a source of human intelligence to becoming a hub for artificial intelligence infrastructure as well. She stressed...",
-            "url": "https://www.cnbctv18.com/technology/india-has-the-talent-data-and-policy-edge-to-lead-in-ai-industry-leaders-19853115.htm"
+            "title": "AI adoption already hitting Irish graduate jobs, finance department says",
+            "description": "[REUTERS] Early evidence suggests artificial intelligence is weakening employment opportunities in some parts of Ireland's technology-focused economy, particularly for young graduates, research by Ireland's...",
+            "url": "https://www.reuters.com/business/ai-adoption-already-hitting-irish-graduate-jobs-finance-department-says-2026-02-18/"
         },
         {
-            "title": "No place for Sanju even in a dead rubber against the Dutch, India to bat first",
-            "description": "[MALAYALA MANORAMA] India opted to bat against the Netherlands in their final Group A match in the T20 World Cup..India Netherlands T20 World Cup, India playing XI Netherlands, Abhishek Sharma batting order, Ishan...",
-            "url": "https://www.onmanorama.com/sports/cricket/2026/02/18/t20-world-cup-2026-india-vs-netherlands-live.html"
+            "title": "India and the world should build only on American AI stack: US AI advisor Sriram Krishnan",
+            "description": "[THE ECONOMIC TIMES] Krishnan, the White House senior policy advisor on artificial intelligence, said the US is aiming to become an \u2018easy haven\u2019 to do business. However, his remarks stand in contrast to the current...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-and-the-world-should-build-only-on-american-ai-stack-us-ai-advisor-sriram-krishnan/articleshow/128515700.cms"
         },
         {
-            "title": "Google\u2019s Sundar Pichai says India poised for \u201cextraordinary trajectory\u201d in AI as it unveils new initiatives",
-            "description": "[BUSINESS TODAY] During a panel discussion, Pichai said India could become a \u201cfull-stack player\u201d in artificial intelligence.",
-            "url": "https://www.businesstoday.in/tech-today/story/googles-sundar-pichai-says-india-poised-for-extraordinary-trajectory-in-ai-as-it-unveils-new-initiatives-516797-2026-02-18"
+            "title": "AI Disruption: Young Graduates in Ireland's Tech Economy Face Employment Challenges",
+            "description": "[DEVDISCOURSE] Research from Ireland's finance department indicates artificial intelligence is impacting employment opportunities in Ireland's tech-focused economy, particularly for young graduates. While...",
+            "url": "https://www.devdiscourse.com/article/science-environment/3809747-ai-disruption-young-graduates-in-irelands-tech-economy-face-employment-challenges"
         },
         {
-            "title": "AI Revolutionizes Loan Disbursement and Banking Efficiency",
-            "description": "[DEVDISCOURSE] Artificial Intelligence is dramatically reducing the time needed to process loans for MSMEs and saving significant work hours for banking professionals. BUSINESSNEXT, co-founded by Nishant Singh, is...",
-            "url": "https://www.devdiscourse.com/article/technology/3809472-ai-revolutionizes-loan-disbursement-and-banking-efficiency"
+            "title": "Indian professor's robot-dog claim at AI summit sparks uproar",
+            "description": "[THE MANILA TIMES] NEW DELHI \u2014 An Indian professor has falsely suggested that a Chinese-made robot dog displayed at a major artificial intelligence (AI) summit was developed by her university, prompting backlash in a...",
+            "url": "https://www.manilatimes.net/2026/02/19/world/asia-oceania/indian-professors-robot-dog-claim-at-ai-summit-sparks-uproar/2280241"
         },
         {
-            "title": "Machine learning algorithm predicts XRP price for March 1, 2026",
-            "description": "[FINBOLD] XRP price is riding a wave of renewed altcoin momentum, and machine learning algorithms suggests further upside potential by March.",
-            "url": "https://finbold.com/machine-learning-algorithm-predicts-xrp-price-for-march-1-2026/"
+            "title": "Humanoid robots as educational tools",
+            "description": "[THE MANILA TIMES] span style='font-family: Gilroy;'>TECHNOLOGY is reshaping industries, societies, work, leisure, and life itself. Until the recent past, artificial intelligence and robots were just an imaginative...",
+            "url": "https://www.manilatimes.net/2026/02/19/campus-press/humanoid-robots-as-educational-tools/2280157"
         },
         {
-            "title": "\"Namaste, India!\": Brazilian President Lula after his arrival in India",
-            "description": "[THE ECONOMIC TIMES] In a post on X after landing in India, President Lula said, \"Namaste, India! I've arrived for another visit with an important agenda: strengthening ties, deepening partnerships, and discussing the...",
-            "url": "https://economictimes.indiatimes.com/news/india/namaste-india-brazilian-president-lula-after-his-arrival-in-india/articleshow/128509522.cms"
+            "title": "AI \u2018arms race\u2019 risks human extinction - expert",
+            "description": "[THE MANILA TIMES] NEW DELHI \u2014 Tech CEOs are locked in an artificial intelligence \u201carms race\u201d that risks wiping out humanity, top computer science researcher Stuart Russell told Agence France-Presse on Tuesday, calling...",
+            "url": "https://www.manilatimes.net/2026/02/19/news/world/ai-arms-race-risks-human-extinction-expert/2280513"
         },
         {
-            "title": "A robotic dog made in China gets an Indian university kicked out of an AI summit",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] A private Indian university has been booted from a top artificial intelligence summit in New Delhi after one of its staffers displayed a a commercially available robotic dog made in China, claiming...",
-            "url": "https://www.ajc.com/news/2026/02/a-robotic-dog-made-in-china-gets-an-indian-university-kicked-out-of-an-ai-summit/"
+            "title": "Meta Begins $65 Million Election Push to Advance A.I. Agenda",
+            "description": "[THE NEW YORK TIMES] Meta\u2019s biggest election investment aims to prevent state legislation that it fears could inhibit artificial intelligence development. Its spending starts this week in Texas and Illinois.",
+            "url": "https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html"
         }
     ]
 }
