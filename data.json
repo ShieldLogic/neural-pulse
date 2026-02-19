@@ -1,6 +1,11 @@
 {
-    "updated": "2026-02-19 12:57:48 UTC",
+    "updated": "2026-02-19 14:43:36 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
         {
             "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
             "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
@@ -17,14 +22,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
+        },
+        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
-        },
-        {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -62,11 +67,6 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Survey: Kids use AI daily, but most don't know how it works",
-            "description": "[TIMES OF INDIA] India News: New Delhi: Generative artificial intelligence (GenAI) is fast becoming part of children's learning routines in India, but a deep misconception about w.",
-            "url": "https://timesofindia.indiatimes.com/india/survey-kids-use-ai-daily-but-most-dont-know-how-it-works/articleshow/128532960.cms"
+            "title": "AI Summit Delhi 2026 Live Updates: PM Modi to address opening ceremony as tech CEOs prep for roundtable talks",
+            "description": "[FIRSTPOST] As the India AI Impact Summit 2026 begins, Narendra Modi is expected to present India\u2019s roadmap for building responsible and inclusive artificial intelligence",
+            "url": "https://www.firstpost.com/india/ai-impact-summit-delhi-2026-live-updates-pm-modi-ambani-bill-gates-bharat-mandapam-niti-aayog-global-tech-leaders-pm-modi-to-address-opening-ceremony-as-tech-ceos-prep-for-roundtable-talks-liveblog-13981410.html"
         },
         {
-            "title": "Global Market Today | Asian stocks rise after tech boosts US equities",
-            "description": "[THE ECONOMIC TIMES] Asian stocks climbed for a second day, mirroring a rebound in US tech shares and strong economic data. Oil prices held onto recent gains, marking their largest increase since October. Investors are...",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-after-tech-boosts-us-equities/articleshow/128533022.cms"
+            "title": "Indian shares set to open flat after three sessions of gains",
+            "description": "[REUTERS] India's stock benchmarks are poised to open flat on Thursday, after three sessions of gains, with optimism over improving earnings outlook tempered by the uncertainty around the impact of artificial...",
+            "url": "https://www.reuters.com/world/india/indian-shares-set-open-flat-after-three-sessions-gains-2026-02-19/"
         },
         {
-            "title": "Need to maintain balance between innovation and regulation: Vaishnaw",
-            "description": "[TIMES OF INDIA] India News: New Delhi: Union IT minister Ashwini Vaishnaw on Wednesday underlined the need to strike a balance between development of artificial intelligence and .",
-            "url": "https://timesofindia.indiatimes.com/india/need-to-maintain-balance-between-innovation-and-regulation-vaishnaw/articleshow/128532825.cms"
+            "title": "'Some of the greatest computer scientists in US are of Indian origin,' Stanford Professor says at AI Summit 2026",
+            "description": "[THE ECONOMIC TIMES] India is set to retain its top tech talent and foster its own artificial intelligence capabilities. Surya Ganguli, a Stanford expert, highlights the significant contributions of Indian-origin...",
+            "url": "https://economictimes.indiatimes.com/news/india/some-of-the-greatest-computer-scientists-in-us-are-of-indian-origin-stanford-professor-says-at-ai-summit-2026/articleshow/128535237.cms"
         },
         {
-            "title": "Macron Questioned Free Speech 'Without Transparent Algorithms'",
-            "description": "[NEWSMAX] Speaking during his visit to India focusing on artificial intelligence cooperation and bilateral innovation, Macron said free speech is pure bulls**t if nobody knows how you are guided through this,",
-            "url": "https://www.newsmax.com/world/globaltalk/emmanuel-macron-france-free-speech/2026/02/18/id/1246627/"
+            "title": "Paid \u20b911 lakh, got no Brezza; Maruti dealer ordered to pay \u20b929 lakh to NRI after nine years",
+            "description": "[MALAYALA MANORAMA] Hamza Kunnil Moidu has successfully pursued a decade-long legal battle against Maruti Suzuki dealer Popular Vehicles and Services Ltd for failing to.Vitara Brezza consumer case, Maruti Suzuki dealer...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/19/vitara-brezza-consumer-case-nri-wins-compensation.html"
         },
         {
-            "title": "AI Summit 2026 India Live Updates: PM Modi To Lay Out India\u2019s AI Roadmap As Impact Summit Opens In New Delhi",
-            "description": "[NEWS18] AI Summit 2026 India Live Updates: As the India AI Impact Summit 2026 opens, PM Modi is set to outline the country\u2019s vision for responsible, inclusive artificial intelligence (AI).",
-            "url": "https://www.news18.com/india/ai-summit-2026-live-updates-new-delhi-pm-narendra-modi-niti-aayog-tech-leaders-day-4-liveblog-ws-l-9916413.html"
+            "title": "OpenAI Funding on Track to Top $100 Billion in Latest Round",
+            "description": "[BLOOMBERG] OpenAI is close to finalizing the first phase of a new funding round that is likely to bring in more than $100 billion, according to people familiar with the matter, a record-breaking financing deal...",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-19/openai-funding-on-track-to-top-100-billion-with-latest-round"
         },
         {
-            "title": "Tata Sons board set to clear N Chandrasekaran's third term, EGM next",
-            "description": "[THE ECONOMIC TIMES] Tata Trusts, the majority shareholder of the Tata Group holding company, had already passed a unanimous resolution in October last year to reappoint Chandrasekaran in an executive role. Separately,...",
-            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-sons-board-set-to-clear-n-chandrasekarans-third-term-egm-next/articleshow/128522813.cms"
+            "title": "Searching software for value as shares get pummeled. UBS found four stocks it likes",
+            "description": "[CNBC TV18] As software stocks are battered amid the artificial intelligence threat, UBS likes HubSpot, Microsoft, ServiceNow and Autodesk.",
+            "url": "https://www.cnbctv18.com/market/searching-software-for-value-as-shares-get-pummeled-ubs-found-four-stocks-it-likes-ws-l-19853337.htm"
         },
         {
-            "title": "AI must be a leap forward, not a divide: UN's Amandeep Singh Gill at India AI Impact Summit",
-            "description": "[THE ECONOMIC TIMES] Developing countries must treat artificial intelligence (AI) as a transformative opportunity while ensuring it does not deepen global inequalities, said Amandeep Singh Gill, under-secretary-general...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-must-be-a-leap-forward-not-a-divide-uns-amandeep-singh-gill-at-india-ai-impact-summit/articleshow/128518396.cms"
+            "title": "India is betting big on data centres but is this the best path to success with artificial intelligence?",
+            "description": "[LIVEMINT] A proliferation of data centres may serve some purposes, but it's unlikely to help India achieve AI sovereignty. That path is far steeper. We need homegrown AI chips, original models and actual...",
+            "url": "https://www.livemint.com/opinion/online-views/india-data-centres-artificial-intelligence-chips-semiconductors-nvidia-microsoft-llms-models-11771424244902.html"
         },
         {
-            "title": "AI must advance inclusion, not inequality: UN's Amandeep Singh Gill",
-            "description": "[THE ECONOMIC TIMES] Developing countries must treat artificial intelligence (AI) as a transformative opportunity while ensuring it does not deepen global inequalities, said Amandeep Singh Gill, under-secretary-general...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-must-advance-inclusion-not-inequality-uns-amandeep-singh-gill-at-india-ai-impact-summit/articleshow/128518396.cms"
+            "title": "PM Modi to address AI Summit today; French President, UN chief among key speakers",
+            "description": "[INDIA TODAY] Prime Minister Narendra Modi will participate in the India AI Impact Summit 2026 alongside global leaders. The summit aims to highlight India\u2019s growing influence in artificial intelligence and foster...",
+            "url": "https://www.indiatoday.in/india/story/ai-impact-summit-delhi-prime-minister-modi-address-global-leaders-emmanuel-macron-2870697-2026-02-19"
         },
         {
-            "title": "Google aiming to infuse AI at all levels in India: Sunder Pichai",
-            "description": "[THE HITAVADA] alphabet and google ceo sundar pichai on wednesday said google is infusing artificial intelligence (ai) at all levels in india to improve healthcare, support startups, agriculture and more. pichai...",
-            "url": "https://www.thehitavada.com/Encyc/2026/2/19/google-aiming-to-infuse-ai-at-all-levels-in-india-sunder-pichai.html"
+            "title": "Vizhinjam food poisoning: Two more fell ill after consuming food from same hotel",
+            "description": "[MALAYALA MANORAMA] Two people have sought treatment for suspected food poisoning from a Vizhinjam hotel where two individuals previously died from the same cause..food poisoning, Vizhinjam hotel food poisoning,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/19/vizhinjam-food-poisoning-hotel.html"
         },
         {
-            "title": "LG Ladakh visits several technology pavilions at Bharat Mandapam",
-            "description": "[DAILY EXCELSIOR] Excelsior Correspondent 19NEW DELHI, Feb 18: As India advances decisively on the path of becoming a global technology leader, Artificial Intelligence is emerging as a key enabler of inclusive growth,...",
-            "url": "https://www.dailyexcelsior.com/lg-ladakh-visits-several-technology-pavilions-at-bharat-mandapam/"
+            "title": "Bihar Introduces E-Voting At AI Impact Summit 2026",
+            "description": "[NDTV.COM] As the world progress is towards getting used to artificial intelligence in our day-to-day lives, the state of Bihar is also tightening its seat belts to walk hand-in-hand with AI.",
+            "url": "https://www.ndtv.com/india-news/bihar-introduces-e-voting-at-ai-impact-summit-2026-11056447"
         }
     ]
 }
