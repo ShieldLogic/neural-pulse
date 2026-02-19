@@ -1,20 +1,15 @@
 {
-    "updated": "2026-02-19 06:56:07 UTC",
+    "updated": "2026-02-19 08:39:16 UTC",
     "news": [
         {
-            "title": "Everything You Need to Know About How Python Manages Memory",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; In languages like C, you manually allocate and free memory.",
-            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-how-python-manages-memory/"
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
         },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
-        },
-        {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Model Deployment with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; If you\u2019ve trained a machine learning model, a common question comes up: \u201cHow do we actually use it?\u201d This is where many machine learning practitioners get stuck.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-model-deployment-with-fastapi/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -27,6 +22,11 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
+        },
+        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
@@ -37,9 +37,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "The 2026 Time Series Toolkit: 5 Foundation Models for Autonomous Forecasting",
-            "description": "[MACHINELEARNINGMASTERY] Most forecasting work involves building custom models for each dataset \u2014 fit an ARIMA here, tune an LSTM there, wrestle with <a href=\"https://facebook.",
-            "url": "https://machinelearningmastery.com/the-2026-time-series-toolkit-5-foundation-models-for-autonomous-forecasting/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -52,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 5 Agentic AI Website Builders (That Actually Ship)",
-            "description": "[MACHINELEARNINGMASTERY] I have been building a payment platform using vibe coding, and I do not have a frontend background.",
-            "url": "https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/"
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
         },
         {
             "title": "How AI trained on birds is surfacing underwater mysteries",
@@ -62,14 +62,14 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "The Complete Guide to Data Augmentation for Machine Learning",
-            "description": "[MACHINELEARNINGMASTERY] Suppose you\u2019ve built your machine learning model, run the experiments, and stared at the results wondering what went wrong.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-data-augmentation-for-machine-learning/"
         },
         {
             "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "India's engineering talent becoming AI talent",
-            "description": "[THE ECONOMIC TIMES] India's engineering talent is rapidly becoming AI talent. The nation contributes to all aspects of artificial intelligence, from data to hardware and algorithms. Innovation is key for the AI...",
-            "url": "https://economictimes.indiatimes.com/news/india/indias-engineering-talent-becoming-ai-talent/articleshow/128521970.cms"
+            "title": "How to Ensure Benefits of AI Reach Everyone? Greek PM Mitsotakis Voices His Concerns | Exclusive",
+            "description": "[TIMES NOW] Greek Prime Minister Kyriakos Mitsotakis, attending the AI Impact Summit in India, emphasised the transformative potential of Artificial Intelligence while recognising the significant risks...",
+            "url": "https://www.timesnownews.com/india/india-ai-summit-greece-pm-kyriakos-mitsotakis-on-how-benefits-of-ai-reach-everyone-exclusive-article-153640439"
         },
         {
-            "title": "The biggest challenge of AI is freeing and nourishing natural intelligence",
-            "description": "[THE ECONOMIC TIMES] Artificial Intelligence promises significant changes, potentially displacing many jobs. However, human creativity and innovation, termed Natural Intelligence, will be key to adapting. This innate...",
-            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/the-biggest-challenge-of-ai-is-freeing-and-nourishing-natural-intelligence/articleshow/128520486.cms"
+            "title": "Meta Launching $65 Million Political Spending Initiative to Advocate AI Development",
+            "description": "[MARKETSCREENER] Meta Platforms is launching a $65 million political spending initiative to support state-level politicians favoring artificial intelligence development, with efforts starting this week in Texas...",
+            "url": "https://www.marketscreener.com/news/meta-launching-65-million-political-spending-initiative-to-advocate-ai-development-ce7e5ddfd888ff23"
         },
         {
-            "title": "Rackspace Technology Shares Skyrocket on Partnership With Palantir",
-            "description": "[MARKETSCREENER] By Josh Beckerman Rackspace Technology shares surged 263% after the company announced a partnership with Palantir Technologies focusing on Palantir's Foundry and Artificial Intelligence Platform....",
-            "url": "https://www.marketscreener.com/news/rackspace-technology-shares-skyrocket-on-partnership-with-palantir-ce7e5ddfd98af022"
+            "title": "Rackspace, Palantir Partner to Deploy Foundry, AI Platform in Production",
+            "description": "[MARKETSCREENER] Rackspace Technology and Palantir Technologies said Wednesday they have formed a partnership to help enterprises deploy and operate Palantir's Foundry and Artificial Intelligence Platform in...",
+            "url": "https://www.marketscreener.com/news/rackspace-palantir-partner-to-deploy-foundry-ai-platform-in-production-ce7e5ddfd888f321"
         },
         {
-            "title": "US Under Secy Kimmitt leads ITA delegation to Bengaluru, holds talks on AI, tech cooperation ahead of participating in AI Impact Summit",
-            "description": "[THE TRIBUNE] US Under Secretary of Commerce for International Trade William Kimmitt led a delegation of officials from the International Trade Administration (ITA) to Bengaluru, holding discussions with leading...",
-            "url": "https://www.tribuneindia.com/news/world/us-under-secy-kimmitt-leads-ita-delegation-to-bengaluru-holds-talks-on-ai-tech-cooperation-ahead-of-participating-in-ai-impact-summit/"
+            "title": "Data center backlash driven over concerns about increases to electricity bills",
+            "description": "[BALTIMORE NEWS] The tech industry\u2019s push to rapidly expand its footprint across the U.S. with sprawling data centers to serve artificial intelligence is running into pushback.",
+            "url": "https://foxbaltimore.com/news/nation-world/data-center-backlash-driven-over-concerns-about-increases-to-electricity-bills-artificial-intelligence-politics-midterms-affordability"
         },
         {
-            "title": "Searching software for value amid the slump. Four stocks UBS likes",
-            "description": "[CNBC] As software stocks are battered amid the artificial intelligence threat, UBS likes HubSpot, Microsoft, ServiceNow and Autodesk.",
-            "url": "https://www.cnbc.com/2026/02/18/searching-software-for-value-amid-the-slump-four-stocks-ubs-likes.html"
+            "title": "Data center backlash driven over concerns about increases to electricity bills",
+            "description": "[WJLA] The tech industry\u2019s push to rapidly expand its footprint across the U.S. with sprawling data centers to serve artificial intelligence is running into pushback.",
+            "url": "https://wjla.com/news/nation-world/data-center-backlash-driven-over-concerns-about-increases-to-electricity-bills-artificial-intelligence-politics-midterms-affordability"
         },
         {
-            "title": "DeepSeek V4 release coming soon: What to expect from the Chinese AI star that rattled markets last year",
-            "description": "[THE ECONOMIC TIMES] DeepSeek V4 features and upgrades: Discover the upcoming release of DeepSeek V4, a major AI advancement set to reshape the industry as competition intensifies. Find out about its features, market...",
-            "url": "https://economictimes.indiatimes.com/news/international/us/deepseek-v4-release-coming-soon-what-to-expect-from-the-chinese-ai-star-that-rattled-markets-last-year/articleshow/128518468.cms"
+            "title": "Wall Street climbs, lifted by Nvidia and other AI stocks",
+            "description": "[MARKETSCREENER] Wall Street indexes rose on Wednesday, lifted by gains in Nvidia, Amazon and other technology-related heavyweights following recent jitters about artificial intelligence. Nvidia climbed...",
+            "url": "https://www.marketscreener.com/news/wall-street-climbs-lifted-by-nvidia-and-other-ai-stocks-ce7e5ddfd980ff21"
         },
         {
-            "title": "NDTV Summit: Experts On How AI Is Transforming Healthcare, Workforce",
-            "description": "[NDTV.COM] Artificial intelligence has a bright future in India and one of the areas where it can have prolific use is medicine, agreed a panel of experts at the NDTV AI Summit today.",
-            "url": "https://www.ndtv.com/india-news/ndtv-summit-experts-on-how-ai-is-transforming-healthcare-workforce-11055694"
+            "title": "I fear for dreams of the young in an AI world",
+            "description": "[THE SUNDAY TIMES] It\u2019s becoming clear almost anything can be replaced by artificial intelligence but at what cost to creativity and expertise?",
+            "url": "https://www.thetimes.com/comment/columnists/article/fear-dreams-young-ai-world-0xmnl2js8"
         },
         {
-            "title": "PM Modi Welcomes World Leaders at Bharat Mandapam During India AI Impact Summit 2026",
-            "description": "[REPUBLIC WORLD] Prime Minister Narendra Modi on Wednesday warmly welcomed several world leaders at Bharat Mandapam, as the global leaders in tech and policymaking on Artificial Intelligence (AI) converged in the...",
-            "url": "https://www.republicworld.com/india/pm-modi-welcomes-world-leaders-at-bharat-mandapam-during-india-ai-impact-summit-2026"
+            "title": "Consider developing AI system to curb road digging, manage utility disruptions in Mumbai, guardian minister Ashish Shelar tells BMC",
+            "description": "[TIMES OF INDIA] Mumbai: Consider developing an artificial intelligence (AI)-driven system to anticipate frequent digging of roads and repeated disruption of critical .",
+            "url": "https://timesofindia.indiatimes.com/city/mumbai/consider-developing-ai-system-to-curb-road-digging-manage-utility-disruptions-in-mumbai-guardian-minister-ashish-shelar-tells-bmc/articleshow/128520318.cms"
         },
         {
-            "title": "Bipartisan lawmakers introduce AI workforce training tax credit bill",
-            "description": "[FOX BUSINESS] Reps Josh Gottheimer and Mike Lawler introduced bipartisan legislation to create tax credits for companies training employees in artificial intelligence.",
-            "url": "https://www.foxbusiness.com/politics/bipartisan-bill-looks-prepare-workforce-ai-future-cant-left-behind"
+            "title": "Post-Earnings Palo Alto Selloff Overlooks Big Picture, Morgan Stanley Says",
+            "description": "[MARKETSCREENER] Palo Alto Networks missed expectations on some fronts in the second quarter, but the post-earnings selloff ignores growth prospects tied to artificial intelligence adoption, Morgan Stanley said in...",
+            "url": "https://www.marketscreener.com/news/post-earnings-palo-alto-selloff-overlooks-big-picture-morgan-stanley-says-ce7e5ddfd981ff23"
         },
         {
-            "title": "Heated exchange at Idukki Police Association meet over interruption of member's speech",
-            "description": "[MALAYALA MANORAMA] A verbal confrontation erupted during the Idukki district conference of the Police Association at Peermade..Police Association conference incident, Idukki police conference commotion, Peermade police...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/18/police-association-idukki-verbal-altercation.html"
+            "title": "AI analyzes ECG to predict ventricular remodeling in patients with repaired tetralogy of Fallot",
+            "description": "[NEWS-MEDICAL.NET] Researchers at the Mount Sinai Kravis Children's Heart Center led a multicenter effort to develop and validate an artificial intelligence (AI) tool that can analyze a standard electrocardiogram (ECG)...",
+            "url": "https://www.news-medical.net/news/20260218/AI-analyzes-ECG-to-predict-ventricular-remodeling-in-patients-with-repaired-tetralogy-of-Fallot.aspx"
         }
     ]
 }
