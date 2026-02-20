@@ -1,15 +1,10 @@
 {
-    "updated": "2026-02-20 01:49:24 UTC",
+    "updated": "2026-02-20 04:12:20 UTC",
     "news": [
         {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
-        },
-        {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+            "title": "Everything You Need to Know About How Python Manages Memory",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; In languages like C, you manually allocate and free memory.",
+            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-how-python-manages-memory/"
         },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
@@ -17,14 +12,14 @@
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
+            "title": "The Machine Learning Practitioner\u2019s Guide to Model Deployment with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; If you\u2019ve trained a machine learning model, a common question comes up: \u201cHow do we actually use it?\u201d This is where many machine learning practitioners get stuck.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-model-deployment-with-fastapi/"
+        },
+        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
-        },
-        {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -42,9 +37,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "The 2026 Time Series Toolkit: 5 Foundation Models for Autonomous Forecasting",
+            "description": "[MACHINELEARNINGMASTERY] Most forecasting work involves building custom models for each dataset \u2014 fit an ARIMA here, tune an LSTM there, wrestle with <a href=\"https://facebook.",
+            "url": "https://machinelearningmastery.com/the-2026-time-series-toolkit-5-foundation-models-for-autonomous-forecasting/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+            "title": "Top 5 Agentic AI Website Builders (That Actually Ship)",
+            "description": "[MACHINELEARNINGMASTERY] I have been building a payment platform using vibe coding, and I do not have a frontend background.",
+            "url": "https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/"
         },
         {
             "title": "How AI trained on birds is surfacing underwater mysteries",
@@ -72,59 +67,64 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
+            "title": "The Complete Guide to Data Augmentation for Machine Learning",
+            "description": "[MACHINELEARNINGMASTERY] Suppose you\u2019ve built your machine learning model, run the experiments, and stared at the results wondering what went wrong.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-data-augmentation-for-machine-learning/"
+        },
+        {
             "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
             "description": "[BAIR] Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the...",
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Sabarimala gold scam: 36 samples to be sent to NML Jamshedpur, final report by March 31",
-            "description": "[MALAYALA MANORAMA] The court also granted permission to the Investigation Officer to make appropriate requests to mobile service providers to obtain call records..Sabarimala gold scam, Kerala High Court, SIT...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/19/sabarimala-gold-scam-testing.html"
+            "title": "OpenAI's Altman at India summit: Regulation 'urgently' needed",
+            "description": "[THE MANILA TIMES] NEW DELHI \u2014 The world urgently needs to regulate artificial intelligence (AI), OpenAI head Sam Altman said on Thursday at a summit in New Delhi on the risks and opportunities posed by the...",
+            "url": "https://www.manilatimes.net/2026/02/20/world/asia-oceania/openais-altman-at-india-summit-regulation-urgently-needed/2281096"
         },
         {
-            "title": "Sarvam AI shifts focus to scale and monetisation after Vikram LLM launch",
-            "description": "[CNBC TV18] Pratyush Kumar, Co-Founder of Sarvam AI, said the company is focusing strongly on enterprise adoption, particularly in the BFSI sector where scale and technological maturity are high. He added that...",
-            "url": "https://www.cnbctv18.com/technology/sarvam-ai-shifts-focus-to-scale-and-monetisation-after-vikram-llm-launch-19853936.htm"
+            "title": "Two held with 41.5 gm MDMA at Muthanga Check Post in Wayanad",
+            "description": "[MALAYALA MANORAMA] Possession of more than 10 grams is treated as a commercial quantity and can invite a sentence of up to 20 years' imprisonment.MDMA bust, Sulthan Bathery excise officials, drug seizure Muthanga check...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/19/mdma-seized-youths-arrested-from-private-bus-in-muthanga-checkpost-wayanad.html"
         },
         {
-            "title": "Fractal launches Vaidya 2.0, outperforming leading frontier models on Healthcare AI Benchmarks",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Fractal (www.fractal.ai), a global provider of artificial intelligence (AI) to Fortune 500\u00ae companies, today announced the launch of Vaidya...",
-            "url": "https://www.prnewswire.co.uk/news-releases/fractal-launches-vaidya-2-0--outperforming-leading-frontier-models-on-healthcare-ai-benchmarks-302692627.html"
+            "title": "The AI jobs recession",
+            "description": "[THE MANILA TIMES] THE artificial intelligence (AI) job recession is here, and as Daniel Zhao, the chief economist at employment site Glassdoor, is quoted in a New York Times article published on Feb. 11, titled \u201cJob...",
+            "url": "https://www.manilatimes.net/2026/02/20/opinion/columns/the-ai-jobs-recession/2281230"
         },
         {
-            "title": "ByteDance Building Out Artificial Intelligence Team in US",
-            "description": "[BLOOMBERG] Chinese tech giant ByteDance Ltd. is hiring in the US for nearly 100 open roles within its artificial intelligence division, an effort to compete with the world\u2019s leading US-based AI companies...",
-            "url": "https://www.bloomberg.com/news/articles/2026-02-19/bytedance-building-out-artificial-intelligence-team-in-us"
+            "title": "Chip startup Taalas raises $169 million to help build AI chips to take on Nvidia",
+            "description": "[REUTERS] Toronto-based chip startup Taalas said on Thursday it had raised $169 million and said it has developed a chip capable of running artificial intelligence applications faster and more cheaply than...",
+            "url": "https://www.reuters.com/world/asia-pacific/chip-startup-taalas-raises-169-million-help-build-ai-chips-take-nvidia-2026-02-19/"
         },
         {
-            "title": "55% of rural youth in India use AI daily, says survey",
-            "description": "[INDIA TODAY] More than half of India\u2019s rural youth are now exposed to artificial intelligence, using it in some form as part of their daily lives for learning, communication and opportunities.",
-            "url": "https://www.indiatoday.in/education-today/latest-studies/story/55-of-rural-youth-in-india-use-ai-daily-showing-shift-beyond-cities-now-2871091-2026-02-19"
+            "title": "House Democrats probe Elon Musk and Grok over AI undressing on X",
+            "description": "[NBC NEWS] A group of House Democrats sent a letter to Elon Musk criticizing him for releasing a \u201creprehensible\u201d tool with his artificial intelligence chatbot Grok.",
+            "url": "https://www.nbcnews.com/tech/elon-musk/house-democrats-probe-elon-musk-grok-ai-undressing-x-rcna259589"
         },
         {
-            "title": "Praise pours in for \u2018Sukhamano Sukhamann:\u2019 V Sivankutty calls it a reminder of loneliness",
-            "description": "[MALAYALA MANORAMA] From a mental health perspective, psychiatrist Raghunandan Ramanathan also weighed in on the film..Sukhamano Sukhamann review, Mathew Thomas Sukhamano Sukhamann, Arunlal Ramachandran film, loneliness...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/19/v-sivankutty-reviews-sukhamano-sukhamann-mathew-thomas-movie.html"
+            "title": "Cox pushes back on Trump over gambling and AI regulation",
+            "description": "[POLITICO] The White House recently warned Utah lawmakers against passing a bill regulating artificial intelligence.",
+            "url": "https://www.politico.com/news/2026/02/19/spencer-cox-utah-trump-ai-unity-gambling-00788583"
         },
         {
-            "title": "Worried AI Will Replace You? 5 Courses Professionals Can Consider to Stay Future-Ready",
-            "description": "[TIMES NOW] As AI continues to transform the job market, many might be worried about losing their jobs to Artificial Intelligence. But working professionals can remain competitive by developing future-ready...",
-            "url": "https://www.timesnownews.com/education/worried-ai-will-replace-you-5-courses-professionals-can-consider-to-stay-future-ready-photo-gallery-153646425"
+            "title": "Prez Murmu holds talks with presidents of Slovakia, Serbia, Estonia; AI, digital ties in focus",
+            "description": "[THE ECONOMIC TIMES] President Droupadi Murmu met with leaders from Slovakia, Serbia, and Estonia. Discussions centered on artificial intelligence and digital cooperation. Bilateral ties were explored for expansion. The...",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/prez-murmu-holds-talks-with-presidents-of-slovakia-serbia-estonia-ai-digital-ties-in-focus/articleshow/128565254.cms"
         },
         {
-            "title": "\u2018The Kerala Story 2\u2019 faces legal heat; HC issues notice to producers",
-            "description": "[MALAYALA MANORAMA] The Kerala Story 2 Goes Beyond unfairly links alleged incidents of terrorism, forced conversion and demographic conspiracy solely with Kerala, said.Kerala High Court, The Kerala Story 2, film...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/19/plea-against-kerala-story-2-in-kerala-high-court-issues-notice.html"
+            "title": "Couple lie on road in protest as municipality seals their restaurant in Kochi; revenue inspector suspended over lapses \u2018biased\u2019 action",
+            "description": "[MALAYALA MANORAMA] The dispute escalated when the Municipal Revenue Inspector from the Thiruvankulam Zonal Office issued a notice citing 41,000 in unpaid building tax.Kochi restaurant protest, tax arrears restaurant,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/19/kochi-restaurant-protest-tax-arrears.html"
         },
         {
-            "title": "Jeffs' Brands: KeepZone AI Enters into Distribution Agreement with Assac Networks to Distribute Cybersecurity Software",
-            "description": "[THE MANILA TIMES] Tel Aviv, Israel, Feb. 19, 2026 (GLOBE NEWSWIRE) -- Jeffs' Brands Ltd ('Jeffs\u2019 Brands\u201d or the 'Company\u201d) (Nasdaq: JFBR, JFBRW), a data-driven e-commerce company operating on the Amazon Marketplace...",
-            "url": "https://www.manilatimes.net/2026/02/19/tmt-newswire/globenewswire/jeffs-brands-keepzone-ai-enters-into-distribution-agreement-with-assac-networks-to-distribute-cybersecurity-software/2281085"
+            "title": "EC to roll out SIR in 22 states, UTs in April; 40 cr voters to be covered",
+            "description": "[MALAYALA MANORAMA] The remaining 40 crore voters will be covered in the 17 states and five UTs included in the upcoming phase..election commission of India, electoral roll revision, special intensive revision, voter...",
+            "url": "https://www.onmanorama.com/news/india/2026/02/19/special-intensive-revision-of-electoral-rolls-final-phase-in-april-in-22-states-uts.html"
         },
         {
-            "title": "Google chief Sundar Pichai visits Coffee Board stall at AI Impact Summit",
-            "description": "[THE ECONOMIC TIMES] Google CEO Sundar Pichai visited the Commerce Ministry's Coffee Board stall at the AI Impact Summit in New Delhi. He participated in the summit, which began on Monday. The summit is the world's...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-chief-sundar-pichai-visits-coffee-board-stall-at-ai-impact-summit/articleshow/128558125.cms"
+            "title": "I didn't think a local LLM could work this well for research, but LM Studio proved me wrong",
+            "description": "[XDA DEVELOPERS] A local LLM makes better sense for serious work",
+            "url": "https://www.xda-developers.com/didnt-think-local-llm-could-work-this-well-for-research-lm-studio-proved-me-wrong/"
         }
     ]
 }
