@@ -1,11 +1,6 @@
 {
-    "updated": "2026-02-20 16:34:32 UTC",
+    "updated": "2026-02-20 18:41:08 UTC",
     "news": [
-        {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
-        },
         {
             "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
             "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
@@ -22,14 +17,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
-        },
-        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
+        },
+        {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -67,6 +62,11 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Munnar depot's new long distance services to Thiruvananthapuram and Kozhikode flagged off",
-            "description": "[MALAYALA MANORAMA] The buses have begun their services today..KSRTC Munnar bus services, Munnar to Thiruvananthapuram bus, Munnar to Kozhikode bus, new KSRTC Swift buses, long-distance bus routes Kerala, AI bus route...",
-            "url": "https://www.onmanorama.com/travel/travel-news/2026/02/20/munnar-long-distance-buses-thiruvananthapuram-kozhikode.html"
+            "title": "India joins US-led \u2018Pax Silica\u2019 initiative, Gor calls it defining moment of 21st century",
+            "description": "[FIRSTPOST] India has joined the US-led \u2018Pax Silica\u2019 initiative for artificial intelligence (AI) and supply chain security. US Ambassador Sergio Gor has called it the defining moment for the economic and...",
+            "url": "https://www.firstpost.com/tech/india-joins-us-led-pax-silica-initiative-gor-calls-it-defining-moment-of-21st-century-13981843.html"
         },
         {
-            "title": "Can artificial intelligence cut home interior costs by up to 10%, and reduce project timelines by as much as 80%?",
-            "description": "[HINDUSTAN TIMES] AI may cut home interior costs by up to 10% and shrink design-to-production timelines by one-fifth, as firms adopt AI tools across sales, design and execution | Real Estate News",
-            "url": "https://www.hindustantimes.com/real-estate/can-artificial-intelligence-cut-home-interior-costs-by-up-to-10-and-reduce-project-timelines-by-as-much-as-80-101771559487900.html"
+            "title": "Asian shares mixed, U.S. futures edge higher as AI fears drag Wall Street lower",
+            "description": "[JAPAN TODAY] Shares were mixed Friday in Asia as worries over risks linked to massive investments in artificial intelligence and a potential U.S.-Iran conflict weighed on major benchmarks. U.S. futures edged...",
+            "url": "https://japantoday.com/category/business/asian-shares-are-mixed-us-futures-edge-higher-as-ai-fears-drag-wall-street-lower"
         },
         {
-            "title": "No AI, No Promotion: Accenture Links Leadership Roles To Tool Adoption",
-            "description": "[TIMES NOW] Accenture is linking promotions for senior employees to their utilization of artificial intelligence tools, reflecting a commitment to an AI-driven workplace. , Companies, Times Now",
-            "url": "https://www.timesnownews.com/business-economy/companies/no-ai-no-promotion-accenture-links-leadership-roles-to-tool-adoption-article-153652356"
+            "title": "Tech Mahindra, NVIDIA partner to launch education",
+            "description": "[THE TRIBUNE] Tech Mahindra, a global provider of technology consulting and digital solutions, partnered with NVIDIA to launch a new education-focused Large Language Model (LLM) under its Project Indus initiative....",
+            "url": "https://www.tribuneindia.com/news/business/tech-mahindra-nvidia-partner-to-launch-education-focused-ai-model-under-project-indus/"
         },
         {
-            "title": "AI Can Do Many Things, But Can't Fix Delhi Traffic': Rishi Sunak Jokes About Jams Outside The AI Summit",
-            "description": "[FREE PRESS JOURNAL] Former UK PM Rishi Sunak said India is well placed to lead in artificial intelligence, citing its deep talent pool, strong digital public infrastructure and public optimism toward the technology....",
-            "url": "https://www.freepressjournal.in/tech/ai-can-do-many-things-but-cant-fix-delhi-traffic-rishi-sunak-jokes-about-jams-outside-the-ai-summit"
+            "title": "AI-MET Launch: Transforming India's Manufacturing Landscape",
+            "description": "[DEVDISCOURSE] A White Paper Concept titled 'AI for Manufacturing Engineering Technology (AI-MET)' has been introduced to foster scalable artificial intelligence adoption in India's manufacturing sector. The...",
+            "url": "https://www.devdiscourse.com/article/technology/3811467-ai-met-launch-transforming-indias-manufacturing-landscape"
         },
         {
-            "title": "Nvidia, OpenAI make U-turn on $100 billion deal; Huang-led company to invest $30 billion in ChatGPT maker - Key details",
-            "description": "[LIVEMINT] The deal between OpenAI and Nvidia, which would be part of a new funding round for the artificial intelligence start-up, could be finalised as early as this weekend, according to a report.",
-            "url": "https://www.livemint.com/companies/news/nvidia-openai-make-u-turn-on-100-billion-deal-huang-led-company-to-invest-30-billion-in-chatgpt-maker-key-details-11771552013100.html"
+            "title": "AI disruption fear might strike auto insurers next. Two stocks are in the crosshairs",
+            "description": "[CNBC TV18] Artificial intelligence could shake up car insurance stocks as autonomous vehicles become more ubiquitous.",
+            "url": "https://www.cnbctv18.com/market/ai-disruption-fear-might-strike-auto-insurers-next-two-stocks-are-in-the-crosshairs-ws-l-19854449.htm"
         },
         {
-            "title": "OpenAI CEO Sam Altman calls out tech companies for mass layoffs; says: Can't blame everything on...",
-            "description": "[TIMES OF INDIA] Tech News News: OpenAI CEO Sam Altman has called out a growing corporate trend of blaming artificial intelligence for layoffs that have little to do with the technolo.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-calls-out-tech-companies-for-mass-layoffs-says-cant-blame-everything-on-/articleshow/128590154.cms"
+            "title": "Greece Secures AI Pledges from Tech Giants to Revamp Digital State Services",
+            "description": "[IEFIMERIDA] Greece has secured commitments from global tech giants, including OpenAI and Microsoft, to integrate artificial intelligence into its public services, Digital Governance Minister Dimitris...",
+            "url": "https://www.iefimerida.gr/english/greece-secures-ai-pledges-tech-digital-services"
         },
         {
-            "title": "AI Summit 2026: Meet The 3 Sovereign AI LLM Models That Were Unveiled In Delhi To Rival Global Tech Giants",
-            "description": "[FREE PRESS JOURNAL] Under the \u20b910,000 crore IndiaAI Mission, India launched three sovereign AI models built by Sarvam AI, Gnani.ai and BharatGen. The systems support 22 Indian languages and target governance, voice...",
-            "url": "https://www.freepressjournal.in/tech/ai-summit-2026-meet-the-3-sovereign-ai-llm-models-that-were-unveiled-in-delhi-to-rival-global-tech-giants"
+            "title": "Global AI Impact Summit: UN Chief calls for global unity, says science",
+            "description": "[THE TRIBUNE] UN Secretary General Antonio Guterres on Friday called for utilising Artificial Intelligence for global good and mitigate challenges being faced by humanity. He urged countries to come together and...",
+            "url": "https://www.tribuneindia.com/news/world/global-ai-impact-summit-un-chief-calls-for-global-unity-says-science-led-governance-an-accelerator-for-solutions/"
         },
         {
-            "title": "Kerala auto driver plays detective, helps nab woman accused in 10 theft cases",
-            "description": "[MALAYALA MANORAMA] A woman accused of ten theft cases was apprehended after an auto driver noticed her suspicious behaviour and stopped his vehicle..Kottayam theft arrest, auto driver catches thief, woman arrested for...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/20/kottayam-theft-arrest-auto-driver.html"
+            "title": "Maha CM highlights AI\u2019s transformative role in agriculture at India AI Impact Summit",
+            "description": "[LOKMAT TIMES] Maha CM highlights AI\u2019s transformative role in agriculture at India AI Impact Summit - New Delhi, Feb 20 Maharashtra Chief Minister Devendra Fadnavis on Friday emphasised the pivotal role of...",
+            "url": "https://www.lokmattimes.com/national/maha-cm-highlights-ais-transformative-role-in-agriculture-at-india-ai-impact-summit/"
         },
         {
-            "title": "Will AI replace coders, marketers within 12 months? Expert warning sparks urgent debate over future job security",
-            "description": "[THE FINANCIAL EXPRESS] As artificial intelligence advances at an unprecedented pace, experts warn that coders and marketers could face significant job disruption within the next 12 months.",
-            "url": "https://www.financialexpress.com/life/technology-will-ai-replace-coders-marketers-within-12-months-expert-warning-sparks-urgent-debate-over-future-job-security-4148967/"
+            "title": "Maha CM highlights AI\u2019s transformative role in agriculture at India AI Impact Summit",
+            "description": "[LOKMAT TIMES] Maha CM highlights AI\u2019s transformative role in agriculture at India AI Impact Summit - New Delhi, Feb 20 Maharashtra Chief Minister Devendra Fadnavis on Friday emphasised the pivotal role of...",
+            "url": "https://www.lokmattimes.com/technology/maha-cm-highlights-ais-transformative-role-in-agriculture-at-india-ai-impact-summit-1/"
         },
         {
-            "title": "India chases 'DeepSeek moment' with homegrown AI models",
-            "description": "[THE ECONOMIC TIMES] Fledgling Indian artificial intelligence companies showcased homegrown technologies this week at a major summit in New Delhi, underpinning big dreams of becoming a global AI power. Another Indian...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-chases-deepseek-moment-with-homegrown-ai-models/articleshow/128589145.cms"
+            "title": "India and Brazil plot a critical minerals and AI alliance amid a fragile world order",
+            "description": "[THE ECONOMIC TIMES] India and Brazil are set to boost collaboration on critical minerals and artificial intelligence. President Lula da Silva will meet Prime Minister Modi to discuss a framework agreement. Both nations...",
+            "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/india-and-brazil-plot-a-critical-minerals-and-ai-alliance-amid-a-fragile-world-order/articleshow/128594463.cms"
         }
     ]
 }
