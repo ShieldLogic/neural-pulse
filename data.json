@@ -1,25 +1,20 @@
 {
-    "updated": "2026-02-20 08:36:38 UTC",
+    "updated": "2026-02-20 10:33:48 UTC",
     "news": [
-        {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
+        },
+        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
-        },
-        {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -32,19 +27,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Building a Simple MCP Server in Python",
-            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
-            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
+        },
+        {
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Michael S. Baker, P.C. Expands AI Governance Advisory Work Through ArtificialIntelligence.Lawyer",
-            "description": "[THE MANILA TIMES] Warwick, NY, Feb. 19, 2026 (GLOBE NEWSWIRE) -- Wall Street finance partner and corporate strategist Michael S. Baker is expanding the scope of his advisory work through ArtificialIntelligence.Lawyer,...",
-            "url": "https://www.manilatimes.net/2026/02/20/tmt-newswire/globenewswire/michael-s-baker-pc-expands-ai-governance-advisory-work-through-artificialintelligencelawyer/2281527"
+            "title": "\u2018Brain drain is costly\u2019: Zoho founder Sridhar Vembu takes swipe at Indian",
+            "description": "[TIMES OF INDIA] US News: As India hosts its first-ever India AI Impact Summit, the spotlight has fallen on some of the biggest names in artificial intelligence. Industry leade.",
+            "url": "https://timesofindia.indiatimes.com/world/us/brain-drain-is-costly-zoho-founder-sridhar-vembu-takes-swipe-at-indian-origin-white-house-adviser/articleshow/128580184.cms"
         },
         {
-            "title": "The Intelligent Journey: How AI and Sustainable Tech are Reshaping Global Hospitality and Business Travel",
-            "description": "[TECHBULLION] The global travel and hospitality industry has moved far beyond the \"recovery\" phase of the early 2020s. In 2026, we have entered the era of the \"Intelligent Journey\"\u2014a paradigm where Technology and...",
-            "url": "https://techbullion.com/the-intelligent-journey-how-ai-and-sustainable-tech-are-reshaping-global-hospitality-and-business-travel/"
+            "title": "India AI Impact Summit 2026: IIT Indore\u2019s Digital Footprint",
+            "description": "[FREE PRESS JOURNAL] Indian Institute of Technology Indore marked a strong presence at the India AI Impact Summit 2026, presenting AI-driven solutions across healthcare, agriculture and sustainability. AgriHub and IITI...",
+            "url": "https://www.freepressjournal.in/indore/india-ai-impact-summit-2026-iit-indores-digital-footprint"
         },
         {
-            "title": "The Power of Intelligence: How AI and Smart Grids are Driving the 2026 Energy Transition",
-            "description": "[TECHBULLION] In 2026, the global energy landscape is facing a profound paradox: the very technology driving economic growth\u2014Artificial Intelligence\u2014is also the world's most voracious consumer of power. A single...",
-            "url": "https://techbullion.com/the-power-of-intelligence-how-ai-and-smart-grids-are-driving-the-2026-energy-transition/"
+            "title": "The Orbital Economy: How AI and Private Aerospace are Redefining Business Beyond Earth in 2026",
+            "description": "[TECHBULLION] In 2026, the boundary between the \"Earth Economy\" and the \"Space Economy\" has effectively vanished. We have entered the era of Orbital Maturity, where space is no longer a destination for exploration...",
+            "url": "https://techbullion.com/the-orbital-economy-how-ai-and-private-aerospace-are-redefining-business-beyond-earth-in-2026/"
         },
         {
-            "title": "Anthropic\u2019s Amodei warns of potential job displacement risks from AI in India",
-            "description": "[THE FINANCIAL EXPRESS] At the India AI Impact Summit 2026, Anthropic CEO Dario Amodei projected a bullish 20\u201325% economic growth rate for India fueled by artificial intelligence.",
-            "url": "https://www.financialexpress.com/life/technology/anthropics-amodei-warns-of-potential-job-displacement-risks-from-ai-in-india/4148864/"
+            "title": "The Intelligent Energy Grid: How AI and GreenTech are Powering the Post-Carbon Economy in 2026",
+            "description": "[TECHBULLION] In 2026, the global energy sector is facing its \"Great Paradox\": Artificial Intelligence is both a primary driver of soaring electricity demand\u2014with data centers consuming over 20% of the grid's...",
+            "url": "https://techbullion.com/the-intelligent-energy-grid-how-ai-and-greentech-are-powering-the-post-carbon-economy-in-2026/"
         },
         {
-            "title": "The Industrial Renaissance: How AI, Robotics, and IoT are Redefining Manufacturing and Global Trade in 2026",
-            "description": "[TECHBULLION] The image of the factory floor has been permanently altered. In 2026, we are witnessing an \"Industrial Renaissance,\" where the silos between physical labor and digital intelligence have completely...",
-            "url": "https://techbullion.com/the-industrial-renaissance-how-ai-robotics-and-iot-are-redefining-manufacturing-and-global-trade-in-2026/"
+            "title": "Asian shares are mixed, US futures edge higher as AI fears drag Wall Street lower",
+            "description": "[BREITBART NEWS NETWORK] Shares are mixed in Asia as worries over risks linked to massive investments in artificial intelligence and a potential U.S.-Iran conflict weigh on major",
+            "url": "https://www.breitbart.com/news/asian-shares-are-mixed-us-futures-edge-higher-as-ai-fears-drag-wall-street-lower/"
         },
         {
-            "title": "DC Edit | India should grab opportunity to be AI enabler",
-            "description": "[DECCAN CHRONICLE] The world sees in the progress of artificial intelligence up to this point a transformative inflection point in history.",
-            "url": "https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-india-should-grab-opportunity-to-be-ai-enabler-1938539"
+            "title": "The Intelligent Factory: How AI, Digital Twins, and Cobots are Redefining Industry 5.0 in 2026",
+            "description": "[TECHBULLION] The manufacturing world has undergone a profound \"re-humanization.\" After the automation-focused years of Industry 4.0, 2026 marks the maturity of Industry 5.0\u2014a paradigm where Artificial...",
+            "url": "https://techbullion.com/the-intelligent-factory-how-ai-digital-twins-and-cobots-are-redefining-industry-5-0-in-2026/"
         },
         {
-            "title": "Berkeley Co. man arrested for possessing AI-generated child sexual abuse material",
-            "description": "[LIVE 5 NEWS WCSC] A Berkeley County man has been arrested on charges connected to artificial intelligence-generated child sexual abuse materials.",
-            "url": "https://www.live5news.com/2026/02/19/berkeley-co-man-arrested-possessing-ai-generated-child-sexual-abuse-material/"
+            "title": "The Intelligent Property Market: How AI, PropTech, and Spatial Computing are Redefining Real Estate in 2026",
+            "description": "[TECHBULLION] In 2026, the real estate industry has shed its reputation as a \u201ctechnology laggard.\u201d We have entered the era of Agentic PropTech, where the focus has shifted from simple online listings to autonomous...",
+            "url": "https://techbullion.com/the-intelligent-property-market-how-ai-proptech-and-spatial-computing-are-redefining-real-estate-in-2026/"
         },
         {
-            "title": "The Intelligent Acre: How AI and PropTech are Transforming Real Estate and Property Management in 2026",
-            "description": "[TECHBULLION] The real estate industry, traditionally defined by brick-and-mortar stability and human-centric negotiations, has reached a digital tipping point. In 2026, the sector is no longer just about...",
-            "url": "https://techbullion.com/the-intelligent-acre-how-ai-and-proptech-are-transforming-real-estate-and-property-management-in-2026/"
+            "title": "Design, Develop in India, Deliver to World: Modi",
+            "description": "[THE ECONOMIC TIMES] India has the core attributes of diversity, demography and democracy, as well as a robust, resilient and secure ecosystem that make it an ideal choice for building artificial intelligence (AI)...",
+            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/feb/20/et-front/design-develop-in-india-deliver-to-world-modi/articleshow/128577944.cms"
         },
         {
-            "title": "Walmart outlines big AI ambitions as it reports mixed results",
-            "description": "[JAPAN TODAY] Walmart's newly installed leadership team on Thursday emphasized plans to build up artificial intelligence integration, lifting shares of the retail behemoth despite a cautious forecast. Fresh off...",
-            "url": "https://japantoday.com/category/business/walmart-outlines-big-ai-ambitions-as-it-reports-mixed-results"
+            "title": "The Intelligent Advocate: How AI and LawTech are Transforming Justice and Legal Practice in 2026",
+            "description": "[TECHBULLION] The legal profession, long characterized by its reliance on precedent and manual labor, has reached a technological tipping point. In 2026, we have moved past the era of \u201cLegal Tech\u201d as a mere...",
+            "url": "https://techbullion.com/the-intelligent-advocate-how-ai-and-lawtech-are-transforming-justice-and-legal-practice-in-2026/"
         },
         {
-            "title": "The Precision Care Paradigm: How AI and MedTech are Revolutionizing Healthcare Business and Patient Outcomes",
-            "description": "[TECHBULLION] The healthcare industry has entered its most significant era of transformation since the introduction of modern antibiotics. In 2026, the sector is being fundamentally reshaped by a \"Precision Care...",
-            "url": "https://techbullion.com/the-precision-care-paradigm-how-ai-and-medtech-are-revolutionizing-healthcare-business-and-patient-outcomes/"
+            "title": "Reliance Puts $110 Billion on Table, Joins Adani & Tata in Big-ticket AI Buildout",
+            "description": "[THE ECONOMIC TIMES] India Inc committed multi-billion-dollar investments and inked global partnerships in artificial intelligence (AI) this week, seeking to raise the stakes in this rapidly-growing technology domain.",
+            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/feb/20/et-front/reliance-puts-110-b-on-table-joins-adani-tata-in-big-ticket-ai-buildout/articleshow/128577780.cms"
         }
     ]
 }
