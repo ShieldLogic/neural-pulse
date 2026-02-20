@@ -1,6 +1,11 @@
 {
-    "updated": "2026-02-19 22:27:43 UTC",
+    "updated": "2026-02-20 01:49:24 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
         {
             "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
             "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
@@ -17,14 +22,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
+        },
+        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
-        },
-        {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -62,11 +67,6 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "An easy fix, or a red flag?",
-            "description": "[BNN BLOOMBERG] Sometimes when Nikita Kokal scrolls through a dating app, she\u2019ll match with someone solely to ask if they used artificial intelligence to craft their profile.",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/02/19/is-this-man-for-real-the-perils-of-trying-to-detect-ai-use-while-online-dating/"
+            "title": "Sabarimala gold scam: 36 samples to be sent to NML Jamshedpur, final report by March 31",
+            "description": "[MALAYALA MANORAMA] The court also granted permission to the Investigation Officer to make appropriate requests to mobile service providers to obtain call records..Sabarimala gold scam, Kerala High Court, SIT...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/19/sabarimala-gold-scam-testing.html"
         },
         {
-            "title": "An easy fix, or a red flag?",
-            "description": "[CP24 TORONTO] Sometimes when Nikita Kokal scrolls through a dating app, she\u2019ll match with someone solely to ask if they used artificial intelligence to craft their profile.",
-            "url": "https://www.cp24.com/news/canada/2026/02/19/is-this-man-for-real-the-perils-of-trying-to-detect-ai-use-while-online-dating/"
+            "title": "Sarvam AI shifts focus to scale and monetisation after Vikram LLM launch",
+            "description": "[CNBC TV18] Pratyush Kumar, Co-Founder of Sarvam AI, said the company is focusing strongly on enterprise adoption, particularly in the BFSI sector where scale and technological maturity are high. He added that...",
+            "url": "https://www.cnbctv18.com/technology/sarvam-ai-shifts-focus-to-scale-and-monetisation-after-vikram-llm-launch-19853936.htm"
         },
         {
-            "title": "No technology has me dreaming bigger than AI: Sundar Pichai",
-            "description": "[LOKMAT TIMES] No technology has me dreaming bigger than AI: Sundar Pichai - New Delhi, Feb 19 Alphabet and Google CEO Sundar Pichai on Thursday told world leaders that artificial intelligence ... Get Latest News...",
-            "url": "https://www.lokmattimes.com/business/no-technology-has-me-dreaming-bigger-than-ai-sundar-pichai/"
+            "title": "Fractal launches Vaidya 2.0, outperforming leading frontier models on Healthcare AI Benchmarks",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Fractal (www.fractal.ai), a global provider of artificial intelligence (AI) to Fortune 500\u00ae companies, today announced the launch of Vaidya...",
+            "url": "https://www.prnewswire.co.uk/news-releases/fractal-launches-vaidya-2-0--outperforming-leading-frontier-models-on-healthcare-ai-benchmarks-302692627.html"
         },
         {
-            "title": "No technology has me dreaming bigger than AI: Sundar Pichai",
-            "description": "[LOKMAT TIMES] No technology has me dreaming bigger than AI: Sundar Pichai - New Delhi, Feb 19 Alphabet and Google CEO Sundar Pichai on Thursday told world leaders that artificial intelligence ... Get Latest News...",
-            "url": "https://www.lokmattimes.com/technology/no-technology-has-me-dreaming-bigger-than-ai-sundar-pichai-1/"
+            "title": "ByteDance Building Out Artificial Intelligence Team in US",
+            "description": "[BLOOMBERG] Chinese tech giant ByteDance Ltd. is hiring in the US for nearly 100 open roles within its artificial intelligence division, an effort to compete with the world\u2019s leading US-based AI companies...",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-19/bytedance-building-out-artificial-intelligence-team-in-us"
         },
         {
-            "title": "Calicut FC to be first Super League Kerala side to compete in KPL",
-            "description": "[MALAYALA MANORAMA] The 14-team Kerala Premier League is expected to begin in the first week of March..Calicut FC KPL, Kerala Premier League, Calicut FC Kerala Premier League, KPL football Kerala, Super League Kerala...",
-            "url": "https://www.onmanorama.com/sports/football/2026/02/19/slk-calicut-fc-to-compete-kerala-premier-league.html"
+            "title": "55% of rural youth in India use AI daily, says survey",
+            "description": "[INDIA TODAY] More than half of India\u2019s rural youth are now exposed to artificial intelligence, using it in some form as part of their daily lives for learning, communication and opportunities.",
+            "url": "https://www.indiatoday.in/education-today/latest-studies/story/55-of-rural-youth-in-india-use-ai-daily-showing-shift-beyond-cities-now-2871091-2026-02-19"
         },
         {
-            "title": "India's Reliance Industries to Invest $110 Billion in AI -- Update",
-            "description": "[MARKETSCREENER] By Kosaku Narioka Reliance Industries plans to invest $110 billion to build large-scale data centers and offer artificial-intelligence services, the latest in a string of high-profile...",
-            "url": "https://www.marketscreener.com/news/india-s-reliance-industries-to-invest-110-billion-in-ai-update-ce7e5ddfd08ef025"
+            "title": "Praise pours in for \u2018Sukhamano Sukhamann:\u2019 V Sivankutty calls it a reminder of loneliness",
+            "description": "[MALAYALA MANORAMA] From a mental health perspective, psychiatrist Raghunandan Ramanathan also weighed in on the film..Sukhamano Sukhamann review, Mathew Thomas Sukhamano Sukhamann, Arunlal Ramachandran film, loneliness...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/19/v-sivankutty-reviews-sukhamano-sukhamann-mathew-thomas-movie.html"
         },
         {
-            "title": "Phemex Launches AI-Native Revolution, Signaling Full-Scale AI Transformation",
-            "description": "[THE MANILA TIMES] **media[943263]**APIA, Samoa, Feb. 19, 2026 /PRNewswire/ -- Phemex, a user-first crypto exchange, today announced the launch of its AI-Native Revolution, initiating a company-wide transformation that...",
-            "url": "https://www.manilatimes.net/2026/02/19/tmt-newswire/pr-newswire/phemex-launches-ai-native-revolution-signaling-full-scale-ai-transformation/2280954"
+            "title": "Worried AI Will Replace You? 5 Courses Professionals Can Consider to Stay Future-Ready",
+            "description": "[TIMES NOW] As AI continues to transform the job market, many might be worried about losing their jobs to Artificial Intelligence. But working professionals can remain competitive by developing future-ready...",
+            "url": "https://www.timesnownews.com/education/worried-ai-will-replace-you-5-courses-professionals-can-consider-to-stay-future-ready-photo-gallery-153646425"
         },
         {
-            "title": "PM Modi unveils MANAV vision for AI, pitches for human control of technology",
-            "description": "[THEPRINT] New Delhi, Feb 19 (PTI) Making a pitch for democratising AI, Prime Minister Narendra Modi on Thursday unveiled the \u2018MANAV\u2019 vision for a human-centric approach and use of the fast emerging technology...",
-            "url": "https://theprint.in/india/pm-modi-unveils-manav-vision-for-ai-pitches-for-human-control-of-technology/2858622/"
+            "title": "\u2018The Kerala Story 2\u2019 faces legal heat; HC issues notice to producers",
+            "description": "[MALAYALA MANORAMA] The Kerala Story 2 Goes Beyond unfairly links alleged incidents of terrorism, forced conversion and demographic conspiracy solely with Kerala, said.Kerala High Court, The Kerala Story 2, film...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/19/plea-against-kerala-story-2-in-kerala-high-court-issues-notice.html"
         },
         {
-            "title": "PM Modi Unveils MANAV Vision For AI, Pitches For Human Control Of Technology",
-            "description": "[DAILY EXCELSIOR] New Delhi, Feb 19: Making a pitch for democratising AI, Prime Minister Narendra Modi on Thursday unveiled the \u2018MANAV\u2019 vision for a human-centric approach and use of the fast emerging technology with...",
-            "url": "https://www.dailyexcelsior.com/pm-modi-unveils-manav-vision-for-ai-pitches-for-human-control-of-technology/"
+            "title": "Jeffs' Brands: KeepZone AI Enters into Distribution Agreement with Assac Networks to Distribute Cybersecurity Software",
+            "description": "[THE MANILA TIMES] Tel Aviv, Israel, Feb. 19, 2026 (GLOBE NEWSWIRE) -- Jeffs' Brands Ltd ('Jeffs\u2019 Brands\u201d or the 'Company\u201d) (Nasdaq: JFBR, JFBRW), a data-driven e-commerce company operating on the Amazon Marketplace...",
+            "url": "https://www.manilatimes.net/2026/02/19/tmt-newswire/globenewswire/jeffs-brands-keepzone-ai-enters-into-distribution-agreement-with-assac-networks-to-distribute-cybersecurity-software/2281085"
         },
         {
-            "title": "AI-pocalypse! Artificial intelligence will create a small elite class living in luxury - while the majority will suffer, ex-Google boss warns",
-            "description": "[DAILY MAIL ONLINE] The world is teetering on the edge of an Artificial Intelligence (AI) disaster in which a tiny elite class live in luxury while the majority suffer, ex-Google boss Dex Hunter-Torricke has warned.",
-            "url": "https://www.dailymail.co.uk/sciencetech/article-15573349/AI-elite-class-Google-warning.html"
+            "title": "Google chief Sundar Pichai visits Coffee Board stall at AI Impact Summit",
+            "description": "[THE ECONOMIC TIMES] Google CEO Sundar Pichai visited the Commerce Ministry's Coffee Board stall at the AI Impact Summit in New Delhi. He participated in the summit, which began on Monday. The summit is the world's...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-chief-sundar-pichai-visits-coffee-board-stall-at-ai-impact-summit/articleshow/128558125.cms"
         }
     ]
 }
