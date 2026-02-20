@@ -1,20 +1,25 @@
 {
-    "updated": "2026-02-20 06:52:00 UTC",
+    "updated": "2026-02-20 08:36:38 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
-        },
-        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
+        },
+        {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -27,24 +32,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+            "title": "Building a Simple MCP Server in Python",
+            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
+            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
-        },
-        {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "AI, Semiconductors, Water Tech: What PM Modi, Dick Schoof Discussed",
-            "description": "[NDTV.COM] India and the Netherlands are setting the stage for a major expansion of their strategic partnership, with a sharp focus on artificial intelligence, semiconductors, water management and emerging...",
-            "url": "https://www.ndtv.com/india-news/ai-semiconductors-water-tech-what-pm-modi-dick-schoof-discussed-11088173"
+            "title": "Michael S. Baker, P.C. Expands AI Governance Advisory Work Through ArtificialIntelligence.Lawyer",
+            "description": "[THE MANILA TIMES] Warwick, NY, Feb. 19, 2026 (GLOBE NEWSWIRE) -- Wall Street finance partner and corporate strategist Michael S. Baker is expanding the scope of his advisory work through ArtificialIntelligence.Lawyer,...",
+            "url": "https://www.manilatimes.net/2026/02/20/tmt-newswire/globenewswire/michael-s-baker-pc-expands-ai-governance-advisory-work-through-artificialintelligencelawyer/2281527"
         },
         {
-            "title": "Digital battle turns ugly: BJP drags Congress to privileges panel over AI video",
-            "description": "[INDIA TODAY] A political storm brews in Parliament as Congress faces a breach-of-privilege notice over AI-generated videos amid the AI Summit in Delhi. The clash highlights the rising role of artificial...",
-            "url": "https://www.indiatoday.in/india/story/bjp-drags-congress-to-privileges-panel-over-ai-video-targeting-lok-sabha-speaker-2871249-2026-02-19"
+            "title": "The Intelligent Journey: How AI and Sustainable Tech are Reshaping Global Hospitality and Business Travel",
+            "description": "[TECHBULLION] The global travel and hospitality industry has moved far beyond the \"recovery\" phase of the early 2020s. In 2026, we have entered the era of the \"Intelligent Journey\"\u2014a paradigm where Technology and...",
+            "url": "https://techbullion.com/the-intelligent-journey-how-ai-and-sustainable-tech-are-reshaping-global-hospitality-and-business-travel/"
         },
         {
-            "title": "AI Summit: Navigating the new defaults of the agentic web",
-            "description": "[THE ECONOMIC TIMES] Artificial intelligence is reshaping the digital world. Machines are now primary actors, handling tasks from booking flights to autonomous warfare. This shift concentrates power in AI invocation,...",
-            "url": "https://economictimes.indiatimes.com/opinion/et-editorial/ai-summit-navigating-the-new-defaults-of-the-agentic-web/articleshow/128570488.cms"
+            "title": "The Power of Intelligence: How AI and Smart Grids are Driving the 2026 Energy Transition",
+            "description": "[TECHBULLION] In 2026, the global energy landscape is facing a profound paradox: the very technology driving economic growth\u2014Artificial Intelligence\u2014is also the world's most voracious consumer of power. A single...",
+            "url": "https://techbullion.com/the-power-of-intelligence-how-ai-and-smart-grids-are-driving-the-2026-energy-transition/"
         },
         {
-            "title": "AI Summit: Navigating the new defaults of the agentic web",
-            "description": "[THE ECONOMIC TIMES] Artificial intelligence is reshaping the digital world. Machines are now primary actors, handling tasks from booking flights to autonomous warfare. This shift concentrates power in AI invocation,...",
-            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/ai-summit-navigating-the-new-defaults-of-the-agentic-web/articleshow/128570488.cms"
+            "title": "Anthropic\u2019s Amodei warns of potential job displacement risks from AI in India",
+            "description": "[THE FINANCIAL EXPRESS] At the India AI Impact Summit 2026, Anthropic CEO Dario Amodei projected a bullish 20\u201325% economic growth rate for India fueled by artificial intelligence.",
+            "url": "https://www.financialexpress.com/life/technology/anthropics-amodei-warns-of-potential-job-displacement-risks-from-ai-in-india/4148864/"
         },
         {
-            "title": "Shashi Tharoor Lauds AI Impact Summit Amidst Criticism and Controversy",
-            "description": "[DEVDISCOURSE] Congress leader Shashi Tharoor praised the AI Impact Summit's success despite some glitches and criticism. He highlighted the significance of global leaders attending with a unified message of...",
-            "url": "https://www.devdiscourse.com/article/entertainment/3811187-shashi-tharoor-lauds-ai-impact-summit-amidst-criticism-and-controversy"
+            "title": "The Industrial Renaissance: How AI, Robotics, and IoT are Redefining Manufacturing and Global Trade in 2026",
+            "description": "[TECHBULLION] The image of the factory floor has been permanently altered. In 2026, we are witnessing an \"Industrial Renaissance,\" where the silos between physical labor and digital intelligence have completely...",
+            "url": "https://techbullion.com/the-industrial-renaissance-how-ai-robotics-and-iot-are-redefining-manufacturing-and-global-trade-in-2026/"
         },
         {
-            "title": "Is AI\u2019s authoritarianism a bigger threat than Trump\u2019s?",
-            "description": "[THE PHILADELPHIA INQUIRER] As predicted, or feared, rapid advances in artificial intelligence are poised to upend U.S. society. We are not ready.",
-            "url": "https://www.inquirer.com/opinion/ai-advances-anthropic-claude-20260219.html"
+            "title": "DC Edit | India should grab opportunity to be AI enabler",
+            "description": "[DECCAN CHRONICLE] The world sees in the progress of artificial intelligence up to this point a transformative inflection point in history.",
+            "url": "https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-india-should-grab-opportunity-to-be-ai-enabler-1938539"
         },
         {
-            "title": "B Unnikrishnan opens up about his most personal and ambitious film yet, 'Prathichaya'",
-            "description": "[MALAYALA MANORAMA] Director B Unnikrishnan describes 'Prathichaya,' his 15th film, as his greatest personal struggle, a high-budget fictional production exploring cyber.Prathichaya movie, Nivin Pauly new film, B...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/19/prathichaya-nivin-pauly-movie-b-unnikrishnan-malayalam-cinema.html"
+            "title": "Berkeley Co. man arrested for possessing AI-generated child sexual abuse material",
+            "description": "[LIVE 5 NEWS WCSC] A Berkeley County man has been arrested on charges connected to artificial intelligence-generated child sexual abuse materials.",
+            "url": "https://www.live5news.com/2026/02/19/berkeley-co-man-arrested-possessing-ai-generated-child-sexual-abuse-material/"
         },
         {
-            "title": "India likely to join US-led strategic alliance 'Pax Silica'",
-            "description": "[THE ECONOMIC TIMES] India is set to join the US-led Pax Silica alliance. This strategic partnership aims to build robust supply chains for critical minerals and artificial intelligence. The move signifies strengthening...",
-            "url": "https://economictimes.indiatimes.com/news/india/india-likely-to-join-us-led-strategic-alliance-pax-silica/articleshow/128571609.cms"
+            "title": "The Intelligent Acre: How AI and PropTech are Transforming Real Estate and Property Management in 2026",
+            "description": "[TECHBULLION] The real estate industry, traditionally defined by brick-and-mortar stability and human-centric negotiations, has reached a digital tipping point. In 2026, the sector is no longer just about...",
+            "url": "https://techbullion.com/the-intelligent-acre-how-ai-and-proptech-are-transforming-real-estate-and-property-management-in-2026/"
         },
         {
-            "title": "Austria Sees Huge Scope For AI Collaboration With India: Top Official To NDTV",
-            "description": "[NDTV.COM] Austria's State Secretary for Digitalisation and e-Governance, Alexander Proll, on Tuesday underlined the growing scope for bilateral cooperation between India and Austria in the field of artificial...",
-            "url": "https://www.ndtv.com/world-news/austria-sees-huge-scope-for-ai-collaboration-with-india-top-official-to-ndtv-11086301"
+            "title": "Walmart outlines big AI ambitions as it reports mixed results",
+            "description": "[JAPAN TODAY] Walmart's newly installed leadership team on Thursday emphasized plans to build up artificial intelligence integration, lifting shares of the retail behemoth despite a cautious forecast. Fresh off...",
+            "url": "https://japantoday.com/category/business/walmart-outlines-big-ai-ambitions-as-it-reports-mixed-results"
         },
         {
-            "title": "Bill Gates Cancels a Keynote Speech Amid Epstein Controversy",
-            "description": "[THE NEW YORK TIMES] The philanthropist made the announcement on Thursday, after having earlier confirmed his participation in a prominent artificial intelligence summit in India.",
-            "url": "https://www.nytimes.com/2026/02/19/business/bill-gates-epstein-india-ai-summit.html"
+            "title": "The Precision Care Paradigm: How AI and MedTech are Revolutionizing Healthcare Business and Patient Outcomes",
+            "description": "[TECHBULLION] The healthcare industry has entered its most significant era of transformation since the introduction of modern antibiotics. In 2026, the sector is being fundamentally reshaped by a \"Precision Care...",
+            "url": "https://techbullion.com/the-precision-care-paradigm-how-ai-and-medtech-are-revolutionizing-healthcare-business-and-patient-outcomes/"
         }
     ]
 }
