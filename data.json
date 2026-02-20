@@ -1,20 +1,15 @@
 {
-    "updated": "2026-02-20 04:12:20 UTC",
+    "updated": "2026-02-20 06:52:00 UTC",
     "news": [
-        {
-            "title": "Everything You Need to Know About How Python Manages Memory",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; In languages like C, you manually allocate and free memory.",
-            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-how-python-manages-memory/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Model Deployment with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; If you\u2019ve trained a machine learning model, a common question comes up: \u201cHow do we actually use it?\u201d This is where many machine learning practitioners get stuck.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-model-deployment-with-fastapi/"
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -32,14 +27,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "The 2026 Time Series Toolkit: 5 Foundation Models for Autonomous Forecasting",
-            "description": "[MACHINELEARNINGMASTERY] Most forecasting work involves building custom models for each dataset \u2014 fit an ARIMA here, tune an LSTM there, wrestle with <a href=\"https://facebook.",
-            "url": "https://machinelearningmastery.com/the-2026-time-series-toolkit-5-foundation-models-for-autonomous-forecasting/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+        },
+        {
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -52,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 5 Agentic AI Website Builders (That Actually Ship)",
-            "description": "[MACHINELEARNINGMASTERY] I have been building a payment platform using vibe coding, and I do not have a frontend background.",
-            "url": "https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
+        },
+        {
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -67,64 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Data Augmentation for Machine Learning",
-            "description": "[MACHINELEARNINGMASTERY] Suppose you\u2019ve built your machine learning model, run the experiments, and stared at the results wondering what went wrong.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-data-augmentation-for-machine-learning/"
-        },
-        {
             "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
             "description": "[BAIR] Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the...",
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "OpenAI's Altman at India summit: Regulation 'urgently' needed",
-            "description": "[THE MANILA TIMES] NEW DELHI \u2014 The world urgently needs to regulate artificial intelligence (AI), OpenAI head Sam Altman said on Thursday at a summit in New Delhi on the risks and opportunities posed by the...",
-            "url": "https://www.manilatimes.net/2026/02/20/world/asia-oceania/openais-altman-at-india-summit-regulation-urgently-needed/2281096"
+            "title": "AI, Semiconductors, Water Tech: What PM Modi, Dick Schoof Discussed",
+            "description": "[NDTV.COM] India and the Netherlands are setting the stage for a major expansion of their strategic partnership, with a sharp focus on artificial intelligence, semiconductors, water management and emerging...",
+            "url": "https://www.ndtv.com/india-news/ai-semiconductors-water-tech-what-pm-modi-dick-schoof-discussed-11088173"
         },
         {
-            "title": "Two held with 41.5 gm MDMA at Muthanga Check Post in Wayanad",
-            "description": "[MALAYALA MANORAMA] Possession of more than 10 grams is treated as a commercial quantity and can invite a sentence of up to 20 years' imprisonment.MDMA bust, Sulthan Bathery excise officials, drug seizure Muthanga check...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/19/mdma-seized-youths-arrested-from-private-bus-in-muthanga-checkpost-wayanad.html"
+            "title": "Digital battle turns ugly: BJP drags Congress to privileges panel over AI video",
+            "description": "[INDIA TODAY] A political storm brews in Parliament as Congress faces a breach-of-privilege notice over AI-generated videos amid the AI Summit in Delhi. The clash highlights the rising role of artificial...",
+            "url": "https://www.indiatoday.in/india/story/bjp-drags-congress-to-privileges-panel-over-ai-video-targeting-lok-sabha-speaker-2871249-2026-02-19"
         },
         {
-            "title": "The AI jobs recession",
-            "description": "[THE MANILA TIMES] THE artificial intelligence (AI) job recession is here, and as Daniel Zhao, the chief economist at employment site Glassdoor, is quoted in a New York Times article published on Feb. 11, titled \u201cJob...",
-            "url": "https://www.manilatimes.net/2026/02/20/opinion/columns/the-ai-jobs-recession/2281230"
+            "title": "AI Summit: Navigating the new defaults of the agentic web",
+            "description": "[THE ECONOMIC TIMES] Artificial intelligence is reshaping the digital world. Machines are now primary actors, handling tasks from booking flights to autonomous warfare. This shift concentrates power in AI invocation,...",
+            "url": "https://economictimes.indiatimes.com/opinion/et-editorial/ai-summit-navigating-the-new-defaults-of-the-agentic-web/articleshow/128570488.cms"
         },
         {
-            "title": "Chip startup Taalas raises $169 million to help build AI chips to take on Nvidia",
-            "description": "[REUTERS] Toronto-based chip startup Taalas said on Thursday it had raised $169 million and said it has developed a chip capable of running artificial intelligence applications faster and more cheaply than...",
-            "url": "https://www.reuters.com/world/asia-pacific/chip-startup-taalas-raises-169-million-help-build-ai-chips-take-nvidia-2026-02-19/"
+            "title": "AI Summit: Navigating the new defaults of the agentic web",
+            "description": "[THE ECONOMIC TIMES] Artificial intelligence is reshaping the digital world. Machines are now primary actors, handling tasks from booking flights to autonomous warfare. This shift concentrates power in AI invocation,...",
+            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/ai-summit-navigating-the-new-defaults-of-the-agentic-web/articleshow/128570488.cms"
         },
         {
-            "title": "House Democrats probe Elon Musk and Grok over AI undressing on X",
-            "description": "[NBC NEWS] A group of House Democrats sent a letter to Elon Musk criticizing him for releasing a \u201creprehensible\u201d tool with his artificial intelligence chatbot Grok.",
-            "url": "https://www.nbcnews.com/tech/elon-musk/house-democrats-probe-elon-musk-grok-ai-undressing-x-rcna259589"
+            "title": "Shashi Tharoor Lauds AI Impact Summit Amidst Criticism and Controversy",
+            "description": "[DEVDISCOURSE] Congress leader Shashi Tharoor praised the AI Impact Summit's success despite some glitches and criticism. He highlighted the significance of global leaders attending with a unified message of...",
+            "url": "https://www.devdiscourse.com/article/entertainment/3811187-shashi-tharoor-lauds-ai-impact-summit-amidst-criticism-and-controversy"
         },
         {
-            "title": "Cox pushes back on Trump over gambling and AI regulation",
-            "description": "[POLITICO] The White House recently warned Utah lawmakers against passing a bill regulating artificial intelligence.",
-            "url": "https://www.politico.com/news/2026/02/19/spencer-cox-utah-trump-ai-unity-gambling-00788583"
+            "title": "Is AI\u2019s authoritarianism a bigger threat than Trump\u2019s?",
+            "description": "[THE PHILADELPHIA INQUIRER] As predicted, or feared, rapid advances in artificial intelligence are poised to upend U.S. society. We are not ready.",
+            "url": "https://www.inquirer.com/opinion/ai-advances-anthropic-claude-20260219.html"
         },
         {
-            "title": "Prez Murmu holds talks with presidents of Slovakia, Serbia, Estonia; AI, digital ties in focus",
-            "description": "[THE ECONOMIC TIMES] President Droupadi Murmu met with leaders from Slovakia, Serbia, and Estonia. Discussions centered on artificial intelligence and digital cooperation. Bilateral ties were explored for expansion. The...",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/prez-murmu-holds-talks-with-presidents-of-slovakia-serbia-estonia-ai-digital-ties-in-focus/articleshow/128565254.cms"
+            "title": "B Unnikrishnan opens up about his most personal and ambitious film yet, 'Prathichaya'",
+            "description": "[MALAYALA MANORAMA] Director B Unnikrishnan describes 'Prathichaya,' his 15th film, as his greatest personal struggle, a high-budget fictional production exploring cyber.Prathichaya movie, Nivin Pauly new film, B...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/19/prathichaya-nivin-pauly-movie-b-unnikrishnan-malayalam-cinema.html"
         },
         {
-            "title": "Couple lie on road in protest as municipality seals their restaurant in Kochi; revenue inspector suspended over lapses \u2018biased\u2019 action",
-            "description": "[MALAYALA MANORAMA] The dispute escalated when the Municipal Revenue Inspector from the Thiruvankulam Zonal Office issued a notice citing 41,000 in unpaid building tax.Kochi restaurant protest, tax arrears restaurant,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/19/kochi-restaurant-protest-tax-arrears.html"
+            "title": "India likely to join US-led strategic alliance 'Pax Silica'",
+            "description": "[THE ECONOMIC TIMES] India is set to join the US-led Pax Silica alliance. This strategic partnership aims to build robust supply chains for critical minerals and artificial intelligence. The move signifies strengthening...",
+            "url": "https://economictimes.indiatimes.com/news/india/india-likely-to-join-us-led-strategic-alliance-pax-silica/articleshow/128571609.cms"
         },
         {
-            "title": "EC to roll out SIR in 22 states, UTs in April; 40 cr voters to be covered",
-            "description": "[MALAYALA MANORAMA] The remaining 40 crore voters will be covered in the 17 states and five UTs included in the upcoming phase..election commission of India, electoral roll revision, special intensive revision, voter...",
-            "url": "https://www.onmanorama.com/news/india/2026/02/19/special-intensive-revision-of-electoral-rolls-final-phase-in-april-in-22-states-uts.html"
+            "title": "Austria Sees Huge Scope For AI Collaboration With India: Top Official To NDTV",
+            "description": "[NDTV.COM] Austria's State Secretary for Digitalisation and e-Governance, Alexander Proll, on Tuesday underlined the growing scope for bilateral cooperation between India and Austria in the field of artificial...",
+            "url": "https://www.ndtv.com/world-news/austria-sees-huge-scope-for-ai-collaboration-with-india-top-official-to-ndtv-11086301"
         },
         {
-            "title": "I didn't think a local LLM could work this well for research, but LM Studio proved me wrong",
-            "description": "[XDA DEVELOPERS] A local LLM makes better sense for serious work",
-            "url": "https://www.xda-developers.com/didnt-think-local-llm-could-work-this-well-for-research-lm-studio-proved-me-wrong/"
+            "title": "Bill Gates Cancels a Keynote Speech Amid Epstein Controversy",
+            "description": "[THE NEW YORK TIMES] The philanthropist made the announcement on Thursday, after having earlier confirmed his participation in a prominent artificial intelligence summit in India.",
+            "url": "https://www.nytimes.com/2026/02/19/business/bill-gates-epstein-india-ai-summit.html"
         }
     ]
 }
