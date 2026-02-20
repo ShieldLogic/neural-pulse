@@ -1,15 +1,15 @@
 {
-    "updated": "2026-02-20 18:41:08 UTC",
+    "updated": "2026-02-20 20:27:04 UTC",
     "news": [
-        {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
+        },
+        {
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
-        },
-        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
+        },
+        {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,9 +37,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+        },
+        {
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -52,19 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "India joins US-led \u2018Pax Silica\u2019 initiative, Gor calls it defining moment of 21st century",
-            "description": "[FIRSTPOST] India has joined the US-led \u2018Pax Silica\u2019 initiative for artificial intelligence (AI) and supply chain security. US Ambassador Sergio Gor has called it the defining moment for the economic and...",
-            "url": "https://www.firstpost.com/tech/india-joins-us-led-pax-silica-initiative-gor-calls-it-defining-moment-of-21st-century-13981843.html"
+            "title": "IBEX Opens Flat Amid Caution Over Iran, Private Equity Turmoil, and Inflation Data",
+            "description": "[MARKETSCREENER] The IBEX 35 opened Friday with little change, in a session marked by caution over geopolitical tensions and turbulence surrounding artificial intelligence investments, while shocks in private...",
+            "url": "https://www.marketscreener.com/news/ibex-opens-flat-amid-caution-over-iran-private-equity-turmoil-and-inflation-data-ce7e5ddddb8cf524"
         },
         {
-            "title": "Asian shares mixed, U.S. futures edge higher as AI fears drag Wall Street lower",
-            "description": "[JAPAN TODAY] Shares were mixed Friday in Asia as worries over risks linked to massive investments in artificial intelligence and a potential U.S.-Iran conflict weighed on major benchmarks. U.S. futures edged...",
-            "url": "https://japantoday.com/category/business/asian-shares-are-mixed-us-futures-edge-higher-as-ai-fears-drag-wall-street-lower"
+            "title": "Cheaper AI inference and open architectures essential for mass adoption: Nandan Nilekani",
+            "description": "[LIVEMINT] Artificial Intelligence serves as a fundamental construct for large-scale societal transformation when integrated with open networks and decentralised ecosystems. Speaking at a panel during the India...",
+            "url": "https://www.livemint.com/technology/cheaper-ai-inference-and-open-architectures-essential-for-mass-adoption-nandan-nilekani-11771575680262.html"
         },
         {
-            "title": "Tech Mahindra, NVIDIA partner to launch education",
-            "description": "[THE TRIBUNE] Tech Mahindra, a global provider of technology consulting and digital solutions, partnered with NVIDIA to launch a new education-focused Large Language Model (LLM) under its Project Indus initiative....",
-            "url": "https://www.tribuneindia.com/news/business/tech-mahindra-nvidia-partner-to-launch-education-focused-ai-model-under-project-indus/"
+            "title": "40% Global Jobs Hit, Entry-Level Roles In Danger: IMF Chief's AI Economy Warning",
+            "description": "[NDTV.COM] An estimated 40 per cent of the global workforce entry-level jobs in particular will be impacted by Artificial Intelligence, IMF chief Kristalina Georgieva warned NDTV Friday, comparing the...",
+            "url": "https://www.ndtv.com/india-news/40-global-jobs-hit-entry-level-roles-in-danger-imf-chiefs-ai-economy-warning-11111774"
         },
         {
-            "title": "AI-MET Launch: Transforming India's Manufacturing Landscape",
-            "description": "[DEVDISCOURSE] A White Paper Concept titled 'AI for Manufacturing Engineering Technology (AI-MET)' has been introduced to foster scalable artificial intelligence adoption in India's manufacturing sector. The...",
-            "url": "https://www.devdiscourse.com/article/technology/3811467-ai-met-launch-transforming-indias-manufacturing-landscape"
+            "title": "Cheaper AI inference and open architectures essential for mass adoption: Nandan Nilekani",
+            "description": "[THE TRIBUNE] Artificial Intelligence serves as a fundamental construct for large-scale societal transformation when integrated with open networks and decentralised ecosystems. Speaking at a panel during the India...",
+            "url": "https://www.tribuneindia.com/news/business/cheaper-ai-inference-and-open-architectures-essential-for-mass-adoption-nandan-nilekani/"
         },
         {
-            "title": "AI disruption fear might strike auto insurers next. Two stocks are in the crosshairs",
-            "description": "[CNBC TV18] Artificial intelligence could shake up car insurance stocks as autonomous vehicles become more ubiquitous.",
-            "url": "https://www.cnbctv18.com/market/ai-disruption-fear-might-strike-auto-insurers-next-two-stocks-are-in-the-crosshairs-ws-l-19854449.htm"
+            "title": "Rahul Gandhi records statement in 2018 defamation case; next hearing on March 9",
+            "description": "[MALAYALA MANORAMA] Gandhi made defamatory remarks about Amit Shah during Karnataka assembly elections in 2018..Rahul Gandhi Sultanpur, Rahul Gandhi defamation case, MP-MLA court Sultanpur, Amit Shah remarks case, 2018...",
+            "url": "https://www.onmanorama.com/news/india/2026/02/20/rahul-gandhi-defamation-case-over-remarks-against-amit-shah.html"
         },
         {
-            "title": "Greece Secures AI Pledges from Tech Giants to Revamp Digital State Services",
-            "description": "[IEFIMERIDA] Greece has secured commitments from global tech giants, including OpenAI and Microsoft, to integrate artificial intelligence into its public services, Digital Governance Minister Dimitris...",
-            "url": "https://www.iefimerida.gr/english/greece-secures-ai-pledges-tech-digital-services"
+            "title": "Tata Group Working on Building AI Chips, Says Chairman N Chandrasekaran",
+            "description": "[OUTLOOK BUSINESS] Tata Group is building artificial intelligence chips, Chairman N Chandrasekaran said, highlighting the conglomerate\u2019s ambitions in semiconductors and advanced AI hardware development.",
+            "url": "https://www.outlookbusiness.com/news/tata-group-working-on-building-ai-chips-says-chairman-n-chandrasekaran"
         },
         {
-            "title": "Global AI Impact Summit: UN Chief calls for global unity, says science",
-            "description": "[THE TRIBUNE] UN Secretary General Antonio Guterres on Friday called for utilising Artificial Intelligence for global good and mitigate challenges being faced by humanity. He urged countries to come together and...",
-            "url": "https://www.tribuneindia.com/news/world/global-ai-impact-summit-un-chief-calls-for-global-unity-says-science-led-governance-an-accelerator-for-solutions/"
+            "title": "Who is Ranvir Sachdeva? 8-year-old who met Sundar Pichai, Sam Altman and became youngest speaker at India AI Impact Summit 2026",
+            "description": "[THE ECONOMIC TIMES] An eight-year-old coder, Ranvir Sachdeva, made history as the youngest keynote speaker at the India AI Impact Summit 2026. He shared insights on integrating ancient Indian philosophies with...",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/who-is-ranvir-sachdeva-8-year-old-who-met-sundar-pichai-sam-altman-and-became-youngest-speaker-at-india-ai-impact-summit-2026/articleshow/128598936.cms"
         },
         {
-            "title": "Maha CM highlights AI\u2019s transformative role in agriculture at India AI Impact Summit",
-            "description": "[LOKMAT TIMES] Maha CM highlights AI\u2019s transformative role in agriculture at India AI Impact Summit - New Delhi, Feb 20 Maharashtra Chief Minister Devendra Fadnavis on Friday emphasised the pivotal role of...",
-            "url": "https://www.lokmattimes.com/national/maha-cm-highlights-ais-transformative-role-in-agriculture-at-india-ai-impact-summit/"
+            "title": "AI Summit: PM Modi discusses potential of harnessing AI in agri, edu with top execs",
+            "description": "[THE ECONOMIC TIMES] Prime Minister Narendra Modi met with AI and deeptech startup leaders. They explored using artificial intelligence in agriculture, environmental protection, and higher education. The Prime Minister...",
+            "url": "https://economictimes.indiatimes.com/news/india/ai-summit-pm-modi-discusses-potential-of-harnessing-ai-in-agri-edu-with-top-execs/articleshow/128598937.cms"
         },
         {
-            "title": "Maha CM highlights AI\u2019s transformative role in agriculture at India AI Impact Summit",
-            "description": "[LOKMAT TIMES] Maha CM highlights AI\u2019s transformative role in agriculture at India AI Impact Summit - New Delhi, Feb 20 Maharashtra Chief Minister Devendra Fadnavis on Friday emphasised the pivotal role of...",
-            "url": "https://www.lokmattimes.com/technology/maha-cm-highlights-ais-transformative-role-in-agriculture-at-india-ai-impact-summit-1/"
+            "title": "Google Gemini, Apple add music-focused generative AI features",
+            "description": "[THE STAR] Alphabet Inc's Google and Apple Inc are adding music-focused generative artificial intelligence features to their core consumer apps, underscoring how advanced AI tools are moving into mainstream use.",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/20/google-gemini-apple-add-music-focused-generative-ai-features"
         },
         {
-            "title": "India and Brazil plot a critical minerals and AI alliance amid a fragile world order",
-            "description": "[THE ECONOMIC TIMES] India and Brazil are set to boost collaboration on critical minerals and artificial intelligence. President Lula da Silva will meet Prime Minister Modi to discuss a framework agreement. Both nations...",
-            "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/india-and-brazil-plot-a-critical-minerals-and-ai-alliance-amid-a-fragile-world-order/articleshow/128594463.cms"
+            "title": "AI sovereignty doesn't imply digital isolation: Yotta's Sunil Gupta",
+            "description": "[DAILY EXCELSIOR] NEW DELHI, Feb 20: Sovereignty in artificial intelligence (AI) does not imply isolation or complete self-reliance, but rather strategic control, Sunil Gupta, MD and CEO of Yotta Data Services, said...",
+            "url": "https://www.dailyexcelsior.com/ai-sovereignty-doesnt-imply-digital-isolation-yottas-sunil-gupta/"
         }
     ]
 }
