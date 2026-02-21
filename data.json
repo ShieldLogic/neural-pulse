@@ -1,15 +1,15 @@
 {
-    "updated": "2026-02-21 08:25:59 UTC",
+    "updated": "2026-02-21 10:21:46 UTC",
     "news": [
+        {
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
-        },
-        {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
+        },
+        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
-        },
-        {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,14 +37,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
-        },
-        {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -75,6 +75,16 @@
             "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
             "description": "[BAIR] Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the...",
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
+        },
+        {
+            "title": "After Trillion-Dollar Runs, Is Nvidia (NVDA) or Tesla (TSLA) the Better Buy Today?",
+            "description": "[MARKETS INSIDER] After massive rallies, Nvidia (NVDA) and Tesla (TSLA) remain two of the market\u2019s most widely held plays on artificial intelligence (AI) and elec...",
+            "url": "https://markets.businessinsider.com/news/stocks/after-trillion-dollar-runs-is-nvidia-nvda-or-tesla-tsla-the-better-buy-today-1035852401"
+        },
+        {
+            "title": "PM holds bilaterals with top leaders of Mauritius, Lanka, Slovakia",
+            "description": "[THE TRIBUNE] Focuses on artificial intelligence cooperation, strategic partnerships.",
+            "url": "https://www.tribuneindia.com/news/india/pm-holds-bilaterals-with-top-leaders-of-mauritius-lanka-slovakia/"
         },
         {
             "title": "India\u2019s AI summit draws global leaders, big pledges and some chaos",
@@ -115,16 +125,6 @@
             "title": "India chases 'DeepSeek moment' with homegrown AI models",
             "description": "[JAPAN TODAY] Fledgling Indian artificial intelligence companies showcased homegrown technologies this week at a major summit in New Delhi, underpinning big dreams of becoming a global AI power. But analysts said...",
             "url": "https://japantoday.com/category/tech/india-chases-%27deepseek-moment%27-with-homegrown-ai-models"
-        },
-        {
-            "title": "Chelsea announce multi-million pound deal with new shirt sponsor in never-before-seen link-up",
-            "description": "[THE SUN] CHELSEA have signed Artificial Intelligence firm IFS as shirt sponsors for the rest of the season. But the search continues for a long-term...",
-            "url": "https://www.thesun.co.uk/sport/38290797/chelsea-shirt-sponsor-ifs-ai-football/"
-        },
-        {
-            "title": "Economic Resilience Amid Government Cuts and Tariff Challenges",
-            "description": "[DEVDISCOURSE] U.S. economic growth slowed in the fourth quarter due to significant government spending cuts, but consumer and business investment remained strong. Inflation is rising partly because of tariffs, and...",
-            "url": "https://www.devdiscourse.com/article/business/3812492-economic-resilience-amid-government-cuts-and-tariff-challenges"
         }
     ]
 }
