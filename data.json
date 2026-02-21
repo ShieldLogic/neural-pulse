@@ -1,11 +1,6 @@
 {
-    "updated": "2026-02-21 04:04:09 UTC",
+    "updated": "2026-02-21 06:37:02 UTC",
     "news": [
-        {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
-        },
         {
             "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
             "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
@@ -22,14 +17,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
-        },
-        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
+        },
+        {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -67,6 +62,11 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Tech Mahindra Partners With NVIDIA To Develop Educational LLM Program",
-            "description": "[SCANX.TRADE] Tech Mahindra has formed a strategic partnership with NVIDIA to develop an educational Large Language Model program. This collaboration combines Tech Mahindra's digital transformation expertise with...",
-            "url": "https://scanx.trade/stock-market-news/stocks/tech-mahindra-partners-with-nvidia-to-develop-educational-llm-program/33148997"
+            "title": "This New AI Chipmaker, Taalas, Hard-Wires AI Models Into Silicon to Make Them Faster and Cheaper; Early Results Crush Modern Solutions",
+            "description": "[WCCFTECH] Well, it appears that the chip startup Taalas has found a solution to LLM response latency and performance by creating dedicated hardware.",
+            "url": "https://wccftech.com/this-new-ai-chipmaker-taalas-hard-wires-ai-models-into-silicon-to-make-them-faster/"
         },
         {
-            "title": "AI in the layman\u2019s eye",
-            "description": "[THE STAR] The subject of artificial intelligence (AI) has become so dominant that the World Economic Forum in Davos recently reputedly devoted 200 sessions for corporate leaders to discuss AI from multiple...",
-            "url": "https://www.thestar.com.my/business/insight/2026/02/21/ai-in-the-laymans-eye"
+            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - India AI Impact Summit 2026: A Triumph for Global AI Collaboration",
+            "description": "[DEVDISCOURSE] Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all...",
+            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life"
         },
         {
-            "title": "US supreme court strikes down Trump's global tariffs; says he exceeded his authority",
-            "description": "[MALAYALA MANORAMA] The justices, in a 6-3 ruling authored by conservative Chief Justice John Roberts, upheld a lower court's decision.Supreme Court tariffs, Trump tariffs struck down, International Emergency Economic...",
-            "url": "https://www.onmanorama.com/news/world/2026/02/20/supreme-court-strikes-trump-tariffs.html"
+            "title": "India, US Unveil Ambitious AI Pact to Shape Global Tech Order",
+            "description": "[NDTV.COM] India and the United States have announced a sweeping new partnership on artificial intelligence, signalling a decisive shift toward pro-innovation cooperation as the two democracies seek to shape...",
+            "url": "https://www.ndtv.com/india-news/india-us-unveil-ambitious-ai-pact-to-shape-global-tech-order-11114975"
         },
         {
-            "title": "UN chief Guterres meets Modi in New Delhi, urges global cooperation on AI",
-            "description": "[FIRSTPOST] United Nations Secretary-General Antonio Guterres met Prime Minister Narendra Modi in New Delhi on the sidelines of the India AI Impact Summit 2026, emphasising the need for global cooperation on...",
-            "url": "https://www.firstpost.com/world/un-chief-guterres-meets-modi-in-new-delhi-urges-global-cooperation-on-ai-13982115.html"
+            "title": "\"Great meeting\": OpenAI CEO Sam Altman on meeting PM Modi, says \"incredible energy around AI in India\"",
+            "description": "[ZEE NEWS] OpenAI CEO Sam Altman described his meeting with Prime Minister Narendra Modi on Friday as great and highlighted the remarkable momentum of artificial intelligence adoption in India as the country...",
+            "url": "https://zeenews.india.com/technology/great-meeting-openai-ceo-sam-altman-on-meeting-pm-modi-says-incredible-energy-around-ai-in-india-3019110.html"
         },
         {
-            "title": "What the \u2018AI inflection point\u2019 means for journalism",
-            "description": "[FAST COMPANY] As artificial intelligence takes on more work in newsrooms, journalists can still thrive by focusing on authority over output.",
-            "url": "https://www.fastcompany.com/91492550/what-ai-inflection-point-means-journalism"
+            "title": "AI 'blind spot' could let criminals take over self-driving cars",
+            "description": "[FUTURITY: RESEARCH NEWS] A newly discovered vulnerability could allow cybercriminals to silently hijack the artificial intelligence systems in self-driving cars.",
+            "url": "https://www.futurity.org/ai-blind-spot-self-driving-cars-3323122/"
         },
         {
-            "title": "Compassionate teaching trumps AI in shaping future leaders: former Postal Service Board member",
-            "description": "[THE HINDU] Uday Bala Krishnan emphasises the vital role of compassionate teachers in nurturing young minds amidst the rise of Artificial Intelligence.",
-            "url": "https://www.thehindu.com/news/national/andhra-pradesh/compassionate-teaching-trumps-ai-in-shaping-future-leaders-former-postal-service-board-member/article70656987.ece"
+            "title": "Tensions between Pentagon and Anthropic reach a boiling point",
+            "description": "[NBC NEWS] Over the last week, tensions between the Pentagon and artificial intelligence giant Anthropic have reached a boiling point.",
+            "url": "https://www.nbcnews.com/tech/security/anthropic-ai-defense-war-venezuela-maduro-rcna259603"
         },
         {
-            "title": "Godfather of AI Yann LeCun says: Yes, LLMs may be passing Maths Olympiads and bar exams, but they will still fail in \u2026",
-            "description": "[TIMES OF INDIA] Tech News News: Former Meta AI scientist and one of the godfathers of modern artificial intelligence (AI), Yann LeCun, has revealed another task in which humans can b.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/godfather-of-ai-yann-lecun-says-yes-llms-may-be-passing-maths-olympiads-and-bar-exams-but-they-will-still-fail-in-/articleshow/128614667.cms"
+            "title": "AI in diagnostics, faster hiring must shape AIIMS expansion: Nadda",
+            "description": "[TIMES OF INDIA] India News: NEW DELHI: As the network of All India Institutes of Medical Sciences expands across the country, artificial intelligence in diagnostics and faster fa.",
+            "url": "https://timesofindia.indiatimes.com/india/ai-in-diagnostics-faster-hiring-must-shape-aiims-expansion-nadda/articleshow/128618580.cms"
         },
         {
-            "title": "Amazon\u2019s cloud \u2018hit by two outages caused by AI tools last year\u2019",
-            "description": "[THE GUARDIAN] Reported issues at Amazon Web Services raise questions about firm\u2019s use of artificial intelligence as it cuts staff",
-            "url": "https://www.theguardian.com/technology/2026/feb/20/amazon-cloud-outages-ai-tools-amazon-web-services-aws"
+            "title": "40-feet deep, rescuers on a 7-hr underwater operation in murky quarry pool to recover truck cleaner\u2019s body after Malappuram accident",
+            "description": "[MALAYALA MANORAMA] Once the truck was brought to the surface, rescuers used hydraulic cutting equipment to dismantle parts of the mangled cabin and extricate the body..Malappuram quarry rescue, abandoned quarry...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/20/kerala-malappuram-seven-hour-underwater-operation-ghee-contaminated-quarry.html"
         },
         {
-            "title": "AI Ministry Urged: Telangana CM Reddy Calls for India's AI Leadership",
-            "description": "[DEVDISCOURSE] Telangana Chief Minister A Revanth Reddy advocates for a dedicated Ministry of Artificial Intelligence and an India AI Council to prevent AI misuse. He stresses India's need to transition from AI...",
-            "url": "https://www.devdiscourse.com/article/technology/3812229-ai-ministry-urged-telangana-cm-reddy-calls-for-indias-ai-leadership"
+            "title": "Forceps in abdomen: Alappuzha woman underwent surgeries in 2007 & 2021, panel probes records of both procedures",
+            "description": "[MALAYALA MANORAMA] This has prompted the panel to ascertain the timeline and track the medical staff involved in both the surgical procedures..surgical forceps, retained surgical item, medical error, Alappuzha medical...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/20/surgical-forceps-found-in-abdomen-alappuzha.html"
         },
         {
-            "title": "AI Used In Defence Tech, Maduro Raid? What OpenAI's Sam Altman Said",
-            "description": "[NDTV.COM] Artificial intelligence has not reached a level where it can make critical decisions in a military environment or take a call on making the best choice for warfighting, OpenAI chief Sam Altman told...",
-            "url": "https://www.ndtv.com/world-news/ai-used-in-defence-tech-maduro-raid-what-openais-sam-altman-said-11113980"
+            "title": "After Govt's township declaration, IUML also ready with houses for Wayanad landslide survivors, first phase for non-Muslim families",
+            "description": "[MALAYALA MANORAMA] These will be handed over to the beneficiaries on February 28..landslide survivor housing, IUML housing project, Wayanad crowdfunding, Kalpetta rehabilitation, Chooralmala disaster relief, Vellithode...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/20/kerala-wayanad-township-iuml-house-for-landslide-survivors.html"
         }
     ]
 }
