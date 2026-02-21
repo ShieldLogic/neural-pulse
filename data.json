@@ -1,20 +1,25 @@
 {
-    "updated": "2026-02-21 12:39:09 UTC",
+    "updated": "2026-02-21 14:22:53 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
-        },
-        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
+        },
+        {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -27,24 +32,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+            "title": "Building a Simple MCP Server in Python",
+            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
+            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
-        },
-        {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "PM discusses potential of harnessing AI with CEOs of AI, deeptech startups",
-            "description": "[THE HITAVADA] prime minister narendra modi on friday discussed the potential of harnessing artificial intelligence technology in various sectors like agriculture, environmental protection, and promoting higher...",
-            "url": "https://www.thehitavada.com/Encyc/2026/2/21/pm-discusses-potential-of-harnessing-ai-with-ceos-of-ai-deeptech-startups.html"
+            "title": "Forceps in abdomen: Case against Dr Lalithambica for medical negligence",
+            "description": "[MALAYALA MANORAMA] Retired surgeon Dr Lalithambica, against whom the allegations were raised, has denied performing the surgery..medical negligence alappuzha, forceps left in patient, dr lalithambica karunakaran,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/21/forceps-abdomen-alappuzha-medical-negligence-case-dr-lalithambica.html"
         },
         {
-            "title": "Mah CM Fadnavis pitches for AI-led agri-ecosystem",
-            "description": "[THE HITAVADA] maharashtra chief minister devendra fadnavis on friday invited global investors to partner in scaling artificial intelligence-driven solutions for agriculture while noting that his state is building...",
-            "url": "https://www.thehitavada.com/Encyc/2026/2/21/mah-cm-fadnavis-pitches-for-ai-led-agri-ecosystem-.html"
+            "title": "OpenAI flagged Canada suspect eight months before mass shooting",
+            "description": "[MONEYCONTROL] The artificial intelligence company said that the suspected killer \u2014 Jesse Van Rootselaar \u2014 had an account that was detected about eight months ago by systems that scan for misuse, including the...",
+            "url": "https://www.moneycontrol.com/news/business/openai-flagged-canada-suspect-eight-months-before-mass-shooting-13838007.html"
         },
         {
-            "title": "Dan Herbatschek of Ramsey Theory Capital Publishes AI Macroeconomic Framework as Global Leaders Debate Job Disruption, Automation and Regulatory Acceleration",
-            "description": "[FINANZNACHRICHTEN] As artificial intelligence reshapes labor markets and enterprise productivity, Herbatschek outlines sector-specific impact models for automotive, healthcare and field service industries NEW YORK, NY /",
-            "url": "https://www.finanznachrichten.de/nachrichten-2026-02/67755631-dan-herbatschek-of-ramsey-theory-capital-publishes-ai-macroeconomic-framework-as-global-leaders-debate-job-disruption-automation-and-regulatory-accel-200.htm"
+            "title": "No Heartbreaks: Falling In Love With Artificial Intelligence",
+            "description": "[OUTLOOK INDIA] Why AI-powered intimacy may make human relationships feel harder",
+            "url": "https://www.outlookindia.com/culture-society/no-heartbreaks-falling-in-love-with-artificial-intelligence"
         },
         {
-            "title": "Explainer: Sarvam and India\u2019s AI leap",
-            "description": "[THE TRIBUNE] India\u2019s artificial intelligence (AI) journey has taken a significant step forward with Sarvam AI unveiling two new home-grown large language models (LLMs) at the India AI Summit. The...",
-            "url": "https://www.tribuneindia.com/news/explainers/explainer-sarvam-and-indias-ai-leap/"
+            "title": "OpenAI contacted RCMP about Tumbler Ridge shooter's ChatGPT account after attack",
+            "description": "[BAYTODAY] RCMP has confirmed artificial intelligence company OpenAI contacted its investigators after last week's mass shootings in Tumbler Ridge, B.C.",
+            "url": "https://www.baytoday.ca/national-news/openai-contacted-rcmp-about-tumbler-ridge-shooters-chatgpt-account-after-attack-11906770"
         },
         {
-            "title": "AI Impact Expo 2026- Global AI Order from Delhi",
-            "description": "[DAILY EXCELSIOR] Prof D Mukherjee mukhopadhyay.dinabandhu@gmail.com The India AI Impact Expo 2026, held from 16-20 February 2026 at Bharat Mandapam in New Delhi, was one of India\u2019s most significant gatherings on...",
-            "url": "https://www.dailyexcelsior.com/ai-impact-expo-2026-global-ai-order-from-delhi/"
+            "title": "OpenAI contacted RCMP about Tumbler Ridge shooter's ChatGPT account after attack",
+            "description": "[SOOTODAY] RCMP has confirmed artificial intelligence company OpenAI contacted its investigators after last week's mass shootings in Tumbler Ridge, B.C.",
+            "url": "https://www.sootoday.com/national-news/openai-contacted-rcmp-about-tumbler-ridge-shooters-chatgpt-account-after-attack-11906770"
         },
         {
-            "title": "Artificial Intelligence can substitute everything, but can\u2019t substitute integrity: Dr Jitendra",
-            "description": "[DAILY EXCELSIOR] Excelsior Correspondent NEW DELHI, Feb 20: \u201cArtificial Intelligence (AI) can substitute everything on this planet, but it cannot substitute integrity. Artificial Intelligence can transform systems,...",
-            "url": "https://www.dailyexcelsior.com/artificial-intelligence-can-substitute-everything-but-cant-substitute-integrity-dr-jitendra/"
+            "title": "The New Industrial Era of 2026 Explained Fully",
+            "description": "[TECHBULLION] Explore the New Industrial Era of 2026 where manufacturing evolves with Cognitive systems and Artificial Intelligence.",
+            "url": "https://techbullion.com/the-cognitive-factory-humanoids-digital-twins-and-the-new-industrial-era-of-2026/"
         },
         {
-            "title": "PM Modi holds roundtable with 16 heads of AI, deeptech startups; nine bilaterals with leaders, CEOs",
-            "description": "[DAILY EXCELSIOR] NEW DELHI, Feb 20: Prime Minister Narendra Modi on Friday held a series of meetings that included a roundtable with CEOs and founders of 16 AI and deeptech startups, seven back-to-back bilaterals and...",
-            "url": "https://www.dailyexcelsior.com/pm-modi-holds-roundtable-with-16-heads-of-ai-deeptech-startups-nine-bilaterals-with-leaders-ceos/"
+            "title": "Kerala HC stays govt move to regularise temporary employees",
+            "description": "[MALAYALA MANORAMA] The Kerala High Court has stayed the government's decision to regularize temporary employees in government and quasi-government institutions..Kerala High Court stay, government job regularization...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/21/kerala-high-court-stay-regularization-temporary-employees.html"
         },
         {
-            "title": "IIT Jammu showcases sovereign AI initiatives at India AI Impact Summit",
-            "description": "[DAILY EXCELSIOR] Excelsior Correspondent JAMMU, Feb 20: The Indian Institute of Technology Jammu played a prominent role at the India AI Impact Summit 2026, held at Bharat Mandapam, New Delhi, contributing to...",
-            "url": "https://www.dailyexcelsior.com/iit-jammu-showcases-sovereign-ai-initiatives-at-india-ai-impact-summit/"
+            "title": "Artificial Intelligence as Financial Infrastructure: How AI Is Reshaping Modern Trading Systems",
+            "description": "[TECHBULLION] Over the past decade, artificial intelligence has evolved from a highly specialized research discipline into a core layer of modern financial infrastructure. What was once limited to experimental...",
+            "url": "https://techbullion.com/artificial-intelligence-as-financial-infrastructure-how-ai-is-reshaping-modern-trading-systems/"
         },
         {
-            "title": "AI-powered \u2018Invisible Shield\u2019 strengthens Aadhaar Data security: UIDAI",
-            "description": "[DAILY EXCELSIOR] Excelsior Correspondent JAMMU, Feb 20: The Unique Identification Authority of India (UIDAI) has rolled out a next-generation artificial intelligence (AI)-driven biometric deduplication and document...",
-            "url": "https://www.dailyexcelsior.com/ai-powered-invisible-shield-strengthens-aadhaar-data-security-uidai/"
+            "title": "Micron strengthening mfg footprint in India",
+            "description": "[TIMES OF INDIA] India Business News: New Delhi: As artificial intelligence systems grow more powerful and data-hungry, the pressure on memory and storage technology is intensifying, best .",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/micron-strengthening-mfg-footprint-in-india/articleshow/128629386.cms"
         },
         {
-            "title": "Telangana banking on AI to open new career avenues, says minister Sridhar Babu",
-            "description": "[TIMES OF INDIA] Hyderabad: Telangana hopes to emerge as a role model for digital governance by leveraging artificial intelligence (AI), quantum computing and blockcha.",
-            "url": "https://timesofindia.indiatimes.com/city/hyderabad/telangana-banking-on-ai-to-open-new-career-avenues-says-minister-sridhar-babu/articleshow/128620835.cms"
+            "title": "$2.2bn India investment on track: Kyndryl CEO",
+            "description": "[TIMES OF INDIA] India Business News: New Delhi: Artificial intelligence is no longer experimental, said Martin Schroeter, CEO of Kyndryl, one of the world's largest IT infrastructure serv.",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/2-2bn-india-investment-on-track-kyndryl-ceo/articleshow/128629303.cms"
         }
     ]
 }
