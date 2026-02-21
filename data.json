@@ -1,10 +1,10 @@
 {
-    "updated": "2026-02-21 20:20:29 UTC",
+    "updated": "2026-02-21 22:19:31 UTC",
     "news": [
         {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
         },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
@@ -17,14 +17,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
-        },
-        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
+        },
+        {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -35,11 +35,6 @@
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "Building a Simple MCP Server in Python",
-            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
-            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
             "title": "Choosing Between PCA and t-SNE for Visualization",
@@ -67,6 +62,11 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "AI Meets Mahabharat: Artificial Intelligence, Hologram Tech Bring 'Lord Krishna', 'Arjuna' at AI Summit 2026",
-            "description": "[TIMES NOW] The AI Impact Summit is being held from February 16-20 at Bharat Mandapam, in which several heads of state, many global AI leaders, academicians and researchers, and heads of global tech giants, and...",
-            "url": "https://www.timesnownews.com/india/ai-meets-mahabharat-artificial-intelligence-hologram-tech-bring-lord-krishna-arjuna-at-ai-summit-2026-article-153661007"
+            "title": "An evening of Artificial Intelligence, diplomacy and conversations in Delhi",
+            "description": "[HINDUSTAN TIMES] The AI Summit celebration showcased interactive AI installations and discussions among global leaders, emphasiaing the shared vision for AI development.",
+            "url": "https://www.hindustantimes.com/htcity/leisure/an-evening-of-artificial-intelligence-diplomacy-and-conversations-in-delhi-101771566105351.html"
         },
         {
-            "title": "Economist slams AI doom predictions, \u2018replacing humans is not innovation\u2019",
-            "description": "[THE NEWS INTERNATIONAL] Dan Davies, an economist and writer, argues that artificial intelligence will not result in widespread job losses because he refutes claims that AI will replace millions of workers. Davies,...",
-            "url": "https://www.thenews.com.pk/latest/1393091-economist-slams-ai-doom-predictions-replacing-humans-is-not-innovation"
+            "title": "The Intelligent Flow: Autonomous Corridors, Hyper-Logistics, and the Self-Healing Supply Chain of 2026",
+            "description": "[TECHBULLION] Explore the Self-Healing Supply Chain of 2026, where logistics become predictive ecosystems powered by Artificial Intelligence.",
+            "url": "https://techbullion.com/the-intelligent-flow-autonomous-corridors-hyper-logistics-and-the-self-healing-supply-chain-of-2026/"
         },
         {
-            "title": "\u2018India is poised to lead global AI adoption\u2019: OpenAI Chief Economist Ronnie Chatterji",
-            "description": "[THE INDIAN EXPRESS] Cutting through the noise around artificial intelligence, OpenAI Chief Economist Ronnie Chatterji says data tells a clearer story. India\u2019s scale, talent pool and accelerating usage, he says, make it...",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-chief-economist-ronnie-chatterji-india-ai-adoption-10544061/"
+            "title": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.",
+            "description": "[THE NEW YORK TIMES] Tech leaders are beginning to worry about the public\u2019s underwhelming enthusiasm for their plans to remake the world with artificial intelligence. Will that burst the bubble?",
+            "url": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html"
         },
         {
-            "title": "India's First Quantum-AI University to Transform Tech Education in Amaravati",
-            "description": "[DEVDISCOURSE] The National Institute of Electronics & Information Technology (NIELIT) joins forces with the Andhra Pradesh government to establish India's pioneering Quantum and Artificial Intelligence university...",
-            "url": "https://www.devdiscourse.com/article/business/3812755-indias-first-quantum-ai-university-to-transform-tech-education-in-amaravati"
+            "title": "Pakistanis likely to miss out on The Hundred due to IPL-linked franchises",
+            "description": "[MALAYALA MANORAMA] England's limited-overs cricket captain Harry Brook has said it would be a shame to not have Pakistan players in The Hundred..The Hundred Pakistan players, Pakistan cricket The Hundred, IPL influence...",
+            "url": "https://www.onmanorama.com/sports/cricket/2026/02/21/the-hundred-auction-pakistan-players-to-miss-out-ipl-teams.html"
         },
         {
-            "title": "Kompany says Mourinho made huge leadership mistake in handling Vinicius racism row",
-            "description": "[MALAYALA MANORAMA] Bayern Munich manager Vincent Kompany has criticised iconic coach Jose Mourinho for his poor handling of the racism allegations made by Real Madrid's.Vincent Kompany criticizes Mourinho, racism in...",
-            "url": "https://www.onmanorama.com/sports/football/2026/02/21/vincent-kompany-reaction-jose-mourinho-handling-vinicius-racism-row.html"
+            "title": "Kerala lottery Karunya KR-743 result today 21/02/2026: \u20b91 cr first prize for KV 668293 | Check complete list",
+            "description": "[MALAYALA MANORAMA] The first prize is 1 crore, subject to a 30% tax deduction. The second prize is 25 lakh, followed by a third prize of 10 lakh..Kerala lottery result today, Karunya KR-743 result, Kerala lottery first...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/21/kerala-lottery-results-karunya-kr-743-1-crore-prize-complete-list-21-2-2026-check-live.html"
         },
         {
-            "title": "PM Modi meets global AI CEOs at Seva Teerth to discuss future of artificial intelligence",
-            "description": "[THE NEW INDIAN EXPRESS] According to official sources, the startups participating in the roundtable discussed tackling population-scale challenges across key sectors.",
-            "url": "https://www.newindianexpress.com/nation/2026/Feb/21/pm-modi-meets-global-ai-ceos-at-seva-teerth-to-discuss-future-of-artificial-intelligence"
+            "title": "Who\u2019s the hero?\u2019 Rajinikanth and Kamal Haasan's promo video teases a fun-filled collaboration",
+            "description": "[MALAYALA MANORAMA] A promo for the film was released, depicting a playful interaction between director Nelson Dilipkumar and music composer Anirudh Ravichander,.Rajinikanth Kamal Haasan reunion, KHXRK movie, Tamil...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/21/rajinikanth-kamal-haasan-reunion-khxrk-new-movie.html"
         },
         {
-            "title": "AI must be integrated in healthcare with human oversight: Justice Prathiba M Singh",
-            "description": "[HINDUSTAN TIMES] The judge highlighted that integrating artificial intelligence into healthcare is essential due to the shortage of medical professionals in India and globally| India News",
-            "url": "https://www.hindustantimes.com/india-news/ai-must-be-integrated-in-healthcare-with-human-oversight-justice-prathiba-m-singh-101771659063598.html"
+            "title": "We Democratised AI, MeitY Secretary S Krishnan To NDTV On India Impact Summit",
+            "description": "[NDTV.COM] A major focus of the India AI Impact Summit was to democratise artificial intelligence (AI), and the country has achieved that goal, S Krishnan, Secretary, Ministry of Electronics and Information...",
+            "url": "https://www.ndtv.com/india-news/we-democratised-ai-meity-secretary-s-krishnan-to-ndtv-on-india-impact-summit-11117249"
         },
         {
-            "title": "Google DeepMind chief says AI development could soon reach a choke point, here is why",
-            "description": "[INDIA TODAY] Artificial Intelligence is developing rapidly, with companies such as Google and Anthropic periodically bringing more advanced models. However, Google DeepMind CEO Demis Hassabis has warned that one...",
-            "url": "https://www.indiatoday.in/technology/news/story/google-deepmind-chief-says-ai-development-could-reach-a-choke-point-here-is-why-2871968-2026-02-21"
+            "title": "\u201cIf I can keep up with them at family dinner\u2026\u201d: Rishi Sunak\u2019s playful 'in",
+            "description": "[TIMES OF INDIA] Trending News: Artificial intelligence was the main agenda. Big ideas, serious faces and deep tech conversations filled the hall at the AI Impact Summit in New Delhi.",
+            "url": "https://timesofindia.indiatimes.com/etimes/trending/if-i-can-keep-up-with-them-at-family-dinner-rishi-sunaks-playful-in-laws-remark-steals-the-india-ai-summit-spotlight/articleshow/128639605.cms"
         },
         {
-            "title": "National Institute of Electronics & Information Technology and Andhra Pradesh Launch First Quantum & AI University Campus in Amaravati",
-            "description": "[THE TRIBUNE] Amaravati (Andhra Pradesh) [India], February 21: In a landmark move poised to redefine India's deep-tech education landscape, the National Institute of Electronics & Information Technology (NIELIT),...",
-            "url": "https://www.tribuneindia.com/news/business/national-institute-of-electronics-information-technology-and-andhra-pradesh-launch-first-quantum-ai-university-campus-in-amaravati/"
+            "title": "AI Job Loss, Medical Inflation Risks To Achieving Viksit Bharat 2047 Goals, Says Tapan Singhel Of Bajaj General Insurance",
+            "description": "[OUTLOOK MONEY] India faces several emerging risks, including job loss due to development in artificial intelligence (AI), rising medical inflation, and pressures of a rapidly growing ageing population, said Tapan...",
+            "url": "https://www.outlookmoney.com/retirement/ai-job-loss-medical-inflation-risks-to-achieving-viksit-bharat-2047-goals-says-tapan-singhel-of-bajaj-general-insurance"
         },
         {
-            "title": "Tariffs on Indian imports cut to 10% as Trump issues proclamation after SC verdict",
-            "description": "[MALAYALA MANORAMA] Indian goods being imported into the US would no longer be subject to the 18 per cent tariff rate..India US trade tariffs, US import surcharge, Trump tariffs India, new US import duty, understanding...",
-            "url": "https://www.onmanorama.com/news/business/2026/02/21/india-us-trade-tariffs-10-percent.html"
+            "title": "Even a drop of honey is too risky for your baby: Doctor gives reasons",
+            "description": "[MALAYALA MANORAMA] Dr Suresh C Pillai of Atlantic Technological University, Ireland, explains the reasons..infant botulism, when can infants have honey, dangers of honey for babies, baby botulism symptoms, infant food...",
+            "url": "https://www.onmanorama.com/health/diet/2026/02/21/honey-risky-for-babies-doctor.html"
         }
     ]
 }
