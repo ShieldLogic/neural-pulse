@@ -1,6 +1,11 @@
 {
-    "updated": "2026-02-22 20:22:03 UTC",
+    "updated": "2026-02-22 22:20:39 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
         {
             "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
             "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
@@ -17,14 +22,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
+        },
+        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
-        },
-        {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -62,11 +67,6 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "NaMo Bharat train, Meerut Metro flagged off: How they cut travel time",
-            "description": "[MALAYALA MANORAMA] The new corridor is expected to reduce the number of private vehicles on the roads and make a safe commute easy for the common man..Namo Bharat train, Meerut Metro inauguration, Delhi-Meerut RRTS,...",
-            "url": "https://www.onmanorama.com/travel/travel-news/2026/02/22/pm-inaugurates-namo-bharat-meerut-metro-travel-time.html"
+            "title": "'Magic remedy' that could cure piles in a day: Fact check",
+            "description": "[MALAYALA MANORAMA] Piles patients should eat plenty of fibre-rich fruits and vegetables and drink lots of water..piles treatment, hemorrhoid remedies, viral piles cure, VapoRub piles myth, natural hemorrhoid relief,...",
+            "url": "https://www.onmanorama.com/health/healthcare/2026/02/22/piles-cure-vaporub-coconut-mix.html"
         },
         {
-            "title": "What founder, CEO of Vianai Systems Vishal Sikka Told NDTV On Jobs, AI",
-            "description": "[NDTV.COM] Vishal Sikka, founder and CEO of Vianai Systems, discussed the promises and perils of artificial intelligence. In an interview with NDTV's Senior Managing Editor Vishnu Som, the entrepreneur spoke of...",
-            "url": "https://www.ndtv.com/india-news/best-way-to-predict-future-is-to-invent-it-what-founder-ceo-of-vianai-systems-vishal-sikka-told-ndtv-on-jobs-ai-11120294"
+            "title": "\u2018Here\u2019s the recipe\u2019: Netizens respond to The Kerala Story 2 trailer with beef fry and curry instructions",
+            "description": "[MALAYALA MANORAMA] On the official Instagram page of The Kerala Story 2, comment sections have been flooded with detailed instructions for cooking beef roast and beef.The Kerala Story 2, Kerala Story 2 beef, Kerala...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/22/the-kerala-story-2--netizens-respond-beef-recipes-bollywood.html"
         },
         {
-            "title": "\"Robotic Soldiers Would Be Coming In Future\": Ex-DRDO Chief To NDTV",
-            "description": "[NDTV.COM] Artificial intelligence is no longer a futuristic promise confined to laboratories and science fiction. It is rapidly becoming the backbone of modern defence systems, reshaping how wars are prepared...",
-            "url": "https://www.ndtv.com/india-news/robotic-soldiers-would-be-coming-in-future-ex-defence-research-and-development-organisation-drdo-chief-dr-g-satheesh-reddy-to-ndtv-11120257"
+            "title": "AI Washing? Open AI CEO Sam Altman pushes back on layoff blame",
+            "description": "[FIRSTPOST] At the AI Impact Summit 2026, OpenAI CEO Sam Altman said artificial intelligence is not the main driver of recent layoffs, calling out \u201cAI washing\u201d where companies blame automation for job cuts that...",
+            "url": "https://www.firstpost.com/tech/ai-washing-open-ai-ceo-sam-altman-pushes-back-on-layoff-blame-13982447.html"
         },
         {
-            "title": "IOC woman retiree finds new ways to revive Malayalam for the next generation",
-            "description": "[MALAYALA MANORAMA] Anila Mathew's Kinder Kalari offers innovative Malayalam language learning solutions for children. This initiative aims to strengthen the emotional.Malayalam language learning for kids, early...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/22/kinder-kalari-malayalam-learning-anila-mathew-passion-project.html"
+            "title": "This IIM wants to use AI to set question papers and check answers, even students can use it for projects",
+            "description": "[THE ECONOMIC TIMES] IIM-Nagpur is set to revolutionize student assessments with Artificial Intelligence. AI will drastically cut down grading time from weeks to just a day or two. Professors will still have the final...",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/this-iim-wants-to-use-ai-to-set-question-papers-and-check-answers-even-students-can-use-it-for-projects/articleshow/128672066.cms"
         },
         {
-            "title": "Artificial Intelligence Does Not Replace Work - It Multiplies It",
-            "description": "[TECHBULLION] In the public debate surrounding artificial intelligence, one concern continues to surface: the fear that automation will ultimately replace human work. Viewed through an entrepreneurial and...",
-            "url": "https://techbullion.com/artificial-intelligence-does-not-replace-work-it-multiplies-it/"
+            "title": "Kerala lottery Samrudhi SM-43 | result today 22/02/2026: \u20b91 cr first prize for MM 310268 | Check complete list",
+            "description": "[MALAYALA MANORAMA] The Kerala State Lottery Department announced the results of the Samrudhi SM-43 lottery draw with a 1 crore first prize, 25 lakh second prize, and 5.Kerala lottery results, Samrudhi SM-43 results,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/22/samrudhi-sm-43-lottery-results-kerala-1-crore-first-prize-list-winners-live.html"
         },
         {
-            "title": "Google executive warns THESE startups may face trouble as generative AI hype goes down",
-            "description": "[THE FINANCIAL EXPRESS] While LLM wrappers and aggregators face tough times ahead, Google executive expressed optimism for other parts of the AI ecosystem.",
-            "url": "https://www.financialexpress.com/life/technology-google-executive-warns-these-startups-may-face-trouble-as-generative-ai-hype-goes-down-4151141/"
+            "title": "Smooth ride at 159 km/h, experiencing Delhi-Meerut RRTS before official inauguration",
+            "description": "[MALAYALA MANORAMA] The train features both Premium and Standard coaches. Charging points for mobiles and laptops are available in both..Delhi Meerut RRTS, RRTS Delhi expansion, Sarai Kale Khan transit hub, Namo Bharat...",
+            "url": "https://www.onmanorama.com/travel/travel-news/2026/02/22/delhi-meerut-rrts-experience-inauguration.html"
         },
         {
-            "title": "World leaders impressed with India's achievements in AI, says PM Modi",
-            "description": "[THE HINDU BUSINESS LINE] Prime Minister Narendra Modi on Sunday highlighted strides made by India in the field of artificial intelligence, saying the AI summit showcased how animals were being treated in the country with the...",
-            "url": "https://www.thehindubusinessline.com/news/world-leaders-impressed-with-indias-achievements-in-ai-says-pm-modi/article70662651.ece"
+            "title": "New maps of mouse brains reveal patterns of myelin formation",
+            "description": "[NEWS-MEDICAL.NET] Johns Hopkins scientists say they have used 3D imaging, special microscopes and artificial intelligence (AI) programs to construct new maps of mouse brains showing a precise location of more than 10...",
+            "url": "https://www.news-medical.net/news/20260222/New-maps-of-mouse-brains-reveal-patterns-of-myelin-formation.aspx"
         },
         {
-            "title": "Has one Irishman's 15-second AI video killed off Hollywood?",
-            "description": "[RTE.IE] There isn't a day that goes by when artificial intelligence isn't at the centre of some controversy...",
-            "url": "https://www.rte.ie/culture/2026/0222/1559343-has-one-irishmans-15-second-ai-video-killed-off-hollywood/"
+            "title": "Wall Street week ahead: Nvidia, software reports pose next tests for AI-sensitive stock market",
+            "description": "[THE ECONOMIC TIMES] Investors turn to financial results from artificial intelligence bellwether Nvidia Corp in the coming week to steady a U.S. stock market \u200bthat has been rocked by AI-related worries and is digesting a...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-nvidia-software-reports-pose-next-tests-for-ai-sensitive-stock-market/articleshow/128671665.cms"
         },
         {
-            "title": "PM Modi in Mann ki Baat: World leaders impressed by India\u2019s AI gains",
-            "description": "[THE ECONOMIC TIMES] Prime Minister Narendra Modi in \"Mann ki Baat\" shared India's progress in artificial intelligence. AI is now helping treat animals and track livestock for farmers. The country is also using AI to...",
-            "url": "https://economictimes.indiatimes.com/news/india/pm-modi-says-world-leaders-impressed-by-indias-ai-gains-in-mann-ki-baat/articleshow/128668400.cms"
+            "title": "'Sabarimala tantri among group of thieves, it's all political': M V Govindan on allegations in bail plea",
+            "description": "[MALAYALA MANORAMA] Govindan may have also referred to the list of accused in the gold scam case which also includes CPM leaders like A Padmakumar and N Vasu..Sabarimala gold theft, tantri Kandararu Rajeevaru, CPM...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/22/sabarimala-gold-theft-tantri.html"
         },
         {
-            "title": "Shalini on why her kids still haven\u2019t watched her films, makes a playful appeal to them",
-            "description": "[MALAYALA MANORAMA] Recalling the amusing reality at home, Shalini said that her children often plan to watch her films but keep postponing it.Shalini children movie confession, Shalini Ajith children, Malayalam actor...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/22/actor-shalini-children-watching-her-films-malayalam-cinema-kollywood.html"
+            "title": "Vaishnavi Adkar becomes first Indian to reach ITF W100 final after Sania Mirza",
+            "description": "[MALAYALA MANORAMA] Wild card Vaishnavi Adkar, ranked 690, achieved a career-best performance by reaching her maiden singles final of a W100 ITF event in Bengaluru with.Vaishnavi Adkar, ITF W100 final, Indian tennis...",
+            "url": "https://www.onmanorama.com/sports/tennis/2026/02/22/vaishnavi-adkar-first-indian-itf-final-sania-mirza.html"
         }
     ]
 }
