@@ -1,15 +1,15 @@
 {
-    "updated": "2026-02-22 01:52:11 UTC",
+    "updated": "2026-02-22 04:14:06 UTC",
     "news": [
+        {
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
-        },
-        {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
+        },
+        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
-        },
-        {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,14 +37,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
-        },
-        {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Wild boar strays into house, attacks 9-year-old girl in Thrissur",
-            "description": "[MALAYALA MANORAMA] The child sustained a deep wound above her rib area and required four stitches.wild boar attack Thrissur, girl injured wild boar, Thrissur woman mauled, wild animal attack Kerala, AI safety wild...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/21/wild-boar-attacks-girl-in-thrissur-house.html"
+            "title": "UNA leads statewide strike of private hospital nurses, demands hike in minimum salary",
+            "description": "[MALAYALA MANORAMA] On Saturday, around one-third of the nurses reported for duty, while the others took part in the strike..nurses strike Kerala, private hospital nurses pay raise, Thrissur nurses protest, UNA Kerala...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/21/kerala-private-hospital-nurses-strike-salary.html"
         },
         {
-            "title": "The AI tracker: This week\u2019s developments show how AI is reshaping engagement in rural India, fashion tech, and kids privacy",
-            "description": "[THE FINANCIAL EXPRESS] From rural youth adoption and AI fashion tools to privacy concerns in smart toys, this week\u2019s AI Tracker maps how artificial intelligence is reshaping culture, business and governance.",
-            "url": "https://www.financialexpress.com/life/technology-the-ai-tracker-this-weeks-developments-show-how-ai-is-reshapingnbspengagement-in-rural-india-fashion-tech-and-kids-privacy-4150667/"
+            "title": "Cybersecurity amid explosion of digital identities",
+            "description": "[THE MANILA TIMES] AS 2026 unfolds, enterprise cybersecurity continues to lag behind the rapid rise of artificial intelligence. Identity security is therefore expected to evolve to account for the adoption of agentic...",
+            "url": "https://www.manilatimes.net/2026/02/22/business/sunday-business-it/cybersecurity-amid-explosion-of-digital-identities/2282350"
         },
         {
-            "title": "India\u2019s AI startup Sarvam that Google CEO Sundar Pichai praised launches Indus AI chatbot app with multilingual support",
-            "description": "[TIMES OF INDIA] Tech News News: Sarvam, an Indian artificial intelligence startup working on AI models for Indian languages and users, has launched its Indus chat app for web and mob.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/indias-ai-startup-sarvam-that-google-ceo-sundar-pichai-praised-launches-indus-ai-chatbot-app-with-multilingual-support/articleshow/128646438.cms"
+            "title": "AI reshapes shopping as consumers embrace agentic commerce",
+            "description": "[THE MANILA TIMES] CONSUMERS are increasingly relying on artificial intelligence to guide purchases, and many are prepared to let AI systems complete transactions on their behalf, according to a new global study.",
+            "url": "https://www.manilatimes.net/2026/02/22/business/sunday-business-it/ai-reshapes-shopping-as-consumers-embrace-agentic-commerce/2282347"
         },
         {
-            "title": "Kerala Blasters evicted from their home ground on eve of first home match in ISL",
-            "description": "[MALAYALA MANORAMA] Greater Cochin Development Authority that owns the Jawaharlal Nehru International Stadium in Kochi evicted Kerala Blasters and AIFF officials from.Kerala Blasters eviction, ISL home ground dispute,...",
-            "url": "https://www.onmanorama.com/sports/football/2026/02/21/isl-kerala-blasters-evicted-jni-kochi-by-gcda-on-eve-home-match-mumbai-city.html"
+            "title": "AI wealth firm buys US analytics company",
+            "description": "[THE MANILA TIMES] AN ARTIFICIAL intelligence-driven wealth technology firm has acquired a Chicago-based analytics company ahead of its planned entry into the Philippine financial technology sector this year.",
+            "url": "https://www.manilatimes.net/2026/02/22/business/sunday-business-it/ai-wealth-firm-buys-us-analytics-company/2282344"
         },
         {
-            "title": "Global summit calls for secure, trustworthy and robust AI",
-            "description": "[DHAKA TRIBUNE] Dozens of nations including the United States and China called for \u201csecure, trustworthy and robust\u201d artificial intelligence, in a declaration issued Saturday after a major summit on the technology in...",
-            "url": "https://www.dhakatribune.com/world/south-asia/403850/global-summit-calls-for-secure-trustworthy-and"
+            "title": "Google VP warns that two types of AI startups may not survive",
+            "description": "[TECHCRUNCH] As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
+            "url": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/"
         },
         {
-            "title": "US military airlifts microreactor from California to Utah on C-17 as Trump pushes rapid nuclear power deployment",
-            "description": "[THE ECONOMIC TIMES] The US military and Energy Department have successfully airlifted a small nuclear reactor. This demonstration highlights the nation's capability to quickly deploy nuclear power. The technology aims...",
-            "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-military-airlifts-microreactor-from-california-to-utah-on-c-17-as-trump-pushes-rapid-nuclear-power-deployment/articleshow/128645897.cms"
+            "title": "Thunderstorm continues in Kerala; Orange alert in 3 districts till 11 pm",
+            "description": "[MALAYALA MANORAMA] Fishermen have been advised not to venture into the sea off the Kerala and Lakshadweep coasts till Sunday.Kerala rain alert, heavy rainfall Kerala, orange alert districts Kerala, IMD rain forecast,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/21/rain-in-kerala-low-pressure-area-orange-alert-sounded.html"
         },
         {
-            "title": "Washington offers US$200 million to boost the American smartphone industry in Indo-Pacific",
-            "description": "[THE STAR] State Department subsidies for US companies to shore up US artificial intelligence supply chain in region and counter China's dominance",
-            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/02/21/washington-offers-us200-million-to-boost-the-american-smartphone-industry-in-indo-pacific"
+            "title": "Kerala Blasters confirm their first ISL home match is back on, but a technical problem needs fixing",
+            "description": "[MALAYALA MANORAMA] On Saturday night, the Kerala Blasters ended a day-long uncertainty over the fixture with Mumbai City..Kerala Blasters ISL match, Kaloor stadium ISL game, Indian Super League Kochi, Mumbai City FC vs...",
+            "url": "https://www.onmanorama.com/sports/football/2026/02/21/kerala-blasters-confirm-isl-first-home-match-mumbai-city-back-on-gcda.html"
         },
         {
-            "title": "AI, skills and 2030: Why India's workforce must adapt now",
-            "description": "[INDIA TODAY] India is entering its biggest workforce transition since the IT boom. Artificial intelligence is changing job roles faster than traditional education and training systems can respond. The result is a...",
-            "url": "https://www.indiatoday.in/education-today/featurephilia/story/ai-skills-and-2030-why-indias-workforce-must-adapt-now-2872172-2026-02-21"
+            "title": "Supercool Develops AI Platform Designed to Deliver Finished Outputs Across Formats",
+            "description": "[THE MANILA TIMES] Palm Beach, Florida, United States, February 21, 2026 /MarketersMEDIA/ -- Supercool has announced the development of an artificial intelligence platform focused on producing complete, ready-to-use...",
+            "url": "https://www.manilatimes.net/2026/02/21/tmt-newswire/plentisoft/supercool-develops-ai-platform-designed-to-deliver-finished-outputs-across-formats/2282395"
         },
         {
-            "title": "AI Now Mandatory For 1.7 Million UP Staff: Govt Orders Compulsory Training Under Mission Karmayogi",
-            "description": "[FREE PRESS JOURNAL] The Uttar Pradesh government has made artificial intelligence training compulsory for over 17 lakh officers and employees across 63 departments under Mission Karmayogi Bharat. Staff must register on...",
-            "url": "https://www.freepressjournal.in/india/ai-now-mandatory-for-17-million-up-staff-govt-orders-compulsory-training-under-mission-karmayogi"
+            "title": "Thirteen years after landslide, Idukki villagers bring farmland back to life",
+            "description": "[MALAYALA MANORAMA] Around 26 crops including paddy, vegetables and sunflower are cultivated here..Velliyamattom landslide recovery, Punarjani agricultural rebirth, sunflower fields Thodupuzha, community farming...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/21/idukki-velliyamattom-villagers-revive-landslide-hit-farmland.html"
         },
         {
-            "title": "AI Will Enhance Efficiency, Not Replace Humans, Says Karan Adani",
-            "description": "[NDTV.COM] Artificial intelligence will not replace human beings entirely but will act as an efficiency enhancer, enabling fewer people to deliver higher output, Karan Adani, Managing Director of Adani Ports...",
-            "url": "https://www.ndtv.com/india-news/ai-will-enhance-efficiency-not-replace-humans-says-karan-adani-11117889"
+            "title": "Will 'beat & break' hands, legs; Devikulam MLA threatens Munnar Special Tahsildar",
+            "description": "[MALAYALA MANORAMA] The MLA's reaction was triggered by the eviction proceedings near the Munnar Guest House..Devikulam MLA A Raja threat, Munnar encroachment eviction, Special Tahsildar CV Gayathri, Idukki land...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/21/mla-a-raja-threat-munnar-eviction.html"
         }
     ]
 }
