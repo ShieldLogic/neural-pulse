@@ -1,25 +1,20 @@
 {
-    "updated": "2026-02-22 12:40:59 UTC",
+    "updated": "2026-02-22 14:22:40 UTC",
     "news": [
-        {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
+        },
+        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
-        },
-        {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -32,19 +27,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Building a Simple MCP Server in Python",
-            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
-            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
+        },
+        {
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -75,6 +75,31 @@
             "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
             "description": "[BAIR] Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the...",
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
+        },
+        {
+            "title": "The great AI divide: While the West wrestles with tech winter of scepticism, the Global South seems to be experiencing a digital spring",
+            "description": "[THE ECONOMIC TIMES] As the AI Impact Summit 2026 in New Delhi concludes, a clear divide has emerged in how regions view artificial intelligence. While many Western countries show caution, much of the Global South,...",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/the-great-ai-divide-while-the-west-wrestles-with-tech-winter-of-scepticism-the-global-south-seems-to-be-experiencing-a-digital-spring/articleshow/128663259.cms"
+        },
+        {
+            "title": "IMD issues yellow alert in 3 Kerala districts; heavy rain likely",
+            "description": "[MALAYALA MANORAMA] The districts under yellow alert are Pathanamthitta, Kottayam and Idukki..Kerala yellow alert, Thiruvananthapuram weather, heavy rainfall warning Kerala, isolated heavy showers Pathanamthitta,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/22/kerala-weather-imd-rain-live.html"
+        },
+        {
+            "title": "JEFF PRESTRIDGE: You'd have TRIPLED your money if you'd bought this sky-rocketing fund I tipped three years ago... This is where to invest next for stellar returns",
+            "description": "[DAILY MAIL ONLINE] Move over artificial intelligence, it's time for investors to consider exposure to space technology in order to fuel their investment portfolios, Isas and pensions.",
+            "url": "https://www.dailymail.co.uk/money/article-15580545/JEFF-PRESTRIDGE-TRIPLED-money-sky-rocketing-fund-tipped-stellar-returns.html"
+        },
+        {
+            "title": "India and Brazil set $30 billion trade target by 2030; sign mineral, rare earth pact",
+            "description": "[ZEE NEWS] Brazilian President Lula noted that India\u2019s strengths in information technology, artificial intelligence, biotechnology and the space sector have opened up fresh avenues for collaboration.",
+            "url": "https://zeenews.india.com/india/india-and-brazil-set-30-billion-trade-target-by-2030-sign-mineral-rare-earth-pact-3019402.html"
+        },
+        {
+            "title": "Tavleen Singh writes: Artificial intelligence, real hubris",
+            "description": "[THE INDIAN EXPRESS] If AI can do what humans have failed to, then we need to embrace it with open arms and ensure that it spreads rapidly across rural India where it is needed more than in the cities. But before that...",
+            "url": "https://indianexpress.com/article/opinion/columns/tavleen-singh-writes-artificial-intelligence-real-hubris-10545033/"
         },
         {
             "title": "At AI Summit, India tries to find a way between the US and China",
@@ -100,31 +125,6 @@
             "title": "US military airlifts small reactor as Trump pushes to quickly deploy nuclear power",
             "description": "[DAILY EXCELSIOR] HILL AIR FORCE BASE (US), Feb 21: The Pentagon and the Energy Department for the first time airlifted a small nuclear reactor from California to Utah, demonstrating what they say is US potential to...",
             "url": "https://www.dailyexcelsior.com/us-military-airlifts-small-reactor-as-trump-pushes-to-quickly-deploy-nuclear-power/"
-        },
-        {
-            "title": "IIM-Nagpur to use AI to set question papers, check answers",
-            "description": "[TIMES OF INDIA] NAGPUR: The Indian Institute of Management-Nagpur (IIM-Nagpur) is planning to leverage Artificial Intelligence (AI) for a swift assessment of students.",
-            "url": "https://timesofindia.indiatimes.com/city/nagpur/iim-n-to-arm-faculty-with-ai-tools-to-set-ques-check-answer-scripts/articleshow/128653390.cms"
-        },
-        {
-            "title": "Health Tech and Artificial Intelligence: Key Benefits",
-            "description": "[TECHBULLION] Explore how Health Tech and Artificial Intelligence are transforming business and healthcare with innovative solutions and efficiencies.",
-            "url": "https://techbullion.com/health-tech-and-artificial-intelligence-transforming-business-and-healthcare/"
-        },
-        {
-            "title": "Delhi Declaration Urges Democratic AI for Social Good",
-            "description": "[THE ECONOMIC TIMES] The India AI Impact Summit concluded on Saturday with more than 80 countries signing the Delhi Declaration, pledging to balance advances in artificial intelligence with a commitment to equitable...",
-            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/feb/22/sunet-front/delhi-declaration-urges-democratic-ai-for-social-good/articleshow/128656912.cms"
-        },
-        {
-            "title": "Delhi Declaration Urges Democratic AI for Social Good",
-            "description": "[THE ECONOMIC TIMES] The India AI Impact Summit concluded on Saturday with more than 80 countries signing the Delhi Declaration, pledging to balance advances in artificial intelligence with a commitment to equitable...",
-            "url": "https://economictimes.indiatimes.com/sunet-front/delhi-declaration-urges-democratic-ai-for-social-good/articleshow/128656912.cms"
-        },
-        {
-            "title": "AI revolution looms over Berlin film fest",
-            "description": "[JAPAN TODAY] The artificial intelligence revolution sweeping through the entertainment sector was at first glance not evident at this year's Berlin Film Festival, but the potential for widespread changes was...",
-            "url": "https://japantoday.com/category/entertainment/ai-revolution-looms-over-berlin-film-fest"
         }
     ]
 }
