@@ -1,20 +1,25 @@
 {
-    "updated": "2026-02-23 08:44:13 UTC",
+    "updated": "2026-02-23 10:46:39 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
-        },
-        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
+        },
+        {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -27,24 +32,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+            "title": "Building a Simple MCP Server in Python",
+            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
+            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
-        },
-        {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -75,6 +75,31 @@
             "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
             "description": "[BAIR] Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the...",
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
+        },
+        {
+            "title": "AI Summit turning point on how world will utilise its power: PM",
+            "description": "[DAILY EXCELSIOR] \u2018Remain alert from digital frauds\u2019 NEW DELHI, Feb 22: Prime Minister Narendra Modi on Sunday said the India AI Impact Summit proved to be a turning point in the trajectory of how the world will...",
+            "url": "https://www.dailyexcelsior.com/ai-summit-turning-point-on-how-world-will-utilise-its-power-pm/"
+        },
+        {
+            "title": "Open source of the Congzi AI algorithm: Transforming ordinary artificial intelligence into physical experts",
+            "description": "[THE MANILA TIMES] Open source of the Congzi AI algorithm: Transforming ordinary artificial intelligence into physical experts",
+            "url": "https://www.manilatimes.net/2026/02/23/tmt-newswire/media-outreach-newswire/open-source-of-the-congzi-ai-algorithm-transforming-ordinary-artificial-intelligence-into-physical-experts/2282618"
+        },
+        {
+            "title": "Nebraska Legislature sees wave of bills creating AI safety measures for children",
+            "description": "[LINCOLN JOURNAL STAR] With the rapid emergence of artificial intelligence, Nebraska lawmakers look for ways to increase transparency, regulation and safety measures to better protect youth from human-like chatbots.",
+            "url": "https://journalstar.com/news/state-regional/government-politics/article_57382299-6909-474f-a153-0889adcc3a71.html"
+        },
+        {
+            "title": "Open source of the Congzi AI algorithm: Transforming ordinary artificial intelligence into physical experts",
+            "description": "[THE MANILA TIMES] Open source of the Congzi AI algorithm: Transforming ordinary artificial intelligence into physical experts",
+            "url": "https://www.manilatimes.net/2026/02/23/tmt-newswire/media-outreach-newswire/open-source-of-the-congzi-ai-algorithm-transforming-ordinary-artificial-intelligence-into-physical-experts/2282600"
+        },
+        {
+            "title": "AI agent invasion has people trying to pick winners",
+            "description": "[JAPAN TODAY] An onslaught of artificial intelligence agents that handle tasks from writing code to dispensing tax advice has the tech world and financial markets scrambling to pick winners and shed losers. Gone...",
+            "url": "https://japantoday.com/category/tech/ai-agent-invasion-has-people-trying-to-pick-winners"
         },
         {
             "title": "X nears completion of search code rewrite",
@@ -100,31 +125,6 @@
             "title": "AI for all: Global Summit in India offers a path to take the world forward",
             "description": "[BUSINESS STANDARD] The India AI Impact Summit 2026 positions New Delhi as a global AI convenor, blending ethics, inclusion and $250 billion in investments to shape the future of artificial intelligence",
             "url": "https://www.business-standard.com/opinion/editorial/ai-for-all-global-summit-in-india-offers-a-path-to-take-the-world-forward-126022200770_1.html"
-        },
-        {
-            "title": "India\u2019s Artificial Intelligence Story Does Not Need Hype, It Needs Realism",
-            "description": "[FREE PRESS JOURNAL] At the India AI Impact Summit in Delhi, experts cautioned against blind optimism around AI in healthcare. Citing IBM Watson\u2019s failure due to lack of local context and Western bias, doctors stressed...",
-            "url": "https://www.freepressjournal.in/analysis/indias-artificial-intelligence-story-does-not-need-hype-it-needs-realism"
-        },
-        {
-            "title": "HPNLU hosts webinar to enhance research",
-            "description": "[THE TRIBUNE] A one-day webinar titled \u201cEnhancing Research Visibility and the use of ORCID\u201d was organised at the Himachal Pradesh National Law University, Shimla. The webinar aimed at equipping faculty members,...",
-            "url": "https://www.tribuneindia.com/news/himachal/hpnlu-hosts-webinar-to-enhance-research/"
-        },
-        {
-            "title": "'The ghost in the machine is just us' - AI pinch hits. But there's a problem...",
-            "description": "[CHICAGO SUN-TIMES] As artificial intelligence takes over more aspects of real world work, we have to ask ourselves: What is important?",
-            "url": "https://chicago.suntimes.com/columnists/2026/02/22/artificial-intelligence-gemini-neil-steinberg"
-        },
-        {
-            "title": "Debutant Shaikh's penalty save in vain as unimaginative Kerala Blasters lose again",
-            "description": "[MALAYALA MANORAMA] Goalkeeper Arsh Anwer Shaikh was a bright spot in a gloomy afternoon for Kerala Blasters on their ISL 2025-26 home opener..Kerala Blasters penalty save, Arsh Anwer Shaikh debut, ISL home opener,...",
-            "url": "https://www.onmanorama.com/sports/football/2026/02/22/isl-kerala-blasters-vs-mumbai-city-match-report.html"
-        },
-        {
-            "title": "AI agent invasion has people trying to pick winners",
-            "description": "[THE MANILA TIMES] NEW YORK \u2014 An onslaught of artificial intelligence (AI) agents that handle tasks from writing code to dispensing tax advice has the tech world and financial markets scrambling to pick winners and...",
-            "url": "https://www.manilatimes.net/2026/02/23/business/foreign-business/ai-agent-invasion-has-people-trying-to-pick-winners/2282503"
         }
     ]
 }
