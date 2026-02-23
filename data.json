@@ -1,11 +1,6 @@
 {
-    "updated": "2026-02-22 22:20:39 UTC",
+    "updated": "2026-02-23 01:53:09 UTC",
     "news": [
-        {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
-        },
         {
             "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
             "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
@@ -22,14 +17,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
-        },
-        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
+        },
+        {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -67,6 +62,11 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "'Magic remedy' that could cure piles in a day: Fact check",
-            "description": "[MALAYALA MANORAMA] Piles patients should eat plenty of fibre-rich fruits and vegetables and drink lots of water..piles treatment, hemorrhoid remedies, viral piles cure, VapoRub piles myth, natural hemorrhoid relief,...",
-            "url": "https://www.onmanorama.com/health/healthcare/2026/02/22/piles-cure-vaporub-coconut-mix.html"
+            "title": "Why adults pursuing career growth or personal interests are the 'new majority' student",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Millions of adults are continuing their education by returning to school and enrolling in credit and non-credit courses, certificates, micro-credentials, job training and degree programs. While some...",
+            "url": "https://www.ajc.com/news/2026/02/why-adults-pursuing-career-growth-or-personal-interests-are-the-new-majority-student/"
         },
         {
-            "title": "\u2018Here\u2019s the recipe\u2019: Netizens respond to The Kerala Story 2 trailer with beef fry and curry instructions",
-            "description": "[MALAYALA MANORAMA] On the official Instagram page of The Kerala Story 2, comment sections have been flooded with detailed instructions for cooking beef roast and beef.The Kerala Story 2, Kerala Story 2 beef, Kerala...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/22/the-kerala-story-2--netizens-respond-beef-recipes-bollywood.html"
+            "title": "T20World Cup: South Africa bat as India field unchanged side",
+            "description": "[MALAYALA MANORAMA] In a crucial T20 World Cup encounter, South Africa won the toss and opted to bat against an unchanged Indian team at the Narendra Modi Stadium in.India vs South Africa T20, T20 World Cup 2024...",
+            "url": "https://www.onmanorama.com/sports/cricket/2026/02/22/india-south-africa-t20-world-cup.html"
         },
         {
-            "title": "AI Washing? Open AI CEO Sam Altman pushes back on layoff blame",
-            "description": "[FIRSTPOST] At the AI Impact Summit 2026, OpenAI CEO Sam Altman said artificial intelligence is not the main driver of recent layoffs, calling out \u201cAI washing\u201d where companies blame automation for job cuts that...",
-            "url": "https://www.firstpost.com/tech/ai-washing-open-ai-ceo-sam-altman-pushes-back-on-layoff-blame-13982447.html"
+            "title": "Why adults pursuing career growth or personal interests are the \u2018new majority\u2019 student",
+            "description": "[WTOP] FLAGSTAFF, Ariz. (AP) \u2014 Interested in starting a business, learning about artificial intelligence or exploring a new hobby? There's a class for that.",
+            "url": "https://wtop.com/lifestyle/2026/02/why-adults-pursuing-career-growth-or-personal-interests-are-the-new-majority-student/"
         },
         {
-            "title": "This IIM wants to use AI to set question papers and check answers, even students can use it for projects",
-            "description": "[THE ECONOMIC TIMES] IIM-Nagpur is set to revolutionize student assessments with Artificial Intelligence. AI will drastically cut down grading time from weeks to just a day or two. Professors will still have the final...",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/this-iim-wants-to-use-ai-to-set-question-papers-and-check-answers-even-students-can-use-it-for-projects/articleshow/128672066.cms"
+            "title": "Why adults pursuing career growth or personal interests are the \u2018new majority\u2019 student",
+            "description": "[BALTIMORE SUN] By CHEYANNE MUMPHREY FLAGSTAFF, Ariz. (AP) \u2014 Interested in starting a business, learning about artificial intelligence or exploring a new hobby? There\u2019s a class for that. Millions of U.S. adults...",
+            "url": "https://www.baltimoresun.com/2026/02/22/why-adults-pursuing-career-growth-or-personal-interests-are-the-new-majority-student/"
         },
         {
-            "title": "Kerala lottery Samrudhi SM-43 | result today 22/02/2026: \u20b91 cr first prize for MM 310268 | Check complete list",
-            "description": "[MALAYALA MANORAMA] The Kerala State Lottery Department announced the results of the Samrudhi SM-43 lottery draw with a 1 crore first prize, 25 lakh second prize, and 5.Kerala lottery results, Samrudhi SM-43 results,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/22/samrudhi-sm-43-lottery-results-kerala-1-crore-first-prize-list-winners-live.html"
+            "title": "Why Adults Pursuing Career Growth or Personal Interests Are the 'New Majority' Student",
+            "description": "[U.S. NEWS & WORLD REPORT] FLAGSTAFF, Ariz. (AP) \u2014 Interested in starting a business, learning about artificial intelligence or exploring a new hobby? There's a class for that.",
+            "url": "https://www.usnews.com/news/business/articles/2026-02-22/why-adults-pursuing-career-growth-or-personal-interests-are-the-new-majority-student"
         },
         {
-            "title": "Smooth ride at 159 km/h, experiencing Delhi-Meerut RRTS before official inauguration",
-            "description": "[MALAYALA MANORAMA] The train features both Premium and Standard coaches. Charging points for mobiles and laptops are available in both..Delhi Meerut RRTS, RRTS Delhi expansion, Sarai Kale Khan transit hub, Namo Bharat...",
-            "url": "https://www.onmanorama.com/travel/travel-news/2026/02/22/delhi-meerut-rrts-experience-inauguration.html"
+            "title": "Congress turned AI Summit into arena for its 'gandi aur nangi' politics: PM Modi",
+            "description": "[CNBC TV18] Prime Minister Narendra Modi criticizes Congress for its protest at the Artificial Intelligence Summit in Delhi, highlighting development projects in Meerut.",
+            "url": "https://www.cnbctv18.com/india/congress-turned-ai-summit-into-arena-for-its-gandi-aur-nangi-politics-pm-modi-ws-l-19855344.htm"
         },
         {
-            "title": "New maps of mouse brains reveal patterns of myelin formation",
-            "description": "[NEWS-MEDICAL.NET] Johns Hopkins scientists say they have used 3D imaging, special microscopes and artificial intelligence (AI) programs to construct new maps of mouse brains showing a precise location of more than 10...",
-            "url": "https://www.news-medical.net/news/20260222/New-maps-of-mouse-brains-reveal-patterns-of-myelin-formation.aspx"
+            "title": "Teens are launching artificial intelligence companies",
+            "description": "[NEW YORK POST] A growing number of teenagers are using artificial intelligence to launch innovative tech companies, stressing about raising venture capital and product launches \u2014 not prom.",
+            "url": "https://nypost.com/2026/02/22/business/teens-are-launching-artificial-intelligence-companies-and-making-big-money/"
         },
         {
-            "title": "Wall Street week ahead: Nvidia, software reports pose next tests for AI-sensitive stock market",
-            "description": "[THE ECONOMIC TIMES] Investors turn to financial results from artificial intelligence bellwether Nvidia Corp in the coming week to steady a U.S. stock market \u200bthat has been rocked by AI-related worries and is digesting a...",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-nvidia-software-reports-pose-next-tests-for-ai-sensitive-stock-market/articleshow/128671665.cms"
+            "title": "Is convicted fraudster and Roxy Jacenko's husband Oliver Curtis Australia's next billionaire? Ex-jailbird insider trader's future rides on the call of a very exclusive club",
+            "description": "[DAILY MAIL ONLINE] Just under eight years after his maximum prison sentence expired, Curtis is riding the wave of success of his artificial intelligence infrastructure business, Firmus Technologies.",
+            "url": "https://www.dailymail.co.uk/news/article-15563267/roxy-jacenko-oliver-curtis-billionaire.html"
         },
         {
-            "title": "'Sabarimala tantri among group of thieves, it's all political': M V Govindan on allegations in bail plea",
-            "description": "[MALAYALA MANORAMA] Govindan may have also referred to the list of accused in the gold scam case which also includes CPM leaders like A Padmakumar and N Vasu..Sabarimala gold theft, tantri Kandararu Rajeevaru, CPM...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/22/sabarimala-gold-theft-tantri.html"
+            "title": "EU FTA to deepen trade ties and tech cooperation, says Austrian official",
+            "description": "[TIMES OF INDIA] India Business News: The EU-India Free Trade Agreement is expected to open significant opportunities across trade, artificial intelligence and resilient supply chains, Aus.",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/eu-india-fta-to-deepen-trade-ties-and-tech-cooperation-says-austrian-official/articleshow/128676979.cms"
         },
         {
-            "title": "Vaishnavi Adkar becomes first Indian to reach ITF W100 final after Sania Mirza",
-            "description": "[MALAYALA MANORAMA] Wild card Vaishnavi Adkar, ranked 690, achieved a career-best performance by reaching her maiden singles final of a W100 ITF event in Bengaluru with.Vaishnavi Adkar, ITF W100 final, Indian tennis...",
-            "url": "https://www.onmanorama.com/sports/tennis/2026/02/22/vaishnavi-adkar-first-indian-itf-final-sania-mirza.html"
+            "title": "Suresh Gopi claims role in Vizhinjam port, says he turned slave to Modi Govt for it",
+            "description": "[MALAYALA MANORAMA] The BJP MP argued that if Modi were to write a book detailing how the Vizhinjam port became a reality, his own name would feature prominently in it..Vizhinjam port project, Suresh Gopi Vizhinjam,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/22/suresh-gopi-takes-credit-of-vizhinjam-port-in-kerala.html"
         }
     ]
 }
