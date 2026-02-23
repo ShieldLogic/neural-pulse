@@ -1,20 +1,30 @@
 {
-    "updated": "2026-02-23 14:43:01 UTC",
+    "updated": "2026-02-23 16:53:05 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
+        {
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
-        },
-        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
+        },
+        {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -27,24 +37,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
-        },
-        {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
-        },
-        {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "'One Battle After Another' wins big at Britain's BAFTA film awards",
-            "description": "[MALAYALA MANORAMA] The biggest surprise was Robert Aramayo beating Timothee Chalamet, Leonardo DiCaprio, Michael B. Jordan, Ethan Hawke and Jesse Plemons to win best.BAFTAs 2024 winners, best film BAFTAs, Paul Thomas...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/23/bafta-film-awards-best-wins-movies.html"
+            "title": "Strengthening AI security: How China\u2019s GSI supports the Asean way",
+            "description": "[THE STAR] THE rapid advancement of Artificial Intelligence (AI) is fundamentally reshaping the global economy and social structures. However, beneath the surface of innovation lies a high-stakes global contest...",
+            "url": "https://www.thestar.com.my/opinion/columnists/search-scholar-series/2026/02/23/strengthening-ai-security-how-chinas-gsi-supports-the-asean-way"
         },
         {
-            "title": "AI chatbots no substitute for human friends",
-            "description": "[THE CANBERRA TIMES] Artificial intelligence companions marketed as a solution to loneliness are unethical and could even increase social isolation, according...",
-            "url": "https://www.canberratimes.com.au/story/9180980/ai-chatbots-no-substitute-for-human-friends/"
+            "title": "Making India Proud: Meet Ranvir Sachdeva, An 8-Year-Old Indian Prodigy Who Schooled Sundar Pichai & Sam Altman At AI Summit",
+            "description": "[FREE PRESS JOURNAL] Eight-year-old Ranvir Sachdeva made history by becoming the youngest keynote speaker at the India AI Impact Summit in Delhi. The third-grader spoke about linking ancient Indian philosophies with...",
+            "url": "https://www.freepressjournal.in/tech/ai-summit-2026-delhi-ranvir-sachdeva-8-year-old-boy-keynote-speaker-met-sam-altman-sundar-pichai"
         },
         {
-            "title": "Anaplan Launches AWS Data Center in Singapore to Enhance Global Reach and Support Local Enterprises",
-            "description": "[THE MANILA TIMES] New location expands company\u2019s global infrastructure, while offering faster data processing, robust security measures and regulatory compliance SINGAPORE - Media OutReach Newswire - 23 February 2026...",
-            "url": "https://www.manilatimes.net/2026/02/23/tmt-newswire/media-outreach-newswire/anaplan-launches-aws-data-center-in-singapore-to-enhance-global-reach-and-support-local-enterprises/2282659"
+            "title": "Can human survival instincts guide safe artificial intelligence?",
+            "description": "[DEVDISCOURSE] Read more about Can human survival instincts guide safe artificial intelligence? on Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/technology/3811477-can-human-survival-instincts-guide-safe-artificial-intelligence"
         },
         {
-            "title": "Manufacturing Reality: How AI Is Rewriting India\u2019s Election Playbook",
-            "description": "[OUTLOOK INDIA] From fabricated news bulletins to cloned political voices, artificial intelligence is rapidly transforming India\u2019s electoral landscape\u2014blurring the line between campaign strategy and disinformation...",
-            "url": "https://www.outlookindia.com/national/manufacturing-reality-how-ai-is-rewriting-indias-election-playbook"
+            "title": "India unveils \u2018MANAS 1\u2019: AI trained on 60,000 hours of brainwaves aims to detect disorders early",
+            "description": "[TIMES OF INDIA] India News: NEW DELHI: Artificial intelligence may soon help doctors \u201cread\u201d the brain before disease becomes visible. An Indian team has unveiled MANAS 1, a Brain.",
+            "url": "https://timesofindia.indiatimes.com/india/india-unveils-manas-1-ai-trained-on-60000-hours-of-brainwaves-aims-to-detect-disorders-early/articleshow/128698521.cms"
         },
         {
-            "title": "When a Cochin Jew volunteered to be India\u2019s first representative in Israel",
-            "description": "[MALAYALA MANORAMA] He was often referred to as the Jewish Gandhi and fought against the discrimination faced by the Malabari Jews at the hands of the Paradesi Jews..Abraham Barak Salem, Indian Jewish history, India...",
-            "url": "https://www.onmanorama.com/lifestyle/keralaspora/2026/02/22/cochin-jew-abraham-barak-salem-initiative-for-first-indian-representative-in-israel.html"
+            "title": "AI scare for SIP investors: Will a prolonged slump in IT stocks affect mutual fund returns?",
+            "description": "[THE ECONOMIC TIMES] Indian retail investors are worried as IT stocks face a sharp correction due to artificial intelligence fears. This downturn could impact mutual fund returns, affecting both lump sum investments and...",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-scare-for-sip-investors-will-a-prolonged-slump-in-it-stocks-affect-mutual-fund-returns/articleshow/128698457.cms"
         },
         {
-            "title": "Cybersecurity a national priority as AI pushes threat landscape, digital adoption, says Palo Alto\u2019s Nicole Quinn",
-            "description": "[THE ECONOMIC TIMES] Governments are increasingly focused on how to govern artificial intelligence and secure digital systems, Quinn said, but noted that policymakers often lag technology.",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cybersecurity-a-national-priority-as-ai-pushes-threat-landscape-digital-adoption-says-palo-altos-nicole-quinn/articleshow/128680965.cms"
+            "title": "Do Androids Dream of Wall Street CEO Bonuses?",
+            "description": "[BLOOMBERG] Pay for top bosses at the biggest US banks has reached new records in the past couple of years, surpassing even what chief executive officers got in the pre-crisis peak of 2007. Someday these vast...",
+            "url": "https://www.bloomberg.com/opinion/articles/2026-02-23/ai-disruption-do-androids-dream-of-wall-street-ceo-bonuses"
         },
         {
-            "title": "Youth jobless crisis as AI and rise in national insurance bite",
-            "description": "[THE SUNDAY TIMES] Job vacancies fall to their lowest level since 2021 as many businesses freeze graduate recruitment amid rising costs and the uptake of artificial intelligence",
-            "url": "https://www.thetimes.com/business/economics/article/uk-youth-graduate-unemployment-crisis-ai-national-insurance-costs-zgv057xsj"
+            "title": "Global summit calls for 'secure, trustworthy and robust AI'",
+            "description": "[THE STAR] Dozens of nations including the United States and China called for \"secure, trustworthy and robust\" artificial intelligence, in a summit declaration on Saturday criticised for being too generic to...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/23/global-summit-calls-for-039secure-trustworthy-and-robust-ai039"
         },
         {
-            "title": "Trump\u2019s tech push sparks MAGA revolt",
-            "description": "[AUSTRALIAN FINANCIAL REVIEW] Republicans fear a backlash against the White House agenda of helping big tech on artificial intelligence could undermine support at this year\u2019s elections.",
-            "url": "https://www.afr.com/world/north-america/trump-s-ai-push-sparks-maga-revolt-ahead-of-midterms-20260223-p5o4lx"
+            "title": "Granite Asia Closes $110 Million AI IPO Fund for DBS Group's Wealth Clients",
+            "description": "[MARKETSCREENER] By Megan Cheah Singapore-based asset manager Granite Asia has closed a $110 million artificial-intelligence initial-public offering fund, exclusively for lender DBS Group's wealth clients. ...",
+            "url": "https://www.marketscreener.com/news/granite-asia-closes-110-million-ai-ipo-fund-for-dbs-group-s-wealth-clients-ce7e5dd2dd88f42d"
         },
         {
-            "title": "India\u2019s next Agricultural Revolution to be AI-driven: Dr Jitendra",
-            "description": "[DAILY EXCELSIOR] Excelsior Correspondent MUMBAI, Feb 22: India\u2019s next agricultural revolution will be driven by artificial intelligence, Union Minister of Science and Technology and Earth Sciences, Dr. Jitendra Singh...",
-            "url": "https://www.dailyexcelsior.com/indias-next-agricultural-revolution-to-be-ai-driven-dr-jitendra-2/"
+            "title": "'MBBS students calling me daily': Kasaragod MLA to take Health Minister to court over 10-year MCH delay",
+            "description": "[MALAYALA MANORAMA] This academic year, 50 students joined the MBBS course at the Kasaragod Government Medical College..Kasaragod medical college delay, Kerala health minister negligence, N A Nellikkunnu High Court...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/23/kasaragod-medical-college-delay-mla-to-take-health-minister-to-court.html"
         },
         {
-            "title": "VRT vs. APLD vs. GEV: Which \u2018Strong Buy\u2019 Data Center Infrastructure Stock Could Offer the Best Upside?",
-            "description": "[MARKETS INSIDER] Fears about an artificial intelligence (AI) bubble and AI disrupting some industries, including software, have weighed on tech stocks in recent ...",
-            "url": "https://markets.businessinsider.com/news/stocks/vrt-vs-apld-vs-gev-which-strong-buy-data-center-infrastructure-stock-could-offer-the-best-upside-1035853182"
+            "title": "Canadian billionaire Kevin O'Leary just told everyone how AI is not just about painful layoffs; says: AI has quietly opened some of the biggest opportunities in \u2026",
+            "description": "[TIMES OF INDIA] Tech News News: Canadian billionaire and former Shark Tank investor Kevin O\u2019Leary is once again pushing back against the narrative that artificial intelligence is onl.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/canadian-billionaire-kevin-oleary-just-told-everyone-how-ai-is-not-just-about-painful-layoffs-says-ai-has-quietly-opened-some-of-the-biggest-opportunities-in-/articleshow/128697679.cms"
         }
     ]
 }
