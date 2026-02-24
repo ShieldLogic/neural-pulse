@@ -1,15 +1,15 @@
 {
-    "updated": "2026-02-24 08:41:46 UTC",
+    "updated": "2026-02-24 10:44:07 UTC",
     "news": [
+        {
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
-        },
-        {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
+        },
+        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
-        },
-        {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,14 +37,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
-        },
-        {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits",
-            "description": "[THE NEW YORK TIMES] The artificial intelligence company has demanded that some guardrails be put in place as it negotiates a contract with the Defense Department.",
-            "url": "https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html"
+            "title": "Tech Down on AI Disruption Fears -- Tech Roundup",
+            "description": "[MARKETSCREENER] Shares of technology companies fell amid fears about disruption from artificial intelligence. Shares of International Business Machines plunged after AI startup Anthropic detailed how its Claude...",
+            "url": "https://www.marketscreener.com/news/tech-down-on-ai-disruption-fears-tech-roundup-ce7e5dd3da89f224"
         },
         {
-            "title": "Canada to Press OpenAI on Safety Protocols After Mass Shooting -- Update",
-            "description": "[MARKETSCREENER] By Paul Vieira OTTAWA--Canada's minister in charge of artificial intelligence says senior executives of OpenAI are coming to the Canadian capital on Tuesday regarding interactions between the...",
-            "url": "https://www.marketscreener.com/news/canada-to-press-openai-on-safety-protocols-after-mass-shooting-update-ce7e5dd3db89f324"
+            "title": "Health Care Up on Defensive Bias, Even as Novo Nordisk Falls -- Health Care Roundup",
+            "description": "[MARKETSCREENER] Health-care companies rose as traders rotated into defensive sectors due to uncertainty related to tariffs, the Middle East and artificial-intelligence risks. Novo Nordisk shares plunged after the...",
+            "url": "https://www.marketscreener.com/news/health-care-up-on-defensive-bias-even-as-novo-nordisk-falls-health-care-roundup-ce7e5dd3da89f422"
         },
         {
-            "title": "BTC tumbles back to $64,000 as IBM becomes latest AI target",
-            "description": "[COINDESK] Artificial intelligence company Anthropic announced that its Claude platform can streamline COBOL code, a key profit center for IBM.",
-            "url": "https://www.coindesk.com/markets/2026/02/23/crypto-suffers-deeper-declines-as-ai-fears-send-ibm-plunging-11"
+            "title": "Inflationary AI, Shallow Research a Sovereignty Challenge!",
+            "description": "[DAILY EXCELSIOR] Shivaji Sarkar Artificial Intelligence was supposed to be India\u2019s next moonshot moment \u2014 the arena where its vast pool of engineers, data scientists and entrepreneurs would finally challenge Western...",
+            "url": "https://www.dailyexcelsior.com/inflationary-ai-shallow-research-a-sovereignty-challenge/"
         },
         {
-            "title": "OpenAI safety reps summoned to Ottawa after B.C. shooting incident, minister says",
-            "description": "[BAYTODAY] OTTAWA \u2014 Artificial Intelligence Minister Evan Solomon says he has called representatives of OpenAI to Ottawa to discuss safety concerns after a report emerged about the Tumbler Ridge shooter's...",
-            "url": "https://www.baytoday.ca/national-news/openai-safety-reps-summoned-to-ottawa-after-bc-shooting-incident-minister-says-11914433"
+            "title": "35 with artificial intelligence to quickly ID unknown contacts",
+            "description": "[BREAKING DEFENSE] Known as Project Overwatch, the AI is trained to distinguish different types of emissions, autonomously identifying the source for the human pilot.",
+            "url": "https://breakingdefense.com/2026/02/lockheed-test-flies-f-35-with-artificial-intelligence-to-quickly-id-unknown-contacts/"
         },
         {
-            "title": "OpenAI safety reps summoned to Ottawa after B.C. shooting incident, minister says",
-            "description": "[SOOTODAY] OTTAWA \u2014 Artificial Intelligence Minister Evan Solomon says he has called representatives of OpenAI to Ottawa to discuss safety concerns after a report emerged about the Tumbler Ridge shooter's...",
-            "url": "https://www.sootoday.com/national-news/openai-safety-reps-summoned-to-ottawa-after-bc-shooting-incident-minister-says-11914433"
+            "title": "US stocks drop after Trump ramps up his tariffs and investors dump potential AI losers",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] U.S. stocks slumped after President Donald Trump ramped up his newest tariffs, while investors continued to punish companies that could be losers in the artificial-intelligence revolution. The S&P...",
+            "url": "https://www.ajc.com/news/2026/02/us-stocks-drop-after-trump-ramps-up-his-tariffs-and-investors-dump-potential-ai-losers/"
         },
         {
-            "title": "Canada to Press OpenAI on Safety Protocols After Mass Shooting",
-            "description": "[MARKETSCREENER] By Paul Vieira OTTAWA--Canada's minister in charge of artificial intelligence says senior executives of OpenAI are coming to the Canadian capital on Tuesday regarding interactions between the...",
-            "url": "https://www.marketscreener.com/news/canada-to-press-openai-on-safety-protocols-after-mass-shooting-ce7e5dd3d881f121"
+            "title": "Open source of the Congzi AI algorithm: Transforming ordinary artificial intelligence into physical experts",
+            "description": "[THE MANILA TIMES] Open source of the Congzi AI algorithm: Transforming ordinary artificial intelligence into physical experts",
+            "url": "https://www.manilatimes.net/2026/02/24/tmt-newswire/media-outreach-newswire/open-source-of-the-congzi-ai-algorithm-transforming-ordinary-artificial-intelligence-into-physical-experts/2283425"
         },
         {
-            "title": "US AI giants accuse Chinese rivals of mass data theft",
-            "description": "[THE MANILA TIMES] SAN FRANCISO \u2014 US artificial intelligence company Anthropic said Monday it had uncovered campaigns by three Chinese AI firms to illicitly extract capabilities from its Claude chatbot, in what it...",
-            "url": "https://www.manilatimes.net/2026/02/24/business/sunday-business-it/us-ai-giants-accuse-chinese-rivals-of-mass-data-theft/2283303"
+            "title": "\u2018Invasive, unnecessary and unethical:\u2019 Lawmaker wants limits on AI surveillance at work",
+            "description": "[M LIVE MICHIGAN ] Michigan\u2019s labor leaders say artificial intelligence (AI) used in the workplace can track everything from employee facial expressions to bathroom breaks, and they want guardrails.",
+            "url": "https://www.mlive.com/politics/2026/02/invasive-unnecessary-and-unethical-lawmaker-wants-limits-on-ai-surveillance-at-work.html"
         },
         {
-            "title": "OpenAI safety reps summoned to Ottawa after B.C. shooting incident",
-            "description": "[CHEK NEWS] Artificial Intelligence Minister Evan Solomon says he summoned representatives from OpenAI to Ottawa to discuss safety concerns following revelations about interactions the Tumbler Ridge, B.C....",
-            "url": "https://cheknews.ca/openai-safety-reps-summoned-to-ottawa-after-b-c-shooting-incident-1307260/"
+            "title": "Opinion: It\u2019s time to lead on AI - the Utah Way",
+            "description": "[SALT LAKE CITY DESERET NEWS] Utah\u2019s lawmakers are right to advance the Artificial Intelligence Transparency Act. Innovation and accountability are not opposing forces \u2014 they are partners",
+            "url": "https://www.deseret.com/opinion/2026/02/23/utah-leads-on-ai-artificial-intelligence-transparency-act/"
         },
         {
-            "title": "Canada summons OpenAI safety team to Ottawa after school shooting",
-            "description": "[MARKETSCREENER] Canada has summoned top officials from OpenAI to Ottawa after it emerged the company had not shared internal concerns about a person who went on to commit a school shooting, Artificial Intelligence...",
-            "url": "https://www.marketscreener.com/news/canada-summons-openai-safety-team-to-ottawa-after-school-shooting-ce7e5dd3d88eff27"
+            "title": "IBM shares plunge as Anthropic touts COBOL modernization",
+            "description": "[FINANCIAL POST] IBM shares plunged after the artificial intelligence startup Anthropic said its Claude Code tool can help with modernizing COBOL. Read on",
+            "url": "https://financialpost.com/technology/ibm-shares-plunge-anthropic-touts-cobol-modernization"
         },
         {
-            "title": "UPDATE 1-Canada summons OpenAI safety team to Ottawa after school shooting",
-            "description": "[DEVDISCOURSE] Canada has \u200csummoned top \u200bofficials from OpenAI to Ottawa after it emerged the company had \u200cnot shared internal concerns about a person who went on to commit a school shooting, Artificial...",
-            "url": "https://www.devdiscourse.com/article/law-order/3815234-update-1-canada-summons-openai-safety-team-to-ottawa-after-school-shooting"
+            "title": "Wall Street ends sharply lower amid revived tariff angst",
+            "description": "[NIKKEI ASIA] NEW YORK (Reuters) -- Wall Street stocks tumbled on Monday, as ongoing fears of artificial-intelligence-related disruption and the fallout from Friday",
+            "url": "https://asia.nikkei.com/business/markets/wall-street-ends-sharply-lower-amid-revived-tariff-angst"
         }
     ]
 }
