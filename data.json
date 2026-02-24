@@ -1,98 +1,130 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-02-24 12:01 UTC",
+    "updated": "2026-02-24 12:57:57 UTC",
     "news": [
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Nvidia CEO denies he\u2019s \u2018unhappy\u2019 with OpenAI",
-            "description": "Nvidia's CEO Jensen Huang denied reports that he was unhappy with OpenAI and said his company still planned to make a \"huge\" investment in the ChatGPT firm. NVIDIA announced in September that it would invest up to $100 billion in OpenAI, but recently, there h\u2026",
-            "url": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-31T23:38:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHe says the company still plans to make a huge investment in the ChatGPT maker.\r\nHe says the company still plans to make a huge investment in the ChatGPT maker.\r\u2026 [+2139 chars]"
+            "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
+            "description": "[RESEARCH] Algorithms & Theory",
+            "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "MCP unites Claude chat with apps like Slack, Figma, and Canva",
-            "description": "Anthropic's Claude got a bit livelier today thanks to a new extension to MCP, the open-source protocol that allows AI agents to easily access tools and data across the internet. Users will now be able to interact with apps directly inside the Claude chatbot, \u2026",
-            "url": "https://www.theverge.com/news/867673/claude-mcp-app-interactive-slack-figma-canva",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-26T12:52:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnthropics one step closer to having an everything app.\r\nAnthropics one step closer to having an everything app.\r\nby\r\nRobert HartClose\r\nPosts from this author wi\u2026 [+3538 chars]"
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Meta\u2019s new deal with Nvidia buys up millions of AI chips",
-            "description": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Gr\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-18T00:27:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias starting to sell AI CPUs for use by themselves for the first time.\r\nNvidias starting to sell AI CPUs for use by themselves for the first time.\r\nby\r\nStevi\u2026 [+2390 chars]"
+            "title": "Teaching AI to read a map",
+            "description": "[RESEARCH] Machine Perception",
+            "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "LLM Brainrot Is Here: Grokipedia Is Starting to Show Up in ChatGPT Citations",
-            "description": "GPT-5.2 is \"learning\" from Musk\u2019s AI-generated version of Wikipedia.",
-            "url": "https://gizmodo.com/llm-brainrot-is-here-grokipedia-is-starting-to-show-up-in-chatgpt-citations-2000714001",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/shutterstock_2396034011-1200x675.jpg",
-            "publishedAt": "2026-01-26T19:20:01Z",
-            "content": "Elon Musks controversial Grokipedia has begun creeping into ChatGPT and other chatbots responses as a cited source, giving us a glimpse of the dead internet that\u2019s just around the corner.\r\nThe Guardi\u2026 [+4296 chars]"
+            "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
+            "description": "[RESEARCH] Human-Computer Interaction and Visualization",
+            "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Steven Levy",
-            "title": "The Math on AI Agents Doesn\u2019t Add Up",
-            "description": "A research paper suggests AI agents are mathematically doomed to fail. The industry doesn\u2019t agree.",
-            "url": "https://www.wired.com/story/ai-agents-math-doesnt-add-up/",
-            "urlToImage": "https://media.wired.com/photos/69728f0240976471f9fd714e/191:100/w_1280,c_limit/Backchannel-Is-Agentic-AI-Doomed-Business.jpg",
-            "publishedAt": "2026-01-23T16:00:00Z",
-            "content": "The big AI companies promised us that 2025 would be the year of the AI agents. It turned out to be the year of talking about AI agents, and kicking the can for that transformational moment to 2026 or\u2026 [+3654 chars]"
+            "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
+            "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
+            "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "New Research Shows AI Agents Are Running Wild Online, With Few Guardrails in Place",
-            "description": "And this research was conducted before OpenClaw unleashed a monster.",
-            "url": "https://gizmodo.com/new-research-shows-ai-agents-are-running-wild-online-with-few-guardrails-in-place-2000724181",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/01/1dc6923c384afd18fda43a99e153a907.jpg",
-            "publishedAt": "2026-02-20T01:00:50Z",
-            "content": "In the last year, AI agents have become all the rage. OpenAI, Google, and Anthropic all launched public-facing agents designed to take on multi-step tasks handed to them by humans. In the last month,\u2026 [+5537 chars]"
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "OpenAI will reportedly start testing ads in ChatGPT today",
-            "description": "OpenAI plans to start testing ads in ChatGPT today, according to a report from CNBC. The \"clearly labeled\" ads will appear in a separate area beneath your chat, OpenAI announced last month. A source close to the situation tells CNBC that OpenAI \"expects ads t\u2026",
-            "url": "https://www.theverge.com/news/875724/openai-chatgpt-ads-test-launch",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-09T14:49:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ads will appear in a separate area beneath your chat.\r\nThe ads will appear in a separate area beneath your chat.\r\nby\r\nEmma RothClose\r\nPosts from this author \u2026 [+2282 chars]"
+            "title": "Whole-Body Conditioned Egocentric Video Prediction",
+            "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
+            "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+        },
+        {
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+        },
+        {
+            "title": "How AI tools can redefine universal design to increase accessibility",
+            "description": "[RESEARCH] Education Innovation",
+            "url": "https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/"
+        },
+        {
+            "title": "RL without TD learning",
+            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
+            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
+        },
+        {
+            "title": "How AI trained on birds is surfacing underwater mysteries",
+            "description": "[RESEARCH] Climate & Sustainability",
+            "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
+        },
+        {
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
+        },
+        {
+            "title": "What exactly does word2vec learn?",
+            "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
+            "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
+            "description": "[BAIR] Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the...",
+            "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
+        },
+        {
+            "title": "India is technology powerhouse: White House",
+            "description": "[LOKMAT TIMES] India is technology powerhouse: White House - Washington, Feb 24 India is \u201ca technology powerhouse\u201d that is central to the White House\u2019s global artificial intelligence ... Get Latest News on...",
+            "url": "https://www.lokmattimes.com/international/india-is-technology-powerhouse-white-house/"
+        },
+        {
+            "title": "The AI productivity boom is not here (yet)",
+            "description": "[LIVEMINT] Artificial intelligence is improving fast. Its effect on output, not so much",
+            "url": "https://www.livemint.com/ai/the-ai-productivity-boom-is-not-here-yet-11771894414839.html"
+        },
+        {
+            "title": "US Stocks | Wall Street ends sharply lower amid AI displacement fears and revived tariff angst",
+            "description": "[THE ECONOMIC TIMES] A broad selloff sent all three major U.S. stock indexes more than 1% lower by the closing bell, as risk appetite was dampened by a combination of persistent fears over potential disruption due to...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-wall-street-ends-sharply-lower-amid-ai-displacement-fears-and-revived-tariff-angst/articleshow/128735345.cms"
+        },
+        {
+            "title": "Encrypted chatbots, gen-AI privacy to open up this year: Mozilla president Mark Surman",
+            "description": "[LIVEMINT] Mozilla, one of the world\u2019s largest internet browsing companies, says encrypted chatbots and portable data tools could reshape how users control generative artificial intelligence this year.",
+            "url": "https://www.livemint.com/ai/encrypted-chatbots-gen-ai-privacy-to-open-up-this-year-mozilla-president-mark-surman-11771831874922.html"
+        },
+        {
+            "title": "\u2018Anthropic has to pay Billions for Theft\u2019: Musk slams AI firm after claude copying claims",
+            "description": "[THE FINANCIAL EXPRESS] Anthropic has accused three Chinese artificial intelligence companies of secretly pulling millions of answers from its chatbot, Claude, and using them to train their own systems. In a blog post...",
+            "url": "https://www.financialexpress.com/shorts/life/technology/anthropic-has-to-pay-billions-for-theft-elon-musk-slams-ai-firm-after-it-accuses-chinese-labs-of-copying-claude-4152861/"
+        },
+        {
+            "title": "What\u2019s likely to move the market",
+            "description": "[CNBC] Worries around artificial intelligence disruption and the Trump tariffs pushed stocks lower on Monday, with the Dow Industrials tumbling more than 800 points.",
+            "url": "https://www.cnbc.com/2026/02/23/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html"
+        },
+        {
+            "title": "China rolls out new AI-powered 'DeepRare' technology for efficient medical diagnosis",
+            "description": "[THE NEWS INTERNATIONAL] Researchers based in China have created an artificial intelligence -based tool that combines a mixture of patient information, including genetic data, clinical symptoms, and doctors\u2019 notes, to...",
+            "url": "https://www.thenews.com.pk/latest/1393454-china-rolls-out-new-ai-powered-deeprare-technology-for-efficient-medical-diagnosis"
+        },
+        {
+            "title": "CrowdStrike, Datadog and other cybersecurity stocks slide after Anthropic's AI tool launch",
+            "description": "[THE STAR] Feb 23 (Reuters) - \u2060Shares of cybersecurity companies including CrowdStrike and Datadog slumped \u2060on Monday, as investors weighed the potential impact of \u200cartificial intelligence startup Anthropic's...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/24/crowdstrike-datadog-and-other-cybersecurity-stocks-slide-after-anthropic039s-ai-tool-launch"
+        },
+        {
+            "title": "Musk\u2019s xAI signs deal with Pentagon over Grok use, Axios reports",
+            "description": "[MARKETS INSIDER] xAI, the artificial intelligence company founded by Tesla (TSLA) CEO Elon Musk, has signed a deal with the Pentagon to allow the U.S. military t...",
+            "url": "https://markets.businessinsider.com/news/stocks/musk-s-xai-signs-deal-with-pentagon-over-grok-use-axios-reports-1035858055"
+        },
+        {
+            "title": "OpenAI safety reps called to Ottawa after Tumbler Ridge, B.C., mass shooting: minister",
+            "description": "[CBC.CA] Artificial Intelligence Minister Evan Solomon has called representatives of OpenAI to Ottawa to discuss safety concerns after learning the killer in the mass shooting in Tumbler Ridge, B.C., was...",
+            "url": "https://www.cbc.ca/news/politics/open-ai-summoned-ottawa-tumbler-ridge-9.7103281"
         }
     ]
 }
