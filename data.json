@@ -1,25 +1,20 @@
 {
-    "updated": "2026-02-24 17:02:14 UTC",
+    "updated": "2026-02-24 18:57:16 UTC",
     "news": [
-        {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
+        },
+        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
-        },
-        {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -32,19 +27,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Building a Simple MCP Server in Python",
-            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
-            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
+        },
+        {
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Johor cops probing use of AI to mimic state exco member on social media for scam purposes",
-            "description": "[THE STAR] JOHOR BARU: Police are investigating the use of artificial intelligence (AI) technology to mimic the face and voice of a state executive councillor in TikTok videos promoting a non-existent Bantuan...",
-            "url": "https://www.thestar.com.my/news/nation/2026/02/24/johor-cops-probing-use-of-ai-to-mimic-state-exco-member-on-social-media-for-scam-purposes"
+            "title": "Real estate stocks fall on IT sector worries; Nifty Realty index down 1.5%, \u2018Best is behind us\u2019, says expert",
+            "description": "[MONEYCONTROL] The sell-off in realty shares comes alongside a sharp decline in IT stocks, which have been hit by fears of artificial intelligence-led disruption after recent claims by Anthropic on automating...",
+            "url": "https://www.moneycontrol.com/news/business/stocks/real-estate-stocks-fall-on-it-sector-worries-nifty-realty-index-down-1-5-best-is-behind-us-says-expert-13840956.html"
         },
         {
-            "title": "Hegseth and Anthropic CEO set to meet as debate intensifies over the military\u2019s use of AI",
-            "description": "[WTOP] WASHINGTON (AP) \u2014 Defense Secretary Pete Hegseth plans to meet Tuesday with the CEO of Anthropic, with the artificial intelligence company the only one of its\u2026",
-            "url": "https://wtop.com/business-finance/2026/02/hegseth-and-anthropic-ceo-set-to-meet-as-debate-intensifies-over-the-militarys-use-of-ai/"
+            "title": "New Delhi declaration on AI Impact signatories reach 91 as three more nations join",
+            "description": "[LIVEMINT] The global consensus on artificial intelligence governance expanded as three additional nations joined the New Delhi Declaration on AI Impact, bringing the total number of signatories to 91 countries...",
+            "url": "https://www.livemint.com/technology/new-delhi-declaration-on-ai-impact-signatories-reach-91-as-three-more-nations-join-11771915996652.html"
         },
         {
-            "title": "Hegseth and Anthropic CEO to meet over military AI use",
-            "description": "[THE ASSOCIATED PRESS] Defense Secretary Pete Hegseth plans to meet with the CEO of Anthropic. The artificial intelligence company is the only one of its peers to not supply its technology to a new U.S. military internal...",
-            "url": "https://apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba"
+            "title": "Alappuzha tailor behind viral 80-metre long gown bags Kerala State Labour Award",
+            "description": "[MALAYALA MANORAMA] A native of Cherthala, Binu stitched the gown from his single-room shop there.Alappuzha tailor award, Binu P A award, Kerala state labour award, pink gown tailoring award, excellence in labour award...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/24/alappuzha-tailor-behind-viral-80-metre-long-gown-bags-kerala-state-labour-award.html"
         },
         {
-            "title": "Hegseth and Anthropic CEO Set to Meet as Debate Intensifies Over the Military's Use of AI",
-            "description": "[U.S. NEWS & WORLD REPORT] WASHINGTON (AP) \u2014 Defense Secretary Pete Hegseth plans to meet Tuesday with the CEO of Anthropic, with the artificial intelligence company the only one of its peers to not supply its technology to a...",
-            "url": "https://www.usnews.com/news/business/articles/2026-02-24/hegseth-and-anthropic-ceo-set-to-meet-as-debate-intensifies-over-the-militarys-use-of-ai"
+            "title": "New Delhi declaration on AI Impact signatories reach 91 as three more nations join",
+            "description": "[THE TRIBUNE] The global consensus on artificial intelligence governance expanded as three additional nations joined the New Delhi Declaration on AI Impact, bringing the total number of signatories to 91 countries...",
+            "url": "https://www.tribuneindia.com/news/business/new-delhi-declaration-on-ai-impact-signatories-reach-91-as-three-more-nations-join/"
         },
         {
-            "title": "Indian IT Stock Selloff Deepens on AI Scare After Citrini Report",
-            "description": "[BLOOMBERG] A rout in Indian software services stocks deepened, tracking a US tech selloff, after a report from Citrini Research amplified concerns about companies vulnerable to the growing influence of...",
-            "url": "https://www.bloomberg.com/news/articles/2026-02-24/indian-it-stock-selloff-deepens-on-ai-scare-after-citrini-report"
+            "title": "Vijay Deverakonda-Rashmika Mandanna wedding venue: Here's why the remote location is special",
+            "description": "[MALAYALA MANORAMA] Unlike regular resorts, this property has a cluster of villas rather than blocks of rooms..Rashmika Mandanna Vijay Deverakonda wedding, VIROSH wedding Udaipur, celebrity wedding Rajasthan, Rashmika...",
+            "url": "https://www.onmanorama.com/travel/celebrity-travel/2026/02/24/vijay-deverakonda-rashmika-mandanna-wedding-venue-details.html"
         },
         {
-            "title": "Shirtless protest at AI Summit: Youth Congress national president arrested in Delhi",
-            "description": "[MALAYALA MANORAMA] With this, the total number of arrests made in the case has risen to eight..Youth Congress protest, AI Impact Summit arrests, Uday Bhanu Chib arrest, Indian Youth Congress, protest slogans, Bharat...",
-            "url": "https://www.onmanorama.com/news/india/2026/02/24/shirtless-protest-at-ai-summit-youth-congress-national-president-arrested.html"
+            "title": "AAP likely to field transwoman from Paniya tribe in Sulthan Bathery",
+            "description": "[MALAYALA MANORAMA] By fielding Prakrithi, AAP aims to highlight its inclusive politics..Wayanad politics, AAP Kerala, transgender candidate Kerala, Paniya tribe Wayanad, marginalised communities Kerala elections,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/24/aap-transwoman-field-paniya-tribe-sulthan-bathery.html"
         },
         {
-            "title": "Detecting the \"scent\" of ovarian cancer with AI",
-            "description": "[NEWS-MEDICAL.NET] Using machine learning, an electronic nose can \"smell\" early signs of ovarian cancer in the blood. The method is precise and, according to the LiU researchers behind the study, it could eventually be...",
-            "url": "https://www.news-medical.net/news/20260223/Detecting-the-scent-of-ovarian-cancer-with-AI.aspx"
+            "title": "US AI giant Anthropic alleges China rivals DeepSeek, Minimax and Moonshot AI are cheating",
+            "description": "[CABLE NEWS NETWORK] Top United States artificial intelligence firm Anthropic is accusing three prominent Chinese AI labs of illegally extracting capabilities from its Claude model to advance their own, claiming it...",
+            "url": "https://edition.cnn.com/2026/02/24/tech/anthropic-chinese-ai-distillation-intl-hnk"
         },
         {
-            "title": "Asian shares are mixed after heavy selling of potential AI losers hits Wall Street",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Shares are mixed in Asia after U.S. stocks slumped on heavy selling of shares in companies that could be losers in the artificial-intelligence boom. U.S. futures climbed. Markets in mainland China...",
-            "url": "https://www.ajc.com/news/2026/02/asian-shares-are-mixed-after-heavy-selling-of-potential-ai-losers-hits-wall-street/"
+            "title": "Are China\u2019s \u2018AI tigers\u2019 cheating? US rival Anthropic alleges some are",
+            "description": "[ABC17NEWS.COM] By John Liu, CNN (CNN) \u2014 United States artificial intelligence firm Anthropic is accusing three prominent Chinese AI labs of illegally extracting capabilities from its Claude model to advance their...",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2026/02/24/are-chinas-ai-tigers-cheating-us-rival-anthropic-alleges-some-are/"
         },
         {
-            "title": "Asian shares are mixed after heavy selling of potential AI losers hits Wall Street",
-            "description": "[BARCHART] Shares are mixed in Asia after U.S. stocks slumped on heavy selling of shares in companies that could be losers in the artificial-intelligence boom",
-            "url": "https://www.barchart.com/story/news/378234/asian-shares-are-mixed-after-heavy-selling-of-potential-ai-losers-hits-wall-street"
+            "title": "Possible AI use leads to end of senryu competition after 20 years",
+            "description": "[THE JAPAN TIMES ] The organizers decided to end the contest as it has become difficult for the works to be judged fairly given the emergence of artificial intelligence.",
+            "url": "https://www.japantimes.co.jp/news/2026/02/24/japan/japan-ai-senryu-poetry-writing/"
         },
         {
-            "title": "Asian shares are mixed after sell-off on Wall Street",
-            "description": "[THE ASSOCIATED PRESS] Shares are mixed in Asia after U.S. stocks slumped on heavy selling of shares in companies that could be losers in the artificial-intelligence boom.",
-            "url": "https://apnews.com/article/stocks-markets-trump-ai-iran-209a20c307b116ef8104c7166c8d2c9c"
+            "title": "Fractal Launches PiEvolve, an Evolutionary Agentic Engine for Autonomous Machine Learning and Scientific Discovery",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Fractal (www.fractal.ai), a publicly listed global enterprise AI company serving Fortune 500\u00ae organizations, today announced the launch of...",
+            "url": "https://www.prnewswire.co.uk/news-releases/fractal-launches-pievolve-an-evolutionary-agentic-engine-for-autonomous-machine-learning-and-scientific-discovery-302695398.html"
         }
     ]
 }
