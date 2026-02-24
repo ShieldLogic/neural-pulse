@@ -1,20 +1,25 @@
 {
-    "updated": "2026-02-24 18:57:16 UTC",
+    "updated": "2026-02-24 20:30:51 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
-        },
-        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
+        },
+        {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -27,24 +32,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+            "title": "Building a Simple MCP Server in Python",
+            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
+            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
-        },
-        {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Real estate stocks fall on IT sector worries; Nifty Realty index down 1.5%, \u2018Best is behind us\u2019, says expert",
-            "description": "[MONEYCONTROL] The sell-off in realty shares comes alongside a sharp decline in IT stocks, which have been hit by fears of artificial intelligence-led disruption after recent claims by Anthropic on automating...",
-            "url": "https://www.moneycontrol.com/news/business/stocks/real-estate-stocks-fall-on-it-sector-worries-nifty-realty-index-down-1-5-best-is-behind-us-says-expert-13840956.html"
+            "title": "IIT Madras\u2019 professor B Ravindran joins United Nations AI Scientific Panel",
+            "description": "[THE ECONOMIC TIMES] Professor B Ravindran from IIT Madras has joined the United Nations Independent International Scientific Panel on Artificial Intelligence. This global panel comprises 40 leading experts. They will...",
+            "url": "https://economictimes.indiatimes.com/news/india/iit-madras-professor-b-ravindran-joins-united-nations-ai-scientific-panel/articleshow/128745121.cms"
         },
         {
-            "title": "New Delhi declaration on AI Impact signatories reach 91 as three more nations join",
-            "description": "[LIVEMINT] The global consensus on artificial intelligence governance expanded as three additional nations joined the New Delhi Declaration on AI Impact, bringing the total number of signatories to 91 countries...",
-            "url": "https://www.livemint.com/technology/new-delhi-declaration-on-ai-impact-signatories-reach-91-as-three-more-nations-join-11771915996652.html"
+            "title": "The IBEX Retreats from Highs Amid Tariff Noise and AI-Linked Correction",
+            "description": "[MARKETSCREENER] The IBEX 35 opened Tuesday in the red, pressured by renewed protectionist rhetoric in the United States and a pullback in technology stocks linked to artificial intelligence, all against a backdrop...",
+            "url": "https://www.marketscreener.com/news/the-ibex-retreats-from-highs-amid-tariff-noise-and-ai-linked-correction-ce7e5dd3d08cff2d"
         },
         {
-            "title": "Alappuzha tailor behind viral 80-metre long gown bags Kerala State Labour Award",
-            "description": "[MALAYALA MANORAMA] A native of Cherthala, Binu stitched the gown from his single-room shop there.Alappuzha tailor award, Binu P A award, Kerala state labour award, pink gown tailoring award, excellence in labour award...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/24/alappuzha-tailor-behind-viral-80-metre-long-gown-bags-kerala-state-labour-award.html"
+            "title": "Students of Marathamkode GHSS in Thrissur sells organic matta rice grown by them",
+            "description": "[MALAYALA MANORAMA] Organic matta rice cultivated by NSS volunteers is now available in the market, offering a healthy and ethically sourced grain option..organic matta rice, marathamkode rice, buy organic matta rice,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/24/organic-matta-rice-marathamkode-ghss.html"
         },
         {
-            "title": "New Delhi declaration on AI Impact signatories reach 91 as three more nations join",
-            "description": "[THE TRIBUNE] The global consensus on artificial intelligence governance expanded as three additional nations joined the New Delhi Declaration on AI Impact, bringing the total number of signatories to 91 countries...",
-            "url": "https://www.tribuneindia.com/news/business/new-delhi-declaration-on-ai-impact-signatories-reach-91-as-three-more-nations-join/"
+            "title": "IIT-M professor appointed to UN's Independent International Scientific Panel on AI",
+            "description": "[THEPRINT] Chennai, Feb 24 (PTI) Professor B Ravindran of the IIT, Madras here has been appointed to the United Nations Independent International Scientific Panel on Artificial Intelligence, the city-based...",
+            "url": "https://theprint.in/india/iit-m-professor-appointed-to-uns-independent-international-scientific-panel-on-ai/2862375/"
         },
         {
-            "title": "Vijay Deverakonda-Rashmika Mandanna wedding venue: Here's why the remote location is special",
-            "description": "[MALAYALA MANORAMA] Unlike regular resorts, this property has a cluster of villas rather than blocks of rooms..Rashmika Mandanna Vijay Deverakonda wedding, VIROSH wedding Udaipur, celebrity wedding Rajasthan, Rashmika...",
-            "url": "https://www.onmanorama.com/travel/celebrity-travel/2026/02/24/vijay-deverakonda-rashmika-mandanna-wedding-venue-details.html"
+            "title": "IT stocks may have priced in too much AI risk: Kotak Institutional Equities",
+            "description": "[CNBC TV18] Kawaljeet Saluja, Senior Executive Director & Head of Research at Kotak Institutional Equities believes IT firms will act as crucial bridges for enterprises adopting new technologies, navigating both...",
+            "url": "https://www.cnbctv18.com/market/stocks/it-sector-sell-off-overdone-value-emerging-despite-ai-deflationary-impact-says-kotak-equities-kawaljit-saluja-alpha-article-19856456.htm"
         },
         {
-            "title": "AAP likely to field transwoman from Paniya tribe in Sulthan Bathery",
-            "description": "[MALAYALA MANORAMA] By fielding Prakrithi, AAP aims to highlight its inclusive politics..Wayanad politics, AAP Kerala, transgender candidate Kerala, Paniya tribe Wayanad, marginalised communities Kerala elections,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/24/aap-transwoman-field-paniya-tribe-sulthan-bathery.html"
+            "title": "IIT-M professor appointed to UN's Independent International Scientific Panel on AI",
+            "description": "[DEVDISCOURSE] Professor B Ravindran of the IIT, Madras here has been appointed to the United Nations Independent International Scientific Panel on Artificial Intelligence, the city-based premier research...",
+            "url": "https://www.devdiscourse.com/article/education/3815571-iit-m-professor-appointed-to-uns-independent-international-scientific-panel-on-ai"
         },
         {
-            "title": "US AI giant Anthropic alleges China rivals DeepSeek, Minimax and Moonshot AI are cheating",
-            "description": "[CABLE NEWS NETWORK] Top United States artificial intelligence firm Anthropic is accusing three prominent Chinese AI labs of illegally extracting capabilities from its Claude model to advance their own, claiming it...",
-            "url": "https://edition.cnn.com/2026/02/24/tech/anthropic-chinese-ai-distillation-intl-hnk"
+            "title": "Kerala Assembly passes Nativity Card Bill; Minister Balagopal calls it \u2018historic moment\u2019",
+            "description": "[MALAYALA MANORAMA] A permanent, photo-embedded Nativity Card will be issued to all citizens in Kerala..Kerala Nativity Card Bill, Nativity Card Kerala, Kerala identity card, Keralite declaration, proof of origin...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/24/kerala-to-bring-nativity-card-for-all-citizens-bill-passed-in-assembly.html"
         },
         {
-            "title": "Are China\u2019s \u2018AI tigers\u2019 cheating? US rival Anthropic alleges some are",
-            "description": "[ABC17NEWS.COM] By John Liu, CNN (CNN) \u2014 United States artificial intelligence firm Anthropic is accusing three prominent Chinese AI labs of illegally extracting capabilities from its Claude model to advance their...",
-            "url": "https://abc17news.com/money/cnn-business-consumer/2026/02/24/are-chinas-ai-tigers-cheating-us-rival-anthropic-alleges-some-are/"
+            "title": "Three decades later, Ahaana\u2019s baby dress finds new life with Diya\u2019s son Omy",
+            "description": "[MALAYALA MANORAMA] The tiny outfit holds deep sentimental value for the family. After Ahaana first wore it as a baby, the dress was later worn by her sisters, including.baby outfit generations, Krishna Kumar family...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/24/ahaana-krishna-baby-dress-worn-omy-diya-krishna-son.html"
         },
         {
-            "title": "Possible AI use leads to end of senryu competition after 20 years",
-            "description": "[THE JAPAN TIMES ] The organizers decided to end the contest as it has become difficult for the works to be judged fairly given the emergence of artificial intelligence.",
-            "url": "https://www.japantimes.co.jp/news/2026/02/24/japan/japan-ai-senryu-poetry-writing/"
+            "title": "India's technology sector to expand 6% to $315 billion in fiscal 2026, industry body says",
+            "description": "[REUTERS] India's technology sector is expected to grow 6.1% to $315 billion revenue in the ongoing fiscal year and remain around that level next fiscal, driven by artificial intelligence-led services as well...",
+            "url": "https://www.reuters.com/world/india/indias-technology-sector-grow-61-fiscal-2026-industry-body-says-2026-02-24/"
         },
         {
-            "title": "Fractal Launches PiEvolve, an Evolutionary Agentic Engine for Autonomous Machine Learning and Scientific Discovery",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Fractal (www.fractal.ai), a publicly listed global enterprise AI company serving Fortune 500\u00ae organizations, today announced the launch of...",
-            "url": "https://www.prnewswire.co.uk/news-releases/fractal-launches-pievolve-an-evolutionary-agentic-engine-for-autonomous-machine-learning-and-scientific-discovery-302695398.html"
+            "title": "CSRBOX Hosts Landmark AI for Better Bharat\u00ae Pavilion at India AI Summit 2026",
+            "description": "[THE TRIBUNE] New Delhi [India], February 24: At the Global India AI Impact Summit 2026, CSRBOX Group, one of the few social impact organisations to curate and showcase a dedicated AI-driven development pavilion...",
+            "url": "https://www.tribuneindia.com/news/business/csrbox-hosts-landmark-ai-for-better-bharat-pavilion-at-india-ai-summit-2026/"
         }
     ]
 }
