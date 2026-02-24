@@ -1,11 +1,6 @@
 {
-    "updated": "2026-02-24 04:15:49 UTC",
+    "updated": "2026-02-24 06:56:12 UTC",
     "news": [
-        {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
-        },
         {
             "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
             "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
@@ -22,14 +17,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
-        },
-        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
+        },
+        {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -67,6 +62,11 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Ibpap backs Senate hearing on IT-BPM concerns",
-            "description": "[THE MANILA TIMES] THE IT and Business Process Association of the Philippines (Ibpap) on Monday expressed support for the filing of Senate Resolution 253 by Sen. Bam Aquino ordering a public hearing by the Committee on...",
-            "url": "https://www.manilatimes.net/2026/02/24/business/top-business/ibpap-backs-senate-hearing-on-it-bpm-concerns/2283022"
+            "title": "X tests AI labeling to combat the rise of generated content",
+            "description": "[SOCIAL MEDIA TODAY] The app is working on a process that would require users to label posts created using artificial intelligence tools, according to an app researcher.",
+            "url": "https://www.socialmediatoday.com/news/x-formerly-twitter-tests-ai-content-labels/812913/"
         },
         {
-            "title": "254/6! Hetmyer powers Windies to second-highest total in T20 World Cups",
-            "description": "[MALAYALA MANORAMA] Shimron Hetmyer scored 85 off 34 to power the West Indies to 254/6 against Zimbabwe in a Super Eights match in the T20 World Cup 2026 at the Wankhede..West Indies T20 World Cup, highest T20 score,...",
-            "url": "https://www.onmanorama.com/sports/cricket/2026/02/23/t20-world-cup-2026-super-eight-west-indies-vs-zimbabwe.html"
+            "title": "US stocks drop after Trump ramps up his tariffs and worries flare about potential AI losers",
+            "description": "[DEVDISCOURSE] US stocks are falling Monday after President Donald Trump took little time to ramp up his newest tariffs, and as investors continue to punish companies that could be losers in the...",
+            "url": "https://www.devdiscourse.com/article/business/3815210-us-stocks-drop-after-trump-ramps-up-his-tariffs-and-worries-flare-about-potential-ai-losers"
         },
         {
-            "title": "Canadian PM Carney to travel to India on Feb 26",
-            "description": "[DEVDISCOURSE] The leaders will focus on elevating and expanding the Canada-India relationship, with ambitious new partnerships in trade, energy, technology and artificial intelligence AI, talent and culture, and...",
-            "url": "https://www.devdiscourse.com/article/politics/3815019-canadian-pm-carney-to-travel-to-india-on-feb-26"
+            "title": "Anthropic Says Chinese AI Companies Violated Terms of Service With Distillation Tactic",
+            "description": "[MARKETSCREENER] Amazon.com-backed Anthropic said Monday in a blog post that three Chinese artificial intelligence companies violated its terms of service by generating over 16 million exchanges with its Claude...",
+            "url": "https://www.marketscreener.com/news/anthropic-says-chinese-ai-companies-violated-terms-of-service-with-distillation-tactic-ce7e5dd3d88cf32d"
         },
         {
-            "title": "US factory orders fall in December on commercial aircraft bookings",
-            "description": "[REUTERS] New orders for U.S. factory goods fell in December amid a sharp decline in commercial aircraft bookings, but demand elsewhere was strong, partly driven by robust investment in artificial intelligence.",
-            "url": "https://www.reuters.com/business/aerospace-defense/us-factory-orders-fall-december-commercial-aircraft-bookings-2026-02-23/"
+            "title": "Taiwan Semi Stock Is Soaring Above AI Bubble Fears. Where Options Data Says It Is Headed Next.",
+            "description": "[BARCHART] Although machine learning\u2019s low-hanging fruit has been plucked, TSM stock continues to swing higher thanks to where the underlying business is fundamentally positioned.",
+            "url": "https://www.barchart.com/story/news/369504/taiwan-semi-stock-is-soaring-above-ai-bubble-fears-where-options-data-says-it-is-headed-next"
         },
         {
-            "title": "Sacred Heart, St Albert's lift inter-collegiate basketball titles in Chengannur",
-            "description": "[MALAYALA MANORAMA] Sacred Heart College, Chalakudy, and St Albert's College Starting Five Academy, Ernakulam won the George Mathew Memorial All Kerala Inter-Collegiate.inter-collegiate basketball tournament, Kerala...",
-            "url": "https://www.onmanorama.com/sports/other-sports/2026/02/23/george-mathew-memorial-inter-collegiate-basketball-finals.html"
+            "title": "Size Doesn\u2019t Matter to Warren Buffett - He Warns Managers Focus Too Much on the \u2018Yardstick of Size\u2019 and Not Enough on \u2018Profitability\u2019",
+            "description": "[BARCHART] This 1981 message is increasingly relevant in a market defined by high price-earnings ratios and artificial intelligence.",
+            "url": "https://www.barchart.com/story/news/369491/size-doesnt-matter-to-warren-buffett-he-warns-managers-focus-too-much-on-the-yardstick-of-size-and-not-enough-on-profitability"
         },
         {
-            "title": "\u2018Officially not unfit\u2019: Kozhikode Corp sat on demolition decision for 2 years, delay costs 4 lives",
-            "description": "[MALAYALA MANORAMA] Traders and local representatives in the area, where four head-load workers lost their lives, say the structure had long been in a dilapidated.sunshade collapse Kozhikode, Kozhikode market accident,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/23/kozhikode-building-collapse-corporation-delayed-demolition.html"
+            "title": "Chinese AI companies 'distilled' Claude to improve own models, Anthropic says",
+            "description": "[REUTERS] Three Chinese artificial intelligence companies used Claude to improperly obtain capabilities to improve their own models, the chatbot's creator Anthropic said in a blog post on Monday while also...",
+            "url": "https://www.reuters.com/world/china/chinese-companies-used-claude-improve-own-models-anthropic-says-2026-02-23/"
         },
         {
-            "title": "Tata Communications, RailTel join hands to strengthen India's next",
-            "description": "[THE TRIBUNE] Tata Communications and RailTel Corporation of India Ltd. entered into a strategic association to strengthen India's digital infrastructure backbone for Artificial Intelligence and next-generation...",
-            "url": "https://www.tribuneindia.com/news/business/tata-communications-railtel-join-hands-to-strengthen-indias-next-generation-digital-infrastructure-backbone-for-ai/"
+            "title": "Fact Check: Did President Donald Trump fight Canadian player after Connor Hellebuyck led Team USA to 2026 Winter Olympics gold?",
+            "description": "[TIMES OF INDIA] International Sports News: President Donald Trump set social media buzzing on Monday after he shared an artificial intelligence video that shows him fighting a Canadian hockey p.",
+            "url": "https://timesofindia.indiatimes.com/sports/international-sports/fact-check-did-president-donald-trump-fight-canadian-player-after-connor-hellebuyck-led-team-usa-to-2026-winter-olympics-gold/articleshow/128725521.cms"
         },
         {
-            "title": "UNDP AI Director lauds India's leadership as India, Italy, Kenya announce AI trilateral partnership",
-            "description": "[THE TRIBUNE] Keyzom Ngodup Massally, AI Director at the United Nations Development Programme (UNDP), on Monday hailed India's leadership in the Global South as the country announced a historic trilateral...",
-            "url": "https://www.tribuneindia.com/news/world/undp-ai-director-lauds-indias-leadership-as-india-italy-kenya-announce-ai-trilateral-partnership/"
+            "title": "Anthropic Says DeepSeek, MiniMax Distilled AI Models for Gains",
+            "description": "[BLOOMBERG] Anthropic PBC said three leading artificial intelligence developers in China worked to \u201cillicitly extract\u201d results from its AI models to bolster the capabilities of rival products, adding to growing...",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-23/anthropic-says-deepseek-minimax-distilled-ai-models-for-gains"
         },
         {
-            "title": "Anthropic\u2019s CEO to Meet Hegseth Amid Feud Over Pentagon Work",
-            "description": "[BLOOMBERG] Anthropic PBC Chief Executive Officer Dario Amodei will meet with US Defense Secretary Pete Hegseth on Tuesday, according to a senior Pentagon official, as contract talks with the artificial...",
-            "url": "https://www.bloomberg.com/news/articles/2026-02-23/anthropic-s-ceo-to-meet-hegseth-amid-feud-over-pentagon-work"
+            "title": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb",
+            "description": "[THE HACKER NEWS] Researchers uncover wormable XMRig campaign using BYOVD exploit and LLM-built React2Shell attacks hitting 90+ hosts.",
+            "url": "https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html"
         },
         {
-            "title": "OpenAI's Sam Altman blasts AI concerns around water usage as 'fake:' 'Humans use energy, too'",
-            "description": "[NEW YORK POST] OpenAI CEO Sam Altman dismissed concerns that artificial intelligence is using up lots of water as \u201cfake\u201d \u2013 arguing that \u201chumans use energy, too.\u201d",
-            "url": "https://nypost.com/2026/02/23/business/openais-sam-altman-blasts-ai-concerns-around-water-usage-as-fake-humans-use-energy-too/"
+            "title": "Microsoft's new gaming CEO Asha Sharma on concerns about her background in AI: No tolerance for\u2026",
+            "description": "[TIMES OF INDIA] Gaming News: Microsoft's newly appointed gaming CEO, Asha Sharma, has responded to concerns about her background in artificial intelligence (AI) and lack of prior .",
+            "url": "https://timesofindia.indiatimes.com/technology/gaming/microsofts-new-gaming-ceo-asha-sharma-on-concerns-about-her-background-in-ai-no-tolerance-for/articleshow/128721046.cms"
         }
     ]
 }
