@@ -1,6 +1,11 @@
 {
-    "updated": "2026-02-25 20:32:10 UTC",
+    "updated": "2026-02-25 22:29:13 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
         {
             "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
             "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
@@ -17,14 +22,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
+        },
+        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
-        },
-        {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -62,11 +67,6 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "India's TCS urging staff to use AI despite risk to revenue, CEO says",
-            "description": "[THE STAR] MUMBAI, Feb \u206025 (Reuters) - Tata Consultancy Services is urging employees to \u2060use artificial intelligence tools to deliver work faster and \u200ccheaper, even if it eats into the company's revenue, the...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/25/india039s-tcs-urging-staff-to-use-ai-despite-risk-to-revenue-ceo-says"
+            "title": "ASML sees AI demand as long-term growth driver in 2025 annual report",
+            "description": "[REUTERS] ASML , the biggest supplier of lithography equipment used to make computer chips, said in its 2025 annual report published Wednesday it now sees the artificial intelligence boom as the main driver...",
+            "url": "https://www.reuters.com/world/china/asml-sees-ai-demand-long-term-growth-driver-2025-annual-report-2026-02-25/"
         },
         {
-            "title": "India's TCS urging staff to use AI despite risk to revenue, CEO says",
-            "description": "[MARKETSCREENER] Tata Consultancy Services is urging employees to use artificial intelligence tools to deliver work faster and cheaper, even if it eats into the company's revenue, the CEO of India's largest...",
-            "url": "https://www.marketscreener.com/news/india-s-tcs-urging-staff-to-use-ai-despite-risk-to-revenue-ceo-says-ce7e5cdbda8ffe22"
+            "title": "Cloud Intellect Records 2,000+ Placements; Salesforce Architect Sumit Mahakalkar Bridges Skill Gap Amid AI",
+            "description": "[THE TRIBUNE] Pune (Maharashtra) [India], February 25: As artificial intelligence continues to reshape the global IT landscape and trigger growing AI anxiety across industries, the demand for specialized,...",
+            "url": "https://www.tribuneindia.com/news/business/cloud-intellect-records-2000-placements-salesforce-architect-sumit-mahakalkar-bridges-skill-gap-amid-ai-driven-job-volatility/"
         },
         {
-            "title": "TCS Urges Staff To Use AI Despite Risk To Revenue: CEO",
-            "description": "[NDTV.COM] Tata Consultancy Services is urging employees to use artificial intelligence tools to deliver work faster and cheaper, even if it eats into the company's revenue, the CEO of India's largest...",
-            "url": "https://www.ndtv.com/india-news/tcs-urges-staff-to-use-ai-despite-risk-to-revenue-ceo-11134056"
+            "title": "BMC Budget 2026: From Building Plans To Licences, Citizens To Get Step-by-Step AI Guidance As BMC Aims To Cut Delays And Simplify Services",
+            "description": "[FREE PRESS JOURNAL] The Brihanmumbai Municipal Corporation has announced a major Artificial Intelligence push in its 2026 budget, including a Citizen AI Coach, an Employee AI Coach, AI integration in Auto DCR...",
+            "url": "https://www.freepressjournal.in/mumbai/bmc-budget-2026-from-building-plans-to-licences-citizens-to-get-step-by-step-ai-guidance-as-bmc-aims-to-cut-delays-and-simplify-services"
         },
         {
-            "title": "India's TCS urging staff to use AI despite risk to revenue, CEO says",
-            "description": "[REUTERS] Tata Consultancy Services is urging employees to use artificial intelligence tools to deliver work faster and cheaper, even if it eats into the company's revenue, the CEO of India's largest...",
-            "url": "https://www.reuters.com/world/india/indias-tcs-urging-staff-use-ai-despite-risk-revenue-ceo-says-2026-02-25/"
+            "title": "Nvidia Earnings Slam Into Market With No Patience for AI Hiccups",
+            "description": "[BLOOMBERG] Nvidia Corp.\u2019s earnings report on Wednesday afternoon comes at a critical time for the US stock market with investors increasingly nervous about the outlook for artificial intelligence.",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-25/nvidia-earnings-loom-as-risk-factor-for-ai-obsessed-stock-market"
         },
         {
-            "title": "TCS urging staff to use AI despite risk to revenue, CEO says",
-            "description": "[THE ECONOMIC TIMES] Tata Consultancy Services is \u200burging employees to use \u200bartificial intelligence tools to deliver work faster \u200band cheaper, even if it eats into the company's revenue, the CEO of India's largest...",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/tcs-urging-staff-to-use-ai-despite-risk-to-revenue-ceo-says/articleshow/128775143.cms"
+            "title": "Kerala lottery Dhanalekshmi DL-41 result today 25/02/2026: \u20b91 cr first prize for DB 500865 | Check complete list",
+            "description": "[MALAYALA MANORAMA] The second prize is 30 lakh, followed by a third prize of 5 lakh..Kerala lottery results, Dhanalekshmi DL-41, lottery results today, Kerala lottery draw, 1 crore prize lottery, DL-41 lottery results,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/25/kerala-lottery-results-dhanalekshmi-dl-41-1-crore-prize-complete-list-21-2-2026-check-live.html"
         },
         {
-            "title": "The IBEX Opens Higher Amid Renewed AI Optimism as Markets Await Nvidia Results",
-            "description": "[MARKETSCREENER] The IBEX 35 opened higher on Wednesday, buoyed by Wall Street's rebound and gains in Asia, with renewed appetite for artificial intelligence setting the tone for the session. Investors...",
-            "url": "https://www.marketscreener.com/news/the-ibex-opens-higher-amid-renewed-ai-optimism-as-markets-await-nvidia-results-ce7e5cdbda8cf52c"
+            "title": "Can A.I. Detection Tools Really Spot Fake Images and Videos?",
+            "description": "[THE NEW YORK TIMES] Artificial intelligence detectors are increasingly used to check the veracity of content online. We ran more than 1,000 tests and found several strengths and plenty of weaknesses.",
+            "url": "https://www.nytimes.com/2026/02/25/technology/ai-detection-generated-photos-video.html"
         },
         {
-            "title": "Trump Announces Deals to Have Tech Companies Shoulder Burden of AI Data Center Costs",
-            "description": "[BREITBART NEWS NETWORK] President Donald Trump used the State of the Union address to announce deals with major tech companies to ensure data centers cover more of the costs needed in powering artificial intelligence.",
-            "url": "https://www.breitbart.com/tech/2026/02/25/trump-announces-deals-to-have-tech-companies-shoulder-burden-of-ai-data-center-costs/"
+            "title": "TCS on AI: \u2018Not afraid this will take away livelihood,\u2019 says CEO Krithivasan",
+            "description": "[THE FINANCIAL EXPRESS] Tata Consultancy Services MD and CEO K Krithivasan said the company is not afraid of artificial intelligence and is open to revenue cannibalisation through AI adoption. TCS wants all its 6 lakh-plus...",
+            "url": "https://www.financialexpress.com/business/industry-tcs-on-ai-not-afraid-this-will-take-away-livelihood-says-ceo-krithivasan-4154397/"
         },
         {
-            "title": "91 pc Indian firms now pilot workplace AI: Report",
-            "description": "[LOKMAT TIMES] 91 pc Indian firms now pilot workplace AI: Report - Bengaluru, Feb 25 Artificial Intelligence (AI) has moved from being \u201cinteresting\u201d to \u201curgent\u201d for India\u2019s Corporate Real Estate ... Get Latest News...",
-            "url": "https://www.lokmattimes.com/technology/91-pc-indian-firms-now-pilot-workplace-ai-report-1/"
+            "title": "How a Penguin and a Punch fill the modern vacuum",
+            "description": "[MALAYALA MANORAMA] In 2025, the world was freaking out on Labubus, the ugly-cute dolls who brought the kidult trend full on into the world..Punch the monkey, baby macaque plushie, abandoned baby monkey, emotional...",
+            "url": "https://www.onmanorama.com/news/tilt-shift/2026/02/25/how-penguin-punch-fill-modern-vacuum.html"
         },
         {
-            "title": "91 pc Indian firms now pilot workplace AI: Report",
-            "description": "[LOKMAT TIMES] 91 pc Indian firms now pilot workplace AI: Report - Bengaluru, Feb 25 Artificial Intelligence (AI) has moved from being \u201cinteresting\u201d to \u201curgent\u201d for India\u2019s Corporate Real Estate ... Get Latest News...",
-            "url": "https://www.lokmattimes.com/business/91-pc-indian-firms-now-pilot-workplace-ai-report/"
+            "title": "'AI Tsunami' warning: Anthropic CEO Dario Amodei identifies the one job category that will survive automation era",
+            "description": "[THE ECONOMIC TIMES] Anthropic CEO Dario Amodei has warned that an \u201cAI tsunami\u201d is fast approaching, saying artificial intelligence could eventually become superior to humans \u201cat everything.\u201d Speaking to Zerodha...",
+            "url": "https://economictimes.indiatimes.com/magazines/panache/ai-tsunami-warning-anthropic-ceo-dario-amodei-identifies-the-one-job-category-that-will-survive-automation-era/articleshow/128776473.cms"
         },
         {
-            "title": "Victoria outshines NSW in AI data centre gold rush",
-            "description": "[AUSTRALIAN FINANCIAL REVIEW] In a race to attract billions of dollars in investment from artificial intelligence giants, data centre industry insiders say Victoria is outperforming NSW.",
-            "url": "https://www.afr.com/technology/victoria-outshines-nsw-in-ai-data-centre-gold-rush-20260225-p5o5de"
+            "title": "DNPA Conclave 2026 to chart future of digital news in AI era",
+            "description": "[THE ECONOMIC TIMES] New Delhi will host the DNPA Conclave 2026 on February 26. Policymakers, media leaders, and experts will gather. They will discuss news, governance, and digital innovation. Artificial intelligence is...",
+            "url": "https://economictimes.indiatimes.com/industry/media/entertainment/media/dnpa-conclave-2026-to-chart-future-of-digital-news-in-ai-era/articleshow/128777316.cms"
         }
     ]
 }
