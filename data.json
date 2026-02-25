@@ -1,10 +1,10 @@
 {
-    "updated": "2026-02-25 08:43:14 UTC",
+    "updated": "2026-02-25 10:46:41 UTC",
     "news": [
         {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
         },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
@@ -17,14 +17,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
-        },
-        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
+        },
+        {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -35,11 +35,6 @@
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "Building a Simple MCP Server in Python",
-            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
-            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
             "title": "Choosing Between PCA and t-SNE for Visualization",
@@ -67,6 +62,11 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "AI chip startup SambaNova raises $350 million in Vista-led round, signs Intel partnership",
-            "description": "[REUTERS] SambaNova Systems said on Tuesday it has raised $350 million in a new funding round and struck a partnership with Intel as it seeks to capitalise on surging demand for inference chips used in...",
-            "url": "https://www.reuters.com/business/media-telecom/ai-chip-startup-sambanova-raises-350-million-vista-led-round-signs-intel-2026-02-24/"
+            "title": "US stocks rise after getting a reminder of AI's potential upsides",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] The U.S. stock market rose after getting a reminder that the artificial-intelligence technology boom may also have an upside. The S&P 500 climbed 0.8% Tuesday and recovered nearly three-quarters of...",
+            "url": "https://www.ajc.com/news/2026/02/us-stocks-rise-after-getting-a-reminder-of-ais-potential-upsides/"
         },
         {
-            "title": "Oura debuts AI model trained on clinical women's health research",
-            "description": "[WAREABLE] Smart ring giant Oura is taking a stand against the nature of general-purpose AI with the launch of its first proprietary Large Language Model (LLM) designed specifically for women\u2019s health.",
-            "url": "https://www.wareable.com/health-and-wellbeing/oura-advisor-womens-health-ai-labs-announcement-launch"
+            "title": "Fed Officials Weigh In on AI's Potential Impact on Monetary Policy",
+            "description": "[MARKETSCREENER] By Jessica Coacci Federal Reserve officials have been sharing their thoughts on how artificial intelligence's impact on productivity may reshape the economy and the future of interest rates. ......",
+            "url": "https://www.marketscreener.com/news/fed-officials-weigh-in-on-ai-s-potential-impact-on-monetary-policy-ce7e5cdad08df12d"
         },
         {
-            "title": "Hegseth warns Anthropic to let the military use the company\u2019s AI tech as it sees fit, AP source says",
-            "description": "[SHAW LOCAL ENEWSPAPERS] Defense Secretary Pete Hegseth gave Anthropic\u2019s CEO a Friday deadline to open the company\u2019s artificial intelligence technology for unrestricted military use or risk losing its government contract,...",
-            "url": "https://www.shawlocal.com/news/2026/02/24/hegseth-warns-anthropic-to-let-the-military-use-the-companys-ai-tech-as-it-sees-fit-ap-source-says/"
+            "title": "Sri Lanka reaffirms commitment to responsible AI and deepens bilateral engagements at AI Impact Summit 2026 in India",
+            "description": "[THE TRIBUNE] Participating in the India AI Impact Summit 2026 held in New Delhi from February 17-20 at the invitation of Prime Minister Narendra Modi, Sri Lankan President Anura Kumara Disanayaka reaffirmed Sri...",
+            "url": "https://www.tribuneindia.com/news/world/sri-lanka-reaffirms-commitment-to-responsible-ai-and-deepens-bilateral-engagements-at-ai-impact-summit-2026-in-india/"
         },
         {
-            "title": "AI as Emotional Support: New Research Suggests Technology May Trigger \u201cHappiness Hormones\u201d",
-            "description": "[TECHBULLION] Artificial intelligence has evolved: it transitioned from a specialized tool to a part of our daily lives. Now, it\u2019s a mainstream resource used by everybody to lessen the burden of study or work....",
-            "url": "https://techbullion.com/ai-as-emotional-support-new-research-suggests-technology-may-trigger-happiness-hormones/"
+            "title": "Australia's WiseTech Global plans 2,000 job cuts amid AI-led revamp",
+            "description": "[REUTERS] Australian logistics software firm WiseTech Global said on Wednesday it would lay off about 2,000 people over the next two years as it adopts artificial intelligence across its software and internal...",
+            "url": "https://www.reuters.com/business/world-at-work/australias-wisetech-global-plans-2000-job-cuts-amid-ai-overhaul-2026-02-24/"
         },
         {
-            "title": "Anthropic digs in heels in dispute with Pentagon, source says",
-            "description": "[REUTERS] Artificial intelligence lab Anthropic has no intention of easing its usage restrictions for military purposes, a person familiar with the matter said on Tuesday, following a meeting to discuss its...",
-            "url": "https://www.reuters.com/world/anthropic-digs-heels-dispute-with-pentagon-source-says-2026-02-24/"
+            "title": "University Of Bristol To Launch First International Campus In Mumbai",
+            "description": "[DECCAN CHRONICLE] The Memorandum of Understanding (MoU) with TCS, will explore ways to advance artificial intelligence (AI) research, enhance industry-aligned learning and create opportunities and career pathways for...",
+            "url": "https://www.deccanchronicle.com/nation/university-of-bristol-to-launch-first-international-campus-in-mumbai-1939701"
         },
         {
-            "title": "Anthropic digs in heels in dispute with Pentagon, source says",
-            "description": "[MARKETSCREENER] Artificial intelligence lab Anthropic has no intention of easing its usage restrictions for military purposes, a person familiar with the matter said on Tuesday, following a meeting to discuss its......",
-            "url": "https://www.marketscreener.com/news/anthropic-digs-in-heels-in-dispute-with-pentagon-source-says-ce7e5cdade80f726"
+            "title": "Nvidia Has Sold Zero H200s to China, Top US Export Enforcer Says",
+            "description": "[BLOOMBERG] Nvidia Corp. has yet to sell any of its H200 chips to China two months after President Donald Trump\u2019s decision to allow shipments of the artificial intelligence processors to the world\u2019s...",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-24/nvidia-has-sold-zero-h200s-to-china-top-us-export-enforcer-says"
         },
         {
-            "title": "Pentagon Threatens to End Anthropic Work in Feud Over AI Terms",
-            "description": "[LIVEMINT] The Pentagon warned Anthropic PBC that it would terminate the company\u2019s military contracts on Friday if the artificial intelligence startup failed to meet government terms for use of its technology,...",
-            "url": "https://www.livemint.com/companies/pentagon-threatens-to-end-anthropic-work-in-feud-over-ai-terms-11771963743003.html"
+            "title": "Standoff at the Intersection of AI and National Security",
+            "description": "[DEVDISCOURSE] Artificial intelligence lab Anthropic is steadfast in maintaining its restrictions against military applications, despite ongoing discussions with the Pentagon. The firm, led by CEO Dario Amodei,...",
+            "url": "https://www.devdiscourse.com/article/technology/3816623-standoff-at-the-intersection-of-ai-and-national-security"
         },
         {
-            "title": "Traders Dump Software Loans as AI Concerns Weigh on Debt Prices",
-            "description": "[BLOOMBERG] Leveraged-loan traders are slashing their exposure to software debt \u2014 much of which entered 2026 priced at or near par \u2014 in a sign of how artificial-intelligence fears are rippling across the market.",
-            "url": "https://www.bloomberg.com/news/articles/2026-02-24/traders-rush-to-dump-software-loans-that-began-year-at-100-cents"
+            "title": "Thomson Reuters shares rally after CoCounsel AI tool draws 1 million users",
+            "description": "[REUTERS] Thomson Reuters shares jumped more than 11% on Tuesday after the technology and content firm said its artificial intelligence-powered assistant for businesses, CoCounsel, has drawn one million users,...",
+            "url": "https://www.reuters.com/business/thomson-reuters-shares-rally-after-cocounsel-ai-tool-draws-1-million-users-2026-02-24/"
         },
         {
-            "title": "Pentagon Threatens to End Anthropic Work in Feud Over AI Terms",
-            "description": "[BLOOMBERG] The Pentagon warned Anthropic PBC that it would terminate the company\u2019s military contracts on Friday if the artificial intelligence startup failed to meet government terms for use of its technology,...",
-            "url": "https://www.bloomberg.com/news/articles/2026-02-24/pentagon-threatens-to-end-anthropic-work-in-feud-over-ai-terms"
+            "title": "GoDaddy forecasts annual revenue below estimates on slow AI-related adoption",
+            "description": "[REUTERS] GoDaddy on Tuesday forecast annual revenue below Wall Street estimates, signaling that it anticipates slow adoption of its artificial\u2011intelligence tools and weaker customer acquisition across its...",
+            "url": "https://www.reuters.com/technology/godaddy-forecasts-annual-revenue-below-estimates-slow-ai-related-adoption-2026-02-24/"
         },
         {
-            "title": "Wall St bounces back on renewed tech vigor, easing AI concerns",
-            "description": "[MARKETSCREENER] Wall Street rebounded on Tuesday, with tech stocks leading the charge as renewed enthusiasm for artificial intelligence offset concerns over potential disruptions caused by the nascent ...",
-            "url": "https://www.marketscreener.com/news/wall-st-bounces-back-on-renewed-tech-vigor-easing-ai-concerns-ce7e5cdade8df02c"
+            "title": "Stocks rise after getting a reminder of AI's potential upsides",
+            "description": "[LOS ANGELES TIMES] The U.S. stock market rose after getting a reminder that the artificial-intelligence technology boom may also have an upside",
+            "url": "https://www.latimes.com/business/story/2026-02-24/stocks-rise-after-getting-reminder-of-ais-potential-upsides"
         }
     ]
 }
