@@ -1,15 +1,15 @@
 {
-    "updated": "2026-02-25 19:01:15 UTC",
+    "updated": "2026-02-25 20:32:10 UTC",
     "news": [
+        {
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
-        },
-        {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
+        },
+        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
-        },
-        {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,14 +37,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
-        },
-        {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Anthropic's 'misanthropic' moment for Indian IT! Claude parent's valuation tops the whole industry",
-            "description": "[THE ECONOMIC TIMES] Amid the rapid rise of artificial intelligence, AI firm Anthropic \u2014 valued at about $380 billion \u2014 has overtaken the combined market capitalisation of Indias top IT companies, including TCS, Infosys,...",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/anthropics-misanthropic-moment-for-indian-it-claude-parents-valuation-tops-the-whole-industry/articleshow/128773004.cms"
+            "title": "India's TCS urging staff to use AI despite risk to revenue, CEO says",
+            "description": "[THE STAR] MUMBAI, Feb \u206025 (Reuters) - Tata Consultancy Services is urging employees to \u2060use artificial intelligence tools to deliver work faster and \u200ccheaper, even if it eats into the company's revenue, the...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/25/india039s-tcs-urging-staff-to-use-ai-despite-risk-to-revenue-ceo-says"
         },
         {
-            "title": "After Anthropic announcement, investors look for signs of bottom in software rout",
-            "description": "[THE HINDU] Investors were looking anew for signs of a bottom in beleaguered shares of software companies \u200con Tuesday after an announcement that artificial intelligence startup Anthropic was partnering with an...",
-            "url": "https://www.thehindu.com/sci-tech/technology/after-anthropic-announcementinvestors-look-for-signs-of-bottom-in-software-rout/article70673928.ece"
+            "title": "India's TCS urging staff to use AI despite risk to revenue, CEO says",
+            "description": "[MARKETSCREENER] Tata Consultancy Services is urging employees to use artificial intelligence tools to deliver work faster and cheaper, even if it eats into the company's revenue, the CEO of India's largest...",
+            "url": "https://www.marketscreener.com/news/india-s-tcs-urging-staff-to-use-ai-despite-risk-to-revenue-ceo-says-ce7e5cdbda8ffe22"
         },
         {
-            "title": "Caught under a moving bus, 70 year old woman cheats death",
-            "description": "[MALAYALA MANORAMA] The accident occurred on Tuesday evening along the Paravur\u2013Parippally Road..Paravur bus accident survivor, miraculous bus escape, woman survives being run over, Omanayamma bus incident, unbelievable...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/25/kollam-woman-miraculous-escape-from-crushed-under-bus-wheels.html"
+            "title": "TCS Urges Staff To Use AI Despite Risk To Revenue: CEO",
+            "description": "[NDTV.COM] Tata Consultancy Services is urging employees to use artificial intelligence tools to deliver work faster and cheaper, even if it eats into the company's revenue, the CEO of India's largest...",
+            "url": "https://www.ndtv.com/india-news/tcs-urges-staff-to-use-ai-despite-risk-to-revenue-ceo-11134056"
         },
         {
-            "title": "4 pythons found dead in Periyar, Forest Dept begins probe",
-            "description": "[MALAYALA MANORAMA] As per preliminary findings, the pythons may have died after getting trapped in fishing nets.python deaths Idukki, dead pythons Periyar River, Idukki python investigation, fishing net python deaths,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/25/pythons-found-dead-in-river-forest-dept-begins-probe.html"
+            "title": "India's TCS urging staff to use AI despite risk to revenue, CEO says",
+            "description": "[REUTERS] Tata Consultancy Services is urging employees to use artificial intelligence tools to deliver work faster and cheaper, even if it eats into the company's revenue, the CEO of India's largest...",
+            "url": "https://www.reuters.com/world/india/indias-tcs-urging-staff-use-ai-despite-risk-revenue-ceo-says-2026-02-25/"
         },
         {
-            "title": "What is behind China\u2019s rapid rise as a pharmaceutical powerhouse?",
-            "description": "[CNA] From billion-dollar licensing deals to advances in cancer therapies and artificial intelligence, Chinese biotech firms are reshaping the global drug industry.",
-            "url": "https://www.channelnewsasia.com/east-asia/china-drugs-pharmaceutical-powerhouse-biotech-cancer-artificial-intelligence-5951486"
+            "title": "TCS urging staff to use AI despite risk to revenue, CEO says",
+            "description": "[THE ECONOMIC TIMES] Tata Consultancy Services is \u200burging employees to use \u200bartificial intelligence tools to deliver work faster \u200band cheaper, even if it eats into the company's revenue, the CEO of India's largest...",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/tcs-urging-staff-to-use-ai-despite-risk-to-revenue-ceo-says/articleshow/128775143.cms"
         },
         {
-            "title": "State\u2019s first local body-built theatre comes up in Pathanamthitta panchayat; residents no longer have to travel 40 kms",
-            "description": "[MALAYALA MANORAMA] For many residents, especially families and the elderly, that distance quietly turned cinema from a weekly outing into a rare luxury. Now, that.Panchayat owned cinema theatre Kerala, Seethathodu...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/25/seethathodu-grama-panchayat-state-first-theatre-local-body-owned-pathanamthitta.html"
+            "title": "The IBEX Opens Higher Amid Renewed AI Optimism as Markets Await Nvidia Results",
+            "description": "[MARKETSCREENER] The IBEX 35 opened higher on Wednesday, buoyed by Wall Street's rebound and gains in Asia, with renewed appetite for artificial intelligence setting the tone for the session. Investors...",
+            "url": "https://www.marketscreener.com/news/the-ibex-opens-higher-amid-renewed-ai-optimism-as-markets-await-nvidia-results-ce7e5cdbda8cf52c"
         },
         {
-            "title": "The AI Replacement Doom Loop: Why UBI Won\u2019t Save Us and What Comes Next",
-            "description": "[NATURAL NEWS] Introduction: The Unavoidable Reality of Real Machine Intelligence Humans deeply misunderstand the nature of AI. What is being called \u2018artificial intelligence\u2019 is, in truth, the emergence of a new...",
-            "url": "https://www.naturalnews.com/2026-02-25-the-ai-replacement-doom-loop.html"
+            "title": "Trump Announces Deals to Have Tech Companies Shoulder Burden of AI Data Center Costs",
+            "description": "[BREITBART NEWS NETWORK] President Donald Trump used the State of the Union address to announce deals with major tech companies to ensure data centers cover more of the costs needed in powering artificial intelligence.",
+            "url": "https://www.breitbart.com/tech/2026/02/25/trump-announces-deals-to-have-tech-companies-shoulder-burden-of-ai-data-center-costs/"
         },
         {
-            "title": "Jindal Global Law School Hosts Prestigious Law Schools Global League Deans' Meeting 2026",
-            "description": "[THE TRIBUNE] Sonipat (Haryana) [India], February 25: The Jindal Global Law School (JGLS) of O.P. Jindal Global University (JGU), hosted the four-day prestigious Law Schools Global League (LSGL) Deans' Meeting and...",
-            "url": "https://www.tribuneindia.com/news/business/jindal-global-law-school-hosts-prestigious-law-schools-global-league-deans-meeting-2026/"
+            "title": "91 pc Indian firms now pilot workplace AI: Report",
+            "description": "[LOKMAT TIMES] 91 pc Indian firms now pilot workplace AI: Report - Bengaluru, Feb 25 Artificial Intelligence (AI) has moved from being \u201cinteresting\u201d to \u201curgent\u201d for India\u2019s Corporate Real Estate ... Get Latest News...",
+            "url": "https://www.lokmattimes.com/technology/91-pc-indian-firms-now-pilot-workplace-ai-report-1/"
         },
         {
-            "title": "Anthropic CEO Dario Amodei says AI may outperform humans, shares career advice for young Indians",
-            "description": "[FIRSTPOST] Anthropic CEO Dario Amodei warns that artificial intelligence could soon surpass humans in almost every domain, but says India\u2019s young workforce can still thrive, if they learn to work with AI, not...",
-            "url": "https://www.firstpost.com/tech/anthropic-ceo-dario-amodei-says-ai-may-outperform-humans-shares-career-advice-for-young-indians-13983453.html"
+            "title": "91 pc Indian firms now pilot workplace AI: Report",
+            "description": "[LOKMAT TIMES] 91 pc Indian firms now pilot workplace AI: Report - Bengaluru, Feb 25 Artificial Intelligence (AI) has moved from being \u201cinteresting\u201d to \u201curgent\u201d for India\u2019s Corporate Real Estate ... Get Latest News...",
+            "url": "https://www.lokmattimes.com/business/91-pc-indian-firms-now-pilot-workplace-ai-report/"
         },
         {
-            "title": "Technical snag disrupts Kochi Metro services for over an hour",
-            "description": "[MALAYALA MANORAMA] For around 15 minutes, the service was completely stopped..Kochi metro disruption, metro train technical glitch, Kochi metro technical issue, Aluva bound train delay, MG Road station train fault,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/25/technical-glitch-delays-kochi-metro.html"
+            "title": "Victoria outshines NSW in AI data centre gold rush",
+            "description": "[AUSTRALIAN FINANCIAL REVIEW] In a race to attract billions of dollars in investment from artificial intelligence giants, data centre industry insiders say Victoria is outperforming NSW.",
+            "url": "https://www.afr.com/technology/victoria-outshines-nsw-in-ai-data-centre-gold-rush-20260225-p5o5de"
         }
     ]
 }
