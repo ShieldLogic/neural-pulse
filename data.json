@@ -1,11 +1,6 @@
 {
-    "updated": "2026-02-26 01:48:28 UTC",
+    "updated": "2026-02-26 04:13:56 UTC",
     "news": [
-        {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
-        },
         {
             "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
             "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
@@ -22,14 +17,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
-        },
-        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
+        },
+        {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -67,6 +62,11 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "TCS CEO at Nasscom event: We are not scared AI will take away our livelihood, we believe it will ...",
-            "description": "[TIMES OF INDIA] Tech News News: Tata Consultancy Services (TCS) CEO K Krithivasan reportedly said the company views artificial intelligence (AI) as an opportunity rather than a threa.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/tcs-ceo-at-nasscom-event-we-are-not-scared-ai-will-take-away-our-livelihood-we-believe-it-will-/articleshow/128784528.cms"
+            "title": "Facebook owner Meta to buy AI chips from AMD in deal worth up to $100 billion",
+            "description": "[THE MANILA TIMES] FACEBOOK owner Meta Platforms will buy artificial intelligence (AI) chips from Advanced Micro Devices (AMD) in a deal that will also give it the opportunity to buy up to a 10-percent stake of the...",
+            "url": "https://www.manilatimes.net/2026/02/26/business/foreign-business/facebook-owner-meta-to-buy-ai-chips-from-amd-in-deal-worth-up-to-100-billion/2284716"
         },
         {
-            "title": "Gurgaon man held for hoax bomb threat to stop ex\u2019s interview",
-            "description": "[THE INDIAN EXPRESS] Police said he holds an LLM from London and works in the legal department of a private company in the city.",
-            "url": "https://indianexpress.com/article/cities/delhi/gurgaon-hoax-bomb-threat-dlf-one-horizon-ex-girlfriend-arrested-10552080/"
+            "title": "Hyundai Motor to unveil multi-billion-dollar investment in South Korea",
+            "description": "[THE MANILA TIMES] SEOUL \u2014 Hyundai Motor Group plans to unveil a multi-billion-dollar investment in South Korea\u2019s west coast, a source with direct knowledge of the matter said on Wednesday, as the auto group expands...",
+            "url": "https://www.manilatimes.net/2026/02/26/business/foreign-business/hyundai-motor-to-unveil-multi-billion-dollar-investment-in-south-korea/2284709"
         },
         {
-            "title": "Jeffs\u2019 Brands: KeepZone AI Enters Advanced Counter-Drone Solutions Market Amid Surging Global Demand for Airspace Security",
-            "description": "[THE MANILA TIMES] Tel Aviv, Israel, Feb. 25, 2026 (GLOBE NEWSWIRE) -- Jeffs' Brands Ltd ('Jeffs\u2019 Brands\u201d or the 'Company\u201d) (Nasdaq: JFBR, JFBRW), a data-driven e-commerce company operating on the Amazon Marketplace...",
-            "url": "https://www.manilatimes.net/2026/02/25/tmt-newswire/globenewswire/jeffs-brands-keepzone-ai-enters-advanced-counter-drone-solutions-market-amid-surging-global-demand-for-airspace-security/2284935"
+            "title": "Tattvam AI Founder Raises $1.7 Million For Semiconductor Design Startup",
+            "description": "[NDTV PROFIT] Tattvam AI is a startup that focuses on aspects of both artificial intelligence and chip engineering, an approach that is commonly classified as core deeptech.",
+            "url": "https://www.ndtvprofit.com/technology/tattvam-ai-founder-raises-1-7-million-for-semi-conductor-design-startup-11136227"
         },
         {
-            "title": "How AI Is Redefining the Future of Core Banking",
-            "description": "[TECHBULLION] Artificial intelligence is disrupting the relationship between financial institutions in terms of how they operate, compete, and provide",
-            "url": "https://techbullion.com/how-ai-is-redefining-the-future-of-core-banking/"
+            "title": "AI robot monk unveiled in Japan",
+            "description": "[THE MANILA TIMES] TOKYO \u2014 Japanese researchers have unveiled a robot monk powered by artificial intelligence (AI) that they say can dispense spiritual advice and maybe one day ease shortages of its human counterparts.",
+            "url": "https://www.manilatimes.net/2026/02/26/world/asia-oceania/ai-robot-monk-unveiled-in-japan/2284771"
         },
         {
-            "title": "Maharashtra Budget Session 2026: State To Deploy IoT & AI System For 100 % Air Pollution Monitoring",
-            "description": "[FREE PRESS JOURNAL] The Maharashtra government has announced plans to implement an IoT and Artificial Intelligence based system to monitor air pollution across the state. Speaking in the Legislative Council during...",
-            "url": "https://www.freepressjournal.in/mumbai/maharashtra-budget-session-2026-state-to-deploy-iot-ai-system-for-100-air-pollution-monitoring"
+            "title": "Workday's AI Pivot Weighs on Near-Term Margins, Morgan Stanley Says",
+            "description": "[MARKETSCREENER] Workday's stepped-up investment in artificial intelligence is likely to pressure margins in the near term, even as the company refocuses on building more of its AI capabilities internally, Morgan...",
+            "url": "https://www.marketscreener.com/news/workday-s-ai-pivot-weighs-on-near-term-margins-morgan-stanley-says-ce7e5cdbd081f524"
         },
         {
-            "title": "E.ON Increases Investments for Grid Expansion",
-            "description": "[MARKETSCREENER] The energy company E.ON is significantly ramping up its investments in response to rising electricity demand driven by artificial intelligence and the energy transition. The largest European...",
-            "url": "https://www.marketscreener.com/news/e-on-increases-investments-for-grid-expansion-ce7e5cdbde8dff22"
+            "title": "IBM Faces 'Some Degree' of AI Disruption Risk Due to GenAI Innovations, Morgan Stanley Says",
+            "description": "[MARKETSCREENER] International Business Machines faces some degree of artificial intelligence disruption risk due to recent innovations with generative AI, Morgan Stanley analysts said in a Wednesday...",
+            "url": "https://www.marketscreener.com/news/ibm-faces-some-degree-of-ai-disruption-risk-due-to-genai-innovations-morgan-stanley-says-ce7e5cdbd08ffe2c"
         },
         {
-            "title": "Robo.ai Inc. to Acquire Controlling Stake in Chinasky Car Trading FZE, Accelerating Commercialization of Intelligent Hardware Strategy",
-            "description": "[THE MANILA TIMES] **media[950947]**DUBAI, UAE, Feb. 25, 2026 /PRNewswire/ -- Robo.ai Inc. (NASDAQ: AIIO), a technology company developing a global artificial intelligence machine economy platform, today announced that...",
-            "url": "https://www.manilatimes.net/2026/02/25/tmt-newswire/pr-newswire/roboai-inc-to-acquire-controlling-stake-in-chinasky-car-trading-fze-accelerating-commercialization-of-intelligent-hardware-strategy/2284918"
+            "title": "GoDaddy forecasts revenue below expectations, shares slide",
+            "description": "[MARKETSCREENER] GoDaddy said it expects annual revenue to come in below Wall Street forecasts, reflecting slower adoption of its artificial intelligence tools and a slowdown in new customer acquisition. The...",
+            "url": "https://www.marketscreener.com/news/godaddy-forecasts-revenue-below-expectations-shares-slide-ce7e5cdbd08df52d"
         },
         {
-            "title": "Options traders price Nvidia\u2019s smallest post\u2011earnings swing",
-            "description": "[BNN BLOOMBERG] Traders in the equity options market are unusually subdued about how much Nvidia\u2019s quarterly results might move the stock, even as investors hope the chipmaker\u2019s earnings report will shed light on...",
-            "url": "https://www.bnnbloomberg.ca/business/2026/02/25/options-traders-price-nvidias-smallest-postearnings-swing-in-three-years/"
+            "title": "Agentic Finance: How DeFi and AI rewrite the rules of trading",
+            "description": "[MARKETSCREENER] AgentFi is reshaping crypto markets as autonomous agents begin managing capital on-chain. For years, decentralized finance promised to remove intermediaries. Now, artificial intelligence is...",
+            "url": "https://www.marketscreener.com/news/agentic-finance-how-defi-and-ai-rewrite-the-rules-of-trading-ce7e5cdbd08bf623"
         },
         {
-            "title": "Options traders price Nvidia\u2019s smallest post\u2011earnings swing",
-            "description": "[CP24 TORONTO] Traders in the equity options market are unusually subdued about how much Nvidia\u2019s quarterly results might move the stock, even as investors hope the chipmaker\u2019s earnings report will shed light on...",
-            "url": "https://www.cp24.com/news/canada/2026/02/25/options-traders-price-nvidias-smallest-postearnings-swing-in-three-years/"
+            "title": "Ey up AI! Scientists are teaching artificial intelligence how to understand UK accents and dialects - so, how many of these regional terms do YOU know?",
+            "description": "[DAILY MAIL ONLINE] Scientists are teaching AI how to understand slang words such as 'chuck' and 'nowt' so that automated phone lines can understand local callers. How many of these do you know?",
+            "url": "https://www.dailymail.co.uk/sciencetech/article-15591035/artificial-intelligence-understand-UK-accents-dialects.html"
         },
         {
-            "title": "origin techie who says working in AI startup 9",
-            "description": "[TIMES OF INDIA] Trending News: Moving to San Francisco and joining a fast-growing artificial intelligence (AI) startup changed everything for 24-year-old Indian-origin engineer Jai .",
-            "url": "https://timesofindia.indiatimes.com/etimes/trending/meet-jai-raj-choudhary-indian-origin-techie-who-says-working-in-ai-startup-9-to-9-six-days-a-week-changed-his-life/articleshow/128782911.cms"
+            "title": "AI Disruption Fears Prompt Scrutiny in Booming Secondary Market",
+            "description": "[BLOOMBERG] Fears that artificial intelligence may spell bad news for software giants have been pressuring stock market valuations for months. Now, those same fears are creeping into private markets too.",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-25/ai-disruption-fears-prompt-scrutiny-in-booming-secondary-market"
         }
     ]
 }
