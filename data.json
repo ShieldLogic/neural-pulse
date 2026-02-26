@@ -1,20 +1,30 @@
 {
-    "updated": "2026-02-26 08:42:24 UTC",
+    "updated": "2026-02-26 10:41:29 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
+        {
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
-        },
-        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
+        },
+        {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -27,24 +37,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
-        },
-        {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
-        },
-        {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "DeepSeek Restricts Access to Upcoming AI Model from Nvidia and AMD",
-            "description": "[SCANX.TRADE] DeepSeek has reportedly restricted access to its upcoming AI model from semiconductor giants Nvidia and AMD, according to industry sources. This decision represents a notable shift in typical...",
-            "url": "https://scanx.trade/stock-market-news/global/deepseek-restricts-access-to-upcoming-ai-model-from-nvidia-and-amd/33597436"
+            "title": "Australian Tech Earnings May Temper AI Disruption Concerns",
+            "description": "[BLOOMBERG] Australia\u2019s often overlooked technology sector may offer signs of resilience amid the global unease over artificial intelligence disruption, with a run of earnings reports showing steady gains.",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-25/australian-tech-earnings-may-temper-ai-disruption-concerns"
         },
         {
-            "title": "Minister \u2018disappointed\u2019 in OpenAI, but why is AI regulation taking years?",
-            "description": "[GLOBAL NEWS] Artificial Intelligence Minister Evan Solomon said he is giving OpenAI a chance to quickly detail 'concrete' actions before the government addresses the issue through legislation.",
-            "url": "https://globalnews.ca/news/11701254/openai-tumbler-ridge-shooting-ministers-regulation/"
+            "title": "Kneat Releases 2025 Annual Shareholder Letter Highlighting Resilience, Opportunities Presented by Artificial Intelligence",
+            "description": "[THE MANILA TIMES] LIMERICK, Ireland, Feb. 25, 2026 (GLOBE NEWSWIRE) -- kneat.com, inc. (TSX: KSI) (OTCQX: KSIOF) ('Kneat\u201d or the 'Company\u201d) a leader in digitizing and automating validation and quality processes, today...",
+            "url": "https://www.manilatimes.net/2026/02/26/tmt-newswire/globenewswire/kneat-releases-2025-annual-shareholder-letter-highlighting-resilience-opportunities-presented-by-artificial-intelligence/2285445"
         },
         {
-            "title": "Exclusive: DeepSeek withholds latest AI model from US chipmakers including Nvidia, sources say",
-            "description": "[REUTERS] DeepSeek, the Chinese artificial intelligence lab whose low-cost model rattled global markets last year, has not shown U.S. chipmakers its upcoming flagship model for performance optimization, two...",
-            "url": "https://www.reuters.com/world/china/deepseek-withholds-latest-ai-model-us-chipmakers-including-nvidia-sources-say-2026-02-25/"
+            "title": "GLM-5 Launch Signals a New Era in AI: When Models Become Engineers",
+            "description": "[THE MANILA TIMES] SINGAPORE - Media OutReach Newswire - 19 February 2026 - GLM-5, newly released as open source, signals a broader shift in artificial intelligence. Large language models are moving beyond generating...",
+            "url": "https://www.manilatimes.net/2026/02/26/tmt-newswire/media-outreach-newswire/glm-5-launch-signals-a-new-era-in-ai-when-models-become-engineers/2285423"
         },
         {
-            "title": "DeepSeek withholds latest AI model from US chipmakers including Nvidia, sources say",
-            "description": "[MARKETSCREENER] DeepSeek, the Chinese artificial intelligence lab whose low-cost model rattled global markets last year, has not shown U.S. chipmakers its upcoming flagship model for performance optimization, two......",
-            "url": "https://www.marketscreener.com/news/deepseek-withholds-latest-ai-model-from-us-chipmakers-including-nvidia-sources-say-ce7e5cd8db89f621"
+            "title": "company delivers stellar growth amid growing concern over AI economy",
+            "description": "[BNN BLOOMBERG] Artificial intelligence chipmaker Nvidia on Wednesday announced another quarter of astounding quarterly growth as investors try to decipher whether technology\u2019s latest craze is overblown hyperbole or...",
+            "url": "https://www.bnnbloomberg.ca/business/company-news/2026/02/25/nvidia-delivers-another-quarter-of-stellar-growth-amid-growing-concern-over-ai-economy/"
         },
         {
-            "title": "Tech stocks shake off panic over AI 'doomsday scenario' where unemployment hits 10%",
-            "description": "[NEW YORK POST] Tech stocks clawed back losses from a day-earlier rout over a viral research report that warned of a dystopian future in which artificial intelligence causes unemployment to surge above 10%.",
-            "url": "https://nypost.com/2026/02/25/business/tech-stocks-shake-off-panic-over-ai-doomsday-scenario-where-unemployment-hits-10/"
+            "title": "Nvidia posts earnings surprise, momentarily calms fears of AI bubble",
+            "description": "[THE DALLAS MORNING NEWS] The kingpin of artificial intelligence is part of North Texas' booming data center story.",
+            "url": "https://www.dallasnews.com/business/technology/2026/02/25/nvidia-posts-earnings-surprise-momentarily-calms-fears-of-ai-bubble/"
         },
         {
-            "title": "Americans, White House wants you to know it is negotiating with Google, Microsoft, Amazon, Meta and others to keep your electricity bills down",
-            "description": "[TIMES OF INDIA] Tech News News: The White House plans to make data center and artificial intelligence companies including Google, Microsoft, Anthropic, Amazon and Meta Platforms take.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/americans-white-house-wants-you-to-know-it-is-negotiating-with-google-microsoft-amazon-meta-and-others-to-keep-your-electricity-bills-down/articleshow/128794141.cms"
+            "title": "Ohio residents are losing millions a year to sophisticated fraudsters. How?",
+            "description": "[CLEVELAND.COM] In light of National Consumer Protection Week, Cuyahoga County residents reported over $5 million in losses in 2024 as scammers increasingly use artificial intelligence to impersonate government...",
+            "url": "https://www.cleveland.com/news/2026/02/ohio-residents-are-losing-millions-a-year-to-sophisticated-fraudsters-how.html"
         },
         {
-            "title": "Eric Maida: Beyond the Boardroom: The Rise of the Embedded GTM Executive",
-            "description": "[TECHBULLION] Enterprise artificial intelligence (AI) pilots are everywhere, yet scaled deployment remains elusive, with many initiatives stalling before they deliver any measurable impact. The organizations that...",
-            "url": "https://techbullion.com/eric-maida-beyond-the-boardroom-the-rise-of-the-embedded-gtm-executive/"
+            "title": "Nvidia delivers another quarter of stellar growth amid growing concern over AI economy",
+            "description": "[BARCHART] Artificial intelligence chipmaker Nvidia on Wednesday announced another quarter of astounding quarterly growth as investors try to decipher whether technology\u2019s latest craze is overblown hyperbole or...",
+            "url": "https://www.barchart.com/story/news/425965/nvidia-delivers-another-quarter-of-stellar-growth-amid-growing-concern-over-ai-economy"
         },
         {
-            "title": "Samsung unveils Galaxy S26 loaded with AI features - and a privacy shield",
-            "description": "[NEW YORK POST] Samsung on Wednesday unveiled its latest Galaxy smartphones, which boast an even bigger toolbox of artificial intelligence technology than the previous two generations and introduce a new privacy...",
-            "url": "https://nypost.com/2026/02/25/business/samsung-unveils-galaxy-s26-loaded-with-ai-features-and-a-privacy-shield/"
+            "title": "As electric bills rise, Trump says tech companies should pay more",
+            "description": "[THE BOSTON GLOBE] Silicon Valley is spending hundreds of billions of dollars to build power-hungry data centers for artificial intelligence as demand for electricity is increasing across the US.",
+            "url": "https://www.bostonglobe.com/2026/02/25/business/electric-bills-trump-tech-companies/"
         },
         {
-            "title": "c: Beyond the Boardroom: The Rise of the Embedded GTM Executive",
-            "description": "[TECHBULLION] Enterprise artificial intelligence (AI) pilots are everywhere, yet scaled deployment remains elusive, with many initiatives stalling before they deliver any measurable impact. The organizations that...",
-            "url": "https://techbullion.com/c-beyond-the-boardroom-the-rise-of-the-embedded-gtm-executive/"
+            "title": "Feds give record $27B in loans for utility expansion in Georgia and Alabama",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Federal energy officials say they will loan a record $27 billion federal loan to Georgia Power and Alabama Power to expand electricity supply. U.S. Energy Secretary Chris Wright announced the loan...",
+            "url": "https://www.ajc.com/news/2026/02/feds-give-record-27b-in-loans-for-utility-expansion-in-georgia-and-alabama/"
         },
         {
-            "title": "Galaxy Buds4 series unveiled with Smarter Calls and AI Integration: Price and availability",
-            "description": "[INDIA TV NEWS] Samsung has launched the Galaxy Buds4 and Buds4 Pro with 24-bit audio, enhanced ANC, machine learning-powered call clarity, and AI-based hands-free controls. Designed using extensive ear-shape data,...",
-            "url": "https://www.indiatvnews.com/technology/news/galaxy-buds4-series-unveiled-with-smarter-calls-and-ai-integration-price-and-availability-2026-02-26-1031702"
+            "title": "Wall Street Surges Amid AI Optimism, Nasdaq Leads Gains",
+            "description": "[DEVDISCOURSE] Wall Street experienced a surge on Wednesday, driven by tech stocks, reaching two-week highs. The boost was fueled by renewed optimism about artificial intelligence's potential, despite previous...",
+            "url": "https://www.devdiscourse.com/article/headlines/3817936-wall-street-surges-amid-ai-optimism-nasdaq-leads-gains"
         }
     ]
 }
