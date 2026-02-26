@@ -1,10 +1,10 @@
 {
-    "updated": "2026-02-26 18:48:11 UTC",
+    "updated": "2026-02-26 20:33:02 UTC",
     "news": [
         {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
         },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
@@ -17,14 +17,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
-        },
-        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
+        },
+        {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -35,11 +35,6 @@
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "Building a Simple MCP Server in Python",
-            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
-            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
             "title": "Choosing Between PCA and t-SNE for Visualization",
@@ -67,6 +62,11 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "SC bans class 8 NCERT textbook over chapter on Judicial corruption, orders seizure of copies",
-            "description": "[MALAYALA MANORAMA] The Supreme Court of India has banned a Class 8 NCERT textbook chapter alleging judicial corruption, ordering the seizure of physical copies and.Supreme Court India NCERT ban, NCERT textbook...",
-            "url": "https://www.onmanorama.com/news/india/2026/02/26/supreme-court-india-ncert-textbook-ban.html"
+            "title": "Faye D\u2019Souza: Journalist of clarity at Techspectations 2026",
+            "description": "[MALAYALA MANORAMA] Faye D'Souza transitioned from mainstream television news to digital platforms, founding Beatroot News to focus on fact-driven reporting and civic.Faye D\u2019Souza, Indian journalist, digital media,...",
+            "url": "https://www.onmanorama.com/news/business/2026/02/26/faye-dsouza-digital-journalist-techspectations.html"
         },
         {
-            "title": "NR Narayana Murthy and Aditya Puri offer a reality check",
-            "description": "[MONEYCONTROL] In a recent and rare joint interview, the Infosys founder and former HDFC Bank CEO weighed in on the the advancements around artificial intelligence and why there is too much negativism on job losses.",
-            "url": "https://www.moneycontrol.com/news/business/startup/ai-hype-is-overdone-job-fears-overblown-nr-narayana-murthy-and-aditya-puri-offer-a-reality-check-13844234.html"
+            "title": "European shares subdued on mixed earnings; tech in focus after Nvidia beat",
+            "description": "[REUTERS] European shares were muted on Thursday as investors assessed a slate of mixed corporate earnings from the likes of Schneider and Syensqo, while mulling the outlook for artificial intelligence post...",
+            "url": "https://www.reuters.com/markets/europe/european-shares-subdued-mixed-earnings-tech-focus-after-nvidia-beat-2026-02-26/"
         },
         {
-            "title": "Where are Southeast Asia's data centers?",
-            "description": "[THE MANILA TIMES] JAKARTA, Indonesia \u2014 New data centers are springing up worldwide as demand soars for artificial intelligence and cloud computing, with Asia one of the sector's fastest growing regions.",
-            "url": "https://www.manilatimes.net/2026/02/26/business/foreign-business/where-are-southeast-asias-data-centers/2285585"
+            "title": "Nvidia's CEO prepares investors for a renewed battle with Intel, AMD",
+            "description": "[MARKETSCREENER] Nvidia may have made its immense fortune on the back of specialized graphics processing units used to power artificial intelligence servers, but CEO Jensen Huang is increasingly professing his love...",
+            "url": "https://www.marketscreener.com/news/nvidia-s-ceo-prepares-investors-for-a-renewed-battle-with-intel-amd-ce7e5cd8de89fe2d"
         },
         {
-            "title": "Anthropic CEO Dario Amodei warns: 'AI tsunami is coming' as society is dangerously underprepared for 'what's about to happen'",
-            "description": "[TIMES OF INDIA] Tech News News: The world may be on the brink of a major disruption caused by artificial intelligence, according to Dario Amodei, the chief executive officer of Anthr.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-ceo-dario-amodei-warns-ai-tsunami-is-coming-as-society-is-dangerously-underprepared-for-whats-about-to-happen/articleshow/128804190.cms"
+            "title": "From Tensions To Trade: Canada Signals New Chapter With India Ahead Of Mark Carney's Visit",
+            "description": "[NEWS18] Carney\u2019s visit is expected to prioritise trade and technology partnerships, including cooperation in artificial intelligence, quantum research, clean energy and critical minerals.",
+            "url": "https://www.news18.com/india/from-tensions-to-trade-canada-signals-new-chapter-with-india-ahead-of-mark-carneys-visit-ws-l-9930898.html"
         },
         {
-            "title": "Strong Rupee Outlook Amidst Equity Inflows and Robust Forex Reserves",
-            "description": "[DEVDISCOURSE] The Indian rupee is anticipated to stabilize between Rs 90.40-91.20 per US dollar, buoyed by robust equity inflows and structural improvements. Artificial intelligence's potential to enhance services...",
-            "url": "https://www.devdiscourse.com/article/business/3818188-strong-rupee-outlook-amidst-equity-inflows-and-robust-forex-reserves"
+            "title": "Sudipto Mundle: How artificial intelligence has begun to reshape India\u2019s challenge of job generation",
+            "description": "[LIVEMINT] Industrial policy can still create jobs in the short term and buy India time as AI reshapes the larger labour market. But technical education must be tweaked to meet AI-driven demand for new skill...",
+            "url": "https://www.livemint.com/opinion/online-views/sudipto-mundle-how-artificial-intelligence-india-challenge-job-generation-ai-education-11772045716816.html"
         },
         {
-            "title": "Nuclear Escalation By Artificial Intelligence: \u2018Nuclear taboo\u2019 ignored as trigger",
-            "description": "[TIMES OF INDIA] Trending News: When humans debate nuclear war, the conversation is shaped by history, trauma and the weight of Hiroshima and Nagasaki. Machines, it turns out, may no.",
-            "url": "https://timesofindia.indiatimes.com/etimes/trending/nuclear-taboo-ignored-as-trigger-happy-ai-turns-to-atomic-weapons-chilling-study-finds/articleshow/128803521.cms"
+            "title": "The Man Who Wants to Give AI a Soul",
+            "description": "[NEWSX] An Indian immigrant with $34, 70+ patents, and a mother\u2019s sacrifice is rewriting the rules of artificial intelligence Hyderabad (Telangana) [India], February 26: Shekhar Natarajan has risen to\u2026",
+            "url": "https://www.newsx.com/business-news/the-man-who-wants-to-give-ai-a-soul-173320/"
         },
         {
-            "title": "Anthropic\u2019s Desperate Smear Campaign: A Pathetic Attempt to Hide China\u2019s AI Dominance",
-            "description": "[NATURAL NEWS] Introduction: The Whining of a Falling Giant In the high-stakes arena of artificial intelligence, a familiar pattern of Western corporate desperation is unfolding. Anthropic, the $183 billion San...",
-            "url": "https://www.naturalnews.com/2026-02-26-anthropics-desperate-smear-campaign-a-pathetic-attempt.html"
+            "title": "Digital platforms must share revenue with media for using news content: Union Minister Ashwini Vaishnaw",
+            "description": "[MALAYALA MANORAMA] Digital platforms using news content must share revenue with media organizations, with potential legal measures if voluntary compliance fails..news revenue sharing, digital platforms news...",
+            "url": "https://www.onmanorama.com/news/india/2026/02/26/digital-platforms-revenue-sharing-with-media-ashwini-vaishnaw.html"
         },
         {
-            "title": "Computer science majors, professors, grapple with AI advancements",
-            "description": "[PITTSBURGH TRIBUNE-REVIEW] These are not your father\u2019s computer science students. And for good reason. To find a job in the fast-growing, fast-moving field, college graduates are required to possess more than simple coding...",
-            "url": "https://triblive.com/local/regional/computer-science-majors-professors-grapple-with-ai-advancements/"
+            "title": "Moody's Ratings flags AI\u2019s 15% global productivity boost - but warns of inequality, job shocks",
+            "description": "[THE ECONOMIC TIMES] Artificial intelligence promises a significant boost to global productivity over the next decade. However, this advancement also brings risks of increased inequality and job displacement. Advanced...",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/moodys-ratings-flags-ais-15-global-productivity-boost-but-warns-of-inequality-job-shocks/articleshow/128805851.cms"
         },
         {
-            "title": "Trolling Has to Be Ignored, but AI Usage Has to Be Judicious, Says Hemanth Madhukar",
-            "description": "[DECCAN CHRONICLE] At the same time, the composer has also found himself at the centre of criticism following his recent comments on the use of artificial intelligence in music.",
-            "url": "https://www.deccanchronicle.com/entertainment/trolling-has-to-be-ignored-but-ai-usage-has-to-be-judicious-says-hemanth-madhukar-1939999"
+            "title": "Anthropic no longer bound by its own AI safety pauses - here\u2019s what changed",
+            "description": "[FIRSTPOST] Once seen as the most safety-conscious player in artificial intelligence, Anthropic is now stepping away from one of its key commitments, pausing model development when safety lags behind capability....",
+            "url": "https://www.firstpost.com/tech/anthropic-no-longer-bound-by-its-own-ai-safety-pauses-heres-what-changed-13983927.html"
         },
         {
-            "title": "Pentagon asks US defense contractors about reliance on Anthropic's services, source says",
-            "description": "[MARKETSCREENER] Feb 25 - The Pentagon is reaching out to defense contractors to assess their reliance on artificial intelligence lab Anthropic's services, a source familiar with the matter told Reuters...",
-            "url": "https://www.marketscreener.com/news/pentagon-asks-us-defense-contractors-about-reliance-on-anthropic-s-services-source-says-ce7e5cd8da8ef621"
+            "title": "Asian shares mostly rise after Nvidia earnings beat expectations",
+            "description": "[BARCHART] Asian stock markets have mostly advanced following stronger-than-expected earnings from chipmaker Nvidia, which helped ease some investor fears over the boom in artificial intelligence",
+            "url": "https://www.barchart.com/story/news/431313/world-shares-are-mixed-and-us-futures-slip-after-nvidia-earnings-beat-expectations"
         }
     ]
 }
