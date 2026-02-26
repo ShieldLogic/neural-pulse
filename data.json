@@ -1,15 +1,15 @@
 {
-    "updated": "2026-02-26 16:54:30 UTC",
+    "updated": "2026-02-26 18:48:11 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
-        },
-        {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -17,14 +17,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
+        },
+        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
-        },
-        {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -32,19 +32,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Building a Simple MCP Server in Python",
+            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
+            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
+        },
+        {
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
-        },
-        {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "South-east Asia\u2019s data centre boom for AI",
-            "description": "[THE STRAITS TIMES] South-east Asia is experiencing a data centre boom driven by demand for artificial intelligence, bringing economic opportunities but also resource challenges. Read more at straitstimes.com.",
-            "url": "https://www.straitstimes.com/asia/se-asia/where-artificial-intelligence-lives-south-east-asias-data-centre-boom"
+            "title": "SC bans class 8 NCERT textbook over chapter on Judicial corruption, orders seizure of copies",
+            "description": "[MALAYALA MANORAMA] The Supreme Court of India has banned a Class 8 NCERT textbook chapter alleging judicial corruption, ordering the seizure of physical copies and.Supreme Court India NCERT ban, NCERT textbook...",
+            "url": "https://www.onmanorama.com/news/india/2026/02/26/supreme-court-india-ncert-textbook-ban.html"
         },
         {
-            "title": "Rasputin, \u2018Russia\u2019s greatest love machine\u2019, was murdered here",
-            "description": "[MALAYALA MANORAMA] 'As a reader of history, the mysterious, almost evil, figure of Rasputin \u2013 some called him the Mad Monk - had haunted me ever since I first read.Yusupov Palace St. Petersburg, Grigori Rasputin...",
-            "url": "https://www.onmanorama.com/travel/alien-on-a-shoestring/2026/02/25/rasputin-was-murdered-here.html"
+            "title": "NR Narayana Murthy and Aditya Puri offer a reality check",
+            "description": "[MONEYCONTROL] In a recent and rare joint interview, the Infosys founder and former HDFC Bank CEO weighed in on the the advancements around artificial intelligence and why there is too much negativism on job losses.",
+            "url": "https://www.moneycontrol.com/news/business/startup/ai-hype-is-overdone-job-fears-overblown-nr-narayana-murthy-and-aditya-puri-offer-a-reality-check-13844234.html"
         },
         {
-            "title": "Nvidia's CEO prepares investors for a renewed battle with Intel, AMD",
-            "description": "[REUTERS] Nvidia may have made its immense fortune on the back of specialized graphics processing units (GPUs) used to power artificial intelligence servers, but CEO Jensen Huang is increasingly professing his...",
-            "url": "https://www.reuters.com/business/nvidias-ceo-prepares-investors-renewed-battle-with-intel-amd-2026-02-26/"
+            "title": "Where are Southeast Asia's data centers?",
+            "description": "[THE MANILA TIMES] JAKARTA, Indonesia \u2014 New data centers are springing up worldwide as demand soars for artificial intelligence and cloud computing, with Asia one of the sector's fastest growing regions.",
+            "url": "https://www.manilatimes.net/2026/02/26/business/foreign-business/where-are-southeast-asias-data-centers/2285585"
         },
         {
-            "title": "A Landmark Week for France Highlighted by the India AI Impact Summit & Expo 2026",
-            "description": "[THE TRIBUNE] New Delhi [India], February 26: France has concluded an exceptional week of diplomatic, technological and innovative industrial engagement in India. From the inauguration of the India-France Year of...",
-            "url": "https://www.tribuneindia.com/news/business/a-landmark-week-for-france-highlighted-by-the-india-ai-impact-summit-expo-2026/"
+            "title": "Anthropic CEO Dario Amodei warns: 'AI tsunami is coming' as society is dangerously underprepared for 'what's about to happen'",
+            "description": "[TIMES OF INDIA] Tech News News: The world may be on the brink of a major disruption caused by artificial intelligence, according to Dario Amodei, the chief executive officer of Anthr.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-ceo-dario-amodei-warns-ai-tsunami-is-coming-as-society-is-dangerously-underprepared-for-whats-about-to-happen/articleshow/128804190.cms"
         },
         {
-            "title": "Kochi prepares for its first Comic Con, bringing Dan Parent and India\u2019s top artists together",
-            "description": "[MALAYALA MANORAMA] Headlining the event is American comic book artist Dan Parent, a veteran of nearly four decades in the industry and the creative mind behind some of.Kochi Comic Con, Kerala Comic Con, Dan Parent...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/26/kerala-first-time-comic-con-kochi-archie-comics-dan-parent.html"
+            "title": "Strong Rupee Outlook Amidst Equity Inflows and Robust Forex Reserves",
+            "description": "[DEVDISCOURSE] The Indian rupee is anticipated to stabilize between Rs 90.40-91.20 per US dollar, buoyed by robust equity inflows and structural improvements. Artificial intelligence's potential to enhance services...",
+            "url": "https://www.devdiscourse.com/article/business/3818188-strong-rupee-outlook-amidst-equity-inflows-and-robust-forex-reserves"
         },
         {
-            "title": "Samsung rolls out more AI, new privacy shield mode with the new Galaxy S26 lineup",
-            "description": "[THE MANILA TIMES] SAN FRANCISCO \u2014 Samsung on Wednesday unveiled its latest Galaxy smartphones, which boast an even bigger toolbox of artificial intelligence technology than the previous two generations and introduce a...",
-            "url": "https://www.manilatimes.net/2026/02/26/business/foreign-business/samsung-rolls-out-more-ai-new-privacy-shield-mode-with-the-new-galaxy-s26-lineup/2285538"
+            "title": "Nuclear Escalation By Artificial Intelligence: \u2018Nuclear taboo\u2019 ignored as trigger",
+            "description": "[TIMES OF INDIA] Trending News: When humans debate nuclear war, the conversation is shaped by history, trauma and the weight of Hiroshima and Nagasaki. Machines, it turns out, may no.",
+            "url": "https://timesofindia.indiatimes.com/etimes/trending/nuclear-taboo-ignored-as-trigger-happy-ai-turns-to-atomic-weapons-chilling-study-finds/articleshow/128803521.cms"
         },
         {
-            "title": "AI-powered Project Management consultant wins \u2018Brand of the Future\u2019 award",
-            "description": "[TECHBULLION] A businesswoman who is helping project management consultants and entrepreneurs to navigate the brave new world of Artificial Intelligence has won a \u2018Brand of the Future\u2019 award. Lidia Plartus founded...",
-            "url": "https://techbullion.com/ai-powered-project-management-consultant-wins-brand-of-the-future-award/"
+            "title": "Anthropic\u2019s Desperate Smear Campaign: A Pathetic Attempt to Hide China\u2019s AI Dominance",
+            "description": "[NATURAL NEWS] Introduction: The Whining of a Falling Giant In the high-stakes arena of artificial intelligence, a familiar pattern of Western corporate desperation is unfolding. Anthropic, the $183 billion San...",
+            "url": "https://www.naturalnews.com/2026-02-26-anthropics-desperate-smear-campaign-a-pathetic-attempt.html"
         },
         {
-            "title": "Nvidia smashes forecasts with record quarter as AI boom rolls on",
-            "description": "[THE HINDU] Nvidia designs the graphics processing units (GPUs) that have become the backbone of the global artificial intelligence boom.",
-            "url": "https://www.thehindu.com/sci-tech/technology/nvidia-smashes-forecasts-with-record-quarter-as-ai-boom-rolls-on/article70678119.ece"
+            "title": "Computer science majors, professors, grapple with AI advancements",
+            "description": "[PITTSBURGH TRIBUNE-REVIEW] These are not your father\u2019s computer science students. And for good reason. To find a job in the fast-growing, fast-moving field, college graduates are required to possess more than simple coding...",
+            "url": "https://triblive.com/local/regional/computer-science-majors-professors-grapple-with-ai-advancements/"
         },
         {
-            "title": "OpenAI hires ex-Apple models head from Meta, The Information reports",
-            "description": "[RAPPLER] Ruoming Pang oversaw artificial intelligence infrastructure for Meta's Superintelligence Labs, which is developing the company's next generation of AI models",
-            "url": "https://www.rappler.com/technology/openai-hires-meta-artificial-intelligence-researcher-ruoming-pang/"
+            "title": "Trolling Has to Be Ignored, but AI Usage Has to Be Judicious, Says Hemanth Madhukar",
+            "description": "[DECCAN CHRONICLE] At the same time, the composer has also found himself at the centre of criticism following his recent comments on the use of artificial intelligence in music.",
+            "url": "https://www.deccanchronicle.com/entertainment/trolling-has-to-be-ignored-but-ai-usage-has-to-be-judicious-says-hemanth-madhukar-1939999"
         },
         {
-            "title": "AI infra race reshapes nations: NVIDIA CEO",
-            "description": "[LOKMAT TIMES] AI infra race reshapes nations: NVIDIA CEO - Washington, Feb 26 NVIDIA chief executive Jensen Huang said the global artificial intelligence boom has entered a decisive ... Get Latest News on...",
-            "url": "https://www.lokmattimes.com/international/ai-infra-race-reshapes-nations-nvidia-ceo/"
+            "title": "Pentagon asks US defense contractors about reliance on Anthropic's services, source says",
+            "description": "[MARKETSCREENER] Feb 25 - The Pentagon is reaching out to defense contractors to assess their reliance on artificial intelligence lab Anthropic's services, a source familiar with the matter told Reuters...",
+            "url": "https://www.marketscreener.com/news/pentagon-asks-us-defense-contractors-about-reliance-on-anthropic-s-services-source-says-ce7e5cd8da8ef621"
         }
     ]
 }
