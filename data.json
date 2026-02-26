@@ -1,10 +1,10 @@
 {
-    "updated": "2026-02-26 20:33:02 UTC",
+    "updated": "2026-02-26 22:29:47 UTC",
     "news": [
         {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
         },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
@@ -17,14 +17,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
+        },
+        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
-        },
-        {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -35,6 +35,11 @@
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "Building a Simple MCP Server in Python",
+            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
+            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
             "title": "Choosing Between PCA and t-SNE for Visualization",
@@ -62,11 +67,6 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Faye D\u2019Souza: Journalist of clarity at Techspectations 2026",
-            "description": "[MALAYALA MANORAMA] Faye D'Souza transitioned from mainstream television news to digital platforms, founding Beatroot News to focus on fact-driven reporting and civic.Faye D\u2019Souza, Indian journalist, digital media,...",
-            "url": "https://www.onmanorama.com/news/business/2026/02/26/faye-dsouza-digital-journalist-techspectations.html"
+            "title": "Threat to large IT firms 'overblown', Cognizant's AI chief says amid Anthropic-driven disruption",
+            "description": "[REUTERS] Fears that new artificial intelligence tools could replace large IT services firms are \"overblown\" as clients still need help deploying and scaling the technology, Babak Hodjat, chief AI officer at...",
+            "url": "https://www.reuters.com/world/india/threat-large-it-firms-overblown-cognizants-ai-chief-says-amid-anthropic-driven-2026-02-26/"
         },
         {
-            "title": "European shares subdued on mixed earnings; tech in focus after Nvidia beat",
-            "description": "[REUTERS] European shares were muted on Thursday as investors assessed a slate of mixed corporate earnings from the likes of Schneider and Syensqo, while mulling the outlook for artificial intelligence post...",
-            "url": "https://www.reuters.com/markets/europe/european-shares-subdued-mixed-earnings-tech-focus-after-nvidia-beat-2026-02-26/"
+            "title": "Samsung plans to take AI to entry-price smartphones, expand portfolio of Galaxy A series in India",
+            "description": "[THEPRINT] San Francisco, California (US), Feb 26 (PTI) Leading consumer electronics maker Samsung will democratise Artificial Intelligence technology for its smartphones as it aims to bring this feature to...",
+            "url": "https://theprint.in/economy/samsung-plans-to-take-ai-to-entry-price-smartphones-expand-portfolio-of-galaxy-a-series-in-india/2864548/"
         },
         {
-            "title": "Nvidia's CEO prepares investors for a renewed battle with Intel, AMD",
-            "description": "[MARKETSCREENER] Nvidia may have made its immense fortune on the back of specialized graphics processing units used to power artificial intelligence servers, but CEO Jensen Huang is increasingly professing his love...",
-            "url": "https://www.marketscreener.com/news/nvidia-s-ceo-prepares-investors-for-a-renewed-battle-with-intel-amd-ce7e5cd8de89fe2d"
+            "title": "Alibaba Group Begins Offering Low-Cost AI Coding Tool",
+            "description": "[MARKETSCREENER] Alibaba Group has begun offering a low-cost artificial intelligence coding tool that offers users access to several of China's top models, Bloomberg reported Wednesday. According to the report,...",
+            "url": "https://www.marketscreener.com/news/alibaba-group-begins-offering-low-cost-ai-coding-tool-ce7e5cd8d180f627"
         },
         {
-            "title": "From Tensions To Trade: Canada Signals New Chapter With India Ahead Of Mark Carney's Visit",
-            "description": "[NEWS18] Carney\u2019s visit is expected to prioritise trade and technology partnerships, including cooperation in artificial intelligence, quantum research, clean energy and critical minerals.",
-            "url": "https://www.news18.com/india/from-tensions-to-trade-canada-signals-new-chapter-with-india-ahead-of-mark-carneys-visit-ws-l-9930898.html"
+            "title": "CometAPI: Affordable Access to Next-Generation AI Models",
+            "description": "[TECHBULLION] In today\u2019s rapidly evolving digital economy, businesses and developers need reliable access to powerful artificial intelligence tools without incurring unpredictable costs or dealing with unstable...",
+            "url": "https://techbullion.com/cometapi-affordable-access-to-next-generation-ai-models/"
         },
         {
-            "title": "Sudipto Mundle: How artificial intelligence has begun to reshape India\u2019s challenge of job generation",
-            "description": "[LIVEMINT] Industrial policy can still create jobs in the short term and buy India time as AI reshapes the larger labour market. But technical education must be tweaked to meet AI-driven demand for new skill...",
-            "url": "https://www.livemint.com/opinion/online-views/sudipto-mundle-how-artificial-intelligence-india-challenge-job-generation-ai-education-11772045716816.html"
+            "title": "A.I. Complicates Old Internet Privacy Risks",
+            "description": "[THE NEW YORK TIMES] Artificial intelligence is convenient and easy to use, but you should think about what you say to the chatbots.",
+            "url": "https://www.nytimes.com/2026/02/26/technology/personaltech/ai-complicates-old-internet-privacy-risks.html"
         },
         {
-            "title": "The Man Who Wants to Give AI a Soul",
-            "description": "[NEWSX] An Indian immigrant with $34, 70+ patents, and a mother\u2019s sacrifice is rewriting the rules of artificial intelligence Hyderabad (Telangana) [India], February 26: Shekhar Natarajan has risen to\u2026",
-            "url": "https://www.newsx.com/business-news/the-man-who-wants-to-give-ai-a-soul-173320/"
+            "title": "Lagarde Vows \u2018Extremely Attentive\u2019 ECB on AI-Driven Job Cuts",
+            "description": "[BLOOMBERG] The European Central Bank will closely monitor for any signs that the adoption of artificial intelligence throughout the economy is sparking job losses, President Christine Lagarde said.",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-26/lagarde-vows-extremely-attentive-ecb-on-ai-driven-job-cuts"
         },
         {
-            "title": "Digital platforms must share revenue with media for using news content: Union Minister Ashwini Vaishnaw",
-            "description": "[MALAYALA MANORAMA] Digital platforms using news content must share revenue with media organizations, with potential legal measures if voluntary compliance fails..news revenue sharing, digital platforms news...",
-            "url": "https://www.onmanorama.com/news/india/2026/02/26/digital-platforms-revenue-sharing-with-media-ashwini-vaishnaw.html"
+            "title": "Do you eat biryani from black plastic containers? A hidden health risk explained",
+            "description": "[MALAYALA MANORAMA] Media sources claim that many black plastic food containers are manufactured using recycled electronic waste..black plastic food containers, e-waste food containers, takeaway food safety, chemicals...",
+            "url": "https://www.onmanorama.com/food/features/2026/02/26/black-plastic-container-risk.html"
         },
         {
-            "title": "Moody's Ratings flags AI\u2019s 15% global productivity boost - but warns of inequality, job shocks",
-            "description": "[THE ECONOMIC TIMES] Artificial intelligence promises a significant boost to global productivity over the next decade. However, this advancement also brings risks of increased inequality and job displacement. Advanced...",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/moodys-ratings-flags-ais-15-global-productivity-boost-but-warns-of-inequality-job-shocks/articleshow/128805851.cms"
+            "title": "Samsung's AI Revolution: Bringing Intelligence to Every Pocket",
+            "description": "[DEVDISCOURSE] Samsung is set to democratise Artificial Intelligence (AI) technology across its smartphone range, launching AI-powered features in entry-level devices to dominate the sector. The Galaxy A07 5G has...",
+            "url": "https://www.devdiscourse.com/article/technology/3818419-samsungs-ai-revolution-bringing-intelligence-to-every-pocket"
         },
         {
-            "title": "Anthropic no longer bound by its own AI safety pauses - here\u2019s what changed",
-            "description": "[FIRSTPOST] Once seen as the most safety-conscious player in artificial intelligence, Anthropic is now stepping away from one of its key commitments, pausing model development when safety lags behind capability....",
-            "url": "https://www.firstpost.com/tech/anthropic-no-longer-bound-by-its-own-ai-safety-pauses-heres-what-changed-13983927.html"
+            "title": "What to know about Defense Protection Act and the Pentagon's Anthropic ultimatum",
+            "description": "[BREITBART NEWS NETWORK] Defense Secretary Pete Hegseth gave Anthropic an ultimatum this week: Open its artificial intelligence technology for unrestricted military use by Friday,",
+            "url": "https://www.breitbart.com/news/what-to-know-about-defense-protection-act-and-the-pentagons-anthropic-ultimatum/"
         },
         {
-            "title": "Asian shares mostly rise after Nvidia earnings beat expectations",
-            "description": "[BARCHART] Asian stock markets have mostly advanced following stronger-than-expected earnings from chipmaker Nvidia, which helped ease some investor fears over the boom in artificial intelligence",
-            "url": "https://www.barchart.com/story/news/431313/world-shares-are-mixed-and-us-futures-slip-after-nvidia-earnings-beat-expectations"
+            "title": "Two teenage girls die by suicide, police begin probe in Alappuzha",
+            "description": "[MALAYALA MANORAMA] Two teenage girls, Ann Maria David (18) and Irin Sabu (17), were found dead by hanging in their separate homes near Nedumudy, Alappuzha..Alappuzha deaths, teenage suicides Alappuzha, Nedumudy...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/26/alappuzha-teenage-girls-suicide-police-probe.html"
         }
     ]
 }
