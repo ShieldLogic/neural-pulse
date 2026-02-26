@@ -1,85 +1,130 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-02-26 12:01 UTC",
+    "updated": "2026-02-26 12:58:16 UTC",
     "news": [
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "Nvidia CEO denies he\u2019s \u2018unhappy\u2019 with OpenAI",
-            "description": "Nvidia's CEO Jensen Huang denied reports that he was unhappy with OpenAI and said his company still planned to make a \"huge\" investment in the ChatGPT firm. NVIDIA announced in September that it would invest up to $100 billion in OpenAI, but recently, there h\u2026",
-            "url": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-31T23:38:53Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHe says the company still plans to make a huge investment in the ChatGPT maker.\r\nHe says the company still plans to make a huge investment in the ChatGPT maker.\r\u2026 [+2139 chars]"
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
-            "description": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale campaigns\" involved the creation of around 24,000 fraudule\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-23T20:22:55Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDeepSeek allegedly targeted Claudes reasoning capabilities, while generating censorship-safe alternatives to politically sensitive questions.\r\nDeepSeek allegedly\u2026 [+3056 chars]"
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "MCP unites Claude chat with apps like Slack, Figma, and Canva",
-            "description": "Anthropic's Claude got a bit livelier today thanks to a new extension to MCP, the open-source protocol that allows AI agents to easily access tools and data across the internet. Users will now be able to interact with apps directly inside the Claude chatbot, \u2026",
-            "url": "https://www.theverge.com/news/867673/claude-mcp-app-interactive-slack-figma-canva",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-01-26T12:52:17Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAnthropics one step closer to having an everything app.\r\nAnthropics one step closer to having an everything app.\r\nby\r\nRobert HartClose\r\nPosts from this author wi\u2026 [+3538 chars]"
+            "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
+            "description": "[RESEARCH] Algorithms & Theory",
+            "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Meta\u2019s new deal with Nvidia buys up millions of AI chips",
-            "description": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Gr\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-18T00:27:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias starting to sell AI CPUs for use by themselves for the first time.\r\nNvidias starting to sell AI CPUs for use by themselves for the first time.\r\nby\r\nStevi\u2026 [+2390 chars]"
+            "title": "Teaching AI to read a map",
+            "description": "[RESEARCH] Machine Perception",
+            "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "LLM Brainrot Is Here: Grokipedia Is Starting to Show Up in ChatGPT Citations",
-            "description": "GPT-5.2 is \"learning\" from Musk\u2019s AI-generated version of Wikipedia.",
-            "url": "https://gizmodo.com/llm-brainrot-is-here-grokipedia-is-starting-to-show-up-in-chatgpt-citations-2000714001",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/12/shutterstock_2396034011-1200x675.jpg",
-            "publishedAt": "2026-01-26T19:20:01Z",
-            "content": "Elon Musks controversial Grokipedia has begun creeping into ChatGPT and other chatbots responses as a cited source, giving us a glimpse of the dead internet that\u2019s just around the corner.\r\nThe Guardi\u2026 [+4296 chars]"
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "New Research Shows AI Agents Are Running Wild Online, With Few Guardrails in Place",
-            "description": "And this research was conducted before OpenClaw unleashed a monster.",
-            "url": "https://gizmodo.com/new-research-shows-ai-agents-are-running-wild-online-with-few-guardrails-in-place-2000724181",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/01/1dc6923c384afd18fda43a99e153a907.jpg",
-            "publishedAt": "2026-02-20T01:00:50Z",
-            "content": "In the last year, AI agents have become all the rage. OpenAI, Google, and Anthropic all launched public-facing agents designed to take on multi-step tasks handed to them by humans. In the last month,\u2026 [+5537 chars]"
+            "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
+            "description": "[RESEARCH] Human-Computer Interaction and Visualization",
+            "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
+        },
+        {
+            "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
+            "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
+            "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
+        },
+        {
+            "title": "Whole-Body Conditioned Egocentric Video Prediction",
+            "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
+            "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+        },
+        {
+            "title": "How AI tools can redefine universal design to increase accessibility",
+            "description": "[RESEARCH] Education Innovation",
+            "url": "https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/"
+        },
+        {
+            "title": "RL without TD learning",
+            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
+            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
+        },
+        {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
+            "title": "How AI trained on birds is surfacing underwater mysteries",
+            "description": "[RESEARCH] Climate & Sustainability",
+            "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
+        },
+        {
+            "title": "What exactly does word2vec learn?",
+            "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
+            "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
+            "description": "[BAIR] Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the...",
+            "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
+        },
+        {
+            "title": "A bleak research report about AI stokes debate on Wall Street",
+            "description": "[THE BOSTON GLOBE] A research firm said that artificial intelligence will drive mass unemployment went viral in recent days.",
+            "url": "https://www.bostonglobe.com/2026/02/25/nation/report-ai-debate-wall-street/"
+        },
+        {
+            "title": "AI Fears Shake Financial Markets: Is the Panic Justified?",
+            "description": "[DEVDISCOURSE] The financial markets are experiencing turmoil as fears over the disruptive potential of artificial intelligence escalate. With viral apocalyptic AI scenarios influencing investor behavior, markets...",
+            "url": "https://www.devdiscourse.com/article/business/3817998-ai-fears-shake-financial-markets-is-the-panic-justified"
+        },
+        {
+            "title": "Pentagon asks US defense contractors about reliance on Anthropic's services, source says",
+            "description": "[THE STAR] Feb 25 (Reuters) - The \u2060Pentagon is reaching out to defense contractors to \u2060assess their reliance on artificial intelligence lab \u200cAnthropic's services, a source familiar with the matter told Reuters...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/26/pentagon-asks-boeing-lockheed-martin-about-their-exposure-to-anthropic-axios-reports"
+        },
+        {
+            "title": "Snowflake expects annual product revenue above estimates as AI boosts demand",
+            "description": "[THE STAR] Feb 24 (Reuters) - Snowflake \u2060forecast fiscal 2027 product revenue above Wall Street estimates on Wednesday, a \u2060sign that new clients are turning to the company's cloud-based data \u200canalytics platform...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/26/snowflake-expects-annual-product-revenue-above-estimates-as-ai-boosts-demand"
+        },
+        {
+            "title": "AI Can Do Many Things. Market Analysis Isn\u2019t One of Them (Yet)",
+            "description": "[MORNINGSTAR] The software selloff have made headlines around the world, but artificial-intelligence models seem unaware of the event.",
+            "url": "https://www.morningstar.com/markets/ai-can-do-many-things-market-analysis-isnt-one-them-yet"
+        },
+        {
+            "title": "Salesforce forecasts annual revenue below estimates, shares fall",
+            "description": "[THE STAR] Feb 25 (Reuters) - Salesforce \u2060forecast fiscal 2027 revenue below Wall Street \u2060expectations on Wednesday, signaling sluggish spending on enterprise \u200cbusiness software as it invests heavily in its...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/26/salesforce-forecasts-quarterly-revenue-above-estimates"
+        },
+        {
+            "title": "Baidu\u2019s Swift $11 Billion Selloff Shows Struggle to Meet AI Hype",
+            "description": "[BLOOMBERG] A 20% slide in Baidu Inc.\u2019s shares over the past month serves as a crucial reminder for companies in China\u2019s rapidly intensifying artificial intelligence race: investors are demanding tangible...",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-25/baidu-s-swift-11-billion-selloff-shows-struggle-to-meet-ai-hype"
+        },
+        {
+            "title": "Chip titan Nvidia posts record $68B in sales in latest quarter despite AI bubble worries",
+            "description": "[NEW YORK POST] Nvidia on Thursday posted $68 billion in sales in its fiscal fourth quarter, a 20% jump that beat analyst expectations and helped quiet the drumbeat about a looming artificial-intelligence bubble.",
+            "url": "https://nypost.com/2026/02/25/business/chip-titan-nvidia-posts-record-68b-in-sales-in-latest-quarter-despite-ai-bubble-worries/"
+        },
+        {
+            "title": "Being \u2018nice\u2019 usually costs you at work. Could those days be ending?",
+            "description": "[AUSTRALIAN FINANCIAL REVIEW] Research shows being agreeable has traditionally carried a major lifetime pay penalty, but artificial intelligence might start to change that.",
+            "url": "https://www.afr.com/work-and-careers/careers/being-nice-usually-costs-you-at-work-could-those-days-be-ending-20260112-p5ntf3"
+        },
+        {
+            "title": "AI golf training tools are changing how players practice in Myrtle Beach",
+            "description": "[WIS10] Artificial intelligence is making its way onto golf courses in Myrtle Beach, changing how players practice and get feedback on their swings.",
+            "url": "https://www.wistv.com/2026/02/25/ai-golf-training-tools-are-changing-how-players-practice-myrtle-beach/"
         }
     ]
 }
