@@ -1,20 +1,30 @@
 {
-    "updated": "2026-02-27 18:37:11 UTC",
+    "updated": "2026-02-27 20:23:52 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
+        {
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
-        },
-        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
+        },
+        {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -27,24 +37,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
-        },
-        {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
-        },
-        {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "How Hacker Used Anthropic's Claude To Steal 150 GB Of Mexican Data Trove",
-            "description": "[NDTV.COM] A hacker exploited Anthropic PBC's artificial intelligence chatbot to carry out a series of attacks against Mexican government agencies, resulting in the theft of a huge trove of sensitive tax and...",
-            "url": "https://www.ndtv.com/world-news/hacker-used-anthropics-claude-to-steal-mexican-data-trove-11143860"
+            "title": "Rightmove CEO Sees AI Opportunities, Says Peers Will Survive",
+            "description": "[BLOOMBERG] Rightmove Plc and its property portal peers will survive the artificial intelligence wave, with the technology presenting more of an opportunity than a threat for the sector, according to Chief...",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-27/rightmove-ceo-sees-ai-opportunities-says-peers-will-survive"
         },
         {
-            "title": "India poised for major leap in AI, to become global services powerhouse like IT revolution: NSE MD & CEO Ashish Kumar Chauhan",
-            "description": "[THE TRIBUNE] National Stock Exchange (NSE) MD and CEO Ashish Kumar Chauhan on Friday said that India is poised for a major leap in artificial intelligence (AI) and is on track to become the world's leading AI...",
-            "url": "https://www.tribuneindia.com/news/business/india-poised-for-major-leap-in-ai-to-become-global-services-powerhouse-like-it-revolution-nse-md-ceo-ashish-kumar-chauhan/"
+            "title": "AI doomsday scenario? Ex-RBI Guv Raghuram Rajan says India\u2019s services sector will be disrupted, not derailed",
+            "description": "[THE ECONOMIC TIMES] Artificial intelligence poses headwinds for India's software sector, but former RBI Governor Raghuram Rajan says AI will drive an adjustment rather than spell disaster. He calls for rapid reskilling...",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/ai-doomsday-scenario-ex-rbi-guv-raghuram-rajan-says-indias-services-sector-will-be-disrupted-not-derailed/articleshow/128841471.cms"
         },
         {
-            "title": "Block shares surge 25% as ex-Twitter CEO Jack Dorsey lays off 4,000 employees due to AI; here's why",
-            "description": "[THE ECONOMIC TIMES] Block Inc. is reducing its workforce by 4,000 employees. CEO Jack Dorsey believes artificial intelligence tools will enable a smaller team to perform better. This strategic move aims to make Block a...",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/block-shares-surge-25-as-ex-twitter-ceo-jack-dorsey-lays-off-4000-employees-due-to-ai-heres-why/articleshow/128839063.cms"
+            "title": "AI generates 30% code at Cognizant, but hiring continues",
+            "description": "[INDIA TODAY] Artificial intelligence is beginning to alter the structure of employment in ways that go beyond simple job losses. Companies are using AI to automate routine work, but they are also continuing to...",
+            "url": "https://www.indiatoday.in/jobs/story/ai-generates-30-code-at-cognizant-but-hiring-continues-educ-2875340-2026-02-27"
         },
         {
-            "title": "Claude maker and Anthropic CEO Dario Amodei, whose AI shook tech stocks and wiped out billions, warns about white-collar jobs, shares advice for young techies",
-            "description": "[THE ECONOMIC TIMES] Claude maker and Anthropic CEO Dario Amodei advised students and young professionals to focus on human-centered skills, as software engineering and math are rapidly being taken over by AI. His...",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/claude-maker-and-anthropic-ceo-dario-amodei-whose-ai-shook-tech-stocks-and-wiped-out-billions-warns-about-white-collar-jobs-shares-advice-for-young-techies/articleshow/128838897.cms"
+            "title": "AI should enhance human creativity: Siddaramaiah",
+            "description": "[THEPRINT] Bengaluru, Feb 27 (PTI) Karnataka Chief Minister Siddaramaiah on Friday said Artificial Intelligence must remain a tool to enhance human creativity and not replace artists, stressing ethical use,...",
+            "url": "https://theprint.in/india/ai-should-enhance-human-creativity-siddaramaiah/2865413/"
         },
         {
-            "title": "OpenAI hires AI researcher who had Rs 1800 crore package at Meta",
-            "description": "[INDIA TODAY] OpenAI hired Ruoming Pang who had a Rs 1800 crore package, at Meta, strengthening its artificial intelligence research push and intensifying competition for top talent.",
-            "url": "https://www.indiatoday.in/jobs/story/openai-hires-ai-researcher-who-had-rs-1800-crore-package-at-meta-educ-2875266-2026-02-27"
+            "title": "Micron\u2019s Rs 22,516 crore bet on India: What the Sanand facility will produce and why it matters",
+            "description": "[BUSINESS TODAY] The plant, built with an investment of Rs 22,516 crore under the National Semiconductor Mission, is India's first large-scale facility dedicated to assembling and packaging advanced memory chips used...",
+            "url": "https://www.businesstoday.in/technology/story/microns-rs-22516-crore-bet-on-india-what-the-sanand-facility-will-produce-and-why-it-matters-518330-2026-02-27"
         },
         {
-            "title": "Burger King: Artificial intelligence to check staff politeness, use of please, thank you; see how the AI chatbot works",
-            "description": "[LIVEMINT] Burger King is testing an AI chatbot named Patty in 500 restaurants to assist employees with tasks and improve customer interactions. Powered by OpenAI, it connects various operations and updates...",
-            "url": "https://www.livemint.com/companies/news/burger-king-artificial-intelligence-to-check-staff-politeness-use-of-please-thank-you-see-how-the-ai-chatbot-works-11772172752126.html"
+            "title": "Zoho Co-Founder Sridhar Vembu List Jobs To Be SAFE From AI - Will Your Job Survive?",
+            "description": "[TIMES NOW] Sridhar Vembu, co-founder of Zoho, emphasizes that artificial intelligence will likely leave certain human-centric roles, driven by passion and care, largely unaffected., Industry, Times Now",
+            "url": "https://www.timesnownews.com/business-economy/industry/zoho-co-founder-sridhar-vembu-list-jobs-to-be-safe-from-ai-will-your-job-survive-article-153709910"
         },
         {
-            "title": "Jeff Bezos' $30 billion AI lab seeks industrial sector deals, FT reports",
-            "description": "[MARKETSCREENER] Jeff Bezos' artificial intelligence lab is raising tens of billions of dollars to buy companies impacted by the technology in an effort to benefit from the disruption that the Amazon.com founder...",
-            "url": "https://www.marketscreener.com/news/jeff-bezos-30-billion-ai-lab-seeks-industrial-sector-deals-ft-reports-ce7e5cdedb8ef32c"
+            "title": "CoreWeave beats expectations but disappoints with quarterly outlook",
+            "description": "[MARKETSCREENER] CoreWeave posted quarterly revenue that is above expectations, driven by strong demand for its cloud infrastructure dedicated to artificial intelligence. Q4 revenue reached $1.57bn, up 110% y-o-y...",
+            "url": "https://www.marketscreener.com/news/coreweave-beats-expectations-but-disappoints-with-quarterly-outlook-ce7e5cdede81f324"
         },
         {
-            "title": "Jack Dorsey cuts 4,000 roles, says AI requires smaller teams",
-            "description": "[THE NEWS INTERNATIONAL] Former founder of Twitter Jack Dorsey has announced the layoff of 40% of the employment workforce from his company Block, saying that artificial intelligence tools now allow the company to operate...",
-            "url": "https://www.thenews.com.pk/latest/1393947-jack-dorsey-cuts-4000-roles-says-ai-requires-smaller-teams"
+            "title": "Rightmove to buy back \u00a390m shares as AI fears hit valuation",
+            "description": "[THE SUNDAY TIMES] The boss of Britain\u2019s go-to property search website\u2019s says the business will be an artificial intelligence winner as AI investment will dent profits this year",
+            "url": "https://www.thetimes.com/business/companies-markets/article/rightmove-to-buy-back-90m-shares-as-ai-fears-hit-valuation-2d2bbkrsq"
         },
         {
-            "title": "India built the world's back office. AI is starting to shrink it",
-            "description": "[THE ECONOMIC TIMES] India's IT outsourcing sector faces a significant challenge as artificial intelligence automates jobs. Companies like Hunar.AI are using AI to streamline hiring and onboarding. This shift threatens...",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/india-built-the-worlds-back-office-ai-is-starting-to-shrink-it-artificial-intelligence-anthropic-openai-tata-consultancy-services-ai-summit/articleshow/128837838.cms"
+            "title": "Minister Vaishnaw Emphasizes Need to Boost Innovation in India's AI Industry",
+            "description": "[SCANX.TRADE] Minister Vaishnaw has emphasized the need to boost innovation in India's AI industry, reflecting the government's commitment to advancing technological capabilities. The call highlights India's...",
+            "url": "https://scanx.trade/stock-market-news/stocks/minister-vaishnaw-emphasizes-need-to-boost-innovation-in-india-s-ai-industry/33724699"
         },
         {
-            "title": "Narayana Murthy issues AI warning for Indian youth: \u2018Smarter mind will get better quality and better level of productivity\u2026\u2019",
-            "description": "[TIMES OF INDIA] Tech News News: Artificial intelligence has become one of the most discussed topics in India\u2019s job and technology landscape, especially as automation tools are being .",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/narayana-murthy-issues-ai-warning-for-indian-youth-smarter-mind-will-get-better-quality-and-better-level-of-productivity/articleshow/128838677.cms"
+            "title": "Rajan Says AI to Disrupt India\u2019s Services Sector, Not Derail",
+            "description": "[BLOOMBERG] Artificial intelligence will be disruptive for India\u2019s services sector, particularly the software firms, but warnings of a doomsday scenario are exaggerated, former Reserve Bank of India Governor...",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-27/rajan-says-ai-to-disrupt-india-s-services-sector-not-derail"
         }
     ]
 }
