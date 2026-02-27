@@ -1,6 +1,11 @@
 {
-    "updated": "2026-02-27 08:36:36 UTC",
+    "updated": "2026-02-27 10:33:52 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
         {
             "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
             "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
@@ -17,14 +22,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
+        },
+        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
-        },
-        {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -62,11 +67,6 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "What to know about the Pentagon's ultimatum on Anthropic",
-            "description": "[BNN BLOOMBERG] U.S. Defense Secretary Pete Hegseth gave Anthropic an ultimatum: Open its artificial intelligence technology for unrestricted military use by Friday.",
-            "url": "https://www.bnnbloomberg.ca/business/international/2026/02/26/what-to-know-about-us-defense-protection-act-and-the-pentagons-anthropic-ultimatum/"
+            "title": "Lockheed Martin, Xanadu launch quantum AI push for defense edge",
+            "description": "[INTERESTING ENGINEERING] Xanadu and Lockheed Martin launch a Quantum Machine Learning initiative exploring generative models and quantum-native operations.",
+            "url": "https://interestingengineering.com/ai-robotics/lockheed-xanadu-quantum-ai-push"
         },
         {
-            "title": "What to know about the Pentagon's ultimatum on Anthropic",
-            "description": "[CP24 TORONTO] U.S. Defense Secretary Pete Hegseth gave Anthropic an ultimatum: Open its artificial intelligence technology for unrestricted military use by Friday.",
-            "url": "https://www.cp24.com/news/world/2026/02/26/what-to-know-about-us-defense-protection-act-and-the-pentagons-anthropic-ultimatum/"
+            "title": "Lockheed Martin, Xanadu launch quantum AI push for defense edge",
+            "description": "[INTERESTING ENGINEERING] Xanadu and Lockheed Martin launch a Quantum Machine Learning initiative exploring generative models and quantum-native operations.",
+            "url": "https://interestingengineering.com/innovation/lockheed-xanadu-quantum-ai-push"
         },
         {
-            "title": "US military would only use Anthropic's AI technology in legal ways, Pentagon says",
-            "description": "[THE MANILA TIMES] WASHINGTON \u2014 The Pentagon\u2019s top spokesman has reiterated that the military wants to use Anthropic\u2019s artificial intelligence technology in legal ways and will not let the company dictate any limits...",
-            "url": "https://www.manilatimes.net/2026/02/27/business/sunday-business-it/us-military-would-only-use-anthropics-ai-technology-in-legal-ways-pentagon-says/2289560"
+            "title": "Stock Market Today: Dow, S&P Live Updates for February 27",
+            "description": "[BLOOMBERG] Asian stocks were on track for their best February on record as investors piled into the region\u2019s companies supplying the artificial intelligence infrastructure build-out. The yen strengthened on...",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-26/asian-stocks-to-ebb-as-nvidia-decline-dulls-mood-markets-wrap"
         },
         {
-            "title": "AI Concerns Among Factors Driving Nvidia Post-Earnings Selloff, BofA Says",
-            "description": "[MARKETSCREENER] Nvidia's post-earnings stock selloff likely reflects factors including ongoing fears around artificial intelligence as markets monitor an expected tough set-up for cloud capital spending, BofA...",
-            "url": "https://www.marketscreener.com/news/ai-concerns-among-factors-driving-nvidia-post-earnings-selloff-bofa-says-ce7e5cd9de8af524"
+            "title": "AI expert explains disruptions to the job market",
+            "description": "[WJLA] Some workers may have a hard time landing on their feet if they loose their jobs to artificial intelligence (AI).",
+            "url": "https://wjla.com/news/local/ai-expert-job-hunt-career-market-economy-layoffs-job-seekers-artifical-intelligence-chatgpt-grok-gemini-software-engineering-jobs-coding-tool-computer-technology-lynn-wu"
         },
         {
-            "title": "Artists and writers are often hesitant to disclose they\u2019ve collaborated with AI - and those fears may be justified",
-            "description": "[JAPAN TODAY] Generative artificial intelligence has become a routine part of creative work. Novelists are using it to develop plots. Musicians are experimenting with AI-generated sounds. Filmmakers are...",
-            "url": "https://japantoday.com/category/features/opinions/artists-and-writers-are-often-hesitant-to-disclose-they%E2%80%99ve-collaborated-with-ai-%E2%80%93-and-those-fears-may-be-justified"
+            "title": "AI song generator startups Suno and Udio angered the music industry. Now they\u2019re hoping to join it",
+            "description": "[WTOP] CAMBRIDGE, Mass. (AP) \u2014 Suno CEO Mikey Shulman pulls up a chair to the recording studio desk where a research scientist at his artificial intelligence company\u2026",
+            "url": "https://wtop.com/lifestyle/2026/02/ai-song-generator-startups-suno-and-udio-angered-the-music-industry-now-theyre-hoping-to-join-it/"
         },
         {
-            "title": "Google unveils Nano Banana 2, a new version of its AI image generator",
-            "description": "[MARKETSCREENER] Google has introduced Nano Banana 2, an updated version of its artificial intelligence image generator launched last August that went viral. This new iteration aims to improve speed, instruction...",
-            "url": "https://www.marketscreener.com/news/google-unveils-nano-banana-2-a-new-version-of-its-ai-image-generator-ce7e5cd9de89ff2d"
+            "title": "Obesity experts discuss AI, apps to track diet at conference in Ahmedabad",
+            "description": "[TIMES OF INDIA] Ahmedabad: Specialists treating obesity, and patients, are increasingly using technology, including artificial intelligence, to track diet, link it wi.",
+            "url": "https://timesofindia.indiatimes.com/city/ahmedabad/obesity-experts-discuss-ai-apps-to-track-diet-at-conference-in-ahmedabad/articleshow/128823546.cms"
         },
         {
-            "title": "What to know about Defense Protection Act and the Pentagon\u2019s Anthropic ultimatum",
-            "description": "[WTOP] NEW YORK (AP) \u2014 Defense Secretary Pete Hegseth gave Anthropic an ultimatum this week: Open its artificial intelligence technology for unrestricted military use\u2026",
-            "url": "https://wtop.com/business-finance/2026/02/what-to-know-about-defense-protection-act-and-the-pentagons-anthropic-ultimatum/"
+            "title": "'I'm from India and\u2026': Social media reacts to $29.3",
+            "description": "[TIMES OF INDIA] US News: A California\u2011based artificial intelligence (AI) startup valued at about $29.3 billion went viral for its unusual office rule that does not allow emplo.",
+            "url": "https://timesofindia.indiatimes.com/world/us/im-from-india-and-social-media-reacts-to-29-3-billion-california-based-ai-startups-no-shoes-policy-in-office/articleshow/128826925.cms"
         },
         {
-            "title": "Military would only use Anthropic's AI in legal ways, Pentagon says",
-            "description": "[HARTFORD COURANT] The Pentagon\u2019s top spokesman has reiterated that the military wants to use Anthropic\u2019s artificial intelligence technology in legal ways and will not let the company dictate any limits ahead of a...",
-            "url": "https://www.courant.com/2026/02/26/anthropic-ai-military-pentagon/"
+            "title": "Jack Dorsey's Block to cut nearly half its workforce in AI overhaul, shares surge",
+            "description": "[MARKETSCREENER] Block on Thursday said it will cut over 4,000 jobs, nearly half its workforce, as part of an overhaul to embed artificial intelligence across its operations, sending shares of the payments firm up...",
+            "url": "https://www.marketscreener.com/news/block-s-fourth-quarter-profit-rises-announces-over-4-000-job-cuts-ce7e5cded98cfe27"
         },
         {
-            "title": "Military would only use Anthropic's AI in legal ways, Pentagon says",
-            "description": "[SANTA ANA ORANGE COUNTY REGISTER] The Pentagon\u2019s top spokesman has reiterated that the military wants to use Anthropic\u2019s artificial intelligence technology in legal ways and will not let the company dictate any limits ahead of a...",
-            "url": "https://www.ocregister.com/2026/02/26/anthropic-ai-military-pentagon/"
+            "title": "CoreWeave beats quarterly revenue estimates on strong AI-related demand",
+            "description": "[REUTERS] CoreWeave beat Wall Street estimates for quarterly revenue on Thursday, benefiting from the artificial intelligence boom that has driven companies to its platform for the massive computing power...",
+            "url": "https://www.reuters.com/business/coreweave-beats-fourth-quarter-revenue-estimates-2026-02-26/"
         },
         {
-            "title": "Military would only use Anthropic's AI in legal ways, Pentagon says",
-            "description": "[READING EAGLE] The Pentagon\u2019s top spokesman has reiterated that the military wants to use Anthropic\u2019s artificial intelligence technology in legal ways and will not let the company dictate any limits ahead of a...",
-            "url": "https://www.readingeagle.com/2026/02/26/anthropic-ai-military-pentagon/"
+            "title": "Dell forecasts fiscal 2027 revenue above estimates on rising AI server demand",
+            "description": "[REUTERS] Dell forecast fiscal 2027 revenue above Wall Street estimates on Thursday, betting on growing demand for its artificial intelligence-optimized servers, sending its shares up around 6% in extended...",
+            "url": "https://www.reuters.com/business/dell-forecasts-fiscal-2027-revenue-above-estimates-rising-ai-server-demand-2026-02-26/"
         }
     ]
 }
