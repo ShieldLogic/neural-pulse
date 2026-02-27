@@ -1,15 +1,20 @@
 {
-    "updated": "2026-02-27 04:10:07 UTC",
+    "updated": "2026-02-27 06:48:25 UTC",
     "news": [
         {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+            "title": "How to Combine LLM Embeddings + TF-IDF + Metadata in One Scikit-learn Pipeline",
+            "description": "[MACHINELEARNINGMASTERY] Data fusion , or combining diverse pieces of data into a single pipeline, sounds ambitious enough.",
+            "url": "https://machinelearningmastery.com/how-to-combine-llm-embeddings-tf-idf-metadata-in-one-scikit-learn-pipeline/"
         },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
+        },
+        {
+            "title": "Introduction to Small Language Models: The Complete Guide for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI deployment is changing.",
+            "url": "https://machinelearningmastery.com/introduction-to-small-language-models-the-complete-guide-for-2026/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -22,11 +27,6 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
-        },
-        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
@@ -37,9 +37,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "KV Caching in LLMs: A Guide for Developers",
+            "description": "[MACHINELEARNINGMASTERY] Language models generate text one token at a time, reprocessing the entire sequence at each step.",
+            "url": "https://machinelearningmastery.com/kv-caching-in-llms-a-guide-for-developers/"
+        },
+        {
+            "title": "Building a Simple MCP Server in Python",
+            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
+            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -52,19 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+            "title": "Beyond Accuracy: 5 Metrics That Actually Matter for AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents , or autonomous systems powered by agentic AI, have reshaped the current landscape of AI systems and deployments.",
+            "url": "https://machinelearningmastery.com/beyond-accuracy-5-metrics-that-actually-matter-for-ai-agents/"
         },
         {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
-        },
-        {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Nvidia smashes forecasts with record quarter",
-            "description": "[THE MANILA TIMES] SAN FRANCISCO, California \u2014 Nvidia on Wednesday reported blockbuster quarterly results that blew past Wall Street expectations, posting record revenue of $68.1 billion as insatiable demand for its...",
-            "url": "https://www.manilatimes.net/2026/02/27/business/foreign-business/nvidia-smashes-forecasts-with-record-quarter/2285733"
+            "title": "Corporate Treasuries Are Slow to Adopt AI, Survey Finds",
+            "description": "[BLOOMBERG] Treasury departments in global companies are struggling to adopt artificial intelligence tools, according to a Crisil Coalition Greenwich survey, underscoring how slowly the technology is penetrating...",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-26/corporate-treasuries-are-slow-to-adopt-ai-survey-finds"
         },
         {
-            "title": "Amazon's $50 billion OpenAI investment may depend on IPO or AGI",
-            "description": "[THE MANILA TIMES] AMAZON\u2019S plan to invest up to $50 billion in OpenAI could depend on whether the artificial intelligence (AI) developer goes public or achieves an artificial general intelligence (AGI) milestone, The...",
-            "url": "https://www.manilatimes.net/2026/02/27/business/foreign-business/amazons-50-billion-openai-investment-may-depend-on-ipo-or-agi/2285732"
+            "title": "Anthropic CEO says AI company \u2018cannot in good conscience accede\u2019 to Pentagon\u2019s demands",
+            "description": "[PITTSBURGH TRIBUNE-REVIEW] WASHINGTON \u2014 Anthropic CEO Dario Amodei said Thursday the artificial intelligence company \u201ccannot in good conscience accede\u201d to the Pentagon\u2019s demands to allow wider use of its technology. The maker...",
+            "url": "https://triblive.com/news/world/anthropic-ceo-says-ai-company-cannot-in-good-conscience-accede-to-pentagons-demands/"
         },
         {
-            "title": "Nvidia earnings disappoint investors",
-            "description": "[LOS ANGELES TIMES] Nvidia Corp.\u2019s latest sales forecast drew a bearish response from investors, signaling that concerns over a potential bubble continue to weigh on the dominant maker of artificial intelligence...",
-            "url": "https://www.latimes.com/business/story/2026-02-26/nvidia-earnings-disappoint-investors"
+            "title": "DeSantis Breaks With Trump on AI Policy",
+            "description": "[NEWSMAX] Florida Gov. Ron DeSantis is pressing lawmakers to curb the fast growth of artificial intelligence and the sprawling data centers that power it, staking out a consumer-focused posture that contrasts...",
+            "url": "https://www.newsmax.com/newsfront/rondesantis-ai-regulation/2026/02/26/id/1247546/"
         },
         {
-            "title": "Kerala student's award-winning short film 'Da'lit Kids' denied screening in Mumbai",
-            "description": "[MALAYALA MANORAMA] A short film by Kottayam native Appu Soman titled 'Da'lit Kids', which won multiple awards at various festivals, was denied screening at Animela.Dalit film rejected, Animela Animation Film Festival,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/26/da-lit-kids-short-film-directed-kerala-student-denied-screening-animela-animation-film-festival.html"
+            "title": "Nani's 'The Paradise' song 'Aaya Sher' dominates charts",
+            "description": "[MALAYALA MANORAMA] The first song, 'Aaya Sher,' from Nani's upcoming pan-Indian Telugu film 'The Paradise' is achieving global success, topping YouTube's music charts.Aaya Sher song, The Paradise movie Nani, Telugu...",
+            "url": "https://www.onmanorama.com/entertainment/music/2026/02/26/aaya-sher-trending-global-the-paradise-nani-song.html"
         },
         {
-            "title": "Car rams policeman during early-morning check in Kochi; two youths arrested",
-            "description": "[MALAYALA MANORAMA] The incident pertaining to the case took place around 2.30 am on Sastha Road at Kaloor..Kochi policeman assault, Ernakulam North police arrest, car driver hits policeman Kaloor, avoiding police...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/26/kochi-policeman-hit-and-run-arrest.html"
+            "title": "Anthropic CEO says AI company 'cannot in good conscience accede' to Pentagon's demands",
+            "description": "[BREITBART NEWS NETWORK] Anthropic CEO Dario Amodei says the artificial intelligence company \u201ccannot in good conscience accede\u201d to the Pentagon\u2019s demands to",
+            "url": "https://www.breitbart.com/news/anthropic-ceo-says-ai-company-cannot-in-good-conscience-accede-to-pentagons-demands/"
         },
         {
-            "title": "Apple seeks dismissal of fraud lawsuit over Siri AI, Epic injunction",
-            "description": "[REUTERS] Apple urged a federal judge to dismiss a proposed class action claiming it defrauded shareholders twice, by overstating the artificial intelligence capabilities of its Siri voice assistant and...",
-            "url": "https://www.reuters.com/sustainability/boards-policy-regulation/apple-seeks-dismissal-fraud-lawsuit-over-siri-ai-epic-injunction-2026-02-26/"
+            "title": "Police on Thursday seized \u20b961,10,000 & Malaysian Ringgit from Erumely KSRTC stand; one held",
+            "description": "[MALAYALA MANORAMA] The police also seized two mobile phones and documents, including an Aadhaar card..Erumely police seizure, currency seizure Kerala, undocumented money Kerala, Abdul Shukoor seizure, Malaysian Ringgit...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/26/erumely-police-seize-currency.html"
         },
         {
-            "title": "Singapore's Grab bets on AI, new services to triple profit by 2028",
-            "description": "[THE MANILA TIMES] SINGAPORE \ua7f7 Southeast Asia\u2019s top ride-hailing and delivery firm, Grab, is betting on artificial intelligence (AI) and expansion of new services such as online groceries and financial products to...",
-            "url": "https://www.manilatimes.net/2026/02/27/business/foreign-business/singapores-grab-bets-on-ai-new-services-to-triple-profit-by-2028/2285728"
+            "title": "Google Gemini, ChatGPT and Claude were tested against each other in a simulated nuclear war game, here's what happened next",
+            "description": "[TIMES OF INDIA] Tech News News: Artificial intelligence chatbots from leading technology companies reportedly showed a willingness to escalate military conflicts to nuclear use when .",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-gemini-chatgpt-and-claude-were-tested-against-each-other-in-a-simulated-nuclear-war-game-heres-what-happened-next/articleshow/128821995.cms"
         },
         {
-            "title": "Time to deflate the artificial intelligence doom bubble",
-            "description": "[THE STAR] In financial markets, nothing sells like doom. But recent fears about the disruptive potential of artificial intelligence (AI) have battered stock prices and investor sentiment so much that a reality...",
-            "url": "https://www.thestar.com.my/business/insight/2026/02/27/time-to-deflate-the-artificial-intelligence-doom-bubble"
+            "title": "What the polls say about how Americans are using AI",
+            "description": "[NBC NEWS] Americans are increasingly encountering and using artificial intelligence technologies like Anthropic\u2019s Claude, OpenAI\u2019s ChatGPT and Google\u2019s Gemini.",
+            "url": "https://www.nbcnews.com/politics/politics-news/polls-say-americans-are-using-ai-more-work-personal-rcna260422"
         },
         {
-            "title": "AI Can Replace Mutual Fund Managers, Harvard Study Shows",
-            "description": "[ENTREPRENEUR] Researchers found artificial intelligence can predict 71% of mutual fund trades with stunning accuracy.",
-            "url": "https://www.entrepreneur.com/news-and-trends/ai-can-replace-mutual-fund-managers-harvard-study-shows/503013"
+            "title": "Threat to large IT firms 'overblown', Cognizant's AI chief says amid Anthropic-driven disruption",
+            "description": "[MARKETSCREENER] Fears that new artificial intelligence tools could replace large IT services firms are overblown as clients still need help deploying and scaling the technology, Babak Hodjat, chief AI officer at...",
+            "url": "https://www.marketscreener.com/news/threat-to-large-it-firms-overblown-cognizant-s-ai-chief-says-amid-anthropic-driven-disruption-ce7e5cd9dc8ef023"
         },
         {
-            "title": "Former temple priest found guilty of sexually abusing minor who sought pooja for exam anxiety in TVM",
-            "description": "[MALAYALA MANORAMA] The temple authorities, however, took a stance in support of the accused..POCSO court verdict, Thiruvananthapuram sexual assault case, former priest conviction, exam anxiety abuse, child protection...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/26/thiruvananthapuram-pocso-verdict.html"
+            "title": "Burger King to bring AI-based voice coach to Canada",
+            "description": "[CP24 TORONTO] Artificial intelligence will start coaching some of Burger King\u2019s Canadian staff later this year.",
+            "url": "https://www.cp24.com/news/canada/2026/02/26/burger-king-to-bring-ai-based-voice-coach-to-canada-later-this-year/"
         }
     ]
 }
