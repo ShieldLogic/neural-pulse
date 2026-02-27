@@ -1,10 +1,10 @@
 {
-    "updated": "2026-02-26 22:29:47 UTC",
+    "updated": "2026-02-27 01:47:19 UTC",
     "news": [
         {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
         },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
@@ -17,14 +17,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
-        },
-        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
+        },
+        {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -35,11 +35,6 @@
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "Building a Simple MCP Server in Python",
-            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
-            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
             "title": "Choosing Between PCA and t-SNE for Visualization",
@@ -67,6 +62,11 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Threat to large IT firms 'overblown', Cognizant's AI chief says amid Anthropic-driven disruption",
-            "description": "[REUTERS] Fears that new artificial intelligence tools could replace large IT services firms are \"overblown\" as clients still need help deploying and scaling the technology, Babak Hodjat, chief AI officer at...",
-            "url": "https://www.reuters.com/world/india/threat-large-it-firms-overblown-cognizants-ai-chief-says-amid-anthropic-driven-2026-02-26/"
+            "title": "How artificial intelligence is reshaping ride-hailing regulation",
+            "description": "[DEVDISCOURSE] Read more about How artificial intelligence is reshaping ride-hailing regulation on Devdiscourse",
+            "url": "https://www.devdiscourse.com/article/technology/3814765-how-artificial-intelligence-is-reshaping-ride-hailing-regulation"
         },
         {
-            "title": "Samsung plans to take AI to entry-price smartphones, expand portfolio of Galaxy A series in India",
-            "description": "[THEPRINT] San Francisco, California (US), Feb 26 (PTI) Leading consumer electronics maker Samsung will democratise Artificial Intelligence technology for its smartphones as it aims to bring this feature to...",
-            "url": "https://theprint.in/economy/samsung-plans-to-take-ai-to-entry-price-smartphones-expand-portfolio-of-galaxy-a-series-in-india/2864548/"
+            "title": "Inside the Mind of a Former Billion-Dollar Hedge Fund Manager: Why AI Is Changing the Rules of Work and Society",
+            "description": "[THE MANILA TIMES] Enrique Abeyta releases a new presentation examining how artificial intelligence is accelerating transformation across industries and institutions",
+            "url": "https://www.manilatimes.net/2026/02/26/tmt-newswire/globenewswire/inside-the-mind-of-a-former-billion-dollar-hedge-fund-manager-why-ai-is-changing-the-rules-of-work-and-society/2285964"
         },
         {
-            "title": "Alibaba Group Begins Offering Low-Cost AI Coding Tool",
-            "description": "[MARKETSCREENER] Alibaba Group has begun offering a low-cost artificial intelligence coding tool that offers users access to several of China's top models, Bloomberg reported Wednesday. According to the report,...",
-            "url": "https://www.marketscreener.com/news/alibaba-group-begins-offering-low-cost-ai-coding-tool-ce7e5cd8d180f627"
+            "title": "Sanju, Axar return as India told to bat by unpredictable Zimbabwe in must-win Super Eights clash",
+            "description": "[MALAYALA MANORAMA] India must defeat Zimbabwe to stay alive in the T20 World Cup..India vs Zimbabwe T20 World Cup, Sanju Samson India XI, Axar Patel T20 World Cup, T20 World Cup Super Eights, India must win vs...",
+            "url": "https://www.onmanorama.com/sports/cricket/2026/02/26/t20-world-cup-super-eights-india-vs-zimbabwe-live.html"
         },
         {
-            "title": "CometAPI: Affordable Access to Next-Generation AI Models",
-            "description": "[TECHBULLION] In today\u2019s rapidly evolving digital economy, businesses and developers need reliable access to powerful artificial intelligence tools without incurring unpredictable costs or dealing with unstable...",
-            "url": "https://techbullion.com/cometapi-affordable-access-to-next-generation-ai-models/"
+            "title": "Why Nvidia\u2019s Big Profits Aren\u2019t Lifting Markets",
+            "description": "[THE NEW YORK TIMES] The chip giant at the center of the artificial intelligence boom again beat expectations. But they didn\u2019t overcome investor jitters.",
+            "url": "https://www.nytimes.com/2026/02/26/business/dealbook/nvidia-ai-markets.html"
         },
         {
-            "title": "A.I. Complicates Old Internet Privacy Risks",
-            "description": "[THE NEW YORK TIMES] Artificial intelligence is convenient and easy to use, but you should think about what you say to the chatbots.",
-            "url": "https://www.nytimes.com/2026/02/26/technology/personaltech/ai-complicates-old-internet-privacy-risks.html"
+            "title": "Why Nvidia beat estimates, again",
+            "description": "[WASHINGTON EXAMINER] Nvidia's latest earnings beat suggests it has more growth room on the horizon. The artificial intelligence revolution is full steam ahead.",
+            "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4472704/why-nvidia-beat-estimates-again/"
         },
         {
-            "title": "Lagarde Vows \u2018Extremely Attentive\u2019 ECB on AI-Driven Job Cuts",
-            "description": "[BLOOMBERG] The European Central Bank will closely monitor for any signs that the adoption of artificial intelligence throughout the economy is sparking job losses, President Christine Lagarde said.",
-            "url": "https://www.bloomberg.com/news/articles/2026-02-26/lagarde-vows-extremely-attentive-ecb-on-ai-driven-job-cuts"
+            "title": "OpenAI signs South Bay office deal in huge expansion for tech company",
+            "description": "[THE MERCURY NEWS] OpenAI has officially leased multiple Mountain View office buildings from which the artificial intelligence dynamo can launch a huge expansion that would bring several hundred tech workers into...",
+            "url": "https://www.mercurynews.com/2026/02/26/openai-tech-property-economy-jobs-web-mountain-view-real-estate-build/"
         },
         {
-            "title": "Do you eat biryani from black plastic containers? A hidden health risk explained",
-            "description": "[MALAYALA MANORAMA] Media sources claim that many black plastic food containers are manufactured using recycled electronic waste..black plastic food containers, e-waste food containers, takeaway food safety, chemicals...",
-            "url": "https://www.onmanorama.com/food/features/2026/02/26/black-plastic-container-risk.html"
+            "title": "Mozilla adds AI features to Firefox browser with a killswitch",
+            "description": "[WINDOWS CENTRAL] Firefox version 148 adds an AI \"killswitch\" to remove artificial intelligence implementations from affecting your browsing experience.",
+            "url": "https://www.windowscentral.com/software-apps/mozilla-firefox-browser-adds-ai-killswitch"
         },
         {
-            "title": "Samsung's AI Revolution: Bringing Intelligence to Every Pocket",
-            "description": "[DEVDISCOURSE] Samsung is set to democratise Artificial Intelligence (AI) technology across its smartphone range, launching AI-powered features in entry-level devices to dominate the sector. The Galaxy A07 5G has...",
-            "url": "https://www.devdiscourse.com/article/technology/3818419-samsungs-ai-revolution-bringing-intelligence-to-every-pocket"
+            "title": "\u2018Invincible\u2019 South Africa crush Windies to plant a foot in T20 World Cup semifinals",
+            "description": "[MALAYALA MANORAMA] Aiden Markram scored an unbeaten 82 as South Africa crushed West Indies by nine wickets to make it two wins in two in the Super Eights of the T20.South Africa T20 World Cup, T20 World Cup semifinals,...",
+            "url": "https://www.onmanorama.com/sports/cricket/2026/02/26/t20-world-cup-super-eights-west-indies-south-africa.html"
         },
         {
-            "title": "What to know about Defense Protection Act and the Pentagon's Anthropic ultimatum",
-            "description": "[BREITBART NEWS NETWORK] Defense Secretary Pete Hegseth gave Anthropic an ultimatum this week: Open its artificial intelligence technology for unrestricted military use by Friday,",
-            "url": "https://www.breitbart.com/news/what-to-know-about-defense-protection-act-and-the-pentagons-anthropic-ultimatum/"
+            "title": "Wolters Kluwer valued as if in middle of the subprime crisis",
+            "description": "[MARKETSCREENER] The Dutch professional and academic publishing group is stepping up efforts to convince investors that artificial intelligence is an opportunity rather than a threat to its business, and that it...",
+            "url": "https://www.marketscreener.com/news/wolters-kluwer-valued-as-if-in-middle-of-the-subprime-crisis-ce7e5cd9d88df122"
         },
         {
-            "title": "Two teenage girls die by suicide, police begin probe in Alappuzha",
-            "description": "[MALAYALA MANORAMA] Two teenage girls, Ann Maria David (18) and Irin Sabu (17), were found dead by hanging in their separate homes near Nedumudy, Alappuzha..Alappuzha deaths, teenage suicides Alappuzha, Nedumudy...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/26/alappuzha-teenage-girls-suicide-police-probe.html"
+            "title": "Wall Street futures unchanged before the bell after Nvidia earnings beat expectations",
+            "description": "[BARCHART] U.S. futures were in a holding pattern after stronger-than-expected earnings from chipmaker Nvidia helped ease some investor worries over the artificial intelligence boom",
+            "url": "https://www.barchart.com/story/news/431313/stocks-hold-steady-on-wall-street-and-nvidia-slips-despite-beating-forecasts"
         }
     ]
 }
