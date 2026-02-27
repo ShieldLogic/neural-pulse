@@ -1,20 +1,15 @@
 {
-    "updated": "2026-02-27 06:48:25 UTC",
+    "updated": "2026-02-27 08:36:36 UTC",
     "news": [
         {
-            "title": "How to Combine LLM Embeddings + TF-IDF + Metadata in One Scikit-learn Pipeline",
-            "description": "[MACHINELEARNINGMASTERY] Data fusion , or combining diverse pieces of data into a single pipeline, sounds ambitious enough.",
-            "url": "https://machinelearningmastery.com/how-to-combine-llm-embeddings-tf-idf-metadata-in-one-scikit-learn-pipeline/"
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
         },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
-        },
-        {
-            "title": "Introduction to Small Language Models: The Complete Guide for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI deployment is changing.",
-            "url": "https://machinelearningmastery.com/introduction-to-small-language-models-the-complete-guide-for-2026/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -27,6 +22,11 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
+        },
+        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
@@ -37,14 +37,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "KV Caching in LLMs: A Guide for Developers",
-            "description": "[MACHINELEARNINGMASTERY] Language models generate text one token at a time, reprocessing the entire sequence at each step.",
-            "url": "https://machinelearningmastery.com/kv-caching-in-llms-a-guide-for-developers/"
-        },
-        {
-            "title": "Building a Simple MCP Server in Python",
-            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
-            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Beyond Accuracy: 5 Metrics That Actually Matter for AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents , or autonomous systems powered by agentic AI, have reshaped the current landscape of AI systems and deployments.",
-            "url": "https://machinelearningmastery.com/beyond-accuracy-5-metrics-that-actually-matter-for-ai-agents/"
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
         },
         {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
+        },
+        {
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Corporate Treasuries Are Slow to Adopt AI, Survey Finds",
-            "description": "[BLOOMBERG] Treasury departments in global companies are struggling to adopt artificial intelligence tools, according to a Crisil Coalition Greenwich survey, underscoring how slowly the technology is penetrating...",
-            "url": "https://www.bloomberg.com/news/articles/2026-02-26/corporate-treasuries-are-slow-to-adopt-ai-survey-finds"
+            "title": "What to know about the Pentagon's ultimatum on Anthropic",
+            "description": "[BNN BLOOMBERG] U.S. Defense Secretary Pete Hegseth gave Anthropic an ultimatum: Open its artificial intelligence technology for unrestricted military use by Friday.",
+            "url": "https://www.bnnbloomberg.ca/business/international/2026/02/26/what-to-know-about-us-defense-protection-act-and-the-pentagons-anthropic-ultimatum/"
         },
         {
-            "title": "Anthropic CEO says AI company \u2018cannot in good conscience accede\u2019 to Pentagon\u2019s demands",
-            "description": "[PITTSBURGH TRIBUNE-REVIEW] WASHINGTON \u2014 Anthropic CEO Dario Amodei said Thursday the artificial intelligence company \u201ccannot in good conscience accede\u201d to the Pentagon\u2019s demands to allow wider use of its technology. The maker...",
-            "url": "https://triblive.com/news/world/anthropic-ceo-says-ai-company-cannot-in-good-conscience-accede-to-pentagons-demands/"
+            "title": "What to know about the Pentagon's ultimatum on Anthropic",
+            "description": "[CP24 TORONTO] U.S. Defense Secretary Pete Hegseth gave Anthropic an ultimatum: Open its artificial intelligence technology for unrestricted military use by Friday.",
+            "url": "https://www.cp24.com/news/world/2026/02/26/what-to-know-about-us-defense-protection-act-and-the-pentagons-anthropic-ultimatum/"
         },
         {
-            "title": "DeSantis Breaks With Trump on AI Policy",
-            "description": "[NEWSMAX] Florida Gov. Ron DeSantis is pressing lawmakers to curb the fast growth of artificial intelligence and the sprawling data centers that power it, staking out a consumer-focused posture that contrasts...",
-            "url": "https://www.newsmax.com/newsfront/rondesantis-ai-regulation/2026/02/26/id/1247546/"
+            "title": "US military would only use Anthropic's AI technology in legal ways, Pentagon says",
+            "description": "[THE MANILA TIMES] WASHINGTON \u2014 The Pentagon\u2019s top spokesman has reiterated that the military wants to use Anthropic\u2019s artificial intelligence technology in legal ways and will not let the company dictate any limits...",
+            "url": "https://www.manilatimes.net/2026/02/27/business/sunday-business-it/us-military-would-only-use-anthropics-ai-technology-in-legal-ways-pentagon-says/2289560"
         },
         {
-            "title": "Nani's 'The Paradise' song 'Aaya Sher' dominates charts",
-            "description": "[MALAYALA MANORAMA] The first song, 'Aaya Sher,' from Nani's upcoming pan-Indian Telugu film 'The Paradise' is achieving global success, topping YouTube's music charts.Aaya Sher song, The Paradise movie Nani, Telugu...",
-            "url": "https://www.onmanorama.com/entertainment/music/2026/02/26/aaya-sher-trending-global-the-paradise-nani-song.html"
+            "title": "AI Concerns Among Factors Driving Nvidia Post-Earnings Selloff, BofA Says",
+            "description": "[MARKETSCREENER] Nvidia's post-earnings stock selloff likely reflects factors including ongoing fears around artificial intelligence as markets monitor an expected tough set-up for cloud capital spending, BofA...",
+            "url": "https://www.marketscreener.com/news/ai-concerns-among-factors-driving-nvidia-post-earnings-selloff-bofa-says-ce7e5cd9de8af524"
         },
         {
-            "title": "Anthropic CEO says AI company 'cannot in good conscience accede' to Pentagon's demands",
-            "description": "[BREITBART NEWS NETWORK] Anthropic CEO Dario Amodei says the artificial intelligence company \u201ccannot in good conscience accede\u201d to the Pentagon\u2019s demands to",
-            "url": "https://www.breitbart.com/news/anthropic-ceo-says-ai-company-cannot-in-good-conscience-accede-to-pentagons-demands/"
+            "title": "Artists and writers are often hesitant to disclose they\u2019ve collaborated with AI - and those fears may be justified",
+            "description": "[JAPAN TODAY] Generative artificial intelligence has become a routine part of creative work. Novelists are using it to develop plots. Musicians are experimenting with AI-generated sounds. Filmmakers are...",
+            "url": "https://japantoday.com/category/features/opinions/artists-and-writers-are-often-hesitant-to-disclose-they%E2%80%99ve-collaborated-with-ai-%E2%80%93-and-those-fears-may-be-justified"
         },
         {
-            "title": "Police on Thursday seized \u20b961,10,000 & Malaysian Ringgit from Erumely KSRTC stand; one held",
-            "description": "[MALAYALA MANORAMA] The police also seized two mobile phones and documents, including an Aadhaar card..Erumely police seizure, currency seizure Kerala, undocumented money Kerala, Abdul Shukoor seizure, Malaysian Ringgit...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/26/erumely-police-seize-currency.html"
+            "title": "Google unveils Nano Banana 2, a new version of its AI image generator",
+            "description": "[MARKETSCREENER] Google has introduced Nano Banana 2, an updated version of its artificial intelligence image generator launched last August that went viral. This new iteration aims to improve speed, instruction...",
+            "url": "https://www.marketscreener.com/news/google-unveils-nano-banana-2-a-new-version-of-its-ai-image-generator-ce7e5cd9de89ff2d"
         },
         {
-            "title": "Google Gemini, ChatGPT and Claude were tested against each other in a simulated nuclear war game, here's what happened next",
-            "description": "[TIMES OF INDIA] Tech News News: Artificial intelligence chatbots from leading technology companies reportedly showed a willingness to escalate military conflicts to nuclear use when .",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-gemini-chatgpt-and-claude-were-tested-against-each-other-in-a-simulated-nuclear-war-game-heres-what-happened-next/articleshow/128821995.cms"
+            "title": "What to know about Defense Protection Act and the Pentagon\u2019s Anthropic ultimatum",
+            "description": "[WTOP] NEW YORK (AP) \u2014 Defense Secretary Pete Hegseth gave Anthropic an ultimatum this week: Open its artificial intelligence technology for unrestricted military use\u2026",
+            "url": "https://wtop.com/business-finance/2026/02/what-to-know-about-defense-protection-act-and-the-pentagons-anthropic-ultimatum/"
         },
         {
-            "title": "What the polls say about how Americans are using AI",
-            "description": "[NBC NEWS] Americans are increasingly encountering and using artificial intelligence technologies like Anthropic\u2019s Claude, OpenAI\u2019s ChatGPT and Google\u2019s Gemini.",
-            "url": "https://www.nbcnews.com/politics/politics-news/polls-say-americans-are-using-ai-more-work-personal-rcna260422"
+            "title": "Military would only use Anthropic's AI in legal ways, Pentagon says",
+            "description": "[HARTFORD COURANT] The Pentagon\u2019s top spokesman has reiterated that the military wants to use Anthropic\u2019s artificial intelligence technology in legal ways and will not let the company dictate any limits ahead of a...",
+            "url": "https://www.courant.com/2026/02/26/anthropic-ai-military-pentagon/"
         },
         {
-            "title": "Threat to large IT firms 'overblown', Cognizant's AI chief says amid Anthropic-driven disruption",
-            "description": "[MARKETSCREENER] Fears that new artificial intelligence tools could replace large IT services firms are overblown as clients still need help deploying and scaling the technology, Babak Hodjat, chief AI officer at...",
-            "url": "https://www.marketscreener.com/news/threat-to-large-it-firms-overblown-cognizant-s-ai-chief-says-amid-anthropic-driven-disruption-ce7e5cd9dc8ef023"
+            "title": "Military would only use Anthropic's AI in legal ways, Pentagon says",
+            "description": "[SANTA ANA ORANGE COUNTY REGISTER] The Pentagon\u2019s top spokesman has reiterated that the military wants to use Anthropic\u2019s artificial intelligence technology in legal ways and will not let the company dictate any limits ahead of a...",
+            "url": "https://www.ocregister.com/2026/02/26/anthropic-ai-military-pentagon/"
         },
         {
-            "title": "Burger King to bring AI-based voice coach to Canada",
-            "description": "[CP24 TORONTO] Artificial intelligence will start coaching some of Burger King\u2019s Canadian staff later this year.",
-            "url": "https://www.cp24.com/news/canada/2026/02/26/burger-king-to-bring-ai-based-voice-coach-to-canada-later-this-year/"
+            "title": "Military would only use Anthropic's AI in legal ways, Pentagon says",
+            "description": "[READING EAGLE] The Pentagon\u2019s top spokesman has reiterated that the military wants to use Anthropic\u2019s artificial intelligence technology in legal ways and will not let the company dictate any limits ahead of a...",
+            "url": "https://www.readingeagle.com/2026/02/26/anthropic-ai-military-pentagon/"
         }
     ]
 }
