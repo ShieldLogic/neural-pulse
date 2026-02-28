@@ -1,15 +1,15 @@
 {
-    "updated": "2026-02-28 12:38:10 UTC",
+    "updated": "2026-02-28 14:19:09 UTC",
     "news": [
+        {
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
-        },
-        {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
+        },
+        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
-        },
-        {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,14 +37,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
-        },
-        {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "month phaseout of Anthropic AI technology across government",
-            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] The Trump administration has ordered all US agencies to stop using Anthropic's artificial intelligence technology and imposed other major penalties, culminating an unusually public clash between the...",
-            "url": "https://www.abc.net.au/news/2026-02-28/president-s-post-orders-six-month-phaseout-of-anthropic-technolo/106400088"
+            "title": "Pope Leo Says AI Cannot Share Faith in the Pulpit",
+            "description": "[NEWSMAX] Pope Leo XIV recently told priests in Rome not to rely on artificial intelligence to prepare homilies, warning that technology will never be able to share faith and urging clergy to strengthen...",
+            "url": "https://www.newsmax.com/newsfront/pope-leo-artificial-intelligence-rome/2026/02/27/id/1247722/"
         },
         {
-            "title": "out of Anthropic AI technology across government",
-            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] The Trump administration has ordered all US agencies to stop using Anthropic's artificial intelligence technology and imposed other major penalties, culminating an unusually public clash between the...",
-            "url": "https://www.abc.net.au/news/2026-02-28/us-president-orders-six-month-phaseout-of-anthropic-technology/106400088"
+            "title": "Anthropic: Will Fight Pentagon's Supply Risk Label",
+            "description": "[NEWSMAX] Over the supply chain risk label on its artificial intelligence technology, Anthropic says it will challenge the Pentagon in court.",
+            "url": "https://www.newsmax.com/finance/streettalk/anthropic-pentagon-ai/2026/02/27/id/1247721/"
         },
         {
-            "title": "Trump orders US agencies to stop using Anthropic technology in clash over AI safety",
-            "description": "[THE ECONOMIC TIMES] The Trump administration has ordered all U.S. government agencies to stop using artificial intelligence technology from Anthropic and imposed penalties on the company after a dispute over military...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/trump-orders-us-agencies-to-stop-using-anthropic-technology-in-clash-over-ai-safety/articleshow/128871712.cms"
+            "title": "Trump halts federal use of Anthropic's technology in dispute over AI safety",
+            "description": "[BUSINESS STANDARD] President Donald Trump said Friday that he was ordering all federal agencies to stop using Anthropic's technology following the company's unusually public dispute with the Pentagon over artificial...",
+            "url": "https://www.business-standard.com/world-news/trump-halts-federal-use-of-anthropic-s-technology-in-dispute-over-ai-safety-126022800081_1.html"
         },
         {
-            "title": "Trump orders US agencies to stop using Anthropic technology in clash over AI safety",
-            "description": "[THE ECONOMIC TIMES] The Trump administration has ordered all U.S. government agencies to stop using artificial intelligence technology from Anthropic and imposed penalties on the company after a dispute over military...",
-            "url": "https://economictimes.indiatimes.com/news/defence/trump-orders-us-agencies-to-stop-using-anthropic-technology-in-clash-over-ai-safety/articleshow/128870385.cms"
+            "title": "Most AI chatbots have murky safety provisions, researchers find",
+            "description": "[THE STAR] Artificial intelligence (AI) chatbots are increasingly being used by people to do everything from answering and summarizing emails and texts the recipient never reads to deciding on travel...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/28/most-ai-chatbots-have-murky-safety-provisions-researchers-find"
         },
         {
-            "title": "India Inc resets strategy as AI takes over boardroom",
-            "description": "[THE ECONOMIC TIMES] In the boardroom of a leading engineering and construction company, talks on quarterly results quickly turned to buying an enterprise-level artificial intelligence licence. An independent director...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-inc-resets-strategy-as-ai-takes-over-boardroom/articleshow/128864271.cms"
+            "title": "No IIT, no IIM: Why your course may matter more in 2026",
+            "description": "[INDIA TODAY] As artificial intelligence redraws career paths and disrupts traditional job roles, India\u2019s long-standing obsession with elite college tags is facing its first serious test. In an AI-driven economy,...",
+            "url": "https://www.indiatoday.in/education-today/featurephilia/story/no-iit-no-iim-why-your-course-may-matter-more-in-2026-2875312-2026-02-28"
         },
         {
-            "title": "'No one wants to miss the AI bus': India Inc resets strategy as AI takes over boardroom",
-            "description": "[THE ECONOMIC TIMES] Indian company boardrooms are now prioritizing artificial intelligence adoption. Leaders are discussing strategies to integrate AI for improved efficiency and a competitive advantage. This shift is...",
-            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/no-one-wants-to-miss-the-ai-bus-india-inc-resets-strategy-as-ai-takes-over-boardroom/articleshow/128863806.cms"
+            "title": "Quantum computing will solve real-world problems within a decade",
+            "description": "[ALBUQUERQUE JOURNAL] Sandia National Laboratories Director Laura McGill says scalable quantum computing capable of tackling real-world problems could arrive within 10 years, as it expands its quantum and artificial...",
+            "url": "https://www.abqjournal.com/business/quantum-will-be-scalable-to-real-problems-within-a-decade-says-sandia-director/2991005"
         },
         {
             "title": "Trump orders US agencies to stop using Anthropic technology in clash over AI safety",
             "description": "[THE ATLANTA JOURNAL-CONSTITUTION] President Donald Trump has ordered all U.S. agencies to stop using Anthropic technology after the company\u2019s unusually public dispute with the Pentagon over artificial intelligence safety. Defense...",
-            "url": "https://www.ajc.com/news/2026/02/trump-orders-federal-agencies-to-stop-using-anthropic-technology-in-dispute-over-ai-safety/"
+            "url": "https://www.ajc.com/news/2026/02/trump-orders-us-agencies-to-stop-using-anthropic-technology-in-clash-over-ai-safety/"
         },
         {
-            "title": "OpenAI's Codex head disagrees with Anthropic CEO\u2019s AI warning for coders and engineers, says: There\u2019s never been a better time\u2026",
-            "description": "[TIMES OF INDIA] Tech News News: Anthropic CEO Dario Amodei recently warned that software engineering and coding jobs are at risk due to rapid advancements in artificial intelligence..",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/openais-codex-head-disagrees-with-anthropic-ceos-ai-warning-for-coders-and-engineers-says-theres-never-been-a-better-time/articleshow/128869855.cms"
+            "title": "Anthropic refuses to allow Pentagon unrestricted use of artificial intelligence",
+            "description": "[DAWN.COM] \u201cThese threats do not change our position: we cannot in good conscience accede to their request,\u201d Anthropic chief executive Dario Amodei says in a statement.",
+            "url": "https://www.dawn.com/news/1976334/anthropic-refuses-to-allow-pentagon-unrestricted-use-of-artificial-intelligence"
         },
         {
-            "title": "US fintech firm Block sheds 4,000 staff, cites AI",
-            "description": "[BANGKOK POST] OAKLAND, California - Block, the parent company of the fintech firms Square and Cash App, is laying off 40% of its 10,000 employees, stating plainly that the decision was driven by artificial...",
-            "url": "https://www.bangkokpost.com/business/general/3206523/us-fintech-firm-block-sheds-4000-staff-cites-ai"
+            "title": "Crypto VC Paradigm Expands into AI, Robotics with $1.5B Fund (WSJ)",
+            "description": "[CRYPTO BREAKING NEWS] Paradigm, the San Francisco-based crypto investment firm, is pursuing a new $1.5 billion fund aimed at backing companies across artificial intelligence,",
+            "url": "https://www.cryptobreaking.com/crypto-vc-paradigm-expands-into/"
         },
         {
-            "title": "Hegseth declares Anthropic a supply chain risk, restricting military contractors from doing business with AI giant",
-            "description": "[CBS NEWS] Defense Secretary Pete Hegseth deemed artificial intelligence firm Anthropic a supply chain risk on Friday, following days of increasingly heated public conflict with the AI company.",
-            "url": "https://www.cbsnews.com/news/hegseth-declares-anthropic-supply-chain-risk/"
+            "title": "AI is no longer a technology story. It's an evolving human story",
+            "description": "[INDIA TODAY] Artificial intelligence is no longer a speculative technology story. It is now a macro story playing out in the real world. And the world's sharpest minds cannot agree on what happens next: gloom or...",
+            "url": "https://www.indiatoday.in/jobs/story/artificial-intelligence-is-no-longer-a-technology-story-it-is-an-evolving-human-story-jobs-what-happens-next-2875702-2026-02-28"
         }
     ]
 }
