@@ -1,15 +1,15 @@
 {
-    "updated": "2026-02-28 14:19:09 UTC",
+    "updated": "2026-02-28 16:21:44 UTC",
     "news": [
-        {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
+        },
+        {
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
-        },
-        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
+        },
+        {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,9 +37,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+        },
+        {
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -52,19 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Pope Leo Says AI Cannot Share Faith in the Pulpit",
-            "description": "[NEWSMAX] Pope Leo XIV recently told priests in Rome not to rely on artificial intelligence to prepare homilies, warning that technology will never be able to share faith and urging clergy to strengthen...",
-            "url": "https://www.newsmax.com/newsfront/pope-leo-artificial-intelligence-rome/2026/02/27/id/1247722/"
+            "title": "OpenAI Gives Pentagon AI Model Access After Anthropic Dustup",
+            "description": "[BLOOMBERG] OpenAI has agreed to deploy its own artificial intelligence models within the Defense Department\u2019s classified network after rival Anthropic PBC saw its relationship with the Pentagon implode over...",
+            "url": "https://www.bloomberg.com/news/articles/2026-02-28/openai-gives-pentagon-access-to-models-after-anthropic-dustup"
         },
         {
-            "title": "Anthropic: Will Fight Pentagon's Supply Risk Label",
-            "description": "[NEWSMAX] Over the supply chain risk label on its artificial intelligence technology, Anthropic says it will challenge the Pentagon in court.",
-            "url": "https://www.newsmax.com/finance/streettalk/anthropic-pentagon-ai/2026/02/27/id/1247721/"
+            "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash",
+            "description": "[THE NEW YORK TIMES] The deal came hours after President Trump had ordered federal agencies to stop using artificial intelligence technology made by Anthropic, an OpenAI rival.",
+            "url": "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html"
         },
         {
-            "title": "Trump halts federal use of Anthropic's technology in dispute over AI safety",
-            "description": "[BUSINESS STANDARD] President Donald Trump said Friday that he was ordering all federal agencies to stop using Anthropic's technology following the company's unusually public dispute with the Pentagon over artificial...",
-            "url": "https://www.business-standard.com/world-news/trump-halts-federal-use-of-anthropic-s-technology-in-dispute-over-ai-safety-126022800081_1.html"
+            "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash",
+            "description": "[THE NEW YORK TIMES] The deal came hours after President Trump had ordered federal agencies to stop using artificial intelligence technology made by Anthropic, an OpenAI rival.",
+            "url": "https://www.nytimes.com/2026/02/27/technology/openai-reaches-ai-agreement-with-defense-dept-after-anthropic-clash.html"
         },
         {
-            "title": "Most AI chatbots have murky safety provisions, researchers find",
-            "description": "[THE STAR] Artificial intelligence (AI) chatbots are increasingly being used by people to do everything from answering and summarizing emails and texts the recipient never reads to deciding on travel...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/02/28/most-ai-chatbots-have-murky-safety-provisions-researchers-find"
+            "title": "US stocks sink and oil prices rise as worries about AI, inflation and possible war hit Wall Street",
+            "description": "[THE MANILA TIMES] NEW YORK \u2014 US stocks sank Friday as Wall Street kept punishing companies that could become losers in the artificial-intelligence revolution. A surprisingly discouraging update on inflation also hurt...",
+            "url": "https://www.manilatimes.net/2026/02/28/business/foreign-business/us-stocks-sink-and-oil-prices-rise-as-worries-about-ai-inflation-and-possible-war-hit-wall-street/2290345"
         },
         {
-            "title": "No IIT, no IIM: Why your course may matter more in 2026",
-            "description": "[INDIA TODAY] As artificial intelligence redraws career paths and disrupts traditional job roles, India\u2019s long-standing obsession with elite college tags is facing its first serious test. In an AI-driven economy,...",
-            "url": "https://www.indiatoday.in/education-today/featurephilia/story/no-iit-no-iim-why-your-course-may-matter-more-in-2026-2875312-2026-02-28"
+            "title": "Wall Street Week Ahead: AI disruption hangs over US markets as investors wary of risks",
+            "description": "[THE ECONOMIC TIMES] Artificial intelligence is creating uncertainty for the US stock market. Investors are watching closely for how this technology will change businesses. Key economic reports and company earnings are...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-ai-disruption-hangs-over-us-markets-as-investors-wary-of-risks/articleshow/128873129.cms"
         },
         {
-            "title": "Quantum computing will solve real-world problems within a decade",
-            "description": "[ALBUQUERQUE JOURNAL] Sandia National Laboratories Director Laura McGill says scalable quantum computing capable of tackling real-world problems could arrive within 10 years, as it expands its quantum and artificial...",
-            "url": "https://www.abqjournal.com/business/quantum-will-be-scalable-to-real-problems-within-a-decade-says-sandia-director/2991005"
+            "title": "Anthropic Hits Back After US Military Labels It a 'Supply Chain Risk'",
+            "description": "[WIRED] Anthropic says it would be \u201clegally unsound\u201d for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+            "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/"
         },
         {
-            "title": "Trump orders US agencies to stop using Anthropic technology in clash over AI safety",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] President Donald Trump has ordered all U.S. agencies to stop using Anthropic technology after the company\u2019s unusually public dispute with the Pentagon over artificial intelligence safety. Defense...",
-            "url": "https://www.ajc.com/news/2026/02/trump-orders-us-agencies-to-stop-using-anthropic-technology-in-clash-over-ai-safety/"
+            "title": "US backs Pakistan\u2019s right to self-defence as clashes with Afghan Taliban escalate",
+            "description": "[MALAYALA MANORAMA] Afghanistan's Taliban rulers had said on Friday they were willing to negotiate after Pakistan bombed their forces in major cities..Pakistan Afghanistan conflict, US supports Pakistan's defense,...",
+            "url": "https://www.onmanorama.com/news/world/2026/02/28/united-states-pakistan-right-to-defend-afghan-taliban.html"
         },
         {
-            "title": "Anthropic refuses to allow Pentagon unrestricted use of artificial intelligence",
-            "description": "[DAWN.COM] \u201cThese threats do not change our position: we cannot in good conscience accede to their request,\u201d Anthropic chief executive Dario Amodei says in a statement.",
-            "url": "https://www.dawn.com/news/1976334/anthropic-refuses-to-allow-pentagon-unrestricted-use-of-artificial-intelligence"
+            "title": "AI a huge opportunity and serious risk for climate: UNEP official",
+            "description": "[THEPRINT] New Delhi, Feb 28 (PTI) Artificial Intelligence (AI) offers significant potential to help the climate crisis, but its high energy and water requirements could worsen environmental challenges if not...",
+            "url": "https://theprint.in/india/ai-a-huge-opportunity-and-serious-risk-for-climate-unep-official/2866171/"
         },
         {
-            "title": "Crypto VC Paradigm Expands into AI, Robotics with $1.5B Fund (WSJ)",
-            "description": "[CRYPTO BREAKING NEWS] Paradigm, the San Francisco-based crypto investment firm, is pursuing a new $1.5 billion fund aimed at backing companies across artificial intelligence,",
-            "url": "https://www.cryptobreaking.com/crypto-vc-paradigm-expands-into/"
+            "title": "AI's Role in Climate Change: Opportunity or Risk?",
+            "description": "[DEVDISCOURSE] Artificial Intelligence (AI) offers potential climate solutions but poses environmental risks due to its energy and water demands, according to Martin Krause of UNEP. At the India AI Impact Summit,...",
+            "url": "https://www.devdiscourse.com/article/science-environment/3820690-ais-role-in-climate-change-opportunity-or-risk"
         },
         {
-            "title": "AI is no longer a technology story. It's an evolving human story",
-            "description": "[INDIA TODAY] Artificial intelligence is no longer a speculative technology story. It is now a macro story playing out in the real world. And the world's sharpest minds cannot agree on what happens next: gloom or...",
-            "url": "https://www.indiatoday.in/jobs/story/artificial-intelligence-is-no-longer-a-technology-story-it-is-an-evolving-human-story-jobs-what-happens-next-2875702-2026-02-28"
+            "title": "US stocks fall on credit, war jitters as oil surges",
+            "description": "[CNBC TV18] Friday\u2019s drop drove the S&P 500 to its biggest monthly loss since March. Anxiety about an artificial-intelligence bubble resurfaced as OpenAI raised $110 billion.",
+            "url": "https://www.cnbctv18.com/market/us-stocks-fall-on-credit-war-jitters-as-oil-surges-19859830.htm"
         }
     ]
 }
