@@ -1,15 +1,15 @@
 {
-    "updated": "2026-02-28 08:24:18 UTC",
+    "updated": "2026-02-28 10:19:42 UTC",
     "news": [
-        {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
+        },
+        {
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
-        },
-        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
+        },
+        {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,9 +37,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+        },
+        {
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -52,19 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Eby credits OpenAI for coming clean after mass killings in Tumbler Ridge, B.C.",
-            "description": "[BAYTODAY] VANCOUVER \u2014 British Columbia Premier David Eby is crediting artificial intelligence firm OpenAI for not trying to hide problematic interactions between the Tumbler Ridge shooter and its chatbot.",
-            "url": "https://www.baytoday.ca/national-news/eby-credits-openai-for-coming-clean-after-mass-killings-in-tumbler-ridge-bc-11937690"
+            "title": "Amazon (AMZN) Eyes In-House Chips to Cut AI Costs - A Challenge to Nvidia (NVDA)?",
+            "description": "[MARKETS INSIDER] Amazon (AMZN) is taking another step into artificial intelligence infrastructure that could eventually affect Nvidia (NVDA). The company plans t...",
+            "url": "https://markets.businessinsider.com/news/stocks/amazon-amzn-eyes-in-house-chips-to-cut-ai-costs-a-challenge-to-nvidia-nvda-1035880594"
+        },
+        {
+            "title": "Bank Shares Walloped by More AI and \u2018Cockroach\u2019 Credit Woes",
+            "description": "[LIVEMINT] Financial firms ended February where they spent much of the month: enduring another dizzying blow from the threat of artificial intelligence and grappling with signs those cockroaches Jamie Dimon...",
+            "url": "https://www.livemint.com/market/bank-shares-walloped-by-more-ai-and-cockroach-credit-woes-11772230266637.html"
         },
         {
             "title": "Eby credits OpenAI for coming clean after mass killings in Tumbler Ridge, B.C.",
-            "description": "[SOOTODAY] VANCOUVER \u2014 British Columbia Premier David Eby is crediting artificial intelligence firm OpenAI for not trying to hide problematic interactions between the Tumbler Ridge shooter and its chatbot.",
-            "url": "https://www.sootoday.com/national-news/eby-credits-openai-for-coming-clean-after-mass-killings-in-tumbler-ridge-bc-11937690"
+            "description": "[CP24 TORONTO] British Columbia Premier David Eby is crediting artificial intelligence firm OpenAI for not trying to hide problematic interactions between the Tumbler Ridge shooter and its chatbot.",
+            "url": "https://www.cp24.com/news/canada/2026/02/27/eby-credits-openai-for-coming-clean-after-mass-killings-in-tumbler-ridge-bc/"
         },
         {
-            "title": "IIT Delhi Opens Admissions for Third Batch of Certificate Programme in Applied Data Science and Artificial Intelligence",
-            "description": "[NEWSX] A 24-week live online programme that builds applied AI capability, from core analytics to production deployment, with a one-day campus immersion at IIT Delhi. New Delhi [India], February\u2026",
-            "url": "https://www.newsx.com/business-news/iit-delhi-opens-admissions-for-third-batch-of-certificate-programme-in-applied-data-science-and-artificial-intelligence-2-174442/"
+            "title": "Canada Says OpenAI's Safety Pledges Lack Details",
+            "description": "[MARKETSCREENER] By Paul Vieira OTTAWA--OpenAI's pledges to strengthen security protocols are missing key details including how they will be implemented, Canada's minister in charge of artificial intelligence...",
+            "url": "https://www.marketscreener.com/news/canada-says-openai-s-safety-pledges-lack-details-ce7e5cdfdf8cf620"
         },
         {
-            "title": "Data doctors: Watch out for the latest tech tax scams",
-            "description": "[WTOP] This tax season, scammers are using artificial intelligence, stolen data, voice cloning, deepfake video and even legitimate tax preparer credentials to manufacture trust.",
-            "url": "https://wtop.com/tech/2026/02/data-doctors-watch-out-for-the-latest-tech-tax-scams/"
+            "title": "Trump orders every agency to stop using Anthropic ahead of deadline",
+            "description": "[WASHINGTON EXAMINER] President Trump ordered every federal agency to \"immediately\" stop using Anthropic's artificial intelligence model, Claude, amid a dispute.",
+            "url": "https://www.washingtonexaminer.com/policy/defense/4474944/trump-orders-federal-agencies-stop-using-anthropic-ai-military/"
         },
         {
-            "title": "Trump orders U.S. agencies to stop using Anthropic technology in clash over AI safety",
-            "description": "[PITTSBURGH TRIBUNE-REVIEW] WASHINGTON \u2014 The Trump administration on Friday ordered all U.S. agencies to stop using Anthropic\u2019s artificial intelligence technology and imposed other major penalties, culminating an unusually...",
-            "url": "https://triblive.com/news/world/trump-orders-u-s-agencies-to-stop-using-anthropic-technology-in-clash-over-ai-safety/"
+            "title": "Report: Senators Urge Deal in Pentagon-Anthropic AI Row",
+            "description": "[NEWSMAX] Senate defense leaders are urging the Pentagon and Anthropic to resolve a dispute over limits on the use of Anthropic's Claude artificial intelligence model in classified settings, as a Pentagon...",
+            "url": "https://www.newsmax.com/newsfront/anthropic-claude-dario-amodei/2026/02/27/id/1247700/"
         },
         {
-            "title": "AI is key driver behind layoffs at fintech company Block, CEO says",
-            "description": "[PBS NEWS] Shares in the financial technology company Block soared more than 20% in premarket trading Friday after its CEO announced it was laying off more than 4,000 of its 10,000 plus employees, reconfiguring...",
-            "url": "https://www.pbs.org/newshour/economy/ai-is-key-driver-behind-layoffs-at-fintech-company-block-ceo-says"
+            "title": "Report: Senators Urge Deal in Pentagon-Anthropic AI Row",
+            "description": "[NEWSMAX] Senate defense leaders are urging the Pentagon and Anthropic to resolve a dispute over limits on the use of Anthropic's Claude artificial intelligence model in classified settings, as a Pentagon...",
+            "url": "https://www.newsmax.com/politics/anthropic-claude-dario-amodei/2026/02/27/id/1247700/"
         },
         {
-            "title": "Dorsey's blunt AI warning sharpens debate over jobs and profits",
-            "description": "[REUTERS] Jack Dorsey is not the first chief executive to say artificial intelligence will transform work. He may be among the first to act as if it already has - and to say so openly.",
-            "url": "https://www.reuters.com/business/dorseys-blunt-ai-warning-sharpens-debate-over-jobs-profits-2026-02-27/"
+            "title": "Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI",
+            "description": "[THE GUARDIAN] Department of Defense and artificial intelligence company were unable to reach agreement before deadline",
+            "url": "https://www.theguardian.com/us-news/2026/feb/27/trump-anthropic-ai-federal-agencies"
         },
         {
-            "title": "Dorsey's blunt AI warning sharpens debate over jobs and profits",
-            "description": "[MARKETSCREENER] Jack Dorsey is not the first chief executive to say artificial intelligence will transform work. He may be among the first to act as if it already has - and to say so openly. ...",
-            "url": "https://www.marketscreener.com/news/dorsey-s-blunt-ai-warning-sharpens-debate-over-jobs-and-profits-ce7e5cdfdc8cf424"
+            "title": "Canada minister to meet with OpenAI's Altman to discuss safety measures after shooting",
+            "description": "[MARKETSCREENER] Canada's minister in charge of artificial intelligence said on Friday that he will meet with OpenAI Chief Executive Sam Altman next week to discuss how the ChatGPT maker plans to boost safety...",
+            "url": "https://www.marketscreener.com/news/canada-minister-to-meet-with-openai-s-altman-to-discuss-safety-measures-after-shooting-ce7e5cdfdf8df12c"
         },
         {
-            "title": "XAISTRAT: The Best Way to Unlock 200% Bonus Potential",
-            "description": "[TECHBULLION] AI Has Evolved \u2013 But Infrastructure Hasn\u2019t Kept Up Artificial intelligence has made tremendous strides in recent years, revolutionizing industries by analyzing data, detecting patterns, and providing...",
-            "url": "https://techbullion.com/xaistrat-the-best-way-to-unlock-200-bonus-potential/"
-        },
-        {
-            "title": "Gov. Shapiro discusses AI regulation in schools during Carnegie visit",
-            "description": "[PITTSBURGH TRIBUNE-REVIEW] High school students are increasingly turning to artificial intelligence for homework help, advice and even companionship \u2014 leaving school administrators wondering where to draw the line....",
-            "url": "https://triblive.com/news/education-classroom/gov-shapiro-discusses-ai-regulation-in-schools-during-carnegie-visit/"
+            "title": "Canada minister to meet with OpenAI's Altman to discuss safety measures after shooting",
+            "description": "[REUTERS] Canada's minister in charge of artificial intelligence said on Friday that he will meet with OpenAI Chief Executive Sam Altman next week to discuss how the ChatGPT maker plans to boost safety...",
+            "url": "https://www.reuters.com/world/americas/canada-minister-meet-with-openais-altman-discuss-safety-measures-after-shooting-2026-02-27/"
         }
     ]
 }
