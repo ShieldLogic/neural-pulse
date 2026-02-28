@@ -1,20 +1,25 @@
 {
-    "updated": "2026-02-28 18:28:15 UTC",
+    "updated": "2026-02-28 20:21:43 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
-        },
-        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
+        },
+        {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -27,24 +32,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+            "title": "Building a Simple MCP Server in Python",
+            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
+            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
-        },
-        {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "OpenAI Secures Pentagon Deal for Classified AI Deployment After Trump Dumps 'Woke' Anthropic",
-            "description": "[BREITBART NEWS NETWORK] Sam Altman's OpenAI reached an agreement with the Department of War to deploy its AI models on classified networks, just hours after the Trump administration ordered the federal government to...",
-            "url": "https://www.breitbart.com/tech/2026/02/28/openai-secures-pentagon-deal-for-classified-ai-deployment-after-trump-dumps-woke-anthropic/"
+            "title": "AI will change jobs, not end them: Amazon CEO Andy Jassy",
+            "description": "[LOKMAT TIMES] AI will change jobs, not end them: Amazon CEO Andy Jassy - New Delhi, Feb 28 Fears that artificial intelligence could lead to massive job losses may be exaggerated, according ... Get Latest News on...",
+            "url": "https://www.lokmattimes.com/technology/ai-will-change-jobs-not-end-them-amazon-ceo-andy-jassy-1/"
         },
         {
-            "title": "Jobs Long Handled By Humans May Soon Require Fewer Workers: Amazon CEO",
-            "description": "[NDTV PROFIT] Artificial intelligence will lead to job losses while simultaneously giving rise to fresh employment opportunities, Amazon CEO Andy Jassy said.",
-            "url": "https://www.ndtvprofit.com/technology/jobs-long-handled-by-humans-may-soon-require-fewer-workers-amazon-ceo-11148229"
+            "title": "AI will change jobs, not end them: Amazon CEO Andy Jassy",
+            "description": "[LOKMAT TIMES] AI will change jobs, not end them: Amazon CEO Andy Jassy - New Delhi, Feb 28 Fears that artificial intelligence could lead to massive job losses may be exaggerated, according ... Get Latest News on...",
+            "url": "https://www.lokmattimes.com/business/ai-will-change-jobs-not-end-them-amazon-ceo-andy-jassy/"
         },
         {
-            "title": "OpenAI partners with Pentagon after Trump bans Anthropic AI",
-            "description": "[THE NEWS INTERNATIONAL] OpenAI has struck a deal with the Pentagon to deploy its artificial intelligence models on classified networks, just hours after US President Donald Trump ordered federal agencies to stop using...",
-            "url": "https://www.thenews.com.pk/latest/1394064-openai-partners-with-pentagon-after-trump-bans-anthropic-ai"
+            "title": "Protests, cancellations, low response mark opening day of 'Kerala Story 2'",
+            "description": "[MALAYALA MANORAMA] The controversial film 'Kerala Story 2' is being screened in Kerala following the High Court's decision to lift a stay, but has seen low attendance.Kerala Story 2 screening, Kerala Story 2 box...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/28/kerala-story-2-screening-controversy-film-low-turnout.html"
         },
         {
-            "title": "Want to be richer? \u2018Rich Dad, Poor Dad\u2019 author Robert Kiyosaki says, \u2018AI will replace you\u2019 IF\u2026",
-            "description": "[LIVEMINT] Want to be richer? \u2018Rich Dad, Poor Dad\u2019 author Robert Kiyosaki has some advice amid concerns that artificial intelligence technology will disrupt jobs and industries. Says, \u2018AI will replace you if\u2026\u2019",
-            "url": "https://www.livemint.com/companies/people/robert-kiyosaki-ai-will-replace-you-if-think-like-an-employee-not-entrepreneurs-become-richer-jack-dorsey-block-layoffs-11772247168231.html"
+            "title": "Indian Embassy in Israel issues advisory to citizens in the country as tensions with Iran escalate",
+            "description": "[MALAYALA MANORAMA] The embassy added that it is closely engaged with the relevant authorities and said that it will continue to issue updates as necessary..Indian embassy Israel advisory, India nationals Israel safety,...",
+            "url": "https://www.onmanorama.com/news/india/2026/02/28/indian-embassy-israel-advisory.html"
         },
         {
-            "title": "Trump orders federal agencies to stop using Anthropic AI tools",
-            "description": "[THE NEWS INTERNATIONAL] US President Donald Trump on Friday ordered all federal agencies to immediately stop using Anthropic AI tools, escalating a dispute between the Pentagon and the artificial intelligence company over...",
-            "url": "https://www.thenews.com.pk/latest/1394063-trump-orders-federal-agencies-to-stop-using-anthropic-ai-tools"
+            "title": "Trump: Agencies to drop Anthropic",
+            "description": "[ARKANSAS ONLINE] WASHINGTON -- President Donald Trump said Friday that he was ordering all federal agencies to stop using Anthropic's technology after the company's unusually public dispute with the Pentagon over...",
+            "url": "https://www.arkansasonline.com/news/2026/feb/28/trump-agencies-to-drop-anthropic/"
         },
         {
-            "title": "Chidambaram slams reports of new film with Dileep, urges verification before publishing",
-            "description": "[MALAYALA MANORAMA] The portal's post had also claimed that Chidambaram and Dileep would be collaborating on a survival thriller, a genre that Chidambaram clarified he.Director Chidambaram, Chidambaram film rumors,...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/28/chidambaram-denies-dileep-rumours-malayalam-film-claims.html"
+            "title": "'Resist the temptation': Pope Leo XIV warns priests against chatbot-written sermons",
+            "description": "[TIMES OF INDIA] Trending News: Pope Leo XIV has delivered a pointed message to Catholic clergy: artificial intelligence has no place in the pulpit. Speaking during a closed-door mee.",
+            "url": "https://timesofindia.indiatimes.com/etimes/trending/resist-the-temptation-pope-leo-xiv-warns-priests-against-chatbot-written-sermons/articleshow/128877897.cms"
         },
         {
-            "title": "Sam Altman Reveals OpenAI \u2018Agreement\u2019 With DOD as Anthropic Phases Out",
-            "description": "[NEWSWEEK] The dispute centers on broader debates over the evolving role artificial intelligence plays in national security.",
-            "url": "https://www.newsweek.com/sam-altman-reveals-openai-agreement-with-dod-as-anthropic-phases-out-11596417"
+            "title": "Zoho's Sridhar Vembu Says AI Cannot Replace Purpose-Driven Professions",
+            "description": "[NDTV.COM] Zoho founder Sridhar Vembu has said that artificial intelligence could challenge people who define self-worth through economic or intellectual value.",
+            "url": "https://www.ndtv.com/offbeat/zohos-sridhar-vembu-says-ai-cannot-replace-purpose-driven-professions-priests-farmers-and-musicians-11148638"
         },
         {
-            "title": "Pentagon shuns Anthropic, picks OpenAI models in its classified network",
-            "description": "[LOKMAT TIMES] Pentagon shuns Anthropic, picks OpenAI models in its classified network - New Delhi, Feb 28 The United States Department of Defense has decided to deploy OpenAI\u2019s artificial intelligence models ......",
-            "url": "https://www.lokmattimes.com/technology/pentagon-shuns-anthropic-picks-openai-models-in-its-classified-network-1/"
+            "title": "How AI can read your thoughts without you speaking?",
+            "description": "[THE NEWS INTERNATIONAL] The power of artificial intelligence besides doing your tasks over prompts and commands can now read and interpret your brain activity. Stanford University's recent study showcases 52-year-old...",
+            "url": "https://www.thenews.com.pk/latest/1394079-how-ai-can-read-your-thoughts-without-you-speaking"
         },
         {
-            "title": "Pentagon shuns Anthropic, picks OpenAI models in its classified network",
-            "description": "[LOKMAT TIMES] Pentagon shuns Anthropic, picks OpenAI models in its classified network - New Delhi, Feb 28 The United States Department of Defense has decided to deploy OpenAI\u2019s artificial intelligence models ......",
-            "url": "https://www.lokmattimes.com/business/pentagon-shuns-anthropic-picks-openai-models-in-its-classified-network/"
+            "title": "Fangzhou and Youcare Pharmaceutical Group Form Strategic Alliance to Advance AI-Driven Chronic Care Services",
+            "description": "[THE MANILA TIMES] BEIJING, Feb. 28, 2026 (GLOBE NEWSWIRE) -- Fangzhou Inc. ('Fangzhou\u201d or the 'Company\u201d) (HKEX: 06086), a leading provider of AI-driven Internet healthcare solutions, has signed a strategic...",
+            "url": "https://www.manilatimes.net/2026/02/28/tmt-newswire/globenewswire/fangzhou-and-youcare-pharmaceutical-group-form-strategic-alliance-to-advance-ai-driven-chronic-care-services/2290375"
         },
         {
-            "title": "From doctors to taxi drivers: AI could replace eight million jobs - is yours at risk?",
-            "description": "[DAILY MAIL ONLINE] With artificial intelligence predicted to take over eight million jobs, technology columnist Jonathan Margolis has some employment advice",
-            "url": "https://www.dailymail.co.uk/lifestyle/article-15591409/From-doctors-taxi-drivers-AI-replace-eight-million-jobs-risk.html"
+            "title": "Israel launches pre-emptive attack on Iran, says it was planned in coordination with US",
+            "description": "[MALAYALA MANORAMA] Iran's supreme leader, Ayatollah Ali Khamenei, was not in Tehran and had been transferred to a secure location..Israel Iran attack, Iran nuclear dispute, Middle East military confrontation,...",
+            "url": "https://www.onmanorama.com/news/world/2026/02/28/israel-iran-attack-preemptive-strike.html"
         }
     ]
 }
