@@ -1,20 +1,25 @@
 {
-    "updated": "2026-03-01 16:22:58 UTC",
+    "updated": "2026-03-01 18:28:33 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
-        },
-        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
+        },
+        {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -27,24 +32,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+            "title": "Building a Simple MCP Server in Python",
+            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
+            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
-        },
-        {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Tips on how artificial intelligence can help plan your holiday",
-            "description": "[THE STAR] Instead of clicking aimlessly around the internet, you can ask your artificial intelligence-powered chatbot of choice or turn to chatbots specialized in tourism and travel planning such as...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/01/tips-on-how-artificial-intelligence-can-help-plan-your-holiday"
+            "title": "Govt employees to get up to 50% of last basic pay as assured pension under new scheme",
+            "description": "[MALAYALA MANORAMA] The Assured Pension Scheme was first announced by Finance Minister K N Balagopal in the Budget 2026 speech as a replacement for the contributory.Assured Pension Scheme, Kerala government pension, NPS...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/01/assured-pension-scheme-kerala-government.html"
         },
         {
-            "title": "Did US Forces Use Anthropic In Iran Strikes Hours After Trump Ban?",
-            "description": "[TIMES NOW] The Trump administration on Friday ordered all US agencies to stop using Anthropic\u2019s artificial intelligence technology. Anthropic said it would challenge what it called a legally unsound action...",
-            "url": "https://www.timesnownews.com/technology-science/did-us-forces-use-anthropic-in-iran-strikes-hours-after-trump-ban-article-153724216"
+            "title": "At Comic Con Kochi, the \u2018Cos-buddy\u2019 initiative is reshaping the cosplay experience for women",
+            "description": "[MALAYALA MANORAMA] The Kochi edition of Comic Con has drawn hundreds of youngsters, many in painstakingly crafted costumes that transform them into their favourite.Comic Con Kochi cosplay safety, cosplay volunteer...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/01/comic-con-kochi-cos-buddy-initiative-women-safety.html"
         },
         {
-            "title": "\u2018Situation is frightening,\u2019 says PV Sindhu, stranded at Dubai airport amid Middle East tensions",
-            "description": "[MALAYALA MANORAMA] Double Olympic medallist PV Sindhu, en route to the All England Open badminton tournament, became stranded at Dubai International Airport on Saturday.PV Sindhu Dubai stranded, PV Sindhu All England...",
-            "url": "https://www.onmanorama.com/sports/other-sports/2026/03/01/pv-sindhu-badminton-stranded-airport.html"
+            "title": "AI won't kill jobs, but your next role may not exist yet",
+            "description": "[INDIA TODAY] Amid growing concerns about job losses and automation, a new report suggests that artificial intelligence will transform the workforce by reshaping job roles, accelerating the need for reskilling,...",
+            "url": "https://www.indiatoday.in/jobs/story/ai-wont-kill-jobs-but-your-next-role-may-not-exist-yet-report-educ-2876081-2026-03-01"
         },
         {
-            "title": "Indian airlines to cancel 444 international flights on Sunday: Aviation Ministry",
-            "description": "[MALAYALA MANORAMA] Passenger assistance, airline coordination, and terminal crowd management are being closely monitored, with senior officials deployed on the ground,.Indian airlines flight cancellations, Middle East...",
-            "url": "https://www.onmanorama.com/news/india/2026/03/01/indian-airline-cancellations-middle-east.html"
+            "title": "Sam Altman says 'don't listen to old people': Trust AI or experience on career?",
+            "description": "[INDIA TODAY] Artificial Intelligence is revolutionising how we learn, work, and make decisions by compressing decades of knowledge into seconds. But experts warn that AI cannot replace the power of human...",
+            "url": "https://www.indiatoday.in/jobs/story/sam-altman-says-dont-listen-to-old-people-trust-ai-or-experience-on-career-2876035-2026-03-01"
         },
         {
-            "title": "February's Funniest Signs Worth Sharing",
-            "description": "[BUZZFEED] \"Before we work on artificial intelligence, why don't we do something about natural stupidity?\"",
-            "url": "https://www.buzzfeed.com/kristatorres/funny-signs-month-of-february"
+            "title": "Sam Altman says 'don't listen to old people': Trust AI or experience on career?",
+            "description": "[INDIA TODAY] Artificial Intelligence is revolutionising how we learn, work, and make decisions by compressing decades of knowledge into seconds. But experts warn that AI cannot replace the power of human...",
+            "url": "https://www.indiatoday.in/jobs/story/sam-altman-says-dont-listen-to-old-people-trust-ai-or-experience-on-career-educ-2876035-2026-03-01"
         },
         {
-            "title": "Brave new world: how countries are regulating artificial intelligence",
-            "description": "[DAWN.COM] TOKYO: Since ChatGPT stunned the world three years ago with the powers of generative AI, countries have grappled ...",
-            "url": "https://www.dawn.com/news/1976866/brave-new-world-how-countries-are-regulating-artificial-intelligence"
+            "title": "I used pothole detector on Midlands 'safest roads' and results were surprising",
+            "description": "[BIRMINGHAM LIVE] We used artificial intelligence to assess the road quality in a West Midlands borough after top ranking issued by government",
+            "url": "https://www.birminghammail.co.uk/news/midlands-news/used-pothole-detector-midlands-safest-33474097"
         },
         {
-            "title": "\u2018AI can democratise basic research\u2019",
-            "description": "[TIMES OF INDIA] Trichy: Artificial intelligence (AI) has the capacity to democratise basic research as it enables faster knowledge exploration and accelerates simulat.",
-            "url": "https://timesofindia.indiatimes.com/city/trichy/ai-can-democratise-basic-research/articleshow/128897692.cms"
+            "title": "More than a thousand flights cancelled, airspaces closed: Celebs, along with passengers, stranded in Dubai",
+            "description": "[MALAYALA MANORAMA] The UAE, Israel, Qatar, Syria, Iran, Iraq, Kuwait and Bahrain have closed their airspaces..Middle East flight cancellations, Dubai airport disruptions, stranded travelers Middle East, flight delays...",
+            "url": "https://www.onmanorama.com/travel/travel-news/2026/03/01/dubai-flights-cancelled-iran-strikes-celebs.html"
         },
         {
-            "title": "What to know about clash between Pentagon-Anthropic over military's AI use",
-            "description": "[BUSINESS STANDARD] A high-stakes dispute over military use of artificial intelligence erupted into public view this week as Defence Secretary Pete Hegseth brusquely terminated the Pentagon's work with Anthropic and...",
-            "url": "https://www.business-standard.com/world-news/what-to-know-about-clash-between-pentagon-anthropic-over-military-s-ai-use-126030100051_1.html"
+            "title": "Key events in Kerala today: Dog show, dance fest mark March 1",
+            "description": "[MALAYALA MANORAMA] The programmes include festivals, book launches, conferences, exhibitions, sports events and Ramadan lectures at various venues..Kerala events today, Thiruvananthapuram events, Kochi festivals,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/01/kerala-events-today-march-1.html"
         },
         {
-            "title": "Reliance on borrowed algorithms for AI could cost India its autonomy: Former foreign secretary",
-            "description": "[TIMES OF INDIA] Pune: India will have to trade off autonomy for efficiency if it relies entirely on borrowed algorithms for using artificial intelligence, said former.",
-            "url": "https://timesofindia.indiatimes.com/city/pune/reliance-on-borrowed-algorithms-for-ai-could-cost-india-its-autonomy-former-foreign-secretary/articleshow/128897635.cms"
+            "title": "Ayatollah Ali Khamenei: The man who ruled over Iran with an iron fist",
+            "description": "[MALAYALA MANORAMA] Khamenei was forced to go into hiding during the 12-day war against Israel in June, which exposed deep Israeli intelligence penetration of the.Ali Khamenei death, Iran Supreme Leader death, Khamenei...",
+            "url": "https://www.onmanorama.com/news/world/2026/03/01/ali-khamenei-death-iran-supreme-leader.html"
         },
         {
-            "title": "Vietnam AI law takes effect, first in South-East Asia",
-            "description": "[THE STAR] HANOI: A law regulating artificial intelligence went into effect in Vietnam on Sunday (March 1), making it the first country in South-East Asia with a comprehensive framework on the booming...",
-            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/01/vietnam-ai-law-takes-effect-first-in-south-east-asia"
+            "title": "Artificial Intelligence has been used to recreate the historic appearance of Edinburgh",
+            "description": "[DAILY RECORD] The stunning technology shows Auld Reekie in the 1700s when the city was surrounded by open fields and had a loch in its centre.",
+            "url": "https://www.dailyrecord.co.uk/news/artificial-intelligence-been-used-recreate-36796818"
         }
     ]
 }
