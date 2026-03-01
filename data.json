@@ -1,10 +1,15 @@
 {
-    "updated": "2026-02-28 22:18:55 UTC",
+    "updated": "2026-03-01 01:59:04 UTC",
     "news": [
         {
             "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
             "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
             "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
+        {
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
         },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
@@ -35,11 +40,6 @@
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "Building a Simple MCP Server in Python",
-            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
-            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
             "title": "Choosing Between PCA and t-SNE for Visualization",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "CometAPI: Affordable Access to Powerful AI Models for Modern Developers",
-            "description": "[TECHBULLION] Introduction to CometAPI In today\u2019s rapidly evolving digital ecosystem, businesses and developers need reliable, scalable, and cost-effective access to advanced artificial intelligence tools....",
-            "url": "https://techbullion.com/cometapi-affordable-access-to-powerful-ai-models-for-modern-developers/"
+            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - AI in Agriculture: Promises and Concerns in Maharashtra",
+            "description": "[DEVDISCOURSE] Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all...",
+            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life"
         },
         {
-            "title": "AI is widely used by students, but schools still struggle with guidance",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] New research from the College Board indicates that the use of artificial intelligence is on the rise, but policy guidelines are lagging.",
-            "url": "https://www.ajc.com/education/2026/02/most-students-use-ai-schools-colleges-dont-know-what-to-do-about-it/"
+            "title": "CPM whistleblower Kunhikrishnan approaches Kannur police over \u2018inaction\u2019 in arson, threat cases",
+            "description": "[MALAYALA MANORAMA] Expelled CPM leader and whistleblower V. Kunhikrishnan has lodged a complaint with the Kannur Rural District Police Chief alleging inaction in two.Kannur whistleblower, V Kunhikrishnan complaint, CPM...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/02/28/kunhikrishnan-cases-kannur-police-inaction-allegations.html"
         },
         {
-            "title": "AI cannot replace core functions in legal profession, trained mind will prevail: Justice Viswanathan",
-            "description": "[THE ECONOMIC TIMES] Justice Viswanathan said there had been instances in the court when lawyers relied on AI-generated citations that have turned out to be fictitious. He advised that artificial intelligence should be...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-cannot-replace-core-functions-in-legal-profession-trained-mind-will-prevail-justice-viswanathan/articleshow/128881091.cms"
+            "title": "Can you spot an AI generated face? Put your skills to the test with our quiz",
+            "description": "[NEW YORK POST] Artificial Intelligence can fabricate images and videos which look completely real to the average person in the blink of an eye. However, most people think they are good at distinguishing between...",
+            "url": "https://nypost.com/2026/02/28/us-news/can-you-spot-an-ai-generated-face-put-your-skills-to-the-test-with-our-quiz/"
         },
         {
-            "title": "String Metaverse Ltd appoints former Capital One tech leader Sai Kotha Venkata as Technical Advisor; launches global AI agent infrastructure",
-            "description": "[THE TRIBUNE] Hyderabad-28th February,2026: String Metaverse Ltd. (BSE: META), a blockchain infrastructure and artificial intelligence\u2013driven financial technology company, announced the appointment of former...",
-            "url": "https://www.tribuneindia.com/news/business/string-metaverse-ltd-appoints-former-capital-one-tech-leader-sai-kotha-venkata-as-technical-advisor-launches-global-ai-agent-infrastructure-2-2/"
+            "title": "AI shock hits IT stocks: Nifty IT posts worst monthly fall in 17 years as sector loses Rs 5.7 lakh crore",
+            "description": "[TIMES OF INDIA] India Business News: The Nifty IT index plunged 19.5% in February, marking its steepest monthly decline in 17 years, as mounting fears of artificial intelligence-led disru.",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/ai-shock-hits-it-stocks-nifty-it-posts-worst-monthly-fall-in-17-years-as-sector-loses-rs-5-7-lakh-crore/articleshow/128886052.cms"
         },
         {
-            "title": "How JobCopilot Is Redefining AI Job Search Automation for the Global Workforce",
-            "description": "[TECHBULLION] Artificial intelligence is rapidly reshaping the global employment landscape. While much of the public conversation focuses on generative AI and productivity tools, one of the most meaningful...",
-            "url": "https://techbullion.com/how-jobcopilot-is-redefining-ai-job-search-automation-for-the-global-workforce/"
+            "title": "Block to cut more than 4,000 jobs amid AI disruption of the workplace",
+            "description": "[HARTFORD COURANT] Fintech company Block said Thursday that it's cutting more than 4,000 workers or nearly half of its workforce as artificial intelligence disrupts the way people work. The Oakland parent company of...",
+            "url": "https://www.courant.com/2026/02/28/block-to-cut-more-than-4000-jobs-amid-ai-disruption-of-the-workplace-2/"
         },
         {
-            "title": "\u2018People ask me to sign books for their future kids\u2019: Savio Mascarenhas on Tinkle nostalgia at Kochi Comic Con",
-            "description": "[MALAYALA MANORAMA] Mascarenhas believes that while AI can assist in the creative process, it cannot replace the human touch and personal experience essential for the.Comic Con India, Savio Mascarenhas, Tinkle comics,...",
-            "url": "https://www.onmanorama.com/entertainment/interviews/2026/02/28/comic-con-india-savio-mascarenhas-tinkle-amar-chitra-katha.html"
+            "title": "Israel declares state of emergency; bans public gatherings, shuts schools, offices",
+            "description": "[MALAYALA MANORAMA] Israel on Saturday closed its airspace to civilian flights though land borders with Egypt and Jordan remained open..Tel Aviv Israel Iran conflict, Israel Iran missile attack, Tel Aviv public safety...",
+            "url": "https://www.onmanorama.com/news/world/2026/02/28/iran-israel-war-updates-israel-declares-state-of-emergency.html"
         },
         {
-            "title": "Lions Calcutta Greater Vidya Mandir Pioneers AI",
-            "description": "[THE TRIBUNE] New Delhi [India], February 28: In a transformative step towards redefining modern education, Lions Calcutta Greater Vidya Mandir (LCGVM) has emerged as a pioneering institution integrating...",
-            "url": "https://www.tribuneindia.com/news/business/lions-calcutta-greater-vidya-mandir-pioneers-ai-integrated-education-to-shape-future-ready-global-leaders-2-2/"
+            "title": "Bot instructors? AI use at University of Michigan differs across campus",
+            "description": "[M LIVE MICHIGAN ] The university does not have a campus-wide policy on the use of artificial intelligence, electing to leave the discretion up to each school.",
+            "url": "https://www.mlive.com/news/ann-arbor/2026/02/bot-instructors-ai-use-at-university-of-michigan-differs-across-campus.html"
         },
         {
-            "title": "Morgan Stanley predicts AI to replace tasks not workers",
-            "description": "[THE NEWS INTERNATIONAL] As artificial intelligence reshapes the workplace, Morgan Stanley predicts most employees won\u2019t retire early or become permanently unemployed, but they will need to train for jobs that...",
-            "url": "https://www.thenews.com.pk/latest/1394096-morgan-stanley-predicts-ai-to-replace-tasks-not-workers"
+            "title": "AI literacy for all: Why it matters for the future of digital learning",
+            "description": "[INDIA TODAY] The government of India has introduced a free online course called Yuva AI for All to help citizens understand the basics of artificial intelligence and develop foundational AI skills. AI literacy...",
+            "url": "https://www.indiatoday.in/education-today/news/story/ai-literacy-for-all-why-it-matters-for-the-future-of-digital-learning-2875933-2026-02-28"
         },
         {
-            "title": "Comic Con Kochi edition opens to enthusiastic crowds and colourful cosplay",
-            "description": "[MALAYALA MANORAMA] Comic Con India Kerala has arrived in Kochi, marking its first-ever presence in the region, drawing a significant rush of young fans to the vibrant.Comic Con India Kerala, Kochi pop culture...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/02/28/comic-con-india-kerala-pop-culture-convention.html"
+            "title": "This is the hottest job in AI, and companies can't hire enough",
+            "description": "[INDIA TODAY] As artificial intelligence spreads across industries, a new role has quietly become the hottest job in the field \u2014 Forward Deployed Engineers. These are the professionals who ensure AI systems...",
+            "url": "https://www.indiatoday.in/jobs/story/this-is-the-hottest-job-in-ai-and-companies-cant-hire-enough-educ-2875930-2026-02-28"
         },
         {
-            "title": "String Metaverse Ltd appoints former Capital One tech leader Sai Kotha Venkata as Technical Advisor; launches global AI agent infrastructure",
-            "description": "[THE TRIBUNE] Hyderabad (Telangana) [India], February 28: String Metaverse Ltd. (BSE: META), a blockchain infrastructure and artificial intelligence-driven financial technology company, announced the appointment...",
-            "url": "https://www.tribuneindia.com/news/business/string-metaverse-ltd-appoints-former-capital-one-tech-leader-sai-kotha-venkata-as-technical-advisor-launches-global-ai-agent-infrastructure/"
+            "title": "Ethical AI: Scaling artificial intelligence responsibly in the age of intelligent agents",
+            "description": "[LIVEMINT] As AI systems become more autonomous and integral to decision-making, ethical considerations have moved to the forefront. Ethical AI has shifted from an abstract concept to a practical necessity as...",
+            "url": "https://www.livemint.com/ai/artificial-intelligence/ethical-ai-scaling-artificial-intelligence-responsibly-in-the-age-of-intelligent-agents-11772279169609.html"
         }
     ]
 }
