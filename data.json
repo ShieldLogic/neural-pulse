@@ -1,15 +1,15 @@
 {
-    "updated": "2026-03-01 06:41:06 UTC",
+    "updated": "2026-03-01 08:26:58 UTC",
     "news": [
-        {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
+        },
+        {
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
-        },
-        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
+        },
+        {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,9 +37,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+        },
+        {
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -52,19 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -75,6 +75,31 @@
             "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
             "description": "[BAIR] Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the...",
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
+        },
+        {
+            "title": "AI trade sweeping Wall Street: 'HALO'",
+            "description": "[CNBC TV18] Investors are bidding up companies with hefty real assets such as grids, pipelines and heavy machinery that are least likely to be replaced by artificial intelligence.",
+            "url": "https://www.cnbctv18.com/market/the-new-anti-ai-trade-sweeping-wall-street-halo-19860053.htm"
+        },
+        {
+            "title": "Tyrant no longer alive: Netanyahu claims Iran leader Khamenei killed in US-Israeli strikes",
+            "description": "[MALAYALA MANORAMA] The United States and Israel attacked Iran on Saturday, targeting its top leaders.Benjamin Netanyahu claims, Iran Supreme Leader Ali Khamenei, Israel US Iran strike, Khamenei compound destroyed,...",
+            "url": "https://www.onmanorama.com/news/world/2026/03/01/israeli-pm-says-iran-leader-khamenei-killed.html"
+        },
+        {
+            "title": "\u2018We\u2019re safe,\u2019 says Pranav Prince, Malayali star of Indian basketball team stranded in Doha as Middle East boils",
+            "description": "[MALAYALA MANORAMA] The Indian men's basketball team was in Doha to participate in the Asian Qualifiers of the FIBA World Cup..Indian basketball team Doha, FIBA World Cup qualifiers, Middle East travel safety,...",
+            "url": "https://www.onmanorama.com/sports/other-sports/2026/03/01/indian-mens-basketball-team-pranav-prince-stranded-doha-middle-east-crisis-iran-israel-us.html"
+        },
+        {
+            "title": "Israel-US attack leaves 201 dead in Iran; retaliatory strikes rock Middle East, flight disruptions hit travellers",
+            "description": "[MALAYALA MANORAMA] Iranian authorities urged residents to evacuate Tehran.Iran attack, Middle East conflict, US Israel Iran strike, Iran retaliation, Strait of Hormuz closure, AI geopolitical analysis, LLM conflict...",
+            "url": "https://www.onmanorama.com/news/world/2026/03/01/iran-hit-by-israel-us-retaliates-us-by-attacking-militay-bases-in-middle-east.html"
+        },
+        {
+            "title": "OpenAI reaches AI agreement with Defense Dept. after Anthropic clash",
+            "description": "[THE MERCURY NEWS] OpenAI, the maker of ChatGPT, said Friday that it had reached an agreement with the Pentagon to provide its artificial intelligence technologies for classified systems.",
+            "url": "https://www.mercurynews.com/2026/02/28/openai-reaches-ai-agreement-with-defense-dept-after-anthropic-clash-3/"
         },
         {
             "title": "To play 4-3-3 or not! Kerala Blasters can\u2019t win an ISL match because they have an identity crisis",
@@ -100,31 +125,6 @@
             "title": "Exercise utmost caution, India urges its citizens in UAE, Syria, other 7 Middle East nations",
             "description": "[MALAYALA MANORAMA] Indian missions in Iran, Israel, Saudi Arabia, the UAE, Bahrain, Kuwait, Qatar, Jordan and Palestine issued separate advisories.India advisory Iran Israel, Middle East travel advisory, Indian...",
             "url": "https://www.onmanorama.com/news/india/2026/02/28/indians-asked-to-stay-vigilant-in-middle-east-amid-us-israel-iran-tensions.html"
-        },
-        {
-            "title": "3 Best Technology ETFs with Attractive Upside Potential",
-            "description": "[MARKETS INSIDER] Despite ongoing concerns about valuation and potential disruption in some sectors from artificial intelligence, several investors and analysts r...",
-            "url": "https://markets.businessinsider.com/news/stocks/3-best-technology-etfs-with-attractive-upside-potential-1035882000"
-        },
-        {
-            "title": "AI, robotics to shape future battle-ready systems, says Lt Gen Neeraj Varshney",
-            "description": "[TIMES OF INDIA] Hyderabad: The convergence of additive manufacturing, artificial intelligence (AI), and autonomous robotics will shape future battle-ready systems thr.",
-            "url": "https://timesofindia.indiatimes.com/city/hyderabad/ai-robotics-to-shape-future-battle-ready-systems-says-lt-gen-neeraj-varshney/articleshow/128892442.cms"
-        },
-        {
-            "title": "DGCA advises Indian airlines to avoid 11 Middle East nations till March 2",
-            "description": "[MALAYALA MANORAMA] Air India, IndiGo, Air India Express, Akasa Air and SpiceJet have suspended their Middle East operations.Middle East airspace restrictions, Indian airlines Middle East flights, flight diversions...",
-            "url": "https://www.onmanorama.com/news/india/2026/02/28/india-urges-airlines-to-suspend-flight-operations-to-middle-east-nations-amid-iran-israel-us-tensions.html"
-        },
-        {
-            "title": "Question that Bill Gates' daughter Phoebe Gates asks every candidate she interviews, be it for engineering, marketing or sales",
-            "description": "[TIMES OF INDIA] Tech News News: Phoebe Gates regularly asks candidates one question during interviews. The co-CEO of the artificial intelligence (AI)-powered shopping assistant Phia .",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/question-that-bill-gates-daughter-phoebe-gates-asks-every-candidate-she-interviews-be-it-for-engineering-marketing-or-sales/articleshow/128891247.cms"
-        },
-        {
-            "title": "Kerala CM to hand over 178 houses to Wayanad landslide survivors on Sunday",
-            "description": "[MALAYALA MANORAMA] 1,662 people from 402 families are expected to reside in the completed township..Wayanad landslide relief, Mundakkai-Chooralmala landslide, model township Wayanad, Kerala government housing project,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/28/wayanad-township-inauguaration-on-march-1.html"
         }
     ]
 }
