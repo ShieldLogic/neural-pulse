@@ -1,130 +1,59 @@
 {
-    "updated": "2026-03-01 10:21:18 UTC",
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-03-01 11:43 UTC",
     "news": [
         {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "Nvidia CEO denies he\u2019s \u2018unhappy\u2019 with OpenAI",
+            "description": "Nvidia's CEO Jensen Huang denied reports that he was unhappy with OpenAI and said his company still planned to make a \"huge\" investment in the ChatGPT firm. NVIDIA announced in September that it would invest up to $100 billion in OpenAI, but recently, there h\u2026",
+            "url": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-01-31T23:38:53Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nHe says the company still plans to make a huge investment in the ChatGPT maker.\r\nHe says the company still plans to make a huge investment in the ChatGPT maker.\r\u2026 [+2139 chars]"
         },
         {
-            "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
-            "description": "[RESEARCH] Algorithms & Theory",
-            "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+            "description": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale campaigns\" involved the creation of around 24,000 fraudule\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-23T20:22:55Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDeepSeek allegedly targeted Claudes reasoning capabilities, while generating censorship-safe alternatives to politically sensitive questions.\r\nDeepSeek allegedly\u2026 [+3056 chars]"
         },
         {
-            "title": "Teaching AI to read a map",
-            "description": "[RESEARCH] Machine Perception",
-            "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "\u2018Compute Equals Revenues\u2019: Nvidia Needs Jensen Huang\u2019s New Catchphrase to Be True",
+            "description": "Here's everything you need to know from Nvidia's latest earnings call.",
+            "url": "https://gizmodo.com/compute-equals-revenues-nvidia-needs-jensen-huangs-new-catchphrase-to-be-true-2000726841",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/GettyImages-2256813174-1200x675.jpg",
+            "publishedAt": "2026-02-26T02:05:12Z",
+            "content": "Nvidia reported earnings on Wednesday, and as expected, the numbers were good. Really good. The company gets more than 91% of its sales from its data center unit, which generated revenue of $193,737 \u2026 [+5032 chars]"
         },
         {
-            "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
-            "description": "[RESEARCH] Human-Computer Interaction and Visualization",
-            "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
-        },
-        {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
-        },
-        {
-            "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
-            "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
-            "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
-        },
-        {
-            "title": "Whole-Body Conditioned Egocentric Video Prediction",
-            "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
-            "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
-        },
-        {
-            "title": "How AI tools can redefine universal design to increase accessibility",
-            "description": "[RESEARCH] Education Innovation",
-            "url": "https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/"
-        },
-        {
-            "title": "RL without TD learning",
-            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
-            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
-        },
-        {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
-        },
-        {
-            "title": "How AI trained on birds is surfacing underwater mysteries",
-            "description": "[RESEARCH] Climate & Sustainability",
-            "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
-        },
-        {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
-        },
-        {
-            "title": "What exactly does word2vec learn?",
-            "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
-            "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
-            "description": "[BAIR] Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the...",
-            "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
-        },
-        {
-            "title": "What to know about the clash between the Pentagon and Anthropic over military's AI use",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] A high-stakes dispute over how the U.S. military uses artificial intelligence has led the Pentagon to cancel its contract with rising AI star Anthropic. Defense Secretary Pete Hegseth declared...",
-            "url": "https://www.ajc.com/news/2026/02/what-to-know-about-the-clash-between-the-pentagon-and-anthropic-over-militarys-ai-use/"
-        },
-        {
-            "title": "What to know about the clash between the Pentagon and Anthropic over military's AI use",
-            "description": "[THE ASSOCIATED PRESS] A high-stakes dispute over how the U.S. military uses artificial intelligence has led the Pentagon to cancel its contract with rising AI star Anthropic.",
-            "url": "https://apnews.com/article/anthropic-pentagon-ai-dario-amodei-hegseth-0c464a054359b9fdc80cf18b0d4f690c"
-        },
-        {
-            "title": "What to know about the clash between the Pentagon and Anthropic over military's AI use",
-            "description": "[WDIV CLICKONDETROIT] A high-stakes dispute over how the U.S. military uses artificial intelligence has led the Pentagon to cancel its contract with rising AI star Anthropic.",
-            "url": "https://www.clickondetroit.com/news/politics/2026/02/28/what-to-know-about-the-clash-between-the-pentagon-and-anthropic-over-militarys-ai-use/"
-        },
-        {
-            "title": "What to Know About the Clash Between the Pentagon and Anthropic Over Military's AI Use",
-            "description": "[U.S. NEWS & WORLD REPORT] WASHINGTON (AP) \u2014 A high-stakes dispute over military use of artificial intelligence erupted into public view this week as Defense Secretary Pete Hegseth brusquely terminated the Pentagon's work with...",
-            "url": "https://www.usnews.com/news/technology/articles/2026-02-28/what-to-know-about-the-clash-between-the-pentagon-and-anthropic-over-militarys-ai-use"
-        },
-        {
-            "title": "OpenAI reaches deal with Pentagon after Trump drops Anthropic",
-            "description": "[UPI NEWS] OpenAI announced it secured a deal to provide artificial intelligence services to the Defense Department.",
-            "url": "https://www.upi.com/Top_News/US/2026/02/28/openai-defense/8601772310881/"
-        },
-        {
-            "title": "AI trade sweeping Wall Street: 'HALO'",
-            "description": "[CNBC TV18] Investors are bidding up companies with hefty real assets such as grids, pipelines and heavy machinery that are least likely to be replaced by artificial intelligence.",
-            "url": "https://www.cnbctv18.com/market/the-new-anti-ai-trade-sweeping-wall-street-halo-19860053.htm"
-        },
-        {
-            "title": "Tyrant no longer alive: Netanyahu claims Iran leader Khamenei killed in US-Israeli strikes",
-            "description": "[MALAYALA MANORAMA] The United States and Israel attacked Iran on Saturday, targeting its top leaders.Benjamin Netanyahu claims, Iran Supreme Leader Ali Khamenei, Israel US Iran strike, Khamenei compound destroyed,...",
-            "url": "https://www.onmanorama.com/news/world/2026/03/01/israeli-pm-says-iran-leader-khamenei-killed.html"
-        },
-        {
-            "title": "\u2018We\u2019re safe,\u2019 says Pranav Prince, Malayali star of Indian basketball team stranded in Doha as Middle East boils",
-            "description": "[MALAYALA MANORAMA] The Indian men's basketball team was in Doha to participate in the Asian Qualifiers of the FIBA World Cup..Indian basketball team Doha, FIBA World Cup qualifiers, Middle East travel safety,...",
-            "url": "https://www.onmanorama.com/sports/other-sports/2026/03/01/indian-mens-basketball-team-pranav-prince-stranded-doha-middle-east-crisis-iran-israel-us.html"
-        },
-        {
-            "title": "Israel-US attack leaves 201 dead in Iran; retaliatory strikes rock Middle East, flight disruptions hit travellers",
-            "description": "[MALAYALA MANORAMA] Iranian authorities urged residents to evacuate Tehran.Iran attack, Middle East conflict, US Israel Iran strike, Iran retaliation, Strait of Hormuz closure, AI geopolitical analysis, LLM conflict...",
-            "url": "https://www.onmanorama.com/news/world/2026/03/01/iran-hit-by-israel-us-retaliates-us-by-attacking-militay-bases-in-middle-east.html"
-        },
-        {
-            "title": "OpenAI reaches AI agreement with Defense Dept. after Anthropic clash",
-            "description": "[THE MERCURY NEWS] OpenAI, the maker of ChatGPT, said Friday that it had reached an agreement with the Pentagon to provide its artificial intelligence technologies for classified systems.",
-            "url": "https://www.mercurynews.com/2026/02/28/openai-reaches-ai-agreement-with-defense-dept-after-anthropic-clash-3/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Meta\u2019s new deal with Nvidia buys up millions of AI chips",
+            "description": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Gr\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-18T00:27:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias starting to sell AI CPUs for use by themselves for the first time.\r\nNvidias starting to sell AI CPUs for use by themselves for the first time.\r\nby\r\nStevi\u2026 [+2390 chars]"
         }
     ]
 }
