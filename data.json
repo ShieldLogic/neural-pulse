@@ -1,15 +1,15 @@
 {
-    "updated": "2026-03-01 04:27:17 UTC",
+    "updated": "2026-03-01 06:41:06 UTC",
     "news": [
+        {
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
-        },
-        {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
+        },
+        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
-        },
-        {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,14 +37,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
-        },
-        {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
+            "title": "To play 4-3-3 or not! Kerala Blasters can\u2019t win an ISL match because they have an identity crisis",
+            "description": "[MALAYALA MANORAMA] Kerala Blasters have lost the first three matches of the Indian Super League 2025-26 season and the coach David Catala admitted that he made a.Kerala Blasters ISL loss, David Catala tactics, Indian...",
+            "url": "https://www.onmanorama.com/sports/football/2026/02/28/why-kerala-blasters-lost-three-isl-matches-in-a-row-2025-26-season-david-catala.html"
+        },
+        {
+            "title": "Texas at heart of Amazon's AI push in U.S.",
+            "description": "[JAPAN TODAY] Tech titan Amazon is working to step out of Nvidia's shadow with custom \"Trainium\" chips designed specially for machine learning as billions of dollars are poured into artificial intelligence (AI)....",
+            "url": "https://japantoday.com/category/tech/texas-at-heart-of-amazon%27s-ai-push-in-united-states"
+        },
+        {
+            "title": "Texas at heart of Amazon's AI push in U.S.",
+            "description": "[JAPAN TODAY] Tech titan Amazon is working to step out of Nvidia's shadow with custom \"Trainium\" chips designed specially for machine learning as billions of dollars are poured into artificial intelligence (AI)....",
+            "url": "https://japantoday.com/category/tech/texas-at-heart-of-amazon's-ai-push-in-united-states"
+        },
+        {
+            "title": "Wybac Holding Positions Itself as a Blueprint for the AI",
+            "description": "[TECHBULLION] Wybac Holding is emerging as a highly ambitious and future-focused holding group with a clear and unconventional objective: to redefine how large organizations are structured, managed, and scaled in...",
+            "url": "https://techbullion.com/wybac-holding-positions-itself-as-a-blueprint-for-the-ai-orchestrated-corporation-of-the-future/"
+        },
+        {
+            "title": "Exercise utmost caution, India urges its citizens in UAE, Syria, other 7 Middle East nations",
+            "description": "[MALAYALA MANORAMA] Indian missions in Iran, Israel, Saudi Arabia, the UAE, Bahrain, Kuwait, Qatar, Jordan and Palestine issued separate advisories.India advisory Iran Israel, Middle East travel advisory, Indian...",
+            "url": "https://www.onmanorama.com/news/india/2026/02/28/indians-asked-to-stay-vigilant-in-middle-east-amid-us-israel-iran-tensions.html"
+        },
+        {
+            "title": "3 Best Technology ETFs with Attractive Upside Potential",
+            "description": "[MARKETS INSIDER] Despite ongoing concerns about valuation and potential disruption in some sectors from artificial intelligence, several investors and analysts r...",
+            "url": "https://markets.businessinsider.com/news/stocks/3-best-technology-etfs-with-attractive-upside-potential-1035882000"
+        },
+        {
+            "title": "AI, robotics to shape future battle-ready systems, says Lt Gen Neeraj Varshney",
+            "description": "[TIMES OF INDIA] Hyderabad: The convergence of additive manufacturing, artificial intelligence (AI), and autonomous robotics will shape future battle-ready systems thr.",
+            "url": "https://timesofindia.indiatimes.com/city/hyderabad/ai-robotics-to-shape-future-battle-ready-systems-says-lt-gen-neeraj-varshney/articleshow/128892442.cms"
+        },
+        {
+            "title": "DGCA advises Indian airlines to avoid 11 Middle East nations till March 2",
+            "description": "[MALAYALA MANORAMA] Air India, IndiGo, Air India Express, Akasa Air and SpiceJet have suspended their Middle East operations.Middle East airspace restrictions, Indian airlines Middle East flights, flight diversions...",
+            "url": "https://www.onmanorama.com/news/india/2026/02/28/india-urges-airlines-to-suspend-flight-operations-to-middle-east-nations-amid-iran-israel-us-tensions.html"
+        },
+        {
+            "title": "Question that Bill Gates' daughter Phoebe Gates asks every candidate she interviews, be it for engineering, marketing or sales",
+            "description": "[TIMES OF INDIA] Tech News News: Phoebe Gates regularly asks candidates one question during interviews. The co-CEO of the artificial intelligence (AI)-powered shopping assistant Phia .",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/question-that-bill-gates-daughter-phoebe-gates-asks-every-candidate-she-interviews-be-it-for-engineering-marketing-or-sales/articleshow/128891247.cms"
+        },
+        {
             "title": "Kerala CM to hand over 178 houses to Wayanad landslide survivors on Sunday",
             "description": "[MALAYALA MANORAMA] 1,662 people from 402 families are expected to reside in the completed township..Wayanad landslide relief, Mundakkai-Chooralmala landslide, model township Wayanad, Kerala government housing project,...",
             "url": "https://www.onmanorama.com/news/kerala/2026/02/28/wayanad-township-inauguaration-on-march-1.html"
-        },
-        {
-            "title": "Your Old Hard Drives Are About To Be Far More Valuable For A Terrifying Reason",
-            "description": "[BGR] Like everything else data centers and artificial intelligence companies require to do business, hard drives are increasing in value as supply is bought up.",
-            "url": "https://www.bgr.com/2109194/hard-drive-shortage-increased-value/"
-        },
-        {
-            "title": "Expelled, but CPM whistleblower Kunhikrishnan\u2019s voice echoes in party's Payyannur Area Committee",
-            "description": "[MALAYALA MANORAMA] At a recent CPM Payyannur Area Committee meeting, allegations of financial impropriety resurfaced concerning funds raised for a slain worker's.Kannur CPM allegations, V Kunhikrishnan whistleblower,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/02/28/kunhikrishnan-whistleblower-claims-in-payyannur-area-panel-meeting.html"
-        },
-        {
-            "title": "PH firms adopt AI widely but struggle to scale",
-            "description": "[THE MANILA TIMES] ARTIFICIAL intelligence is now widely used across Philippine organizations, but most companies remain stuck in pilot stages, according to two reports released in 2025 \u2014 an industry study and a...",
-            "url": "https://www.manilatimes.net/2026/03/01/business/sunday-business-it/ph-firms-adopt-ai-widely-but-struggle-to-scale/2290436"
-        },
-        {
-            "title": "Get the new Honor X5c Plus this 3.3 Sale",
-            "description": "[THE MANILA TIMES] LEADING global artificial intelligence (AI) smart devices provider Honor Philippines has announced its newest smartphone, Honor X5c Plus through a partnership with Shopee Philippines. Combining a...",
-            "url": "https://www.manilatimes.net/2026/03/01/news/national/get-the-new-honor-x5c-plus-this-33-sale/2290458"
-        },
-        {
-            "title": "What to know about the clash between the Pentagon and Anthropic over military's AI use",
-            "description": "[BREITBART NEWS NETWORK] A high-stakes dispute over how the U.S. military uses artificial intelligence has led the Pentagon to cancel its contract with rising AI star Anthropic",
-            "url": "https://www.breitbart.com/news/what-to-know-about-the-clash-between-the-pentagon-and-anthropic-over-militarys-ai-use/"
-        },
-        {
-            "title": "Farhan, Zaman take Pakistan to 212/8; need to restrict SL to under 147 to progress",
-            "description": "[MALAYALA MANORAMA] In a crucial Super Eights T20 World Cup match against co-hosts Sri Lanka at Pallekele, Pakistan posted a formidable total of 212 for 8, largely.T20 World Cup, Sahibzada Farhan century, Fakhar Zaman...",
-            "url": "https://www.onmanorama.com/sports/cricket/2026/02/28/pakistan-sri-lanka-t20-world-cup.html"
-        },
-        {
-            "title": "\u2018Kerala Story 2 Goes Beyond\u2019: Why hate breeds only more hate for the movie | Review",
-            "description": "[MALAYALA MANORAMA] This sequel, directed by Kamakhya Narayan Singh, continues to push an agenda of forced religious conversions and anti-Muslim sentiment, failing to.The Kerala Story 2, The Kerala Story 2 review, The...",
-            "url": "https://www.onmanorama.com/entertainment/movie-reviews/2026/02/28/kerala-story-two-goes-beyond-movie-review.html"
-        },
-        {
-            "title": "Why Deepstitch Al Is the Most Promising 100X Crypto Buy Before 2026 Amid Regulatory Clarity and Al-Driven Market Tools",
-            "description": "[TECHBULLION] The cryptocurrency market in 2025 is undergoing a seismic shift, driven by regulatory clarity and the rapid adoption of Al-powered trading tools. Amid this transformation, Deepstitch AI (DEP) has...",
-            "url": "https://techbullion.com/why-deepstitch-al-is-the-most-promising-100x-crypto-buy-before-2026-amid-regulatory-clarity-and-al-driven-market-tools/"
-        },
-        {
-            "title": "OpenAI reaches deal with Pentagon after Trump drops Anthropic",
-            "description": "[BREITBART NEWS NETWORK] Feb. 28 (UPI) -- OpenAI announced it secured a deal to provide artificial intelligence services to the Defense Department hours after the Trump",
-            "url": "https://www.breitbart.com/news/openai-reaches-deal-with-pentagon-after-trump-drops-anthropic/"
         }
     ]
 }
