@@ -1,15 +1,15 @@
 {
-    "updated": "2026-03-02 18:41:18 UTC",
+    "updated": "2026-03-02 20:33:18 UTC",
     "news": [
-        {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
+        },
+        {
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
-        },
-        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
+        },
+        {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,9 +37,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+        },
+        {
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -52,19 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "India AI Impact Summit 2026 concludes with landmark global declarations and major AI investment commitments; Over USD 200 billion in AI",
-            "description": "[THE TRIBUNE] The India AI Impact Summit 2026 concluded with a landmark global declaration and major investment commitments aimed at shaping the future of artificial intelligence. Held from 16-21 February 2026,...",
-            "url": "https://www.tribuneindia.com/news/business/india-ai-impact-summit-2026-concludes-with-landmark-global-declarations-and-major-ai-investment-commitments-over-usd-200-billion-in-ai-related-investments-expected/"
+            "title": "Intel, Ericsson Team Up to Boost Transition to AI-Native 6G Mobile Technology",
+            "description": "[MARKETSCREENER] Intel and Ericsson have teamed up to boost the transition to artificial intelligence-native 6G mobile technology, the companies said Monday. The collaboration aims to help the industry move from...",
+            "url": "https://www.marketscreener.com/news/intel-ericsson-team-up-to-boost-transition-to-ai-native-6g-mobile-technology-ce7e5cdcdf8bf524"
         },
         {
-            "title": "Tech Mahindra Partners with Orange Business to Accelerate Global Digital Transformation",
-            "description": "[SCANX.TRADE] Tech Mahindra has formed a strategic partnership with Orange Business to enhance global digital transformation services for enterprises. The collaboration focuses on artificial intelligence,...",
-            "url": "https://scanx.trade/stock-market-news/stocks/tech-mahindra-partners-with-orange-business-to-accelerate-global-digital-transformation/33977036"
+            "title": "Performance, Efficient, and Scalable AI Infrastructure",
+            "description": "[THE TRIBUNE] San Jose (California) [US] / Barcelona [Spain], March 2: Supermicro, Inc. (NASDAQ: SMCI), a Total IT Solution Provider for AI/ML, HPC, Cloud, Storage, and 5G/Edge, is announcing expanded support for...",
+            "url": "https://www.tribuneindia.com/news/business/supermicro-expands-support-for-ai-ran-and-sovereign-ai-solutions-to-deliver-high-performance-efficient-and-scalable-ai-infrastructure/"
         },
         {
-            "title": "Nvidia forms alliance to make sure 6G networks embrace AI",
-            "description": "[THE STAR] Nvidia Corp, the world's most valuable company, is throwing its weight behind an effort to make sure the forthcoming 6G phone networks provide a strong platform for services and devices that take...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/02/nvidia-forms-alliance-to-make-sure-6g-networks-embrace-ai"
+            "title": "Women cops from Kasaragod dazzle state capital with Gujarati fusion dance",
+            "description": "[MALAYALA MANORAMA] Women police officers from Kasaragod performed a Gujarati fusion dance at the valedictory session of the National Police Volleyball Cluster Meet in.women police dance performance, Kasaragod police...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/02/kasaragod-women--kerala-police-gujarati-fusion-dance.html"
         },
         {
-            "title": "Claude AI will enable a 24-year-old to outperform entire Accenture workforce, Y Combinator partner says",
-            "description": "[INDIA TODAY] A Y Combinator partner\u2019s remark that a 24-year-old using Claude AI could outperform Accenture\u2019s entire workforce has reignited debate around how quickly artificial intelligence is compressing work...",
-            "url": "https://www.indiatoday.in/technology/news/story/claude-ai-will-enable-a-24-year-old-to-outperform-entire-accenture-workforce-y-combinator-partner-says-2876399-2026-03-02"
+            "title": "U.S. Schools Are Betting Big on A.I. Will New York City Be Next?",
+            "description": "[THE NEW YORK TIMES] This could be a pivotal year in shaping what role artificial intelligence plays in American schools. Some families want Mayor Mamdani to hit the brakes.",
+            "url": "https://www.nytimes.com/2026/03/02/nyregion/nyc-ai-schools-mamdani.html"
         },
         {
-            "title": "Singapore, South Korea to work towards upgrading free trade agreement",
-            "description": "[CNA] Cooperation in areas such as artificial intelligence, civil nuclear energy and intellectual property is also on the cards after both sides concluded several memorandums of understanding.",
-            "url": "https://www.channelnewsasia.com/singapore/lawrence-wong-lee-jae-myung-south-korea-free-trade-agreement-5963031"
+            "title": "Bitcoin to Ride Tailwinds If AI Drives Easier Monetary Policy, NYDIG",
+            "description": "[CRYPTO BREAKING NEWS] Bitcoin could gain ground if artificial intelligence reshapes labor markets or creates volatility that nudges central banks toward looser monetary policy,",
+            "url": "https://www.cryptobreaking.com/bitcoin-to-ride-tailwinds-if/"
         },
         {
-            "title": "How a conversation with a dementia caregiver inspired Deepthy\u2019s \u2018A Long Goodbye\u2019",
-            "description": "[MALAYALA MANORAMA] Deepthi Nirmala James is an emerging filmmaker gaining international recognition for her Australian-based short films exploring mental health and.Deepthi Nirmala James filmmaker, Australian short...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/02/deepthy-nirmala-james-filmmaker-australia-whirlpool-a-long-goodbye.html"
+            "title": "China\u2019s Honor shows humanoid and robot phone demo in AI pivot",
+            "description": "[THE STAR] Honor Device Co demonstrated a humanoid robot and its so-called robot phone at MWC Barcelona 2026 on Sunday, as the Chinese device maker seeks to reinvent itself as an artificial intelligence-driven...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/02/chinas-honor-shows-humanoid-and-robot-phone-demo-in-ai-pivot"
         },
         {
-            "title": "Cook, eat all you want during the blood moon. No cosmic side effects",
-            "description": "[MALAYALA MANORAMA] Restrictions on eating or other daily activities during lunar eclipses stem from historical beliefs and traditions rooted in misunderstanding and.lunar eclipse, blood moon facts, lunar eclipse myths,...",
-            "url": "https://www.onmanorama.com/food/features/2026/03/02/lunar-eclipse-myths-debunked.html"
+            "title": "Apple To Replace Core ML With Core AI' Framework At WWDC Ahead Of iOS 27 Launch: Report",
+            "description": "[NDTV PROFIT] Apple is reportedly preparing an artificial intelligence revamp at WWDC, including the replacement of Core ML with a rebranded Core AI framework for iOS 27.",
+            "url": "https://www.ndtvprofit.com/technology/apple-to-replace-core-ml-with-core-ai-framework-at-wwdc-ahead-of-ios-27-launch-report-11157332"
         },
         {
-            "title": "Middle East tensions: Kerala flights and airports latest updates",
-            "description": "[MALAYALA MANORAMA] India's Cabinet Committee on Security (CCS) has directed all concerned departments to take necessary and feasible measures to assist Indian nationals.Middle East flight cancellations, stranded...",
-            "url": "https://www.onmanorama.com/travel/travel-news/2026/03/02/middle-east-tensions-kerala-flights-airports.html"
+            "title": "Kerala postpones SSLC, Plus Two examinations in Gulf region",
+            "description": "[MALAYALA MANORAMA] Kerala board exams, including SSLC and Higher Secondary, have been postponed in the Gulf region due to the Middle East conflict. This decision aims.Kerala board exams, SSLC exam postponement, Middle...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/02/kerala-board-exam-sslc-plus-two-postponed-gulf.html"
         },
         {
-            "title": "Study finds AI tools are making people work more, many skipping breaks",
-            "description": "[INDIA TODAY] Artificial intelligence (AI) is getting better at coding. However, this has seemingly not reduced the burden for human workers. Instead, coders are now using AI, and working even more.",
-            "url": "https://www.indiatoday.in/jobs/story/study-finds-ai-tools-are-making-people-work-more-many-skipping-breaks-tchc-2876362-2026-03-02"
+            "title": "Thiruvananthapuram ready for Attukal Pongala tomorrow: Timings, traffic restrictions, parking spots",
+            "description": "[MALAYALA MANORAMA] In a rare coincidence, the iconic Attukal pongala and the lunar eclipse fall on the same day this year..Attukal Pongala, Attukal Bhagavathy Temple, Pongala rituals, lunar eclipse, Attukal festival,...",
+            "url": "https://www.onmanorama.com/travel/travel-news/2026/03/02/thiruvananthapuram-attukal-pongala-traffic-restrictions-timings-parking.html"
         },
         {
-            "title": "\u2018Priyam\u2019 actor Deepa Nayar opens up about the truth behind a decades-old misunderstanding about her debut film",
-            "description": "[MALAYALA MANORAMA] In response to fans asking why she didn't continue acting after Priyam, Deepa explained that it was never due to a bad experience..Deepa Nayar Priyam, Priyam movie clarification, K.K. Nair producer,...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/02/former-actor-deepa-nayar-priyam-fame-sets-the-record-straight.html"
+            "title": "China's annual parliament meet to unveil roadmap for tech race with the West",
+            "description": "[REUTERS] China will outline this week how it plans to push the next phase of its technology race with the West, and convert a wave of high-profile breakthroughs in artificial intelligence, space and robotics...",
+            "url": "https://www.reuters.com/business/autos-transportation/chinas-annual-parliament-meet-unveil-roadmap-tech-race-with-west-2026-03-02/"
         }
     ]
 }
