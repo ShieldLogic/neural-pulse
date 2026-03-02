@@ -1,10 +1,10 @@
 {
-    "updated": "2026-03-02 04:11:05 UTC",
+    "updated": "2026-03-02 06:53:08 UTC",
     "news": [
         {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
         },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
@@ -17,14 +17,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
+        },
+        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
-        },
-        {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -35,6 +35,11 @@
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "Building a Simple MCP Server in Python",
+            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
+            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
             "title": "Choosing Between PCA and t-SNE for Visualization",
@@ -62,11 +67,6 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -75,6 +75,21 @@
             "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
             "description": "[BAIR] Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the...",
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
+        },
+        {
+            "title": "When Sanju Samson turned doubting Thomases into believers again",
+            "description": "[MALAYALA MANORAMA] Sanju Samson scored an unbeaten 97 against the West Indies, his most important knock of an eventful international career, to steer India to the.Sanju Samson performance, T20 World Cup Sanju Samson,...",
+            "url": "https://www.onmanorama.com/sports/cricket/2026/03/01/t20-world-cup-2026-super-eight-sanju-samson-memorable-match-winner-india-vs-west-indies.html"
+        },
+        {
+            "title": "New Report Leaks Another iOS 27 Change",
+            "description": "[MACRUMORS] Alongside iOS 27 and other software updates, Apple plans to unveil a modernized \"Core AI\" framework at WWDC 2026, according to Bloomberg's Mark Gurman. \"Core AI\" will succeed Apple's existing \"Core...",
+            "url": "https://www.macrumors.com/2026/03/01/another-ios-27-change-leaked/"
+        },
+        {
+            "title": "Kilo is the VS Code extension that actually works with every local LLM I throw at it",
+            "description": "[XDA DEVELOPERS] Designed for how developers actually work.",
+            "url": "https://www.xda-developers.com/kilo-is-vs-code-extension-works-with-every-local-llm-i-throw-at-it/"
         },
         {
             "title": "Block\u2019s 4,000 Job Cuts Raise Questions Over AI\u2019s Role in Layoffs",
@@ -90,11 +105,6 @@
             "title": "Red and blue states alike want to limit AI in insurance. Trump wants to limit the states",
             "description": "[BOULDER DAILY CAMERA] Regulating artificial intelligence is becoming a politically divisive topic.",
             "url": "https://www.dailycamera.com/2026/03/01/red-and-blue-states-alike-want-to-limit-ai-in-insurance-trump-wants-to-limit-the-states/"
-        },
-        {
-            "title": "Red and blue states alike want to limit AI in insurance. Trump wants to limit the states",
-            "description": "[SAN DIEGO UNION-TRIBUNE] Regulating artificial intelligence is becoming a politically divisive topic.",
-            "url": "https://www.sandiegouniontribune.com/2026/03/01/red-and-blue-states-alike-want-to-limit-ai-in-insurance-trump-wants-to-limit-the-states/"
         },
         {
             "title": "Red and blue states alike want to limit AI in insurance. Trump wants to limit the states",
@@ -115,16 +125,6 @@
             "title": "Red and blue states alike want to limit AI in insurance. Trump wants to limit the states",
             "description": "[THE BOSTON HERALD] Regulating artificial intelligence is becoming a politically divisive topic.",
             "url": "https://www.bostonherald.com/2026/03/01/red-and-blue-states-alike-want-to-limit-ai-in-insurance-trump-wants-to-limit-the-states/"
-        },
-        {
-            "title": "Red and blue states alike want to limit AI in insurance. Trump wants to limit the states",
-            "description": "[NORFOLK VIRGINIAN-PILOT] Regulating artificial intelligence is becoming a politically divisive topic.",
-            "url": "https://www.pilotonline.com/2026/03/01/red-and-blue-states-alike-want-to-limit-ai-in-insurance-trump-wants-to-limit-the-states/"
-        },
-        {
-            "title": "Red and blue states alike want to limit AI in insurance. Trump wants to limit the states",
-            "description": "[SANTA ROSA PRESS DEMOCRAT] Regulating artificial intelligence is becoming a politically divisive topic.",
-            "url": "https://www.pressdemocrat.com/2026/03/01/red-and-blue-states-alike-want-to-limit-ai-in-insurance-trump-wants-to-limit-the-states/"
         }
     ]
 }
