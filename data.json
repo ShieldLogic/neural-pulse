@@ -1,15 +1,15 @@
 {
-    "updated": "2026-03-02 20:33:18 UTC",
+    "updated": "2026-03-02 22:23:55 UTC",
     "news": [
+        {
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
-        },
-        {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
+        },
+        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
-        },
-        {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,14 +37,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
-        },
-        {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Intel, Ericsson Team Up to Boost Transition to AI-Native 6G Mobile Technology",
-            "description": "[MARKETSCREENER] Intel and Ericsson have teamed up to boost the transition to artificial intelligence-native 6G mobile technology, the companies said Monday. The collaboration aims to help the industry move from...",
-            "url": "https://www.marketscreener.com/news/intel-ericsson-team-up-to-boost-transition-to-ai-native-6g-mobile-technology-ce7e5cdcdf8bf524"
+            "title": "SC takes cognisance of trial court relying on AI-generated 'fake' verdicts",
+            "description": "[THEPRINT] New Delhi, Mar 2 (PTI) Taking cognisance of a trial court relying on alleged non-existing verdicts that were generated with the help of artificial intelligence (AI), the Supreme Court has said a...",
+            "url": "https://theprint.in/india/sc-takes-cognisance-of-trial-court-relying-on-ai-generated-fake-verdicts/2867857/"
         },
         {
-            "title": "Performance, Efficient, and Scalable AI Infrastructure",
-            "description": "[THE TRIBUNE] San Jose (California) [US] / Barcelona [Spain], March 2: Supermicro, Inc. (NASDAQ: SMCI), a Total IT Solution Provider for AI/ML, HPC, Cloud, Storage, and 5G/Edge, is announcing expanded support for...",
-            "url": "https://www.tribuneindia.com/news/business/supermicro-expands-support-for-ai-ran-and-sovereign-ai-solutions-to-deliver-high-performance-efficient-and-scalable-ai-infrastructure/"
+            "title": "Pitching to your boss? At Uber, you rehearse with his AI clone first",
+            "description": "[INDIATIMES] Uber engineers have built an AI version of CEO Dara Khosrowshahi to help teams rehearse presentations before meeting him. The tool predicts his feedback, sharpening ideas in advance. With most...",
+            "url": "https://www.indiatimes.com/trending/pitching-to-your-boss-at-uber-you-rehearse-with-his-ai-clone-first/articleshow/128943467.html"
         },
         {
-            "title": "Women cops from Kasaragod dazzle state capital with Gujarati fusion dance",
-            "description": "[MALAYALA MANORAMA] Women police officers from Kasaragod performed a Gujarati fusion dance at the valedictory session of the National Police Volleyball Cluster Meet in.women police dance performance, Kasaragod police...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/02/kasaragod-women--kerala-police-gujarati-fusion-dance.html"
+            "title": "DOST to launch Naicri - the PH central hub for AI research, advanced computing, innovation",
+            "description": "[THE MANILA TIMES] THE Department of Science and Technology (DOST) formally launched the National Artificial Intelligence (AI) Center for Research and Innovation (Naicri) on Feb. 26, 2026, consolidating years of...",
+            "url": "https://www.manilatimes.net/2026/03/02/tmt-newswire/dost-to-launch-naicri-the-ph-central-hub-for-ai-research-advanced-computing-innovation/2290944"
         },
         {
-            "title": "U.S. Schools Are Betting Big on A.I. Will New York City Be Next?",
-            "description": "[THE NEW YORK TIMES] This could be a pivotal year in shaping what role artificial intelligence plays in American schools. Some families want Mayor Mamdani to hit the brakes.",
-            "url": "https://www.nytimes.com/2026/03/02/nyregion/nyc-ai-schools-mamdani.html"
+            "title": "Gokulam, Calicut to meet in inaugural match of Kerala Premier League on March 8",
+            "description": "[MALAYALA MANORAMA] The Kerala Premier League is the premier men's club football championship in Kerala..Kerala Premier League, KPL 2024, Gokulam Kerala vs Calicut FC, Kerala football league, KPL inaugural match,...",
+            "url": "https://www.onmanorama.com/sports/football/2026/03/02/kerala-premier-league-2026-gokulam-vs-calicut-fc-opener.html"
         },
         {
-            "title": "Bitcoin to Ride Tailwinds If AI Drives Easier Monetary Policy, NYDIG",
-            "description": "[CRYPTO BREAKING NEWS] Bitcoin could gain ground if artificial intelligence reshapes labor markets or creates volatility that nudges central banks toward looser monetary policy,",
-            "url": "https://www.cryptobreaking.com/bitcoin-to-ride-tailwinds-if/"
+            "title": "AI isn\u2019t causing a jobs-pocalypse. At least, not yet",
+            "description": "[CABLE NEWS NETWORK] As if on cue, days after a viral essay warned of an artificial intelligence-fueled economic catastrophe calamity, the payments company Block said it was laying off nearly half its staff. The company...",
+            "url": "https://edition.cnn.com/2026/03/02/business/ai-tech-jobs-layoffs"
         },
         {
-            "title": "China\u2019s Honor shows humanoid and robot phone demo in AI pivot",
-            "description": "[THE STAR] Honor Device Co demonstrated a humanoid robot and its so-called robot phone at MWC Barcelona 2026 on Sunday, as the Chinese device maker seeks to reinvent itself as an artificial intelligence-driven...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/02/chinas-honor-shows-humanoid-and-robot-phone-demo-in-ai-pivot"
+            "title": "SC Takes Cognisance Of Trial Court Relying On AI-Generated 'Fake' Verdicts",
+            "description": "[DAILY EXCELSIOR] New Delhi, Mar 2: Taking cognisance of a trial court relying on alleged non-existing verdicts that were generated with the help of artificial intelligence (AI), the Supreme Court has said a decision...",
+            "url": "https://www.dailyexcelsior.com/sc-takes-cognisance-of-trial-court-relying-on-ai-generated-fake-verdicts/"
         },
         {
-            "title": "Apple To Replace Core ML With Core AI' Framework At WWDC Ahead Of iOS 27 Launch: Report",
-            "description": "[NDTV PROFIT] Apple is reportedly preparing an artificial intelligence revamp at WWDC, including the replacement of Core ML with a rebranded Core AI framework for iOS 27.",
-            "url": "https://www.ndtvprofit.com/technology/apple-to-replace-core-ml-with-core-ai-framework-at-wwdc-ahead-of-ios-27-launch-report-11157332"
+            "title": "Nokia, Deutsche Telekom Team Up to Boost AI-Native Random Access Network Technologies",
+            "description": "[MARKETSCREENER] Nokia and Deutsche Telekom have expanded their collaboration to boost the development of cloud-based, artificial intelligence-native radio access network technologies, the companies said...",
+            "url": "https://www.marketscreener.com/news/nokia-deutsche-telekom-team-up-to-boost-ai-native-random-access-network-technologies-ce7e5cdcde89f724"
         },
         {
-            "title": "Kerala postpones SSLC, Plus Two examinations in Gulf region",
-            "description": "[MALAYALA MANORAMA] Kerala board exams, including SSLC and Higher Secondary, have been postponed in the Gulf region due to the Middle East conflict. This decision aims.Kerala board exams, SSLC exam postponement, Middle...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/02/kerala-board-exam-sslc-plus-two-postponed-gulf.html"
+            "title": "Amazon-Backed Anthropic Threatens to Sue US Over National Security Risk Designation",
+            "description": "[MARKETSCREENER] Amazon-backed Anthropic on Friday threatened to sue the US government after Defense Secretary Pete Hegseth moved to label the artificial intelligence company a supply chain risk to national...",
+            "url": "https://www.marketscreener.com/news/amazon-backed-anthropic-threatens-to-sue-us-over-national-security-risk-designation-ce7e5cdcdf80fe23"
         },
         {
-            "title": "Thiruvananthapuram ready for Attukal Pongala tomorrow: Timings, traffic restrictions, parking spots",
-            "description": "[MALAYALA MANORAMA] In a rare coincidence, the iconic Attukal pongala and the lunar eclipse fall on the same day this year..Attukal Pongala, Attukal Bhagavathy Temple, Pongala rituals, lunar eclipse, Attukal festival,...",
-            "url": "https://www.onmanorama.com/travel/travel-news/2026/03/02/thiruvananthapuram-attukal-pongala-traffic-restrictions-timings-parking.html"
+            "title": "Bhagyathara BT-43 lottery results 02/03/2026 \u20b91 crore first prize for BG 177692 | Check complete list of winners",
+            "description": "[MALAYALA MANORAMA] Kerala lottery results for the Bhagyathara BT-43 draw are now available. Lottery draw took place at Gorky Bhavan, Thiruvananthapuram, and the first.Kerala lottery results, Bhagyathara BT-43, lottery...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/02/kerala-lottery-bhagyathara-bt-43-results.html"
         },
         {
-            "title": "China's annual parliament meet to unveil roadmap for tech race with the West",
-            "description": "[REUTERS] China will outline this week how it plans to push the next phase of its technology race with the West, and convert a wave of high-profile breakthroughs in artificial intelligence, space and robotics...",
-            "url": "https://www.reuters.com/business/autos-transportation/chinas-annual-parliament-meet-unveil-roadmap-tech-race-with-west-2026-03-02/"
+            "title": "Teachers or viral motivational speakers? Who is qualified to counsel children",
+            "description": "[MALAYALA MANORAMA] The schools in Kerala have become the perfect breeding ground for social media influencers, motivational speakers and mentalists..school motivational speaker issues, influencer impact on students, AI...",
+            "url": "https://www.onmanorama.com/health/mental-health/2026/03/02/counselling-children-teachers-viral-motivation-speakers.html"
         }
     ]
 }
