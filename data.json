@@ -1,30 +1,20 @@
 {
-    "updated": "2026-03-03 18:42:08 UTC",
+    "updated": "2026-03-03 20:28:48 UTC",
     "news": [
-        {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
-        },
-        {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
+        },
+        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
-        },
-        {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -37,14 +27,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+        },
+        {
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -57,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
+        },
+        {
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Kerala HC seeks comprehensive roadmap from Chief Secretary to tackle human-wildlife conflict in Aralam & Wayanad",
-            "description": "[MALAYALA MANORAMA] The court had previously criticised the state over the condition of Aralam Farm in Kannur..human wildlife conflict Wayanad, Kerala High Court human wildlife, Wayanad conflict roadmap, human elephant...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/03/kerala-high-court-chief-secretary-roadmap-tackle-human-wildlife-conflict-wayanad-aralam-kannur.html"
+            "title": "Prasoon Joshi Discusses the Impact of AI on Creativity at DNPA Conclave 2026",
+            "description": "[TIMES OF INDIA] At the DNPA Conclave 2026, Prasoon Joshi explores how artificial intelligence is reshaping creativity, ethics, and media consumption, emphasizing its role as an extension of human experience.",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/prasoon-joshi-on-ai-and-creativity-at-dnpa-conclave-2026/articleshow/128961996.cms"
         },
         {
-            "title": "PV Sindhu returns home safe after three-day ordeal in Dubai",
-            "description": "[MALAYALA MANORAMA] India's ace badminton player had been stranded in Dubai due to the suspension of flights following the Middle East crisis..PV Sindhu safe return, PV Sindhu Dubai, badminton player safety, India...",
-            "url": "https://www.onmanorama.com/sports/other-sports/2026/03/03/pv-sindhu-returns-home-from-dubai-middle-east-crisis.html"
+            "title": "Musk\u2019s X and xAI to repay $17.5bn debt",
+            "description": "[THE NEWS INTERNATIONAL] Elon Musk\u2019s social media platform X and artificial intelligence startup xAI plan to repay about $17.5 billion in debt. According to Bloomberg, citing sources, this is because Morgan Stanley,...",
+            "url": "https://www.thenews.com.pk/latest/1394416-musks-x-and-xai-to-repay-175bn-debt"
         },
         {
-            "title": "China's economic ambitions hit limits to growth as its national congress meets",
-            "description": "[DAILY EXCELSIOR] BEIJING, Mar 3: China\u2019s progress in building a modern economy, evident in its kung-fu fighting robots and self-parking cars, is hitting limits as a downturn in its housing industry drags on, small...",
-            "url": "https://www.dailyexcelsior.com/chinas-economic-ambitions-hit-limits-to-growth-as-its-national-congress-meets/"
+            "title": "World Wildlife Day: Cricket great Kumble recalls his fascination for wildlife photography",
+            "description": "[MALAYALA MANORAMA] 'I've always believed that to remain fresh in one's primary profession, one needs to be a rookie in something else - the camera for me,' Kumble said..Anil Kumble wildlife photography, wildlife...",
+            "url": "https://www.onmanorama.com/sports/cricket/2026/03/03/anil-kumble-revisits-fascination-wildlife-photography-on-world-wildlife-day0.html"
         },
         {
-            "title": "Beyond Platforms: Didarul Alam\u2019s Vision for AI-Driven Trade and National Skill Development.",
-            "description": "[TECHBULLION] The world is changing very fast. New machines and smart tools are becoming part of daily life. One of the most powerful tools today is Artificial Intelligence, also called AI. AI can learn from data....",
-            "url": "https://techbullion.com/beyond-platforms-didarul-alams-vision-for-ai-driven-trade-and-national-skill-development/"
+            "title": "US agencies switch to OpenAI after White House orders Anthropic exit",
+            "description": "[FIRSTPOST] Three more US cabinet-level agencies have switched to OpenAI after a White House directive ordered the phase-out of Anthropic\u2019s AI tools, expanding a federal shift that began with the Pentagon and...",
+            "url": "https://www.firstpost.com/tech/us-agencies-switch-to-openai-after-white-house-orders-anthropic-exit-13985795.html"
         },
         {
-            "title": "Elon Musk's X, xAI plan to repay $17.5 billion in debt in full: Report",
-            "description": "[THE HINDU] Elon Musk\u2019s social media platform X and artificial \u200cintelligence startup xAI plan to repay in full about $17.5 \u200bbillion in debt tied to the \u2060companies, Bloomberg News reported",
-            "url": "https://www.thehindu.com/sci-tech/technology/elon-musks-x-xai-plan-to-repay-175-billion-in-debt-in-full-report/article70697823.ece"
+            "title": "Reimagining tax compliance with AI, data integrity, and intelligent reporting",
+            "description": "[THE ECONOMIC TIMES] As tax compliance shifts from rule-based adherence to intelligent reporting, building trust and transparency emerge as critical. Heres a deep dive into the evolving role of tax leaders in the era of...",
+            "url": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/reimagining-tax-compliance-with-ai-data-integrity-and-intelligent-reporting/articleshow/128962190.cms"
         },
         {
-            "title": "For Kasaragod NH 66 widening, families say NHAI took more land but paid less money",
-            "description": "[MALAYALA MANORAMA] The family allege that they were not only underpaid for their land, but that more land was taken than what they were compensated for..Kasaragod land acquisition, NH 66 land compensation, land...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/03/kasaragod-national-highway-widening-families-more-land-less-money.html"
+            "title": "Nvidia to invest $4B into 2 optics firms",
+            "description": "[ARKANSAS ONLINE] Nvidia Corp. agreed to invest $4 billion in two companies that develop data center optics that are essential for artificial intelligence systems.",
+            "url": "https://www.arkansasonline.com/news/2026/mar/03/nvidia-to-invest-4b-into-2-optics-firms/"
         },
         {
-            "title": "How AI Overuse Creates \u2018Cognitive Debt\u2019 Without Us Noticing",
-            "description": "[DECCAN CHRONICLE] As artificial intelligence becomes a daily tool for writing, art, and problem-solving, researchers warn that excessive reliance may quietly weaken human thinking, memory, and creativity.",
-            "url": "https://www.deccanchronicle.com/technology/in-other-news/how-ai-overuse-creates-cognitive-debt-without-us-noticing-1941113"
+            "title": "Alappuzha man kills daughter by poisioning drink, dies after consuming it",
+            "description": "[MALAYALA MANORAMA] Manikandan says that while Manoj, who ran an M Sand business, had debts, he never shared them with others..poisoned juice deaths, father poisons daughters, child poisoned juice, tragic family...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/03/poisoned-father-poisons-daughters.html"
         },
         {
-            "title": "Middle East tensions: Airlines resume select operations from Saudi, UAE",
-            "description": "[MALAYALA MANORAMA] The Civil Aviation Ministry on Monday evening said that IndiGo plans to operate 10 special relief flights from Jeddah (Saudi Arabia) to various.Middle East airline operations, airline flight...",
-            "url": "https://www.onmanorama.com/travel/travel-news/2026/03/03/airline-flights-resume-suspensions-middle-east.html"
+            "title": "Samsung rolls out more AI, new privacy shield mode with the new Galaxy S26 lineup",
+            "description": "[THE HINDU] Samsung unveiled its latest Galaxy smartphones, which boast an even bigger toolbox of artificial intelligence technology",
+            "url": "https://www.thehindu.com/sci-tech/technology/gadgets/samsung-rolls-out-more-ai-new-privacy-shield-mode-with-the-new-galaxy-s26-lineup/article70697813.ece"
         },
         {
-            "title": "Harsh Goenka\u2019s AI warning raises alarm over 9 jobs amid rapid tech change: 'Some jobs won\u2019t exist... be prepared..'",
-            "description": "[TIMES OF INDIA] Tech News News: Artificial intelligence is no longer limited to research labs or tech companies. It is now being used in offices, factories, banks, and customer servi.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/harsh-goenkas-ai-warning-raises-alarm-over-9-jobs-amid-rapid-tech-change-some-jobs-wont-exist-be-prepared-/articleshow/128959724.cms"
+            "title": "From virtual K-pop stars to storytelling apps, AI reshapes life in South Korea",
+            "description": "[CNA] But as artificial intelligence tools become more sophisticated and widespread, experts warn of potential risks like deepfakes.",
+            "url": "https://www.channelnewsasia.com/east-asia/south-korea-seoul-ai-virtual-kpop-stars-storytelling-apps-risks-5966331"
         },
         {
-            "title": "Computer Science and Engineering makes strong debut as top choice at IIT Bhilai",
-            "description": "[THE INDIAN EXPRESS] Data Science and Artificial Intelligence (DSAI) also recorded robust growth, with choice counts increasing from 10,637 to 13,097 \u2014 an increase of over 23 per cent.",
-            "url": "https://indianexpress.com/article/education/computer-science-and-engineering-strong-debut-as-top-choice-at-iit-bhilai-jeemain-2026-jee-advanced-10561737/"
+            "title": "Tech stocks you should never fear in turbulent times",
+            "description": "[MARKETSCREENER] Between lingering questions around artificial intelligence and the flare-up of the conflict in the Middle East, the technology sector seems harder to read. During these periods of uncertainty, it...",
+            "url": "https://www.marketscreener.com/news/tech-stocks-you-should-never-fear-in-turbulent-times-ce7e5cddde8bf225"
         }
     ]
 }
