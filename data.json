@@ -1,15 +1,15 @@
 {
-    "updated": "2026-03-03 14:41:18 UTC",
+    "updated": "2026-03-03 16:41:53 UTC",
     "news": [
-        {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
             "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
+        },
+        {
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
-        },
-        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
+        },
+        {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,9 +37,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+        },
+        {
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "How AI tools can redefine universal design to increase accessibility",
@@ -52,19 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Senate\u2019s Wyden Pledges Battle Over Pentagon Ban on Anthropic",
-            "description": "[BLOOMBERG] Congressional Democrats are vowing to contest the Trump administration\u2019s unprecedented actions against the artificial intelligence giant Anthropic PBC, which include a prohibition on all use in the...",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-03/senate-s-wyden-pledges-battle-over-pentagon-ban-on-anthropic"
+            "title": "Qualcomm's New Personal AI Platform Uses STMicroelectronics' Components",
+            "description": "[MARKETSCREENER] STMicroelectronics said Monday its components were used in the development of Qualcomm Technologies' new personal artificial intelligence platform, Snapdragon Wear Elite. The semiconductor...",
+            "url": "https://www.marketscreener.com/news/qualcomm-s-new-personal-ai-platform-uses-stmicroelectronics-components-ce7e5cdddf89f423"
         },
         {
-            "title": "Jack Dorsey\u2019s 4,000 job cuts at Block arouse suspicions of AI-washing",
-            "description": "[THE STAR] When Block Inc laid off nearly half its staff recently, co-founder Jack Dorsey offered a seemingly simple explanation: artificial intelligence was allowing the company to do more with fewer employees.",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/03/jack-dorseys-4000-job-cuts-at-block-arouse-suspicions-of-ai-washing"
+            "title": "Kannur court to consider KSU activists' bail plea over alleged attack on Minister Veena George today",
+            "description": "[MALAYALA MANORAMA] hey alleged that the charges were intended to keep the youths in custody..Kannur bail plea, KSU activists bail, Veena George attack, Judicial First Class Magistrate Court Kannur, bail hearing Kannur,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/03/kannur-court-ksu-activists-bail-plea-attack-minister-veena-george.html"
         },
         {
-            "title": "Meta Tests AI Shopping Research Tool to Rival ChatGPT, Gemini",
-            "description": "[BLOOMBERG] Meta Platforms Inc. is testing a shopping research feature in its artificial intelligence chatbot, rivaling a similar tool offered by OpenAI\u2019s ChatGPT and Google\u2019s Gemini.",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-03/meta-tests-ai-shopping-research-tool-to-rival-chatgpt-gemini"
+            "title": "AI anxiety as job cuts pinned to efficiency improvements",
+            "description": "[THE HERALD] Jack Dorsey has been accused of \"AI-washing\" job cuts at Block, but artificial intelligence will reshape some of Scotland's most valuable\u2026",
+            "url": "https://www.heraldscotland.com/news/25899441.ai-anxiety-job-cuts-pinned-efficiency-improvements/"
         },
         {
-            "title": "Attukal Pongala today: Lakhs of women devotees throng Thiruvananthapuram",
-            "description": "[MALAYALA MANORAMA] Thousands of women devotees have gathered in Thiruvananthapuram for the annual Attukal Pongala festival, a significant ritual performed exclusively.Attukal Pongala, Kerala festival, women devotees,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/03/attukal-pongala-kerala-festival-thiruvananthapuram-updates.html"
+            "title": "Sacred recipes of Attukal Pongala",
+            "description": "[MALAYALA MANORAMA] At Attukal Pongala, cooking is not confined to a temple kitchen. It spills into streets and courtyards, as lakhs of women prepare sacred offerings in.Attukal Pongala, Thiruvananthapuram festival,...",
+            "url": "https://www.onmanorama.com/food/features/2026/03/03/attukal-pongala-festival-sacred-offerings-cooking-tradition.html"
         },
         {
-            "title": "AI's Rapid Rise: Cybersecurity and Lifestyle Changes",
-            "description": "[ITWIRE] Artificial intelligence has changed so much. A few decades ago, we thought AI would mean having moving robots around the house. Few of us accurately i...",
-            "url": "https://itwire.com/guest-articles/guest-opinion/ai-s-rapid-rise-cybersecurity-and-lifestyle-changes.html"
+            "title": "Veteran Congress leader KP Unnikrishnan, who broke with Indira Gandhi and sparked the \u2018Co-Li-Bi\u2019 discourse, dies at 90",
+            "description": "[MALAYALA MANORAMA] Despite aligning with the Congress, Unnikrishnan remained deeply influenced by the socialist ideals of Jawaharlal Nehru..K P Unnikrishnan passes away, K P Unnikrishnan death, veteran Congress leader...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/03/former-union-minister-kp-unnikrishnan-death.html"
         },
         {
-            "title": "News Corp CEO predicts record 2026 profits amid AI wipeout",
-            "description": "[AUSTRALIAN FINANCIAL REVIEW] The Murdoch-controlled media and real estate conglomerate has become an \u201cinput\u201d company for artificial intelligence platforms, says Robert Thomson.",
-            "url": "https://www.afr.com/companies/media-and-marketing/news-corp-ceo-predicts-record-2026-profits-amid-ai-wipeout-20260303-p5o6yn"
+            "title": "Sudhir Chaudhary Discusses the Evolution of Indian Television Journalism and AI at DNPA Conclave 2026",
+            "description": "[TIMES OF INDIA] At the DNPA Conclave 2026, Sudhir Chaudhary reflects on the transformation of Indian television journalism, the rise of digital news platforms, and the impact of artificial intelligence on media...",
+            "url": "https://timesofindia.indiatimes.com/tv/news/sudhir-chaudhary-looks-back-at-tv-news-revolution-digital-shift-and-ai-debate-at-dnpa-conclave-2026/articleshow/128958587.cms"
         },
         {
-            "title": "Peter Thiel Once Explained Why His Intuition On AI Defies Mainstream Thinking: 'Worse For The Math People Than The Word People'",
-            "description": "[BENZINGA] Peter Thiel argues that advances in artificial intelligence could shift societal power structures by reducing the dominance of math-based credentials, potentially favoring \"word skills\" instead,...",
-            "url": "https://www.benzinga.com/markets/tech/26/03/50990014/peter-thiel-once-explained-why-his-intuition-on-ai-defies-mainstream-thinking-worse-for-the-math-people-than-the-word-people"
+            "title": "AI disinformation turns Nepal polls into 'digital battleground'",
+            "description": "[THE ECONOMIC TIMES] Parties across the political divide are tapping social media to push their agendas and woo voters, especially the young, including a surge of people registering to cast their ballot for the first...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-disinformation-turns-nepal-polls-into-digital-battleground/articleshow/128958607.cms"
         },
         {
-            "title": "US tells citizens to leave Gulf as drone strike hits Riyadh embassy; Indian missions issue travel advisories",
-            "description": "[MALAYALA MANORAMA] The conflict between Israel, the United States, and Iran has widened across the Gulf with drone attacks on the US Embassy in Riyadh and reports of a.Israel Iran conflict, US Iran tensions, Gulf...",
-            "url": "https://www.onmanorama.com/news/world/2026/03/03/israel-iran-conflict-escalation-us-embassy-saudi-arabia-india-travel-advisory-live.html"
+            "title": "MIT AI learning courses: Check list of beginner, advanced and research-focused programmes",
+            "description": "[TIMES OF INDIA] News News: Artificial Intelligence is no longer a niche field limited to computer science labs. From search engines and recommendation systems to healthcare diag.",
+            "url": "https://timesofindia.indiatimes.com/education/news/mit-offers-free-ai-learning-courses-check-list-of-beginner-advanced-and-research-focused-programmes/articleshow/128958487.cms"
         },
         {
-            "title": "I run Xero. These are my business lessons to win the AI game",
-            "description": "[AUSTRALIAN FINANCIAL REVIEW] Operational history shows that \u201ctransformers\u201d such as Google often win by learning from pioneers. Here is how to time the artificial intelligence shift.",
-            "url": "https://www.afr.com/technology/i-run-xero-these-are-my-business-lessons-to-win-the-ai-game-20260301-p5o6d1"
+            "title": "Anthropic Tries To Win Users From ChatGPT With Memory Feature",
+            "description": "[NDTV.COM] Anthropic PBC's artificial intelligence chatbot Claude will be able to recall context across conversations for free users, as the company seeks to hang on to new consumers who have created...",
+            "url": "https://www.ndtv.com/world-news/anthropic-tries-to-win-users-from-chatgpt-with-memory-feature-11161538"
         },
         {
-            "title": "Amazon data center unit acquires George Washington University Virginia campus",
-            "description": "[THE STAR] WASHINGTON, March \u20602 (Reuters) - Amazon unit Amazon Data Services is acquiring George \u2060Washington University's Virginia Science and Technology campus for $427 million, \u200cthe university said on Monday,...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/03/amazon-data-center-unit-acquires-george-washington-university-virginia-campus"
+            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - U.S. Government Expands Anthropic AI Boycott Amid National Security Concerns",
+            "description": "[DEVDISCOURSE] Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all...",
+            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life"
         }
     ]
 }
