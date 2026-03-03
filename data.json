@@ -1,6 +1,11 @@
 {
-    "updated": "2026-03-03 04:12:02 UTC",
+    "updated": "2026-03-03 06:45:16 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
         {
             "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
             "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
@@ -17,14 +22,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
+        },
+        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
-        },
-        {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -62,11 +67,6 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Apple launches cheaper iPhone 17e in push to boost iPhone sales",
-            "description": "[ABC17NEWS.COM] By Lisa Eadicicco, CNN (CNN) \u2014 Apple announced Monday a lower-priced version of the iPhone 17, expanding its smartphone lineup as it relies on its blockbuster product to stave off concerns the...",
-            "url": "https://abc17news.com/money/cnn-business-consumer/2026/03/02/apple-launches-cheaper-iphone-17e-in-push-to-boost-iphone-sales/"
+            "title": "After 33 years, it\u2019s time to say goodbye to Real Estate Matters (part two)",
+            "description": "[BALTIMORE SUN] Artificial intelligence isn\u2019t just another technology shift. It\u2019s a fundamental restructuring of how homes are built, discovered, bought, sold and managed. And it\u2019s happening right now, almost at the...",
+            "url": "https://www.baltimoresun.com/2026/03/02/after-33-years-its-time-to-say-goodbye-to-real-estate-matters-part-two/"
         },
         {
-            "title": "Apple launches cheaper iPhone 17e in push to boost iPhone sales",
-            "description": "[CABLE NEWS NETWORK] Apple announced Monday a lower-priced version of the iPhone 17, expanding its smartphone lineup as it relies on its blockbuster product to stave off concerns the company is falling behind in...",
-            "url": "https://edition.cnn.com/2026/03/02/tech/apple-iphone-17e-launch"
+            "title": "AI in health care, CORA and gun bills",
+            "description": "[THE DENVER POST] Bills to rein in artificial intelligence in health care, 3D-printed guns, CORA and captive audience pricing on docket at Colorado legislature.",
+            "url": "https://www.denverpost.com/2026/03/02/ai-in-health-care-cora-colorado-legislature/"
         },
         {
-            "title": "Keysight and Samsung Demonstrate End-to-End AI-RAN Validation Workflow with NVIDIA",
-            "description": "[BUSINESS WIRE] Joint demonstration at MWC 2026 streamlines data collection, AI and machine learning training, and benchmarking for AI-driven RAN modules.",
-            "url": "https://www.businesswire.com/news/home/20260302272970/en/Keysight-and-Samsung-Demonstrate-End-to-End-AI-RAN-Validation-Workflow-with-NVIDIA"
+            "title": "U.S. Supreme Court declines to hear AI copyright case",
+            "description": "[SOCIAL MEDIA TODAY] The decision upheld a lower court ruling that artificial intelligence-generated content does not have the same legal protections as human-created work.",
+            "url": "https://www.socialmediatoday.com/news/us-supreme-court-declines-to-hear-ai-copyright-case/813574/"
         },
         {
-            "title": "Anthropic's Claude AI remains top free app on Apple US App Store 2 days after Donald Trump \u2018bans\u2019 company's AI tech",
-            "description": "[TIMES OF INDIA] Tech News News: Anthropic's Claude artificial intelligence app rocketed to the top of Apple's US free app rankings late Saturday (February 28) and has remained at the.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropics-claude-ai-remains-top-free-app-on-apple-us-app-store-2-days-after-donald-trump-bans-companys-ai-tech/articleshow/128950346.cms"
+            "title": "Are Software Stocks About to Become the Latest Victim of Wall Street\u2019s AI Boom?",
+            "description": "[BARCHART] The disruptive potential of artificial intelligence appears to have sparked a widespread sell-off of software stocks. Are investor fears justified?",
+            "url": "https://www.barchart.com/story/news/515218/are-software-stocks-about-to-become-the-latest-victim-of-wall-streets-ai-boom"
         },
         {
-            "title": "Supreme Court Declines to Hear Dispute Over AI Material",
-            "description": "[NEWSMAX] The Supreme Court declined on Monday to take up the issue of whether art generated by artificial intelligence can be copyrighted under U.S. law, turning away a case involving a computer scientist...",
-            "url": "https://www.newsmax.com/us/ai-artificial-intelligence-supreme-court/2026/03/02/id/1247968/"
+            "title": "Are Software Stocks About to Become the Latest Victim of Wall Street\u2019s AI Boom?",
+            "description": "[BARCHART] The disruptive potential of artificial intelligence appears to have sparked a widespread sell-off of software stocks. Are investor fears justified?",
+            "url": "https://www.barchart.com/story/news/515217/are-software-stocks-about-to-become-the-latest-victim-of-wall-streets-ai-boom"
         },
         {
-            "title": "When should AI companies alert police? What the Tumbler Ridge tragedy reveals about regulating AI",
-            "description": "[CBC.CA] Can AI systems reliably detect real threats? And where\u2019s the line between safety and privacy? Following the mass shooting in Tumbler Ridge, B.C., questions are mounting about what artificial...",
-            "url": "https://www.cbc.ca/news/canada/british-columbia/ai-implications-tumbler-ridge-bc-mass-shooting-explainer-9.7110251"
+            "title": "U.S. Supreme Court rejects AI copyright case: No human, no copyright",
+            "description": "[TECHSTARTUPS.COM] The U.S. Supreme Court just sidestepped one of the biggest legal questions hanging over generative AI. On Monday, the justices declined to hear a closely watched case that asked whether artwork...",
+            "url": "https://techstartups.com/2026/03/02/u-s-supreme-court-rejects-ai-copyright-case-no-human-no-copyright/"
         },
         {
-            "title": "Should you be using AI for performance reviews?",
-            "description": "[FAST COMPANY] An increasing number of companies are using artificial intelligence to evaluate employee performance. Here are four ways this can play out.",
-            "url": "https://www.fastcompany.com/91496853/should-you-using-ai-performance-reviews"
+            "title": "Musk\u2019s xAI to Buy Back $3 Billion of Debt Early in Run-Up to IPO",
+            "description": "[BLOOMBERG] Elon Musk\u2019s artificial intelligence startup xAI is planning to pay back $3 billion of junk bonds early, according to people with knowledge of the matter and data compiled by Bloomberg.",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-02/musk-s-xai-to-buy-back-3-billion-of-debt-early-in-run-up-to-ipo"
         },
         {
-            "title": "US Supreme Court declines to hear dispute over copyrights for AI",
-            "description": "[THE ECONOMIC TIMES] The US Supreme Court has refused to consider a case about copyright for art created by artificial intelligence. A computer scientist sought copyright for AI-generated visual art, but lower courts...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-supreme-court-declines-to-hear-dispute-over-copyrights-for-ai-generated-material/articleshow/128949733.cms"
+            "title": "Student Innovators Win National Recognition for AI-Powered Skin Health App",
+            "description": "[DEVDISCOURSE] Students from a private school in Ahmedabad developed Derma Vision, an AI-based skin health application that identified skin conditions in a community screening. The app won the Best Innovative Idea...",
+            "url": "https://www.devdiscourse.com/article/health/3823953-student-innovators-win-national-recognition-for-ai-powered-skin-health-app"
         },
         {
-            "title": "US Supreme Court declines to hear dispute over copyrights for AI-generated material",
-            "description": "[THE STAR] WASHINGTON, March 2 (Reuters) - The U.S. \u2060Supreme Court declined on Monday to take up the issue of whether art generated by \u2060artificial intelligence can be copyrighted under U.S. law, turning away a...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/02/us-supreme-court-declines-to-hear-dispute-over-copyrights-for-ai-generated-material"
+            "title": "AI in every backpack: Most US teens now study, search and shape their futures with chatbots",
+            "description": "[TIMES OF INDIA] News News: Classrooms across the United States now hum with a new, largely invisible presence. Artificial intelligence is open on laptops, active on smartphones,.",
+            "url": "https://timesofindia.indiatimes.com/education/news/ai-in-every-backpack-most-us-teens-now-study-search-and-shape-their-futures-with-chatbots/articleshow/128948165.cms"
         },
         {
-            "title": "US Supreme Court declines to hear dispute over copyrights for AI-generated material",
-            "description": "[REUTERS] The U.S. Supreme Court declined on Monday to take up the \u200bissue of whether art generated by artificial intelligence can be copyrighted under U.S. law, turning \u200caway a case involving a computer...",
-            "url": "https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/"
+            "title": "Perplexity asks court to trim New York Times copyright case",
+            "description": "[REUTERS] Perplexity AI has asked a U.S. judge to dismiss a series of claims in lawsuits brought against it by the New York Times and the Chicago Tribune, arguing \u200bthat its artificial intelligence-powered...",
+            "url": "https://www.reuters.com/legal/government/perplexity-asks-court-trim-new-york-times-copyright-case-2026-03-02/"
         }
     ]
 }
