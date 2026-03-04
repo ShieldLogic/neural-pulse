@@ -1,72 +1,130 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-03-04 11:52 UTC",
+    "updated": "2026-03-04 12:48:36 UTC",
     "news": [
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
-            "description": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale campaigns\" involved the creation of around 24,000 fraudule\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-23T20:22:55Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDeepSeek allegedly targeted Claudes reasoning capabilities, while generating censorship-safe alternatives to politically sensitive questions.\r\nDeepSeek allegedly\u2026 [+3056 chars]"
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "\u2018Compute Equals Revenues\u2019: Nvidia Needs Jensen Huang\u2019s New Catchphrase to Be True",
-            "description": "Here's everything you need to know from Nvidia's latest earnings call.",
-            "url": "https://gizmodo.com/compute-equals-revenues-nvidia-needs-jensen-huangs-new-catchphrase-to-be-true-2000726841",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/GettyImages-2256813174-1200x675.jpg",
-            "publishedAt": "2026-02-26T02:05:12Z",
-            "content": "Nvidia reported earnings on Wednesday, and as expected, the numbers were good. Really good. The company gets more than 91% of its sales from its data center unit, which generated revenue of $193,737 \u2026 [+5032 chars]"
+            "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
+            "description": "[RESEARCH] Algorithms & Theory",
+            "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Meta\u2019s new deal with Nvidia buys up millions of AI chips",
-            "description": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Gr\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-18T00:27:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias starting to sell AI CPUs for use by themselves for the first time.\r\nNvidias starting to sell AI CPUs for use by themselves for the first time.\r\nby\r\nStevi\u2026 [+2390 chars]"
+            "title": "Teaching AI to read a map",
+            "description": "[RESEARCH] Machine Perception",
+            "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Nvidia\u2019s spending $4 billion on photonics to stay ahead of the curve in AI",
-            "description": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds ove\u2026",
-            "url": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-02T16:56:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOptical tech from Lumentum and Coherent could be key to connecting the GPUs inside AI data centers.\r\nOptical tech from Lumentum and Coherent could be key to conn\u2026 [+2743 chars]"
+            "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
+            "description": "[RESEARCH] Human-Computer Interaction and Visualization",
+            "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "New Research Shows AI Agents Are Running Wild Online, With Few Guardrails in Place",
-            "description": "And this research was conducted before OpenClaw unleashed a monster.",
-            "url": "https://gizmodo.com/new-research-shows-ai-agents-are-running-wild-online-with-few-guardrails-in-place-2000724181",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/01/1dc6923c384afd18fda43a99e153a907.jpg",
-            "publishedAt": "2026-02-20T01:00:50Z",
-            "content": "In the last year, AI agents have become all the rage. OpenAI, Google, and Anthropic all launched public-facing agents designed to take on multi-step tasks handed to them by humans. In the last month,\u2026 [+5537 chars]"
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
+        },
+        {
+            "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
+            "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
+            "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
+        },
+        {
+            "title": "Whole-Body Conditioned Egocentric Video Prediction",
+            "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
+            "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+        },
+        {
+            "title": "How AI tools can redefine universal design to increase accessibility",
+            "description": "[RESEARCH] Education Innovation",
+            "url": "https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/"
+        },
+        {
+            "title": "RL without TD learning",
+            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
+            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
+        },
+        {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
+            "title": "How AI trained on birds is surfacing underwater mysteries",
+            "description": "[RESEARCH] Climate & Sustainability",
+            "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
+        },
+        {
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+        },
+        {
+            "title": "What exactly does word2vec learn?",
+            "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
+            "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
+            "description": "[BAIR] Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the...",
+            "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
+        },
+        {
+            "title": "Underused GPUs raise questions about IndiaAI capacity build",
+            "description": "[THE ECONOMIC TIMES] The long deployment timeframe, slow allocation process and financial constraints of end-user companies have resulted in poor utilisation of GPUs (Graphics Processing Units) that are allocated under...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/underused-gpus-raise-questions-about-indiaai-capacity-build-out/articleshow/128981840.cms"
+        },
+        {
+            "title": "Altman Tells Staff OpenAI Has No Say Over Pentagon Decisions",
+            "description": "[BLOOMBERG] OpenAI Chief Executive Officer Sam Altman told employees that the company doesn\u2019t get to make the call about what the Defense Department does with its artificial intelligence software and suggested...",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-04/altman-tells-staff-openai-has-no-say-over-pentagon-decisions"
+        },
+        {
+            "title": "Elon Musk\u2019s xAI Plans to Fully Repay $17.5B in Outstanding Debt",
+            "description": "[MARKETS INSIDER] Elon Musk\u2019s social media platform X and his artificial intelligence company xAI are reportedly planning to fully repay about $17.5 billion in ou...",
+            "url": "https://markets.businessinsider.com/news/stocks/elon-musk-s-xai-plans-to-fully-repay-17-5b-in-outstanding-debt-1035894065"
+        },
+        {
+            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Pentagon's AI Ban Sparks Industry Compliance Amid Legal Uncertainty",
+            "description": "[DEVDISCOURSE] Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all...",
+            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life"
+        },
+        {
+            "title": "Less than half of public say they will use new NHS App's 'doctor in your pocket' feature",
+            "description": "[DAILY MAIL ONLINE] The health secretary pledged last year that future updates would use artificial intelligence to answer users' medical questions and bring the service into the 21st century.",
+            "url": "https://www.dailymail.co.uk/news/article-15611091/Dont-trust-Im-AI-doctor-half-public-say-use-new-NHS-Apps-doctor-pocket-feature.html"
+        },
+        {
+            "title": "How AI can now tell sex of baby three DAYS into pregnancy by spotting tiny differences in embryos",
+            "description": "[THE SUN] ARTIFICIAL intelligence could reveal the gender of a baby as early as three days after fertilisation, scientists reckon. The AI tech was more...",
+            "url": "https://www.thesun.co.uk/health/38400848/ai-tells-baby-sex-three-days-pregnancy/"
+        },
+        {
+            "title": "APU\u2019s MBAi: Shaping business leaders for the AI era",
+            "description": "[THE STAR] IN TODAY'S fast-moving global economy, artificial intelligence (AI) has moved from the margins of innovation to the centre of business decision-making.",
+            "url": "https://www.thestar.com.my/starpicks/2026/03/04/apus-mbai-shaping-business-leaders-for-the-ai-era"
+        },
+        {
+            "title": "Artificial intelligence detects high breast cancer risk in women given all",
+            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] A new Australian artificial intelligence tool could transform breast cancer screening by offering a more personalised and accurate way to identify risk.",
+            "url": "https://www.abc.net.au/news/2026-03-04/artificial-intelligence-breast-cancer-risk-mammogram/106411246"
+        },
+        {
+            "title": "Policymakers Need to Tolerate Higher Inflation Through AI Adjustment, Bank of Canada Research Says",
+            "description": "[MARKETSCREENER] By Paul Vieira OTTAWA--Bank of Canada policymakers might have to tolerate elevated inflation to help the economy adjust to the wider adoption of artificial intelligence, according to new central...",
+            "url": "https://www.marketscreener.com/news/policymakers-need-to-tolerate-higher-inflation-through-ai-adjustment-bank-of-canada-research-says-ce7e5cd3d98ff224"
+        },
+        {
+            "title": "Why I'm betting big on these 2 ASX shares in the age of AI",
+            "description": "[THE MOTLEY FOOL AUSTRALIA] These 2 ASX shares could be the right picks to buy with the uncertainty in the age of artificial intelligence (AI).",
+            "url": "https://www.fool.com.au/2026/03/04/why-im-betting-big-on-these-2-asx-shares-in-the-age-of-ai/"
         }
     ]
 }
