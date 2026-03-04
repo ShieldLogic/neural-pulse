@@ -1,10 +1,10 @@
 {
-    "updated": "2026-03-04 04:06:25 UTC",
+    "updated": "2026-03-04 06:41:36 UTC",
     "news": [
         {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
         },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
@@ -17,14 +17,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
+        },
+        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
-        },
-        {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -35,6 +35,11 @@
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "Building a Simple MCP Server in Python",
+            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
+            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
             "title": "Choosing Between PCA and t-SNE for Visualization",
@@ -62,11 +67,6 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "BITS Pilani Opens Applications For PG Certificate In AI And Machine Learning",
-            "description": "[NDTV.COM] BITS Pilani has opened admissions for its 11-month online PG Certificate in AI and Machine Learning starting April 2026, targeting technology professionals seeking career advancement.",
-            "url": "https://www.ndtv.com/education/bits-pilani-opens-applications-for-pg-certificate-in-ai-and-machine-learning-11164795"
+            "title": "SMEs see artificial intelligence potential but \u2018fail to capitalise on new tech\u2019",
+            "description": "[THE IRISH TIMES] Fear of making mistakes, lack of skills and cost behind reluctance to adopt new technology",
+            "url": "https://www.irishtimes.com/business/2026/03/03/smes-see-artificial-intelligence-potential-but-fail-to-capitalise-on-new-tech/"
         },
         {
-            "title": "Denver's low snow won't delay Waymo robotaxi launch",
-            "description": "[THE DENVER POST] Denver\u2019s low-snow winter won\u2019t delay Waymo's opening of robotaxi service to riders because their AI machine-learning system draws data from other cities that had heavier snowfall.",
-            "url": "https://www.denverpost.com/2026/03/03/waymo-denver-autonomous-self-driving-taxis/"
+            "title": "Here\u2019s how AI translates brain signals into words",
+            "description": "[THE NEWS INTERNATIONAL] Artificial intelligence and neuroscience are getting closer to making human thoughts speak and show themselves in images. This gives new hope to people suffering from paralysis or speech disorders....",
+            "url": "https://www.thenews.com.pk/latest/1394476-heres-how-ai-turns-thoughts-into-speech-and-images"
         },
         {
-            "title": "Private credit is sickly - Banks aren\u2019t the cure",
-            "description": "[THE STAR] Private credit firms are facing a major test, with mom-and-pop investors pulling their cash in fear of corporate defaults spiking and artificial intelligence (AI) destroying many of the software...",
-            "url": "https://www.thestar.com.my/business/insight/2026/03/04/private-credit-is-sickly---banks-arent-the-cure"
+            "title": "The questions we are not yet asking of AI",
+            "description": "[THE NEW INDIAN EXPRESS] We are celebrating artificial intelligence without understanding how it redefines democracy. It can infuse a polity with creative imagination if common people c",
+            "url": "https://www.newindianexpress.com/opinion/2026/Mar/03/the-questions-we-are-not-yet-asking-of-ai"
         },
         {
-            "title": "Brain-dead 19-year-old student give new life to 4",
-            "description": "[MALAYALA MANORAMA] The student, Jasliya Johnson, was hit by a car on February 28 in Angamaly, suffering severe head injuries..organ donation Kochi, Jasliya Johnson organ donation, save lives Kochi, brain dead organ...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/03/kochi-19-year-old-organ-donation-saves-four-lives.html"
+            "title": "AI could be giving US lethal edge in Iran war - but there are dangers",
+            "description": "[SKY NEWS] Artificial intelligence can parse vast amounts of data and use it to flag targets, rank threats and suggest priorities. But experts are worried human oversight could be eroded to a dangerous form of...",
+            "url": "https://news.sky.com/story/ai-could-be-giving-us-lethal-edge-in-iran-war-but-there-are-dangers-13514784"
         },
         {
-            "title": "Amazon Weighs Helping Other Apps Sell Chatbot Ads",
-            "description": "[MARKETSCREENER] Amazon is mulling offering its technology to help other apps and websites sell ads on artificial intelligence chatbots, potentially supporting its ads business amid increased usage of chatbots,...",
-            "url": "https://www.marketscreener.com/news/amazon-weighs-helping-other-apps-sell-chatbot-ads-ce7e5cd2da81f127"
+            "title": "X to impose 90-day revenue ban for undisclosed AI-generated videos",
+            "description": "[INDIA TODAY] The announcement comes amid concerns over the misleading visuals during wartime, particularly as artificial intelligence tools make it easier to generate realistic but doctored footage.",
+            "url": "https://www.indiatoday.in/technology/story/x-creator-revenue-sharing-penalties-ai-generated-videos-armed-conflicts-2877203-2026-03-03"
         },
         {
-            "title": "IIT Kharagpur's New AI School Redefines Digital Learning",
-            "description": "[DEVDISCOURSE] IIT Kharagpur has launched the Jyoti Chatterjee School of Digital Engineering, focusing on applied AI and machine learning. Supported by a $5 million donation, this initiative aims to integrate AI...",
-            "url": "https://www.devdiscourse.com/article/technology/3824955-iit-kharagpurs-new-ai-school-redefines-digital-learning"
+            "title": "Unbeaten South Africa eye T20 World Cup final spot, but resilient New Zealand stand in their way",
+            "description": "[MALAYALA MANORAMA] South Africa is the only unbeaten team in the Twenty20 World Cup heading into their semi-final against New Zealand..South Africa T20 World Cup, New Zealand cricket semi-final, T20 World Cup knockout...",
+            "url": "https://www.onmanorama.com/sports/cricket/2026/03/03/south-africa-new-zealand-t20-world-cup-semi-final-preview.html"
         },
         {
-            "title": "Salesforce, Formula 1 Launch AI Fan Agent",
-            "description": "[BENZINGA] Salesforce Inc (CRM) and Formula 1 \u2014 tracked through Liberty Media Corp (LLYVK) \u2014 announced Monday the launch of a new artificial intelligence-powered fan companion agent, deepening a multi-year...",
-            "url": "https://www.benzinga.com/markets/tech/26/03/50999999/salesforce-formula-1-launch-ai-fan-agent"
+            "title": "Qualcomm CEO predicts 2026 will be the year of the AI agent",
+            "description": "[THE MERCURY NEWS] Qualcomm Inc. Chief Executive Officer Cristiano Amon, speaking this week at the MWC Barcelona conference, said the incoming tide of artificial intelligence agents will transform the wider digital...",
+            "url": "https://www.mercurynews.com/2026/03/03/qualcomm-ceo-predicts-2026-will-be-the-year-of-the-ai-agent/"
         },
         {
-            "title": "Lenovo's AI Robot Concept Might Be Our First Look At Apple's Next Product Line",
-            "description": "[BGR] Lenovo has unveiled a look at its latest artificial intelligence powered desktop tool, and it could be a glimpse into what Apple has planned.",
-            "url": "https://www.bgr.com/2114477/lenovo-desktop-robot-concept-similar-apple/"
+            "title": "Bride in Dubai, groom waiting in Kottayam, war casts shadow over Kerala wedding",
+            "description": "[MALAYALA MANORAMA] Her wedding is scheduled on March 12 at Mar Aphrem Jacobite Syrian Church, Vadavathoor in Kottayam..Dubai stranded bride, wedding flight disruptions, Kerala bride stuck Dubai, Middle East travel...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/03/dubai-stranded-bride-wedding-crisis-iran-israel-conflict.html"
         },
         {
-            "title": "AI saves time or increases job pressure? Employee working 15 hours daily says automation has 'ruined' his life",
-            "description": "[THE ECONOMIC TIMES] Artificial intelligence promised efficiency but delivered longer work hours for a marketing manager. His company's AI adoption led to a fivefold increase in workload. Unrealistic expectations and the...",
-            "url": "https://economictimes.indiatimes.com/magazines/panache/ai-saves-time-or-increases-job-pressure-employee-working-15-hours-daily-says-automation-has-ruined-his-life/articleshow/128976492.cms"
+            "title": "ASM\u2019s Revenue Outlook Beats Estimates on AI Investments, China",
+            "description": "[BLOOMBERG] ASM International NV forecast revenue for the first quarter that beat analysts\u2019 estimates, boosted by artificial intelligence-linked investments and expectations of strong China demand.",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-03/asm-s-revenue-outlook-beats-estimates-on-ai-investments-china"
         },
         {
-            "title": "Why AI Superiority is Measured in Gigawatts",
-            "description": "[KIPLINGER] The artificial intelligence arms race hinges on unprecedented demands for computing power and electricity. Could anything change that?",
-            "url": "https://www.kiplinger.com/business/why-ai-superiority-is-measured-in-gigawatts"
+            "title": "Canada courts Indian researchers amid US funding unease",
+            "description": "[THE ECONOMIC TIMES] Indian researchers are now looking at Canada for doctoral and postdoctoral studies. This shift is driven by concerns over research funding and visa stability in the United States. Canada's new...",
+            "url": "https://economictimes.indiatimes.com/nri/study/canada-courts-indian-researchers-amid-us-funding-unease/articleshow/128984035.cms"
         }
     ]
 }
