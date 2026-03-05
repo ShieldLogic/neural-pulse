@@ -1,6 +1,11 @@
 {
-    "updated": "2026-03-05 18:00:21 UTC",
+    "updated": "2026-03-05 20:33:42 UTC",
     "news": [
+        {
+            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
+            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
+            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
@@ -10,11 +15,6 @@
             "title": "Teaching LLMs to reason like Bayesians",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
-        },
-        {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -27,14 +27,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
+        },
+        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
-        },
-        {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -42,14 +42,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
-        },
-        {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "RL without TD learning",
@@ -57,14 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Meta plans to develop custom chips to train its AI models",
-            "description": "[THE STAR] Meta Platforms Inc, which recently reached major deals with top chipmakers, still has ambitions for its own custom silicon, including plans to develop processors that can train future artificial...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/05/meta-plans-to-develop-custom-chips-to-train-its-ai-models"
+            "title": "China's new five-year plan calls for AI throughout its economy, tech breakthroughs",
+            "description": "[THE STAR] BEIJING: China's new five-year policy blueprint laid out its ambitions to aggressively adopt artificial intelligence throughout the world's second-biggest economy and dominate emerging technologies...",
+            "url": "https://www.thestar.com.my/business/business-news/2026/03/05/china039s-new-five-year-plan-calls-for-ai-throughout-its-economy-tech-breakthroughs"
         },
         {
-            "title": "Morgan Stanley lays off 2,500 employees across divisions: Report",
-            "description": "[ZEE NEWS] The job cuts are not linked to artificial intelligence-related reforms but stem from shifting business priorities, a revised global location strategy and performance reviews of employees, according...",
-            "url": "https://zeenews.india.com/economy/morgan-stanley-lays-off-2500-employees-across-divisions-report-3023879.html"
+            "title": "Charities 'damaging public trust' relying on artificial intelligence to create emotional campaign images",
+            "description": "[GB NEWS] Charities could be damaging public trust by relying on artificial intelligence to create emotional campaign images, new research has warned",
+            "url": "https://www.gbnews.com/news/charities-trust-ai-campaign-images"
         },
         {
-            "title": "Angamaly hit-and-run case: Special team formed to arrest accused doctor; cops to issue lookout notice",
-            "description": "[MALAYALA MANORAMA] \u200bDr Cyriac, a house surgeon at a private medical college, was on his way back from an event held at a convention centre in Angamaly, when his SUV.Kochi hit and run, Jasliya Johnson death, Angamaly...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/05/angamaly-hit-run-special-team-jasliya-johnson-dr-cyriac-george-doctor-look-out-notice.html"
+            "title": "Teachers must adapt as AI and rapid change transform classrooms, OECD warns",
+            "description": "[DEVDISCOURSE] An OECD report says education systems must rethink teaching as classrooms face rapid technological change, growing diversity and rising expectations beyond traditional academics. It stresses...",
+            "url": "https://www.devdiscourse.com/article/education/3825455-teachers-must-adapt-as-ai-and-rapid-change-transform-classrooms-oecd-warns"
         },
         {
-            "title": "Nvidia halts China-bound H200 output, shifts TSMC capacity to Vera Rubin, FT reports",
-            "description": "[MARKETSCREENER] Nvidia has stopped production of its second-most advanced artificial intelligence chips, known as H200 chips, intended for the Chinese market, the Financial Times reported on Thursday. ...",
-            "url": "https://www.marketscreener.com/news/nvidia-halts-china-bound-h200-output-shifts-tsmc-capacity-to-vera-rubin-ft-reports-ce7e5fdade89f623"
+            "title": "Vatican warns AI could lead to 'social control'",
+            "description": "[MANILASTANDARD.NET] Vatican City, Holy See\u2014The Vatican on Wednesday warned artificial intelligence could lead to \"social control\" and \"manipulation\" and called for more",
+            "url": "https://manilastandard.net/news/world/314711744/vatican-warns-ai-could-lead-to-social-control.html"
         },
         {
-            "title": "Broadcom Shares Surge In Post Market Trade After Strong Q1 Earnings",
-            "description": "[NDTV PROFIT] Shares of Broadcom Inc. jumped more than 5% in after-hours trading after the chip giant reported stronger-than-expected quarterly results, powered by a surge in artificial intelligence demand.",
-            "url": "https://www.ndtvprofit.com/technology/broadcom-shares-surge-in-post-market-trade-after-strong-q1-earnings-11170770"
+            "title": "Vatican warns AI could lead to 'social control'",
+            "description": "[THE STAR] The Vatican on Wednesday warned artificial intelligence could lead to \"social control\" and \"manipulation\" and called for more focus on human relationships to counter the dehumanising effects of...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/05/vatican-warns-ai-could-lead-to-039social-control039"
         },
         {
-            "title": "AI vs freshers: Are entry-level jobs disappearing for graduates?",
-            "description": "[INDIA TODAY] Artificial intelligence is rapidly transforming how companies operate, but its effects are beginning to show most clearly at the very start of careers. As automation absorbs routine tasks, the...",
-            "url": "https://www.indiatoday.in/jobs/story/ai-vs-freshers-are-entry-level-jobs-disappearing-for-graduates-educ-2877580-2026-03-05"
+            "title": "18-year-old critically injured after gang assault at Kollam temple",
+            "description": "[MALAYALA MANORAMA] The injured, Harikrishnan (18), a native of Kunnathoor, has been admitted to the ventilator at a private hospital in Kollam..temple festival attack Kollam, youth critically injured festival,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/05/temple-festival-attack-kollam-youth-injured.html"
         },
         {
-            "title": "AI giants promise Trump to pay for increased energy needs",
-            "description": "[THE HINDU] Seven US tech giants at the forefront of artificial intelligence committed Wednesday to offset the costs of their increased electricity needs through investments in energy infrastructure.",
-            "url": "https://www.thehindu.com/sci-tech/technology/ai-giants-promise-trump-to-pay-for-increased-energy-needs/article70705774.ece"
+            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - China's Tech Ascendancy: AI and Quantum Computing to Dominate Future Landscape",
+            "description": "[DEVDISCOURSE] Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all...",
+            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life"
         },
         {
-            "title": "Amazon layoffs: robotics team hit in latest cuts",
-            "description": "[THE ECONOMIC TIMES] The division axed on Tuesday is responsible for \u200bdesigning robots and other conveyances for automation, primarily in warehouses. Starting \u200bwith a round of some 14,000 white-collar \u2060employees in...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/amazon-layoffs-robotics-team-hit-in-latest-cuts/articleshow/129070612.cms"
+            "title": "Trump meets with tech companies",
+            "description": "[ARKANSAS ONLINE] WASHINGTON -- President Donald Trump invited technology companies to the White House on Wednesday to commit to developing their own power generation as he tries to ease tensions over the cost of...",
+            "url": "https://www.arkansasonline.com/news/2026/mar/05/trump-meets-with-tech-companies/"
         },
         {
-            "title": "2 arrested after father, son die due to suspected electrocution in TVM",
-            "description": "[MALAYALA MANORAMA] The Nagaroor police found that the accused had used the fencing without obtaining the necessary permits..Nagaroor electrocution deaths, father son electrocuted Nagaroor, Nagaroor death investigation,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/05/nagaroor-electrocution-deaths.html"
+            "title": "Munnar's strawberry harvest season begins early: Things to know",
+            "description": "[MALAYALA MANORAMA] Visitors can point out the fruits they wish to buy and then harvest the fruit themselves..Munnar strawberry season, strawberry picking Munnar, buy strawberries Munnar, Horticorp farm Munnar,...",
+            "url": "https://www.onmanorama.com/travel/kerala/2026/03/05/munnar-strawberry-harvest-season.html"
         },
         {
-            "title": "Man critically injured in wild elephant attack in Kollam",
-            "description": "[MALAYALA MANORAMA] He was returning home from work when he encountered the elephant near Dali in the small hours of the day..wild elephant attack Kollam, Kerala elephant incident, Kulathupuzha elephant encounter, man...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/05/kollam-kulathupuzha-elephant-attack-man-injured.html"
+            "title": "Veteran actor Shankar directs Hemanth Menon, Geethika Tiwari in \u2018Eric\u2019",
+            "description": "[MALAYALA MANORAMA] Eric, a horror-thriller directed by Shankar Panicker and starring Geethika Tiwari and Hemanth Menon, is set to be released on March 6..Eric movie, Shankar Panicker director, Geethika Tiwari film,...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/05/shankar-panicker-director-eric-malayalam-movie-hemanth-menon.html"
         }
     ]
 }
