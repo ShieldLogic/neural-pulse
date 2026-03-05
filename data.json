@@ -1,6 +1,11 @@
 {
-    "updated": "2026-03-05 20:33:42 UTC",
+    "updated": "2026-03-05 22:27:34 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
         {
             "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
             "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
@@ -22,14 +27,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
+        },
+        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
-        },
-        {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -62,11 +67,6 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "China's new five-year plan calls for AI throughout its economy, tech breakthroughs",
-            "description": "[THE STAR] BEIJING: China's new five-year policy blueprint laid out its ambitions to aggressively adopt artificial intelligence throughout the world's second-biggest economy and dominate emerging technologies...",
-            "url": "https://www.thestar.com.my/business/business-news/2026/03/05/china039s-new-five-year-plan-calls-for-ai-throughout-its-economy-tech-breakthroughs"
+            "title": "Broadcom rallies as it touts more than $100 billion in AI chip sales in 2027",
+            "description": "[MARKETSCREENER] Broadcom shares jumped about 7% before the bell on Thursday after the company said it expects artificial intelligence chip sales to top $100 billion in 2027, as it pushes into a market long ruled...",
+            "url": "https://www.marketscreener.com/news/broadcom-rallies-as-it-touts-more-than-100-billion-in-ai-chip-sales-in-2027-ce7e5fdad08ef02d"
         },
         {
-            "title": "Charities 'damaging public trust' relying on artificial intelligence to create emotional campaign images",
-            "description": "[GB NEWS] Charities could be damaging public trust by relying on artificial intelligence to create emotional campaign images, new research has warned",
-            "url": "https://www.gbnews.com/news/charities-trust-ai-campaign-images"
+            "title": "Broadcom rallies as it touts more than $100 billion in AI chip sales in 2027",
+            "description": "[REUTERS] Broadcom shares jumped about 7% before the bell on Thursday after the company said it expects artificial intelligence \u200bchip sales to top $100 billion in 2027, as \u200cit pushes into a market long ruled...",
+            "url": "https://www.reuters.com/business/broadcom-rallies-it-touts-more-than-100-billion-ai-chip-sales-2027-2026-03-05/"
         },
         {
-            "title": "Teachers must adapt as AI and rapid change transform classrooms, OECD warns",
-            "description": "[DEVDISCOURSE] An OECD report says education systems must rethink teaching as classrooms face rapid technological change, growing diversity and rising expectations beyond traditional academics. It stresses...",
-            "url": "https://www.devdiscourse.com/article/education/3825455-teachers-must-adapt-as-ai-and-rapid-change-transform-classrooms-oecd-warns"
+            "title": "Cheerio AI bags Rs 8 crore in seed funding led by Artha Venture Fund II",
+            "description": "[DAILY EXCELSIOR] NEW DELHI, Mar 5: AI-powered customer engagement platform Cheerio AI has raised Rs 8 crore in a seed funding round led by Artha Venture Fund II (AVF II), with participation from Hyderabad Angels, TiE...",
+            "url": "https://www.dailyexcelsior.com/cheerio-ai-bags-rs-8-crore-in-seed-funding-led-by-artha-venture-fund-ii/"
         },
         {
-            "title": "Vatican warns AI could lead to 'social control'",
-            "description": "[MANILASTANDARD.NET] Vatican City, Holy See\u2014The Vatican on Wednesday warned artificial intelligence could lead to \"social control\" and \"manipulation\" and called for more",
-            "url": "https://manilastandard.net/news/world/314711744/vatican-warns-ai-could-lead-to-social-control.html"
+            "title": "Onmanorama Assembly Poll Survey: Majority says not Sabarimala, only development matters",
+            "description": "[MALAYALA MANORAMA] There was also widespread public disapproval of the LDF government's flagship Silverline semi-high-speed rail project..Kerala assembly polls, voter behavior, development issues, election survey...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/05/kerala-assembly-poll-survey-majority-says-sabarimala-development-analysis-issues.html"
         },
         {
-            "title": "Vatican warns AI could lead to 'social control'",
-            "description": "[THE STAR] The Vatican on Wednesday warned artificial intelligence could lead to \"social control\" and \"manipulation\" and called for more focus on human relationships to counter the dehumanising effects of...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/05/vatican-warns-ai-could-lead-to-039social-control039"
+            "title": "CBSE Maths exam 2026: Can AI tools help students revise smarter?",
+            "description": "[INDIA TODAY] With the Central Board of Secondary Education Class 12 Maths board exam scheduled for March 9, 2026, students are deep into last-minute revision. But can AI tools actually help simplify complex...",
+            "url": "https://www.indiatoday.in/education-today/featurephilia/story/cbse-maths-exam-2026-can-ai-tools-help-students-revise-smarter-2877754-2026-03-05"
         },
         {
-            "title": "18-year-old critically injured after gang assault at Kollam temple",
-            "description": "[MALAYALA MANORAMA] The injured, Harikrishnan (18), a native of Kunnathoor, has been admitted to the ventilator at a private hospital in Kollam..temple festival attack Kollam, youth critically injured festival,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/05/temple-festival-attack-kollam-youth-injured.html"
+            "title": "AI Efficiency Gains Push Accounting Firms to Reimagine Pricing",
+            "description": "[BLOOMBERG TAX NEWS] Top US accounting firms are developing future pricing models for corporate clients as they pour billions of dollars into artificial intelligence tools that stand to slash billable hours with promised...",
+            "url": "https://news.bloombergtax.com/daily-tax-report/ai-efficiency-gains-push-accounting-firms-to-reimagine-pricing"
         },
         {
-            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - China's Tech Ascendancy: AI and Quantum Computing to Dominate Future Landscape",
-            "description": "[DEVDISCOURSE] Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all...",
-            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life"
+            "title": "Andrii Slobodian: Artificial Intelligence - The Perfect Assistant for Gen Z",
+            "description": "[TECHBULLION] Social research shows that Generation Z leads the way in adopting artificial intelligence and digital technologies. Zoomers are taking key roles in high-tech fields and mastering AI tools at a rapid...",
+            "url": "https://techbullion.com/andrii-slobodian-artificial-intelligence-the-perfect-assistant-for-gen-z/"
         },
         {
-            "title": "Trump meets with tech companies",
-            "description": "[ARKANSAS ONLINE] WASHINGTON -- President Donald Trump invited technology companies to the White House on Wednesday to commit to developing their own power generation as he tries to ease tensions over the cost of...",
-            "url": "https://www.arkansasonline.com/news/2026/mar/05/trump-meets-with-tech-companies/"
+            "title": "Broadcom beats expectations thanks to the AI boom",
+            "description": "[MARKETSCREENER] Broadcom posted better-than-expected Q1 results, supported by strong growth in its artificial intelligence-related business. The group reported adjusted EPS of $2.05 and revenue of $19.31bn, above...",
+            "url": "https://www.marketscreener.com/news/broadcom-beats-expectations-thanks-to-the-ai-boom-ce7e5fdad08af426"
         },
         {
-            "title": "Munnar's strawberry harvest season begins early: Things to know",
-            "description": "[MALAYALA MANORAMA] Visitors can point out the fruits they wish to buy and then harvest the fruit themselves..Munnar strawberry season, strawberry picking Munnar, buy strawberries Munnar, Horticorp farm Munnar,...",
-            "url": "https://www.onmanorama.com/travel/kerala/2026/03/05/munnar-strawberry-harvest-season.html"
+            "title": "Flight operations partially resume at Abu Dhabi airport: Important updates",
+            "description": "[MALAYALA MANORAMA] Today, SpiceJet will operate 12 flights from Fujairah and one from Dubai to India..Abu Dhabi airport operations, Zayed International Airport flights, UAE airport updates, limited flight operations...",
+            "url": "https://www.onmanorama.com/travel/travel-news/2026/03/05/abu-dhabi-dubai-airports-operations-resume.html"
         },
         {
-            "title": "Veteran actor Shankar directs Hemanth Menon, Geethika Tiwari in \u2018Eric\u2019",
-            "description": "[MALAYALA MANORAMA] Eric, a horror-thriller directed by Shankar Panicker and starring Geethika Tiwari and Hemanth Menon, is set to be released on March 6..Eric movie, Shankar Panicker director, Geethika Tiwari film,...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/05/shankar-panicker-director-eric-malayalam-movie-hemanth-menon.html"
+            "title": "Kerala Cabinet sanctions new PSC posts, grants aided status to Unani college",
+            "description": "[MALAYALA MANORAMA] The Kerala Cabinet recently approved several administrative and recruitment-related decisions, including the creation of 35 new posts within the.Kerala PSC new posts, Kerala government recruitment,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/05/kerala-psc-new-posts-sanctioned.html"
         }
     ]
 }
