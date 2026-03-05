@@ -1,11 +1,6 @@
 {
-    "updated": "2026-03-05 14:42:40 UTC",
+    "updated": "2026-03-05 18:00:21 UTC",
     "news": [
-        {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
@@ -15,6 +10,11 @@
             "title": "Teaching LLMs to reason like Bayesians",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+        },
+        {
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -27,14 +27,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
-        },
-        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
+        },
+        {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -42,9 +42,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+        },
+        {
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "RL without TD learning",
@@ -52,19 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "China vows to accelerate technological self-reliance, AI push",
-            "description": "[REUTERS] China vowed on Thursday to accelerate efforts to achieve greater technological \u200breliance, pledging to boost still young domestic industries such \u200cas semiconductors, aerospace and artificial...",
-            "url": "https://www.reuters.com/world/asia-pacific/china-vows-accelerate-technological-self-reliance-ai-push-2026-03-05/"
+            "title": "Meta plans to develop custom chips to train its AI models",
+            "description": "[THE STAR] Meta Platforms Inc, which recently reached major deals with top chipmakers, still has ambitions for its own custom silicon, including plans to develop processors that can train future artificial...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/05/meta-plans-to-develop-custom-chips-to-train-its-ai-models"
         },
         {
-            "title": "87 killed as US sinks Iranian warship in Indian Ocean; NATO downs missile toward Turkey",
-            "description": "[MALAYALA MANORAMA] A US submarine sank an Iranian warship off Sri Lanka, killing 87 people, marking a sharp escalation and geographic widening of the US-Iran conflict..US Iran Israel war escalation, Turkey missile,...",
-            "url": "https://www.onmanorama.com/news/world/2026/03/05/iran-israel-iran-war-escalation-warship-casualties-turkey-kuwait-lebanon-updates.html"
+            "title": "Morgan Stanley lays off 2,500 employees across divisions: Report",
+            "description": "[ZEE NEWS] The job cuts are not linked to artificial intelligence-related reforms but stem from shifting business priorities, a revised global location strategy and performance reviews of employees, according...",
+            "url": "https://zeenews.india.com/economy/morgan-stanley-lays-off-2500-employees-across-divisions-report-3023879.html"
         },
         {
-            "title": "Meta tests AI shopping research tool to rival ChatGPT, Gemini",
-            "description": "[THE STAR] Meta Platforms Inc is testing a shopping research feature in its artificial intelligence chatbot, rivaling a similar tool offered by OpenAI's ChatGPT and Google's Gemini.",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/05/meta-tests-ai-shopping-research-tool-to-rival-chatgpt-gemini"
+            "title": "Angamaly hit-and-run case: Special team formed to arrest accused doctor; cops to issue lookout notice",
+            "description": "[MALAYALA MANORAMA] \u200bDr Cyriac, a house surgeon at a private medical college, was on his way back from an event held at a convention centre in Angamaly, when his SUV.Kochi hit and run, Jasliya Johnson death, Angamaly...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/05/angamaly-hit-run-special-team-jasliya-johnson-dr-cyriac-george-doctor-look-out-notice.html"
         },
         {
-            "title": "Cut off from mainland for decades, \u20b9100cr Rainbow bridge means a world to Perumbalam island",
-            "description": "[MALAYALA MANORAMA] As the inauguration nears, the mood on the island is electric. Even those whose livelihoods depend on the current system are celebrating the progress..Perumbalam bridge, Vaduthala Perumbalam bridge,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/04/perumbalam-rainbow-bridge-inauguration.html"
+            "title": "Nvidia halts China-bound H200 output, shifts TSMC capacity to Vera Rubin, FT reports",
+            "description": "[MARKETSCREENER] Nvidia has stopped production of its second-most advanced artificial intelligence chips, known as H200 chips, intended for the Chinese market, the Financial Times reported on Thursday. ...",
+            "url": "https://www.marketscreener.com/news/nvidia-halts-china-bound-h200-output-shifts-tsmc-capacity-to-vera-rubin-ft-reports-ce7e5fdade89f623"
         },
         {
-            "title": "Solomon tells OpenAI CEO Sam Altman that Tumbler Ridge deserves apology",
-            "description": "[CHEK NEWS] Federal Artificial Intelligence Minister says he met with the CEO of OpenAI and told him the people of Tumbler Ridge, B.C., deserve an apology.",
-            "url": "https://cheknews.ca/solomon-tells-openai-ceo-sam-altman-that-tumbler-ridge-deserves-apology-1309455/"
+            "title": "Broadcom Shares Surge In Post Market Trade After Strong Q1 Earnings",
+            "description": "[NDTV PROFIT] Shares of Broadcom Inc. jumped more than 5% in after-hours trading after the chip giant reported stronger-than-expected quarterly results, powered by a surge in artificial intelligence demand.",
+            "url": "https://www.ndtvprofit.com/technology/broadcom-shares-surge-in-post-market-trade-after-strong-q1-earnings-11170770"
         },
         {
-            "title": "Brokerages split on future of IT as AI automates nuts and bolts",
-            "description": "[THE ECONOMIC TIMES] Analysts are divided in their opinion over the long-term viability of IT services firms, after Anthropic released artificial intelligence software plugins that will allow companies to automate...",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/brokerages-split-on-future-of-it-as-ai-automates-nuts-and-bolts/articleshow/129039047.cms"
+            "title": "AI vs freshers: Are entry-level jobs disappearing for graduates?",
+            "description": "[INDIA TODAY] Artificial intelligence is rapidly transforming how companies operate, but its effects are beginning to show most clearly at the very start of careers. As automation absorbs routine tasks, the...",
+            "url": "https://www.indiatoday.in/jobs/story/ai-vs-freshers-are-entry-level-jobs-disappearing-for-graduates-educ-2877580-2026-03-05"
         },
         {
-            "title": "OpenAI CEO expressed 'horror and responsibility' over ChatGPT's ties to Tumbler Ridge, AI minister says",
-            "description": "[CBC.CA] Artificial Intelligence Minister Evan Solomon says OpenAI's CEO agreed to let Canadian experts into its safety office to help evaluate future threats following the mass shooting in Tumbler Ridge, B.C.",
-            "url": "https://www.cbc.ca/news/politics/evan-solomon-open-ai-meeting-ceo-sam-altman-9.7114767"
+            "title": "AI giants promise Trump to pay for increased energy needs",
+            "description": "[THE HINDU] Seven US tech giants at the forefront of artificial intelligence committed Wednesday to offset the costs of their increased electricity needs through investments in energy infrastructure.",
+            "url": "https://www.thehindu.com/sci-tech/technology/ai-giants-promise-trump-to-pay-for-increased-energy-needs/article70705774.ece"
         },
         {
-            "title": "Tech giants sign energy pledge at White House ahead of midterms",
-            "description": "[THE STAR] March 4 (Reuters) - Google, Microsoft, \u2060Meta, Amazon and several artificial intelligence companies signed a pledge at the White House on Wednesday to bear the cost of new \u2060electricity generation to...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/05/tech-giants-sign-energy-pledge-at-white-house-ahead-of-midterms"
+            "title": "Amazon layoffs: robotics team hit in latest cuts",
+            "description": "[THE ECONOMIC TIMES] The division axed on Tuesday is responsible for \u200bdesigning robots and other conveyances for automation, primarily in warehouses. Starting \u200bwith a round of some 14,000 white-collar \u2060employees in...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/amazon-layoffs-robotics-team-hit-in-latest-cuts/articleshow/129070612.cms"
         },
         {
-            "title": "Broadcom sees over $100 billion in AI chip sales by 2027 on robust custom chip demand",
-            "description": "[THE STAR] March 4 (Reuters) - Chip designer Broadcom on Wednesday \u2060projected its artificial intelligence chip revenue would exceed $100 billion by next year, signaling surging demand for custom artificial...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/05/broadcom-sees-revenue-above-estimates-as-ai-fuels-custom-chip-demand"
+            "title": "2 arrested after father, son die due to suspected electrocution in TVM",
+            "description": "[MALAYALA MANORAMA] The Nagaroor police found that the accused had used the fencing without obtaining the necessary permits..Nagaroor electrocution deaths, father son electrocuted Nagaroor, Nagaroor death investigation,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/05/nagaroor-electrocution-deaths.html"
         },
         {
-            "title": "AI pricing: Pay more than your neighbor?",
-            "description": "[FOX 9] Artificial intelligence is changing how prices are set at grocery stores and other businesses, and Minnesota lawmakers are stepping in to address concerns.",
-            "url": "https://www.fox9.com/news/ai-pricing-pay-more-than-your-neighbor"
+            "title": "Man critically injured in wild elephant attack in Kollam",
+            "description": "[MALAYALA MANORAMA] He was returning home from work when he encountered the elephant near Dali in the small hours of the day..wild elephant attack Kollam, Kerala elephant incident, Kulathupuzha elephant encounter, man...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/05/kollam-kulathupuzha-elephant-attack-man-injured.html"
         }
     ]
 }
