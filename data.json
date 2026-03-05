@@ -1,6 +1,11 @@
 {
-    "updated": "2026-03-05 06:45:49 UTC",
+    "updated": "2026-03-05 08:36:20 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
@@ -12,14 +17,14 @@
             "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
         },
         {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
-        },
-        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
+        },
+        {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -32,24 +37,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+            "title": "Building a Simple MCP Server in Python",
+            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
+            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "RL without TD learning",
@@ -57,14 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+        },
+        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
-        },
-        {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
+            "title": "Big Tech Pushes Back on Anthropic Risk Label",
+            "description": "[NEWSMAX] Saying it creates uncertainty for companies that could threaten the military's access to the best products and services, a Big Tech industry group on Wednesday expressed concern to War Secretary Pete...",
+            "url": "https://www.newsmax.com/finance/streettalk/pete-hegseth-pentagon-donald-trump/2026/03/04/id/1248333/"
+        },
+        {
+            "title": "Australian artists warn government to 'hold its nerve' on AI copyright",
+            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Artists and copyright advocates say big tech is again pushing to loosen Australia's copyright rules as artificial intelligence companies expand.",
+            "url": "https://www.abc.net.au/news/2026-03-05/australian-artists-warning-to-government-on-ai-copyright/106415900"
+        },
+        {
+            "title": "Africa emerges as new arena in US-China competition over artificial intelligence",
+            "description": "[SOUTH CHINA MORNING POST] With a fast-growing digital economy and young population, the continent is becoming a critical front in the global race to shape AI\u2019s future.",
+            "url": "https://www.scmp.com/news/us/article/3345483/africa-emerges-new-arena-us-china-competition-over-artificial-intelligence"
+        },
+        {
+            "title": "Big tech group supports Anthropic in Pentagon fight as investors push to de-escalate clash over AI safeguards",
+            "description": "[MARKETSCREENER] A big tech industry group consisting of major Anthropic backers Amazon and Nvidia on Wednesday expressed concern over the Pentagon's decision to declare the artificial intelligence company a...",
+            "url": "https://www.marketscreener.com/news/big-tech-group-supports-anthropic-in-pentagon-fight-as-investors-push-to-de-escalate-clash-over-ai-s-ce7e5fdadb8bf727"
+        },
+        {
+            "title": "Trump says deal on data centers will lower electricity prices as tech companies vow to cover costs",
+            "description": "[PITTSBURGH TRIBUNE-REVIEW] WASHINGTON \u2014 President Donald Trump invited technology companies to the White House on Wednesday to commit to developing their own power generation as he tries to ease tensions over the cost of...",
+            "url": "https://triblive.com/news/world/trump-says-deal-on-data-centers-will-lower-electricity-prices-as-tech-companies-vow-to-cover-costs/"
+        },
+        {
+            "title": "Lawsuit alleges Google\u2019s Gemini guided man to consider \u2018mass casualty\u2019 event before suicide",
+            "description": "[WTOP] A new lawsuit against Google alleges that the company's artificial intelligence chatbot Gemini guided 36-year-old Jonathan Gavalas on a mission to stage a\u2026",
+            "url": "https://wtop.com/national/2026/03/lawsuit-alleges-googles-gemini-guided-man-to-consider-mass-casualty-event-before-suicide/"
+        },
+        {
+            "title": "Jensen Huang raises the possibility of an OpenAI IPO",
+            "description": "[MARKETSCREENER] Nvidia Chief Executive Jensen Huang said the recent $30bn investment in OpenAI could be the last before a possible IPO by the artificial intelligence start-up by the end of the year. He said it was...",
+            "url": "https://www.marketscreener.com/news/jensen-huang-raises-the-possibility-of-an-openai-ipo-ce7e5fdadb89f426"
+        },
+        {
+            "title": "Toyota will not move U.S. plant to Canada",
+            "description": "[BNN BLOOMBERG] Social media posts last month claimed Toyota had decided to move an auto manufacturing plant from Huntsville, Ala., to Ontario. The company says the claim is false. The claim originated from online...",
+            "url": "https://www.bnnbloomberg.ca/business/2026/03/04/fact-file-claim-that-toyota-is-moving-us-plant-to-canada-is-false-company-says/"
+        },
+        {
+            "title": "Dueling documentaries illuminate the promise and perils of artificial intelligence",
+            "description": "[HARTFORD COURANT] Artificial intelligence\u2019s dystopian specter has spawned a pair of documentaries dissecting a technology that\u2019s depicted as ravenous parasite devouring humanity\u2019s knowledge, creativity and empathy.",
+            "url": "https://www.courant.com/2026/03/04/artificial-intelligence-documentary-treatment/"
+        },
+        {
             "title": "Blackstone Taps Private Credit to Fund Champions Group Buyout",
             "description": "[BLOOMBERG] Blackstone Inc. financed its acquisition of residential services provider Champions Group with a more than $1 billion private credit loan as buyout firms and lenders seek refuge from sectors prone to...",
             "url": "https://www.bloomberg.com/news/articles/2026-03-04/blackstone-taps-private-credit-to-fund-champions-group-buyout"
-        },
-        {
-            "title": "Lawsuit Alleges Google's Gemini Guided Man to Consider 'Mass Casualty' Event Before Suicide",
-            "description": "[U.S. NEWS & WORLD REPORT] A new lawsuit against Google alleges that the company's artificial intelligence chatbot Gemini guided 36-year-old Jonathan Gavalas on a mission to stage a \u201ccatastrophic accident\u201d near Miami...",
-            "url": "https://www.usnews.com/news/business/articles/2026-03-04/lawsuit-alleges-googles-gemini-guided-man-to-consider-mass-casualty-event-before-suicide"
-        },
-        {
-            "title": "Snapchat research provides insight for movie marketing",
-            "description": "[SOCIAL MEDIA TODAY] New data revealed the importance of in-app promotional tools such as influencer recommendations and artificial intelligence suggestions.",
-            "url": "https://www.socialmediatoday.com/news/snapchat-research-provides-insight-for-movie-marketing/813853/"
-        },
-        {
-            "title": "PagerDuty CEO Tejada Says AI Disruption Concerns 'Overbaked'",
-            "description": "[MARKETSCREENER] PagerDuty Chief Executive Officer Jennifer Tejada said concerns about artificial intelligence disruption are overbaked, Bloomberg reported Wednesday. Tejada said at the Bloomberg New Voices event...",
-            "url": "https://www.marketscreener.com/news/pagerduty-ceo-tejada-says-ai-disruption-concerns-overbaked-ce7e5fdad88ef12d"
-        },
-        {
-            "title": "AI disruption will challenge lending decisions in coming years, Goldman exec says",
-            "description": "[REUTERS] Uncertainty about artificial intelligence's disruption of business \u200bmodels will complicate lenders' decisions over \u200chow much risk to take on in the next two years, a senior Goldman \u200bSachs executive...",
-            "url": "https://www.reuters.com/business/finance/ai-disruption-will-challenge-lending-decisions-coming-years-goldman-exec-says-2026-03-04/"
-        },
-        {
-            "title": "Vatican warns AI could lead to 'social control'",
-            "description": "[THE MANILA TIMES] VATICAN CITY \u2014 The Vatican on Wednesday warned artificial intelligence could lead to 'social control' and 'manipulation' and called for more focus on human relationships to counter the dehumanising...",
-            "url": "https://www.manilatimes.net/2026/03/05/world/vatican-warns-ai-could-lead-to-social-control/2293462"
-        },
-        {
-            "title": "Scott Augenbaum to Newsmax: AI Helping Scammers Be More Productive",
-            "description": "[NEWSMAX] Artificial intelligence platforms are helping scammers be more effective, cybersecurity expert and retired FBI supervisory special agent Scott Augenbaum told Newsmax.",
-            "url": "https://www.newsmax.com/newsmax-tv/scott-augenbaum-ai-cybercrime/2026/03/04/id/1248300/"
-        },
-        {
-            "title": "AI disruption will challenge lending decisions in coming years, Goldman exec says",
-            "description": "[MARKETSCREENER] Uncertainty about artificial intelligence's disruption of business models will complicate lenders' decisions over how much risk to take on in the next two years, a senior Goldman Sachs executive...",
-            "url": "https://www.marketscreener.com/news/ai-disruption-will-challenge-lending-decisions-in-coming-years-goldman-exec-says-ce7e5fdad88ef521"
-        },
-        {
-            "title": "Researchers develop versatile machine learning tool to automate complex clinical diagnostics",
-            "description": "[NEWS-MEDICAL.NET] A research team funded by the National Institutes of Health (NIH) has developed a versatile machine learning model that could one day greatly expand what medical scans can tell us about disease.",
-            "url": "https://www.news-medical.net/news/20260304/Researchers-develop-versatile-machine-learning-tool-to-automate-complex-clinical-diagnostics.aspx"
-        },
-        {
-            "title": "Broadcom (AVGO) Q1 earnings report 2026",
-            "description": "[CNBC] Broadcom, which contributes to Google's Tensor Processing Units, called for artificial intelligence revenue to double in the February quarter.",
-            "url": "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html"
         }
     ]
 }
