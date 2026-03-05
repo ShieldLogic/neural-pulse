@@ -1,11 +1,6 @@
 {
-    "updated": "2026-03-04 22:27:22 UTC",
+    "updated": "2026-03-05 01:49:32 UTC",
     "news": [
-        {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
@@ -17,14 +12,14 @@
             "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
         },
         {
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
+        },
+        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
-        },
-        {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
@@ -37,14 +32,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Building a Simple MCP Server in Python",
-            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
-            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+        },
+        {
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "RL without TD learning",
@@ -52,19 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Beyond Accuracy: 5 Metrics That Actually Matter for AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents , or autonomous systems powered by agentic AI, have reshaped the current landscape of AI systems and deployments.",
-            "url": "https://machinelearningmastery.com/beyond-accuracy-5-metrics-that-actually-matter-for-ai-agents/"
-        },
-        {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
+        },
+        {
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "AI may be creating instead of destroying jobs",
-            "description": "[RTE.IE] The increasing use of artificial intelligence by firms may be creating some jobs in the euro zone rather than \u2060destroying them as many fear, a European Central Bank blog post argues today.",
-            "url": "https://www.rte.ie/news/business/2026/0304/1561563-ai-may-be-creating-instead-of-destroying-jobs-for-now/"
+            "title": "SKILLFUL CRAFTSMAN EDUCATION TECHNOLOGY LIMITED ANNOUNCES THE FIRST ENTERPRISE CONTRACT FOR ITS AI-POWERED COMMUNICATION SKILLS LEARNING (CSL) PRODUCT AND SERVICES",
+            "description": "[THE MANILA TIMES] SHENZHEN, China, March 04, 2026 (GLOBE NEWSWIRE) -- Skillful Craftsman Education Technology Co., Ltd. ('Skillful Craftsman\u201d or the 'Company\u201d) (NASDAQ: EDTK), a company specializing in educational...",
+            "url": "https://www.manilatimes.net/2026/03/04/tmt-newswire/globenewswire/skillful-craftsman-education-technology-limited-announces-the-first-enterprise-contract-for-its-ai-powered-communication-skills-learning-csl-product-and-services/2293204"
         },
         {
-            "title": "Rise of AI-fuelled SATANISM: Priests, imams and rabbis are invited to attend an exorcism course in Rome amid fears devil worshippers are using artificial intelligence",
-            "description": "[DAILY MAIL ONLINE] Priests, imams, and rabbis have been invited to attend a special training programme in Rome to fight what they see as an alarming rise in AI-fuelled satanism.",
-            "url": "https://www.dailymail.co.uk/sciencetech/article-15612777/Exorcism-training-AI-fuelled-SATANISM.html"
+            "title": "Denver company's AI could flag premature births based on ultrasounds",
+            "description": "[THE DENVER POST] Denver-based Ultrasound AI has received federal approval to market an artificial intelligence program to predict when babies will arrive based on their ultrasounds, raising the possibility of...",
+            "url": "https://www.denverpost.com/2026/03/04/ultrasound-ai-delivery-date-denver/"
         },
         {
-            "title": "AI's Surprising Impact: Job Creation in the Euro Zone",
-            "description": "[DEVDISCOURSE] The European Central Bank highlights that artificial intelligence is potentially creating jobs in the euro zone, contradicting fears of job destruction. AI-intensive firms are more likely to hire...",
-            "url": "https://www.devdiscourse.com/article/law-order/3825731-ais-surprising-impact-job-creation-in-the-euro-zone"
+            "title": "Trump to meet tech giants on energy pledge tied to expansion of data centres",
+            "description": "[THE GLOBE AND MAIL] Measures are designed to ensure the boom in artificial intelligence infrastructure does not translate into higher utility bills for households and small businesses",
+            "url": "https://www.theglobeandmail.com/business/article-trump-to-meet-tech-giants-on-energy-pledge-tied-to-expansion-of-data/"
         },
         {
-            "title": "AI may be creating instead of destroying jobs for now, ECB blog argues",
-            "description": "[THE STAR] FRANKFURT, March 4 (Reuters) - The \u2060increasing use of artificial intelligence by firms may be \u2060creating some jobs in the euro zone rather than \u200cdestroying them as many fear, a European Central Bank...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/04/ai-may-be-creating-instead-of-destroying-jobs-for-now-ecb-blog-argues"
+            "title": "Abhishek\u2019s \u2018fireworks\u2019, recent records don\u2019t matter as India, England meet again at Wankhede",
+            "description": "[MALAYALA MANORAMA] India and England will play in the second semifinal of the T20 World Cup 2026 at the Wankhede Stadium in Mumbai on Thursday..India vs England T20 World Cup, T20 World Cup semifinal India, Abhishek...",
+            "url": "https://www.onmanorama.com/sports/cricket/2026/03/04/t20-world-cup-2026-india-vs-england-semifinal-preview-morne-morkel-comments.html"
         },
         {
-            "title": "AI may be creating instead of destroying jobs for now, ECB blog argues",
-            "description": "[REUTERS] The increasing use of artificial intelligence by firms may be creating some jobs in the euro zone \u200brather than destroying them as many fear, a \u200cEuropean Central Bank blog post argued on Wednesday.",
-            "url": "https://www.reuters.com/business/ai-may-be-creating-instead-destroying-jobs-now-ecb-blog-argues-2026-03-04/"
+            "title": "Huawei Launches iFTTO Solution, Accelerating Campus Intelligence with Innovative Capabilities",
+            "description": "[THE MANILA TIMES] BARCELONA, Spain, March 4, 2026 /PRNewswire/ -- At MWC Barcelona 2026, Huawei unveiled its iFTTO solution, designed to accelerate the intelligent transformation of campuses through artificial...",
+            "url": "https://www.manilatimes.net/2026/03/04/tmt-newswire/pr-newswire/huawei-launches-iftto-solution-accelerating-campus-intelligence-with-innovative-capabilities/2293087"
         },
         {
-            "title": "Watchdog reporter explains AI in the classroom",
-            "description": "[TCPALM] Colleen Wixon reported on the trend of using artificial intelligence in the classroom.",
-            "url": "https://www.tcpalm.com/story/news/education/2026/03/04/behind-the-story-watchdog-reporter-explains-ai-in-the-classroom/88757578007/"
+            "title": "After SaaSocalypse And Cybersecurity Sell Off, This $15 Billion Sector Could Be The Next Target",
+            "description": "[BENZINGA] BofA Global Research has warned that artificial intelligence (AI) disintermediation could put over $15 billion of the insurance industry at risk.",
+            "url": "https://www.benzinga.com/markets/tech/26/03/51030891/after-saasocalypse-and-cybersecurity-sell-off-this-15-billion-sector-could-be-the-next-target"
         },
         {
-            "title": "Few Details on Trump\u2019s Plan for Self",
-            "description": "[INSIDE CLIMATE NEWS] The president is scheduled to unveil his Ratepayer Protection Pledge as he greenlights data centers to power America\u2019s race for artificial intelligence.",
-            "url": "https://insideclimatenews.org/news/04032026/trump-data-center-rate-payer-protection-pledge/"
+            "title": "Tesla Whale Leo KoGuan Reveals Purchase of 1 Million Nvidia Shares",
+            "description": "[MARKETSCREENER] Tesla shareholder Leo KoGuan purchased 1 million shares of Nvidia on Tuesday and intends to buy more, he said in a Wednesday post on X. I am convinced [artificial intelligence] is NOT a bubble,...",
+            "url": "https://www.marketscreener.com/news/tesla-whale-leo-koguan-reveals-purchase-of-1-million-nvidia-shares-ce7e5cd3de8bf120"
         },
         {
-            "title": "Kidney stone recurrence after surgery: Doctor suggests lifestyle changes, medical checkups that prevent it",
-            "description": "[MALAYALA MANORAMA] Dr Pillai Biju Sukumaran, a senior consultant in the department of urology at Apollo Adlux Hospital, Angamaly, explains..kidney stones, prevent kidney stones, kidney stone formation causes, recurring...",
-            "url": "https://www.onmanorama.com/health/healthcare/2026/03/04/kidney-stone-recurrence-surgery-doctors-advice.html"
+            "title": "Microsoft-Backed OpenAI Reportedly Eyeing Contract With NATO",
+            "description": "[MARKETSCREENER] Microsoft-backed OpenAI is contemplating a contract to deploy its artificial intelligence technology on the unclassified networks of the North Atlantic Treaty Organization, news outlets reported...",
+            "url": "https://www.marketscreener.com/news/microsoft-backed-openai-reportedly-eyeing-contract-with-nato-ce7e5cd3de8bf521"
         },
         {
-            "title": "Top AI CTV Advertising Platforms in 2026 Powering Performance-Driven Brands",
-            "description": "[TECHBULLION] In the evolving world of connected television, AI CTV advertising platforms are redefining how brands approach measurable media investment. Marketers no longer view CTV as a branding-only channel....",
-            "url": "https://techbullion.com/top-ai-ctv-advertising-platforms-in-2026-powering-performance-driven-brands/"
+            "title": "European Central Bank Blog Reveals Positive Employment Trends",
+            "description": "[THE ECONOMIC TIMES] A recent European Central Bank blog suggests that the rise of artificial intelligence in the euro zone may lead to job creation rather than destruction, countering fears of widespread unemployment.",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-may-be-creating-instead-of-destroying-jobs-for-now-ecb-blog-argues/articleshow/129025537.cms"
         },
         {
-            "title": "Here\u2019s how latest AI documentaries expose dark side of technology",
-            "description": "[THE NEWS INTERNATIONAL] The two new AI documentaries, Deepfaking Sam Altman and The AI Doc, bring new insights about the dangers and benefits of artificial intelligence in near future. The film Deepfaking Sam Altman...",
-            "url": "https://www.thenews.com.pk/latest/1394538-heres-how-latest-ai-documentaries-expose-dark-side-of-technology"
+            "title": "The Oasis Group Releases AI Readiness Index\u2122, First Maturity Benchmark for Wealth Management Industry",
+            "description": "[BUSINESS WIRE] The Oasis Group, an award-winning consultancy and leading voice on artificial intelligence in the wealth management industry, recently released the Oasis AI ...",
+            "url": "https://www.businesswire.com/news/home/20260304892485/en/The-Oasis-Group-Releases-AI-Readiness-Index-First-Maturity-Benchmark-for-Wealth-Management-Industry"
         }
     ]
 }
