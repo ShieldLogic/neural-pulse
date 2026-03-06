@@ -1,11 +1,6 @@
 {
-    "updated": "2026-03-06 08:33:40 UTC",
+    "updated": "2026-03-06 10:30:48 UTC",
     "news": [
-        {
-            "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
-            "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
-            "url": "https://machinelearningmastery.com/the-machine-learning-practitioners-guide-to-speculative-decoding/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
@@ -15,6 +10,11 @@
             "title": "Teaching LLMs to reason like Bayesians",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+        },
+        {
+            "title": "Export Your ML Model in ONNX Format",
+            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
+            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
         },
         {
             "title": "Teaching AI to read a map",
@@ -27,14 +27,14 @@
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
         },
         {
-            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
-            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
-            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
-        },
-        {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
             "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
+        },
+        {
+            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
+            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -42,9 +42,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
+            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
+            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+        },
+        {
+            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
+            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
+            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
         },
         {
             "title": "RL without TD learning",
@@ -52,19 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
-        },
-        {
             "title": "How AI trained on birds is surfacing underwater mysteries",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
-            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
-            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
+            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "How Applied AI Is Reshaping Finance: Jiazhao Shi\u2019s View on Financial Intelligence and LLM",
-            "description": "[TECHBULLION] Artificial intelligence is rapidly reshaping industries worldwide, and finance is no exception. Technologies such as machine learning (ML), large language models (LLMs), and natural language...",
-            "url": "https://techbullion.com/how-applied-ai-is-reshaping-finance-jiazhao-shis-view-on-financial-intelligence-and-llm/"
+            "title": "generated campaign content to carry disclaimer",
+            "description": "[WJLA] Virginia lawmakers are taking steps to address the use of artificial intelligence in political campaigns.",
+            "url": "https://wjla.com/news/local/virginia-senate-passes-bill-requiring-ai-generated-campaign-content-to-carry-disclaimer-legislation-defamation-march-2026"
         },
         {
-            "title": "Pentagon informs Anthropic it is a supply chain risk",
-            "description": "[CNA] The Pentagon has slapped a formal supply-chain risk designation on artificial intelligence lab Anthropic, its CEO said on Thursday (Mar 5). \"Yesterday, Anthropic received a letter from the Department...",
-            "url": "https://www.channelnewsasia.com/world/pentagon-anthropic-claude-supply-chain-risks-us-ai-5974986"
+            "title": "UPDATE 2-US mulls new rules for AI chip exports, including requiring investments by foreign firms in the US",
+            "description": "[DEVDISCOURSE] U.S. officials are debating a \u200bnew regulatory framework for exporting artificial intelligence \u200cchips \u200band are considering requiring foreign nations to invest in U.S. AI data centers or security...",
+            "url": "https://www.devdiscourse.com/article/technology/3827874-update-2-us-mulls-new-rules-for-ai-chip-exports-including-requiring-investments-by-foreign-firms-in-the-us"
         },
         {
-            "title": "US Drafts Rules to Expand Control of World Chip Trade",
-            "description": "[NEWSMAX] The Trump administration has drafted rules requiring U.S. approval for global sales by Nvidia and other AI chipmakers, a new policy that would give Washington oversight of global artificial...",
-            "url": "https://www.newsmax.com/newsfront/united-states-chips-artificial-intelligence/2026/03/05/id/1248478/"
+            "title": "Marvell Technology Tops Quarterly Views Amid Data Center Revenue Surge",
+            "description": "[MARKETSCREENER] Marvell Technology late Thursday reported fiscal fourth-quarter results above Wall Street's estimates as rapid adoption of artificial intelligence drove demand for data centers. The chip...",
+            "url": "https://www.marketscreener.com/news/marvell-technology-tops-quarterly-views-amid-data-center-revenue-surge-ce7e5fdbde89f722"
         },
         {
-            "title": "STPI to turn 68 centres into AI hubs as it expands startup incubation",
-            "description": "[THE FINANCIAL EXPRESS] The Software Technology Parks of India (STPI) is set to transform its 68-centre nationwide network into 'AI factories' to empower startups to build and deploy advanced artificial intelligence...",
-            "url": "https://www.financialexpress.com/business/start-ups/stpi-to-turn-68-centres-into-ai-hubs-as-it-expands-startup-incubation/4163784/"
+            "title": "ServiceNow Shares Rise After CEO Says AI Can Add Value to Software",
+            "description": "[MARKETSCREENER] By Katherine Hamilton ServiceNow shares rose after the company's chief executive said artificial intelligence is a positive, rather than a threat, for software companies. The stock advanced...",
+            "url": "https://www.marketscreener.com/news/servicenow-shares-rise-after-ceo-says-ai-can-add-value-to-software-ce7e5fdbdf81f625"
         },
         {
-            "title": "Meta to allow AI rivals on WhatsApp for one year: Here\u2019s why",
-            "description": "[THE NEWS INTERNATIONAL] In a new bold initiative, Mark Zuckerberg's tech company Meta will allow AI rivals on its major platforms for a year. Artificial intelligence rivals will be allowed on WhatsApp for a year, Meta...",
-            "url": "https://www.thenews.com.pk/latest/1394719-meta-to-allow-ai-rivals-on-whatsapp-for-one-year-heres-why"
+            "title": "Trump: I 'Fired' Anthropic 'Like Dogs' Over Pentagon Dispute",
+            "description": "[NEWSMAX] Declaring the company is now in trouble, President Donald Trump said Thursday that he fired artificial intelligence company Anthropic like dogs after the firm refused to grant the Pentagon full...",
+            "url": "https://www.newsmax.com/politics/donald-trump-anthropic-ai/2026/03/05/id/1248489/"
         },
         {
-            "title": "Proposed New York law would bar AI chatbots from posing as lawyers, allow duped users to sue",
-            "description": "[REUTERS] A proposed law working its way through New York's legislature would bar artificial intelligence chatbots from impersonating lawyers and other licensed professionals in the state, opening up AI...",
-            "url": "https://www.reuters.com/legal/government/proposed-new-york-law-would-bar-ai-chatbots-posing-lawyers-allow-duped-users-sue-2026-03-05/"
+            "title": "US mulls new rules for AI chip exports, including requiring investments by foreign firms in the US",
+            "description": "[REUTERS] U.S. officials are debating a new regulatory framework for exporting artificial intelligence chips and \u200bare considering requiring foreign nations to invest in U.S. AI data centers \u200cor security...",
+            "url": "https://www.reuters.com/world/us-mulls-new-rules-ai-chip-exports-including-requiring-investments-by-foreign-2026-03-05/"
         },
         {
-            "title": "Dueling documentaries illuminate the promise and perils of artificial intelligence",
-            "description": "[BALTIMORE SUN] By MICHAEL LIEDTKE SAN FRANCISCO (AP) \u2014 Artificial intelligence\u2019s dystopian specter has spawned a pair of documentaries dissecting a technology that\u2019s depicted in the films as a ravenous parasite...",
-            "url": "https://www.baltimoresun.com/2026/03/05/dueling-documentaries-illuminate-the-promise-and-perils-of-artificial-intelligence/"
+            "title": "How AI is plugging in to doctor\u2019s offices, emergency rooms",
+            "description": "[CHICAGO TRIBUNE] Artificial intelligence has bounded into the mainstream, into personal lives, classroom assignments and work meetings \u2014 so it should be no surprise to find it in doctors\u2019 offices and emergency rooms,...",
+            "url": "https://www.chicagotribune.com/2026/03/05/ai-doctors-offices-emergency-rooms/"
         },
         {
-            "title": "Pentagon Notifies Anthropic It\u2019s Deemed Firm Supply-Chain Risk",
-            "description": "[LIVEMINT] The Pentagon said it has formally notified Anthropic PBC that it\u2019s determined the company and its products pose a risk to the US supply chain, according to a senior defense official, escalating a...",
-            "url": "https://www.livemint.com/companies/pentagon-notifies-anthropic-it-s-deemed-firm-supply-chain-risk-11772738828025.html"
+            "title": "AI therapy boom as 41% of Britons turn to ChatGPT for counselling",
+            "description": "[GB NEWS] More than four in ten UK adults would use artificial intelligence such as ChatGPT for therapy, a major study shows",
+            "url": "https://www.gbnews.com/news/ai-therapy-britons-chat-gpt-counselling"
         },
         {
-            "title": "Who pays for AI\u2019s power? California watchdog urges new data center rules",
-            "description": "[THE ASSOCIATED PRESS] If you\u2019re worried about data centers and AI inflating your electricity bill, you\u2019re not alone. A California watchdog released a report Tuesday urging policymakers to act fast on the state\u2019s...",
-            "url": "https://apnews.com/article/california-data-management-and-storage-energy-industry-artificial-intelligence-information-technology-8cb3158b0bc4e40870ac73a55f366fa4"
+            "title": "Iran strike may be the first AI war, and it won\u2019t be the last",
+            "description": "[THE GLOBE AND MAIL] As artificial intelligence helps identify targets and compress battlefield decisions, there are concerns that human oversight is shrinking",
+            "url": "https://www.theglobeandmail.com/business/commentary/article-iran-ai-strikes-targets/"
         },
         {
-            "title": "Meta Platforms Faces Lawsuit Over Privacy Concerns Related to AI Smart Glasses",
-            "description": "[MARKETSCREENER] Meta Platforms and its manufacturing partner, Luxottica of America, are facing a lawsuit in the US over Meta's artificial intelligence smart glasses for allegedly violating privacy laws and...",
-            "url": "https://www.marketscreener.com/news/meta-platforms-faces-lawsuit-over-privacy-concerns-related-to-ai-smart-glasses-ce7e5fdbdc8ef126"
+            "title": "Anthropic officially designated a supply chain risk by Pentagon",
+            "description": "[BBC NEWS] The supply chain risk designation of the artificial intelligence firm is a first for a US company.",
+            "url": "https://www.bbc.com/news/articles/cn5g3z3xe65o"
         }
     ]
 }
