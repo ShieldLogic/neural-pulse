@@ -1,11 +1,6 @@
 {
-    "updated": "2026-03-06 06:42:10 UTC",
+    "updated": "2026-03-06 08:33:40 UTC",
     "news": [
-        {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
-        },
         {
             "title": "The Machine Learning Practitioner\u2019s Guide to Speculative Decoding",
             "description": "[MACHINELEARNINGMASTERY] Large language models generate text one token at a time.",
@@ -27,14 +22,14 @@
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
         },
         {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
-        },
-        {
             "title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/"
+        },
+        {
+            "title": "Document Clustering with LLM Embeddings in Scikit-learn",
+            "description": "[MACHINELEARNINGMASTERY] Imagine that you suddenly obtain a large collection of unclassified documents and are tasked with grouping them by topic.",
+            "url": "https://machinelearningmastery.com/document-clustering-with-llm-embeddings-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -67,6 +62,11 @@
             "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
         },
         {
+            "title": "The 7 Biggest Misconceptions About AI Agents (and Why They Matter)",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; AI agents are everywhere.",
+            "url": "https://machinelearningmastery.com/the-7-biggest-misconceptions-about-ai-agents-and-why-they-matter/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
         },
         {
-            "title": "Oracle Plans to Layoff Thousands Amid Cash Crunch From Data Center Expansion",
-            "description": "[MARKETSCREENER] Oracle is planning to cut thousands of jobs as the company works to better manage a cash crunch owing to its massive artificial intelligence data center expansion effort, Bloomberg reported...",
-            "url": "https://www.marketscreener.com/news/oracle-plans-to-layoff-thousands-amid-cash-crunch-from-data-center-expansion-ce7e5fdbdc8cf623"
+            "title": "How Applied AI Is Reshaping Finance: Jiazhao Shi\u2019s View on Financial Intelligence and LLM",
+            "description": "[TECHBULLION] Artificial intelligence is rapidly reshaping industries worldwide, and finance is no exception. Technologies such as machine learning (ML), large language models (LLMs), and natural language...",
+            "url": "https://techbullion.com/how-applied-ai-is-reshaping-finance-jiazhao-shis-view-on-financial-intelligence-and-llm/"
         },
         {
-            "title": "No substitute for AI power",
-            "description": "[THE NEW INDIAN EXPRESS] Artificial intelligence is not a monolithic technology that can be diffused like a textbook. When AI is embedded in defence, logistics and finance, access to it",
-            "url": "https://www.newindianexpress.com/opinion/2026/Mar/05/no-substitute-for-ai-power"
+            "title": "Pentagon informs Anthropic it is a supply chain risk",
+            "description": "[CNA] The Pentagon has slapped a formal supply-chain risk designation on artificial intelligence lab Anthropic, its CEO said on Thursday (Mar 5). \"Yesterday, Anthropic received a letter from the Department...",
+            "url": "https://www.channelnewsasia.com/world/pentagon-anthropic-claude-supply-chain-risks-us-ai-5974986"
         },
         {
-            "title": "Pentagon notifies Anthropic it\u2019s deemed firm a supply-chain risk",
-            "description": "[SPOKANE SPOKESMAN-REVIEW] The Pentagon said it has formally notified Anthropic PBC that it\u2019s determined the company and its products pose a risk to the U.S. supply chain, according to a senior defense official, escalating a...",
-            "url": "https://www.spokesman.com/stories/2026/mar/05/pentagon-notifies-anthropic-its-deemed-firm-a-supp/"
+            "title": "US Drafts Rules to Expand Control of World Chip Trade",
+            "description": "[NEWSMAX] The Trump administration has drafted rules requiring U.S. approval for global sales by Nvidia and other AI chipmakers, a new policy that would give Washington oversight of global artificial...",
+            "url": "https://www.newsmax.com/newsfront/united-states-chips-artificial-intelligence/2026/03/05/id/1248478/"
         },
         {
-            "title": "Anthropic Labeled Supply-Chain Risk, Pentagon Says",
-            "description": "[BLOOMBERG] The Pentagon said it has formally notified Anthropic PBC that it\u2019s deemed the artificial intelligence company and its products a risk to the US supply chain, according to a senior defense official.",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-05/pentagon-says-it-s-told-anthropic-the-firm-is-supply-chain-risk"
+            "title": "STPI to turn 68 centres into AI hubs as it expands startup incubation",
+            "description": "[THE FINANCIAL EXPRESS] The Software Technology Parks of India (STPI) is set to transform its 68-centre nationwide network into 'AI factories' to empower startups to build and deploy advanced artificial intelligence...",
+            "url": "https://www.financialexpress.com/business/start-ups/stpi-to-turn-68-centres-into-ai-hubs-as-it-expands-startup-incubation/4163784/"
         },
         {
-            "title": "Wedbush reveals 10 tech stocks to favor amid tensions with Iran",
-            "description": "[MARKETSCREENER] In an environment marked by sharp volatility relating to geopolitical tensions and questions around artificial intelligence, Dan Ives, Wedbush's technology analyst, has published a list of ten...",
-            "url": "https://www.marketscreener.com/news/wedbush-reveals-10-tech-stocks-to-favor-amid-tensions-with-iran-ce7e5fdbdc8af620"
+            "title": "Meta to allow AI rivals on WhatsApp for one year: Here\u2019s why",
+            "description": "[THE NEWS INTERNATIONAL] In a new bold initiative, Mark Zuckerberg's tech company Meta will allow AI rivals on its major platforms for a year. Artificial intelligence rivals will be allowed on WhatsApp for a year, Meta...",
+            "url": "https://www.thenews.com.pk/latest/1394719-meta-to-allow-ai-rivals-on-whatsapp-for-one-year-heres-why"
         },
         {
-            "title": "OpenAI Releases New Financial Services Tools, Rivaling Anthropic",
-            "description": "[BLOOMBERG] OpenAI is releasing a new flagship artificial intelligence model and a suite of financial-services tools that are meant to be better at tackling office work, ramping up competition with Anthropic PBC...",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-05/openai-releases-new-financial-services-tools-rivaling-anthropic"
+            "title": "Proposed New York law would bar AI chatbots from posing as lawyers, allow duped users to sue",
+            "description": "[REUTERS] A proposed law working its way through New York's legislature would bar artificial intelligence chatbots from impersonating lawyers and other licensed professionals in the state, opening up AI...",
+            "url": "https://www.reuters.com/legal/government/proposed-new-york-law-would-bar-ai-chatbots-posing-lawyers-allow-duped-users-sue-2026-03-05/"
         },
         {
-            "title": "DeepWaste AI Arrives as an Agentless Optimization Layer for LLM Ops, GPUs, and Data Pipelines",
-            "description": "[TECHBULLION] On February 27, 2026, PointFive released DeepWaste\u2122 AI, an agentless optimization module designed to continuously improve efficiency across LLM services, GPU infrastructure, and AI data platforms....",
-            "url": "https://techbullion.com/deepwaste-ai-arrives-as-an-agentless-optimization-layer-for-llm-ops-gpus-and-data-pipelines-2/"
+            "title": "Dueling documentaries illuminate the promise and perils of artificial intelligence",
+            "description": "[BALTIMORE SUN] By MICHAEL LIEDTKE SAN FRANCISCO (AP) \u2014 Artificial intelligence\u2019s dystopian specter has spawned a pair of documentaries dissecting a technology that\u2019s depicted in the films as a ravenous parasite...",
+            "url": "https://www.baltimoresun.com/2026/03/05/dueling-documentaries-illuminate-the-promise-and-perils-of-artificial-intelligence/"
         },
         {
-            "title": "US Prepares Global Licensing Requirements for AI Chip Exports Worldwide",
-            "description": "[SCANX.TRADE] The United States is developing comprehensive legislation requiring export licenses for artificial intelligence chips to all global destinations, building upon existing regulations that mandate US...",
-            "url": "https://scanx.trade/stock-market-news/global/us-mandates-global-approval-for-nvidia-and-amd-product-shipments/34277790"
+            "title": "Pentagon Notifies Anthropic It\u2019s Deemed Firm Supply-Chain Risk",
+            "description": "[LIVEMINT] The Pentagon said it has formally notified Anthropic PBC that it\u2019s determined the company and its products pose a risk to the US supply chain, according to a senior defense official, escalating a...",
+            "url": "https://www.livemint.com/companies/pentagon-notifies-anthropic-it-s-deemed-firm-supply-chain-risk-11772738828025.html"
         },
         {
-            "title": "RTO staff work till 8 pm across Kerala to protest cuts in career advancement",
-            "description": "[MALAYALA MANORAMA] The agitation, organised by the Kerala Motor Vehicle Department Staff Association, called for the rollback of the amendments to the Special Rules.Motor Vehicles Department protest, MVD staff Kerala,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/05/mvd-protest-kerala-career-advancement-delay.html"
+            "title": "Who pays for AI\u2019s power? California watchdog urges new data center rules",
+            "description": "[THE ASSOCIATED PRESS] If you\u2019re worried about data centers and AI inflating your electricity bill, you\u2019re not alone. A California watchdog released a report Tuesday urging policymakers to act fast on the state\u2019s...",
+            "url": "https://apnews.com/article/california-data-management-and-storage-energy-industry-artificial-intelligence-information-technology-8cb3158b0bc4e40870ac73a55f366fa4"
         },
         {
-            "title": "Sam Altman takes swipe at Anthropic, says companies abandoning democratic process \u2018bad for society\u2019",
-            "description": "[MONEYCONTROL] Anthropic has clashed with the United States Department of Defense in recent weeks over how the agency can use its artificial intelligence models.",
-            "url": "https://www.moneycontrol.com/world/sam-altman-takes-swipe-at-anthropic-says-companies-abandoning-democratic-process-bad-for-society-article-13852280.html"
+            "title": "Meta Platforms Faces Lawsuit Over Privacy Concerns Related to AI Smart Glasses",
+            "description": "[MARKETSCREENER] Meta Platforms and its manufacturing partner, Luxottica of America, are facing a lawsuit in the US over Meta's artificial intelligence smart glasses for allegedly violating privacy laws and...",
+            "url": "https://www.marketscreener.com/news/meta-platforms-faces-lawsuit-over-privacy-concerns-related-to-ai-smart-glasses-ce7e5fdbdc8ef126"
         }
     ]
 }
