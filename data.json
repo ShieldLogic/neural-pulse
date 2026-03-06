@@ -1,6 +1,11 @@
 {
-    "updated": "2026-03-06 20:27:50 UTC",
+    "updated": "2026-03-06 22:24:40 UTC",
     "news": [
+        {
+            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
+            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
+            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
+        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
@@ -12,14 +17,14 @@
             "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
         },
         {
-            "title": "Export Your ML Model in ONNX Format",
-            "description": "[MACHINELEARNINGMASTERY] When building machine learning models, training is only half the journey.",
-            "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/"
-        },
-        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
+        },
+        {
+            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
+            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
+            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -27,24 +32,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
-            "title": "7 Advanced Feature Engineering Tricks Using LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You have mastered model.",
-            "url": "https://machinelearningmastery.com/7-advanced-feature-engineering-tricks-using-llm-embeddings/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "7 Important Considerations Before Deploying Agentic AI in Production",
-            "description": "[MACHINELEARNINGMASTERY] The promise of agentic AI is compelling: autonomous systems that reason, plan, and execute complex tasks with minimal human intervention.",
-            "url": "https://machinelearningmastery.com/7-important-considerations-before-deploying-agentic-ai-in-production/"
+            "title": "Building a Simple MCP Server in Python",
+            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
+            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
         },
         {
-            "title": "Agent Evaluation: How to Test and Measure Agentic AI Performance",
-            "description": "[MACHINELEARNINGMASTERY] AI agents that use tools, make decisions, and complete multi-step tasks aren't prototypes anymore.",
-            "url": "https://machinelearningmastery.com/agent-evaluation-how-to-test-and-measure-agentic-ai-performance/"
+            "title": "Choosing Between PCA and t-SNE for Visualization",
+            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
+            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
         },
         {
             "title": "RL without TD learning",
@@ -52,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "A Beginner\u2019s Reading List for Large Language Models for 2026",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; The large language models (LLMs) hype wave shows no sign of fading anytime soon: after all, LLMs keep reinventing themselves at a rapid pace and transforming the industry as a whole.",
-            "url": "https://machinelearningmastery.com/a-beginners-reading-list-for-large-language-models-for-2026/"
+            "title": "Top 7 Small Language Models You Can Run on a Laptop",
+            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
+            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/where-wild-things-roam-identifying-wildlife-with-speciesnet/"
         },
         {
-            "title": "Kerala Vande Bharat trains get new menu: Vegetarian and non-vegetarian options",
-            "description": "[MALAYALA MANORAMA] The latest revised menu in the Vande Bharat train offers three types of menus for breakfast, lunch and dinner on different days..Vande Bharat Kerala menu, Kerala Vande Bharat food, Vande Bharat train...",
-            "url": "https://www.onmanorama.com/travel/travel-news/2026/03/06/kerala-vande-bharat-trains-menu.html"
+            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Anthropic's AI Revolution: Balancing Innovation and Employment Impact",
+            "description": "[DEVDISCOURSE] Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all...",
+            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life"
         },
         {
-            "title": "Angamaly hit-and-run case: Absconding doctor Cyriac detained in Vagamon after 6 days",
-            "description": "[MALAYALA MANORAMA] The police had already issued a lookout notice for Cyriac across the state..Angamaly hit and run, Jasliya Johnson accident, Dr. Cyriac P George arrest, Kochi student death, culpable homicide case...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/06/angamaly-hit-run-arrest-jasliya-johnson-dr-cyriac.html"
+            "title": "UPSC civil services exam 2025 results: Malayali candidates secure top ranks",
+            "description": "[MALAYALA MANORAMA] A total of 958 candidates have qualified and been recommended for appointment to central civil services..UPSC Civil Services Exam 2025 results, Kerala Civil Services toppers, R Sruthi UPSC rank, Ajay...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/06/upsc-civil-services-2025-results-malayali-toppers.html"
         },
         {
-            "title": "Exclusive: Block\u2019s CFO on the 18\u2011month AI leap behind slashing nearly half its workforce",
-            "description": "[FORTUNE] New tools including its custom LLM \"goose\" gave leaders confidence that smaller teams can now handle \u201creally meaningful bodies of work,\u201d says Block\u2019s CFO and COO Amrita Ahuja.",
-            "url": "https://fortune.com/2026/03/06/exclusive-block-cfo-ai-leaps-18-months-led-decision-slash-nearly-half-its-workforce/"
+            "title": "AI investments fuelling global patent growth: UN",
+            "description": "[THE ECONOMIC TIMES] The number of international patents filed last year for digital communications technology and semiconductors grew strongly, reflecting the surge in artificial intelligence investments, the United...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-investments-fuelling-global-patent-growth-un/articleshow/129147332.cms"
         },
         {
-            "title": "\u2018I\u2019ve never worked with any actor this long\u2019: Adoor on Mammootty\u2019s longest collaboration as \u2018Padayatra\u2019 wraps up",
-            "description": "[MALAYALA MANORAMA] Mammootty Adoor Gopalakrishnan collaboration is set to captivate audiences with their fourth film, 'Padayatra', marking a reunion after 30 years..Mammootty Adoor Gopalakrishnan collaboration,...",
-            "url": "https://www.onmanorama.com/entertainment/interviews/2026/03/06/mammootty-adoor-gopalakrishnan-padayatra-working-together-for-years.html"
+            "title": "The \u2018secretary of war\u2019 and a tech CEO shouldn\u2019t be the only ones debating ethical use of AI | Editorial",
+            "description": "[THE PHILADELPHIA INQUIRER] Congress should issue legally binding guidelines for the use of artificial intelligence in war \u2014 including restrictions on mass surveillance and autonomous weapons.",
+            "url": "https://www.inquirer.com/opinion/editorials/anthropic-artificial-intelligence-claude-war-hegseth-surveillance-20260306.html"
         },
         {
-            "title": "AI can do the analysis. So what exactly are MBAs being hired for now?",
-            "description": "[TIMES OF INDIA] Education News: Artificial intelligence(AI) now performs tasks that once defined the analytical core of management education. Strategy drafts, financial models and co.",
-            "url": "https://timesofindia.indiatimes.com/education/ai-can-do-the-analysis-so-what-exactly-are-mbas-being-hired-for-now/articleshow/129138645.cms"
+            "title": "Microsoft Retains Anthropic Technology Following Pentagon Supply Chain Warning",
+            "description": "[MARKETSCREENER] Microsoft plans to keep Anthropic's artificial intelligence tools integrated within its customer platforms, excluding use by the US Department of War, CNBC reported Thursday, citing an emailed...",
+            "url": "https://www.marketscreener.com/news/microsoft-retains-anthropic-technology-following-pentagon-supply-chain-warning-ce7e5fd8d88ef12c"
         },
         {
-            "title": "Pentagon says it is labeling AI company Anthropic a supply chain risk 'effective immediately'",
-            "description": "[THE NEWS MINUTE] The Trump administration is following through with its threat to designate artificial intelligence company Anthropic as a supply chain risk in an unprecedented",
-            "url": "https://www.thenewsminute.com/news/pentagon-says-it-is-labeling-ai-company-anthropic-a-supply-chain-risk-effective-immediately-2"
+            "title": "Netflix brings AI filmmaking to Hollywood",
+            "description": "[THE NEWS INTERNATIONAL] Netflix has acquired InterPositive, an AI filmmaking startup founded by Ben Affleck, to incorporate its artificial intelligence technology and 16-member staff. The deal announced will allow Netflix...",
+            "url": "https://www.thenews.com.pk/latest/1394796-netflix-brings-ai-filmmaking-to-hollywood"
         },
         {
-            "title": "Visit dentist as soon as babies get their first milk teeth: Doctor explains reasons",
-            "description": "[MALAYALA MANORAMA] There is a common misbelief that milk teeth do not need any care or treatment as they fall off..dental care, children's dental health, National Dentist Day, oral hygiene for kids, early dental visits...",
-            "url": "https://www.onmanorama.com/health/healthcare/2026/03/06/national-dentist-day-doctor-visit-milk-teeth.html"
+            "title": "STEVE FORBES: The AI Cold War has begun and America cannot afford to lose",
+            "description": "[FOX NEWS] Artificial intelligence competition between China and United States intensifies as Beijing deploys open-weight AI models to challenge American technological leadership.",
+            "url": "https://www.foxnews.com/opinion/steve-forbes-ai-cold-war-has-begun-america-cannot-afford-lose"
         },
         {
-            "title": "Kerala CM writes to PM Modi seeking urgent steps to help stranded Indians in Middle East",
-            "description": "[MALAYALA MANORAMA] Kerala Chief Minister Pinarayi Vijayan has formally requested Prime Minister Narendra Modi to take immediate action to aid Indian nationals stranded.stranded Indians Middle East, flight crisis India,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/06/pinarayi-vijayan-writes-to-pm-stranded-indians-middle-east-crisis.html"
+            "title": "UPSC civil services exam 2025 results out; Anuj Agnihotri secures top rank",
+            "description": "[MALAYALA MANORAMA] A total of 958 candidates have cleared the examination and been recommended for appointment, with 348 of them having provisional candidatures..Civil Services Exam 2025 results, UPSC CSE 2025 toppers,...",
+            "url": "https://www.onmanorama.com/news/india/2026/03/06/upsc-civil-services-exam-2025-results.html"
         },
         {
-            "title": "Foreign outflows from Indian IT stocks at 7-month high in February on AI shockwaves",
-            "description": "[REUTERS] Foreign outflows from India's information technology stocks hit a seven-month high in February, on worries that artificial intelligence-led disruption could squeeze earnings.",
-            "url": "https://www.reuters.com/world/india/foreign-outflows-indian-it-stocks-7-month-high-february-ai-shockwaves-2026-03-06/"
+            "title": "Kerala's Wayanad coffee plantations turn into a sea of white flowers",
+            "description": "[MALAYALA MANORAMA] Visitors are advised not to touch the flowers. They are extremely sensitive, and any disturbance can disrupt fruit formation..Wayanad coffee blossom, Kerala coffee plantations, summer coffee flowers...",
+            "url": "https://www.onmanorama.com/travel/kerala/2026/03/06/kerala-wayanad-coffee-plantations-flower-booms.html"
         },
         {
-            "title": "Foreign outflows from Indian IT stocks at 7-month high in February on AI shockwaves",
-            "description": "[MARKETSCREENER] Foreign outflows from India's information technology stocks hit a seven-month high in February, on worries that artificial intelligence-led disruption could squeeze earnings. Foreign...",
-            "url": "https://www.marketscreener.com/news/foreign-outflows-from-indian-it-stocks-at-7-month-high-in-february-on-ai-shockwaves-ce7e5fd8d98bf720"
+            "title": "A Clearer Picture: How AI Is Helping Doctors See More in Breast Ultrasound",
+            "description": "[TECHBULLION] An empowering look at how artificial intelligence is supporting breast imaging \u2014 and what it means for women\u2019s health. Breast imaging has come a long way over the past few decades. Mammograms,...",
+            "url": "https://techbullion.com/a-clearer-picture-how-ai-is-helping-doctors-see-more-in-breast-ultrasound/"
         }
     ]
 }
