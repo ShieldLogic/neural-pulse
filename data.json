@@ -1,11 +1,6 @@
 {
-    "updated": "2026-03-06 22:24:40 UTC",
+    "updated": "2026-03-07 01:43:02 UTC",
     "news": [
-        {
-            "title": "Agentify Your App with GitHub Copilot\u2019s Agentic Coding SDK",
-            "description": "[MACHINELEARNINGMASTERY] For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-            "url": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/"
-        },
         {
             "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
             "description": "[RESEARCH] Algorithms & Theory",
@@ -17,14 +12,14 @@
             "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
         },
         {
+            "title": "5 Essential Security Patterns for Robust Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-essential-security-patterns-for-robust-agentic-ai/"
+        },
+        {
             "title": "Teaching AI to read a map",
             "description": "[RESEARCH] Machine Perception",
             "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
-        },
-        {
-            "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-            "description": "[MACHINELEARNINGMASTERY] Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is...",
-            "url": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/"
         },
         {
             "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
@@ -32,19 +27,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
+            "title": "Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; You've built an AI agent that works well in development.",
+            "url": "https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Building a Simple MCP Server in Python",
-            "description": "[MACHINELEARNINGMASTERY] Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
-            "url": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/"
-        },
-        {
-            "title": "Choosing Between PCA and t-SNE for Visualization",
-            "description": "[MACHINELEARNINGMASTERY] For data scientists, working with high-dimensional data is part of daily life.",
-            "url": "https://machinelearningmastery.com/choosing-between-pca-and-t-sne-for-visualization/"
+            "title": "Vector Databases vs. Graph RAG for Agent Memory: When to Use Which",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/"
         },
         {
             "title": "RL without TD learning",
@@ -52,14 +47,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Top 7 Small Language Models You Can Run on a Laptop",
-            "description": "[MACHINELEARNINGMASTERY] Powerful AI now runs on consumer hardware.",
-            "url": "https://machinelearningmastery.com/top-7-small-language-models-you-can-run-on-a-laptop/"
+            "title": "Build Semantic Search with LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] Traditional search engines have historically relied on keyword search.",
+            "url": "https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/"
         },
         {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "Can LLM Embeddings Improve Time Series Forecasting? A Practical Feature Engineering Approach",
+            "description": "[MACHINELEARNINGMASTERY] Using large language models (LLMs) &mdash; or their outputs, for that matter &mdash; for all kinds of machine learning-driven tasks, including predictive ones that were already being solved long...",
+            "url": "https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/"
         },
         {
             "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/where-wild-things-roam-identifying-wildlife-with-speciesnet/"
         },
         {
-            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Anthropic's AI Revolution: Balancing Innovation and Employment Impact",
-            "description": "[DEVDISCOURSE] Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all...",
-            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life"
+            "title": "Anthropic introduces free AI courses with Claude training and certificates; all details here",
+            "description": "[TIMES OF INDIA] Tech News News: US-based AI-startup \u2018Anthropic\u2019 has introduced a bunch of free learning platforms for beginners and advanced AI (Artificial Intelligence) learners. Se.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-introduces-free-ai-courses-with-claude-training-and-certificates-all-details-here/articleshow/129156692.cms"
         },
         {
-            "title": "UPSC civil services exam 2025 results: Malayali candidates secure top ranks",
-            "description": "[MALAYALA MANORAMA] A total of 958 candidates have qualified and been recommended for appointment to central civil services..UPSC Civil Services Exam 2025 results, Kerala Civil Services toppers, R Sruthi UPSC rank, Ajay...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/06/upsc-civil-services-2025-results-malayali-toppers.html"
+            "title": "Pentagon says it is labeling AI company Anthropic a supply chain risk \u2018effective immediately\u2019",
+            "description": "[THE MERCURY NEWS] The Trump administration is following through with its threat to designate artificial intelligence company Anthropic as a supply chain risk in an unprecedented move.",
+            "url": "https://www.mercurynews.com/2026/03/06/pentagon-says-it-is-labeling-ai-company-anthropic-a-supply-chain-risk-effective-immediately/"
         },
         {
-            "title": "AI investments fuelling global patent growth: UN",
-            "description": "[THE ECONOMIC TIMES] The number of international patents filed last year for digital communications technology and semiconductors grew strongly, reflecting the surge in artificial intelligence investments, the United...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-investments-fuelling-global-patent-growth-un/articleshow/129147332.cms"
+            "title": "BMO says this cloud stock is an early winner of agentic artificial intelligence boom",
+            "description": "[CNBC] BMO Capital Markets sees shares of Okta rising 22% from here.",
+            "url": "https://www.cnbc.com/2026/03/06/bmo-sees-okta-as-an-early-winner-of-agentic-artificial-intelligence-boom.html"
         },
         {
-            "title": "The \u2018secretary of war\u2019 and a tech CEO shouldn\u2019t be the only ones debating ethical use of AI | Editorial",
-            "description": "[THE PHILADELPHIA INQUIRER] Congress should issue legally binding guidelines for the use of artificial intelligence in war \u2014 including restrictions on mass surveillance and autonomous weapons.",
-            "url": "https://www.inquirer.com/opinion/editorials/anthropic-artificial-intelligence-claude-war-hegseth-surveillance-20260306.html"
+            "title": "Evidence tampering: Kerala HC reserves verdict on Antony Raju's plea to quash conviction",
+            "description": "[MALAYALA MANORAMA] The court also noted that while the physical act of receiving and returning the article had been proved, there was no clear evidence establishing.Antony Raju Kerala High Court, evidence tampering...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/06/kerala-high-court-mla-antony-raju-district-sessions-court-evidence-tampering-case.html"
         },
         {
-            "title": "Microsoft Retains Anthropic Technology Following Pentagon Supply Chain Warning",
-            "description": "[MARKETSCREENER] Microsoft plans to keep Anthropic's artificial intelligence tools integrated within its customer platforms, excluding use by the US Department of War, CNBC reported Thursday, citing an emailed...",
-            "url": "https://www.marketscreener.com/news/microsoft-retains-anthropic-technology-following-pentagon-supply-chain-warning-ce7e5fd8d88ef12c"
+            "title": "Iran-Israel War, US Artificial intelligence, Claude AI, Maven Smart Systems",
+            "description": "[NDTV.COM] Somewhere in the world a computer and a soldier 'spoke' and around 900 missiles hammered enemy targets, military bases and air defences, in 12 hours. If these lines seem disconnected, they are not -...",
+            "url": "https://www.ndtv.com/world-news/iran-israel-war-us-artificial-intelligence-claude-ai-maven-smart-systems-11178024"
         },
         {
-            "title": "Netflix brings AI filmmaking to Hollywood",
-            "description": "[THE NEWS INTERNATIONAL] Netflix has acquired InterPositive, an AI filmmaking startup founded by Ben Affleck, to incorporate its artificial intelligence technology and 16-member staff. The deal announced will allow Netflix...",
-            "url": "https://www.thenews.com.pk/latest/1394796-netflix-brings-ai-filmmaking-to-hollywood"
+            "title": "CAT wants minimum tenure for IAS officers, cancels multiple government orders transferring B Ashok",
+            "description": "[MALAYALA MANORAMA] This time as Chairman and Managing Director of Kerala Transport Development Finance Corporation. He secured a stay for this, too..Central Administrative Tribunal IAS transfers, IAS officer minimum...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/06/cat-ias-officer-minimum-tenure-rules-kerala-government.html"
         },
         {
-            "title": "STEVE FORBES: The AI Cold War has begun and America cannot afford to lose",
-            "description": "[FOX NEWS] Artificial intelligence competition between China and United States intensifies as Beijing deploys open-weight AI models to challenge American technological leadership.",
-            "url": "https://www.foxnews.com/opinion/steve-forbes-ai-cold-war-has-begun-america-cannot-afford-lose"
+            "title": "Maharashtra Budget: Government signs MoUs with OpenAI, Sarvam AI, IIT Bombay, BharatGen to boost state\u2019s IT sector",
+            "description": "[MONEYCONTROL] The government is also setting up an independent Department of Electronics, Information Technology and Artificial Intelligence for effective policymaking.",
+            "url": "https://www.moneycontrol.com/technology/maharashtra-budget-government-signs-mous-with-openai-sarvam-ai-iit-bombay-bharatgen-to-boost-state-s-it-sector-article-13853263.html"
         },
         {
-            "title": "UPSC civil services exam 2025 results out; Anuj Agnihotri secures top rank",
-            "description": "[MALAYALA MANORAMA] A total of 958 candidates have cleared the examination and been recommended for appointment, with 348 of them having provisional candidatures..Civil Services Exam 2025 results, UPSC CSE 2025 toppers,...",
-            "url": "https://www.onmanorama.com/news/india/2026/03/06/upsc-civil-services-exam-2025-results.html"
+            "title": "Mariana Neisuler assumes charge as US Consul General in Chennai",
+            "description": "[MALAYALA MANORAMA] Before her posting in Chennai, Neisuler served as the Counselor for Political and Economic Affairs at the US Embassy in Tashkent..US Consul General Chennai, Mariana L Neisuler, US Consulate Chennai,...",
+            "url": "https://www.onmanorama.com/news/world/2026/03/06/mariana-neisuler-assumes-charge-us-consul-general-chennai-united-states.html"
         },
         {
-            "title": "Kerala's Wayanad coffee plantations turn into a sea of white flowers",
-            "description": "[MALAYALA MANORAMA] Visitors are advised not to touch the flowers. They are extremely sensitive, and any disturbance can disrupt fruit formation..Wayanad coffee blossom, Kerala coffee plantations, summer coffee flowers...",
-            "url": "https://www.onmanorama.com/travel/kerala/2026/03/06/kerala-wayanad-coffee-plantations-flower-booms.html"
+            "title": "Pentagon feud with Anthropic shines light on AI\u2019s role in mass surveillance",
+            "description": "[HARTFORD COURANT] Anthropic PBC\u2019s clash with the Pentagon is drawing fresh attention to a lightly regulated practice: the U.S. government\u2019s purchase of commercially available information, such as browsing histories...",
+            "url": "https://www.courant.com/2026/03/06/pentagon-feud-with-anthropic-shines-light-on-ais-role-in-mass-surveillance-2/"
         },
         {
-            "title": "A Clearer Picture: How AI Is Helping Doctors See More in Breast Ultrasound",
-            "description": "[TECHBULLION] An empowering look at how artificial intelligence is supporting breast imaging \u2014 and what it means for women\u2019s health. Breast imaging has come a long way over the past few decades. Mammograms,...",
-            "url": "https://techbullion.com/a-clearer-picture-how-ai-is-helping-doctors-see-more-in-breast-ultrasound/"
+            "title": "Iran war pushing China to rethink its military AI and energy security",
+            "description": "[INTERESTING ENGINEERING] The Iran war is forcing China to reassess its strategy, from energy security to the military use of artificial intelligence.",
+            "url": "https://interestingengineering.com/military/how-china-reacts-to-iran-war"
         }
     ]
 }
