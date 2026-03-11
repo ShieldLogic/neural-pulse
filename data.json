@@ -1,130 +1,98 @@
 {
-    "updated": "2026-03-11 10:35:21 UTC",
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-03-11 11:55 UTC",
     "news": [
         {
-            "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
-            "description": "[RESEARCH] Algorithms & Theory",
-            "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "Nvidia Is Reportedly Developing Its Own Answer to OpenClaw",
+            "description": "Nvidia is getting in on the fad for agentic AI assistant platforms.",
+            "url": "https://gizmodo.com/nvidia-is-reportedly-developing-its-own-answer-to-openclaw-2000731710",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/jensen-claw-1200x675.jpg",
+            "publishedAt": "2026-03-10T09:00:52Z",
+            "content": "Nvidia is on the verge of announcing its own Claw, according to Wired. Can you believe it? An Nvidia claw! \r\nWhich claw do you use for your agentic AI tasks? The lightweight Nanoclaw? The security-fo\u2026 [+3478 chars]"
         },
         {
-            "title": "Teaching LLMs to reason like Bayesians",
-            "description": "[RESEARCH] Generative AI",
-            "url": "https://research.google/blog/teaching-llms-to-reason-like-bayesians/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+            "description": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale campaigns\" involved the creation of around 24,000 fraudule\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-23T20:22:55Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nDeepSeek allegedly targeted Claudes reasoning capabilities, while generating censorship-safe alternatives to politically sensitive questions.\r\nDeepSeek allegedly\u2026 [+3056 chars]"
         },
         {
-            "title": "5 Essential Security Patterns for Robust Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-essential-security-patterns-for-robust-agentic-ai/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "The $100 Billion OpenAI-Nvidia Deal Is Not Happening",
+            "description": "The deal that once sparked circular dealmaking fears is no more, according to Jensen Huang.",
+            "url": "https://gizmodo.com/the-100-billion-openai-nvidia-deal-is-not-happening-2000729749",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/jensen-huang-july-23-2025-1200x675.jpg",
+            "publishedAt": "2026-03-04T22:30:48Z",
+            "content": "The whopping $100 billion investment that Nvidia said it will make in OpenAI is probably not happening, according to Nvidia CEO Jensen Huang.\r\nNvidia\u2019s latest finalized investment of $30 billion, whi\u2026 [+2481 chars]"
         },
         {
-            "title": "Teaching AI to read a map",
-            "description": "[RESEARCH] Machine Perception",
-            "url": "https://research.google/blog/teaching-ai-to-read-a-map/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "\u2018Compute Equals Revenues\u2019: Nvidia Needs Jensen Huang\u2019s New Catchphrase to Be True",
+            "description": "Here's everything you need to know from Nvidia's latest earnings call.",
+            "url": "https://gizmodo.com/compute-equals-revenues-nvidia-needs-jensen-huangs-new-catchphrase-to-be-true-2000726841",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/GettyImages-2256813174-1200x675.jpg",
+            "publishedAt": "2026-02-26T02:05:12Z",
+            "content": "Nvidia reported earnings on Wednesday, and as expected, the numbers were good. Really good. The company gets more than 91% of its sales from its data center unit, which generated revenue of $193,737 \u2026 [+5032 chars]"
         },
         {
-            "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
-            "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
-            "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Zo\u00eb Schiffer, Lauren Goode",
+            "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
+            "description": "Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.",
+            "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
+            "urlToImage": "https://media.wired.com/photos/69aa166a88f33482258401e7/191:100/w_1280,c_limit/Nvidia-Scoop-Business-2260170952.jpg",
+            "publishedAt": "2026-03-09T23:11:34Z",
+            "content": "Nvidia is planning to launch an open source platform for AI agents, people familiar with the companys plans tell WIRED.\r\nThe chipmaker has been pitching the product, referred to as NemoClaw, to enter\u2026 [+3264 chars]"
         },
         {
-            "title": "Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; You've built an AI agent that works well in development.",
-            "url": "https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Meta\u2019s new deal with Nvidia buys up millions of AI chips",
+            "description": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Gr\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-02-18T00:27:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias starting to sell AI CPUs for use by themselves for the first time.\r\nNvidias starting to sell AI CPUs for use by themselves for the first time.\r\nby\r\nStevi\u2026 [+2390 chars]"
         },
         {
-            "title": "Whole-Body Conditioned Egocentric Video Prediction",
-            "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
-            "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "Vector Databases vs. Graph RAG for Agent Memory: When to Use Which",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/"
-        },
-        {
-            "title": "RL without TD learning",
-            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
-            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
-        },
-        {
-            "title": "Build Semantic Search with LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] Traditional search engines have historically relied on keyword search.",
-            "url": "https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/"
-        },
-        {
-            "title": "What exactly does word2vec learn?",
-            "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
-            "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "Can LLM Embeddings Improve Time Series Forecasting? A Practical Feature Engineering Approach",
-            "description": "[MACHINELEARNINGMASTERY] Using large language models (LLMs) &mdash; or their outputs, for that matter &mdash; for all kinds of machine learning-driven tasks, including predictive ones that were already being solved long...",
-            "url": "https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/"
-        },
-        {
-            "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
-            "description": "[BAIR] Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the...",
-            "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
-        },
-        {
-            "title": "WAXAL: A large-scale open resource for African language speech technology",
-            "description": "[RESEARCH] Natural Language Processing",
-            "url": "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/"
-        },
-        {
-            "title": "Where wild things roam: Identifying wildlife with SpeciesNet",
-            "description": "[RESEARCH] Climate & Sustainability",
-            "url": "https://research.google/blog/where-wild-things-roam-identifying-wildlife-with-speciesnet/"
-        },
-        {
-            "title": "Communications Services Down on Risk Aversion -- Communications Services Roundup",
-            "description": "[MARKETSCREENER] Communications-services ticked down as risks associated with the war in Iran, artificial-intelligence investment and private credit weighed on risk appetite. Paradoxically, the outbreak of war may...",
-            "url": "https://www.marketscreener.com/news/communications-services-down-on-risk-aversion-communications-services-roundup-ce7e5fdfde88f623"
-        },
-        {
-            "title": "Fox News poll shows 53% of voters expect AI to change life dramatically",
-            "description": "[FOX NEWS] Fox News poll finds 9 in 10 voters think artificial intelligence will change life in the U.S. significantly, with 53% saying AI will transform society a lot in coming years.",
-            "url": "https://www.foxnews.com/politics/fox-news-poll-voters-expect-ai-transform-our-lives-today-not-day"
-        },
-        {
-            "title": "Warburg-Backed PDG to Raise $5 Billion in Debt for Data Centers",
-            "description": "[BLOOMBERG] Singapore\u2019s Princeton Digital Group plans to raise as much as $5 billion in debt this year to fund a data center buildout across several countries in Asia, another sign of the capital pouring into...",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-10/warburg-backed-pdg-to-raise-5-billion-in-debt-for-data-center-push-in-asia"
-        },
-        {
-            "title": "Meta to acquire Moltbook, the social network for AI agents",
-            "description": "[THE MANILA TIMES] LOS ANGELES \u2014 Meta said Tuesday it is acquiring Moltbook, a social network built exclusively for artificial intelligence agents to make posts and interact with each other.",
-            "url": "https://www.manilatimes.net/2026/03/11/business/sunday-business-it/meta-to-acquire-moltbook-the-social-network-for-ai-agents/2297461"
-        },
-        {
-            "title": "Applied Materials forges partnerships with Micron and SK Hynix for AI memory chips",
-            "description": "[MARKETSCREENER] Applied Materials said on Tuesday it has partnered with memory chip companies Micron Technology and SK Hynix to develop next-generation chips that are crucial for artificial intelligence and...",
-            "url": "https://www.marketscreener.com/news/applied-materials-forges-partnerships-with-micron-and-sk-hynix-for-ai-memory-chips-ce7e5fdfdf8ff22c"
-        },
-        {
-            "title": "Oracle Tops Quarterly Estimates on Cloud Computing Demand Strength; Shares Rally After Hours",
-            "description": "[MARKETSCREENER] Oracle's fiscal third-quarter results surpassed Wall Street's estimates, buoyed by strong demand for cloud computing amid an artificial intelligence boom. Revenue increased 22% year-on-year to...",
-            "url": "https://www.marketscreener.com/news/oracle-tops-quarterly-estimates-on-cloud-computing-demand-strength-shares-rally-after-hours-ce7e5fdfdf8df421"
-        },
-        {
-            "title": "Musk\u2019s xAI wins permit for data center\u2019s makeshift power plant despite backlash",
-            "description": "[THE GUARDIAN] Billionaire\u2019s artificial intelligence company gets approval to run 41 methane gas turbines at its \u2018Colossus 2\u2019 in Mississippi",
-            "url": "https://www.theguardian.com/technology/2026/mar/10/elon-musk-xai-data-centers"
-        },
-        {
-            "title": "Meta to acquire Moltbook, the social network for AI agents",
-            "description": "[WTOP] LOS ANGELES (AP) \u2014 Meta said Wednesday it is acquiring Moltbook, a social network built exclusively for artificial intelligence agents to make posts and\u2026",
-            "url": "https://wtop.com/social-media/2026/03/meta-to-acquire-moltbook-the-social-network-for-ai-agents/"
-        },
-        {
-            "title": "Meta to Acquire Moltbook, the Social Network for AI Agents",
-            "description": "[U.S. NEWS & WORLD REPORT] LOS ANGELES (AP) \u2014 Meta said Wednesday it is acquiring Moltbook, a social network built exclusively for artificial intelligence agents to make posts and interact with each other.",
-            "url": "https://www.usnews.com/news/technology/articles/2026-03-10/meta-to-acquire-moltbook-the-social-network-for-ai-agents"
-        },
-        {
-            "title": "Oracle beats quarterly revenue estimates, shares rise",
-            "description": "[MARKETSCREENER] Oracle beat Wall Street estimates for third-quarter revenue on Tuesday, as robust demand for its cloud computing services, driven by the artificial intelligence boom, helped the company compete...",
-            "url": "https://www.marketscreener.com/news/oracle-beats-quarterly-revenue-estimates-shares-rise-ce7e5fdfdc8bf424"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Nvidia\u2019s spending $4 billion on photonics to stay ahead of the curve in AI",
+            "description": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds ove\u2026",
+            "url": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-02T16:56:49Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOptical tech from Lumentum and Coherent could be key to connecting the GPUs inside AI data centers.\r\nOptical tech from Lumentum and Coherent could be key to conn\u2026 [+2743 chars]"
         }
     ]
 }
