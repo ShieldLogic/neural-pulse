@@ -1,98 +1,130 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-03-14 11:47 UTC",
+    "updated": "2026-03-14 12:42:31 UTC",
     "news": [
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "Nvidia Is Reportedly Developing Its Own Answer to OpenClaw",
-            "description": "Nvidia is getting in on the fad for agentic AI assistant platforms.",
-            "url": "https://gizmodo.com/nvidia-is-reportedly-developing-its-own-answer-to-openclaw-2000731710",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/jensen-claw-1200x675.jpg",
-            "publishedAt": "2026-03-10T09:00:52Z",
-            "content": "Nvidia is on the verge of announcing its own Claw, according to Wired. Can you believe it? An Nvidia claw! \r\nWhich claw do you use for your agentic AI tasks? The lightweight Nanoclaw? The security-fo\u2026 [+3478 chars]"
+            "title": "Exploring the feasibility of conversational diagnostic AI in a real-world clinical study",
+            "description": "[RESEARCH] Generative AI",
+            "url": "https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
-            "description": "Anthropic claims DeepSeek and two other Chinese AI companies misused its Claude AI model in an attempt to improve their own products. In an announcement on Monday, Anthropic says the \"industrial-scale campaigns\" involved the creation of around 24,000 fraudule\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-23T20:22:55Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nDeepSeek allegedly targeted Claudes reasoning capabilities, while generating censorship-safe alternatives to politically sensitive questions.\r\nDeepSeek allegedly\u2026 [+3056 chars]"
+            "title": "5 Essential Security Patterns for Robust Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-essential-security-patterns-for-robust-agentic-ai/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "The $100 Billion OpenAI-Nvidia Deal Is Not Happening",
-            "description": "The deal that once sparked circular dealmaking fears is no more, according to Jensen Huang.",
-            "url": "https://gizmodo.com/the-100-billion-openai-nvidia-deal-is-not-happening-2000729749",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/jensen-huang-july-23-2025-1200x675.jpg",
-            "publishedAt": "2026-03-04T22:30:48Z",
-            "content": "The whopping $100 billion investment that Nvidia said it will make in OpenAI is probably not happening, according to Nvidia CEO Jensen Huang.\r\nNvidia\u2019s latest finalized investment of $30 billion, whi\u2026 [+2481 chars]"
+            "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
+            "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
+            "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "\u2018Compute Equals Revenues\u2019: Nvidia Needs Jensen Huang\u2019s New Catchphrase to Be True",
-            "description": "Here's everything you need to know from Nvidia's latest earnings call.",
-            "url": "https://gizmodo.com/compute-equals-revenues-nvidia-needs-jensen-huangs-new-catchphrase-to-be-true-2000726841",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/GettyImages-2256813174-1200x675.jpg",
-            "publishedAt": "2026-02-26T02:05:12Z",
-            "content": "Nvidia reported earnings on Wednesday, and as expected, the numbers were good. Really good. The company gets more than 91% of its sales from its data center unit, which generated revenue of $193,737 \u2026 [+5032 chars]"
+            "title": "Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; You've built an AI agent that works well in development.",
+            "url": "https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/"
         },
         {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Zo\u00eb Schiffer, Lauren Goode",
-            "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
-            "description": "Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.",
-            "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
-            "urlToImage": "https://media.wired.com/photos/69aa166a88f33482258401e7/191:100/w_1280,c_limit/Nvidia-Scoop-Business-2260170952.jpg",
-            "publishedAt": "2026-03-09T23:11:34Z",
-            "content": "Nvidia is planning to launch an open source platform for AI agents, people familiar with the companys plans tell WIRED.\r\nThe chipmaker has been pitching the product, referred to as NemoClaw, to enter\u2026 [+3264 chars]"
+            "title": "Whole-Body Conditioned Egocentric Video Prediction",
+            "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
+            "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Meta\u2019s new deal with Nvidia buys up millions of AI chips",
-            "description": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Gr\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-02-18T00:27:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias starting to sell AI CPUs for use by themselves for the first time.\r\nNvidias starting to sell AI CPUs for use by themselves for the first time.\r\nby\r\nStevi\u2026 [+2390 chars]"
+            "title": "Protecting cities with AI-driven flash flood forecasting",
+            "description": "[RESEARCH] Climate & Sustainability",
+            "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Nvidia\u2019s spending $4 billion on photonics to stay ahead of the curve in AI",
-            "description": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds ove\u2026",
-            "url": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-02T16:56:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOptical tech from Lumentum and Coherent could be key to connecting the GPUs inside AI data centers.\r\nOptical tech from Lumentum and Coherent could be key to conn\u2026 [+2743 chars]"
+            "title": "Introducing Groundsource: Turning news reports into data with Gemini",
+            "description": "[RESEARCH] Climate & Sustainability",
+            "url": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/"
+        },
+        {
+            "title": "Vector Databases vs. Graph RAG for Agent Memory: When to Use Which",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/"
+        },
+        {
+            "title": "RL without TD learning",
+            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
+            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
+        },
+        {
+            "title": "Build Semantic Search with LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] Traditional search engines have historically relied on keyword search.",
+            "url": "https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/"
+        },
+        {
+            "title": "What exactly does word2vec learn?",
+            "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
+            "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "Can LLM Embeddings Improve Time Series Forecasting? A Practical Feature Engineering Approach",
+            "description": "[MACHINELEARNINGMASTERY] Using large language models (LLMs) &mdash; or their outputs, for that matter &mdash; for all kinds of machine learning-driven tasks, including predictive ones that were already being solved long...",
+            "url": "https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/"
+        },
+        {
+            "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
+            "description": "[BAIR] Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the...",
+            "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
+        },
+        {
+            "title": "WAXAL: A large-scale open resource for African language speech technology",
+            "description": "[RESEARCH] Natural Language Processing",
+            "url": "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/"
+        },
+        {
+            "title": "Where wild things roam: Identifying wildlife with SpeciesNet",
+            "description": "[RESEARCH] Climate & Sustainability",
+            "url": "https://research.google/blog/where-wild-things-roam-identifying-wildlife-with-speciesnet/"
+        },
+        {
+            "title": "Exclusive: Meta planning sweeping layoffs as AI costs mount",
+            "description": "[REUTERS] Meta is planning sweeping layoffs that could affect \u200b20% or more of the company, three sources familiar with the matter told Reuters, as Meta seeks \u200cto offset costly artificial intelligence...",
+            "url": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/"
+        },
+        {
+            "title": "Meta planning sweeping layoffs as AI costs mount",
+            "description": "[MARKETSCREENER] Meta is planning sweeping layoffs that could affect 20% or more of the company, three sources familiar with the matter told Reuters, as Meta seeks to offset costly artificial intelligence...",
+            "url": "https://www.marketscreener.com/news/meta-planning-sweeping-layoffs-as-ai-costs-mount-ce7e5fd3df8af125"
+        },
+        {
+            "title": "Digg cuts jobs after facing AI bot surge",
+            "description": "[REUTERS] Digg is laying off staff citing \"brutal reality\" in the current digital environment and a surge in artificial intelligence-driven bot \u200bactivity, more than a year after the once-popular content...",
+            "url": "https://www.reuters.com/technology/digg-cuts-jobs-after-facing-ai-bot-surge-2026-03-13/"
+        },
+        {
+            "title": "Digg cuts jobs after facing AI bot surge",
+            "description": "[MARKETSCREENER] Digg is laying off staff citing brutal reality in the current digital environment and a surge in artificial intelligence-driven bot activity, more than a year after the once-popular content...",
+            "url": "https://www.marketscreener.com/news/digg-cuts-jobs-after-facing-ai-bot-surge-ce7e5fd3df89f620"
+        },
+        {
+            "title": "Future belongs to genomics driven \u2018personalised medical prescriptions\u2019: Dr Jitendra",
+            "description": "[DAILY EXCELSIOR] NXT Summit 2026 Excelsior Correspondent NEW DELHI, Mar 13: Union Minister of State (Independent Charge) for Science & Technology, Earth Sciences and Minister of State in PMO, Personnel, Public...",
+            "url": "https://www.dailyexcelsior.com/future-belongs-to-genomics-driven-personalised-medical-prescriptions-dr-jitendra/"
+        },
+        {
+            "title": "CLUJ signs MoU to set up \u2018Future of Work Lab\u2019",
+            "description": "[DAILY EXCELSIOR] Excelsior Correspondent JAMMU, Mar 13: Cluster University of Jammu (CLUJ) has signed a Memorandum of Understanding (MoU) with Employability life, a subsidiary of Federation University Australia, to...",
+            "url": "https://www.dailyexcelsior.com/cluj-signs-mou-to-set-up-future-of-work-lab/"
+        },
+        {
+            "title": "This LLM service promises the privacy of local AI, and that's just what I needed",
+            "description": "[XDA DEVELOPERS] There's a new AI service in town, and it's not asking you to pay in data",
+            "url": "https://www.xda-developers.com/this-llm-service-promises-the-privacy-of-local-ai/"
+        },
+        {
+            "title": "Review: 'The AI Doc: Or How I Became an Apocaloptimist' is a panic attack, in a good way",
+            "description": "[MASHABLE INDIA] How worried should you be about the rise of artificial intelligence?",
+            "url": "https://in.mashable.com/movies/107065/review-the-ai-doc-or-how-i-became-an-apocaloptimist-is-a-panic-attack-in-a-good-way"
+        },
+        {
+            "title": "IIT-H Launches Country\u2019s First AI Chemical Engineering MTech",
+            "description": "[DECCAN CHRONICLE] The programmes aim to address the growing use of digital tools such as artificial intelligence, advanced simulations and data analytics in industries including chemicals, pharmaceuticals, energy and...",
+            "url": "https://www.deccanchronicle.com/southern-states/telangana/iit-h-launches-countrys-first-ai-chemical-engineering-mtech-1943696"
+        },
+        {
+            "title": "US Commerce Department withdraws planned rule on AI chip exports",
+            "description": "[CNA] The US Commerce Department withdrew a planned rule on artificial-intelligence chip exports on Friday (Mar 13), the latest backpedalling by the Trump administration in its efforts to promote secure...",
+            "url": "https://www.channelnewsasia.com/business/us-commerce-department-withdraws-planned-rule-ai-chips-exports-5992911"
         }
     ]
 }
