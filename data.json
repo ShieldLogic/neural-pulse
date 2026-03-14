@@ -1,5 +1,5 @@
 {
-    "updated": "2026-03-14 20:23:50 UTC",
+    "updated": "2026-03-14 22:22:24 UTC",
     "news": [
         {
             "title": "Exploring the feasibility of conversational diagnostic AI in a real-world clinical study",
@@ -10,11 +10,6 @@
             "title": "5 Essential Security Patterns for Robust Agentic AI",
             "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
             "url": "https://machinelearningmastery.com/5-essential-security-patterns-for-robust-agentic-ai/"
-        },
-        {
-            "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
-            "description": "[BAIR] PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models. The awarding of the 2024 Nobel Prize...",
-            "url": "http://bair.berkeley.edu/blog/2025/04/08/plaid/"
         },
         {
             "title": "Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap",
@@ -42,6 +37,11 @@
             "url": "https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/"
         },
         {
+            "title": "Information-Driven Design of Imaging Systems",
+            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
+            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
+        },
+        {
             "title": "RL without TD learning",
             "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
@@ -62,9 +62,9 @@
             "url": "https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/"
         },
         {
-            "title": "Defending against Prompt Injection with Structured Queries (StruQ) and Preference Optimization (SecAlign)",
-            "description": "[BAIR] Recent advances in Large Language Models (LLMs) enable exciting LLM-integrated applications. However, as LLMs have improved, so have the attacks against them. Prompt injection attack is listed as the...",
-            "url": "http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/"
+            "title": "Identifying Interactions at Scale for LLMs",
+            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
+            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
             "title": "WAXAL: A large-scale open resource for African language speech technology",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/where-wild-things-roam-identifying-wildlife-with-speciesnet/"
         },
         {
-            "title": "Mental hospital inmate found dead in Kozhikode",
-            "description": "[MALAYALA MANORAMA] The deceased has been identified as Mohanan, a native of Parappanangadi in Malappuram district..Kozhikode mental health center death, mental health patient suicide, Kuthiravattom hospital incident,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/14/kozhikode-mental-health-death.html"
+            "title": "LPG shortage may stall film productions if crisis continues, say industry leaders",
+            "description": "[MALAYALA MANORAMA] The ongoing LPG shortage in Kerala is increasingly impacting film productions, which heavily rely on gas cylinders for cooking meals for large crews.LPG shortage film sets, film production...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/14/lpg-crisis-film-productions-may-stall-malayalam-cinema-fefka.html"
         },
         {
-            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - The Role of AI in Modern Legal Systems: Balancing Efficiency with Integrity",
-            "description": "[DEVDISCOURSE] Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all...",
-            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life"
+            "title": "Meta planning sweeping layoffs as AI costs mount: Reuters",
+            "description": "[CNBC] Meta is seeking to offset costly artificial intelligence infrastructure bets and prepare for greater efficiency brought about by AI-assisted workers.",
+            "url": "https://www.cnbc.com/2026/03/14/meta-planning-sweeping-layoffs-as-ai-costs-mount-reuters.html"
+        },
+        {
+            "title": "Steven Spielberg Discusses Westerns, AI, Aliens, and Takes a Jab at Timoth\u00e9e Chalamet\u2019s Comments at SXSW 2026",
+            "description": "[DECCAN CHRONICLE] Spielberg also spoke openly about the use of artificial intelligence in filmmaking when asked about his views on AI.",
+            "url": "https://www.deccanchronicle.com/entertainment/steven-spielberg-discusses-westerns-ai-aliens-and-takes-a-jab-at-timothe-chalamets-comments-at-sxsw-2026-1943761"
+        },
+        {
+            "title": "War is a concern, major Malayalam movies may still prefer theatre release to OTT",
+            "description": "[MALAYALA MANORAMA] B Rakesh, president of the Kerala Film Producers' Association, pointed out that OTT is not automatically a fallback..malayalam cinema ott, iran israel conflict gulf markets, ott release vs theatre,...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/14/malayalam-cinema-iran-israel-conflict-producers-distributors-ott.html"
+        },
+        {
+            "title": "Effective AI use can deter cyberattacks: SISA CEO",
+            "description": "[THE ECONOMIC TIMES] Cyber frauds are increasing rapidly. Artificial intelligence offers a powerful defense for businesses. Companies can use AI tools to protect themselves from threats like phishing. New security...",
+            "url": "https://economictimes.indiatimes.com/news/india/effective-ai-use-can-deter-cyberattacks-sisa-ceo/articleshow/129571877.cms"
+        },
+        {
+            "title": "One-year-old drowns in stream near house in Alappuzha",
+            "description": "[MALAYALA MANORAMA] The child, son of Syra and Anas Mether, reportedly fell into the stream approximately 20 meters from the house..child drowning alappuzha, toddler drowns stream, accidental drowning, alappuzha child...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/14/kerala-news-child-drowning-alappuzha.html"
         },
         {
             "title": "TSMC rides AI wave to net nearly 70% of global foundry market in 2025",
-            "description": "[THE TRIBUNE] Taiwan Semiconductor Manufacturing Co (TSMC) saw its share of the global foundry market rise to almost 70 per cent in 2025 amid booming demand for artificial intelligence. Focus Taiwan, quoting the...",
-            "url": "https://www.tribuneindia.com/news/business/tsmc-rides-ai-wave-to-net-nearly-70-of-global-foundry-market-in-2025/"
+            "description": "[THE ECONOMIC TIMES] Taiwan Semiconductor Manufacturing Co (TSMC) saw its share of the global foundry market rise to almost 70 per cent in 2025 amid booming demand for artificial intelligence. Focus Taiwan, quoting the...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/tsmc-rides-ai-wave-to-net-nearly-70-of-global-foundry-market-in-2025/articleshow/129571503.cms"
         },
         {
-            "title": "Meta reportedly weighs layoffs affecting 20% of workforce over AI costs",
-            "description": "[FOX BUSINESS] Meta is reportedly considering layoffs that could impact up to 20% of its workforce as the company seeks to offset rising artificial intelligence infrastructure costs and improve efficiency.",
-            "url": "https://www.foxbusiness.com/technology/meta-eyes-massive-20-workforce-cut-ai-infrastructure-costs-continue-soar-across-operations-report"
+            "title": "Open to Rajya Sabha seat, but not party politics: IM Vijayan",
+            "description": "[MALAYALA MANORAMA] He stated that he is open to a nomination from any party but is not interested in active electoral politics or aligning with a single political.I M Vijayan Rajya Sabha, sports politician India,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/14/im-vijayan-rajya-sabha-sports-assembly-polls.html"
         },
         {
-            "title": "AI Could Transform Global Economy Like Industrial Revolutions, Says Aletheia Capital's Jonathan Wilmot",
-            "description": "[NEWS18] Wilmot says rapid advances in artificial intelligence represent a turning point for global productivity and economic growth.",
-            "url": "https://www.news18.com/business/markets/ai-could-transform-global-economy-like-industrial-revolutions-says-aletheia-capitals-jonathan-wilmot-ws-l-9960241.html"
+            "title": "Meta Plans To Layoff 16,000 Workers As Company Looks To Leverage AI To Cut Costs",
+            "description": "[FREE PRESS JOURNAL] Marck Zuckerberg\u2019s Meta is planning a layoff of a significant part of its workforce amid the organisation\u2019s pivot to AI (artificial intelligence) focused products. The layoff could affect as much as...",
+            "url": "https://www.freepressjournal.in/business/meta-plans-to-layoff-16000-workers-as-company-looks-to-leverage-ai-to-cut-costs"
         },
         {
-            "title": "Gym Santosh murder convict Aluva Athul hacked to death in Kollam",
-            "description": "[MALAYALA MANORAMA] CCTV footage showed his car being rammed off the road by a pursuing Innova..Kollam gang violence, Athul murder, Gym Santosh murder convict, Aluva Athul hacking, Karunagappally crime, gang attack...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/14/kerala-news-kollam-gang-violence-gym-santosh-convict-athul-murder.html"
-        },
-        {
-            "title": "American venture capitalist Vinod Khosla on how AI can change this 'bad' career advice: \u201815 years from now\u2026\u2019",
-            "description": "[TIMES OF INDIA] Tech News News: Vinod Khosla believes artificial intelligence (AI) could change how people think about career advice in the coming years. Speaking on Fortune\u2019s Titans.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/american-venture-capitalist-vinod-khosla-on-how-ai-can-change-this-bad-career-advice-15-years-from-now/articleshow/129570822.cms"
-        },
-        {
-            "title": "Who Is Devendra Chaplot? IIT Bombay Genius Joins Elon Musk\u2019s xAI Superintelligence Squad",
-            "description": "[NEWS18] An IIT Bombay graduate and AI researcher, has joined SpaceX and xAI to work closely with Elon Musk on building advanced artificial intelligence systems.",
-            "url": "https://www.news18.com/viral/who-is-devendra-chaplot-iit-bombay-alum-joins-elon-musks-xai-squad-aa-9959900.html"
-        },
-        {
-            "title": "\u2018Butterfly Girl 85\u2019 celebrates sustainable fashion and identity",
-            "description": "[MALAYALA MANORAMA] Sustainable fashion film 'Butterfly Girl 85' highlights the journey of a protagonist who uses upcycling to rebuild her life and express her.sustainable fashion film, Butterfly Girl 85, eco-friendly...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/14/butterfly-girl-85-movie-discusses-sustainable-fashion-malayalam-film.html"
-        },
-        {
-            "title": "Mark Zuckerberg\u2019s Meta eyes biggest layoffs in company history with 15,000+ job cuts - Here\u2019s the reason why",
-            "description": "[INDIA.COM] Meta may cut over 15,000 jobs in its biggest layoffs yet as Mark Zuckerberg shifts focus to artificial intelligence investments, restructuring teams and reducing costs across the tech giant.",
-            "url": "https://www.india.com/technology/mark-zuckerbergs-meta-eyes-biggest-layoffs-in-company-history-with-15000-job-cuts-heres-the-reason-why-8342109/"
+            "title": "US withdraws draft rule restricting global AI chip exports",
+            "description": "[THE NEWS INTERNATIONAL] The US Commerce Department has withdrawn a draft rule that would have required approval for exporting artificial intelligence chips worldwide. The decision was posted on the Office of Management...",
+            "url": "https://www.thenews.com.pk/latest/1395640-us-withdraws-draft-rule-restricting-global-ai-chip-exports"
         }
     ]
 }
