@@ -1,10 +1,10 @@
 {
-    "updated": "2026-03-19 18:53:31 UTC",
+    "updated": "2026-03-19 20:33:18 UTC",
     "news": [
         {
-            "title": "5 Essential Security Patterns for Robust Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-essential-security-patterns-for-robust-agentic-ai/"
+            "title": "7 Readability Features for Your Next Machine Learning Model",
+            "description": "[MACHINELEARNINGMASTERY] Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.",
+            "url": "https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/"
         },
         {
             "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
@@ -17,9 +17,14 @@
             "url": "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/"
         },
         {
-            "title": "Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; You've built an AI agent that works well in development.",
-            "url": "https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/"
+            "title": "Everything You Need to Know About Recursive Language Models",
+            "description": "[MACHINELEARNINGMASTERY] If you are here, you have probably heard about recent work on recursive language models.",
+            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/"
+        },
+        {
+            "title": "Setting Up a Google Colab AI-Assisted Coding Environment That Actually Works",
+            "description": "[MACHINELEARNINGMASTERY] This article focuses on Google Colab , an increasingly popular, free, and accessible, cloud-based Python environment that is well-suited for prototyping data analysis workflows and experimental code...",
+            "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -27,19 +32,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
+            "title": "5 Production Scaling Challenges for Agentic AI in 2026",
+            "description": "[MACHINELEARNINGMASTERY] Everyone's <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/"
+        },
+        {
             "title": "Protecting cities with AI-driven flash flood forecasting",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/"
         },
         {
+            "title": "Building Smart Machine Learning in Low-Resource Settings",
+            "description": "[MACHINELEARNINGMASTERY] Most people who want to build <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/"
+        },
+        {
             "title": "Introducing Groundsource: Turning news reports into data with Gemini",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/"
-        },
-        {
-            "title": "Vector Databases vs. Graph RAG for Agent Memory: When to Use Which",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -57,24 +67,54 @@
             "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/"
         },
         {
-            "title": "Build Semantic Search with LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] Traditional search engines have historically relied on keyword search.",
-            "url": "https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "Can LLM Embeddings Improve Time Series Forecasting? A Practical Feature Engineering Approach",
-            "description": "[MACHINELEARNINGMASTERY] Using large language models (LLMs) &mdash; or their outputs, for that matter &mdash; for all kinds of machine learning-driven tasks, including predictive ones that were already being solved long...",
-            "url": "https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Samsung Electronics plans over $73 bln investment to lead in AI chip sector",
+            "description": "[MARKETSCREENER] Samsung Electronics said on Thursday that it plans to invest more than 110 trillion won this year in order to lead the semiconductor industry in artificial intelligence. The company said in a...",
+            "url": "https://www.marketscreener.com/news/samsung-electronics-plans-over-73-bln-investment-to-lead-in-ai-chip-sector-ce7e5eded98df323"
+        },
+        {
+            "title": "Google launches free AI and cloud courses: Learn LLMs, image generation, and cloud engineering",
+            "description": "[TIMES OF INDIA] News News: Aiming to make advanced tech skills more accessible, Google has launched a range of free online courses covering artificial intelligence (AI), machine.",
+            "url": "https://timesofindia.indiatimes.com/education/news/google-launches-free-ai-and-cloud-courses-learn-llms-image-generation-and-cloud-engineering/articleshow/129673948.cms"
+        },
+        {
+            "title": "Steps underway to expedite Sabari rail project, Southern Railway tells HC",
+            "description": "[MALAYALA MANORAMA] The affidavit noted that the Kerala government has conveyed its willingness to bear 50 per cent of the project cost, estimated at 3,800.9 crore, with.Sabarimala railway project, Angamaly Erumaly...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/19/sabari-rail-project-southern-railway-kerala-high-court.html"
+        },
+        {
+            "title": "After forgettable T20 World Cup, English ace Jos Buttler took a break to be ready for IPL",
+            "description": "[MALAYALA MANORAMA] Gujarat Titans batter Jos Buttler made just 87 runs from eight innings for England in the T20 World Cup..Jos Buttler IPL return, Jos Buttler Gujarat Titans, IPL 2024 Jos Buttler form, IPL batting...",
+            "url": "https://www.onmanorama.com/sports/cricket/2026/03/19/jos-buttler-ready-ipl-2026-after-t20-world-cup-break.html"
+        },
+        {
+            "title": "AI warfare: How China is integrating tech into aerial refuelling after deadly US tanker crash",
+            "description": "[TIMES OF INDIA] International News: China\u2019s military is moving to integrate artificial intelligence into one of the most complex aspects of air warfare \u2014 aerial refuelling \u2014 in what anal.",
+            "url": "https://timesofindia.indiatimes.com/defence/international/ai-warfare-how-china-is-integrating-tech-into-aerial-refuelling-after-deadly-us-tanker-crash/articleshow/129672922.cms"
+        },
+        {
+            "title": "'Dhurandhar: The Revenge' First Half Review; Ranveer Singh movie stays immersive, turns more violent",
+            "description": "[MALAYALA MANORAMA] Yet beneath the violence, Aditya Dhar ensures the film eventually finds its emotional core\u2014though it takes some time to surface..Dhurandhar 2, Dhurandhar 2 review, Dhurandhar 2 plot, Indian spy...",
+            "url": "https://www.onmanorama.com/entertainment/movie-reviews/2026/03/19/dhurandhar-two-the-revenge-ranveer-singh-bollywood.html"
+        },
+        {
+            "title": "Thrissur Pooram on April 26, exhibition from March 22: Programme details for tourists",
+            "description": "[MALAYALA MANORAMA] The 'Thrissur Pooram Exhibition' will be inaugurated by Central Minister Suresh Gopi and Kerala Minister K Rajan on March 22 at 4.30 pm..Thrissur Pooram, Kerala temple festival, Thrissur Pooram...",
+            "url": "https://www.onmanorama.com/travel/kerala/2026/03/19/thrissur-pooram-date-detailed-programme.html"
+        },
+        {
+            "title": "EU moves to ban AI that creates nonconsensual sexual images",
+            "description": "[THE STAR] Artificial intelligence tools that can be used to create nonconsensual sexual images may be banned in the European Union, following outcry after users used Elon Musk's Grok service to generate...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/19/eu-moves-to-ban-ai-that-creates-nonconsensual-sexual-images"
         },
         {
             "title": "ThoughtFocus Expands AI Innovation with ThoughtFocus Lab and AI Czar Office to Deliver Client",
@@ -85,46 +125,6 @@
             "title": "Nokia Finalizes AI-based Analytics System Deployment Across Turkcell's Broadband Network",
             "description": "[MARKETSCREENER] Nokia completed the roll-out of its artificial intelligence-based fixed network analytics system across technology and communications operator Turkcell's broadband operations in T\u00fcrkiye. The...",
             "url": "https://www.marketscreener.com/news/nokia-finalizes-ai-based-analytics-system-deployment-across-turkcell-s-broadband-network-ce7e5ed9d08dff23"
-        },
-        {
-            "title": "Parents clueless about how teens use AI, surveys show",
-            "description": "[THE NEWS INTERNATIONAL] For most teenagers, talking to artificial intelligence systems has turned into a normal part of their daily existence. Young people now use these tools for homework help and personal guidance...",
-            "url": "https://www.thenews.com.pk/latest/1396172-parents-clueless-about-how-teens-use-ai-surveys-show"
-        },
-        {
-            "title": "Imran Khan suffers from a serious eye condition in jail, reasons causing it",
-            "description": "[MALAYALA MANORAMA] The patient's age is the biggest risk factor for occlusion, a blockage in a small blood vessel that carries blood away from the retina..Imran Khan eye condition, central retinal vein occlusion, CRVO...",
-            "url": "https://www.onmanorama.com/health/healthcare/2026/03/19/imran-khan-suffers-retinal-eye-occlusion.html"
-        },
-        {
-            "title": "When \u2018poisoned\u2019 AI chatbots recommend fake products to Chinese consumers",
-            "description": "[THE STAR] BEIJING: Over the past week, users who queried a Chinese artificial intelligence chatbot for \"smart\" wristbands to buy were recommended a model that does not exist.",
-            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/19/when-poisoned-ai-chatbots-recommend-fake-products-to-chinese-consumers"
-        },
-        {
-            "title": "PJ Joseph predicts 100 seats for UDF, says even communists will rethink",
-            "description": "[MALAYALA MANORAMA] I have stepped aside due to health reasons, he said..Kerala UDF election prediction, P J Joseph UDF seats, Kerala election issues 2024, Sabarimala gold case election impact, K-Rail protests voter...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/19/kerala-congress-chief-pj-joseph-predicts-udf-victory-in-assembly-polls.html"
-        },
-        {
-            "title": "Val Kilmer Resurrected by AI to Star in Upcoming Film 'As Deep as the Grave'",
-            "description": "[BREITBART NEWS NETWORK] Prolific actor Val Kilmer, who died last year at the age of 65, has reportedly been resurrected by artificial intelligence (AI) to star in a new film called \"As Deep as the Grave.\"",
-            "url": "https://www.breitbart.com/entertainment/2026/03/19/val-kilmer-resurrected-by-ai-to-star-in-upcoming-film-as-deep-as-the-grave/"
-        },
-        {
-            "title": "Nvidia CEO Jensen Huang to everyone scared of AI taking away their jobs: Fact of the matter is ...",
-            "description": "[TIMES OF INDIA] Tech News News: Nvidia CEO Jensen Huang does not agree with the popular view that artificial intelligence (AI) will wipe away jobs. Talking to media at the company's .",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-to-everyone-scared-of-ai-taking-away-their-jobs-fact-of-the-matter-is-/articleshow/129671867.cms"
-        },
-        {
-            "title": "Powered Soho Suite for Hospitality Industry",
-            "description": "[SCANX.TRADE] RateGain Travel Technologies has launched its AI-based Soho Suite, an integrated platform for the hospitality industry that combines digital asset management, social media publishing, and community...",
-            "url": "https://scanx.trade/stock-market-news/companies/rategain-travel-technologies-launches-ai-powered-soho-suite-for-hospitality-industry/35444502"
-        },
-        {
-            "title": "Qatar orders Iranian diplomats to leave country within 24 hours",
-            "description": "[MALAYALA MANORAMA] The country's defence ministry said Qatar was attacked by ballistic missiles from Iran..Doha expels Iranian attaches, Qatar Iran diplomatic dispute, Iran military attaches expulsion Doha, Qatar...",
-            "url": "https://www.onmanorama.com/news/world/2026/03/19/qatar-asks-iran-military-security-officials-to-leave-country-after-strike-on-gas-hub.html"
         }
     ]
 }
