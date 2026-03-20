@@ -1,11 +1,6 @@
 {
-    "updated": "2026-03-20 14:40:10 UTC",
+    "updated": "2026-03-20 16:38:50 UTC",
     "news": [
-        {
-            "title": "7 Readability Features for Your Next Machine Learning Model",
-            "description": "[MACHINELEARNINGMASTERY] Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.",
-            "url": "https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/"
-        },
         {
             "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
             "description": "[RESEARCH] Health & Bioscience",
@@ -27,14 +22,14 @@
             "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
         },
         {
+            "title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
+            "description": "[MACHINELEARNINGMASTERY] While large language models (LLMs) are typically used for conversational purposes in use cases that revolve around natural language interactions, they can also assist with tasks like feature...",
+            "url": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "5 Production Scaling Challenges for Agentic AI in 2026",
-            "description": "[MACHINELEARNINGMASTERY] Everyone's <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/"
         },
         {
             "title": "Protecting cities with AI-driven flash flood forecasting",
@@ -67,6 +62,11 @@
             "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/"
         },
         {
+            "title": "The 6 Best AI Agent Memory Frameworks You Should Try in 2026",
+            "description": "[MACHINELEARNINGMASTERY] Memory helps <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "\u2018Aadu 3\u2019, \u2018Bhishmar\u2019, \u2018Prathichaya' lead the charge for back-to-back Mollywood releases amid Middle East turmoil",
+            "description": "[MALAYALA MANORAMA] Director B Unnikrishnan's much-anticipated movie 'Prathichaya' featuring Nivin Pauly in a prominent role, is the latest Malayalam movie to release in.Malayalam cinema crisis, Aadu 3 box office,...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/20/malayalam-cinema-crisis-middle-east-aadu-3-prathichaya-office-release.html"
+        },
+        {
+            "title": "Enterprise AI Search Platform Search.co Redefines Enterprise Search with LLM-Powered Intelligence",
+            "description": "[THE MANILA TIMES] Search.co introduces a next-generation AI-powered enterprise search platform designed to unify data, eliminate silos, and deliver real-time, context-aware insights across organizations.",
+            "url": "https://www.manilatimes.net/2026/03/20/tmt-newswire/plentisoft/enterprise-ai-search-platform-searchco-redefines-enterprise-search-with-llm-powered-intelligence/2304211"
+        },
+        {
+            "title": "Co-founder of tech company charged with diverting $2.5 billion in Nvidia AI chips to China in violation of export laws",
+            "description": "[CABLE NEWS NETWORK] The co-founder of Super Micro Computer and two others were charged with diverting $2.5 billion worth of servers with Nvidia\u2019s artificial intelligence chips to China, in violation of US laws barring...",
+            "url": "https://edition.cnn.com/2026/03/19/politics/super-micro-computer-founder-charged-ai-chips-china"
+        },
+        {
+            "title": "Co-founder of tech company charged with diverting $2.5 billion in Nvidia AI chips to China in violation of export laws",
+            "description": "[ABC17NEWS.COM] By Kara Scannell, CNN (CNN) \u2014 The co-founder of Super Micro Computer and two others were charged with diverting $2.5 billion worth of servers with Nvidia\u2019s artificial intelligence chips to China, in...",
+            "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/03/19/co-founder-of-tech-company-charged-with-diverting-2-5-billion-in-nvidia-ai-chips-to-china-in-violation-of-export-laws/"
+        },
+        {
+            "title": "AI Won't Kill Movies. Tom Cruise and Brad Pitt Can Relax",
+            "description": "[BLOOMBERG] Justin Hackney is used to being ostracized. The movie producer, who played \u201cthe infected kid\u201d in director Danny Boyle\u2019s 28 Days Later, shadowed Boyle for years and then pivoted into tech halfway...",
+            "url": "https://www.bloomberg.com/opinion/articles/2026-03-20/ai-won-t-kill-movies-tom-cruise-and-brad-pitt-can-relax"
+        },
+        {
+            "title": "Brain age from sleep patterns may signal future dementia risk",
+            "description": "[NEWS-MEDICAL.NET] A machine-learning analysis of brain waves recorded during sleep may help identify people at high risk of developing dementia, according to a study led by UC San Francisco and Beth Israel Deaconess...",
+            "url": "https://www.news-medical.net/news/20260319/Brain-age-from-sleep-patterns-may-signal-future-dementia-risk.aspx"
+        },
+        {
+            "title": "India asks airlines to avoid 9 Weat Asia airspaces, including UAE till Mar 28",
+            "description": "[MALAYALA MANORAMA] Flight operations to Bahrain, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Qatar and the United Arab Emirates (UAE) banned..West Asia flight restrictions, India flight advisory, Iran Israel tensions...",
+            "url": "https://www.onmanorama.com/news/india/2026/03/20/india-issues-no-fly-advisory-in-west-aisa-airspaces-amid-iran-war.html"
+        },
+        {
+            "title": "OpenAI to buy Python toolmaker and revamp ChatGPT",
+            "description": "[THE HINDU] OpenAI said on Thursday it will buy Python toolmaker Astral, as the ChatGPT maker seeks to strengthen its portfolio against rival Anthropic to gain more share in the artificial intelligence coding...",
+            "url": "https://www.thehindu.com/sci-tech/technology/openai-chatgpt-revamp-python-buy/article70764152.ece"
+        },
+        {
+            "title": "TCS, Infosys, Wipro, HCL Tech, TechM: Accenture Q2 takeaways for Indian IT firms",
+            "description": "[BUSINESS TODAY] IT stocks in focus: Analysts said the key takeaway for Indian IT firms is that artificial intelligence will act as a tailwind, while faster execution will be critical.",
+            "url": "https://www.businesstoday.in/markets/stocks/story/tcs-infosys-wipro-hcl-tech-techm-accenture-q2-takeaways-for-indian-it-firms-521499-2026-03-20"
+        },
+        {
             "title": "Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy",
             "description": "[THE ECONOMIC TIMES] After a dispute between Anthropic and the \u200bPentagon over guardrails for how the military could use its artificial intelligence tools, Defense Secretary Pete Hegseth designated the company a...",
             "url": "https://economictimes.indiatimes.com/tech/technology/hegseth-wants-pentagon-to-dump-anthropics-claude-but-military-users-say-its-not-so-easy/articleshow/129690813.cms"
-        },
-        {
-            "title": "Three men charged with conspiring to smuggle U.S. artificial intelligence to China",
-            "description": "[THE HINDU] Three men, including a Super Micro VP, charged with smuggling U.S. AI technology to China, threatening national security.",
-            "url": "https://www.thehindu.com/news/international/three-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/article70764084.ece"
-        },
-        {
-            "title": "Netanyahu says Iran 'decimated,' Tehran targets Gulf petro-facilities",
-            "description": "[MALAYALA MANORAMA] Foreign Minister Abbas Araghchi said there would be ZERO restraint if Iran's infrastructure was hit again..Iran Middle East war, Benjamin Netanyahu Iran, Middle East conflict Iran, Iran oil gas...",
-            "url": "https://www.onmanorama.com/news/world/2026/03/20/iran-destroyed-claims-israeli-pm.html"
-        },
-        {
-            "title": "New nuclear race takes shape in Washington",
-            "description": "[LOKMAT TIMES] New nuclear race takes shape in Washington - Washington, March 20 As electricity demand surges from artificial intelligence and industry, US lawmakers and officials are turning ... Get Latest News on...",
-            "url": "https://www.lokmattimes.com/international/new-nuclear-race-takes-shape-in-washington/"
-        },
-        {
-            "title": "Alibaba, Tencent Shares Lose $66 Billion as AI Vision Falls Flat",
-            "description": "[BLOOMBERG] Alibaba Group Holding Ltd. and Tencent Holdings Ltd. lost $66 billion of market value in roughly 24 hours, after the market punished the twin leaders of China\u2019s tech arena for failing to lay out...",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat"
-        },
-        {
-            "title": "Commercial LPG supply to resume in Kerala within two days; hotels call off March 23 strike",
-            "description": "[MALAYALA MANORAMA] 20 per cent of the cylinders required for hotel operations would be supplied in the first phase..LPG shortage Kerala, hotel strike called off, KHRA LPG supply, commercial LPG resumption, piped...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/20/commercial-lpg-supply-in-kerala-to-begin-hotels-call-off-strike.html"
-        },
-        {
-            "title": "3 men are charged with conspiring to smuggle US artificial intelligence to China",
-            "description": "[WTOP] NEW YORK (AP) \u2014 A senior vice president of Super Micro Computer Inc. and two others affiliated with the company were charged Thursday with conspiring to smuggle\u2026",
-            "url": "https://wtop.com/national/2026/03/3-men-are-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/"
-        },
-        {
-            "title": "3 men are charged with conspiring to smuggle US artificial intelligence to China",
-            "description": "[WDIV CLICKONDETROIT] A senior vice president of Super Micro Computer Inc. and two others affiliated with the company have been charged with conspiring to smuggle billions of dollars of computer servers containing...",
-            "url": "https://www.clickondetroit.com/business/2026/03/20/3-men-are-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/"
-        },
-        {
-            "title": "ARM Stock Forecast Jumps 46% as Citi Analyst Notes that Arm\u2019s Newest Tech Commands \u201c2x the Royalty Rate\u201d",
-            "description": "[MARKETS INSIDER] Arm Holdings (ARM) is currently in a strong position as the demand for artificial intelligence chips reaches new heights. In a report released o...",
-            "url": "https://markets.businessinsider.com/news/stocks/arm-stock-forecast-jumps-46-as-citi-analyst-notes-that-arm-s-newest-tech-commands-2x-the-royalty-rate-1035949076"
-        },
-        {
-            "title": "Peter Chan Says AI Will Replace 'Any Blockbuster in Three Years'",
-            "description": "[VARIETY] Peter Chan issued a stark warning about artificial intelligence at a Hong Kong FilMart co-production panel.",
-            "url": "https://variety.com/2026/film/markets-festivals/peter-chan-ai-hong-kong-filmart-panel-1236694595/"
         }
     ]
 }
