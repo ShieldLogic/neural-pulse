@@ -1,11 +1,6 @@
 {
-    "updated": "2026-03-21 18:31:14 UTC",
+    "updated": "2026-03-21 20:22:00 UTC",
     "news": [
-        {
-            "title": "5 Essential Security Patterns for Robust Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-essential-security-patterns-for-robust-agentic-ai/"
-        },
         {
             "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
             "description": "[RESEARCH] Health & Bioscience",
@@ -17,9 +12,19 @@
             "url": "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/"
         },
         {
-            "title": "Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; You've built an AI agent that works well in development.",
-            "url": "https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/"
+            "title": "Everything You Need to Know About Recursive Language Models",
+            "description": "[MACHINELEARNINGMASTERY] If you are here, you have probably heard about recent work on recursive language models.",
+            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/"
+        },
+        {
+            "title": "Setting Up a Google Colab AI-Assisted Coding Environment That Actually Works",
+            "description": "[MACHINELEARNINGMASTERY] This article focuses on Google Colab , an increasingly popular, free, and accessible, cloud-based Python environment that is well-suited for prototyping data analysis workflows and experimental code...",
+            "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
+        },
+        {
+            "title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
+            "description": "[MACHINELEARNINGMASTERY] While large language models (LLMs) are typically used for conversational purposes in use cases that revolve around natural language interactions, they can also assist with tasks like feature...",
+            "url": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -32,14 +37,14 @@
             "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/"
         },
         {
+            "title": "Building Smart Machine Learning in Low-Resource Settings",
+            "description": "[MACHINELEARNINGMASTERY] Most people who want to build <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/"
+        },
+        {
             "title": "Introducing Groundsource: Turning news reports into data with Gemini",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/"
-        },
-        {
-            "title": "Vector Databases vs. Graph RAG for Agent Memory: When to Use Which",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -57,9 +62,9 @@
             "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/"
         },
         {
-            "title": "Build Semantic Search with LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] Traditional search engines have historically relied on keyword search.",
-            "url": "https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/"
+            "title": "The 6 Best AI Agent Memory Frameworks You Should Try in 2026",
+            "description": "[MACHINELEARNINGMASTERY] Memory helps <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -67,64 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "Can LLM Embeddings Improve Time Series Forecasting? A Practical Feature Engineering Approach",
-            "description": "[MACHINELEARNINGMASTERY] Using large language models (LLMs) &mdash; or their outputs, for that matter &mdash; for all kinds of machine learning-driven tasks, including predictive ones that were already being solved long...",
-            "url": "https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Who made the first soda?",
+            "description": "[MALAYALA MANORAMA] The origins of soda are a fascinating journey from scientific discovery to commercial product..who made first soda, first soda inventor, Joseph Priestley carbonated water, Johann Jacob Schweppe...",
+            "url": "https://www.onmanorama.com/food/features/2026/03/21/who-made-first-soda.html"
+        },
+        {
+            "title": "The Alarming Research on the Impact of \u2018AI Companions\u2019 and Widespread Loneliness",
+            "description": "[BREITBART NEWS NETWORK] The popularity of \"AI companions\" is exploding as people turn to artificial intelligence to serve as their friend or even life partner. But as Wynton Hall's new book CODE RED documents, the research...",
+            "url": "https://www.breitbart.com/tech/2026/03/21/code-red-the-alarming-research-on-the-impact-of-ai-companions-and-widespread-loneliness/"
+        },
+        {
+            "title": "Pentagon memo says, DoD to adopt Palantir AI as core military system; what is company's Maven tool that has been used to carry \u2060out thousands of strikes against Iran",
+            "description": "[TIMES OF INDIA] Tech News News: The US Department of Defense has now decided to make Palantir\u2019s Maven artificial intelligence system and official program of record, according to a me.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/pentagon-memo-says-dod-to-adopt-palantir-ai-as-core-military-system-what-is-companys-maven-tool-that-has-been-used-to-carry-out-thousands-of-strikes-against-iran/articleshow/129715531.cms"
+        },
+        {
+            "title": "Pentagon to adopt Palantir\u2019s Maven artificial intelligence as core US military system",
+            "description": "[TELEGRAPH INDIA] Maven is a command-and-control software platform that analyses battlefield data and identifies targets",
+            "url": "https://www.telegraphindia.com/world/pentagon-to-adopt-palantirs-maven-artificial-intelligence-as-core-us-military-system-memo-says/cid/2152451"
+        },
+        {
+            "title": "SoftBank CEO Son unveils $500 bil AI data center investment in Ohio",
+            "description": "[JAPAN TODAY] SoftBank Group Corp plans to invest $500 billion to build an artificial intelligence data center in Ohio, with construction to begin sometime this year, the conglomerate's chairman and CEO said....",
+            "url": "https://japantoday.com/category/tech/softbank-group's-son-unveils-500-bil.-ai-data-center-investment-in-ohio"
+        },
+        {
+            "title": "SoftBank CEO Son unveils $500 bil AI data center investment in Ohio",
+            "description": "[JAPAN TODAY] SoftBank Group Corp plans to invest $500 billion to build an artificial intelligence data center in Ohio, with construction to begin sometime this year, the conglomerate's chairman and CEO said....",
+            "url": "https://japantoday.com/category/tech/softbank-group%27s-son-unveils-500-bil.-ai-data-center-investment-in-ohio"
+        },
+        {
+            "title": "US new AI policy push signals shift for India",
+            "description": "[LOKMAT TIMES] US new AI policy push signals shift for India - Washington, Mar 21 The Trump administration unveiled a national framework on artificial intelligence, which could shape Indian talent, ... Get Latest...",
+            "url": "https://www.lokmattimes.com/international/us-new-ai-policy-push-signals-shift-for-india/"
+        },
+        {
+            "title": "DoorDash\u2019s new paid tasks turn couriers into AI and robot trainers",
+            "description": "[SPOKANE SPOKESMAN-REVIEW] DoorDash Inc. is paying delivery couriers in some markets to submit video clips and complete other digital tasks to help improve artificial intelligence and robotics models, following competitors...",
+            "url": "https://www.spokesman.com/stories/2026/mar/21/doordashs-new-paid-tasks-turn-couriers-into-ai-and/"
+        },
+        {
+            "title": "Summer in Bethlehem sequel plans dropped; Mohanlal scene cut after first day shows, says Sibi Malayil",
+            "description": "[MALAYALA MANORAMA] According to Malayil, audiences who had just reacted strongly to Mohanlal's appearance were suddenly faced with a slower, dialogue-heavy stretch..Summer in Bethlehem deleted scene, Summer in...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/21/summer-in-bethlehem-deleted-scene-sequel-plans-sibi-malayil-mohanlal.html"
+        },
+        {
             "title": "White House releases AI policy framework for Congress, with six guiding principles",
             "description": "[THE MANILA TIMES] WASHINGTON, D.C. \u2014 The White House on Friday released its framework for how it wishes Congress will address the issue of artificial intelligence.",
             "url": "https://www.manilatimes.net/2026/03/21/world/americas-emea/white-house-releases-ai-policy-framework-for-congress-with-six-guiding-principles/2304770"
-        },
-        {
-            "title": "Former India cricketer Laxman Sivaramakrishnan quits commentary, alleges colour discrimination by BCCI",
-            "description": "[MALAYALA MANORAMA] Sivaramakrishnan, a former right-arm leg-spinner who represented India in the 1980s, has been a familiar voice in domestic and international cricket.Laxman Sivaramakrishnan retirement, BCCI...",
-            "url": "https://www.onmanorama.com/sports/cricket/2026/03/21/laxman-sivaramakrishnan-bcci-retirement-discrimination.html"
-        },
-        {
-            "title": "Nature Over Code: Decentralization as humanity\u2019s last hope",
-            "description": "[NATURAL NEWS] \u201cNature Over Code: Reclaiming Human Freedom in the Age of AI Enslavement\u201d warns that artificial intelligence is not merely man-made but a natural emergence from cosmic complexity, akin to ecosystems...",
-            "url": "https://www.naturalnews.com/2026-03-21-nature-over-code-decentralization-humanitys-last-hope.html"
-        },
-        {
-            "title": "Key events in Kerala today: Alumni meet, book discussion, dance and music fete on Mar 21",
-            "description": "[MALAYALA MANORAMA] Actress Pearle Maaney will inaugurate Mother-Child Care Department at SP Medi Fort Hospital..Kerala events March 21 2026, C V Raman Pillai commemorative meeting, National Archery Judges Conference...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/21/kerala-events-march-21-2026.html"
-        },
-        {
-            "title": "Dr Vandana Das murder case: Kollam court to deliver sentence today",
-            "description": "[MALAYALA MANORAMA] The Kollam Additional Sessions Court is scheduled to deliver the sentence on Saturday for G Sandeep, who was convicted of the murder of Dr Vandana.Vandana Das murder case, G Sandeep conviction,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/21/doctor-vandana-das-sentence-kollam-court-sandeep-guilty-convicted.html"
-        },
-        {
-            "title": "Adrian Weckler: What AI \u2018hallucinations\u2019 are and how they can fool us with made-up answers",
-            "description": "[INDEPENDENT.IE] This week, one of Ireland\u2019s most senior media figures was suspended for using artificial intelligence (AI) that made up quotes that were then used in articles and newsletter posts.",
-            "url": "https://www.independent.ie/business/technology/adrian-weckler-what-ai-hallucinations-are-and-how-they-can-fool-us-with-made-up-answers/a1340549329.html"
-        },
-        {
-            "title": "Chuck Norris, macho star of 'Walker, Texas Ranger', dies at 86",
-            "description": "[MALAYALA MANORAMA] The six-time undefeated World Professional Middleweight Karate Champion, whose tough-guy image inspired satirical 'facts' that made him an Internet.Chuck Norris, Chuck Norris movies, Walker Texas...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/21/actor-chuck-norris-passes-away-martial-arts-champion.html"
-        },
-        {
-            "title": "Mammootty takes the lead in 'Mattanchery Mafia' alongside Asif Ali and Naslen",
-            "description": "[MALAYALA MANORAMA] Mammootty is starring in an upcoming action-comedy film titled Mattanchery Mafia, directed by Khalid Rahman..Mammootty Mattancherry Mafia, Mattancherry Mafia movie, Mammootty new movie, action comedy...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/21/mammootty-mattancherry-mafia-movie-khalid-rahman.html"
-        },
-        {
-            "title": "Mortal remains of Kerala man who died in New Zealand to be repatriated on Sunday",
-            "description": "[MALAYALA MANORAMA] The mortal remains of 34-year-old Ferzil Babu, an Ernakulam native who went missing in May 2024 during a fishing trip off the Northland coast in New.Ferzil Babu remains repatriation, missing Indian...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/21/mortal-remains-kerala-man-died-new-zealand-repatriated-ferzil-babu.html"
-        },
-        {
-            "title": "Andhra CM Naidu bats for tech-driven growth, Telugu vision",
-            "description": "[THE NEW INDIAN EXPRESS] The Chief Minister said governance will soon be technology-driven, with focus on artificial intelligence, quantum technology and data centres, enabling real-tim",
-            "url": "https://www.newindianexpress.com/states/andhra-pradesh/2026/Mar/21/andhra-cm-naidu-bats-for-tech-driven-growth-telugu-vision"
         }
     ]
 }
