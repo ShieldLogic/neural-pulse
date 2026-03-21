@@ -1,6 +1,11 @@
 {
-    "updated": "2026-03-21 20:22:00 UTC",
+    "updated": "2026-03-21 22:20:36 UTC",
     "news": [
+        {
+            "title": "5 Essential Security Patterns for Robust Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-essential-security-patterns-for-robust-agentic-ai/"
+        },
         {
             "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
             "description": "[RESEARCH] Health & Bioscience",
@@ -12,19 +17,9 @@
             "url": "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/"
         },
         {
-            "title": "Everything You Need to Know About Recursive Language Models",
-            "description": "[MACHINELEARNINGMASTERY] If you are here, you have probably heard about recent work on recursive language models.",
-            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/"
-        },
-        {
-            "title": "Setting Up a Google Colab AI-Assisted Coding Environment That Actually Works",
-            "description": "[MACHINELEARNINGMASTERY] This article focuses on Google Colab , an increasingly popular, free, and accessible, cloud-based Python environment that is well-suited for prototyping data analysis workflows and experimental code...",
-            "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
-        },
-        {
-            "title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
-            "description": "[MACHINELEARNINGMASTERY] While large language models (LLMs) are typically used for conversational purposes in use cases that revolve around natural language interactions, they can also assist with tasks like feature...",
-            "url": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/"
+            "title": "Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; You've built an AI agent that works well in development.",
+            "url": "https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,14 +32,14 @@
             "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/"
         },
         {
-            "title": "Building Smart Machine Learning in Low-Resource Settings",
-            "description": "[MACHINELEARNINGMASTERY] Most people who want to build <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/"
-        },
-        {
             "title": "Introducing Groundsource: Turning news reports into data with Gemini",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/"
+        },
+        {
+            "title": "Vector Databases vs. Graph RAG for Agent Memory: When to Use Which",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -62,9 +57,9 @@
             "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/"
         },
         {
-            "title": "The 6 Best AI Agent Memory Frameworks You Should Try in 2026",
-            "description": "[MACHINELEARNINGMASTERY] Memory helps <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/"
+            "title": "Build Semantic Search with LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] Traditional search engines have historically relied on keyword search.",
+            "url": "https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -72,59 +67,64 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
+            "title": "Can LLM Embeddings Improve Time Series Forecasting? A Practical Feature Engineering Approach",
+            "description": "[MACHINELEARNINGMASTERY] Using large language models (LLMs) &mdash; or their outputs, for that matter &mdash; for all kinds of machine learning-driven tasks, including predictive ones that were already being solved long...",
+            "url": "https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Who made the first soda?",
-            "description": "[MALAYALA MANORAMA] The origins of soda are a fascinating journey from scientific discovery to commercial product..who made first soda, first soda inventor, Joseph Priestley carbonated water, Johann Jacob Schweppe...",
-            "url": "https://www.onmanorama.com/food/features/2026/03/21/who-made-first-soda.html"
+            "title": "Kasaragod BLO dies by suicide; family protests alleging work pressure, note cites personal reasons",
+            "description": "[MALAYALA MANORAMA] According to police, between 7 am and 9.30 am, Savad parked his two-wheeler on the Mogral bridge and jumped into the river..school teacher suicide, Kasaragod tragedy, BLO work pressure, unnatural...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/21/kasaragod-blo-suicide.html"
         },
         {
-            "title": "The Alarming Research on the Impact of \u2018AI Companions\u2019 and Widespread Loneliness",
-            "description": "[BREITBART NEWS NETWORK] The popularity of \"AI companions\" is exploding as people turn to artificial intelligence to serve as their friend or even life partner. But as Wynton Hall's new book CODE RED documents, the research...",
-            "url": "https://www.breitbart.com/tech/2026/03/21/code-red-the-alarming-research-on-the-impact-of-ai-companions-and-widespread-loneliness/"
+            "title": "I automated my entire read-it-later workflow with a local LLM so every article I save gets summarized overnight",
+            "description": "[XDA DEVELOPERS] No more fighting an endless article backlog.",
+            "url": "https://www.xda-developers.com/automate-read-it-later-workflow-with-local-llm-to-summarize-articles/"
         },
         {
-            "title": "Pentagon memo says, DoD to adopt Palantir AI as core military system; what is company's Maven tool that has been used to carry \u2060out thousands of strikes against Iran",
-            "description": "[TIMES OF INDIA] Tech News News: The US Department of Defense has now decided to make Palantir\u2019s Maven artificial intelligence system and official program of record, according to a me.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/pentagon-memo-says-dod-to-adopt-palantir-ai-as-core-military-system-what-is-companys-maven-tool-that-has-been-used-to-carry-out-thousands-of-strikes-against-iran/articleshow/129715531.cms"
+            "title": "Hachette pulls horror novel \u2018Shy Girl' over suspected AI use",
+            "description": "[THE BOSTON GLOBE] Hachette Book Group, one of the largest publishers in the United States, pulled a forthcoming horror novel Thursday in a decision that followed widespread allegations online that the author relied...",
+            "url": "https://www.bostonglobe.com/2026/03/21/arts/shy-girl-mia-ballard/"
         },
         {
-            "title": "Pentagon to adopt Palantir\u2019s Maven artificial intelligence as core US military system",
-            "description": "[TELEGRAPH INDIA] Maven is a command-and-control software platform that analyses battlefield data and identifies targets",
-            "url": "https://www.telegraphindia.com/world/pentagon-to-adopt-palantirs-maven-artificial-intelligence-as-core-us-military-system-memo-says/cid/2152451"
+            "title": "How engineers at Elon Musk's xAI are becoming 'salesmen' to take on OpenAI and Anthropic",
+            "description": "[TIMES OF INDIA] Tech News News: Elon Musk\u2019s xAI is reportedly turning its engineers into \u201csalesmen\u201d. According to a Bloomberg report, the artificial intelligence (AI) startup behind .",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-engineers-at-elon-musks-xai-are-becoming-salesmen-to-take-on-openai-and-anthropic/articleshow/129715429.cms"
         },
         {
-            "title": "SoftBank CEO Son unveils $500 bil AI data center investment in Ohio",
-            "description": "[JAPAN TODAY] SoftBank Group Corp plans to invest $500 billion to build an artificial intelligence data center in Ohio, with construction to begin sometime this year, the conglomerate's chairman and CEO said....",
-            "url": "https://japantoday.com/category/tech/softbank-group's-son-unveils-500-bil.-ai-data-center-investment-in-ohio"
+            "title": "Kerala lottery Karunya KR-747 result today 21/03/2026: \u20b91 cr first prize for KT 889280 | Check complete list",
+            "description": "[MALAYALA MANORAMA] The second prize is 25 lakh, followed by a third prize of 10 lakh..Kerala lottery Karunya KR-747 result today, Karunya KR-747 lottery results, Kerala lottery results 21/03/2026, Karunya KR-747 first...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/21/kerala-lottery-results-karunya-kr-747-1-crore-prize-complete-list-21-3-2026-check-live.html"
         },
         {
-            "title": "SoftBank CEO Son unveils $500 bil AI data center investment in Ohio",
-            "description": "[JAPAN TODAY] SoftBank Group Corp plans to invest $500 billion to build an artificial intelligence data center in Ohio, with construction to begin sometime this year, the conglomerate's chairman and CEO said....",
-            "url": "https://japantoday.com/category/tech/softbank-group%27s-son-unveils-500-bil.-ai-data-center-investment-in-ohio"
+            "title": "Who is the malayali toddler in Prime Minister Narendra Modi\u2019s latest photo on social media?",
+            "description": "[MALAYALA MANORAMA] On Saturday morning, actor Krishnakumar and his family\u2014comprising his influencer daughters Ahaana, Diya, Ishaana, and Hansika\u2014also shared pictures.Narendra Modi with child, Prime Minister Modi...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/21/pm-modi-family-meeting-child-photo-krishnakumar-ahaana-krishna.html"
         },
         {
-            "title": "US new AI policy push signals shift for India",
-            "description": "[LOKMAT TIMES] US new AI policy push signals shift for India - Washington, Mar 21 The Trump administration unveiled a national framework on artificial intelligence, which could shape Indian talent, ... Get Latest...",
-            "url": "https://www.lokmattimes.com/international/us-new-ai-policy-push-signals-shift-for-india/"
+            "title": "The Artificial Intelligence Debate Inspired By 'The AI Doc: Or How I Became An Apocaloptimist'",
+            "description": "[MASHABLE INDIA] Where are we at, and where can we go?",
+            "url": "https://in.mashable.com/entertainment/107408/the-artificial-intelligence-debate-inspired-by-the-ai-doc-or-how-i-became-an-apocaloptimist"
         },
         {
-            "title": "DoorDash\u2019s new paid tasks turn couriers into AI and robot trainers",
-            "description": "[SPOKANE SPOKESMAN-REVIEW] DoorDash Inc. is paying delivery couriers in some markets to submit video clips and complete other digital tasks to help improve artificial intelligence and robotics models, following competitors...",
-            "url": "https://www.spokesman.com/stories/2026/mar/21/doordashs-new-paid-tasks-turn-couriers-into-ai-and/"
+            "title": "NHAI to deploy AI-enabled cameras on 40,000 km of NHs for monitoring",
+            "description": "[THE ECONOMIC TIMES] According to the National Highways Authority of India (NHAI), the idea is to enhance remote tracking and road condition assessments using high-resolution imagery and video data. The initiative...",
+            "url": "https://economictimes.indiatimes.com/industry/transportation/roadways/nhai-to-deploy-ai-enabled-cameras-on-40000-km-of-nhs-for-monitoring/articleshow/129715914.cms"
         },
         {
-            "title": "Summer in Bethlehem sequel plans dropped; Mohanlal scene cut after first day shows, says Sibi Malayil",
-            "description": "[MALAYALA MANORAMA] According to Malayil, audiences who had just reacted strongly to Mohanlal's appearance were suddenly faced with a slower, dialogue-heavy stretch..Summer in Bethlehem deleted scene, Summer in...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/21/summer-in-bethlehem-deleted-scene-sequel-plans-sibi-malayil-mohanlal.html"
+            "title": "Hrishi's new single 'Chamayam' captures electronic pulse of Thrissur pooram",
+            "description": "[MALAYALA MANORAMA] Chamayam is a new single by Thrissur-born electronic artist Hrishikesh Krishna, deeply inspired by Kerala's vibrant festival culture, particularly.Hrishi Chamayam, Kerala festival music, electronic...",
+            "url": "https://www.onmanorama.com/entertainment/music/2026/03/21/hrishi-chamayam-kerala-festival-music.html"
         },
         {
-            "title": "White House releases AI policy framework for Congress, with six guiding principles",
-            "description": "[THE MANILA TIMES] WASHINGTON, D.C. \u2014 The White House on Friday released its framework for how it wishes Congress will address the issue of artificial intelligence.",
-            "url": "https://www.manilatimes.net/2026/03/21/world/americas-emea/white-house-releases-ai-policy-framework-for-congress-with-six-guiding-principles/2304770"
+            "title": "Ahmedabad University Hosts Global Collaborative for the Liberal Arts to Advance Humanistic Technological Innovation in the Age of AI",
+            "description": "[THE TRIBUNE] Ahmedabad, Gujarat, India (NewsVoir) Seismic shifts in geopolitics and rapid technological advancements in the realm of artificial intelligence, automation, and data-driven systems are reconfiguring...",
+            "url": "https://www.tribuneindia.com/news/business/ahmedabad-university-hosts-global-collaborative-for-the-liberal-arts-to-advance-humanistic-technological-innovation-in-the-age-of-ai-2-2/"
         }
     ]
 }
