@@ -1,6 +1,11 @@
 {
-    "updated": "2026-03-21 08:28:08 UTC",
+    "updated": "2026-03-21 10:22:39 UTC",
     "news": [
+        {
+            "title": "5 Essential Security Patterns for Robust Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-essential-security-patterns-for-robust-agentic-ai/"
+        },
         {
             "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
             "description": "[RESEARCH] Health & Bioscience",
@@ -12,19 +17,9 @@
             "url": "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/"
         },
         {
-            "title": "Everything You Need to Know About Recursive Language Models",
-            "description": "[MACHINELEARNINGMASTERY] If you are here, you have probably heard about recent work on recursive language models.",
-            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/"
-        },
-        {
-            "title": "Setting Up a Google Colab AI-Assisted Coding Environment That Actually Works",
-            "description": "[MACHINELEARNINGMASTERY] This article focuses on Google Colab , an increasingly popular, free, and accessible, cloud-based Python environment that is well-suited for prototyping data analysis workflows and experimental code...",
-            "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
-        },
-        {
-            "title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
-            "description": "[MACHINELEARNINGMASTERY] While large language models (LLMs) are typically used for conversational purposes in use cases that revolve around natural language interactions, they can also assist with tasks like feature...",
-            "url": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/"
+            "title": "Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap",
+            "description": "[MACHINELEARNINGMASTERY] &nbsp; You've built an AI agent that works well in development.",
+            "url": "https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -37,14 +32,14 @@
             "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/"
         },
         {
-            "title": "Building Smart Machine Learning in Low-Resource Settings",
-            "description": "[MACHINELEARNINGMASTERY] Most people who want to build <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/"
-        },
-        {
             "title": "Introducing Groundsource: Turning news reports into data with Gemini",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/"
+        },
+        {
+            "title": "Vector Databases vs. Graph RAG for Agent Memory: When to Use Which",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -62,9 +57,9 @@
             "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/"
         },
         {
-            "title": "The 6 Best AI Agent Memory Frameworks You Should Try in 2026",
-            "description": "[MACHINELEARNINGMASTERY] Memory helps <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/"
+            "title": "Build Semantic Search with LLM Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] Traditional search engines have historically relied on keyword search.",
+            "url": "https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -72,59 +67,64 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
+            "title": "Can LLM Embeddings Improve Time Series Forecasting? A Practical Feature Engineering Approach",
+            "description": "[MACHINELEARNINGMASTERY] Using large language models (LLMs) &mdash; or their outputs, for that matter &mdash; for all kinds of machine learning-driven tasks, including predictive ones that were already being solved long...",
+            "url": "https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Lawyers behind $1.5 billion Anthropic settlement slash fee bid after pushback from judge",
+            "description": "[REUTERS] Lawyers representing authors and publishers in a landmark $1.5 billion copyright settlement with artificial intelligence company Anthropic have lowered their bid for attorney fees in the case by...",
+            "url": "https://www.reuters.com/legal/government/lawyers-behind-15-billion-anthropic-settlement-slash-fee-bid-after-pushback-2026-03-20/"
+        },
+        {
+            "title": "White House urges Congress to use a light touch on AI regulations",
+            "description": "[CHICAGO TRIBUNE] The White House said on Friday that Congress should \u201cpreempt state AI laws\u201d that it views as too burdensome, laying out a broad framework for how it wants Congress to address concerns about...",
+            "url": "https://www.chicagotribune.com/2026/03/20/white-house-congress-ai-regulations/"
+        },
+        {
+            "title": "6 Ways AI is Revolutionizing Supply Chain and Delivery Operations",
+            "description": "[TECHBULLION] Artificial intelligence is reshaping supply chains into faster, more adaptive systems that respond to real-world conditions in real time. What used to rely on static planning and manual coordination...",
+            "url": "https://techbullion.com/6-ways-ai-is-revolutionizing-supply-chain-and-delivery-operations/"
+        },
+        {
+            "title": "China's Alibaba targets $100 bil in AI and cloud revenue over 5 years",
+            "description": "[JAPAN TODAY] China\u2019s technology giant Alibaba Group has pledged a goal of surpassing $100 billion in revenue from its artificial intelligence and cloud businesses over the next five years, which it said would be...",
+            "url": "https://japantoday.com/category/tech/china's-alibaba-targets-100b-in-ai-and-cloud-revenue-over-5-years"
+        },
+        {
+            "title": "China's Alibaba targets $100 bil in AI and cloud revenue over 5 years",
+            "description": "[JAPAN TODAY] China\u2019s technology giant Alibaba Group has pledged a goal of surpassing $100 billion in revenue from its artificial intelligence and cloud businesses over the next five years, which it said would be...",
+            "url": "https://japantoday.com/category/tech/china%27s-alibaba-targets-100b-in-ai-and-cloud-revenue-over-5-years"
+        },
+        {
             "title": "Trump officials announce 10-gigawatt data center, gas plants for former Ohio uranium site",
-            "description": "[WDIV CLICKONDETROIT] The U.S. Department of Energy has announced a public-private partnership with SoftBank and AEP Ohio to develop a massive artificial intelligence data center and power complex at a former uranium...",
-            "url": "https://www.clickondetroit.com/tech/2026/03/20/trump-officials-announce-10-gigawatt-data-center-gas-plants-for-former-ohio-uranium-site/"
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] The U.S. Department of Energy has announced a public-private partnership with SoftBank and AEP Ohio to develop a massive artificial intelligence data center and power complex at a former uranium...",
+            "url": "https://www.ajc.com/news/2026/03/trump-officials-announce-10-gigawatt-data-center-gas-plants-for-former-ohio-uranium-site/"
+        },
+        {
+            "title": "White House urges Congress to take a light touch on AI regulations in new legislative blueprint",
+            "description": "[THE BOSTON GLOBE] The White House is laying out a new framework that it wants Congress to use to shape national rules for artificial intelligence without curbing growth in the sector.",
+            "url": "https://www.bostonglobe.com/2026/03/20/nation/white-house-urges-congress-take-light-touch-ai-regulations-new-legislative-blueprint/"
+        },
+        {
+            "title": "White House Pushes Congress to Override State AI Laws",
+            "description": "[NEWSMAX] Arguing that a unified national framework is needed to prevent a patchwork of rules from slowing innovation and weakening U.S. competitiveness, the White House is calling on Congress to override...",
+            "url": "https://www.newsmax.com/politics/congress-ai-trump-administration/2026/03/20/id/1250231/"
+        },
+        {
+            "title": "I wrote a script to run Claude Code with my local LLM, and skipping the cloud has never been easier",
+            "description": "[XDA DEVELOPERS] It makes it much easier than typing environment variables everytime.",
+            "url": "https://www.xda-developers.com/wrote-script-run-claude-code-local-llm-skipping-cloud/"
         },
         {
             "title": "DOE unveils 10-gigawatt Ohio data center, gas-powered energy plan",
             "description": "[THE ASSOCIATED PRESS] The U.S. Department of Energy has announced a public-private partnership with SoftBank and AEP Ohio to develop a massive artificial intelligence data center and power complex at a former uranium...",
             "url": "https://apnews.com/article/ai-data-center-ohio-uranium-enrichment-4667fa1442ec1c652228337ab4eb68ee"
-        },
-        {
-            "title": "Trump Officials Announce 10-Gigawatt Data Center, Gas Plants for Former Ohio Uranium Site",
-            "description": "[U.S. NEWS & WORLD REPORT] PIKETON, Ohio (AP) \u2014 The U.S. Department of Energy on Friday announced a public-private partnership to develop a major data center with its own power supply on the site of a decommissioned uranium...",
-            "url": "https://www.usnews.com/news/technology/articles/2026-03-20/trump-officials-announce-10-gigawatt-data-center-gas-plants-for-former-ohio-uranium-site"
-        },
-        {
-            "title": "The Final Frontier: How Artificial Intelligence is Revolutionizing Deep Space Exploration",
-            "description": "[SANTA CLARITA VALLEY SIGNAL] For thousands of years, humanity has looked up at the night sky with a profound sense of wonder. We have mapped the constellations, charted the movements of the planets, and [\u2026]",
-            "url": "https://signalscv.com/2026/03/the-final-frontier-how-artificial-intelligence-is-revolutionizing-deep-space-exploration/"
-        },
-        {
-            "title": "White House releases AI laws framework to prevent state laws",
-            "description": "[UPI NEWS] The White House released a new legislative framework for artificial intelligence creating a federal policy to prevent states from making their own.",
-            "url": "https://www.upi.com/Top_News/US/2026/03/20/white-house-ai-laws-prevent-state/3721774035374/"
-        },
-        {
-            "title": "MIT study: Every time you ask ChatGPT it\u2019s like turning on a light bulb",
-            "description": "[PROTO THEMA] Artificial Intelligence \u201cthirsts\u201d for electricity and is reshaping the energy landscape, at the same time as Greece is becoming a digital hub with investments in data centers",
-            "url": "https://en.protothema.gr/2026/03/20/mit-study-every-time-you-ask-chatgpt-its-like-turning-on-a-light-bulb/"
-        },
-        {
-            "title": "TRACE ASI Launches Advanced Market Analysis Platform Powered by Artificial Intelligence",
-            "description": "[THE MANILA TIMES] TRACE ASI Launches Advanced Market Analysis Platform Powered by Artificial Intelligence",
-            "url": "https://www.manilatimes.net/2026/03/21/tmt-newswire/globenewswire/trace-asi-launches-advanced-market-analysis-platform-powered-by-artificial-intelligence/2304681"
-        },
-        {
-            "title": "2 Best AI ETFs to Buy Now, According to Analysts - 3/20/2026",
-            "description": "[MARKETS INSIDER] Two AI ETFs, the Dan Ives Wedbush AI Revolution ETF (IVES) and the KraneShares Artificial Intelligence & Technology ETF (AGIX), stand out fo...",
-            "url": "https://markets.businessinsider.com/news/stocks/2-best-ai-etfs-to-buy-now-according-to-analysts-3-20-2026-1035951805"
-        },
-        {
-            "title": "BJP Guruvayur candidate B Gopalakrishnan\u2019s remarks during campaign trigger row; CPM to file complaint",
-            "description": "[MALAYALA MANORAMA] Gopalakrishnan reportedly said that Guruvayur had not elected a Hindu MLA in the past 50 years..CPM complaint BJP candidate, Guruvayur election communal remarks, B Gopalakrishnan election campaign,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/21/kerala-assembly-elections-cpm-complaint-bjp-gopalakrishnan.html"
-        },
-        {
-            "title": "Do Workers Want to Be Paid in AI Tokens? Nvidia (NVDA) CEO Jensen Huang Says \u2018Yes\u2019",
-            "description": "[MARKETS INSIDER] Nvidia (NVDA) CEO Jensen Huang is bullish on a new employee pay incentive: artificial intelligence (AI) tokens.Claim 70% Off TipRanks PremiumUnl...",
-            "url": "https://markets.businessinsider.com/news/stocks/do-workers-want-to-be-paid-in-ai-tokens-nvidia-nvda-ceo-jensen-huang-says-yes-1035951786"
         }
     ]
 }
