@@ -1,10 +1,10 @@
 {
-    "updated": "2026-03-21 12:40:28 UTC",
+    "updated": "2026-03-21 14:23:26 UTC",
     "news": [
         {
-            "title": "5 Essential Security Patterns for Robust Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-essential-security-patterns-for-robust-agentic-ai/"
+            "title": "7 Readability Features for Your Next Machine Learning Model",
+            "description": "[MACHINELEARNINGMASTERY] Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.",
+            "url": "https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/"
         },
         {
             "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
@@ -17,9 +17,14 @@
             "url": "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/"
         },
         {
-            "title": "Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; You've built an AI agent that works well in development.",
-            "url": "https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/"
+            "title": "Everything You Need to Know About Recursive Language Models",
+            "description": "[MACHINELEARNINGMASTERY] If you are here, you have probably heard about recent work on recursive language models.",
+            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/"
+        },
+        {
+            "title": "Setting Up a Google Colab AI-Assisted Coding Environment That Actually Works",
+            "description": "[MACHINELEARNINGMASTERY] This article focuses on Google Colab , an increasingly popular, free, and accessible, cloud-based Python environment that is well-suited for prototyping data analysis workflows and experimental code...",
+            "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -27,19 +32,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
+            "title": "5 Production Scaling Challenges for Agentic AI in 2026",
+            "description": "[MACHINELEARNINGMASTERY] Everyone's <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/"
+        },
+        {
             "title": "Protecting cities with AI-driven flash flood forecasting",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/"
         },
         {
+            "title": "Building Smart Machine Learning in Low-Resource Settings",
+            "description": "[MACHINELEARNINGMASTERY] Most people who want to build <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/"
+        },
+        {
             "title": "Introducing Groundsource: Turning news reports into data with Gemini",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/"
-        },
-        {
-            "title": "Vector Databases vs. Graph RAG for Agent Memory: When to Use Which",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -57,24 +67,44 @@
             "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/"
         },
         {
-            "title": "Build Semantic Search with LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] Traditional search engines have historically relied on keyword search.",
-            "url": "https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "Can LLM Embeddings Improve Time Series Forecasting? A Practical Feature Engineering Approach",
-            "description": "[MACHINELEARNINGMASTERY] Using large language models (LLMs) &mdash; or their outputs, for that matter &mdash; for all kinds of machine learning-driven tasks, including predictive ones that were already being solved long...",
-            "url": "https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Blackstone Private Credit Fund has first monthly loss since 2022",
+            "description": "[MONEYCONTROL] BCRED is among a number of private credit vehicles that have faced elevated redemptions in recent quarters, amid concerns about valuations and underwriting standards in credit markets, as well as the...",
+            "url": "https://www.moneycontrol.com/news/business/blackstone-private-credit-fund-has-first-monthly-loss-since-2022-13866564.html"
+        },
+        {
+            "title": "Trump unveils national AI legislative framework, would limit state power",
+            "description": "[BALTIMORE NEWS] The Trump administration on Friday issued a legislative framework for a single national policy on artificial intelligence.",
+            "url": "https://foxbaltimore.com/news/nation-world/trump-unveils-national-ai-legislative-framework-would-limit-state-power-innovation-policy-framework-president"
+        },
+        {
+            "title": "Trump unveils national AI legislative framework, would limit state power",
+            "description": "[WJLA] The Trump administration on Friday issued a legislative framework for a single national policy on artificial intelligence.",
+            "url": "https://wjla.com/news/nation-world/trump-unveils-national-ai-legislative-framework-would-limit-state-power-innovation-policy-framework-president"
+        },
+        {
+            "title": "Pentagon to adopt Palantir AI as core US military system, memo says",
+            "description": "[THE ECONOMIC TIMES] Palantir's Maven artificial intelligence system will become an official program of record, Deputy Secretary of Defense Steve Feinberg \u200bsaid in a letter to Pentagon leaders, a move \u200bthat locks in...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/pentagon-to-adopt-palantir-ai-as-core-us-military-system-memo-says/articleshow/129711789.cms"
+        },
+        {
+            "title": "Pentagon to adopt Palantir AI as core US military system, memo says",
+            "description": "[THE ECONOMIC TIMES] The US military is officially adopting Palantir's Maven artificial intelligence system. This move secures long-term use of the technology for weapons targeting. Maven analyzes battlefield data to...",
+            "url": "https://economictimes.indiatimes.com/news/defence/pentagon-to-adopt-palantir-ai-as-core-us-military-system-memo-says/articleshow/129711503.cms"
+        },
+        {
+            "title": "Nemom and Palakkad. Have CPM and Congress abandoned 'secular brotherhood' against BJP",
+            "description": "[MALAYALA MANORAMA] Ramesh Pisharody's arrival seems to have nudged the CPM to explore the Muslim card..Nemom election strategy, K Sabarinathan Nemom, Kerala Congress strategy, CPM Palakkad candidate, political analysis...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/20/kerala-assembly-election-nemom-strategy-cpm-congress-nemom-palakkad.html"
         },
         {
             "title": "Pentagon to Use Palantir AI as Core Military System",
@@ -95,36 +125,6 @@
             "title": "Pentagon to adopt Palantir AI as core US military system, memo says",
             "description": "[MARKETSCREENER] Palantir's Maven artificial intelligence system will become an official program of record, Deputy Secretary of Defense Steve Feinberg said in a letter to Pentagon leaders, a move that locks in...",
             "url": "https://www.marketscreener.com/news/pentagon-to-adopt-palantir-ai-as-core-us-military-system-memo-says-ce7e5edfd08df423"
-        },
-        {
-            "title": "Artificial intelligence helps unlock geothermal potential",
-            "description": "[FOX BUSINESS] Geothermal company Zanskar claims its AI models have made more discoveries in three years than the industry found in 30, targeting untapped U.S. resources.",
-            "url": "https://www.foxbusiness.com/politics/artificial-intelligence-helps-unlock-geothermal-potential"
-        },
-        {
-            "title": "3 men accused of conspiring to smuggle US artificial intelligence to China: prosecutors",
-            "description": "[WJLA] Three men were charged with conspiring to unlawfully divert U.S. artificial intelligence technology to China, according to prosecutors.",
-            "url": "https://wjla.com/news/nation-world/3-men-accused-of-conspiring-to-smuggle-us-artificial-intelligence-to-china-prosecutors-ai-department-of-justice-technology-nvidia-chips-super-micro-computer"
-        },
-        {
-            "title": "3 men accused of conspiring to smuggle US artificial intelligence to China: prosecutors",
-            "description": "[BALTIMORE NEWS] Three men were charged with conspiring to unlawfully divert U.S. artificial intelligence technology to China, according to prosecutors.",
-            "url": "https://foxbaltimore.com/news/nation-world/3-men-accused-of-conspiring-to-smuggle-us-artificial-intelligence-to-china-prosecutors-ai-department-of-justice-technology-nvidia-chips-super-micro-computer"
-        },
-        {
-            "title": "Some LA judges will use AI as a pilot program - but humans will still rule",
-            "description": "[SANTA ANA ORANGE COUNTY REGISTER] The artificial intelligence technology will help judges with legal research and even help draft some decisions.",
-            "url": "https://www.ocregister.com/2026/03/20/some-la-judges-will-use-ai-as-a-pilot-program-but-humans-will-still-rule/"
-        },
-        {
-            "title": "TAC framed for AI adoption in ACB investigations",
-            "description": "[DAILY EXCELSIOR] Excelsior Correspondent JAMMU, Mar 20: Government of Jammu and Kashmir has constituted a Technical Appraisal Committee (TAC) to evaluate the proposed project on the \u201cAdoption of Artificial...",
-            "url": "https://www.dailyexcelsior.com/tac-framed-for-ai-adoption-in-acb-investigations/"
-        },
-        {
-            "title": "AI key to reviving agriculture, boosting farmers' income in Punjab: CM Mann",
-            "description": "[DAILY EXCELSIOR] LUDHIANA, Mar 20 : Punjab Chief Minister Bhagwant Singh Mann on Friday said the use of Artificial Intelligence (AI) is necessary to revive agriculture and increase farmers\u2019 income as traditional...",
-            "url": "https://www.dailyexcelsior.com/ai-key-to-reviving-agriculture-boosting-farmers-income-in-punjab-cm-mann/"
         }
     ]
 }
