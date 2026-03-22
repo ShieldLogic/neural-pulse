@@ -1,11 +1,6 @@
 {
-    "updated": "2026-03-22 18:31:37 UTC",
+    "updated": "2026-03-22 20:22:25 UTC",
     "news": [
-        {
-            "title": "5 Essential Security Patterns for Robust Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-essential-security-patterns-for-robust-agentic-ai/"
-        },
         {
             "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
             "description": "[RESEARCH] Health & Bioscience",
@@ -17,9 +12,19 @@
             "url": "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/"
         },
         {
-            "title": "Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; You've built an AI agent that works well in development.",
-            "url": "https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/"
+            "title": "Everything You Need to Know About Recursive Language Models",
+            "description": "[MACHINELEARNINGMASTERY] If you are here, you have probably heard about recent work on recursive language models.",
+            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/"
+        },
+        {
+            "title": "Setting Up a Google Colab AI-Assisted Coding Environment That Actually Works",
+            "description": "[MACHINELEARNINGMASTERY] This article focuses on Google Colab , an increasingly popular, free, and accessible, cloud-based Python environment that is well-suited for prototyping data analysis workflows and experimental code...",
+            "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
+        },
+        {
+            "title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
+            "description": "[MACHINELEARNINGMASTERY] While large language models (LLMs) are typically used for conversational purposes in use cases that revolve around natural language interactions, they can also assist with tasks like feature...",
+            "url": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -32,14 +37,14 @@
             "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/"
         },
         {
+            "title": "Building Smart Machine Learning in Low-Resource Settings",
+            "description": "[MACHINELEARNINGMASTERY] Most people who want to build <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/"
+        },
+        {
             "title": "Introducing Groundsource: Turning news reports into data with Gemini",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/"
-        },
-        {
-            "title": "Vector Databases vs. Graph RAG for Agent Memory: When to Use Which",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -57,9 +62,9 @@
             "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/"
         },
         {
-            "title": "Build Semantic Search with LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] Traditional search engines have historically relied on keyword search.",
-            "url": "https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/"
+            "title": "The 6 Best AI Agent Memory Frameworks You Should Try in 2026",
+            "description": "[MACHINELEARNINGMASTERY] Memory helps <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -67,14 +72,44 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "Can LLM Embeddings Improve Time Series Forecasting? A Practical Feature Engineering Approach",
-            "description": "[MACHINELEARNINGMASTERY] Using large language models (LLMs) &mdash; or their outputs, for that matter &mdash; for all kinds of machine learning-driven tasks, including predictive ones that were already being solved long...",
-            "url": "https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "'CODE RED' Challenges AI's Claims on Faith",
+            "description": "[BREITBART NEWS NETWORK] Each new day brings a hundred headlines on some aspect of artificial intelligence. How to make sense of this flood? Who can provide context\u2014especially for conservatives, rightly concerned about Big...",
+            "url": "https://www.breitbart.com/tech/2026/03/22/pinkerton-code-red-challenges-ais-claims-on-faith/"
+        },
+        {
+            "title": "'CODE RED' Challenges AI's Claims on Faith",
+            "description": "[BREITBART NEWS NETWORK] Each new day brings a hundred headlines on some aspect of artificial intelligence. How to make sense of this flood? Who can provide context\u2014especially for conservatives, rightly concerned about Big...",
+            "url": "https://www.breitbart.com/politics/2026/03/22/pinkerton-code-red-challenges-ais-claims-on-faith/"
+        },
+        {
+            "title": "Malayalis and the Great Bombay Dream",
+            "description": "[MALAYALA MANORAMA] Malayalam helped blur religious and caste distinctions among the diaspora..Malayalis in Bombay history, Bombay Malayali community, early 20th century migration Kerala, Malayalam speakers Bombay,...",
+            "url": "https://www.onmanorama.com/lifestyle/keralaspora/2026/03/22/malayalis-community-bombay-history.html"
+        },
+        {
+            "title": "Kerala Blasters hope to \u2018regroup\u2019 and \u2018return stronger\u2019 after international break. Really?",
+            "description": "[MALAYALA MANORAMA] Kerala Blasters' coaching staff have claimed they can return stronger from the international break running from March 23 to 31..Kerala Blasters ISL performance, Indian Super League relegation risk,...",
+            "url": "https://www.onmanorama.com/sports/football/2026/03/22/isl-2026-kerala-blasters-hope-to-regroup-after-march-international-break-david-catala-chinta.html"
+        },
+        {
+            "title": "Lopez: A solemn promise: AI didn\u2019t write this column",
+            "description": "[SANTA ROSA PRESS DEMOCRAT] Exploring the pros and cons of artificial intelligence for writing.",
+            "url": "https://www.pressdemocrat.com/2026/03/22/lopez-a-solemn-promise-ai-didnt-write-this-column/"
+        },
+        {
+            "title": "Elon Musk Launches 'Terafab' Project To Make Chips For AI, Robotics, Data Centers",
+            "description": "[NDTV.COM] Elon Musk announced Saturday a plan to make chips for artificial intelligence, robotics and data centers in space, in the latest bold project...",
+            "url": "https://www.ndtv.com/world-news/elon-musk-launches-terafab-project-to-make-chips-for-ai-robotics-data-centers-11249884"
+        },
+        {
+            "title": "No cap on domestic airfare from March 23: How it will affect ticket prices",
+            "description": "[MALAYALA MANORAMA] Around 40 per cent of airline companies' operating costs go towards fuel expenses..airfare increase, domestic flight prices, aviation fuel costs, airline pricing strategy, government aviation policy,...",
+            "url": "https://www.onmanorama.com/travel/travel-news/2026/03/22/no-cap-on-domestic-airfare-from-march-23.html"
         },
         {
             "title": "Few exits won\u2019t matter: MV Govindan confident of 110 seats in Kerala Assembly polls",
@@ -90,41 +125,6 @@
             "title": "Netanyahu had to prove he was alive 3 times. Why proof of life is \u2018Word of the Week\u2019",
             "description": "[FIRSTPOST] Amid rumours of his death, Israeli Prime Minister Benjamin Netanyahu posted three proof of life videos. However, the visuals were dismissed as artificial intelligence, meant to deceive the world...",
             "url": "https://www.firstpost.com/explainers/netanyahu-had-to-prove-he-was-alive-3-times-why-proof-of-life-is-word-of-the-week-13991555.html"
-        },
-        {
-            "title": "Musk plans Tesla, SpaceX, xAI chip making lab in Texas",
-            "description": "[BANGKOK POST] NEW YORK -- Elon Musk says his Terafab project - a grand plan to eventually manufacture his own chips for robotics, artificial intelligence and space data centres - will be built in Austin and...",
-            "url": "https://www.bangkokpost.com/life/tech/3221923/musk-plans-tesla-spacex-xai-chip-making-lab-in-texas"
-        },
-        {
-            "title": "Vijay Deverakonda keeps his promise, hosts young fan with Rashmika Mandanna",
-            "description": "[MALAYALA MANORAMA] A video from the visit shows the two stars personally serving food to the child. Rashmika is seen placing a laddu on the girl's plate and kissing her.Vijay Deverakonda Rashmika Mandanna fan meeting,...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/22/vijay-deverakonda-rashmika-mandanna-hosts-young-fan.html"
-        },
-        {
-            "title": "Are AI models becoming commodities? OpenClaw\u2019s ChatGPT-like growth sparks debate",
-            "description": "[THE FINANCIAL EXPRESS] OpenClaw\u2019s rapid ChatGPT-like growth has sparked a debate in the tech industry about whether AI models are becoming commoditized, raising questions about the future value and differentiation of...",
-            "url": "https://www.financialexpress.com/life/technology-are-ai-models-becoming-commodities-openclaws-chatgpt-like-growth-sparks-debate-4180255/"
-        },
-        {
-            "title": "TVM techie's stinging tale of abuse wins second prize at NHRC shortfilm contest",
-            "description": "[MALAYALA MANORAMA] The short film Meanwhile She, by a Kerala team, earned second prize at the 11th annual National Human Rights Commission competition for its powerful.short film, women's rights, human rights...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/22/meanwhile-she-kerala-short-film-womens-rights-national-human-rights-commission.html"
-        },
-        {
-            "title": "Razack\u2019s return to IUML recasts political equations in Koduvally ahead of crucial poll",
-            "description": "[MALAYALA MANORAMA] Razack, who had previously left the IUML in 2016 formally accepted membership from IUML state president Hyderali Shihab Thangal..Karat Razack IUML return, Koduvally political shift, Kozhikode UDF...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/22/karat-razack-returns-iuml-kozhikode-koduvally-assembly-polls.html"
-        },
-        {
-            "title": "Women billionaires double in 10 years: Hurun report reveals USD 470 billion wealth boom",
-            "description": "[ZEE NEWS] This sharp rise is being driven by sectors such as artificial intelligence, healthcare, and advanced manufacturing, where women entrepreneurs are building and scaling large businesses.",
-            "url": "https://zeenews.india.com/personal-finance/women-billionaires-double-in-10-years-hurun-report-reveals-usd-470-billion-wealth-boom-3029222.html"
-        },
-        {
-            "title": "'My future life will be of repentance': Why Kerala doctor's killer got lifer instead of death penalty?",
-            "description": "[MALAYALA MANORAMA] The judge cited Sandeep's lack of criminal antecedents and his assertion of future repentance as factors against capital punishment..Sandeep Dr Vandana Das murder, life imprisonment murder,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/22/kollam-dr-vandana-das-murder-former-teacher-convict-sandeep-g.html"
         }
     ]
 }
