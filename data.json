@@ -1,11 +1,6 @@
 {
-    "updated": "2026-03-23 12:59:26 UTC",
+    "updated": "2026-03-23 14:51:36 UTC",
     "news": [
-        {
-            "title": "5 Essential Security Patterns for Robust Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-essential-security-patterns-for-robust-agentic-ai/"
-        },
         {
             "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
             "description": "[RESEARCH] Health & Bioscience",
@@ -17,9 +12,19 @@
             "url": "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/"
         },
         {
-            "title": "Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap",
-            "description": "[MACHINELEARNINGMASTERY] &nbsp; You've built an AI agent that works well in development.",
-            "url": "https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/"
+            "title": "Everything You Need to Know About Recursive Language Models",
+            "description": "[MACHINELEARNINGMASTERY] If you are here, you have probably heard about recent work on recursive language models.",
+            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/"
+        },
+        {
+            "title": "Setting Up a Google Colab AI-Assisted Coding Environment That Actually Works",
+            "description": "[MACHINELEARNINGMASTERY] This article focuses on Google Colab , an increasingly popular, free, and accessible, cloud-based Python environment that is well-suited for prototyping data analysis workflows and experimental code...",
+            "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
+        },
+        {
+            "title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
+            "description": "[MACHINELEARNINGMASTERY] While large language models (LLMs) are typically used for conversational purposes in use cases that revolve around natural language interactions, they can also assist with tasks like feature...",
+            "url": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
@@ -32,14 +37,14 @@
             "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/"
         },
         {
+            "title": "Building Smart Machine Learning in Low-Resource Settings",
+            "description": "[MACHINELEARNINGMASTERY] Most people who want to build <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/"
+        },
+        {
             "title": "Introducing Groundsource: Turning news reports into data with Gemini",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/"
-        },
-        {
-            "title": "Vector Databases vs. Graph RAG for Agent Memory: When to Use Which",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-vs-graph-rag-for-agent-memory-when-to-use-which/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -57,9 +62,9 @@
             "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/"
         },
         {
-            "title": "Build Semantic Search with LLM Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] Traditional search engines have historically relied on keyword search.",
-            "url": "https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/"
+            "title": "The 6 Best AI Agent Memory Frameworks You Should Try in 2026",
+            "description": "[MACHINELEARNINGMASTERY] Memory helps <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -67,14 +72,29 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "Can LLM Embeddings Improve Time Series Forecasting? A Practical Feature Engineering Approach",
-            "description": "[MACHINELEARNINGMASTERY] Using large language models (LLMs) &mdash; or their outputs, for that matter &mdash; for all kinds of machine learning-driven tasks, including predictive ones that were already being solved long...",
-            "url": "https://machinelearningmastery.com/can-llm-embeddings-improve-time-series-forecasting-a-practical-feature-engineering-approach/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "IIT Kanpur Launches Intensive AI And Machine Learning Certification Programme",
+            "description": "[NDTV.COM] IIT Kanpur offers a four-week certificate programme in AI and ML starting June 15, 2026, open to students and professionals.",
+            "url": "https://www.ndtv.com/education/iit-kanpur-launches-intensive-ai-and-machine-learning-certification-programme-11252508"
+        },
+        {
+            "title": "SoftBank Commits $500 Billion to US AI Data Center Project",
+            "description": "[MARKETSCREENER] SoftBank Group has committed $500 billion to develop an artificial intelligence data center in Ohio, with construction expected to start later this year, Kyodo News reported on Saturday, citing...",
+            "url": "https://www.marketscreener.com/news/softbank-commits-500-billion-to-us-ai-data-center-project-ce7e5edcdb81ff24"
+        },
+        {
+            "title": "Nomination filing deadline for Assembly elections ends today",
+            "description": "[MALAYALA MANORAMA] Authorities will accept nomination papers between 11 am and 3 pm on Monday, with candidates required to complete the process within this timeframe..Legislative Assembly elections, nomination...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/23/legislative-assembly-election-nominations-deadline-ends-today.html"
+        },
+        {
+            "title": "Traders overwhelmed by Iran news are turning to AI for help",
+            "description": "[THE STAR] As Maxence Visseau spent the first few days of the Iran war trying to make sense of what the conflict would mean for markets, he put artificial intelligence at the heart of his investment process.",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/23/traders-overwhelmed-by-iran-news-are-turning-to-ai-for-help"
         },
         {
             "title": "13 years & counting, a \u20b948 cr bridge to nowhere divides voters in Pala",
@@ -105,26 +125,6 @@
             "title": "Musk: SpaceX, Tesla to Build Chip Factories in Austin",
             "description": "[NEWSMAX] SpaceX and Tesla will build two advanced chip factories at a sprawling facility in Austin, Texas, one to power cars and humanoid robots, and another designed for artificial intelligence data centers...",
             "url": "https://www.newsmax.com/us/elon-musk-spacex-tesla/2026/03/22/id/1250380/"
-        },
-        {
-            "title": "AI can never perform core job of judgment writing: SC judge",
-            "description": "[TIMES OF INDIA] India News: NEW DELHI: Supreme Court's most senior judge, Justice Vikram Nath, on Sunday said artificial intelligence could at best be a facilitator for the justi.",
-            "url": "https://timesofindia.indiatimes.com/india/ai-can-never-perform-core-job-of-judgment-writing-sc-judge/articleshow/129740550.cms"
-        },
-        {
-            "title": "College sports departments to high school recruits: Stop trying to trick us by using AI",
-            "description": "[NJ.COM] The use of videos created by artificial intelligence has reportedly entered the world of college sports recruiting.",
-            "url": "https://www.nj.com/sports/2026/03/college-sports-departments-to-high-school-recruits-stop-trying-to-trick-us-by-using-ai.html"
-        },
-        {
-            "title": "SpaceX and Tesla will build advanced chip factories in Austin",
-            "description": "[BNN BLOOMBERG] SpaceX and Tesla will build two advanced chip factories at a sprawling facility in Austin, Texas, one to power cars and humanoid robots, and another designed for artificial intelligence data centers...",
-            "url": "https://www.bnnbloomberg.ca/business/technology/2026/03/22/musk-says-spacex-and-tesla-to-build-advanced-chip-factories-in-austin/"
-        },
-        {
-            "title": "Musk says SpaceX and Tesla to build advanced chip factories in Austin",
-            "description": "[REUTERS] SpaceX and Tesla will \u200cbuild two advanced chip factories at a sprawling facility in Austin, Texas, one to power cars and humanoid robots, and another designed for artificial intelligence data centers...",
-            "url": "https://www.reuters.com/business/autos-transportation/musk-says-spacex-tesla-build-advanced-chip-factories-austin-2026-03-22/"
         }
     ]
 }
