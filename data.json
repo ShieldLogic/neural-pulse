@@ -1,6 +1,11 @@
 {
-    "updated": "2026-03-23 08:50:47 UTC",
+    "updated": "2026-03-23 10:50:29 UTC",
     "news": [
+        {
+            "title": "7 Readability Features for Your Next Machine Learning Model",
+            "description": "[MACHINELEARNINGMASTERY] Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.",
+            "url": "https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/"
+        },
         {
             "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
             "description": "[RESEARCH] Health & Bioscience",
@@ -22,14 +27,14 @@
             "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
         },
         {
-            "title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
-            "description": "[MACHINELEARNINGMASTERY] While large language models (LLMs) are typically used for conversational purposes in use cases that revolve around natural language interactions, they can also assist with tasks like feature...",
-            "url": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "5 Production Scaling Challenges for Agentic AI in 2026",
+            "description": "[MACHINELEARNINGMASTERY] Everyone's <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/"
         },
         {
             "title": "Protecting cities with AI-driven flash flood forecasting",
@@ -62,11 +67,6 @@
             "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/"
         },
         {
-            "title": "The 6 Best AI Agent Memory Frameworks You Should Try in 2026",
-            "description": "[MACHINELEARNINGMASTERY] Memory helps <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,6 +77,46 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Meta CEO Mark Zuckerberg is building a CEO agent to help him do his job - WSJ",
+            "description": "[MARKETSCREENER] March 22 - Meta CEO Mark Zuckerberg is building a CEO agent to help him do his job - WSJ Meta Platforms chief uses the Artificial Intelligence agent tool to get information faster - WSJ ...",
+            "url": "https://www.marketscreener.com/news/meta-ceo-mark-zuckerberg-is-building-a-ceo-agent-to-help-him-do-his-job-wsj-ce7e5edcdb8df627"
+        },
+        {
+            "title": "Musk: SpaceX, Tesla to Build Chip Factories in Austin",
+            "description": "[NEWSMAX] SpaceX and Tesla will build two advanced chip factories at a sprawling facility in Austin, Texas, one to power cars and humanoid robots, and another designed for artificial intelligence data centers...",
+            "url": "https://www.newsmax.com/us/elon-musk-spacex-tesla/2026/03/22/id/1250380/"
+        },
+        {
+            "title": "AI can never perform core job of judgment writing: SC judge",
+            "description": "[TIMES OF INDIA] India News: NEW DELHI: Supreme Court's most senior judge, Justice Vikram Nath, on Sunday said artificial intelligence could at best be a facilitator for the justi.",
+            "url": "https://timesofindia.indiatimes.com/india/ai-can-never-perform-core-job-of-judgment-writing-sc-judge/articleshow/129740550.cms"
+        },
+        {
+            "title": "College sports departments to high school recruits: Stop trying to trick us by using AI",
+            "description": "[NJ.COM] The use of videos created by artificial intelligence has reportedly entered the world of college sports recruiting.",
+            "url": "https://www.nj.com/sports/2026/03/college-sports-departments-to-high-school-recruits-stop-trying-to-trick-us-by-using-ai.html"
+        },
+        {
+            "title": "SpaceX and Tesla will build advanced chip factories in Austin",
+            "description": "[BNN BLOOMBERG] SpaceX and Tesla will build two advanced chip factories at a sprawling facility in Austin, Texas, one to power cars and humanoid robots, and another designed for artificial intelligence data centers...",
+            "url": "https://www.bnnbloomberg.ca/business/technology/2026/03/22/musk-says-spacex-and-tesla-to-build-advanced-chip-factories-in-austin/"
+        },
+        {
+            "title": "Musk says SpaceX and Tesla to build advanced chip factories in Austin",
+            "description": "[REUTERS] SpaceX and Tesla will \u200cbuild two advanced chip factories at a sprawling facility in Austin, Texas, one to power cars and humanoid robots, and another designed for artificial intelligence data centers...",
+            "url": "https://www.reuters.com/business/autos-transportation/musk-says-spacex-tesla-build-advanced-chip-factories-austin-2026-03-22/"
+        },
+        {
+            "title": "Musk says SpaceX and Tesla to build advanced chip factories in Austin",
+            "description": "[MARKETSCREENER] SpaceX and Tesla will build two advanced chip factories at a sprawling facility in Austin, Texas, one to power cars and humanoid robots, and another designed for artificial intelligence data...",
+            "url": "https://www.marketscreener.com/news/musk-says-spacex-and-tesla-to-build-advanced-chip-factories-in-austin-ce7e5edcdb8af022"
+        },
+        {
+            "title": "Musk says Tesla, SpaceX, xAI chip project to kick off in Texas",
+            "description": "[FORTUNE] Musk said his Terafab project \u2014 a grand plan to eventually manufacture his own chips for robotics, artificial intelligence and space data centers \u2014 will be built in Austin.",
+            "url": "https://fortune.com/2026/03/22/musk-terafab-chip-project-tesla-spacex-xai-space-data-center-satellite/"
+        },
+        {
             "title": "'Give me another' - Pep Guardiola defiant after another Man City booking",
             "description": "[MANCHESTER EVENING NEWS] Manchester City manager Pep Guardiola said he was 'not yet artificial intelligence' after his celebrations for the second goal was deemed to have gone too far.",
             "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/give-another-pep-guardiola-defiant-33640147"
@@ -85,46 +125,6 @@
             "title": "DEP30H Protocol Deepstitch: Reinventing Crypto Analytics with AI-Based On-Chain Intelligence.",
             "description": "[TECHBULLION] Explore DEP30H, the innovative tool transforming cryptocurrency trading with artificial intelligence and blockchain insights.",
             "url": "https://techbullion.com/dep30h-protocol-deepstitch-reinventing-crypto-analytics-with-ai-based-on-chain-intelligence/"
-        },
-        {
-            "title": "Indo-Russian consortium bags Indian Railways' \u20b91,100 cr track upkeep contract",
-            "description": "[THE ECONOMIC TIMES] An Indo-Russian team has secured a significant \u20b91,100 crore contract from Indian Railways. They will supply and maintain advanced track maintenance equipment. These systems will use AI and machine...",
-            "url": "https://economictimes.indiatimes.com/industry/transportation/railways/indo-russian-consortium-bags-indian-railways-1100-cr-track-upkeep-contract/articleshow/129737537.cms"
-        },
-        {
-            "title": "Tech Employees Are Reportedly Being Evaluated by How Fast They Burn Through LLM Tokens",
-            "description": "[GIZMODO] As a managerial strategy, it seems a little misguided.",
-            "url": "https://gizmodo.com/tech-employees-are-reportedly-being-evaluated-by-how-fast-they-burn-through-llm-tokens-2000736627"
-        },
-        {
-            "title": "IRGC threatens complete shutdown of strait of Hormuz if US targets Iranian energy facilities",
-            "description": "[MALAYALA MANORAMA] It also said companies with US shares will be 'completely destroyed', if Iranian energy facilities were targeted.Strait of Hormuz, Iran US tensions, Trump Iran threat, oil prices, global energy...",
-            "url": "https://www.onmanorama.com/news/world/2026/03/22/strait-of-hormuz-iran-closure-threat.html"
-        },
-        {
-            "title": "Accused in robbery & assault of Kalamassery woman arrested",
-            "description": "[MALAYALA MANORAMA] Officials said the police would hold a press conference on Monday morning to brief the media on developments in the case..Kochi robbery arrest, woman attacked Kochi, Kalamassery police custody,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/22/kochi-robbery-arrest.html"
-        },
-        {
-            "title": "Analysis of 1.4 million interactions shows how employees achieve sophisticated AI collaboration",
-            "description": "[PHYS.ORG] A study of 1.4 million real workplace interactions with artificial intelligence reveals teachable differences between routine and sophisticated AI use that offer organizations a concrete road map for...",
-            "url": "https://phys.org/news/2026-03-analysis-million-interactions-employees-sophisticated.html"
-        },
-        {
-            "title": "We need to regulate the 'Wild West' of medical AI scribes",
-            "description": "[MEDICAL XPRESS] Automatic scribes run by artificial intelligence now routinely \"listen in\" on your visit to the doctor. These software scribes\u2014potentially used by around 40% of general practitioners in Australia...",
-            "url": "https://medicalxpress.com/news/2026-03-wild-west-medical-ai-scribes.html"
-        },
-        {
-            "title": "Only applications filed by March 15 to be added to voters' list before Assembly polls; says EC",
-            "description": "[MALAYALA MANORAMA] Applications will be accepted until the last date for filing nomination papers, which is Monday..voter list deadline, Legislative Assembly elections eligibility, apply for voter list, election...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/22/voter-list-deadline-assembly-elections.html"
-        },
-        {
-            "title": "Tencent integrates WeChat with OpenClaw AI agent amid China tech battle",
-            "description": "[THE MANILA TIMES] TENCENT launched a tool on Sunday to integrate its WeChat messaging platform with the OpenClaw agent, deepening its push into artificial intelligence (AI) agents that have become a key battleground...",
-            "url": "https://www.manilatimes.net/2026/03/23/business/foreign-business/tencent-integrates-wechat-with-openclaw-ai-agent-amid-china-tech-battle/2305030"
         }
     ]
 }
