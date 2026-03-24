@@ -1,6 +1,16 @@
 {
-    "updated": "2026-03-24 16:57:07 UTC",
+    "updated": "2026-03-24 18:58:12 UTC",
     "news": [
+        {
+            "title": "7 Readability Features for Your Next Machine Learning Model",
+            "description": "[MACHINELEARNINGMASTERY] Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.",
+            "url": "https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/"
+        },
+        {
+            "title": "Mapping the modern world: How S2Vec learns the language of our cities",
+            "description": "[RESEARCH] Algorithms & Theory",
+            "url": "https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/"
+        },
         {
             "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
             "description": "[RESEARCH] Health & Bioscience",
@@ -22,14 +32,14 @@
             "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
         },
         {
-            "title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
-            "description": "[MACHINELEARNINGMASTERY] While large language models (LLMs) are typically used for conversational purposes in use cases that revolve around natural language interactions, they can also assist with tasks like feature...",
-            "url": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "5 Production Scaling Challenges for Agentic AI in 2026",
+            "description": "[MACHINELEARNINGMASTERY] Everyone's <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/"
         },
         {
             "title": "Protecting cities with AI-driven flash flood forecasting",
@@ -40,11 +50,6 @@
             "title": "Building Smart Machine Learning in Low-Resource Settings",
             "description": "[MACHINELEARNINGMASTERY] Most people who want to build <a href=\"https://www.",
             "url": "https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/"
-        },
-        {
-            "title": "Introducing Groundsource: Turning news reports into data with Gemini",
-            "description": "[RESEARCH] Climate & Sustainability",
-            "url": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -62,11 +67,6 @@
             "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/"
         },
         {
-            "title": "The 6 Best AI Agent Memory Frameworks You Should Try in 2026",
-            "description": "[MACHINELEARNINGMASTERY] Memory helps <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "U.S. needs more energy development to power AI, Google president says",
-            "description": "[THE HINDU] The \u200bU.S. may not be scaling energy supplies \u200cfast enough to to meet the \u200bdemands of the artificial intelligence expansion, \u2060Ruth Porat, president and chief investment officer of Google parent...",
-            "url": "https://www.thehindu.com/sci-tech/technology/us-needs-more-energy-development-to-power-ai-google-president-says/article70778158.ece"
+            "title": "\u2018No personal attack, I refered to politically despicable conduct\u2019: CM Vijayan amid row with Sudhakaran",
+            "description": "[MALAYALA MANORAMA] Vijayan defended his use of the term as part of political discourse, analogous to calling someone a 'traitor' for their political actions, and stated.Pinarayi Vijayan, G Sudhakaran, Chettatharam,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/pinarayi-vijayan-sudhakaran-remark-row-response.html"
         },
         {
-            "title": "Kunnathunad: UDF\u2019s VP Sajeendran holds early advantage in tight three-way fight",
-            "description": "[MALAYALA MANORAMA] Onmanorama will track the contest in 12 closely fought constituencies, capturing the ground-level pulse and updating the poll meter. Check.Kunnathunad assembly elections, Kunnathunad assembly trends,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/23/kunnathunad-assembly-elections-kerala-twenty-twenty-udf-ldf-poll-meter-prospects.html"
+            "title": "Bougainvillea nursery born from roadside plants blossoms into a thriving venture",
+            "description": "[MALAYALA MANORAMA] There are numerous hybrid bougainvillea varieties from countries such as Vietnam, Malaysia, and Thailand, which bloom almost throughout the year..bougainvillea nursery, multi-grafted bougainvillea,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/nursery-success-multi-grafted-bougainvillea-guide.html"
         },
         {
-            "title": "Manjeshwar: Ashraf edges ahead in a constituency where margins barely breathe",
-            "description": "[MALAYALA MANORAMA] Onmanorama will track the contest in 12 closely-fought constituencies. Onmanorama team will capture the ground-level pulse and update the poll-meter..Manjeshwar election, Manjeshwar assembly election...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/23/kerala-assembly-election-poll-meter-manjeshwar-ashraf-surendran-prospects.html"
+            "title": "Oracle reworks its finance, procurement apps for AI agents",
+            "description": "[MARKETSCREENER] Oracle is revamping its cloud-based financial software used by large companies to work with artificial intelligence agents, with a goal of having humans ask the system business questions and...",
+            "url": "https://www.marketscreener.com/news/oracle-reworks-its-finance-procurement-apps-for-ai-agents-ce7e5edddd80f621"
         },
         {
-            "title": "Kerala renews bar licences for unclassified hotels, defying liquor policy",
-            "description": "[MALAYALA MANORAMA] Under existing norms, a minimum three-star classification is a prerequisite for a bar licence..Kerala bar licence renewal, Kerala liquor policy, bar licence reclassification, hotel classification bar...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/kerala-renews-bar-licences-ahead-of-assembly-polls.html"
+            "title": "Oracle reworks its finance, procurement apps for AI agents",
+            "description": "[REUTERS] Oracle is revamping its cloud-based financial software used by large companies to work with artificial intelligence agents, with a goal of having humans \u200bask the system business questions and letting...",
+            "url": "https://www.reuters.com/business/oracle-reworks-its-finance-procurement-apps-ai-agents-2026-03-24/"
         },
         {
-            "title": "President of CPM-controlled co-op bank quits, alleges fraud by party leaders",
-            "description": "[MALAYALA MANORAMA] The resignation comes ahead of State Assembly elections, adding to the controversies surrounding CPM-controlled cooperative banks in the region..cooperative bank scam, Adoor Service Cooperative Bank,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/adoor-cooperative-bank-scam-president-resigns.html"
+            "title": "Why authenticity will be a luxury in Hollywood\u2019s AI era",
+            "description": "[THE SUNDAY TIMES] Artificial intelligence in film-making can\u2019t be stopped and labelling content partly made using the technology will soon become pointless",
+            "url": "https://www.thetimes.com/business/technology/article/authenticity-a-luxury-in-hollywood-ai-era-53h8pcrww"
         },
         {
-            "title": "Digital.Marketing Releases Comprehensive AI Digital Marketing Statistics Report Highlighting Rapid Industry Transformation",
-            "description": "[THE MANILA TIMES] New research reveals accelerating adoption of AI across SEO, PPC, and content marketing as brands shift toward automation, personalization, and LLM-driven discovery",
-            "url": "https://www.manilatimes.net/2026/03/24/tmt-newswire/plentisoft/digitalmarketing-releases-comprehensive-ai-digital-marketing-statistics-report-highlighting-rapid-industry-transformation/2306045"
+            "title": "Air Canada tragedy at LaGuardia airport sparks questions on air safety, staffing crisis: Latest findings",
+            "description": "[MALAYALA MANORAMA] Investigations are now focused on how such a lapse could have occurred under the watch of an experienced controller..LaGuardia Airport crash, Air Canada plane collision, air traffic control error,...",
+            "url": "https://www.onmanorama.com/travel/travel-news/2026/03/24/air-canada-tragedy-laguardia-airport-reasons.html"
         },
         {
-            "title": "Check Point Releases AI Factory Security Blueprint to Safeguard AI Infrastructure from GPU Servers to LLM Prompts",
-            "description": "[ITWIRE] COMPANY NEWS: As enterprises and neo-clouds invest billions in private AI infrastructure, Check Point delivers the industry's most com...",
-            "url": "https://itwire.com/business-it-news/data/check-point-releases-ai-factory-security-blueprint-to-safeguard-ai-infrastructure-from-gpu-servers-to-llm-prompts.html"
+            "title": "\u2018Public meetings have their own decorum:\u2019 CM Vijayan defends response to random question at Konni event",
+            "description": "[MALAYALA MANORAMA] He added that when a political party or front organises a public meeting, those uninterested may leave, while others may listen..Pinarayi Vijayan Konni incident, Chief Minister public meeting...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/pinarayi-vijayan-konni-incident.html"
         },
         {
-            "title": "Expanding the circle of opportunity: How AI skills unlock local impact",
-            "description": "[BANGKOK POST] A dry leaf lying on the ground took on new life after a primary school student picked it up. With the help of artificial intelligence (AI), the child turned that humble leaf into a charming pattern...",
-            "url": "https://www.bangkokpost.com/business/general/3220630/expanding-the-circle-of-opportunity-how-ai-skills-unlock-local-impact"
+            "title": "Agentic AI may disrupt some software firms but also create opportunities, investors need to be selective: Goldman Sachs",
+            "description": "[THE TRIBUNE] The emergence of agentic artificial intelligence (AI) could disrupt some companies in the software industry, but it may also create significant opportunities for many companies, according to a report...",
+            "url": "https://www.tribuneindia.com/news/business/agentic-ai-may-disrupt-some-software-firms-but-also-create-opportunities-investors-need-to-be-selective-goldman-sachs/"
         },
         {
-            "title": "Iran says not held any talks with US, terms it \u2018fake news\u2019 to rig financial markets",
-            "description": "[MALAYALA MANORAMA] Iranian people demand complete and remorseful punishment of the aggressors, said speaker..US Iran talks, Trump Iran negotiations, Middle East diplomacy, Iran power grid threat, AI driven...",
-            "url": "https://www.onmanorama.com/news/world/2026/03/24/iran-says-not-held-talks-with-us-to-iran-dismisses-claims-of-trump.html"
+            "title": "2 Kerala seafarers feared stranded in Iranian waters, families say no contact for weeks",
+            "description": "[MALAYALA MANORAMA] Families seek centre's intervention..Kerala seafarers stranded, Iranian waters seafarers, Wayanad seafarers missing, seafarers conflict Iran, Indian sailors detained Iran, missing sailors Strait of...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/kerala-seasafers-stranded-in-war-hit-iran-waters.html"
         },
         {
-            "title": "Govt to rejig PLI 2.0 sops on high GPU prices, AI server tech",
-            "description": "[THE ECONOMIC TIMES] The terms of the production-linked incentive (PLI) scheme for IT hardware need to be re-evaluated due to the rising cost of graphics processing units (GPUs) and the emergence of artificial...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/govt-to-rejig-pli-2-0-sops-on-high-gpu-prices-ai-server-tech/articleshow/129758743.cms"
+            "title": "Sungkeman on screen to AI family photos: How Indonesian diaspora in Australia celebrates virtual Eid",
+            "description": "[SBS AUSTRALIA] Indonesian diaspora in Melbourne share their experiences of celebrating Eid al-Fitr virtually with family back in Indonesia, from greeting elders through a screen to a family portrait pieced together...",
+            "url": "https://www.sbs.com.au/language/indonesian/en/podcast-episode/sungkeman-on-screen-to-ai-family-photos-how-indonesian-diaspora-celebrate-virtual-eid-with-family/qnklau2tb"
         }
     ]
 }
