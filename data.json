@@ -1,10 +1,15 @@
 {
-    "updated": "2026-03-24 18:58:12 UTC",
+    "updated": "2026-03-24 20:37:32 UTC",
     "news": [
         {
             "title": "7 Readability Features for Your Next Machine Learning Model",
             "description": "[MACHINELEARNINGMASTERY] Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.",
             "url": "https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/"
+        },
+        {
+            "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+            "description": "[RESEARCH] Algorithms & Theory",
+            "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
         },
         {
             "title": "Mapping the modern world: How S2Vec learns the language of our cities",
@@ -27,11 +32,6 @@
             "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/"
         },
         {
-            "title": "Setting Up a Google Colab AI-Assisted Coding Environment That Actually Works",
-            "description": "[MACHINELEARNINGMASTERY] This article focuses on Google Colab , an increasingly popular, free, and accessible, cloud-based Python environment that is well-suited for prototyping data analysis workflows and experimental code...",
-            "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
@@ -40,11 +40,6 @@
             "title": "5 Production Scaling Challenges for Agentic AI in 2026",
             "description": "[MACHINELEARNINGMASTERY] Everyone's <a href=\"https://machinelearningmastery.",
             "url": "https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/"
-        },
-        {
-            "title": "Protecting cities with AI-driven flash flood forecasting",
-            "description": "[RESEARCH] Climate & Sustainability",
-            "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/"
         },
         {
             "title": "Building Smart Machine Learning in Low-Resource Settings",
@@ -72,59 +67,64 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
+            "title": "Why Agents Fail: The Role of Seed Values and Temperature in Agentic Loops",
+            "description": "[MACHINELEARNINGMASTERY] In the modern AI landscape, an agent loop is a cyclic, repeatable, and continuous process whereby an entity called an AI agent &mdash; with a certain degree of autonomy &mdash; works toward a goal.",
+            "url": "https://machinelearningmastery.com/why-agents-fail-the-role-of-seed-values-and-temperature-in-agentic-loops/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "\u2018No personal attack, I refered to politically despicable conduct\u2019: CM Vijayan amid row with Sudhakaran",
-            "description": "[MALAYALA MANORAMA] Vijayan defended his use of the term as part of political discourse, analogous to calling someone a 'traitor' for their political actions, and stated.Pinarayi Vijayan, G Sudhakaran, Chettatharam,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/pinarayi-vijayan-sudhakaran-remark-row-response.html"
+            "title": "Empowering the future of work: Global AI innovator 'viaim' debuts in Thailand",
+            "description": "[BANGKOK POST] viaim, a leading artificial intelligence (AI) technology brand specialising in integrated hardware and software solutions for the modern workplace, has officially announced its entry into the Thai...",
+            "url": "https://www.bangkokpost.com/thailand/pr/3223305/empowering-the-future-of-work-global-ai-innovator-viaim-debuts-in-thailand"
         },
         {
-            "title": "Bougainvillea nursery born from roadside plants blossoms into a thriving venture",
-            "description": "[MALAYALA MANORAMA] There are numerous hybrid bougainvillea varieties from countries such as Vietnam, Malaysia, and Thailand, which bloom almost throughout the year..bougainvillea nursery, multi-grafted bougainvillea,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/nursery-success-multi-grafted-bougainvillea-guide.html"
+            "title": "OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say",
+            "description": "[THE HINDU] ChatGPT maker OpenAI is offering private-equity firms a sweeter deal than rival Anthropic as both artificial intelligence companies court buyout firms \u200cto form joint ventures",
+            "url": "https://www.thehindu.com/sci-tech/technology/openai-sweetens-private-equity-pitch-amid-enterprise-turf-war-with-anthropic-sources-say/article70778167.ece"
         },
         {
-            "title": "Oracle reworks its finance, procurement apps for AI agents",
-            "description": "[MARKETSCREENER] Oracle is revamping its cloud-based financial software used by large companies to work with artificial intelligence agents, with a goal of having humans ask the system business questions and...",
-            "url": "https://www.marketscreener.com/news/oracle-reworks-its-finance-procurement-apps-for-ai-agents-ce7e5edddd80f621"
+            "title": "China's open-source dominance threatens U.S. AI lead, U.S. advisory body warns",
+            "description": "[THE HINDU] The dominance of China\u2019s open-source artificial intelligence is creating a \u201cself-reinforcing competitive advantage\u201d, allowing \u200cit to challenge U.S. rivals despite restricted access to advanced AI...",
+            "url": "https://www.thehindu.com/sci-tech/technology/chinas-open-source-dominance-threatens-us-ai-lead-us-advisory-body-warns/article70778168.ece"
         },
         {
-            "title": "Oracle reworks its finance, procurement apps for AI agents",
-            "description": "[REUTERS] Oracle is revamping its cloud-based financial software used by large companies to work with artificial intelligence agents, with a goal of having humans \u200bask the system business questions and letting...",
-            "url": "https://www.reuters.com/business/oracle-reworks-its-finance-procurement-apps-ai-agents-2026-03-24/"
+            "title": "AGI Explained: What It Is And How It Is Different From Artificial Intelligence (AI)",
+            "description": "[TIMES NOW] The recent claim by Jensen Huang, stating that \"AGI is here,\" sparked widespread debate about the true definition and status of Artificial General Intelligence (AGI). AGI differs from today's Narrow...",
+            "url": "https://www.timesnownews.com/technology-science/artificial-intelligence/agi-explained-what-it-is-and-how-it-is-different-from-artificial-intelligence-ai-article-153908054"
         },
         {
-            "title": "Why authenticity will be a luxury in Hollywood\u2019s AI era",
-            "description": "[THE SUNDAY TIMES] Artificial intelligence in film-making can\u2019t be stopped and labelling content partly made using the technology will soon become pointless",
-            "url": "https://www.thetimes.com/business/technology/article/authenticity-a-luxury-in-hollywood-ai-era-53h8pcrww"
+            "title": "Congress says Rajeev has 49,000 sq ft B'lore house worth \u20b9200cr. Rajeev says it's 9600 sq ft and just \u20b915cr",
+            "description": "[MALAYALA MANORAMA] Chandrasekhar's affidavit also shows a significant increase in his taxable income from previous years and a substantial rise in his and his wife's.Rajeev Chandrasekhar affidavit, KS Sabarinathan...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/rajeev-chandrasekhar-affidavit-congress-raises-complaint.html"
         },
         {
-            "title": "Air Canada tragedy at LaGuardia airport sparks questions on air safety, staffing crisis: Latest findings",
-            "description": "[MALAYALA MANORAMA] Investigations are now focused on how such a lapse could have occurred under the watch of an experienced controller..LaGuardia Airport crash, Air Canada plane collision, air traffic control error,...",
-            "url": "https://www.onmanorama.com/travel/travel-news/2026/03/24/air-canada-tragedy-laguardia-airport-reasons.html"
+            "title": "How SBIT's AI and Machine Learning Center of Excellence with Airo Digital Labs Prepares Students for Industry Careers",
+            "description": "[TIMES NOW] These practical capabilities develop through hands-on experience with industry-grade tools, realistic datasets, production deployment scenarios, and mentorship from experienced practitioners., Bizz...",
+            "url": "https://www.timesnownews.com/bizz-impact/how-sbits-ai-and-machine-learning-center-of-excellence-with-airo-digital-labs-prepares-students-for-industry-careers-article-153907925"
         },
         {
-            "title": "\u2018Public meetings have their own decorum:\u2019 CM Vijayan defends response to random question at Konni event",
-            "description": "[MALAYALA MANORAMA] He added that when a political party or front organises a public meeting, those uninterested may leave, while others may listen..Pinarayi Vijayan Konni incident, Chief Minister public meeting...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/pinarayi-vijayan-konni-incident.html"
+            "title": "AKTOR AI: New artificial intelligence company by the AKTOR Group with expanded role and strategic growth",
+            "description": "[PROTO THEMA] The company\u2019s statute provides for a broad range of activities, extending beyond software development",
+            "url": "https://en.protothema.gr/2026/03/24/aktor-ai-new-artificial-intelligence-company-by-the-aktor-group-with-expanded-role-and-strategic-growth/"
         },
         {
-            "title": "Agentic AI may disrupt some software firms but also create opportunities, investors need to be selective: Goldman Sachs",
-            "description": "[THE TRIBUNE] The emergence of agentic artificial intelligence (AI) could disrupt some companies in the software industry, but it may also create significant opportunities for many companies, according to a report...",
-            "url": "https://www.tribuneindia.com/news/business/agentic-ai-may-disrupt-some-software-firms-but-also-create-opportunities-investors-need-to-be-selective-goldman-sachs/"
+            "title": "Converts to any religion other than Hinduism, Sikhism, Buddhism not eligible for Scheduled Caste benefits: SC",
+            "description": "[MALAYALA MANORAMA] The SC upeheld the order of Andhra Pradesh High Court..Scheduled Caste conversion, SC status loss Christianity, Indian Supreme Court SC ruling, religion and caste India, SC reservation conversion,...",
+            "url": "https://www.onmanorama.com/news/india/2026/03/24/supreme-court-says-people-converted-to-other-religions-not-entitled-for-scheduled-caste-status.html"
         },
         {
-            "title": "2 Kerala seafarers feared stranded in Iranian waters, families say no contact for weeks",
-            "description": "[MALAYALA MANORAMA] Families seek centre's intervention..Kerala seafarers stranded, Iranian waters seafarers, Wayanad seafarers missing, seafarers conflict Iran, Indian sailors detained Iran, missing sailors Strait of...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/kerala-seasafers-stranded-in-war-hit-iran-waters.html"
+            "title": "Scientific Research & Innovation: Advancing Knowledge For A Better Future",
+            "description": "[REPUBLIC WORLD] Innovation is not limited to laboratories. It extends to real-world applications that improve everyday life. Technologies such as artificial intelligence, biotechnology, and data analytics are...",
+            "url": "https://www.republicworld.com/initiatives/scientific-research-innovation-advancing-knowledge-for-a-better-future"
         },
         {
-            "title": "Sungkeman on screen to AI family photos: How Indonesian diaspora in Australia celebrates virtual Eid",
-            "description": "[SBS AUSTRALIA] Indonesian diaspora in Melbourne share their experiences of celebrating Eid al-Fitr virtually with family back in Indonesia, from greeting elders through a screen to a family portrait pieced together...",
-            "url": "https://www.sbs.com.au/language/indonesian/en/podcast-episode/sungkeman-on-screen-to-ai-family-photos-how-indonesian-diaspora-celebrate-virtual-eid-with-family/qnklau2tb"
+            "title": "Satheesan flags CPM-BJP deal in nearly 10 seats, demands CM repay funds spent on Mohanlal interview",
+            "description": "[MALAYALA MANORAMA] Satheesan alleged that the LDF government had failed to ensure women's safety..Kerala election campaign, VD Satheesan attack, Pinarayi Vijayan CPM BJP deal, CPM BJP understanding Kerala, Leader of...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/vd-satheesan-slams-cpm-asks-pinarayi-to-repay-fund-spent-on-mohanlal-interview.html"
         }
     ]
 }
