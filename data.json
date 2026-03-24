@@ -1,11 +1,6 @@
 {
-    "updated": "2026-03-24 06:59:42 UTC",
+    "updated": "2026-03-24 08:48:11 UTC",
     "news": [
-        {
-            "title": "7 Readability Features for Your Next Machine Learning Model",
-            "description": "[MACHINELEARNINGMASTERY] Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.",
-            "url": "https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/"
-        },
         {
             "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
             "description": "[RESEARCH] Health & Bioscience",
@@ -27,14 +22,14 @@
             "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
         },
         {
+            "title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
+            "description": "[MACHINELEARNINGMASTERY] While large language models (LLMs) are typically used for conversational purposes in use cases that revolve around natural language interactions, they can also assist with tasks like feature...",
+            "url": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "5 Production Scaling Challenges for Agentic AI in 2026",
-            "description": "[MACHINELEARNINGMASTERY] Everyone's <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/"
         },
         {
             "title": "Protecting cities with AI-driven flash flood forecasting",
@@ -67,6 +62,11 @@
             "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/"
         },
         {
+            "title": "The 6 Best AI Agent Memory Frameworks You Should Try in 2026",
+            "description": "[MACHINELEARNINGMASTERY] Memory helps <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Not ready to QuitGPT? I tried this new tool that slows ChatGPT on purpose - and it says a lot about AI backlash",
+            "description": "[TOM'S GUIDE] A new tool called \u201cSlow LLM\u201d intentionally slows ChatGPT, Claude and Gemini to a crawl \u2014 here\u2019s how it works and why it\u2019s sparking debate about AI dependence.",
+            "url": "https://www.tomsguide.com/ai/not-ready-to-quitgpt-i-tried-this-new-tool-that-slows-chatgpt-on-purpose-and-it-says-a-lot-about-ai-backlash"
+        },
+        {
+            "title": "OpenAI Appoints Former Meta Executive as Head of Ad Solutions",
+            "description": "[MARKETSCREENER] Microsoft-backed OpenAI has appointed Dave Dugan as the artificial intelligence startup's vice president of global ad solutions, Dugan said in a LinkedIn post on Monday. Dugan previously served...",
+            "url": "https://www.marketscreener.com/news/openai-appoints-former-meta-executive-as-head-of-ad-solutions-ce7e5eddd880f027"
+        },
+        {
+            "title": "AI slop is losing war of the words - for now",
+            "description": "[THE SUNDAY TIMES] It turns out novel readers can still spot when a book has been written by artificial intelligence and they really don\u2019t like it",
+            "url": "https://www.thetimes.com/comment/columnists/article/ai-slop-losing-war-of-words-hmz9qd3jd"
+        },
+        {
+            "title": "Meta Hires AI Startup Dreamer Co-founder, Team as Part of AI Efforts",
+            "description": "[MARKETSCREENER] Meta Platforms has roped in the co-founder and team of artificial intelligence startup Dreamer to join its Meta Superintelligence Labs group, Bloomberg reported Monday, citing an internal company...",
+            "url": "https://www.marketscreener.com/news/meta-hires-ai-startup-dreamer-co-founder-team-as-part-of-ai-efforts-ce7e5eddd880f721"
+        },
+        {
+            "title": "Iran built a vast camera network to control dissent. Israel turned it into a targeting tool",
+            "description": "[THE ECONOMIC TIMES] Hundreds of millions of cameras have been installed above shops, in homes and on street corners across the world, many connected to the internet and poorly secured. Recent advances in artificial...",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/articleshow/129762101.cms"
+        },
+        {
+            "title": "Apple gears up for WWDC amid AI challenges",
+            "description": "[MARKETSCREENER] Apple will hold its annual developers conference from June 8 to 12, with a heavy focus expected on artificial intelligence. The event comes as the group seeks to catch up with its competitors.",
+            "url": "https://www.marketscreener.com/news/apple-gears-up-for-wwdc-amid-ai-challenges-ce7e5eddd881fe24"
+        },
+        {
+            "title": "AI-powered ultrasound analysis identifies high-risk heart failure cases",
+            "description": "[NEWS-MEDICAL.NET] Applying artificial intelligence techniques to cardiac ultrasound data may make it easier to identify patients with advanced heart failure, a new study has found.",
+            "url": "https://www.news-medical.net/news/20260323/AI-powered-ultrasound-analysis-identifies-high-risk-heart-failure-cases.aspx"
+        },
+        {
+            "title": "A media-rating company says a Trump agency is threatening its livelihood",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] A company that evaluates news outlets and websites to see which produce reliable journalism says it's under attack by the Trump administration. NewsGuard has sued the Federal Trade Commission over an...",
+            "url": "https://www.ajc.com/news/2026/03/correction-trump-media-monitor-story/"
+        },
+        {
+            "title": "There is plenty of room for more franchises, but \u2018Aadu 3: Part 2\u2019 will be my last: Midhun Manuel",
+            "description": "[MALAYALA MANORAMA] Director Midhun Manuel indicated the 'Aadu' universe could be expanded with new settings or spin-offs, dependent on audience demand, with potential.Aadu universe expansion, Midhun Manuel Aadu 3, Aadu...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/24/aadu-3-universe-expansion-midhun-manuel.html"
+        },
+        {
             "title": "Silicon Valley\u2019s DC Summit Shadowed by AI Concerns, War in Iran",
             "description": "[BLOOMBERG] Silicon Valley\u2019s alliance with the Trump administration will be on display Tuesday at a summit in Washington where business leaders\u2019 calls to keep the US lead in artificial intelligence will be...",
             "url": "https://www.bloomberg.com/news/articles/2026-03-23/silicon-valley-s-dc-summit-shadowed-by-ai-concerns-war-in-iran"
-        },
-        {
-            "title": "Meta Hires Former Google, Stripe Executives Behind AI Startup Dreamer",
-            "description": "[LIVEMINT] Meta Platforms Inc. has hired the founders and team behind the artificial intelligence startup Dreamer, which launched earlier this year to help people create their own AI agents.",
-            "url": "https://www.livemint.com/companies/meta-hires-former-google-stripe-executives-behind-ai-startup-dreamer-11774290835310.html"
-        },
-        {
-            "title": "OpenAI Appoints Former Meta Executive to Lead Ad Sales",
-            "description": "[MARKETSCREENER] Microsoft-backed OpenAI has named Dave Dugan, a former advertising executive at Meta Platforms , to lead ad sales at the artificial intelligence startup, The Wall Street Journal reported...",
-            "url": "https://www.marketscreener.com/news/openai-appoints-former-meta-executive-to-lead-ad-sales-ce7e5eddd88cf021"
-        },
-        {
-            "title": "AI blueprint sets up clash over state authority and faces hurdles in Congress",
-            "description": "[BALTIMORE NEWS] The White House is pitching a new roadmap for artificial intelligence legislation that is facing an uphill climb in Congress.",
-            "url": "https://foxbaltimore.com/news/nation-world/ai-blueprint-sets-up-clash-over-state-authority-and-faces-hurdles-in-congress-artificial-intelligence-regulation-child-safety-data-centers"
-        },
-        {
-            "title": "AI blueprint sets up clash over state authority and faces hurdles in Congress",
-            "description": "[WJLA] The White House is pitching a new roadmap for artificial intelligence legislation that is facing an uphill climb in Congress.",
-            "url": "https://wjla.com/news/nation-world/ai-blueprint-sets-up-clash-over-state-authority-and-faces-hurdles-in-congress-artificial-intelligence-regulation-child-safety-data-centers"
-        },
-        {
-            "title": "US advisory body\u2019s \u2018China warning\u2019 to Google, OpenAI, Anthropic and others: Your position is under threat because\u2026",
-            "description": "[TIMES OF INDIA] Tech News News: US congressional advisory body has issued a stark warning to America's biggest artificial intelligence (AI) companies: China\u2019s AI ecosystem is no long.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-advisory-bodys-china-warning-to-google-openai-anthropic-and-others-your-position-is-under-threat-because/articleshow/129760448.cms"
-        },
-        {
-            "title": "Producer Vijay Babu reveals the total budget of Jayasurya's \u2018Aadu 3\u2019",
-            "description": "[MALAYALA MANORAMA] The film grossed over Rs 2 crore in its opening weekend, according to the makers..Aadu 3 budget, Aadu 3 box office, Aadu 3 collection, Malayalam film budget, Midhun Manuel directorial, Vijay Babu...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/23/aadu-3-budget-revealed-jayasurya-vinayakan-vijay-babu.html"
-        },
-        {
-            "title": "Saab Global Eye jets deal with Cohere",
-            "description": "[BNN BLOOMBERG] Swedish defence contractor Saab has signed an agreement with Canadian artificial intelligence company Cohere to explore partnering on its Global Eye surveillance aircraft.",
-            "url": "https://www.bnnbloomberg.ca/business/2026/03/23/saab-signs-deal-with-canadian-ai-firm-cohere-on-global-eye-jets/"
-        },
-        {
-            "title": "Saab Global Eye jets deal with Cohere",
-            "description": "[CP24 TORONTO] Swedish defence contractor Saab has signed an agreement with Canadian artificial intelligence company Cohere to explore partnering on its Global Eye surveillance aircraft.",
-            "url": "https://www.cp24.com/news/canada/2026/03/23/saab-signs-deal-with-canadian-ai-firm-cohere-on-global-eye-jets/"
-        },
-        {
-            "title": "Meta Hires Former Google, Stripe Execs Behind AI Startup Dreamer",
-            "description": "[BLOOMBERG] Meta Platforms Inc. has hired the founders and team behind the artificial intelligence startup Dreamer, which launched earlier this year to help people create their own AI agents.",
-            "url": "https://www.bloomberg.com/news/articles/2026-03-23/meta-hires-former-google-stripe-execs-behind-ai-startup-dreamer"
         }
     ]
 }
