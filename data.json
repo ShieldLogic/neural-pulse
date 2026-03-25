@@ -1,6 +1,11 @@
 {
-    "updated": "2026-03-24 22:26:16 UTC",
+    "updated": "2026-03-25 01:54:19 UTC",
     "news": [
+        {
+            "title": "7 Readability Features for Your Next Machine Learning Model",
+            "description": "[MACHINELEARNINGMASTERY] Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.",
+            "url": "https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/"
+        },
         {
             "title": "TurboQuant: Redefining AI efficiency with extreme compression",
             "description": "[RESEARCH] Algorithms & Theory",
@@ -27,19 +32,14 @@
             "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/"
         },
         {
-            "title": "Setting Up a Google Colab AI-Assisted Coding Environment That Actually Works",
-            "description": "[MACHINELEARNINGMASTERY] This article focuses on Google Colab , an increasingly popular, free, and accessible, cloud-based Python environment that is well-suited for prototyping data analysis workflows and experimental code...",
-            "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
-        },
-        {
-            "title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
-            "description": "[MACHINELEARNINGMASTERY] While large language models (LLMs) are typically used for conversational purposes in use cases that revolve around natural language interactions, they can also assist with tasks like feature...",
-            "url": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "5 Production Scaling Challenges for Agentic AI in 2026",
+            "description": "[MACHINELEARNINGMASTERY] Everyone's <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/"
         },
         {
             "title": "Building Smart Machine Learning in Low-Resource Settings",
@@ -62,14 +62,14 @@
             "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/"
         },
         {
-            "title": "The 6 Best AI Agent Memory Frameworks You Should Try in 2026",
-            "description": "[MACHINELEARNINGMASTERY] Memory helps <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "Why Agents Fail: The Role of Seed Values and Temperature in Agentic Loops",
+            "description": "[MACHINELEARNINGMASTERY] In the modern AI landscape, an agent loop is a cyclic, repeatable, and continuous process whereby an entity called an AI agent &mdash; with a certain degree of autonomy &mdash; works toward a goal.",
+            "url": "https://machinelearningmastery.com/why-agents-fail-the-role-of-seed-values-and-temperature-in-agentic-loops/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "RBI website hit by 61 million cyberattack attempts in a single quarter, all blocked",
-            "description": "[THE ECONOMIC TIMES] The Reserve Bank of India thwarted over 61 million cyberattack attempts in late 2025. This number shows a rapid increase in threats. The RBI is now using artificial intelligence to detect and block...",
-            "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-website-hit-by-61-million-cyberattack-attempts-in-a-single-quarter-all-blocked/articleshow/129773338.cms"
+            "title": "Escalation in Middle East Raises Costs, Uncertainty for Planned AI Infrastructure Investment",
+            "description": "[NATURAL NEWS] An escalating military conflict between the United States, Israel, and Iran is disrupting global energy markets and supply chains, raising new questions about the viability of a $1.5 trillion...",
+            "url": "https://www.naturalnews.com/2026-03-24-escalation-in-middle-east-ai-infrastructure-investment.html"
         },
         {
-            "title": "Why is Jeff Bezos raising $100 billion to bring AI to factories? Here's what to know",
-            "description": "[LOS ANGELES TIMES] Jeff Bezos is trying to leapfrog into the artificial intelligence race with a $100-billion fund to acquire manufacturers and bring more AI superpowers to factory floors.",
-            "url": "https://www.latimes.com/business/story/2026-03-24/why-is-jeff-bezos-raising-100-billion-to-bring-ai-to-factories-heres-what-to-know"
+            "title": "Novee Introduces Autonomous AI Red Teaming to Uncover Security Flaws in LLM Applications",
+            "description": "[THE MANILA TIMES] Simulates real-world attacks, including prompt injection, jailbreaks, and agent manipulation to identify vulnerabilities",
+            "url": "https://www.manilatimes.net/2026/03/24/tmt-newswire/globenewswire/novee-introduces-autonomous-ai-red-teaming-to-uncover-security-flaws-in-llm-applications/2306506"
         },
         {
-            "title": "Yes, People Are Already Worshipping AI as a Deity",
-            "description": "[BREITBART NEWS NETWORK] Author Wynton Hall reveals in his new book Code Red: The Left, the Right, China, and the Race to Control AI that the worship of artificial intelligence as a literal deity is not science fiction. It...",
-            "url": "https://www.breitbart.com/tech/2026/03/24/code-red-yes-people-are-already-worshipping-ai-as-a-deity/"
+            "title": "AI Deepfakes Are Hurting Creators' Bottom Lines. They're Fighting Back",
+            "description": "[ROLLING STONE] As artificial intelligence becomes more accessible, creators are finding replicas of themselves promoting companies they've never even heard of.",
+            "url": "https://www.rollingstone.com/culture/culture-features/ai-deepfakes-creators-fight-back-1235535955/"
         },
         {
-            "title": "Anand Mahindra eager to witness magic of Kerala's Sree Padmanabhaswamy temple: Here's why",
-            "description": "[MALAYALA MANORAMA] Architecturally, the temple stands as a blend of Dravidian tradition and classical Kerala style..Anand Mahindra social media, Sree Padmanabhaswamy Temple, temple architecture astronomy, equinox sun...",
-            "url": "https://www.onmanorama.com/travel/kerala/2026/03/24/anand-mahindra-sree-padmanabhaswamy-temple.html"
+            "title": "Apple to start AI comeback bid on June 8 with annual WWDC Conference",
+            "description": "[THE MERCURY NEWS] This year\u2019s WWDC will be a pivotal one: The iPhone maker needs to stage a comeback in artificial intelligence, and that effort will begin with the introduction of the iOS 27 operating system.",
+            "url": "https://www.mercurynews.com/2026/03/24/apple-to-start-ai-comeback-bid-on-june-8-with-annual-wwdc-conference/"
         },
         {
-            "title": "No end to Middle East tensions; Iran missiles hit Israel; Netanyahu vows to continue strikes",
-            "description": "[MALAYALA MANORAMA] Iranian media reported US-Israeli warplanes had struck two gas facilities and a pipeline.Iran missile attack Israel, Middle East war update, Tel Aviv damage missile strike, US Iran talks potential,...",
-            "url": "https://www.onmanorama.com/news/world/2026/03/24/iran-israel-war-continues-despite-trump-peace-talks.html"
+            "title": "Why Central Keralam holds the key for UDF",
+            "description": "[MALAYALA MANORAMA] Keralam's political landscape is divided into three historical regions: northern, central, and southern..political divisions of Keralam, Keralam election analysis, Northern Keralam political issues,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/keralam-election-analysis.html"
         },
         {
-            "title": "College Graduates Are Facing the Grimmest Job Market in Years",
-            "description": "[THE NEW YORK TIMES] Artificial intelligence could reshape work, but for now a low-hire, low-fire labor market is the main impediment for young people seeking employment.",
-            "url": "https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html"
+            "title": "Gaxos\u2019 Portfolio Company, America First Defense, Begins Deployment of Anduril Lattice Platform, Expanding Counter-Swarm UAV and Anti-Drone Defense Systems",
+            "description": "[THE MANILA TIMES] Roseland, NJ, March 24, 2026 (GLOBE NEWSWIRE) -- Gaxos.ai Inc. ('Gaxos' or the 'Company'), a company developing artificial intelligence applications across various high-growth sectors, today...",
+            "url": "https://www.manilatimes.net/2026/03/24/tmt-newswire/globenewswire/gaxos-portfolio-company-america-first-defense-begins-deployment-of-anduril-lattice-platform-expanding-counter-swarm-uav-and-anti-drone-defense-systems/2306424"
         },
         {
-            "title": "AI Revolutionizes Weather Forecasting in India",
-            "description": "[DEVDISCOURSE] The India Meteorological Department is enhancing weather forecasts using artificial intelligence and cutting-edge technology. Deputy Director Abhishek Anand highlighted AI's role in improving data...",
-            "url": "https://www.devdiscourse.com/article/science-environment/3848464-ai-revolutionizes-weather-forecasting-in-india"
+            "title": "Keralam set for Flip Flop Election with thin margin?",
+            "description": "[MALAYALA MANORAMA] The NDA is another entrant in this usually bipolar race in Keralam..Kerala assembly elections, Kerala election analysis, LDF UDF Kerala, Kerala political alliances, Kerala election history, recent...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/kerala-assembly-elections-analysis.html"
         },
         {
-            "title": "Empowering the future of work: Global AI innovator 'viaim' debuts in Thailand",
-            "description": "[BANGKOK POST] viaim, a leading artificial intelligence (AI) technology brand specialising in integrated hardware and software solutions for the modern workplace, has officially announced its entry into the Thai...",
-            "url": "https://www.bangkokpost.com/thailand/pr/3223305/empowering-the-future-of-work-global-ai-innovator-viaim-debuts-in-thailand"
+            "title": "Pazhampori is not a Kerala-exclusive snack. Meet the many global avatars of banana fritters",
+            "description": "[MALAYALA MANORAMA] Food historians often point out that frying fruit in batter became common in many parts of Asia after wheat flour entered local kitchens through.pazhampori recipe, banana fritters, Kerala snacks, how...",
+            "url": "https://www.onmanorama.com/food/features/2026/03/24/banana-fritters-around-the-world.html"
         },
         {
-            "title": "OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say",
-            "description": "[THE HINDU] ChatGPT maker OpenAI is offering private-equity firms a sweeter deal than rival Anthropic as both artificial intelligence companies court buyout firms \u200cto form joint ventures",
-            "url": "https://www.thehindu.com/sci-tech/technology/openai-sweetens-private-equity-pitch-amid-enterprise-turf-war-with-anthropic-sources-say/article70778167.ece"
+            "title": "Trade Secrets, Communism, HDI: The Keralam Story",
+            "description": "[MALAYALA MANORAMA] Kerala's unique religious diversity, makes religious polarisation a challenging electoral strategy.Kerala election analysis, Kerala political landscape, UDF performance Kerala elections, LDF...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/kerala-election-analysis.html"
         },
         {
-            "title": "China's open-source dominance threatens U.S. AI lead, U.S. advisory body warns",
-            "description": "[THE HINDU] The dominance of China\u2019s open-source artificial intelligence is creating a \u201cself-reinforcing competitive advantage\u201d, allowing \u200cit to challenge U.S. rivals despite restricted access to advanced AI...",
-            "url": "https://www.thehindu.com/sci-tech/technology/chinas-open-source-dominance-threatens-us-ai-lead-us-advisory-body-warns/article70778168.ece"
+            "title": "profile hirings for Meta's AI unit, hires founders and team behind AI startup Dreamer",
+            "description": "[TIMES OF INDIA] Tech News News: Mark Zuckerberg's Meta Platforms has hired the founders and core team behind Dreamer, an artificial intelligence startup launched earlier this year to.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-makes-more-high-profile-hirings-for-metas-ai-unit-hires-founders-and-team-behind-ai-startup-dreamer/articleshow/129776269.cms"
         }
     ]
 }
