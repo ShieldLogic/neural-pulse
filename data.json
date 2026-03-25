@@ -1,6 +1,11 @@
 {
-    "updated": "2026-03-25 06:58:26 UTC",
+    "updated": "2026-03-25 08:44:32 UTC",
     "news": [
+        {
+            "title": "7 Readability Features for Your Next Machine Learning Model",
+            "description": "[MACHINELEARNINGMASTERY] Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.",
+            "url": "https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/"
+        },
         {
             "title": "TurboQuant: Redefining AI efficiency with extreme compression",
             "description": "[RESEARCH] Algorithms & Theory",
@@ -27,19 +32,14 @@
             "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/"
         },
         {
-            "title": "Setting Up a Google Colab AI-Assisted Coding Environment That Actually Works",
-            "description": "[MACHINELEARNINGMASTERY] This article focuses on Google Colab , an increasingly popular, free, and accessible, cloud-based Python environment that is well-suited for prototyping data analysis workflows and experimental code...",
-            "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
-        },
-        {
-            "title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
-            "description": "[MACHINELEARNINGMASTERY] While large language models (LLMs) are typically used for conversational purposes in use cases that revolve around natural language interactions, they can also assist with tasks like feature...",
-            "url": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "5 Production Scaling Challenges for Agentic AI in 2026",
+            "description": "[MACHINELEARNINGMASTERY] Everyone's <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/"
         },
         {
             "title": "Building Smart Machine Learning in Low-Resource Settings",
@@ -62,14 +62,14 @@
             "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/"
         },
         {
-            "title": "The 6 Best AI Agent Memory Frameworks You Should Try in 2026",
-            "description": "[MACHINELEARNINGMASTERY] Memory helps <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "Why Agents Fail: The Role of Seed Values and Temperature in Agentic Loops",
+            "description": "[MACHINELEARNINGMASTERY] In the modern AI landscape, an agent loop is a cyclic, repeatable, and continuous process whereby an entity called an AI agent &mdash; with a certain degree of autonomy &mdash; works toward a goal.",
+            "url": "https://machinelearningmastery.com/why-agents-fail-the-role-of-seed-values-and-temperature-in-agentic-loops/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Deepfake X-rays can deceive radiologists and AI systems",
-            "description": "[NEWS-MEDICAL.NET] Neither radiologists nor multimodal large language models (LLMs) are able to easily distinguish artificial intelligence (AI)-generated \"deepfake\" X-ray images from authentic ones, according to a...",
-            "url": "https://www.news-medical.net/news/20260324/Deepfake-X-rays-can-deceive-radiologists-and-AI-systems.aspx"
+            "title": "OpenAI Plans to Discontinue Sora Video Platform App",
+            "description": "[MARKETSCREENER] Microsoft-backed OpenAI plans to discontinue the app for its Sora video platform, The Wall Street Journal reported Tuesday, citing the artificial intelligence firm. OpenAI appears to be...",
+            "url": "https://www.marketscreener.com/news/openai-plans-to-discontinue-sora-video-platform-app-ce7e5ed2dc8ef224"
         },
         {
-            "title": "Avahi Wins 2026 Artificial Intelligence Excellence Award in Agentic AI",
-            "description": "[THE MANILA TIMES] Recognition honors organizations, products, teams, and individuals delivering measurable results through artificial intelligence",
-            "url": "https://www.manilatimes.net/2026/03/25/tmt-newswire/globenewswire/avahi-wins-2026-artificial-intelligence-excellence-award-in-agentic-ai/2306847"
+            "title": "XMax Announces Strategic Expansion Into Artificial Intelligence to Drive Growth and Diversification",
+            "description": "[THE MANILA TIMES] LOS ANGELES, March 24, 2026 (GLOBE NEWSWIRE) -- XMax Inc. (NASDAQ: XWIN, 'XMax\u201d or the 'Company\u201d) today announced that its Board of Directors has approved a strategic expansion into artificial...",
+            "url": "https://www.manilatimes.net/2026/03/25/tmt-newswire/globenewswire/xmax-announces-strategic-expansion-into-artificial-intelligence-to-drive-growth-and-diversification/2306919"
         },
         {
-            "title": "Epic Games lays off more than 1,000 employees as Fortnite engagement slows",
-            "description": "[PBS NEWS] The North Carolina-based video game publisher said in a memo to employees that the job cuts are not related to artificial intelligence. Rather, they stem from industry-wide challenges such as slower...",
-            "url": "https://www.pbs.org/newshour/economy/epic-games-lays-off-more-than-1000-employees-as-fortnite-engagement-slows"
+            "title": "BlackRock flags AI as crypto\u2019s next big use case, not token boom",
+            "description": "[COINDESK] The asset management giant's Robbie Mitchnic said clients are focused on bitcoin, ether and only a few other tokens, and aren't looking for broad exposure. Rather, they see opportunity for crypto in...",
+            "url": "https://www.coindesk.com/business/2026/03/24/blackrock-flags-ai-as-crypto-s-next-big-use-case-not-token-boom"
         },
         {
-            "title": "OpenAI Foundation outlines $1 billion push, expands leadership team",
-            "description": "[THE ECONOMIC TIMES] OpenAI has committed at least $1 billion over the next year as part of recapitalisation efforts for its Foundation. The investment is aimed at using artificial intelligence (AI) to solve \u201chumanity\u2019s...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-foundation-outlines-1-billion-push-expands-leadership-team/articleshow/129784371.cms"
+            "title": "Anthropic Challenges Pentagon's Risk Designation",
+            "description": "[DEVDISCOURSE] Artificial intelligence company Anthropic is contesting the Pentagon's classification of it as a supply chain risk. The company argues this action from the Trump administration is a retaliation...",
+            "url": "https://www.devdiscourse.com/article/technology/3849468-anthropic-challenges-pentagons-risk-designation"
         },
         {
-            "title": "British firms can unlock \u00a3100 billion boost in artificial intelligence revolution, study shows",
-            "description": "[THE SUN] BRITISH firms could unlock a staggering \u00a3105 billion in extra revenue by adopting artificial intelligence, a new study shows. Thirty-five...",
-            "url": "https://www.thesun.co.uk/money/38623019/artificial-intelligence-billion-british-firms/"
+            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - OpenAI CEO Steps Back from Safety Oversight, Shifts Focus to Expansion",
+            "description": "[DEVDISCOURSE] Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all...",
+            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life"
         },
         {
-            "title": "DEP20H Deepstitch: The Future of AI-Powered Crypto Analytics Unleashed",
-            "description": "[TECHBULLION] Explore DEP20H Deepstitch, an advanced crypto analytics tool that combines blockchain intelligence and artificial intelligence.",
-            "url": "https://techbullion.com/dep20h-deepstitch-the-future-of-ai-powered-crypto-analytics-unleashed/"
+            "title": "Apple plans AI reboot with Siri App, new look in iOS 27",
+            "description": "[AUSTRALIAN FINANCIAL REVIEW] The new Siri is slated to be unveiled June 8 at the iPhone maker\u2019s Worldwide Developers Conference as part of a broader artificial intelligence overhaul.",
+            "url": "https://www.afr.com/technology/apple-plans-ai-reboot-with-siri-app-new-look-in-ios-27-20260325-p5wnk5"
         },
         {
-            "title": "Arm launches its first chip and shifts strategy with Meta as key client",
-            "description": "[MARKETSCREENER] British semiconductor designer Arm is entering the chip market by launching its own processor dedicated to artificial intelligence. This move marks a departure from its historical business model...",
-            "url": "https://www.marketscreener.com/news/arm-launches-its-first-chip-and-shifts-strategy-with-meta-as-key-client-ce7e5ed2da80ff2c"
+            "title": "Arm unveils new AI chip, expecting billions in added revenue",
+            "description": "[NIKKEI ASIA] SAN FRANCISCO (Reuters) -- Arm Holdings announced a new artificial intelligence data center chip on Tuesday which it said will add billions of dollars",
+            "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/arm-unveils-new-ai-chip-expecting-billions-in-added-revenue"
         },
         {
-            "title": "Elon Musk\u2019s Terafab fever dream exposes reality of the AI chip crunch",
-            "description": "[THE MERCURY NEWS] The project, as outlined, would be a massive operation to build cutting-edge semiconductors for artificial intelligence, robotics and space forays.",
-            "url": "https://www.mercurynews.com/2026/03/24/musks-terafab-fever-dream-exposes-reality-of-the-ai-chip-crunch/"
+            "title": "How AI is Transforming Talent Acquisition and Workforce Expectations",
+            "description": "[TECHBULLION] Artificial intelligence (AI) is rapidly changing how organizations recruit, hire, and keep talent. AI was initially used to automate administrative tasks, but now it is becoming a central part of...",
+            "url": "https://techbullion.com/how-ai-is-transforming-talent-acquisition-and-workforce-expectations/"
         },
         {
-            "title": "RSC Starting Five clinch Sacred Heart basketball title after trailing at half time",
-            "description": "[MALAYALA MANORAMA] RSC Starting Five St Albert's defeated Sree Kerala Varma College, 78-66, to win the Tenson Vincent Memorial Trophy..RSC Starting Five St Albert's champions, Tenson Vincent Memorial Trophy basketball,...",
-            "url": "https://www.onmanorama.com/sports/other-sports/2026/03/24/sacred-heart-cmi-basketball-rsc-starting-five-st-alberts-champions.html"
+            "title": "AI Video Generation in 2026: How Artificial Intelligence Is Transforming Content Creation",
+            "description": "[TECHBULLION] Explore the future of video with AI video generation. Create stunning content in minutes using only text prompts and imagination.",
+            "url": "https://techbullion.com/ai-video-generation-in-2026-how-artificial-intelligence-is-transforming-content-creation/"
         },
         {
-            "title": "Epic Games lays off more than 1,000 amid slowing Fortnite engagement",
-            "description": "[JAPAN TODAY] Fortnite publisher Epic Games said Tuesday it is laying off 1,000 employees to save money as it grapples with industry-wide and company-specific challenges. The Cary, North Carolina-based video game...",
-            "url": "https://japantoday.com/category/business/epic-games-lays-off-more-than-1-000-amid-slowing-fortnite-engagement"
+            "title": "Nvidia chief Jensen Huang says we've achieved AGI. But what on Earth is it?",
+            "description": "[DIGITAL TRENDS] Jensen Huang\u2019s claim that AGI is already here has reignited debate, with experts still divided on what actually qualifies as human level artificial intelligence.",
+            "url": "https://www.digitaltrends.com/computing/nvidia-chief-jensen-huang-says-weve-achieved-agi-but-what-on-earth-is-it/"
         }
     ]
 }
