@@ -1,98 +1,130 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-03-25 12:02 UTC",
+    "updated": "2026-03-25 13:01:30 UTC",
     "news": [
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "Nvidia Is Reportedly Developing Its Own Answer to OpenClaw",
-            "description": "Nvidia is getting in on the fad for agentic AI assistant platforms.",
-            "url": "https://gizmodo.com/nvidia-is-reportedly-developing-its-own-answer-to-openclaw-2000731710",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/jensen-claw-1200x675.jpg",
-            "publishedAt": "2026-03-10T09:00:52Z",
-            "content": "Nvidia is on the verge of announcing its own Claw, according to Wired. Can you believe it? An Nvidia claw! \r\nWhich claw do you use for your agentic AI tasks? The lightweight Nanoclaw? The security-fo\u2026 [+3478 chars]"
+            "title": "7 Readability Features for Your Next Machine Learning Model",
+            "description": "[MACHINELEARNINGMASTERY] Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.",
+            "url": "https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "The $100 Billion OpenAI-Nvidia Deal Is Not Happening",
-            "description": "The deal that once sparked circular dealmaking fears is no more, according to Jensen Huang.",
-            "url": "https://gizmodo.com/the-100-billion-openai-nvidia-deal-is-not-happening-2000729749",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/jensen-huang-july-23-2025-1200x675.jpg",
-            "publishedAt": "2026-03-04T22:30:48Z",
-            "content": "The whopping $100 billion investment that Nvidia said it will make in OpenAI is probably not happening, according to Nvidia CEO Jensen Huang.\r\nNvidia\u2019s latest finalized investment of $30 billion, whi\u2026 [+2481 chars]"
+            "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+            "description": "[RESEARCH] Algorithms & Theory",
+            "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "\u2018Compute Equals Revenues\u2019: Nvidia Needs Jensen Huang\u2019s New Catchphrase to Be True",
-            "description": "Here's everything you need to know from Nvidia's latest earnings call.",
-            "url": "https://gizmodo.com/compute-equals-revenues-nvidia-needs-jensen-huangs-new-catchphrase-to-be-true-2000726841",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/02/GettyImages-2256813174-1200x675.jpg",
-            "publishedAt": "2026-02-26T02:05:12Z",
-            "content": "Nvidia reported earnings on Wednesday, and as expected, the numbers were good. Really good. The company gets more than 91% of its sales from its data center unit, which generated revenue of $193,737 \u2026 [+5032 chars]"
+            "title": "Mapping the modern world: How S2Vec learns the language of our cities",
+            "description": "[RESEARCH] Algorithms & Theory",
+            "url": "https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/"
         },
         {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Zo\u00eb Schiffer, Lauren Goode",
-            "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
-            "description": "Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.",
-            "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
-            "urlToImage": "https://media.wired.com/photos/69aa166a88f33482258401e7/191:100/w_1280,c_limit/Nvidia-Scoop-Business-2260170952.jpg",
-            "publishedAt": "2026-03-09T23:11:34Z",
-            "content": "Nvidia is planning to launch an open source platform for AI agents, people familiar with the companys plans tell WIRED.\r\nThe chipmaker has been pitching the product, referred to as NemoClaw, to enter\u2026 [+3264 chars]"
+            "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
+            "description": "[RESEARCH] Health & Bioscience",
+            "url": "https://research.google/blog/google-research-at-the-check-up-from-healthcare-innovation-to-real-world-care-settings/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Nvidia\u2019s spending $4 billion on photonics to stay ahead of the curve in AI",
-            "description": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds ove\u2026",
-            "url": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-02T16:56:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOptical tech from Lumentum and Coherent could be key to connecting the GPUs inside AI data centers.\r\nOptical tech from Lumentum and Coherent could be key to conn\u2026 [+2743 chars]"
+            "title": "Improving breast cancer screening workflows with machine learning",
+            "description": "[RESEARCH] Health & Bioscience",
+            "url": "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Blake Stimac",
-            "title": "3 Things From Nvidia GTC 2026 Keynote: NemoClaw, DLSS 5 and Vera CPU",
-            "description": "From AI gaming enhancements to easier ways to create AI agents, here's what Nvidia announced during the GTC keynote.",
-            "url": "https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/814978e664b35cd1d0f8c47895edbaf5a35cddea/hub/2026/03/16/764ad879-9ec9-428f-9e71-ec8e7072b6cb/img-3525.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-03-16T22:45:34Z",
-            "content": "Nvidia's GTC conference on Monday gave the world the latest from the AI chip behemoth, including a new AI-powered upscaling software for gaming and a new Vera CPU to supercharge the future of AI agen\u2026 [+2780 chars]"
+            "title": "Everything You Need to Know About Recursive Language Models",
+            "description": "[MACHINELEARNINGMASTERY] If you are here, you have probably heard about recent work on recursive language models.",
+            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019",
-            "description": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely-defined term that has incited a lot of discussion by tech CEOs, tech worke\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-23T19:42:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHe then seemed to slightly walk back the claim.\r\nHe then seemed to slightly walk back the claim.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to \u2026 [+2848 chars]"
+            "title": "Whole-Body Conditioned Egocentric Video Prediction",
+            "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
+            "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "5 Production Scaling Challenges for Agentic AI in 2026",
+            "description": "[MACHINELEARNINGMASTERY] Everyone's <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/"
+        },
+        {
+            "title": "Building Smart Machine Learning in Low-Resource Settings",
+            "description": "[MACHINELEARNINGMASTERY] Most people who want to build <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/"
+        },
+        {
+            "title": "Information-Driven Design of Imaging Systems",
+            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
+            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
+        },
+        {
+            "title": "RL without TD learning",
+            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
+            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
+        },
+        {
+            "title": "Testing LLMs on superconductivity research questions",
+            "description": "[RESEARCH] Education Innovation",
+            "url": "https://research.google/blog/testing-llms-on-superconductivity-research-questions/"
+        },
+        {
+            "title": "What exactly does word2vec learn?",
+            "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
+            "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "Why Agents Fail: The Role of Seed Values and Temperature in Agentic Loops",
+            "description": "[MACHINELEARNINGMASTERY] In the modern AI landscape, an agent loop is a cyclic, repeatable, and continuous process whereby an entity called an AI agent &mdash; with a certain degree of autonomy &mdash; works toward a goal.",
+            "url": "https://machinelearningmastery.com/why-agents-fail-the-role-of-seed-values-and-temperature-in-agentic-loops/"
+        },
+        {
+            "title": "Identifying Interactions at Scale for LLMs",
+            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
+            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Bridge Data Centres to invest up to S$5 billion in Singapore\u2019s AI infrastructure",
+            "description": "[CNA] The data centre operator plans to expand capacity, explore alternative energy sources and deepen partnerships as demand for artificial intelligence and cloud services grows.",
+            "url": "https://www.channelnewsasia.com/advertorial/bridge-data-centres-invest-up-s5-billion-in-singapores-ai-infrastructure-6001301"
+        },
+        {
+            "title": "Indian AI cos navigate tricky waters of war impact and rupee devaluation",
+            "description": "[THE ECONOMIC TIMES] Indian artificial intelligence startups are facing operational and cost challenges as well as uncertainty over plans to expand into West Asia amid the war in the region, multiple founders told ET....",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indian-ai-cos-navigate-tricky-waters-of-war-impact-and-rupee-devaluation/articleshow/129784550.cms"
+        },
+        {
+            "title": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns",
+            "description": "[WJLA] OpenAI is shutting down its social media app Sora, which went viral last fall as a place to share short-form videos generated by artificial intelligence but al",
+            "url": "https://wjla.com/news/nation-world/openai-sora-artificial-intelligence-video-short-form-hollywood-news-chatgpt-advertising-business-technology-app-academics-concerns-deepfakes-slop-public-figures"
+        },
+        {
+            "title": "OpenAI discontinues support for Sora, winds down Disney deal",
+            "description": "[THE STRAITS TIMES] This comes as the company is simplifying its portfolio of artificial intelligence products. Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/business/companies-markets/openai-discontinues-support-for-sora-winds-down-disney-deal"
+        },
+        {
+            "title": "Openreach taps Google AI to speed fibre rollout, cut emissions",
+            "description": "[REUTERS] Openreach has expanded its partnership with Google Cloud to use artificial \u200bintelligence to speed up fibre broadband construction \u200cand cut emissions from one of Britain's largest commercial vehicle...",
+            "url": "https://www.reuters.com/business/media-telecom/openreach-taps-google-ai-speed-fibre-rollout-cut-emissions-2026-03-25/"
+        },
+        {
+            "title": "Openreach taps Google AI to speed fibre rollout, cut emissions",
+            "description": "[MARKETSCREENER] Openreach has expanded its partnership with Google Cloud to use artificial intelligence to speed up fibre broadband construction and cut emissions from one of Britain's largest commercial vehicle...",
+            "url": "https://www.marketscreener.com/news/openreach-taps-google-ai-to-speed-fibre-rollout-cut-emissions-ce7e5ed2de8af622"
+        },
+        {
+            "title": "OpenAI shuts down Sora after deepfake concerns",
+            "description": "[CP24 TORONTO] OpenAI is shutting down its social media app Sora, which went viral last fall as a place to share short-form videos generated by artificial intelligence but also raised alarms in Hollywood and...",
+            "url": "https://www.cp24.com/news/world/2026/03/24/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns/"
+        },
+        {
+            "title": "Sora, OpenAI\u2019s video platform, is shutting down: What to know",
+            "description": "[FOX 4 NEWS] OpenAI is shutting down its social media app Sora, which went viral last year as a place to share short-form videos generated by artificial intelligence. Here's what to know.",
+            "url": "https://www.fox4news.com/news/sora-open-ai-video-platform-shutting-down"
+        },
+        {
+            "title": "OpenAI shuts down Sora app amid rising concerns about deepfakes and consent",
+            "description": "[CBC.CA] OpenAI is shutting down its social media app Sora, which went viral last fall as a place to share short-form videos generated by artificial intelligence, but also raised alarms in Hollywood and...",
+            "url": "https://www.cbc.ca/news/world/sora-openai-shut-down-9.7140872"
+        },
+        {
+            "title": "OpenAI shuttering Sora AI video app after Disney made character-licensing deal",
+            "description": "[NEW YORK POST] OpenAI is shutting down its social media app Sora, which went viral last fall as a place to share short-form videos generated by artificial intelligence but also raised alarms in Hollywood and...",
+            "url": "https://nypost.com/2026/03/24/tech/openai-shuttering-sora-ai-video-app-after-disney-made-character-licensing-deal/"
         }
     ]
 }
