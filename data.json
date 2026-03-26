@@ -1,10 +1,15 @@
 {
-    "updated": "2026-03-26 20:32:33 UTC",
+    "updated": "2026-03-26 22:25:40 UTC",
     "news": [
         {
             "title": "Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/"
+        },
+        {
+            "title": "7 Readability Features for Your Next Machine Learning Model",
+            "description": "[MACHINELEARNINGMASTERY] Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.",
+            "url": "https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/"
         },
         {
             "title": "TurboQuant: Redefining AI efficiency with extreme compression",
@@ -32,19 +37,14 @@
             "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/"
         },
         {
-            "title": "Setting Up a Google Colab AI-Assisted Coding Environment That Actually Works",
-            "description": "[MACHINELEARNINGMASTERY] This article focuses on Google Colab , an increasingly popular, free, and accessible, cloud-based Python environment that is well-suited for prototyping data analysis workflows and experimental code...",
-            "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
-        },
-        {
-            "title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
-            "description": "[MACHINELEARNINGMASTERY] While large language models (LLMs) are typically used for conversational purposes in use cases that revolve around natural language interactions, they can also assist with tasks like feature...",
-            "url": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "5 Production Scaling Challenges for Agentic AI in 2026",
+            "description": "[MACHINELEARNINGMASTERY] Everyone's <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/"
         },
         {
             "title": "Building Smart Machine Learning in Low-Resource Settings",
@@ -62,14 +62,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "The 6 Best AI Agent Memory Frameworks You Should Try in 2026",
-            "description": "[MACHINELEARNINGMASTERY] Memory helps <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "Why Agents Fail: The Role of Seed Values and Temperature in Agentic Loops",
+            "description": "[MACHINELEARNINGMASTERY] In the modern AI landscape, an agent loop is a cyclic, repeatable, and continuous process whereby an entity called an AI agent &mdash; with a certain degree of autonomy &mdash; works toward a goal.",
+            "url": "https://machinelearningmastery.com/why-agents-fail-the-role-of-seed-values-and-temperature-in-agentic-loops/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "DPIIT signs MoU with KRAFTON India to support startups in gaming, digital entertainment sectors",
-            "description": "[THE TRIBUNE] Under this collaboration, DPIIT will work with KRAFTON India Pvt Ltd to explore the organisation of innovation challenges under the Bharat Startup Grand Challenge, along with targeted hackathons,...",
-            "url": "https://www.tribuneindia.com/news/business/dpiit-signs-mou-with-krafton-india-to-support-startups-in-gaming-digital-entertainment-sectors/"
+            "title": "Ericsson and Forschungszentrum J\u00fclich to develop advanced AI for 6G",
+            "description": "[SCIENTIFIC COMPUTING WORLD] The project aims to leverage JUPITER, Europe\u2019s first \"exascale\" supercomputer, to design and test new artificial intelligence solutions for the complex demands of 6G",
+            "url": "https://www.scientific-computing.com/article/ericsson-forschungszentrum-julich-develop-advanced-ai-6g"
         },
         {
-            "title": "Should governments regulate AI?",
-            "description": "[EURO WEEKLY NEWS] A recent online poll asked Euro Weekly News readers: should governments regulate artificial intelligence? The responses revealed a wide range of opinions\u2026",
-            "url": "https://euroweeklynews.com/2026/03/26/should-governments-regulate-ai/"
+            "title": "White House Unveils National AI Policy to Guide Congress",
+            "description": "[USA HERALD] The White House on Friday introduced its long-awaited national artificial intelligence framework, aiming to prevent individual states from enacting their own rules and to carry forward the Trump...",
+            "url": "https://usaherald.com/white-house-unveils-national-ai-policy-to-guide-congress/"
         },
         {
-            "title": "Two killed in Abu Dhabi after air defence intercepts missile",
-            "description": "[MALAYALA MANORAMA] Two people were killed and three injured by falling debris from an intercepted ballistic missile in Abu Dhabi..Abu Dhabi missile attack, ballistic missile debris, Sweihan Street incident, UAE air...",
-            "url": "https://www.onmanorama.com/news/world/2026/03/26/abu-dhabi-missile-attack-two-dead.html"
+            "title": "'The Pitt' shows reality of hospital cyberattacks",
+            "description": "[THE PHILADELPHIA INQUIRER] Policy and legal efforts aim to stop these malicious security breaches, but they are growing more common as hospitals adopt remote health care delivery and hackers adopt artificial intelligence.",
+            "url": "https://www.inquirer.com/health/expert-opinions/the-pitt-hbo-hospital-cyberattack-realistic-portrayal-20260326.html"
         },
         {
-            "title": "Police identify person behind Facebook post targeting Sadiqali Thangal; \u20b915 crore extortion bid alleged",
-            "description": "[MALAYALA MANORAMA] Police officials confirmed that Roshan's involvement in the incident has been established and that efforts are underway to apprehend him..defamatory Facebook post, Panakkad Syed Sadiqali Shihab...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/26/iuml-leader-defamation-case-police-identify-facebook-post-sadiqali-thangal-15-crore-extortion-bid.html"
+            "title": "The Grease and the Data: Why AtomBite.AI's RaaS Fleet is Building the Ultimate Robotics Dataset",
+            "description": "[TECHBULLION] AtomBite.AI, an artificial intelligence application company building the \"AtomBite Brain\"\u2014a foundation model for flexible manipulation in commercial robotics, has engineered a solution to this data...",
+            "url": "https://techbullion.com/the-grease-and-the-data-why-atombite-ais-raas-fleet-is-building-the-ultimate-robotics-dataset/"
         },
         {
-            "title": "What If Animals Were Always Talking, And We\u2019ve Only Been Listening the Wrong Way?",
-            "description": "[THE ECONOMIC TIMES] New research reveals animal communication hinges on emotions, not just words. Early studies explored symbols, but Artificial Intelligence now deciphers subtle vocalizations and behaviors. This...",
-            "url": "https://economictimes.indiatimes.com/news/international/us/what-if-animals-were-always-talking-and-weve-only-been-listening-the-wrong-way/articleshow/129819279.cms"
+            "title": "\u2018Feels like seeing new people in your old home\u2019: Fans react to Harry Potter series trailer",
+            "description": "[MALAYALA MANORAMA] While the visuals and scale of the production have impressed viewers, the trailer has also sparked debate among longtime fans about whether the new.Harry Potter series trailer, new Harry Potter show,...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/26/harry-potter-series-trailer-reactions-hbo-jk-rowling.html"
         },
         {
-            "title": "The Convergence of Fintech, AI and Blockchain in Modern Finance",
-            "description": "[TECHBULLION] Spending on artificial intelligence in financial services reached $35 billion in 2024, while blockchain-related investment in finance exceeded $12 billion, according to Statista and CB Insights....",
-            "url": "https://techbullion.com/the-convergence-of-fintech-ai-and-blockchain-in-modern-finance/"
+            "title": "Sachin Pilot questions CPM\u2019s silence on BJP, says Pinarayi targets Rahul to please Modi",
+            "description": "[MALAYALA MANORAMA] On the economic front, Pilot alleged that public dissatisfaction is growing in Kerala despite the CPM retaining power for a second consecutive term..Sachin Pilot Kochi attack, Kerala government...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/26/sachin-pilot-kochi-attack-kerala-govt-bjp-cpm-silence-pinarayi-targets-rahul-modi.html"
         },
         {
-            "title": "Clarivate Reveals the AI50 - the Organizations Leading Artificial Intelligence Invention",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Clarivate Plc (NYSE:CLVT), a leading global provider of transformative intelligence, today announced the Clarivate AI50, a new data-driven...",
-            "url": "https://www.prnewswire.co.uk/news-releases/clarivate-reveals-the-ai50--the-organizations-leading-artificial-intelligence-invention-302725403.html"
+            "title": "Why Young Entrepreneurs Are Reshaping Business Technology",
+            "description": "[TECHBULLION] The technology landscape is shifting, and it\u2019s not just because of artificial intelligence or cloud computing. It\u2019s because a new generation of business leaders is asking fundamental questions about...",
+            "url": "https://techbullion.com/why-young-entrepreneurs-are-reshaping-business-technology/"
         },
         {
-            "title": "What Is SuperGrok Lite? Elon Musk\u2019s Affordable AI Plan for Everyday Users",
-            "description": "[OUTLOOK BUSINESS] Elon Musk introduces SuperGrok Lite, a $10 monthly plan offering basic artificial intelligence tools, limited usage and entry-level features within xAI\u2019s growing subscription ecosystem.",
-            "url": "https://www.outlookbusiness.com/ampstories/deeptech/what-is-supergrok-lite-elon-musks-affordable-ai-plan-for-everyday-users"
+            "title": "OpenAI Backs Startup Deploying AI Agents in Fintech, Biotech Industries",
+            "description": "[MARKETSCREENER] Microsoft -backed OpenAI is lining up support for an artificial-intelligence startup that aims to build software allowing so-called AI agents to communicate and solve complex problems in certain...",
+            "url": "https://www.marketscreener.com/news/openai-backs-startup-deploying-ai-agents-in-fintech-biotech-industries-ce7e51dadb8cf62c"
         },
         {
-            "title": "Kerala faces double heat as power demand hits record 5,802 MW; UV levels surge",
-            "description": "[MALAYALA MANORAMA] Kerala is experiencing a significant heatwave, evidenced by an all-time high electricity demand of 5,802 megawatts on Wednesday night..Kerala heatwave, rising electricity demand Kerala, temperature...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/26/kerala-heatwave-electricity-peak-demand-uv-spike.html"
+            "title": "How Technology Is Powering the Next Generation of Banking",
+            "description": "[TECHBULLION] Global investment in next-generation banking technology reached $95 billion in 2025, according to IDC\u2019s Financial Services Technology Spending Tracker. The spending covers cloud infrastructure,...",
+            "url": "https://techbullion.com/how-technology-is-powering-the-next-generation-of-banking/"
         },
         {
-            "title": "JCI Manila Hosted AI Seminar to Jumpstart Advocacy Project for Benguet Farmers",
-            "description": "[MANILASTANDARD.NET] Junior Chamber International Manila recently hosted a fund-raising seminar on artificial intelligence entitled \u201cLeading Through A Time of Change\u201d at the",
-            "url": "https://manilastandard.net/spotlight/314720338/jci-manila-hosted-ai-seminar-to-jumpstart-advocacy-project-for-benguet-farmers.html"
+            "title": "Under pressure, SDPI exits Manjeshwar election; Konkani Catholic candidate refuses to back out",
+            "description": "[MALAYALA MANORAMA] With the SDPI claiming a support base of 6,000 to 7,000 votes, its presence had raised the prospect of a decisive split in a triangular contest..Manjeshwar election, SDPI candidate withdrawal, UDF...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/03/26/manjeshwar-election-sdpi-pressure-exists-konkani-catholic-candidate-refuses-back-out.html"
         }
     ]
 }
