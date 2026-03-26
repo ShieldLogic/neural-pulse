@@ -1,15 +1,10 @@
 {
-    "updated": "2026-03-26 13:06:17 UTC",
+    "updated": "2026-03-26 15:00:44 UTC",
     "news": [
         {
             "title": "Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
             "url": "https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/"
-        },
-        {
-            "title": "7 Readability Features for Your Next Machine Learning Model",
-            "description": "[MACHINELEARNINGMASTERY] Unlike fully structured tabular data, preparing text data for machine learning models typically entails tasks like tokenization, embeddings, or sentiment analysis.",
-            "url": "https://machinelearningmastery.com/7-readability-features-for-your-next-machine-learning-model/"
         },
         {
             "title": "TurboQuant: Redefining AI efficiency with extreme compression",
@@ -37,14 +32,19 @@
             "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/"
         },
         {
+            "title": "Setting Up a Google Colab AI-Assisted Coding Environment That Actually Works",
+            "description": "[MACHINELEARNINGMASTERY] This article focuses on Google Colab , an increasingly popular, free, and accessible, cloud-based Python environment that is well-suited for prototyping data analysis workflows and experimental code...",
+            "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
+        },
+        {
+            "title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
+            "description": "[MACHINELEARNINGMASTERY] While large language models (LLMs) are typically used for conversational purposes in use cases that revolve around natural language interactions, they can also assist with tasks like feature...",
+            "url": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "5 Production Scaling Challenges for Agentic AI in 2026",
-            "description": "[MACHINELEARNINGMASTERY] Everyone's <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-production-scaling-challenges-for-agentic-ai-in-2026/"
         },
         {
             "title": "Building Smart Machine Learning in Low-Resource Settings",
@@ -62,19 +62,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "The 6 Best AI Agent Memory Frameworks You Should Try in 2026",
+            "description": "[MACHINELEARNINGMASTERY] Memory helps <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "Why Agents Fail: The Role of Seed Values and Temperature in Agentic Loops",
-            "description": "[MACHINELEARNINGMASTERY] In the modern AI landscape, an agent loop is a cyclic, repeatable, and continuous process whereby an entity called an AI agent &mdash; with a certain degree of autonomy &mdash; works toward a goal.",
-            "url": "https://machinelearningmastery.com/why-agents-fail-the-role-of-seed-values-and-temperature-in-agentic-loops/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "The Rapid Expansion of Financial Technology Innovation",
+            "description": "[TECHBULLION] Patent filings related to financial technology grew 34% year over year in 2025, reaching more than 18,000 new filings globally, according to the World Intellectual Property Organization\u2019s annual...",
+            "url": "https://techbullion.com/the-rapid-expansion-of-financial-technology-innovation/"
+        },
+        {
+            "title": "Inflation Pulse From AI and Energy Will Last Decades, IFM Says",
+            "description": "[BLOOMBERG] Enormous spending on artificial intelligence and the global energy transition are likely to cause inflationary pressures for decades to come, according to the chief executive of global infrastructure...",
+            "url": "https://www.bloomberg.com/news/articles/2026-03-26/inflation-pulse-from-ai-and-energy-will-last-decades-ifm-says"
+        },
+        {
+            "title": "Beyond Exposure: PR Newswire Elevates Trusted Distribution Across Asia-Pacific",
+            "description": "[THE MANILA TIMES] HONG KONG, March 26, 2026 /PRNewswire/ -- PR Newswire has reinforced its Asia\u2011Pacific distribution network by expanding trusted media partnerships and upgrading its Premium Wire coverage across key...",
+            "url": "https://www.manilatimes.net/2026/03/26/tmt-newswire/pr-newswire/beyond-exposure-pr-newswire-elevates-trusted-distribution-across-asia-pacific/2308038"
+        },
+        {
+            "title": "Billionaire founder Mark Cuban makes an AI prediction that employees may like; says: Smart, bigger companies will enable their employees to create and use AI agents and reduce their \u2026",
+            "description": "[TIMES OF INDIA] Tech News News: Mark Cuban has good news for employees of companies who are adopting artificial intelligence (AI). The billionaire founder and Shark Tank US judge has.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/billionaire-founder-mark-cuban-makes-an-ai-prediction-that-employees-may-like-says-smart-bigger-companies-will-enable-their-employees-to-create-and-use-ai-agents-and-reduce-their-/articleshow/129811390.cms"
+        },
+        {
+            "title": "Australia needs more data centres, but there are new national expectations for investors",
+            "description": "[SBS AUSTRALIA] As demand for artificial intelligence accelerates, Australia is expanding its data centre footprint while facing rising concerns over energy and water use. The federal government has introduced new...",
+            "url": "https://www.sbs.com.au/language/hindi/en/podcast-episode/australia-unveils-plan-to-manage-ai-data-centre-boom-sustainably/7nzwsg6a4"
+        },
+        {
+            "title": "Meta lays off 700 employees hours after rolling out massive executive pay packages",
+            "description": "[THE FINANCIAL EXPRESS] Meta, according to The New York Times, has laid off around 700 employees, at almost the same time it rolled out massive pay packages for its top executives, a step that shows just how much the...",
+            "url": "https://www.financialexpress.com/shorts/news/meta-lays-off-700-employees-hours-after-rolling-out-massive-executive-pay-packages-which-teams-are-hit-4184507/"
+        },
+        {
+            "title": "Meta lays off 700 employees hours after rolling out massive executive pay packages - Which teams are hit",
+            "description": "[THE FINANCIAL EXPRESS] Meta lays off around 700 employees while offering up to $921M in executive pay, as the company ramps up spending and focus on artificial intelligence.",
+            "url": "https://www.financialexpress.com/business/news/meta-lays-off-700-employees-hours-after-rolling-out-massive-executive-pay-packages-which-teams-are-hit/4184507/"
         },
         {
             "title": "No freedom in sight for CPM as independents' struggle goes on in Malabar",
@@ -90,41 +125,6 @@
             "title": "Melania Trump Escorted by Talking Humanoid Robot at White House Tech Summit",
             "description": "[CNET] The first lady shared the spotlight with the robot to promote the use of artificial intelligence in education.",
             "url": "https://www.cnet.com/tech/first-lady-melania-trump-humanoid-robot-childrens-technology-educational-summit/"
-        },
-        {
-            "title": "[Good Business] AI as a social good",
-            "description": "[RAPPLER] Artificial intelligence will undoubtedly transform productivity. But it will not replace human imagination, empathy, and purpose.",
-            "url": "https://www.rappler.com/business/opinion-artificial-intelligence-social-good/"
-        },
-        {
-            "title": "Artificial Intelligence Misuse: Teen Scandal at Exclusive Pennsylvania School",
-            "description": "[DEVDISCOURSE] In Pennsylvania, two 14-year-old boys used AI to create fake nude images of classmates, causing distress and legal consequences. Found guilty, they received probation and must perform community...",
-            "url": "https://www.devdiscourse.com/article/law-order/3851053-artificial-intelligence-misuse-teen-scandal-at-exclusive-pennsylvania-school"
-        },
-        {
-            "title": "AI tool predicts wildfire danger faster than current systems",
-            "description": "[PHYS.ORG] A wildfire forecasting system powered by artificial intelligence (AI) could help detect dangerous fire conditions earlier and reduce the cost of wildfire response, according to new research from Te...",
-            "url": "https://phys.org/news/2026-03-ai-tool-wildfire-danger-faster.html"
-        },
-        {
-            "title": "Q&A: An AI-Powered Way to Help Detect Brain Bleeds Faster",
-            "description": "[U.S. NEWS & WORLD REPORT] Viz Hemorrhage, which uses artificial intelligence algorithms to detect suspected brain bleeds, is a recipient of the 2026 Edison Awards.",
-            "url": "https://www.usnews.com/news/health-news/articles/2026-03-25/q-a-an-ai-powered-way-to-help-detect-brain-bleeds-faster"
-        },
-        {
-            "title": "In Punjab, IIT Ropar gives push to AI-driven farming in India",
-            "description": "[TIMES OF INDIA] Patiala: ANNAM.AI, the Centre of Excellence in Artificial Intelligence for Agriculture set up at IIT Ropar by the Union ministry of education, on Wedn.",
-            "url": "https://timesofindia.indiatimes.com/city/chandigarh/in-punjab-iit-ropar-gives-push-to-ai-driven-farming-in-india/articleshow/129809829.cms"
-        },
-        {
-            "title": "Ending OpenAI's Sora unlikely to slow influx of AI-generated video online, experts say",
-            "description": "[BALTIMORE NEWS] OpenAI is discontinuing Sora, its app that allows users to generate artificial intelligence videos with text prompts.",
-            "url": "https://foxbaltimore.com/news/nation-world/ending-openais-sora-unlikely-to-slow-influx-of-ai-generated-video-online-experts-say-openai-disney-winding-down-deal-artificial-intelligence-video-misinformation-reality-hijacking-technology"
-        },
-        {
-            "title": "Ending OpenAI's Sora unlikely to slow influx of AI-generated video online, experts say",
-            "description": "[WJLA] OpenAI is discontinuing Sora, its app that allows users to generate artificial intelligence videos with text prompts.",
-            "url": "https://wjla.com/news/nation-world/ending-openais-sora-unlikely-to-slow-influx-of-ai-generated-video-online-experts-say-openai-disney-winding-down-deal-artificial-intelligence-video-misinformation-reality-hijacking-technology"
         }
     ]
 }
