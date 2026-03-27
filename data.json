@@ -1,6 +1,11 @@
 {
-    "updated": "2026-03-27 14:45:49 UTC",
+    "updated": "2026-03-27 16:51:15 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini",
             "description": "[RESEARCH] Human-Computer Interaction and Visualization",
@@ -17,6 +22,11 @@
             "url": "https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/"
         },
         {
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+        },
+        {
             "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
             "description": "[RESEARCH] Health & Bioscience",
             "url": "https://research.google/blog/google-research-at-the-check-up-from-healthcare-innovation-to-real-world-care-settings/"
@@ -27,29 +37,14 @@
             "url": "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/"
         },
         {
-            "title": "Everything You Need to Know About Recursive Language Models",
-            "description": "[MACHINELEARNINGMASTERY] If you are here, you have probably heard about recent work on recursive language models.",
-            "url": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/"
-        },
-        {
-            "title": "Setting Up a Google Colab AI-Assisted Coding Environment That Actually Works",
-            "description": "[MACHINELEARNINGMASTERY] This article focuses on Google Colab , an increasingly popular, free, and accessible, cloud-based Python environment that is well-suited for prototyping data analysis workflows and experimental code...",
-            "url": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/"
-        },
-        {
-            "title": "From Text to Tables: Feature Engineering with LLMs for Tabular Data",
-            "description": "[MACHINELEARNINGMASTERY] While large language models (LLMs) are typically used for conversational purposes in use cases that revolve around natural language interactions, they can also assist with tasks like feature...",
-            "url": "https://machinelearningmastery.com/from-text-to-tables-feature-engineering-with-llms-for-tabular-data/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Building Smart Machine Learning in Low-Resource Settings",
-            "description": "[MACHINELEARNINGMASTERY] Most people who want to build <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/"
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -62,9 +57,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "The 6 Best AI Agent Memory Frameworks You Should Try in 2026",
-            "description": "[MACHINELEARNINGMASTERY] Memory helps <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -72,9 +67,49 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "How AI is challenging and redefining India's legacy-driven law firm model",
+            "description": "[INDIA TODAY] Artificial intelligence is reshaping India's legacy law firms by transforming legal research, billing models, talent management, and leadership strategy, pushing firms toward data-driven...",
+            "url": "https://www.indiatoday.in/jobs/story/how-ai-is-challenging-and-redefining-indias-legacy-driven-law-firm-model-educ-2887721-2026-03-27"
+        },
+        {
+            "title": "Arundhati Roy, Han Kang among winners of US book critic awards",
+            "description": "[THE TRIBUNE] A novel by Nobel laureate Han Kang, Karen Hao\u2019s examination of artificial intelligence and OpenAI (the company behind ChatGPT) and a memoir by author Arundhati Roy were among the winners of the...",
+            "url": "https://www.tribuneindia.com/news/world/arundhati-roy-han-kang-among-winners-of-us-book-critic-awards/"
+        },
+        {
+            "title": "From 'Masthishka Maranam' to 'Muthu Alias Kaattaan': New OTT releases this week",
+            "description": "[MALAYALA MANORAMA] Here's a list of films to make your binge-watching experience better..new movie releases ott, streaming now movies, crime thriller ott, sci-fi drama netflix, romantic drama prime video, binge watch...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/03/27/new-ott-releases-this-week-movies-web-series.html"
+        },
+        {
+            "title": "AI used to make 'fetishised' images of disabled women",
+            "description": "[THE ECONOMIC TIMES] Some account owners use artificial intelligence to manipulate real images of non-disabled women, making them appear to have Down syndrome, a genetic condition caused by an extra chromosome. \"This is...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-used-to-make-fetishised-images-of-disabled-women/articleshow/129838434.cms"
+        },
+        {
+            "title": "Major Hollywood Union, SAG-AFTRA, \u2018Strongly Supports\u2019 Trump Admin\u2019s AI Framework for Human Creatives",
+            "description": "[BREITBART NEWS NETWORK] The SAG-AFTRA actor's union expressed support for the Trump administration's artificial intelligence policy framework for human creatives.",
+            "url": "https://www.breitbart.com/entertainment/2026/03/27/sag-aftra-supports-trump-admins-ai-framework-for-human-creatives/"
+        },
+        {
+            "title": "Machine learning model predicts liver cancer risk with high accuracy",
+            "description": "[NEWS-MEDICAL.NET] A machine learning model that analyzes patient demographics, electronic health record data, and routine blood test results predicted a patient's risk of hepatocellular carcinoma (HCC), the most...",
+            "url": "https://www.news-medical.net/news/20260326/Machine-learning-model-predicts-liver-cancer-risk-with-high-accuracy.aspx"
+        },
+        {
+            "title": "Claude AI maker Anthropic considers IPO as soon as October",
+            "description": "[THE ECONOMIC TIMES] Anthropic PBC is considering going public as soon as in October, according to people familiar with the matter, as the artificial intelligence company races with rival OpenAI Inc. to hold an initial...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/claude-ai-maker-anthropic-considers-ipo-as-soon-as-october/articleshow/129837524.cms"
         },
         {
             "title": "Anthropic eyes October IPO as AI race with OpenAI intensifies: Report",
@@ -90,41 +125,6 @@
             "title": "How labor movements may help rebalance power in the technology sector",
             "description": "[PHYS.ORG] Wide swaths of American workers are more meaningfully involved than in the past in organizing around and pushing back against artificial intelligence (AI) and data-driven technologies in the...",
             "url": "https://phys.org/news/2026-03-labor-movements-rebalance-power-technology.html"
-        },
-        {
-            "title": "Why Central Keralam holds the key for UDF | Part 3",
-            "description": "[MALAYALA MANORAMA] Keralam's political landscape is divided into three historical regions: northern, central, and southern..political divisions of Keralam, Keralam election analysis, Northern Keralam political issues,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/03/24/keralam-election-analysis.html"
-        },
-        {
-            "title": "Trump pauses strike on energy plants till April 6 as Iran dubs US proposal \u2018one-sided, unfair\u2019",
-            "description": "[MALAYALA MANORAMA] US President Donald Trump announced a 10-day pause on attacks against Iran's energy plants, extending it to April 6, 2026, and claimed that ongoing.Trump Iran pause, Iran energy plant strikes, Iran...",
-            "url": "https://www.onmanorama.com/news/world/2026/03/27/trump-iran-pause-extension-energy-plants-strike.html"
-        },
-        {
-            "title": "White House AI czar Sacks to step down, moves to advisory role",
-            "description": "[REUTERS] White House artificial intelligence and crypto czar David Sacks is stepping down from his role, saying in \u200ban interview on Bloomberg Television on Thursday he \u200chad reached the end of his time as a...",
-            "url": "https://www.reuters.com/world/us/white-house-ai-czar-sacks-step-down-moves-advisory-role-2026-03-27/"
-        },
-        {
-            "title": "White House AI czar Sacks to step down, moves to advisory role",
-            "description": "[MARKETSCREENER] White House artificial intelligence and crypto czar David Sacks is stepping down from his role, saying in an interview on Bloomberg Television on Thursday he had reached the end of his time as a......",
-            "url": "https://www.marketscreener.com/news/white-house-ai-czar-sacks-to-step-down-moves-to-advisory-role-ce7e51dbdb89f324"
-        },
-        {
-            "title": "US book critics honor Nobel laureate and South Korean novelist Han Kang",
-            "description": "[WTOP] A novel by Nobel laureate Han Kang, Karen Hao's examination of artificial intelligence and OpenAI (the company behind ChatGPT) and a memoir by the author\u2026",
-            "url": "https://wtop.com/entertainment/2026/03/us-book-critics-honor-nobel-laureate-and-south-korean-novelist-han-kang/"
-        },
-        {
-            "title": "AFTRA Endorses Trump Admin's AI Policy Framework",
-            "description": "[DEADLINE] After the Trump administration released its national policy framework for artificial intelligence last week, SAG-AFTRA is on board.",
-            "url": "https://deadline.com/2026/03/sag-aftra-endorses-trump-admin-ai-policy-framework-1236767272/"
-        },
-        {
-            "title": "Women lead digital upskilling in BPO industry",
-            "description": "[MANILASTANDARD.NET] Women are increasingly driving the transformation of the business process outsourcing industry as automation and artificial intelligence reshape the",
-            "url": "https://manilastandard.net/business/314720717/women-lead-digital-upskilling-in-bpo-industry.html"
         }
     ]
 }
