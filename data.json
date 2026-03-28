@@ -1,124 +1,130 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-03-28 11:51 UTC",
+    "updated": "2026-03-28 12:46:50 UTC",
     "news": [
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "Nvidia Is Reportedly Developing Its Own Answer to OpenClaw",
-            "description": "Nvidia is getting in on the fad for agentic AI assistant platforms.",
-            "url": "https://gizmodo.com/nvidia-is-reportedly-developing-its-own-answer-to-openclaw-2000731710",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/03/jensen-claw-1200x675.jpg",
-            "publishedAt": "2026-03-10T09:00:52Z",
-            "content": "Nvidia is on the verge of announcing its own Claw, according to Wired. Can you believe it? An Nvidia claw! \r\nWhich claw do you use for your agentic AI tasks? The lightweight Nanoclaw? The security-fo\u2026 [+3478 chars]"
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "The $100 Billion OpenAI-Nvidia Deal Is Not Happening",
-            "description": "The deal that once sparked circular dealmaking fears is no more, according to Jensen Huang.",
-            "url": "https://gizmodo.com/the-100-billion-openai-nvidia-deal-is-not-happening-2000729749",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/08/jensen-huang-july-23-2025-1200x675.jpg",
-            "publishedAt": "2026-03-04T22:30:48Z",
-            "content": "The whopping $100 billion investment that Nvidia said it will make in OpenAI is probably not happening, according to Nvidia CEO Jensen Huang.\r\nNvidia\u2019s latest finalized investment of $30 billion, whi\u2026 [+2481 chars]"
+            "title": "Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini",
+            "description": "[RESEARCH] Human-Computer Interaction and Visualization",
+            "url": "https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/"
         },
         {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Zo\u00eb Schiffer, Lauren Goode",
-            "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
-            "description": "Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.",
-            "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
-            "urlToImage": "https://media.wired.com/photos/69aa166a88f33482258401e7/191:100/w_1280,c_limit/Nvidia-Scoop-Business-2260170952.jpg",
-            "publishedAt": "2026-03-09T23:11:34Z",
-            "content": "Nvidia is planning to launch an open source platform for AI agents, people familiar with the companys plans tell WIRED.\r\nThe chipmaker has been pitching the product, referred to as NemoClaw, to enter\u2026 [+3264 chars]"
+            "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+            "description": "[RESEARCH] Algorithms & Theory",
+            "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Nvidia\u2019s spending $4 billion on photonics to stay ahead of the curve in AI",
-            "description": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds ove\u2026",
-            "url": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-02T16:56:49Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOptical tech from Lumentum and Coherent could be key to connecting the GPUs inside AI data centers.\r\nOptical tech from Lumentum and Coherent could be key to conn\u2026 [+2743 chars]"
+            "title": "Mapping the modern world: How S2Vec learns the language of our cities",
+            "description": "[RESEARCH] Algorithms & Theory",
+            "url": "https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Blake Stimac",
-            "title": "3 Things From Nvidia GTC 2026 Keynote: NemoClaw, DLSS 5 and Vera CPU",
-            "description": "From AI gaming enhancements to easier ways to create AI agents, here's what Nvidia announced during the GTC keynote.",
-            "url": "https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/814978e664b35cd1d0f8c47895edbaf5a35cddea/hub/2026/03/16/764ad879-9ec9-428f-9e71-ec8e7072b6cb/img-3525.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-03-16T22:45:34Z",
-            "content": "Nvidia's GTC conference on Monday gave the world the latest from the AI chip behemoth, including a new AI-powered upscaling software for gaming and a new Vera CPU to supercharge the future of AI agen\u2026 [+2780 chars]"
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019",
-            "description": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely-defined term that has incited a lot of discussion by tech CEOs, tech worke\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-23T19:42:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHe then seemed to slightly walk back the claim.\r\nHe then seemed to slightly walk back the claim.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to \u2026 [+2848 chars]"
+            "title": "Google Research at The Check Up: from healthcare innovation to real-world care settings",
+            "description": "[RESEARCH] Health & Bioscience",
+            "url": "https://research.google/blog/google-research-at-the-check-up-from-healthcare-innovation-to-real-world-care-settings/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "OpenAI shelves erotic chatbot \u2018indefinitely\u2019",
-            "description": "OpenAI \u200bhas paused plans to release a sexualized \"adult mode\" for ChatGPT, in its latest move to refocus on the company's core \u200bproducts. According to The Financial Times, the erotic chatbot has been shelved \"indefinitely\" after facing pushback from employees\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK464_PORN_ADULT_CONTENT_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-03-26T11:58:09Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMuch like Sora, OpenAI says its pausing plans for ChatGPTs adult mode to focus on core products.\r\nMuch like Sora, OpenAI says its pausing plans for ChatGPTs adul\u2026 [+2217 chars]"
+            "title": "Improving breast cancer screening workflows with machine learning",
+            "description": "[RESEARCH] Health & Bioscience",
+            "url": "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Richard Lawler",
-            "title": "Arm\u2019s first CPU ever will plug into Meta\u2019s AI datacenters later this year",
-            "description": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for A\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/20260216_VISION25_ExplodedTight_Chip-01-16x9_16bit_v2-1200x675-1.jpg?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-            "publishedAt": "2026-03-24T20:43:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Arm AGI CPU can have up to 136 cores per CPU, claiming it has double the performance per watt of x86 chips.\r\nThe Arm AGI CPU can have up to 136 cores per CPU\u2026 [+3259 chars]"
+            "title": "Whole-Body Conditioned Egocentric Video Prediction",
+            "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
+            "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "OpenAI is planning a desktop \u2018superapp\u2019",
-            "description": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various produ\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462044/STK155_OPEN_AI_CVirginia_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-20T00:09:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company is working on merging ChatGPT, Codex, and the Atlas browser into one app.\r\nThe company is working on merging ChatGPT, Codex, and the Atlas browser in\u2026 [+2521 chars]"
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
+        },
+        {
+            "title": "Information-Driven Design of Imaging Systems",
+            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
+            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
+        },
+        {
+            "title": "RL without TD learning",
+            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
+            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
+        },
+        {
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+        },
+        {
+            "title": "What exactly does word2vec learn?",
+            "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
+            "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
+        },
+        {
+            "title": "Identifying Interactions at Scale for LLMs",
+            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
+            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "AI is giving bad advice to flatter its users, says new study",
+            "description": "[WJLA] Artificial intelligence chatbots are so prone to flattering and validating their human users that they are giving bad advice that can damage relationships and r",
+            "url": "https://wjla.com/news/nation-world/ai-artificial-intelligence-overly-friengly-chatbot-agreeable-study-relations-harmful-behavior-science-convictions-sycophancy-choices-information-inaccurate-kids-teens-adults-doctors"
+        },
+        {
+            "title": "Apple hires ex-Google executive to head AI marketing amid push to improve Siri",
+            "description": "[THE STAR] SAN FRANCISCO, \u2060March 27 (Reuters) - \u2060Apple on Friday said \u200cit has hired Lilian Rincon, who previously spent \u200bnearly a \u2060decade at \u2060Google overseeing its shopping and \u2060assistant \u200cproducts, as the...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/03/28/apple-hires-ex-google-executive-to-head-ai-marketing-amid-push-to-improve-siri"
+        },
+        {
+            "title": "65 booked for circulating obscene, AI-morphed videos in Kharat case",
+            "description": "[HINDUSTAN TIMES] Officials stated that some users had even utilised artificial intelligence tools to manipulate images and create objectionable content",
+            "url": "https://www.hindustantimes.com/cities/pune-news/65-booked-for-circulating-obscene-ai-morphed-videos-in-kharat-case-101774636354277.html"
+        },
+        {
+            "title": "Yahoo turns to AI-powered answer engine Scout to lead it back it its roots in online search",
+            "description": "[DAILY EXCELSIOR] SAN FRANCISCO, Mar 27: Internet trailblazer Yahoo is exploring technology\u2019s next frontier with Scout, an answer engine powered by artificial intelligence. Scout seems insightful, based on its...",
+            "url": "https://www.dailyexcelsior.com/yahoo-turns-to-ai-powered-answer-engine-scout-to-lead-it-back-it-its-roots-in-online-search/"
+        },
+        {
+            "title": "From dot-com darling to tech pariah, Yahoo bets everything on AI and Scout",
+            "description": "[LOS ANGELES TIMES] Internet trailblazer Yahoo is exploring technology\u2019s next frontier with Scout, an answer engine powered by artificial intelligence",
+            "url": "https://www.latimes.com/business/story/2026-03-27/from-dot-com-darling-to-tech-pariah-yahoo-bets-everything-on-ai-scout"
+        },
+        {
+            "title": "Tech Down as Alphabet AI Breakthrough Hits Chip Stocks -- Tech Roundup",
+            "description": "[MARKETSCREENER] Shares of technology companies fell as an artificial-intelligence computing breakthrough at Alphabet continued to send chills through semiconductor stocks. The iShares Semiconductor...",
+            "url": "https://www.marketscreener.com/news/tech-down-as-alphabet-ai-breakthrough-hits-chip-stocks-tech-roundup-ce7e51d8db8cf023"
+        },
+        {
+            "title": "Shaquille O'Neal Caught Up In Rumor He Slid Into Sabrina Carpenter's DMs with Wild Request, But It's the Details That Make It Worse",
+            "description": "[ATLANTA BLACK STAR] In this day in age of advanced technology and artificial intelligence, it\u2019s hard to detect what\u2019s real or fabricated. Even celebrities, like",
+            "url": "https://atlantablackstar.com/2026/03/27/shaquille-oneal-caught-up-in-rumor-he-slid-into-sabrina-carpenters-dms-with-wild-request-but-its-the-details-that-make-it-worse/"
+        },
+        {
+            "title": "Prince William Co. school system establishes guidance on AI glasses",
+            "description": "[WTOP] Prince William County Public Schools recently established new guidance prohibiting the use of artificial intelligence-enabled glasses in schools as part of the school system\u2019s policy governing...",
+            "url": "https://wtop.com/prince-william-county/2026/03/prince-william-co-school-system-establishes-guidance-on-ai-glasses/"
+        },
+        {
+            "title": "At 'Davos of energy', AI looks to gas to power its rapid expansion",
+            "description": "[JAPAN TODAY] Natural gas took center stage this week at the world's largest energy conference, as major market players discussed how to power the rise of artificial intelligence. In the halls of CERAWeek, where...",
+            "url": "https://japantoday.com/category/tech/at-'davos-of-energy'-ai-looks-to-gas-to-power-its-rapid-expansion"
+        },
+        {
+            "title": "At 'Davos of energy', AI looks to gas to power its rapid expansion",
+            "description": "[JAPAN TODAY] Natural gas took center stage this week at the world's largest energy conference, as major market players discussed how to power the rise of artificial intelligence. In the halls of CERAWeek, where...",
+            "url": "https://japantoday.com/category/tech/at-%27davos-of-energy%27-ai-looks-to-gas-to-power-its-rapid-expansion"
         }
     ]
 }
