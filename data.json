@@ -1,15 +1,15 @@
 {
-    "updated": "2026-04-14 02:09:28 UTC",
+    "updated": "2026-04-14 05:58:13 UTC",
     "news": [
-        {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
+        },
+        {
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "Building better AI benchmarks: How many raters are enough?",
@@ -17,19 +17,14 @@
             "url": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -47,9 +42,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +52,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,59 +67,64 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
             "title": "Evaluating alignment of behavioral dispositions in LLMs",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/"
         },
         {
-            "title": "Samsung\u2019s One UI 8.5 beta is heading to more devices",
-            "description": "[ANDROID AUTHORITY] Samsung expands the One UI 8.5 beta to the Galaxy Z Fold 5, S23 FE, and A-series, bringing AirDrop support and LLM-powered Bixby to more users.",
-            "url": "https://www.androidauthority.com/samsung-one-ui-8-5-beta-expansion-2-3656950/"
+            "title": "PJM grid scrambles for 15 GW of power as AI data centers threaten reliability",
+            "description": "[NATURAL NEWS] The PJM Interconnection, America\u2019s largest regional power grid, is launching an emergency plan to secure 15 gigawatts of new electricity generation. This unprecedented move is a direct response to...",
+            "url": "https://www.naturalnews.com/2026-04-13-pjm-grid-scrambles-for-15gw-of-power.html"
         },
         {
-            "title": "VGTel, Inc. (OTCID:VGTL) Announces Provisional Patent Filing and Public Release of MiraLink\u2122 Signal Intelligence Framework",
-            "description": "[THE MANILA TIMES] LANDER, Wyo., April 13, 2026 (GLOBE NEWSWIRE) -- VGTel, Inc. (OTCID: VGTL), an astronomy-driven technology company advancing next-generation sensing systems, artificial intelligence, aerospace, and...",
-            "url": "https://www.manilatimes.net/2026/04/13/tmt-newswire/globenewswire/vgtel-inc-otcidvgtl-announces-provisional-patent-filing-and-public-release-of-miralink-signal-intelligence-framework/2319229"
+            "title": "OpenAI CEO Sam Altman addresses Molotov cocktail attack on his home and AI backlash",
+            "description": "[HARTFORD COURANT] Hours after a Molotov cocktail was thrown at his San Francisco home, OpenAI Chief Executive Sam Altman addressed the criticism surrounding artificial intelligence that appears to have been the...",
+            "url": "https://www.courant.com/2026/04/13/openai-ceo-sam-altman-addresses-molotov-cocktail-attack-on-his-home-and-ai-backlash-3/"
         },
         {
-            "title": "Machine Learning Explained for Beginners: Concepts, Models, and Real-World Applications",
-            "description": "[TECHBULLION] Machine learning explained for beginners. Learn concepts, models, how it works, and real-world applications across industries in this simple guide.",
-            "url": "https://techbullion.com/machine-learning-explained-for-beginners-concepts-models-and-real-world-applications/"
+            "title": "Polluted Air, Coal Revival: North St. Louis Struggles in Data-Driven Surge",
+            "description": "[DEVDISCOURSE] Barbara Johnson, a long-time activist in North St. Louis, battles coal pollution amid policy reversals under President Trump, which prioritize coal for artificial intelligence power demands. This...",
+            "url": "https://www.devdiscourse.com/article/headlines/3872938-polluted-air-coal-revival-north-st-louis-struggles-in-data-driven-surge"
         },
         {
-            "title": "Meta builds AI Mark Zuckerberg to interact with staff",
-            "description": "[FINANCIAL POST] Meta is building an artificial intelligence version of Mark Zuckerberg that can engage with employees in his stead. Find out more here",
-            "url": "https://financialpost.com/financial-times/meta-builds-ai-mark-zuckerberg"
+            "title": "CNN Hires NY Times Chief Data Scientist Chris Wiggins to Head AI Team",
+            "description": "[VARIETY] CNN hired Chris Wiggins, former chief data scientist at the New York Times, for a newly created role as head of machine learning and AI science.",
+            "url": "https://variety.com/2026/tv/news/cnn-chris-wiggins-head-ai-machine-learning-1236720466/"
         },
         {
-            "title": "Sabarimala gold theft case: Vigilance Court grants bail to former TDB member Sankar Das",
-            "description": "[MALAYALA MANORAMA] The Special Investigation Team (SIT) had recorded his arrest in January for the misappropriation of gold from the door frames and the Dwarapalaka.Kollam Vigilance Court, Sabarimala gold theft case,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/13/sankar-das-bail-sabarimala-theft-gold-tdb.html"
+            "title": "Weill Cornell Medicine lays out a vision to prepare cancer scientists for the AI revolution",
+            "description": "[NEWS-MEDICAL.NET] A team of Weill Cornell Medicine investigators is working to cross-train the next generation of cancer researchers in cancer biology and the use of artificial intelligence tools for research.",
+            "url": "https://www.news-medical.net/news/20260413/Weill-Cornell-Medicine-lays-out-a-vision-to-prepare-cancer-scientists-for-the-AI-revolution.aspx"
         },
         {
-            "title": "Watchful eye in Dubai raises alarm, foils midnight heist in Kollam",
-            "description": "[MALAYALA MANORAMA] The incident occurred when a thief began preparing for burglary in the house of a Pathanapuram resident and his daughter, who was in the Gulf region,.Pathanapuram theft attempt, CCTV alert prevents...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/13/pathanapuram-theft-attempt-cctv-alert-remote-home-security-monitoring.html"
+            "title": "No easy wins in Kerala Assembly polls, caution exercised even in Dharmadam: MV Jayarajan",
+            "description": "[MALAYALA MANORAMA] On the political outlook, Jayarajan expressed confidence that the Left would retain its existing seats in Kasaragod district and also improve its.Kerala assembly elections, Kerala election results,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/13/kerala-assembly-elections-tough-contests-pinarayi-vijayan-jayarajan-no-easy-win.html"
         },
         {
-            "title": "UF Engineering offers a master\u2019s in AI. Here\u2019s what to know.",
-            "description": "[THE INDEPENDENT FLORIDA ALLIGATOR] Within the program, which launched in Fall 2024, each student must take 18 credits of core courses in 6 subjects: machine learning, AI systems, sensing and analysis, security, ethics and deep...",
-            "url": "https://www.alligator.org/article/2026/04/uf-engineering-offers-a-masters-in-ai"
+            "title": "TikTok adds new AI video generation to Symphony ad toolkit",
+            "description": "[SOCIAL MEDIA TODAY] The Dreamina Seedance 2.0 artificial intelligence model from parent company ByteDance is able to create realistic content from text prompts.",
+            "url": "https://www.socialmediatoday.com/news/tiktok-adds-new-ai-video-generation-to-symphony-ad-toolkit/817379/"
         },
         {
-            "title": "Can AI coach a championship team?",
-            "description": "[THE INDEPENDENT FLORIDA ALLIGATOR] The clock is winding down, and your team is down by two. There\u2019s time for one final play. Who do you want to call it? A human, or artificial intelligence?",
-            "url": "https://www.alligator.org/article/2026/04/ai-coaches-taking-over"
+            "title": "Don\u2019t make Marshal Foch\u2019s mistake on AI",
+            "description": "[THE GUARDIAN] Letter: Peregrine Rand reflects on Marc Bloch\u2019s Strange Defeat and the future threat of artificial intelligence",
+            "url": "https://www.theguardian.com/technology/2026/apr/13/dont-make-marshal-fochs-mistake-on-ai"
         },
         {
-            "title": "Can AI teach kids to read? UF researchers create interactive literacy app",
-            "description": "[THE INDEPENDENT FLORIDA ALLIGATOR] An artificial intelligence-integrated app aims to help young readers develop literacy skills.",
-            "url": "https://www.alligator.org/article/2026/04/ai-literacy-app"
+            "title": "Hootsuite founder Ryan Holmes is returning as interim CEO",
+            "description": "[BNN BLOOMBERG] Hootsuite founder Ryan Holmes is returning as interim chief executive officer effective immediately to lead a \u201cturning point\u201d due to artificial intelligence.",
+            "url": "https://www.bnnbloomberg.ca/business/company-news/2026/04/13/hootsuite-founder-ryan-holmes-is-back-as-interim-ceo-replacing-irina-novoselsky/"
         },
         {
-            "title": "AI is affecting the media and Hispanic communities",
-            "description": "[THE INDEPENDENT FLORIDA ALLIGATOR] As artificial intelligence reshapes how information is created and shared, journalists and community members say it is becoming increasingly difficult to separate the truth from artificial reality on...",
-            "url": "https://www.alligator.org/article/2026/04/ai-is-affecting-the-media-and-hispanic-communities"
+            "title": "Hootsuite founder Ryan Holmes is returning as interim CEO",
+            "description": "[CP24 TORONTO] Hootsuite founder Ryan Holmes is returning as interim chief executive officer effective immediately to lead a \u201cturning point\u201d due to artificial intelligence.",
+            "url": "https://www.cp24.com/news/money/2026/04/13/hootsuite-founder-ryan-holmes-is-back-as-interim-ceo-replacing-irina-novoselsky/"
         }
     ]
 }
