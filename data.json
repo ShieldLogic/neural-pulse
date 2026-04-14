@@ -1,15 +1,15 @@
 {
-    "updated": "2026-04-14 09:13:56 UTC",
+    "updated": "2026-04-14 10:59:28 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
-        },
-        {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "Building better AI benchmarks: How many raters are enough?",
@@ -17,14 +17,19 @@
             "url": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/"
         },
         {
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -42,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -52,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -67,14 +72,49 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
-        },
-        {
             "title": "Evaluating alignment of behavioral dispositions in LLMs",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/"
+        },
+        {
+            "title": "Detroit Engineered Products pivots from a services model",
+            "description": "[TIMES OF INDIA] Chennai: As artificial intelligence reshapes the engineering and product development landscape, Detroit Engineered Products (DEP), a provider of engin.",
+            "url": "https://timesofindia.indiatimes.com/city/chennai/detroit-engineered-products-pivots-from-a-services-model/articleshow/130246346.cms"
+        },
+        {
+            "title": "Canadian banks, regulators discussed Mythos AI, minister to meet with Anthropic",
+            "description": "[CHEK NEWS] Artificial Intelligence Minister Evan Solomon said he will meet with senior leadership from Anthropic this week in response to global concerns about the company\u2019s new AI model.",
+            "url": "https://cheknews.ca/canadian-banks-regulators-discussed-mythos-ai-minister-to-meet-with-anthropic-1318408/"
+        },
+        {
+            "title": "Man accused in Molotov cocktail attack of OpenAI CEO's home charged with attempted murder",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] San Francisco District Attorney Brooke Jenkins says that 20-year-old Daniel Moreno-Gama has been charged with attempting to kill the OpenAI CEO as well as a security guard at the residence when he...",
+            "url": "https://www.ajc.com/news/2026/04/man-accused-in-molotov-cocktail-attack-of-openai-ceos-home-charged-with-attempted-murder/"
+        },
+        {
+            "title": "GH Bank aims to elevate operations with digital upgrade",
+            "description": "[BANGKOK POST] Government Housing (GH) Bank, a state financial institution specialising in housing loans, is preparing to upgrade its operations through digital transformation and the adoption of generative...",
+            "url": "https://www.bangkokpost.com/business/general/3236630/gh-bank-aims-to-elevate-operations-with-digital-upgrade"
+        },
+        {
+            "title": "Pattern to Present at Life Science Innovation Northwest 2026",
+            "description": "[THE MANILA TIMES] REDMOND, Wash., April 13, 2026 (GLOBE NEWSWIRE) -- Pattern Computer\u00ae, Inc. ('Pattern\u201d or 'the Company\u201d), the global leader in Pattern Discovery, today announced that Pattern\u2019s Chair and CEO Mark...",
+            "url": "https://www.manilatimes.net/2026/04/14/tmt-newswire/globenewswire/pattern-to-present-at-life-science-innovation-northwest-2026/2319438"
+        },
+        {
+            "title": "Maniac who threw Molotov cocktail at Sam Altman\u2019s SF mega-mansion kept terrifying list of other AI execs: court docs",
+            "description": "[NEW YORK POST] The man arrested for throwing a Molotov cocktail at OpenAI chief Sam Altman's San Francisco mega-mansion had a disdain for artificial intelligence and drew up a...",
+            "url": "https://nypost.com/2026/04/13/us-news/maniac-who-threw-molotov-cocktail-at-sam-altmans-sf-mega-mansion-kept-terrifying-list-of-other-ai-execs-court-docs/"
+        },
+        {
+            "title": "Bloom Energy to supply up to 2.8 GW of fuel cells under expanded Oracle deal",
+            "description": "[MARKETSCREENER] Bloom Energy said on Monday it would supply Oracle with up to 2.8 gigawatts of fuel cell capacity under an expanded deal as rising artificial intelligence use drives up power consumption. ...",
+            "url": "https://www.marketscreener.com/news/bloom-energy-to-supply-up-to-2-8-gw-of-fuel-cells-under-expanded-oracle-deal-ce7e50dedf8ef325"
+        },
+        {
+            "title": "Tech Advances on AI Optimism - Tech Roundup",
+            "description": "[MARKETSCREENER] Shares of technology companies rose on optimism about the artificial-intelligence boom. Shares of cloud-computing firm CoreWeave added to recent gains related to a wave of AI deals. Sandisk...",
+            "url": "https://www.marketscreener.com/news/tech-advances-on-ai-optimism-tech-roundup-ce7e50dedf8cf225"
         },
         {
             "title": "Canadian banks, regulators discussed Mythos AI, minister to meet with Anthropic",
@@ -85,46 +125,6 @@
             "title": "Canadian banks, regulators discussed Mythos AI, minister to meet with Anthropic",
             "description": "[SOOTODAY] OTTAWA \u2014 Artificial Intelligence Minister Evan Solomon says he will be meeting with senior leadership from Anthropic on Tuesday in response to global concerns about the company\u2019s new AI model.",
             "url": "https://www.sootoday.com/national-news/canadian-banks-regulators-discussed-mythos-ai-minister-to-meet-with-anthropic-12137037"
-        },
-        {
-            "title": "Court docs: Suspect in Molotov attack on OpenAI CEO's home opposed artificial intelligence",
-            "description": "[WJLA] A man who is accused of throwing a Molotov cocktail at the home of Sam Altman, OpenAI's founder, in San Francisco, was opposed to artificial intelligence.",
-            "url": "https://wjla.com/news/nation-world/court-docs-suspect-in-molotov-attack-on-openai-ceos-home-opposed-artificial-intelligence-sam-altman-kash-patel-fbi-texas-daniel-moreno-gama-molotov-cocktail-property-damage-destruction"
-        },
-        {
-            "title": "Court docs: Suspect in Molotov attack on OpenAI CEO's home opposed artificial intelligence",
-            "description": "[BALTIMORE NEWS] A man who is accused of throwing a Molotov cocktail at the home of Sam Altman, OpenAI's founder, in San Francisco, was opposed to artificial intelligence.",
-            "url": "https://foxbaltimore.com/news/nation-world/court-docs-suspect-in-molotov-attack-on-openai-ceos-home-opposed-artificial-intelligence-sam-altman-kash-patel-fbi-texas-daniel-moreno-gama-molotov-cocktail-property-damage-destruction"
-        },
-        {
-            "title": "Man accused in attack of OpenAI CEO's home, opposed AI",
-            "description": "[CP24 TORONTO] The man accused of throwing a Molotov cocktail at OpenAI founder Sam Altman\u2019s home in San Francisco was opposed to artificial intelligence and had a list of other AI tech executives, according to...",
-            "url": "https://www.cp24.com/news/world/2026/04/13/man-accused-in-molotov-cocktail-attack-of-openai-ceos-home-opposed-ai-court-documents-say/"
-        },
-        {
-            "title": "High earners quietly slow down AI usage as new data shows accuracy beating speed in real workplace decision making",
-            "description": "[TECHRADAR] Executives are turning artificial intelligence into a pause button",
-            "url": "https://www.techradar.com/pro/accuracy-over-volume-heres-why-high-value-pros-are-using-ai-to-work-slower-not-faster"
-        },
-        {
-            "title": "As AI use increases at work, many employees still choose not to use it: Gallup poll",
-            "description": "[JAPAN TODAY] More American workers are experimenting with artificial intelligence in their jobs, but skepticism is still widespread. New Gallup polling finds that while more employees are using AI frequently in...",
-            "url": "https://japantoday.com/category/business/as-ai-use-increases-at-work-many-employees-still-choose-not-to-use-it-gallup-poll"
-        },
-        {
-            "title": "Investcorp AI Acquisition Corp. to Combine with Blue Finance Technology Holding Limited; Transaction to Create Irish Public Company Focused on Artificial Intelligence-Powered Digital Consumer Finance",
-            "description": "[THE MANILA TIMES] Proposed business combination structured to result in a new Irish public company listed on the Nasdaq Capital Market",
-            "url": "https://www.manilatimes.net/2026/04/14/tmt-newswire/globenewswire/investcorp-ai-acquisition-corp-to-combine-with-blue-finance-technology-holding-limited-transaction-to-create-irish-public-company-focused-on-artificial-intelligence-powered-digital-consumer-finance/2319390"
-        },
-        {
-            "title": "Man accused in Molotov cocktail attack of Sam Altman's home opposed AI, court documents say",
-            "description": "[NBC NEWS] The man accused of throwing a Molotov cocktail at OpenAI founder Sam Altman\u2019s home in San Francisco was opposed to artificial intelligence and had list of other AI tech executives, according to court...",
-            "url": "https://www.nbcnews.com/tech/tech-news/man-accused-molotov-cocktail-attack-sam-altmans-home-opposed-ai-court-rcna331610"
-        },
-        {
-            "title": "AI Boom Hits a Wall As Computing Power Runs Short And Costs Surge: Report",
-            "description": "[INTERNATIONAL BUSINESS TIMES] The artificial intelligence sector is facing mounting strain as explosive usage of advanced AI tools outpaces global computing capacity, forcing firms to limit access, raise prices and rethink",
-            "url": "https://www.ibtimes.com/ai-boom-hits-wall-computing-power-runs-short-costs-surge-report-3801180"
         }
     ]
 }
