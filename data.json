@@ -1,111 +1,130 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-04-14 12:13 UTC",
+    "updated": "2026-04-14 13:18:16 UTC",
     "news": [
         {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
-            "description": "The project was part of a package of tech investment promising the UK could become an AI superpower.",
-            "url": "https://www.bbc.com/news/articles/clyd032ej70o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4825/live/fa97e0f0-3433-11f1-a18c-d7e9f5df98a8.jpg",
-            "publishedAt": "2026-04-09T17:04:50Z",
-            "content": "Its project, dubbed Stargate UK, included a large data centre in Northumberland and making thousands of powerful chips for AI development available as part of a partnership with tech firms Nvidia and\u2026 [+7 chars]"
+            "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
+            "description": "[RESEARCH] Generative AI",
+            "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Blake Stimac",
-            "title": "3 Things From Nvidia GTC 2026 Keynote: NemoClaw, DLSS 5 and Vera CPU",
-            "description": "From AI gaming enhancements to easier ways to create AI agents, here's what Nvidia announced during the GTC keynote.",
-            "url": "https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/814978e664b35cd1d0f8c47895edbaf5a35cddea/hub/2026/03/16/764ad879-9ec9-428f-9e71-ec8e7072b6cb/img-3525.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2026-03-16T22:45:34Z",
-            "content": "Nvidia's GTC conference on Monday gave the world the latest from the AI chip behemoth, including a new AI-powered upscaling software for gaming and a new Vera CPU to supercharge the future of AI agen\u2026 [+2780 chars]"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019",
-            "description": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely-defined term that has incited a lot of discussion by tech CEOs, tech worke\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-23T19:42:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHe then seemed to slightly walk back the claim.\r\nHe then seemed to slightly walk back the claim.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to \u2026 [+2848 chars]"
+            "title": "Building better AI benchmarks: How many raters are enough?",
+            "description": "[RESEARCH] Algorithms & Theory",
+            "url": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "Why OpenAI killed Sora",
-            "description": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-27T21:47:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhy OpenAI killed Sora\r\nToo much compute, too much competition, and skeptical investors.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to your dai\u2026 [+10409 chars]"
+            "title": "Whole-Body Conditioned Egocentric Video Prediction",
+            "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
+            "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "Fear and loathing at OpenAI",
-            "description": "Sam Altman's tenure at OpenAI has been\u2026 messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep\u2026",
-            "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0410_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-10T12:23:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: what it takes to be in charge of AI, some vibe-coding and DIY work, and Brendan Carr.\r\nOn The Vergecast: what it takes to be in charge of AI, s\u2026 [+3366 chars]"
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "OpenAI shelves erotic chatbot \u2018indefinitely\u2019",
-            "description": "OpenAI \u200bhas paused plans to release a sexualized \"adult mode\" for ChatGPT, in its latest move to refocus on the company's core \u200bproducts. According to The Financial Times, the erotic chatbot has been shelved \"indefinitely\" after facing pushback from employees\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK464_PORN_ADULT_CONTENT_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-03-26T11:58:09Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMuch like Sora, OpenAI says its pausing plans for ChatGPTs adult mode to focus on core products.\r\nMuch like Sora, OpenAI says its pausing plans for ChatGPTs adul\u2026 [+2217 chars]"
+            "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
+            "description": "[RESEARCH] Generative AI",
+            "url": "https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Richard Lawler",
-            "title": "Arm\u2019s first CPU ever will plug into Meta\u2019s AI datacenters later this year",
-            "description": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for A\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/20260216_VISION25_ExplodedTight_Chip-01-16x9_16bit_v2-1200x675-1.jpg?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-            "publishedAt": "2026-03-24T20:43:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Arm AGI CPU can have up to 136 cores per CPU, claiming it has double the performance per watt of x86 chips.\r\nThe Arm AGI CPU can have up to 136 cores per CPU\u2026 [+3259 chars]"
+            "title": "Information-Driven Design of Imaging Systems",
+            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
+            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "OpenAI is planning a desktop \u2018superapp\u2019",
-            "description": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various produ\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462044/STK155_OPEN_AI_CVirginia_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-20T00:09:38Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company is working on merging ChatGPT, Codex, and the Atlas browser into one app.\r\nThe company is working on merging ChatGPT, Codex, and the Atlas browser in\u2026 [+2521 chars]"
+            "title": "RL without TD learning",
+            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
+            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Towards developing future-ready skills with generative AI",
+            "description": "[RESEARCH] Education Innovation",
+            "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
+            "title": "What exactly does word2vec learn?",
+            "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
+            "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "Identifying Interactions at Scale for LLMs",
+            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
+            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
+            "title": "Evaluating alignment of behavioral dispositions in LLMs",
+            "description": "[RESEARCH] Generative AI",
+            "url": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/"
+        },
+        {
+            "title": "Toyota Debuts Basketball Robot With AI Training",
+            "description": "[MARKETSCREENER] Toyota Motor unveiled its latest artificial intelligence-powered basketball robot, highlighting advances in motion control and machine learning, Nikkei reported Monday. The new model, CUE7,...",
+            "url": "https://www.marketscreener.com/news/toyota-debuts-basketball-robot-with-ai-training-ce7e50dede8cff21"
+        },
+        {
+            "title": "From Automation to Autonomy: SUPCON to showcase next-generation technologies empowering Autonomous Operating Plants at Hannover Messe 2026",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- SUPCON (688777.SH, SUPCON.SW) is a global leader in industrial automation and industrial artificial intelligence. Experience the future of...",
+            "url": "https://www.prnewswire.co.uk/news-releases/from-automation-to-autonomy-supcon-to-showcase-next-generation-technologies-empowering-autonomous-operating-plants-at-hannover-messe-2026-302740243.html"
+        },
+        {
+            "title": "Industries most exposed to AI are not only seeing productivity gains but jobs and wage growth too",
+            "description": "[THE CONVERSATION] Estimates of artificial intelligence\u2019s impact on jobs and the economy range from the apocalyptic to the utopian, but the data tells a more nuanced story.",
+            "url": "https://theconversation.com/industries-most-exposed-to-ai-are-not-only-seeing-productivity-gains-but-jobs-and-wage-growth-too-224487"
+        },
+        {
+            "title": "IIT-Kgp launches online programmes on AI, ML",
+            "description": "[TIMES OF INDIA] Kolkata: IIT Kharagpur has launched its first series of online executive certification programmes in artificial intelligence, machine learning and tec.",
+            "url": "https://timesofindia.indiatimes.com/city/kolkata/iit-kgp-launches-online-programmes-on-ai-ml/articleshow/130246616.cms"
+        },
+        {
+            "title": "49 MBBS graduates of AIIMS conferred degrees",
+            "description": "[TIMES OF INDIA] Rajkot: President Droupadi Murmu on Monday said that rapid advances in technologies such as artificial intelligence are transforming healthcare and em.",
+            "url": "https://timesofindia.indiatimes.com/city/rajkot/49-mbbs-graduates-of-aiims-conferred-degrees/articleshow/130246606.cms"
+        },
+        {
+            "title": "Bloom Energy to supply up to 2.8 GW of fuel cells under expanded Oracle deal",
+            "description": "[THE STAR] April 13 (Reuters) - Bloom \u2060Energy said on Monday it would supply \u2060Oracle with up to 2.8 gigawatts of \u200cfuel cell capacity under an expanded deal as rising artificial intelligence use drives up power...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/14/bloom-energy-to-supply-up-to-28-gw-of-fuel-cells-under-expanded-oracle-deal"
+        },
+        {
+            "title": "State Rep. John Waldron ends campaign for re-election",
+            "description": "[TULSA WORLD] The Tulsa Democrat was pressured by some colleagues to step aside after it was revealed that he had used artificial intelligence software to create inappropriate images of himself kissing a",
+            "url": "https://tulsaworld.com/news/state-regional/government-politics/article_49fe9edb-7496-45c9-876f-f31dd7665fd2.html"
+        },
+        {
+            "title": "LPU organizes Edu-Leaders Meet 2026, highlights academic innovation",
+            "description": "[DAILY EXCELSIOR] Excelsior Correspondent JAMMU, Apr 13: Through its Jammu chapter, Lovely Professional University (LPU) today organized the Edu-Leaders Meet 2026, creating a vibrant academic forum for dialogue,...",
+            "url": "https://www.dailyexcelsior.com/lpu-organizes-edu-leaders-meet-2026-highlights-academic-innovation/"
+        },
+        {
+            "title": "Sakeena reviews proposed AI initiatives for reforms in School Education, Health sectors",
+            "description": "[DAILY EXCELSIOR] Excelsior Correspondent JAMMU, Apr 13: Minister for Health and Medical Education, Social Welfare and Education, Sakeena Itoo, today chaired a high-level meeting to review the proposed Artificial...",
+            "url": "https://www.dailyexcelsior.com/sakeena-reviews-proposed-ai-initiatives-for-reforms-in-school-education-health-sectors/"
+        },
+        {
+            "title": "Detroit Engineered Products pivots from a services model",
+            "description": "[TIMES OF INDIA] Chennai: As artificial intelligence reshapes the engineering and product development landscape, Detroit Engineered Products (DEP), a provider of engin.",
+            "url": "https://timesofindia.indiatimes.com/city/chennai/detroit-engineered-products-pivots-from-a-services-model/articleshow/130246346.cms"
         }
     ]
 }
