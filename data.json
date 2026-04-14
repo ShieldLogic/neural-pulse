@@ -1,15 +1,15 @@
 {
-    "updated": "2026-04-14 13:18:16 UTC",
+    "updated": "2026-04-14 15:10:27 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
-        },
-        {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "Building better AI benchmarks: How many raters are enough?",
@@ -17,14 +17,19 @@
             "url": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/"
         },
         {
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -42,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -52,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -67,14 +72,44 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
-        },
-        {
             "title": "Evaluating alignment of behavioral dispositions in LLMs",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/"
+        },
+        {
+            "title": "Generative AI falls short in diagnostic reasoning despite accuracy",
+            "description": "[NEWS-MEDICAL.NET] Despite increasing use of artificial intelligence (AI) in health care, a new study led by Mass General Brigham researchers from the MESH Incubator shows that generative AI models continue to fall...",
+            "url": "https://www.news-medical.net/news/20260413/Generative-AI-falls-short-in-diagnostic-reasoning-despite-accuracy.aspx"
+        },
+        {
+            "title": "Iran threatens retaliation as US begins blockade of its ports",
+            "description": "[MALAYALA MANORAMA] Trump said Iran had been in touch on Monday and wanted to make a deal but that he would not sanction any agreement allowing Tehran to have a nuclear.US military blockade Iran ports, Iran Gulf...",
+            "url": "https://www.onmanorama.com/news/world/2026/04/14/us-iran-port-blockade.html"
+        },
+        {
+            "title": "Nissan to trim global car lineup, boost use of AI driving tech",
+            "description": "[MARKETSCREENER] Nissan Motor said on Tuesday it plans to streamline its global lineup to 45 models from 56 by exiting low-performing ones and seek to deploy its artificial intelligence driving technology across...",
+            "url": "https://www.marketscreener.com/news/nissan-to-trim-global-car-lineup-boost-use-of-ai-driving-tech-ce7e50dede8ef420"
+        },
+        {
+            "title": "Kerala swelters in extreme heat; dam levels dip, power consumption hits record high",
+            "description": "[MALAYALA MANORAMA] Estimates indicate that the monsoon will arrive in another 48 days..Kerala heatwave, extreme heat Kochi, heat index Kerala, South India weather, AI weather forecast, LLM climate analysis, summer heat...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/14/kerala-heat-alert.html"
+        },
+        {
+            "title": "Nissan to streamline global lineup to 45 models from 56",
+            "description": "[REUTERS] Nissan Motor said \u200bon Tuesday it plans \u200cto streamline its global lineup to 45 \u200bmodels from \u200b56 and seek to deploy \u2060its artificial \u200bintelligence driving technology across \u200b90% of its lineup over the...",
+            "url": "https://www.reuters.com/world/asia-pacific/nissan-streamline-global-lineup-45-models-56-2026-04-14/"
+        },
+        {
+            "title": "Nissan to streamline global lineup to 45 models from 56",
+            "description": "[MARKETSCREENER] Nissan Motor said on Tuesday it plans to streamline its global lineup to 45 models from 56 and seek to deploy its artificial intelligence driving technology across 90% of its lineup over the long...",
+            "url": "https://www.marketscreener.com/news/nissan-to-streamline-global-lineup-to-45-models-from-56-ce7e50dede8ff327"
+        },
+        {
+            "title": "OpenAI firebomber was trying to kill boss Sam Altman: prosecutors",
+            "description": "[THE ECONOMIC TIMES] A man who allegedly threw a Molotov cocktail at Sam Altman's luxury California home was trying to kill the boss of artificial intelligence giant OpenAI, US officials said Monday. Prosecutors say that...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-firebomber-was-trying-to-kill-boss-sam-altman-prosecutors/articleshow/130249300.cms"
         },
         {
             "title": "Toyota Debuts Basketball Robot With AI Training",
@@ -90,41 +125,6 @@
             "title": "Industries most exposed to AI are not only seeing productivity gains but jobs and wage growth too",
             "description": "[THE CONVERSATION] Estimates of artificial intelligence\u2019s impact on jobs and the economy range from the apocalyptic to the utopian, but the data tells a more nuanced story.",
             "url": "https://theconversation.com/industries-most-exposed-to-ai-are-not-only-seeing-productivity-gains-but-jobs-and-wage-growth-too-224487"
-        },
-        {
-            "title": "IIT-Kgp launches online programmes on AI, ML",
-            "description": "[TIMES OF INDIA] Kolkata: IIT Kharagpur has launched its first series of online executive certification programmes in artificial intelligence, machine learning and tec.",
-            "url": "https://timesofindia.indiatimes.com/city/kolkata/iit-kgp-launches-online-programmes-on-ai-ml/articleshow/130246616.cms"
-        },
-        {
-            "title": "49 MBBS graduates of AIIMS conferred degrees",
-            "description": "[TIMES OF INDIA] Rajkot: President Droupadi Murmu on Monday said that rapid advances in technologies such as artificial intelligence are transforming healthcare and em.",
-            "url": "https://timesofindia.indiatimes.com/city/rajkot/49-mbbs-graduates-of-aiims-conferred-degrees/articleshow/130246606.cms"
-        },
-        {
-            "title": "Bloom Energy to supply up to 2.8 GW of fuel cells under expanded Oracle deal",
-            "description": "[THE STAR] April 13 (Reuters) - Bloom \u2060Energy said on Monday it would supply \u2060Oracle with up to 2.8 gigawatts of \u200cfuel cell capacity under an expanded deal as rising artificial intelligence use drives up power...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/14/bloom-energy-to-supply-up-to-28-gw-of-fuel-cells-under-expanded-oracle-deal"
-        },
-        {
-            "title": "State Rep. John Waldron ends campaign for re-election",
-            "description": "[TULSA WORLD] The Tulsa Democrat was pressured by some colleagues to step aside after it was revealed that he had used artificial intelligence software to create inappropriate images of himself kissing a",
-            "url": "https://tulsaworld.com/news/state-regional/government-politics/article_49fe9edb-7496-45c9-876f-f31dd7665fd2.html"
-        },
-        {
-            "title": "LPU organizes Edu-Leaders Meet 2026, highlights academic innovation",
-            "description": "[DAILY EXCELSIOR] Excelsior Correspondent JAMMU, Apr 13: Through its Jammu chapter, Lovely Professional University (LPU) today organized the Edu-Leaders Meet 2026, creating a vibrant academic forum for dialogue,...",
-            "url": "https://www.dailyexcelsior.com/lpu-organizes-edu-leaders-meet-2026-highlights-academic-innovation/"
-        },
-        {
-            "title": "Sakeena reviews proposed AI initiatives for reforms in School Education, Health sectors",
-            "description": "[DAILY EXCELSIOR] Excelsior Correspondent JAMMU, Apr 13: Minister for Health and Medical Education, Social Welfare and Education, Sakeena Itoo, today chaired a high-level meeting to review the proposed Artificial...",
-            "url": "https://www.dailyexcelsior.com/sakeena-reviews-proposed-ai-initiatives-for-reforms-in-school-education-health-sectors/"
-        },
-        {
-            "title": "Detroit Engineered Products pivots from a services model",
-            "description": "[TIMES OF INDIA] Chennai: As artificial intelligence reshapes the engineering and product development landscape, Detroit Engineered Products (DEP), a provider of engin.",
-            "url": "https://timesofindia.indiatimes.com/city/chennai/detroit-engineered-products-pivots-from-a-services-model/articleshow/130246346.cms"
         }
     ]
 }
