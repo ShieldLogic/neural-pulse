@@ -1,130 +1,111 @@
 {
-    "updated": "2026-04-14 10:59:28 UTC",
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-04-14 12:13 UTC",
     "news": [
         {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
+            "description": "The project was part of a package of tech investment promising the UK could become an AI superpower.",
+            "url": "https://www.bbc.com/news/articles/clyd032ej70o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4825/live/fa97e0f0-3433-11f1-a18c-d7e9f5df98a8.jpg",
+            "publishedAt": "2026-04-09T17:04:50Z",
+            "content": "Its project, dubbed Stargate UK, included a large data centre in Northumberland and making thousands of powerful chips for AI development available as part of a partnership with tech firms Nvidia and\u2026 [+7 chars]"
         },
         {
-            "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
-            "description": "[RESEARCH] Generative AI",
-            "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Blake Stimac",
+            "title": "3 Things From Nvidia GTC 2026 Keynote: NemoClaw, DLSS 5 and Vera CPU",
+            "description": "From AI gaming enhancements to easier ways to create AI agents, here's what Nvidia announced during the GTC keynote.",
+            "url": "https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/814978e664b35cd1d0f8c47895edbaf5a35cddea/hub/2026/03/16/764ad879-9ec9-428f-9e71-ec8e7072b6cb/img-3525.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2026-03-16T22:45:34Z",
+            "content": "Nvidia's GTC conference on Monday gave the world the latest from the AI chip behemoth, including a new AI-powered upscaling software for gaming and a new Vera CPU to supercharge the future of AI agen\u2026 [+2780 chars]"
         },
         {
-            "title": "Building better AI benchmarks: How many raters are enough?",
-            "description": "[RESEARCH] Algorithms & Theory",
-            "url": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019",
+            "description": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely-defined term that has incited a lot of discussion by tech CEOs, tech worke\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-23T19:42:33Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nHe then seemed to slightly walk back the claim.\r\nHe then seemed to slightly walk back the claim.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to \u2026 [+2848 chars]"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "Why OpenAI killed Sora",
+            "description": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney \u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-27T21:47:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhy OpenAI killed Sora\r\nToo much compute, too much competition, and skeptical investors.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to your dai\u2026 [+10409 chars]"
         },
         {
-            "title": "Whole-Body Conditioned Egocentric Video Prediction",
-            "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
-            "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "Fear and loathing at OpenAI",
+            "description": "Sam Altman's tenure at OpenAI has been\u2026 messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep\u2026",
+            "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0410_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-10T12:23:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: what it takes to be in charge of AI, some vibe-coding and DIY work, and Brendan Carr.\r\nOn The Vergecast: what it takes to be in charge of AI, s\u2026 [+3366 chars]"
         },
         {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "OpenAI shelves erotic chatbot \u2018indefinitely\u2019",
+            "description": "OpenAI \u200bhas paused plans to release a sexualized \"adult mode\" for ChatGPT, in its latest move to refocus on the company's core \u200bproducts. According to The Financial Times, the erotic chatbot has been shelved \"indefinitely\" after facing pushback from employees\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK464_PORN_ADULT_CONTENT_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-03-26T11:58:09Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nMuch like Sora, OpenAI says its pausing plans for ChatGPTs adult mode to focus on core products.\r\nMuch like Sora, OpenAI says its pausing plans for ChatGPTs adul\u2026 [+2217 chars]"
         },
         {
-            "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
-            "description": "[RESEARCH] Generative AI",
-            "url": "https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Richard Lawler",
+            "title": "Arm\u2019s first CPU ever will plug into Meta\u2019s AI datacenters later this year",
+            "description": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for A\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/20260216_VISION25_ExplodedTight_Chip-01-16x9_16bit_v2-1200x675-1.jpg?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+            "publishedAt": "2026-03-24T20:43:14Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Arm AGI CPU can have up to 136 cores per CPU, claiming it has double the performance per watt of x86 chips.\r\nThe Arm AGI CPU can have up to 136 cores per CPU\u2026 [+3259 chars]"
         },
         {
-            "title": "Information-Driven Design of Imaging Systems",
-            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
-            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
-        },
-        {
-            "title": "RL without TD learning",
-            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
-            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
-        },
-        {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
-        },
-        {
-            "title": "Towards developing future-ready skills with generative AI",
-            "description": "[RESEARCH] Education Innovation",
-            "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
-        },
-        {
-            "title": "What exactly does word2vec learn?",
-            "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
-            "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
-        },
-        {
-            "title": "Identifying Interactions at Scale for LLMs",
-            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
-            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Evaluating alignment of behavioral dispositions in LLMs",
-            "description": "[RESEARCH] Generative AI",
-            "url": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/"
-        },
-        {
-            "title": "Detroit Engineered Products pivots from a services model",
-            "description": "[TIMES OF INDIA] Chennai: As artificial intelligence reshapes the engineering and product development landscape, Detroit Engineered Products (DEP), a provider of engin.",
-            "url": "https://timesofindia.indiatimes.com/city/chennai/detroit-engineered-products-pivots-from-a-services-model/articleshow/130246346.cms"
-        },
-        {
-            "title": "Canadian banks, regulators discussed Mythos AI, minister to meet with Anthropic",
-            "description": "[CHEK NEWS] Artificial Intelligence Minister Evan Solomon said he will meet with senior leadership from Anthropic this week in response to global concerns about the company\u2019s new AI model.",
-            "url": "https://cheknews.ca/canadian-banks-regulators-discussed-mythos-ai-minister-to-meet-with-anthropic-1318408/"
-        },
-        {
-            "title": "Man accused in Molotov cocktail attack of OpenAI CEO's home charged with attempted murder",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] San Francisco District Attorney Brooke Jenkins says that 20-year-old Daniel Moreno-Gama has been charged with attempting to kill the OpenAI CEO as well as a security guard at the residence when he...",
-            "url": "https://www.ajc.com/news/2026/04/man-accused-in-molotov-cocktail-attack-of-openai-ceos-home-charged-with-attempted-murder/"
-        },
-        {
-            "title": "GH Bank aims to elevate operations with digital upgrade",
-            "description": "[BANGKOK POST] Government Housing (GH) Bank, a state financial institution specialising in housing loans, is preparing to upgrade its operations through digital transformation and the adoption of generative...",
-            "url": "https://www.bangkokpost.com/business/general/3236630/gh-bank-aims-to-elevate-operations-with-digital-upgrade"
-        },
-        {
-            "title": "Pattern to Present at Life Science Innovation Northwest 2026",
-            "description": "[THE MANILA TIMES] REDMOND, Wash., April 13, 2026 (GLOBE NEWSWIRE) -- Pattern Computer\u00ae, Inc. ('Pattern\u201d or 'the Company\u201d), the global leader in Pattern Discovery, today announced that Pattern\u2019s Chair and CEO Mark...",
-            "url": "https://www.manilatimes.net/2026/04/14/tmt-newswire/globenewswire/pattern-to-present-at-life-science-innovation-northwest-2026/2319438"
-        },
-        {
-            "title": "Maniac who threw Molotov cocktail at Sam Altman\u2019s SF mega-mansion kept terrifying list of other AI execs: court docs",
-            "description": "[NEW YORK POST] The man arrested for throwing a Molotov cocktail at OpenAI chief Sam Altman's San Francisco mega-mansion had a disdain for artificial intelligence and drew up a...",
-            "url": "https://nypost.com/2026/04/13/us-news/maniac-who-threw-molotov-cocktail-at-sam-altmans-sf-mega-mansion-kept-terrifying-list-of-other-ai-execs-court-docs/"
-        },
-        {
-            "title": "Bloom Energy to supply up to 2.8 GW of fuel cells under expanded Oracle deal",
-            "description": "[MARKETSCREENER] Bloom Energy said on Monday it would supply Oracle with up to 2.8 gigawatts of fuel cell capacity under an expanded deal as rising artificial intelligence use drives up power consumption. ...",
-            "url": "https://www.marketscreener.com/news/bloom-energy-to-supply-up-to-2-8-gw-of-fuel-cells-under-expanded-oracle-deal-ce7e50dedf8ef325"
-        },
-        {
-            "title": "Tech Advances on AI Optimism - Tech Roundup",
-            "description": "[MARKETSCREENER] Shares of technology companies rose on optimism about the artificial-intelligence boom. Shares of cloud-computing firm CoreWeave added to recent gains related to a wave of AI deals. Sandisk...",
-            "url": "https://www.marketscreener.com/news/tech-advances-on-ai-optimism-tech-roundup-ce7e50dedf8cf225"
-        },
-        {
-            "title": "Canadian banks, regulators discussed Mythos AI, minister to meet with Anthropic",
-            "description": "[BAYTODAY] OTTAWA \u2014 Artificial Intelligence Minister Evan Solomon says he will be meeting with senior leadership from Anthropic on Tuesday in response to global concerns about the company\u2019s new AI model.",
-            "url": "https://www.baytoday.ca/national-news/canadian-banks-regulators-discussed-mythos-ai-minister-to-meet-with-anthropic-12137037"
-        },
-        {
-            "title": "Canadian banks, regulators discussed Mythos AI, minister to meet with Anthropic",
-            "description": "[SOOTODAY] OTTAWA \u2014 Artificial Intelligence Minister Evan Solomon says he will be meeting with senior leadership from Anthropic on Tuesday in response to global concerns about the company\u2019s new AI model.",
-            "url": "https://www.sootoday.com/national-news/canadian-banks-regulators-discussed-mythos-ai-minister-to-meet-with-anthropic-12137037"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "OpenAI is planning a desktop \u2018superapp\u2019",
+            "description": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various produ\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462044/STK155_OPEN_AI_CVirginia_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-03-20T00:09:38Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company is working on merging ChatGPT, Codex, and the Atlas browser into one app.\r\nThe company is working on merging ChatGPT, Codex, and the Atlas browser in\u2026 [+2521 chars]"
         }
     ]
 }
