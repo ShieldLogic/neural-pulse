@@ -1,15 +1,15 @@
 {
-    "updated": "2026-04-15 16:58:59 UTC",
+    "updated": "2026-04-15 19:10:51 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
-        },
-        {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "Building better AI benchmarks: How many raters are enough?",
@@ -17,14 +17,19 @@
             "url": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/"
         },
         {
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -42,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -52,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -67,64 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
-        },
-        {
             "title": "Evaluating alignment of behavioral dispositions in LLMs",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/"
         },
         {
-            "title": "Nvidia\u2019s New AI models spark rally in quantum computing stocks",
-            "description": "[THE HINDU BUSINESS LINE] Nvidia\u2019s new Ising artificial intelligence model, which launched late Tuesday in Asia, has renewed expectations that AI can improve quantum computing and make it scalable and more useful",
-            "url": "https://www.thehindubusinessline.com/info-tech/nvidias-new-ai-models-spark-rally-in-quantum-computing-stocks/article70863803.ece"
+            "title": "Google brings Gemini personal intelligence to India, here is everything you can do with it",
+            "description": "[INDIA TODAY] Google\u2019s artificial intelligence platform has rolled out its Personal Intelligence in India. The feature was previously introduced in the US and Japan. It allows users to connect multiple apps to...",
+            "url": "https://www.indiatoday.in/technology/news/story/google-brings-gemini-personal-intelligence-to-india-here-is-everything-you-can-do-with-it-2896479-2026-04-15"
         },
         {
-            "title": "Why many Americans are turning to AI for health advice, according to recent polls",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Many Americans are turning to artificial intelligence tools such as ChatGPT for health advice. A Gallup poll out Wednesday found that about 1 in 4 U.S. adults had used AI for health information in...",
-            "url": "https://www.ajc.com/news/2026/04/why-many-americans-are-turning-to-ai-for-health-advice-according-to-recent-polls/"
+            "title": "Northwest Christians react after Trump attacks Pope Leo and posts imag...",
+            "description": "[LEWISTON MORNING TRIBUNE] The image, seemingly created with artificial intelligence in the style of common religious imagery of Jesus, shows Trump in a white robe and red shawl",
+            "url": "https://www.lmtribune.com/northwest/northwest-christians-react-after-trump-attacks-pope-leo-and-posts-image-appearing-to-show-himself-as-jesus-7ac72490"
         },
         {
-            "title": "Kerala dental student's suicide: New audio clip suggests Nithin suspected dismissal over dispute with Dr Ram",
-            "description": "[MALAYALA MANORAMA] Nithin's family is moving ahead with plans to file a fresh complaint against the principal, Dr Vinod Mony, and Dr Latha Sasidharan.Kannur Dental College student, Nithin Raj death, Dr Ram allegations,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/15/kannur-dental-college-student-death-new-audio-clip.html"
+            "title": "ASML lifts 2026 forecast on surging AI demand",
+            "description": "[RTE.IE] ASML, the world's largest supplier of chipmaking equipment, has today reported stronger-than-expected first\u2011quarter earnings and lifted its 2026 revenue outlook, as artificial intelligence boosts...",
+            "url": "https://www.rte.ie/news/business/2026/0415/1568288-asml-lifts-2026-forecast/"
         },
         {
-            "title": "Polls show why many Americans are turning to AI for health advice",
-            "description": "[THE ASSOCIATED PRESS] Many Americans are turning to artificial intelligence tools such as ChatGPT for health advice. A Gallup poll out Wednesday found that about 1 in 4 U.S. adults had used AI for health information in...",
-            "url": "https://apnews.com/article/ai-chatbots-health-care-poll-0ea249aa0db3fa351efa2a76af3a2348"
+            "title": "Military College Of Telecommunication Engineering Wins Army Digitisation Excellence Award",
+            "description": "[FREE PRESS JOURNAL] Officials said the initiative aims to build a comprehensive and reliable database to support artificial intelligence-driven decision-making systems. Such advancements are expected to improve...",
+            "url": "https://www.freepressjournal.in/bhopal/military-college-of-telecommunication-engineering-wins-army-digitisation-excellence-award"
         },
         {
-            "title": "Why many Americans are turning to AI for health advice, according to recent polls",
-            "description": "[WDIV CLICKONDETROIT] Many Americans are turning to artificial intelligence tools such as ChatGPT for health advice.",
-            "url": "https://www.clickondetroit.com/business/2026/04/15/why-many-americans-are-turning-to-ai-for-health-advice-according-to-recent-polls/"
+            "title": "Can AI replace anime animators? The future of studios like Studio Ghibli and MAPPA",
+            "description": "[INDIATIMES] Can AI replace anime animators? Explore how artificial intelligence is transforming the industry and what it means for studios like Studio Ghibli and MAPPA.",
+            "url": "https://www.indiatimes.com/entertainment/can-ai-replace-anime-animators-the-future-of-studios-like-studio-ghibli-and-mappa/articleshow/130273298.html"
         },
         {
-            "title": "After the Spy Girl controversy, where does publishing\u2019s AI problem leave authors and readers?",
-            "description": "[THE IRISH TIMES] Publishers risk unwittingly putting out books generated with artificial-intelligence tools. Authors and readers are frustrated, nervous and grasping for solutions",
-            "url": "https://www.irishtimes.com/culture/books/2026/04/15/after-the-spy-girl-controversy-where-does-publishings-ai-problem-leave-authors-and-readers/"
+            "title": "ASML's AI-Driven Surge: A Promising Revenue Outlook for 2026",
+            "description": "[DEVDISCOURSE] ASML, a leading supplier of chipmaking equipment, reported better-than-expected earnings and raised its 2026 revenue forecast. The surge in artificial intelligence demand is driving higher sales...",
+            "url": "https://www.devdiscourse.com/article/technology/3874367-asmls-ai-driven-surge-a-promising-revenue-outlook-for-2026"
         },
         {
-            "title": "After the Shy Girl controversy, where does publishing\u2019s AI problem leave authors and readers?",
-            "description": "[THE IRISH TIMES] Publishers risk unwittingly putting out books generated with artificial-intelligence tools. Authors and readers are frustrated, nervous and grasping for solutions",
-            "url": "https://www.irishtimes.com/culture/books/2026/04/15/after-the-shy-girl-controversy-where-does-publishings-ai-problem-leave-authors-and-readers/"
+            "title": "California leaders push energy grid upgrades as AI drives power demand",
+            "description": "[CBS NEWS] Frustration over rising power bills is a common complaint in California, and the state is bracing for increases in power consumption as the use of artificial intelligence grows.",
+            "url": "https://www.cbsnews.com/sacramento/news/california-leaders-push-energy-grid-upgrades-ai-demand/"
         },
         {
-            "title": "I was overspending by \u00a3500 a month. This is how a new app helped me budget",
-            "description": "[THE I PAPER] I used artificial intelligence to help me with my finances and this is what I learnt",
-            "url": "https://inews.co.uk/inews-lifestyle/money/overspending-month-app-next-4340412"
+            "title": "Natural Ozempic, No Side Effects: Stanford Scientists Discover Peptide That Can Rival The GLP-1 Drug",
+            "description": "[NDTV.COM] One of the most fascinating aspects of this discovery is the role of artificial intelligence. Researchers developed a tool called \"Peptide Predictor\" to scan all human protein-coding genes.",
+            "url": "https://www.ndtv.com/health/natural-ozempic-no-side-effects-stanford-scientists-discover-peptide-that-can-rival-the-glp-1-drug-11357212"
         },
         {
-            "title": "Apple cracks down on low-quality AI-generated apps",
-            "description": "[BANGKOK POST] Apple has launched a major crackdown on the App Store, targeting a surge of low-quality applications created through \"Vibe Coding\"\u2014a practice where developers rely almost exclusively on artificial...",
-            "url": "https://www.bangkokpost.com/life/tech/3237218/apple-cracks-down-on-lowquality-aigenerated-apps"
+            "title": "Turn Your Vacant M.2 Slot Into a 20B LLM Cruncher With This Dedicated AI Module: Packing 32 GB Memory & 60 TOPs",
+            "description": "[WCCFTECH] Unigen's latest AI module runs on a standard M.2 slot and offers up to 60 TOPS, 32 GB memory, & can run up to 20B parameter LLMs.",
+            "url": "https://wccftech.com/turn-your-vacant-m-2-slot-into-a-20b-llm-cruncher-with-dedicated-ai-module/"
         },
         {
-            "title": "Wipro shares rise after $71 million deal; eyes growth in AI services",
-            "description": "[CNBC TV18] The acquisition will provide Wipro access to key clients, associated customer contracts, and a skilled workforce. It is expected to strengthen Wipro's artificial intelligence powered and consulting...",
-            "url": "https://www.cnbctv18.com/market/wipro-share-price-rises-after-usd-71-million-deal-eyes-growth-in-artificial-intelligence-ai-services-ws-l-19886744.htm"
+            "title": "SoftBank lenders ask more banks to join $40 billion OpenAI loan",
+            "description": "[THE JAPAN TIMES ] The move forms one of the biggest tests yet of creditor sentiment toward the Japanese conglomerate's debt-fueled push further into artificial intelligence.",
+            "url": "https://www.japantimes.co.jp/business/2026/04/15/companies/softbank-lenders-openai-loan/"
         }
     ]
 }
