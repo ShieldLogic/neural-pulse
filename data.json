@@ -1,15 +1,15 @@
 {
-    "updated": "2026-04-15 15:03:24 UTC",
+    "updated": "2026-04-15 16:58:59 UTC",
     "news": [
-        {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
+        },
+        {
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "Building better AI benchmarks: How many raters are enough?",
@@ -17,19 +17,14 @@
             "url": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -47,9 +42,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +52,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,59 +67,64 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
             "title": "Evaluating alignment of behavioral dispositions in LLMs",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/"
         },
         {
-            "title": "US-Iran talks likely to resume; Trump\u2019s \u2018grand bargain\u2019 held back by mistrust, says Vance",
-            "description": "[MALAYALA MANORAMA] 'You are not going to solve that problem overnight,' Vance said..Iran war talks, US Iran negotiations, Pakistan Iran peace talks, Donald Trump Iran, AI diplomacy Iran, LLM conflict resolution, Iran...",
-            "url": "https://www.onmanorama.com/news/world/2026/04/15/iran-war-talks-pakistan.html"
+            "title": "Nvidia\u2019s New AI models spark rally in quantum computing stocks",
+            "description": "[THE HINDU BUSINESS LINE] Nvidia\u2019s new Ising artificial intelligence model, which launched late Tuesday in Asia, has renewed expectations that AI can improve quantum computing and make it scalable and more useful",
+            "url": "https://www.thehindubusinessline.com/info-tech/nvidias-new-ai-models-spark-rally-in-quantum-computing-stocks/article70863803.ece"
         },
         {
-            "title": "Australia's $71 billion pension fund snaps up global stocks in Iran war rout",
-            "description": "[MARKETSCREENER] Australia's A$100 billion pension fund HESTA has been buying bruised global equities, notably technology and artificial intelligence names, capitalising on market dislocations triggered by the Iran...",
-            "url": "https://www.marketscreener.com/news/australia-s-71-billion-pension-fund-snaps-up-global-stocks-in-iran-war-rout-ce7e50dfd081ff2d"
+            "title": "Why many Americans are turning to AI for health advice, according to recent polls",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Many Americans are turning to artificial intelligence tools such as ChatGPT for health advice. A Gallup poll out Wednesday found that about 1 in 4 U.S. adults had used AI for health information in...",
+            "url": "https://www.ajc.com/news/2026/04/why-many-americans-are-turning-to-ai-for-health-advice-according-to-recent-polls/"
         },
         {
-            "title": "Vishu dawn breaks with hope & prosperity; devotees gather at Sabarimala for 'Vishu Kani'",
-            "description": "[MALAYALA MANORAMA] The temple had been closed the previous night after preparing the Vishu Kani arrangements..Vishu Kani Sabarimala, Sabarimala Vishu Kani darshan, Malayalam New Year rituals, Lord Ayyappa Vishu Kani,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/15/sabarimala-vishu-kani.html"
+            "title": "Kerala dental student's suicide: New audio clip suggests Nithin suspected dismissal over dispute with Dr Ram",
+            "description": "[MALAYALA MANORAMA] Nithin's family is moving ahead with plans to file a fresh complaint against the principal, Dr Vinod Mony, and Dr Latha Sasidharan.Kannur Dental College student, Nithin Raj death, Dr Ram allegations,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/15/kannur-dental-college-student-death-new-audio-clip.html"
         },
         {
-            "title": "Happy Vishu: Kani vellari, aka golden cucumber, is a nutrition superstar",
-            "description": "[MALAYALA MANORAMA] The golden cucumber is also known as Mangalore melon, culinary melon, and golden melon..kani vellari, yellow cucumber, vishu kani, golden cucumber benefits, mangalore melon recipe, LLM vishu kani...",
-            "url": "https://www.onmanorama.com/health/nutrition/2026/04/13/vishu-kani-vellari-nutrition.html"
+            "title": "Polls show why many Americans are turning to AI for health advice",
+            "description": "[THE ASSOCIATED PRESS] Many Americans are turning to artificial intelligence tools such as ChatGPT for health advice. A Gallup poll out Wednesday found that about 1 in 4 U.S. adults had used AI for health information in...",
+            "url": "https://apnews.com/article/ai-chatbots-health-care-poll-0ea249aa0db3fa351efa2a76af3a2348"
         },
         {
-            "title": "After poll spat, Revanth Reddy writes to Pinarayi flagging Centre\u2019s delimitation proposal",
-            "description": "[MALAYALA MANORAMA] Leaders of non-BJP-ruled states have voiced strong opposition to the proposed bill, warning that it could disproportionately enhance the political.women's reservation bill, delimitation 2026,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/15/womens-reservation-bill-debate-pinarayi-revanth-reddy.html"
+            "title": "Why many Americans are turning to AI for health advice, according to recent polls",
+            "description": "[WDIV CLICKONDETROIT] Many Americans are turning to artificial intelligence tools such as ChatGPT for health advice.",
+            "url": "https://www.clickondetroit.com/business/2026/04/15/why-many-americans-are-turning-to-ai-for-health-advice-according-to-recent-polls/"
         },
         {
-            "title": "KKR to Invest in $820 Million in Samsung SDS",
-            "description": "[MARKETSCREENER] By Megan Cheah KKR will invest $820 million to take a minority stake in Samsung SDS to boost the South Korean company's growth into a full-stack artificial-intelligence solutions provider. ...",
-            "url": "https://www.marketscreener.com/news/kkr-to-invest-in-820-million-in-samsung-sds-ce7e50dfd08ff426"
+            "title": "After the Spy Girl controversy, where does publishing\u2019s AI problem leave authors and readers?",
+            "description": "[THE IRISH TIMES] Publishers risk unwittingly putting out books generated with artificial-intelligence tools. Authors and readers are frustrated, nervous and grasping for solutions",
+            "url": "https://www.irishtimes.com/culture/books/2026/04/15/after-the-spy-girl-controversy-where-does-publishings-ai-problem-leave-authors-and-readers/"
         },
         {
-            "title": "Power equipment startup Ayr Energy in talks to raise $25",
-            "description": "[THE ECONOMIC TIMES] US-based Ayr Energy is in talks to raise $25\u201330 million from Energy Impact Partners, which could value the startup at around $200 million. Founded by former Zetwerk and Ather Energy executive Anirudh...",
-            "url": "https://economictimes.indiatimes.com/tech/funding/power-equipment-startup-ayr-energy-in-talks-to-raise-25-30-million-sources/articleshow/130266665.cms"
+            "title": "After the Shy Girl controversy, where does publishing\u2019s AI problem leave authors and readers?",
+            "description": "[THE IRISH TIMES] Publishers risk unwittingly putting out books generated with artificial-intelligence tools. Authors and readers are frustrated, nervous and grasping for solutions",
+            "url": "https://www.irishtimes.com/culture/books/2026/04/15/after-the-shy-girl-controversy-where-does-publishings-ai-problem-leave-authors-and-readers/"
         },
         {
-            "title": "Meta extends custom chips deal with Broadcom to power AI ambitions",
-            "description": "[THE STAR] April 14 (Reuters) - Meta will work \u2060with chip designer Broadcom to produce several generations of custom artificial intelligence \u2060processors under an expanded deal as the social media giant races...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/15/meta-extends-custom-chips-deal-with-broadcom-to-power-ai-ambitions"
+            "title": "I was overspending by \u00a3500 a month. This is how a new app helped me budget",
+            "description": "[THE I PAPER] I used artificial intelligence to help me with my finances and this is what I learnt",
+            "url": "https://inews.co.uk/inews-lifestyle/money/overspending-month-app-next-4340412"
         },
         {
-            "title": "How big data trends power the next generation of AI models",
-            "description": "[ITWIRE] GUEST OPINION: What if the secret to building a perfect artificial intelligence was not found in the algorithms but in the garbage we leave behind? Fo...",
-            "url": "https://itwire.com/guest-articles/guest-opinion/how-big-data-trends-power-the-next-generation-of-ai-models.html"
+            "title": "Apple cracks down on low-quality AI-generated apps",
+            "description": "[BANGKOK POST] Apple has launched a major crackdown on the App Store, targeting a surge of low-quality applications created through \"Vibe Coding\"\u2014a practice where developers rely almost exclusively on artificial...",
+            "url": "https://www.bangkokpost.com/life/tech/3237218/apple-cracks-down-on-lowquality-aigenerated-apps"
         },
         {
-            "title": "Dr Jitendra for strong clinical foundation in Medical Education, notwithstanding AI",
-            "description": "[DAILY EXCELSIOR] Excelsior Correspondent NEW DELHI, Apr 14 : Union Minister Dr Jitendra Singh, who is also a noted Professor of Medicine & Diabetes, today called for strong clinical foundation in medical education,...",
-            "url": "https://www.dailyexcelsior.com/dr-jitendra-for-strong-clinical-foundation-in-medical-education-notwithstanding-ai-2/"
+            "title": "Wipro shares rise after $71 million deal; eyes growth in AI services",
+            "description": "[CNBC TV18] The acquisition will provide Wipro access to key clients, associated customer contracts, and a skilled workforce. It is expected to strengthen Wipro's artificial intelligence powered and consulting...",
+            "url": "https://www.cnbctv18.com/market/wipro-share-price-rises-after-usd-71-million-deal-eyes-growth-in-artificial-intelligence-ai-services-ws-l-19886744.htm"
         }
     ]
 }
