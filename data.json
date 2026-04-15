@@ -1,15 +1,15 @@
 {
-    "updated": "2026-04-15 09:15:03 UTC",
+    "updated": "2026-04-15 10:55:54 UTC",
     "news": [
-        {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
+        },
+        {
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "Building better AI benchmarks: How many raters are enough?",
@@ -17,19 +17,14 @@
             "url": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -47,9 +42,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +52,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,9 +67,44 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
             "title": "Evaluating alignment of behavioral dispositions in LLMs",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/"
+        },
+        {
+            "title": "Why many Americans are turning to AI for health advice, according to recent polls",
+            "description": "[BREITBART NEWS NETWORK] Many Americans are turning to artificial intelligence tools such as ChatGPT for health advice Why many Americans are turning to AI for health advice,",
+            "url": "https://www.breitbart.com/news/why-many-americans-are-turning-to-ai-for-health-advice-according-to-recent-polls/"
+        },
+        {
+            "title": "Meta Platforms (META) Partners with Broadcom on Custom AI Microchips",
+            "description": "[MARKETS INSIDER] Meta Platforms (META) is partnering with Broadcom (AVGO) on the design of custom artificial intelligence (AI) processors and accelerators. Claim...",
+            "url": "https://markets.businessinsider.com/news/stocks/meta-platforms-meta-partners-with-broadcom-on-custom-ai-microchips-1036022497"
+        },
+        {
+            "title": "Broadcom, Meta Expand Partnership to Support Meta's AI Compute Infrastructure",
+            "description": "[MARKETSCREENER] Broadcom and Meta Platforms said late Tuesday they have entered into a multi-year, multi-generation strategic partnership to support Meta's rapidly scaling artificial intelligence compute...",
+            "url": "https://www.marketscreener.com/news/broadcom-meta-expand-partnership-to-support-meta-s-ai-compute-infrastructure-ce7e50dfd18ef02c"
+        },
+        {
+            "title": "Meta commits to one gigawatt of custom chips with Broadcom as Hock Tan agrees to leave board",
+            "description": "[NEWSBREAK] Meta Platforms said it agreed to deploy one gigawatt of custom artificial intelligence chips using Broadcom technology as part of a multi-gigawatt deal. Me",
+            "url": "https://www.newsbreak.com/news/4592112763519-meta-commits-to-one-gigawatt-of-custom-chips-with-broadcom-as-hock-tan-agrees-to-leave-board"
+        },
+        {
+            "title": "Meta extends custom chips deal with Broadcom to power AI ambitions",
+            "description": "[REUTERS] Meta will work with chip designer Broadcom to produce several generations of custom artificial intelligence \u200bprocessors under an expanded deal as the social media giant races \u200cto build out the...",
+            "url": "https://www.reuters.com/business/meta-inks-deal-with-broadcom-custom-ai-chips-2026-04-14/"
+        },
+        {
+            "title": "Broadcom Announces Extended Partnership with Meta to Deploy Technology to Support Multi-Gigawatts of Meta\u2019s Custom Silicon, MTIA",
+            "description": "[THE MANILA TIMES] Meta is partnering with Broadcom to rollout industry\u2019s first 2nm AI compute accelerator; foundation for sustained multi-year infrastructure rollout.Over the next three years, the companies are...",
+            "url": "https://www.manilatimes.net/2026/04/15/tmt-newswire/globenewswire/broadcom-announces-extended-partnership-with-meta-to-deploy-technology-to-support-multi-gigawatts-of-metas-custom-silicon-mtia/2320496"
         },
         {
             "title": "AI chatbots give misleading medical advice 50% of the time, study finds",
@@ -95,36 +125,6 @@
             "title": "Descartes Systems Group Expands Artificial Intelligence Capabilities with Fleet Data Intelligence Platform",
             "description": "[MARKETSCREENER] Descartes Systems Group announced expanded artificial intelligence capabilities on its Global Logistics Network with the introduction of the Descartes Fleet Data Intelligence platform. Built on the...",
             "url": "https://www.marketscreener.com/news/descartes-systems-group-expands-artificial-intelligence-capabilities-with-fleet-data-intelligence-pl-ce7e50dfd18bfe23"
-        },
-        {
-            "title": "Geminus Ai, Bapco Energies, and Slb Deploy Physics-Native Ai to Optimize Bahrain's Energy Infrastructure",
-            "description": "[MARKETSCREENER] Geminus AI had announced a strategic partnership with Bapco Energies and SLB to deploy physics-native artificial intelligence for real-time, system-wide optimization of Bahrain's upstream...",
-            "url": "https://www.marketscreener.com/news/geminus-ai-bapco-energies-and-slb-deploy-physics-native-ai-to-optimize-bahrain-s-energy-infrastruc-ce7e50dfd18bf123"
-        },
-        {
-            "title": "Hegseth-Affiliated Pastor Rebukes Trump Over AI Jesus Image",
-            "description": "[NEWSMAX] Calling the post blasphemy, Pastor Doug Wilson is criticizing President Donald Trump over a now-deleted artificial intelligence-generated image that depicted the president in imagery resembling Jesus...",
-            "url": "https://www.newsmax.com/us/pastor-doug-williams-trump-jesus/2026/04/14/id/1252912/"
-        },
-        {
-            "title": "Microsoft Expands AI Capacity Deal With Nscale at Narvik Campus",
-            "description": "[MARKETSCREENER] Microsoft has expanded its agreement with Nscale to increase artificial intelligence compute capacity at a data center campus in Narvik, Norway, Nscale said Tuesday. Under the deal, the...",
-            "url": "https://www.marketscreener.com/news/microsoft-expands-ai-capacity-deal-with-nscale-at-narvik-campus-ce7e50dfde8ef02d"
-        },
-        {
-            "title": "Could artificial intelligence help with your taxes?",
-            "description": "[NBC 5 CHICAGO] \u201cYou can use AI for doing your taxes, but we have to be aware that AI makes mistakes,\u201d said artificial intelligence expert Jon Hernandez.",
-            "url": "https://www.nbcchicago.com/news/tech/could-artificial-intelligence-help-with-your-taxes-experts-say-you-need-to-be-cautious/3922792/"
-        },
-        {
-            "title": "Could artificial intelligence help with your taxes?",
-            "description": "[NBC10 BOSTON] \u201cYou can use AI for doing your taxes, but we have to be aware that AI makes mistakes,\u201d said artificial intelligence expert Jon Hernandez.",
-            "url": "https://www.nbcboston.com/news/tech/could-artificial-intelligence-help-with-your-taxes-experts-say-you-need-to-be-cautious/3933680/"
-        },
-        {
-            "title": "AI Stocks: Why These Companies Are Leading Or Lagging In 2026",
-            "description": "[INVESTOR'S BUSINESS DAILY] Leaders and laggards in artificial intelligence stocks keep evolving. More volatility for AI stocks could be coming with Q1 earnings due.",
-            "url": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-2026-leaders-laggards-april13/"
         }
     ]
 }
