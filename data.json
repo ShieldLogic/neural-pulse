@@ -1,15 +1,15 @@
 {
-    "updated": "2026-04-16 05:59:02 UTC",
+    "updated": "2026-04-16 07:58:29 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
-        },
-        {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "Building better AI benchmarks: How many raters are enough?",
@@ -17,14 +17,19 @@
             "url": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/"
         },
         {
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -42,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -52,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -67,64 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
-        },
-        {
             "title": "Evaluating alignment of behavioral dispositions in LLMs",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/"
         },
         {
-            "title": "Snap to cut 1,000 jobs after activist pressure, bets on AI efficiency",
-            "description": "[HINDUSTAN TIMES] Snap said advances in artificial intelligence are helping it streamline operations and operate with smaller teams, with AI generating more than 65% of new code. | World News",
-            "url": "https://www.hindustantimes.com/world-news/snap-to-cut-1-000-jobs-after-activist-pressure-bets-on-ai-efficiency-101776268743120.html"
+            "title": "ECB to quiz bankers about risks of Anthropic's new AI model, source says",
+            "description": "[MARKETSCREENER] European Central Bank supervisors are set to quiz bankers about the risks that Anthropic's new artificial intelligence model might supercharge cyberattacks, one source familiar with the situation...",
+            "url": "https://www.marketscreener.com/news/ecb-to-quiz-bankers-about-risks-of-anthropic-s-new-ai-model-source-says-ce7e50dcde81f220"
         },
         {
-            "title": "SoftBank Raises $3.6 Billion While AI Push Raises Debt Costs",
-            "description": "[BLOOMBERG] SoftBank Group Corp. sold about $3.6 billion of junk bonds Wednesday, as aggressive investments in artificial intelligence by the Japanese conglomerate has helped fuel a surge in the firm\u2019s funding...",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-15/softbank-raises-3-6-billion-while-ai-push-raises-debt-costs"
+            "title": "Allbirds secures $50M to transform into AI infrastructure leader",
+            "description": "[THE ASSOCIATED PRESS] Allbirds, the eco-friendly shoe brand that was once a Wall Street darling and found its way onto the feet of tech CEOs and movie stars, is pivoting to artificial intelligence.",
+            "url": "https://apnews.com/article/allbirds-ai-finance-artificial-intelligence-wall-street-shoes-93a0d2991eba455676d64c6935a56531"
         },
         {
-            "title": "After meeting Princess Anne, AI expert issues stark warning",
-            "description": "[THE NEWS INTERNATIONAL] Princess Anne on Wednesday awarded an OBE to Professor Yoshua Bengio, a leading artificial intelligence expert. According to GB News, after receiving the honor Yoshua Bengio, a University of...",
-            "url": "https://www.thenews.com.pk/latest/1399094-after-meeting-princess-anne-ai-expert-issues-stark-warning"
+            "title": "Allbirds, a former Wall Street darling fallen on hard times, looks to AI for its future",
+            "description": "[BARCHART] Allbirds, the eco-friendly shoe brand that was once a Wall Street darling and found its way onto the feet of tech CEOs and movie stars, is pivoting to artificial intelligence",
+            "url": "https://www.barchart.com/story/news/1327781/allbirds-a-former-wall-street-darling-fallen-on-hard-times-looks-to-ai-for-its-future"
         },
         {
-            "title": "Grok faced potential removal from the App Store",
-            "description": "[SOCIAL MEDIA TODAY] A new report from NBC said Apple privately threatened to take the artificial intelligence app off its platform in January due to deepfake nudification concerns.",
-            "url": "https://www.socialmediatoday.com/news/grok-faced-potential-removal-from-the-app-store/817636/"
+            "title": "Allbirds, a former Wall Street darling fallen on hard times, looks to AI for its future",
+            "description": "[WDIV CLICKONDETROIT] Allbirds, the eco-friendly shoe brand that was once a Wall Street darling and found its way onto the feet of tech CEOs and movie stars, is pivoting to artificial intelligence.",
+            "url": "https://www.clickondetroit.com/business/2026/04/15/allbirds-a-former-wall-street-darling-fallen-on-hard-times-looks-to-ai-for-its-future/"
         },
         {
-            "title": "Enabled Drone Development Compared to Russia, China \u2013 NaturalNews.com",
-            "description": "[NATURAL NEWS] Introduction The United States has fallen behind Russia and China in the development of next-generation, artificial intelligence (AI)-powered combat drones, according to a New York Times (NYT) report...",
-            "url": "https://www.naturalnews.com/2026-04-15-us-officials-report-lag-ai-drone-development.html"
+            "title": "Vaishali wins Candidates to emerge challenger for World Champion Ju Wenjun",
+            "description": "[MALAYALA MANORAMA] India's D Gukesh and R Vaishali will be involved in the World Chess Championship matches in the Open and Women's categories respectively later this.chess world championship, R Vaishali chess, D...",
+            "url": "https://www.onmanorama.com/sports/other-sports/2026/04/16/candidates-chess-tournament-women-final-round-r-vaishali-champion.html"
         },
         {
-            "title": "AI chatbot conversations can be used against people in court, lawyers warn after federal ruling",
-            "description": "[NEW YORK POST] As people increasingly turn to artificial intelligence for advice, some U.S. lawyers are telling their clients not to treat AI chatbots like trusted confidants when their freedom or legal liability...",
-            "url": "https://nypost.com/2026/04/15/tech/ai-chatbot-conversations-can-be-used-against-people-in-court-lawyers-warn-after-federal-ruling/"
+            "title": "Allbirds, a Former Wall Street Darling Fallen on Hard Times, Looks to AI for Its Future",
+            "description": "[U.S. NEWS & WORLD REPORT] NEW YORK (AP) \u2014 Allbirds, the eco-friendly shoe brand that found its way onto the feet of tech CEOs and movie stars before falling on hard times, is pivoting to artificial intelligence.",
+            "url": "https://www.usnews.com/news/business/articles/2026-04-15/allbirds-a-former-wall-street-darling-fallen-on-hard-times-looks-to-ai-for-its-future"
         },
         {
-            "title": "Sudhakaran heaps praise on KC Venugopal as Congress struggles to avoid CM face debate",
-            "description": "[MALAYALA MANORAMA] Sudhakaran's remarks came in a Facebook post, accompanied by a photograph with Venugopal, and were widely seen as a strong endorsement of the AICC.K Sudhakaran, K C Venugopal, Congress leader, Kerala...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/15/k-sudhakaran-praises-kc-venugopal.html"
+            "title": "Palantir: Anthropic Disruption Is An Illusion (Rating Upgrade)",
+            "description": "[SEEKING ALPHA] Palantir's AI monetization, demand for its services, and differentiated ecosystem set it apart from other LLM providers. Click for this PLTR stock update.",
+            "url": "https://seekingalpha.com/article/4891019-palantir-anthropic-disruption-is-an-illusion-rating-upgrade"
         },
         {
-            "title": "Snap lays off 1,000 employees, or 16% of workforce, as AI takes over 65% of coding work",
-            "description": "[TECHSTARTUPS.COM] Snap is cutting deeper into its workforce as artificial intelligence takes a larger role inside the company. Snap Inc. said Wednesday it will lay off about 1,000 employees, roughly 16% of its...",
-            "url": "https://techstartups.com/2026/04/15/snap-lays-off-1000-employees-or-16-of-workforce-as-ai-takes-over-65-of-coding-work/"
+            "title": "Cadence and Nvidia Join Forces to Accelerate Intelligent Robotics",
+            "description": "[MARKETSCREENER] Cadence Design Systems and Nvidia have announced a strategic partnership aimed at accelerating the development of artificial intelligence applied to robotics. This aims to combine Cadence's...",
+            "url": "https://www.marketscreener.com/news/cadence-and-nvidia-join-forces-to-accelerate-intelligent-robotics-ce7e50dcd089f625"
         },
         {
-            "title": "The data center boom meets resistance in Maine as lawmakers pass a yearlong freeze",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Maine\u2019s legislature has passed the nation\u2019s first statewide moratorium on energy-hungry data centers. It's an expansion of political opposition to tech giants\u2019 massive artificial intelligence data...",
-            "url": "https://www.ajc.com/news/2026/04/the-data-center-boom-meets-resistance-in-maine-as-lawmakers-pass-a-yearlong-moratorium/"
+            "title": "Ottawa 'very seriously' considering age restrictions for social media, AI chatbots",
+            "description": "[CBC.CA] The federal heritage minister says the government is \"seriously considering\" whether to restrict young Canadians' access to social media platforms and artificial intelligence chatbots \u2014 but hasn't...",
+            "url": "https://www.cbc.ca/news/politics/social-media-ai-minimum-age-9.7164902"
         },
         {
-            "title": "I used my local LLM to sort hundreds of gaming clips, and it was the laziest solution that worked",
-            "description": "[XDA DEVELOPERS] I tried training a classifier, then found a better solution.",
-            "url": "https://www.xda-developers.com/used-local-llm-sort-hundreds-gaming-clips-laziest-solution/"
+            "title": "Allbirds stock soars as shoemaker announces pivot to AI",
+            "description": "[FOX 9] Allbirds plans to rebrand as \u201cNewBird AI\" and shift from sustainable footwear to artificial intelligence.",
+            "url": "https://www.fox9.com/news/allbirds-stock-soars-shoemaker-announces-pivot-ai"
         }
     ]
 }
