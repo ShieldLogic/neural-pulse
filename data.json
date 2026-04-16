@@ -1,15 +1,15 @@
 {
-    "updated": "2026-04-15 22:38:15 UTC",
+    "updated": "2026-04-16 02:14:30 UTC",
     "news": [
-        {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
+        },
+        {
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "Building better AI benchmarks: How many raters are enough?",
@@ -17,19 +17,14 @@
             "url": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -47,9 +42,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +52,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,59 +67,64 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
             "title": "Evaluating alignment of behavioral dispositions in LLMs",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/"
         },
         {
-            "title": "Zuckerberg developing AI clone for employee interaction",
-            "description": "[BOL NEWS] Mark Zuckerberg is reportedly working on an advanced artificial intelligence version of himself designed to interact with employees, respond to queries, and assist in internal company communication.",
-            "url": "https://www.bolnews.com/technology/zuckerberg-developing-ai-clone-for-employee-interaction/"
+            "title": "New biochip detects tiny genetic markers in 20 minutes",
+            "description": "[NEWS-MEDICAL.NET] A team of scientists from Nanyang Technological University, Singapore (NTU Singapore) has developed a new biochip that, when paired with Artificial Intelligence (AI), can detect quickly and...",
+            "url": "https://www.news-medical.net/news/20260415/New-biochip-detects-tiny-genetic-markers-in-20-minutes.aspx"
         },
         {
-            "title": "Vietnam\u2019s new leader meets China\u2019s Xi on his first overseas trip",
-            "description": "[THE ASSOCIATED PRESS] Chinese President Xi Jinping is calling on Beijing and Hanoi to prioritize advancing infrastructure connectivity and strengthen their collaborations in emerging fields like artificial intelligence...",
-            "url": "https://apnews.com/article/china-vietnam-xi-to-lam-bc45ca6dce55e9826741eb1d1e994580"
+            "title": "Allbirds pivots from shoes to AI after 99% collapse, stock surges 300% on NewBird AI plan",
+            "description": "[TECHSTARTUPS.COM] Allbirds is attempting one of the wildest reinventions in recent memory. The sneaker company that once became a Silicon Valley favorite, reached a valuation of more than $4 billion, and turned...",
+            "url": "https://techstartups.com/2026/04/15/allbirds-pivots-from-shoes-to-ai-after-99-collapse-stock-surges-300-on-newbird-ai-plan/"
         },
         {
-            "title": "Broadcom Expands Partnership With Meta for AI Compute Infrastructure",
-            "description": "[MARKETSCREENER] Broadcom shares rose early Wednesday after the chipmaker expanded its partnership with Meta Platforms to support the technology giant's artificial intelligence compute infrastructure. Broadcom...",
-            "url": "https://www.marketscreener.com/news/broadcom-expands-partnership-with-meta-for-ai-compute-infrastructure-ce7e50dcda8cf227"
+            "title": "Trump AI framework puts ball in Congress's court. Time is running out",
+            "description": "[WASHINGTON EXAMINER] Artificial intelligence is moving too quickly, and the stakes are now too high, for Congress to keep watching from the sidelines.",
+            "url": "https://www.washingtonexaminer.com/op-eds/4528469/trump-ai-framework-congress-time-running-out/"
         },
         {
-            "title": "AI Revolution: Transforming Governance and Beyond",
-            "description": "[DEVDISCOURSE] Vice President C P Radhakrishnan discusses the transformative role of artificial intelligence in governance and various sectors. Highlighting initiatives like Bhashini and India's AI leadership, he...",
-            "url": "https://www.devdiscourse.com/article/technology/3874748-ai-revolution-transforming-governance-and-beyond"
+            "title": "Coachella raver dubbed 'hottest girl in the world' with music fans 'convinced she's AI'",
+            "description": "[THE DAILY STAR] Leah Halton, a 25-year-old Australian influencer, has sparked a frenzy online after posting Coachella photos so flawless some fans claimed she looked like artificial intelligence",
+            "url": "https://www.dailystar.co.uk/news/latest-news/coachella-raver-dubbed-hottest-girl-37022104"
         },
         {
-            "title": "Machine learning algorithm predicts Micron stock price on April 30, 2026",
-            "description": "[FINBOLD] Micron stock soared more than 40% since late March and Finbold consulted its own AI agent about whether the rally can be sustained.",
-            "url": "https://finbold.com/machine-learning-algorithm-predicts-micron-stock-price-on-april-30-2026/"
+            "title": "Adobe Introduces Firefly AI Assistant, New Editing Features in Firefly Video Editor",
+            "description": "[MARKETSCREENER] Adobe said Wednesday that it has launched the Firefly AI Assistant, an artificial intelligence tool that enables users to describe the outcome they want while the assistant executes complex,...",
+            "url": "https://www.marketscreener.com/news/adobe-introduces-firefly-ai-assistant-new-editing-features-in-firefly-video-editor-ce7e50dcdf8af62c"
         },
         {
-            "title": "AI Revolution in Business Education: Stride School Leads the Way",
-            "description": "[DEVDISCOURSE] Stride School of Business, India's first AI-native BBA program, integrates artificial intelligence into every aspect of its curriculum. This approach prepares students for modern business challenges...",
-            "url": "https://www.devdiscourse.com/article/education/3874710-ai-revolution-in-business-education-stride-school-leads-the-way"
+            "title": "\u2018Amazing two days ahead\u2019: Trump hints at ending Iran war amid Hormuz blockade",
+            "description": "[MALAYALA MANORAMA] Iran's foreign ministry said a Pakistani delegation was expected to arrive in Tehran to convey messages from Washington..Iran war, Trump Iran talks, US Iran relations, Iran nuclear deal, geopolitical...",
+            "url": "https://www.onmanorama.com/news/world/2026/04/15/trump-iran-war-ending-hormuz-blockade.html"
         },
         {
-            "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you",
-            "description": "[REUTERS] As people increasingly turn to artificial intelligence for advice, some U.S. lawyers are telling their clients not to treat AI chatbots like trusted confidants when their freedom or legal liability...",
-            "url": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/"
+            "title": "Wall Street analyst updates Microsoft (MSFT) stock price target",
+            "description": "[FINBOLD] Microsoft\u2019s (NASDAQ: MSFT) momentum in the artificial intelligence space is forming the basis for Wall Street\u2019s bullish outlook on the stock.",
+            "url": "https://finbold.com/wall-street-analyst-updates-microsoft-msft-stock-price-target/"
         },
         {
-            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Bridging the AI Ambition Gap: India's Path to Enhanced Customer Experience",
-            "description": "[DEVDISCOURSE] Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all...",
-            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life"
+            "title": "access remedy in WhatsApp AI chatbots probe",
+            "description": "[THE ECONOMIC TIMES] The EU told Meta Wednesday that charging rival AI chatbots for access to its WhatsApp platform runs against the bloc's antitrust rules, rebuffing the measure taken by the US giant in response to a...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/eu-rejects-metas-pay-for-access-remedy-in-whatsapp-ai-chatbots-probe/articleshow/130285655.cms"
         },
         {
-            "title": "Gujarat HC issues notices to Meta, X, Google over PIL seeking curb on misuse of AI",
-            "description": "[CNBC TV18] The Gujarat High Court has issued notices to technology firms Meta India, Google, X, Reddit and Scribd over a PIL seeking formulation of a robust regulatory mechanism to curb the misuse of artificial...",
-            "url": "https://www.cnbctv18.com/india/gujarat-hc-issues-notices-to-meta-x-google-over-pil-seeking-curb-on-misuse-of-ai-ws-l-19887169.htm"
+            "title": "Trump Backs Government AI Safeguards in Banking System, Acknowledges Risks",
+            "description": "[NEWSMAX] President Donald Trump acknowledged the risks artificial intelligence posed to the banking system and said there should be government safeguards, but also \u200cbelieved the technology could make \u200bthe...",
+            "url": "https://www.newsmax.com/politics/trump-artificial-intelligence-safeguards/2026/04/15/id/1252979/"
         },
         {
-            "title": "Nokia, Orange Team Up on AI-Powered RAN Using Nvidia Infrastructure",
-            "description": "[MARKETSCREENER] Nokia and Orange said Wednesday they will collaborate to develop and assess artificial intelligence radio access network technologies using Nokia's anyRAN 5G software and Nvidia AI...",
-            "url": "https://www.marketscreener.com/news/nokia-orange-team-up-on-ai-powered-ran-using-nvidia-infrastructure-ce7e50dcda88f427"
+            "title": "Snap stock price: Here's why Snap Inc. shares are up today",
+            "description": "[THE ECONOMIC TIMES] Snap stock price moved higher after the company announced layoffs affecting about 16% of staff and more than 300 open roles. Snap Inc said artificial intelligence will reduce repetitive work and...",
+            "url": "https://economictimes.indiatimes.com/news/international/us/snap-stock-price-heres-why-snap-inc-shares-are-up-today/articleshow/130285353.cms"
         }
     ]
 }
