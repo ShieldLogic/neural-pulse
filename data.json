@@ -1,10 +1,10 @@
 {
-    "updated": "2026-04-17 13:11:01 UTC",
+    "updated": "2026-04-17 14:52:07 UTC",
     "news": [
         {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
@@ -12,19 +12,9 @@
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -35,6 +25,11 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
+        },
+        {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -52,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,19 +57,54 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
+            "title": "Women's Reservation Act comes into force amid Parliament debate, Congress calls move \u2018bizarre\u2019",
+            "description": "[MALAYALA MANORAMA] The Women Reservation Act 2023, also known as the Nari Shakti Vandan Adhiniyam, mandating 33% women's quota in legislatures, has officially come into.Women Reservation Act 2023, Nari Shakti Vandan...",
+            "url": "https://www.onmanorama.com/news/india/2026/04/17/women-reservation-act-2023-enforcement.html"
+        },
+        {
+            "title": "White House Works To Give US Agencies Access To Anthropic Mythos AI",
+            "description": "[NDTV PROFIT] The Pentagon this year declared Anthropic a supply chain threat, under an authority normally reserved for foreign adversaries, over a dispute about over artificial intelligence safeguards.",
+            "url": "https://www.ndtvprofit.com/technology/white-house-works-to-give-us-agencies-access-to-anthropic-mythos-ai-11369300"
+        },
+        {
+            "title": "Tesla seeks Taiwan chip engineers for Terafab project",
+            "description": "[REUTERS] Tesla is seeking semiconductor engineers in Taiwan for its Terafab artificial intelligence chip complex, according to job \u200bpostings on its website.",
+            "url": "https://www.reuters.com/business/autos-transportation/tesla-seeks-taiwan-chip-engineers-terafab-project-2026-04-17/"
+        },
+        {
+            "title": "Tesla seeks Taiwan chip engineers for Terafab project",
+            "description": "[MARKETSCREENER] Tesla is seeking semiconductor engineers in Taiwan for its Terafab artificial intelligence chip complex, according to job postings on its website. Taiwan is home to the world's largest...",
+            "url": "https://www.marketscreener.com/news/tesla-seeks-taiwan-chip-engineers-for-terafab-project-ce7e50d2da8bff2c"
+        },
+        {
+            "title": "Punjab Govt Partners With IIT Ropar To Crackdown on Organised Crime Using AI",
+            "description": "[TIMES NOW] The Punjab government has partnered with IIT Ropar to enhance its fight against organized crime using Artificial Intelligence., India News, Times Now",
+            "url": "https://www.timesnownews.com/india/punjab-govt-partners-with-iit-ropar-to-crackdown-on-organised-crime-using-ai-article-154097764"
+        },
+        {
+            "title": "Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of 'Destruction' Followed",
+            "description": "[U.S. NEWS & WORLD REPORT] WASHINGTON (AP) \u2014 A congressional subcommittee on Thursday held a roundtable discussion on the potential of artificial intelligence, which took a turn toward the existential as each lawmaker aired...",
+            "url": "https://www.usnews.com/news/politics/articles/2026-04-16/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed"
         },
         {
             "title": "Analysis | Why 50% delimitation formula is unconstitutional, possibly a ruse to deceive southern states",
@@ -95,36 +125,6 @@
             "title": "PWD plans to use AI-based system to monitor roads, see complaints",
             "description": "[HINDUSTAN TIMES] New Delhi: The Public Works Department (PWD) has proposed to use an artificial intelligence-based Intelligent Road Maintenance and Monitoring System to strengthen road upkeep and improve complaint...",
             "url": "https://www.hindustantimes.com/cities/delhi-news/pwd-plans-to-use-ai-based-system-to-monitor-roads-see-complaints-101776365459009.html"
-        },
-        {
-            "title": "AI is changing careers: What SPM graduates must do next",
-            "description": "[THE STAR] ARTIFICIAL INTELLIGENCE (AI) is transforming the way ideas are developed, decisions are made and work is carried out across industries.",
-            "url": "https://www.thestar.com.my/starpicks/2026/04/17/ai-is-changing-careers-what-spm-graduates-must-do-next"
-        },
-        {
-            "title": "OpenAI launches AI model GPT-Rosalind for life sciences research",
-            "description": "[THE STAR] April 16 - \u2060OpenAI on Thursday introduced an artificial intelligence model touting \u2060increased biology knowledge and scientific research capabilities, as the \u200cstartup deepens its push into the life...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/17/openai-launches-ai-model-gpt-rosalind-for-life-sciences-research"
-        },
-        {
-            "title": "Austrian companies have vast opportunities to expand trade, investment in India: Prez Murmu",
-            "description": "[DAILY EXCELSIOR] NEW DELHI, Apr 16 : President Droupadi Murmu on Thursday said that Austrian companies have vast opportunities to expand trade and investment in India, especially in emerging sectors such as...",
-            "url": "https://www.dailyexcelsior.com/austrian-companies-have-vast-opportunities-to-expand-trade-investment-in-india-prez-murmu/"
-        },
-        {
-            "title": "OpenAI starts offering a biology-tuned LLM",
-            "description": "[ARS TECHNICA] GPT-Rosalind is an LLM trained on biology workflows, available in closed access.",
-            "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/"
-        },
-        {
-            "title": "Reese Witherspoon Doubles Down on Telling Women to Learn AI",
-            "description": "[VARIETY] Reese Witherspoon is again advising her followers that there's no time like the present to start learning about and using artificial intelligence.",
-            "url": "https://variety.com/2026/tv/news/reese-witherspoon-ai-jobs-women-1236723992/"
-        },
-        {
-            "title": "OpenAI announces restricted-access cybersecurity model",
-            "description": "[JAPAN TODAY] Artificial intelligence company OpenAI says it will release its latest cybersecurity model to a limited number of partners, after rival Anthropic also restricted release of a new system that...",
-            "url": "https://japantoday.com/category/tech/openai-announces-restricted-access-cybersecurity-model"
         }
     ]
 }
