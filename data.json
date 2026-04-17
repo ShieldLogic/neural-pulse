@@ -1,20 +1,30 @@
 {
-    "updated": "2026-04-17 18:55:09 UTC",
+    "updated": "2026-04-17 20:40:25 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -25,11 +35,6 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
-        },
-        {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -47,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,9 +77,44 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "Two men found dead in separate incidents in Ernakulam",
+            "description": "[MALAYALA MANORAMA] Two men were found dead in separate incidents in Ernakulam district, with initial police suspicion pointing to accidental fall and health-related.Kochi deaths, Ernakulam incident, accidental fall...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/17/kochi-deaths-eranakulam-coconut-tree-climber.html"
+        },
+        {
+            "title": "AI-Focused Accounting Is Hindered by State CPA Licensing Laws",
+            "description": "[BLOOMBERG TAX NEWS] Reforming state CPA licensure requirements would give accounting firms more ways to recruit talent in the age of artificial intelligence.",
+            "url": "https://news.bloombergtax.com/daily-tax-report/ai-focused-accounting-is-hindered-by-state-cpa-licensing-laws"
+        },
+        {
+            "title": "Anthropic unveils Claude Opus 4.7 with enhanced reasoning and coding abilities",
+            "description": "[THE NATION] Artificial intelligence firm Anthropic has announced the launch of Claude Opus 4.7, the latest iteration in its series of hybrid reasoning models, marking another rapid",
+            "url": "https://www.nation.com.pk/17-Apr-2026/anthropic-unveils-claude-opus-4-7-enhanced-reasoning-coding-abilities"
+        },
+        {
+            "title": "MeitY selects 10 Indian AI startups to spearhead second cohort of the IndiaAI Startups Global Acceleration Programme",
+            "description": "[THE TRIBUNE] The Ministry of Electronics and Information Technology (MeitY) on Friday said it has selected 10 cutting-edge Indian artificial intelligence startups for the second cohort of the IndianAI Startups...",
+            "url": "https://www.tribuneindia.com/news/business/meity-selects-10-indian-ai-startups-to-spearhead-second-cohort-of-the-indiaai-startups-global-acceleration-programme/"
+        },
+        {
+            "title": "Sandra Bullock reacts to AI-generated 'Practical Magic 2' trailer",
+            "description": "[THE NEWS INTERNATIONAL] Sandra Bullock is encouraging Hollywood to learn artificial intelligence, saying the industry should keep a lean towards new technology. The 61-year-old actress made the unexpected statement while...",
+            "url": "https://www.thenews.com.pk/latest/1399301-sandra-bullock-reacts-to-ai-generated-practical-magic-2-trailer"
+        },
+        {
+            "title": "\u2018Ashakal Aayiram\u2019 to \u2018Sambhavam\u2019: Check out these binge-worthy films, series releasing this weekend",
+            "description": "[MALAYALA MANORAMA] From compelling family dramas to time-loop thrillers, these platforms offer diverse viewing options across streaming platforms..movies to watch this week, new film releases, top movies streaming,...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/04/17/movies-to-watch-this-week-assi-ashakal-aayiram-malayalam-hindi.html"
+        },
+        {
+            "title": "Booking begins for the Bharat Gaurav special tourist trip from Tirunelveli: Fare, route, and reservation details",
+            "description": "[MALAYALA MANORAMA] The train departs from Tirunelveli on May 10 and returns on May 19..Bharat Gaurav train Dwarka Somnath, IRCTC Dwarka Somnath yatra, Gujarat pilgrimage tour, Divya Dwaraka Somnath Yatra package,...",
+            "url": "https://www.onmanorama.com/travel/outside-kerala/2026/04/17/bharat-gaurav-train-tirunelveli-dwarka-somnath.html"
+        },
+        {
+            "title": "CM candidate row in UDF: Congress, IUML leaders urge restraint over public discussions",
+            "description": "[MALAYALA MANORAMA] Leaders from the IUML and Congress have urged restraint regarding public discussions about the United Democratic Front's Chief Ministerial candidate..UDF Chief Ministerial candidate, Kerala Assembly...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/17/udf-cm-candidate-debate-congress-iuml-leaders.html"
         },
         {
             "title": "'AI shamans' tell the fortunes of curious South Koreans",
@@ -85,46 +125,6 @@
             "title": "Fast answers and extra research drive AI healthcare use in America",
             "description": "[NEWS-MEDICAL.NET] One in four U.S. adults - the equivalent of over 66 million Americans - report having used artificial intelligence tools or chatbots for physical or mental healthcare information or advice, according...",
             "url": "https://www.news-medical.net/news/20260417/Fast-answers-and-extra-research-drive-AI-healthcare-use-in-America.aspx"
-        },
-        {
-            "title": "Sequoia\u2019s new leaders raise about $7 billion for firm\u2019s biggest bets",
-            "description": "[THE ECONOMIC TIMES] Sequoia Capital, a major venture capital firm, has secured about $7 billion for a new fund, according to a report by Bloomberg. This significant capital will fuel expansion into artificial...",
-            "url": "https://economictimes.indiatimes.com/tech/funding/sequoias-new-leaders-raise-about-7-billion-for-firms-biggest-bets/articleshow/130324695.cms"
-        },
-        {
-            "title": "These menstruation issues shouldn't be considered trivial: Renowned gynaecologist explains",
-            "description": "[MALAYALA MANORAMA] Many menstruation-related physical problems that are often ignored as trivial have the potential to become serious issues if not given the required.menstrual health, irregular periods, heavy...",
-            "url": "https://www.onmanorama.com/health/healthcare/2026/04/17/menstruation-issues-gynaecologist-explains.html"
-        },
-        {
-            "title": "How do Human in the loop service providers in United States compare on pricing and service quality",
-            "description": "[TECHBULLION] Human-in-the-Loop Services combine the speed of artificial intelligence with the intelligence and judgment of real humans.",
-            "url": "https://techbullion.com/how-do-human-in-the-loop-service-providers-in-united-states-compare-on-pricing-and-service-quality/"
-        },
-        {
-            "title": "Clearly Blue Digital Marks a Decade of Storytelling with a Summit on AI and the Future of Marketing",
-            "description": "[THE TRIBUNE] Bengaluru (Karnataka) [India], April 17: Clearly Blue Digital, one of Bengaluru's most recognised thought leadership and content marketing agencies, celebrates its 10th anniversary with a landmark...",
-            "url": "https://www.tribuneindia.com/news/business/clearly-blue-digital-marks-a-decade-of-storytelling-with-a-summit-on-ai-and-the-future-of-marketing/"
-        },
-        {
-            "title": "Sandra Bullock on AI: Have to use it in a really constructive, creative way",
-            "description": "[LOKMAT TIMES] Sandra Bullock on AI: Have to use it in a really constructive, creative way - Mumbai, April 17 Hollywood star Sandra Bullock is embracing the use of artificial intelligence in the industry and ......",
-            "url": "https://www.lokmattimes.com/entertainment/sandra-bullock-on-ai-have-to-use-it-in-a-really-constructive-creative-way/"
-        },
-        {
-            "title": "Ericsson First-Quarter Profit Misses Estimates on Sluggish Sales",
-            "description": "[BLOOMBERG] Ericsson AB earnings missed analysts\u2019 forecasts in the first quarter, as the Swedish company struggled in a weak market for telecommunications equipment and rising chip costs, in part due to the...",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-17/ericsson-first-quarter-profit-misses-estimates-on-sluggish-sales"
-        },
-        {
-            "title": "Babu Antony speaks out after 30 years: \u2018I walked away from a toxic relationship before it destroyed me\u2019",
-            "description": "[MALAYALA MANORAMA] Babu Antony also recalled how a wedding reception was falsely announced in his name at a hotel in Chennai called Palm Grove..Babu Antony personal life, Babu Antony controversy, actor Babu Antony...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/04/17/babu-antony-personal-life-clarification-interview-nere-chovve.html"
-        },
-        {
-            "title": "dollar companies that cut hundreds of jobs in 2026 and openly 'blamed' AI",
-            "description": "[TIMES OF INDIA] Tech News News: The idea that artificial intelligence (AI) will change how companies work is no longer a distant prediction. It is already showing up in tech and othe.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/snap-block-and-other-billion-dollar-companies-that-cut-hundreds-of-jobs-in-2026-and-openly-blamed-ai/articleshow/130323199.cms"
         }
     ]
 }
