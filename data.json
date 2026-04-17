@@ -1,30 +1,20 @@
 {
-    "updated": "2026-04-16 22:36:04 UTC",
+    "updated": "2026-04-17 02:10:44 UTC",
     "news": [
-        {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -35,6 +25,11 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
+        },
+        {
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -52,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Taiwan Market Cap Tops $4 Trillion On AI Boom, Overtaking UK",
-            "description": "[NDTV PROFIT] TSMC was buoyed by strong revenue growth that underscores its key role in the global artificial intelligence supply chain.",
-            "url": "https://www.ndtvprofit.com/markets/taiwan-market-cap-tops-4-trillion-on-ai-boom-overtaking-uk-11366048"
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
-            "title": "Blaize and Winmate Announce Strategic Collaboration to Advance Sovereign Edge AI Capabilities for Defense and Critical Infrastructure",
-            "description": "[THE MANILA TIMES] **media[1015908]**TAIPEI and EL DORADO HILLS, Calif., April 16, 2026 /PRNewswire/ -- Blaize Holdings, Inc. (Nasdaq: BZAI, Nasdaq: BZAIW) ('Blaize,' the 'Company,' 'we,' 'our,' or 'us'), a leader in...",
-            "url": "https://www.manilatimes.net/2026/04/16/tmt-newswire/pr-newswire/blaize-and-winmate-announce-strategic-collaboration-to-advance-sovereign-edge-ai-capabilities-for-defense-and-critical-infrastructure/2321766"
+            "title": "Myseum takes flight after Allbirds in fresh AI rebrand wave",
+            "description": "[REUTERS] A day after footwear maker Allbirds rose 582% on its plan to \"pivot its business to \u200bAI compute infrastructure,\" social media firm Myseum was up 146% early on Thursday, in the latest sign of an...",
+            "url": "https://www.reuters.com/business/myseum-takes-flight-after-allbirds-fresh-ai-rebrand-wave-2026-04-16/"
         },
         {
-            "title": "To Make a Tech Unicorn, Mix a Few Workers With Some AI Hype",
-            "description": "[BLOOMBERG] Sam Altman, the chief executive officer of OpenAI, said at a finance conference in October 2023 that he and his \u201cCEO friends\u201d were running a betting pool on when the first one-person billion-dollar...",
-            "url": "https://www.bloomberg.com/opinion/articles/2026-04-16/to-make-a-tech-unicorn-mix-a-few-workers-with-some-ai-hype"
+            "title": "Mythos Poses Risk to SEC Market-Tracking Database, Group Says",
+            "description": "[BLOOMBERG] Anthropic PBC\u2019s new artificial intelligence model Mythos could put traders and the broader financial system at risk through a Securities and Exchange Commission database, the American Securities...",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-16/mythos-poses-risk-to-sec-market-tracking-database-group-says"
         },
         {
-            "title": "Yellow alert in Kerala as temperatures rise above normal; Palakkad touches 39.1\u00b0C",
-            "description": "[MALAYALA MANORAMA] The India Meteorological Department has issued a yellow alert for Kerala, forecasting high temperatures between April 16 and 19, 2026..Kerala heatwave, yellow alert Kerala, 2026 Kerala weather, IMD...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/16/kerala-heatwave-alert-2026.html"
+            "title": "University of Illinois and IBM renew quantum partnership",
+            "description": "[CHICAGO TRIBUNE] The University of Illinois Urbana-Champaign and IBM announced a renewed research partnership Thursday to advance artificial intelligence and quantum technology, with the city at the center of the...",
+            "url": "https://www.chicagotribune.com/2026/04/16/university-illinois-ibm-renew-quantum-technology-partnership/"
         },
         {
-            "title": "Google should allow third-party search engines access to data, EU says",
-            "description": "[THE STAR] BRUSSELS, April \u206016 (Reuters) - The European Commission \u2060has sent preliminary findings to \u200cGoogle on proposed measures to comply with the EU's Digital Markets Act, \u200bwhich would allow third-party...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/16/google-should-allow-third-party-search-engines-access-to-data-eu-says"
+            "title": "\u2018We just want him back\u2019: Family\u2019s desperate bid to bring Malayali seafarer stranded in Iranian port home",
+            "description": "[MALAYALA MANORAMA] Stranded aboard an Iranian vessel since the outbreak of the West Asia conflict, the young seafarer has been unable to return home, leaving his family.stranded seafarer, West Asia conflict, Indian...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/16/malayali-seafarer-jerin-george-stuck-iranian-ship-west-asia-conflict-parents-plea.html"
         },
         {
-            "title": "Taiwan's chipmaker TSMC reports 58% jump in profit, warns about Iran war impacts",
-            "description": "[BARCHART] Taiwan\u2019s chipmaker TSMC has reported a 58% jump in profit for the January-March quarter thanks to strong demand driven by the artificial intelligence boom even as the Iran war was driving up costs",
-            "url": "https://www.barchart.com/story/news/1339233/taiwan-s-chipmaker-tsmc-reports-58-jump-in-profit-warns-about-iran-war-impacts"
-        },
-        {
-            "title": "Paving the Path to Stronger Ties: South Korean President's Strategic Visits to India and Vietnam",
-            "description": "[DEVDISCOURSE] South Korean President Lee Jae Myung will embark on a state visit to India before heading to Vietnam. The trip focuses on enhancing cooperation in sectors such as shipbuilding, artificial...",
-            "url": "https://www.devdiscourse.com/article/politics/3876131-paving-the-path-to-stronger-ties-south-korean-presidents-strategic-visits-to-india-and-vietnam"
-        },
-        {
-            "title": "BofA: DSV Capital Markets Day to Serve as Catalyst if Potential 'AI Adoption Winner' Outlines Savings",
-            "description": "[MARKETSCREENER] DSV is expected to be an artificial intelligence adoption winner on the back of its deep proprietary data, change management, and scale, BofA Global Research said, naming the company as a...",
-            "url": "https://www.marketscreener.com/news/bofa-dsv-capital-markets-day-to-serve-as-catalyst-if-potential-ai-adoption-winner-outlines-saving-ce7e50dddc8bf725"
+            "title": "China activates 60,000 chip AI cluster in 2 months without US tech",
+            "description": "[INTERESTING ENGINEERING] China has reportedly switched on its \u201clargest artificial intelligence computing cluster\u201d in Zhengzhou, Henan province, on Tuesday, April 14.",
+            "url": "https://interestingengineering.com/science/china-ai-cluster-expands-to-60000-chips"
         },
         {
             "title": "Taiwan's chipmaker TSMC reports 58% jump in profit, warns about Iran war impacts",
-            "description": "[WDIV CLICKONDETROIT] Taiwan\u2019s chipmaker TSMC has reported a 58% jump in profit for the January-March quarter thanks to strong demand driven by the artificial intelligence boom even as the Iran war was driving up costs.",
-            "url": "https://www.clickondetroit.com/business/2026/04/16/taiwans-chipmaker-tsmc-reports-58-jump-in-profit-warns-about-iran-war-impacts/"
+            "description": "[CNBC TV18] Taiwan's chipmaker TSMC, one of the world's largest companies, reported a 58% jump in profit on Thursday for the January-March quarter, thanks to strong demand driven by the artificial intelligence...",
+            "url": "https://www.cnbctv18.com/technology/taiwans-chipmaker-tsmc-reports-58-per-cent-jump-in-profit-warns-about-iran-war-impacts-19888147.htm"
         },
         {
-            "title": "Taiwan's chipmaker TSMC reports 58% profit jump despite Iran war",
-            "description": "[THE ASSOCIATED PRESS] Taiwan\u2019s chipmaker TSMC has reported a 58% jump in profit for the January-March quarter thanks to strong demand driven by the artificial intelligence boom even as the Iran war was driving up costs.",
-            "url": "https://apnews.com/article/semiconductors-chips-tsmc-taiwan-iran-war-624137ae5b2a5bfe9ca2ccfc648b5dc1"
+            "title": "Google and Pentagon: A Strategic AI Partnership in the Making",
+            "description": "[DEVDISCOURSE] Google and the Pentagon are discussing a classified artificial intelligence deal to strengthen military ties. The proposed agreement aims to enable all legal applications of Google's AI technology....",
+            "url": "https://www.devdiscourse.com/article/headlines/3876423-google-and-pentagon-a-strategic-ai-partnership-in-the-making"
+        },
+        {
+            "title": "Aehr Test Systems: Aehr Receives Record $41 Million Production Order from Lead Hyperscale AI Customer; Second-Half Bookings Exceed $92 Million",
+            "description": "[FINANZNACHRICHTEN] FREMONT, CA / ACCESS Newswire / April 16, 2026 / Aehr Test Systems (NASDAQ:AEHR), a leading provider of test and burn-in solutions for semiconductor devices used in artificial intelligence (AI),...",
+            "url": "https://www.finanznachrichten.de/nachrichten-2026-04/68216761-aehr-test-systems-aehr-receives-record-dollar-41-million-production-order-from-lead-hyperscale-ai-customer-second-half-bookings-exceed-dollar-92-million-200.htm"
+        },
+        {
+            "title": "SSLC, Plus Two exams in Gulf cancelled; evaluation based on model/term scores: Sivankutty",
+            "description": "[MALAYALA MANORAMA] Kerala's SSLC and Class 12 examinations in the Gulf region have been cancelled due to the West Asian conflict..SSLC exams cancelled, Class 12 exams Gulf, West Asia conflict education, Kerala...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/16/sslc-class-12-exams-cancelled-gulf.html"
+        },
+        {
+            "title": "Amercian Express to buy Altman",
+            "description": "[THE ECONOMIC TIMES] American Express is set to acquire Hyper, an artificial intelligence expense management startup. This move highlights the growing trend of financial firms integrating AI into their core software. The...",
+            "url": "https://economictimes.indiatimes.com/tech/startups/amercian-express-to-buy-altman-backed-hyper-in-push-for-ai-powered-expense-tools/articleshow/130308811.cms"
         }
     ]
 }
