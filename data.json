@@ -1,20 +1,30 @@
 {
-    "updated": "2026-04-17 06:00:46 UTC",
+    "updated": "2026-04-17 09:13:28 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -25,11 +35,6 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
-        },
-        {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -47,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,59 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "OpenAI announces restricted-access cybersecurity model",
+            "description": "[JAPAN TODAY] Artificial intelligence company OpenAI says it will release its latest cybersecurity model to a limited number of partners, after rival Anthropic also restricted release of a new system that...",
+            "url": "https://japantoday.com/category/tech/openai-announces-restricted-access-cybersecurity-model"
         },
         {
-            "title": "White House Works to Give US Agencies Anthropic Mythos AI",
-            "description": "[BLOOMBERG] The US government is preparing to make a version of Anthropic PBC\u2019s powerful new artificial intelligence model available to major federal agencies amid concerns that the tool could sharply increase...",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-16/white-house-moves-to-give-us-agencies-anthropic-mythos-access"
+            "title": "AI content should be labelled, heritage committee says",
+            "description": "[CHEK NEWS] A House of Commons committee says the government should require that content generated by artificial intelligence be clearly labelled.",
+            "url": "https://cheknews.ca/ai-content-should-be-labelled-heritage-committee-says-1319215/"
         },
         {
-            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - AI Revolution: A Cautionary Tale for Global Economies",
-            "description": "[DEVDISCOURSE] Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all...",
-            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life"
+            "title": "federal heritage committee",
+            "description": "[CP24 TORONTO] A House of Commons committee says the government should require that content generated by artificial intelligence be clearly labelled.",
+            "url": "https://www.cp24.com/news/canada/2026/04/16/ai-content-should-be-labelled-heritage-committee-says/"
         },
         {
-            "title": "IMF chief Georgieva urges focus on winners and losers of AI revolution",
-            "description": "[MARKETSCREENER] IMF managing director Kristalina Georgieva on Thursday urged policymakers to pay close attention to the consequences of rapid advances in artificial intelligence technology, warning against...",
-            "url": "https://www.marketscreener.com/news/imf-chief-georgieva-urges-focus-on-winners-and-losers-of-ai-revolution-ce7e50d2d98afe25"
+            "title": "AI content should be labelled, heritage committee says",
+            "description": "[SOOTODAY] OTTAWA \u2014 A House of Commons committee says the government should require that content generated by artificial intelligence be clearly labelled.",
+            "url": "https://www.sootoday.com/national-news/ai-content-should-be-labelled-heritage-committee-says-12153791"
         },
         {
-            "title": "Bay Area shoe brand swaps sneakers for 'silicon'",
-            "description": "[SALT LAKE CITY DESERET NEWS] Allbirds is rebranding as NewBird AI and swapping sneakers for the powerful computers needed to run artificial intelligence. What happened next?",
-            "url": "https://www.deseret.com/business/2026/04/16/allbirds-rebrands-as-newbird-ai/"
+            "title": "AI content should be labelled, heritage committee says",
+            "description": "[BAYTODAY] OTTAWA \u2014 A House of Commons committee says the government should require that content generated by artificial intelligence be clearly labelled.",
+            "url": "https://www.baytoday.ca/national-news/ai-content-should-be-labelled-heritage-committee-says-12153791"
         },
         {
-            "title": "CBSE withholds Class X results of 38 Kasaragod students over subject code mix-up despite correction, court order",
-            "description": "[MALAYALA MANORAMA] The school detected the wrong subject code only on January 12, 2026, weeks before the board exam..CBSE Class X results withheld, Kasaragod Chinmaya Vidyalaya subject code error, CBSE communicative...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/16/cbse-exams-students-results-kasaragod.html"
+            "title": "RBC, Scotiabank pull back on climate goals",
+            "description": "[BNN BLOOMBERG] RBC and Scotiabank say they\u2019re dropping their 2030 targets for reducing financed emissions as governments pull back on climate action and artificial intelligence drives a surge in energy demand.",
+            "url": "https://www.bnnbloomberg.ca/business/2026/04/16/rbc-scotiabank-pull-back-on-climate-goals/"
         },
         {
-            "title": "Leading the Future Super PAC Releases List of 'House GOP Champions'",
-            "description": "[BREITBART NEWS NETWORK] Leading the Future, a super PAC focused on Artificial Intelligence (AI) released a list of Republican incumbents that they are supporting.",
-            "url": "https://www.breitbart.com/politics/2026/04/16/exclusive-leading-the-future-super-pac-releases-list-of-house-gop-champions/"
+            "title": "AI without regulation will delete jobs",
+            "description": "[DETROIT FREE PRESS] UAW President Shawn Fain, Sen. Bernie Sanders and other labor leaders made a call for the regulation of artificial intelligence.",
+            "url": "https://www.freep.com/story/money/cars/2026/04/16/uaw-fain-bernie-sanders-ai-regulation-jobs-labor-economy/89645780007/"
         },
         {
-            "title": "Shares of Myseum jump 150% after following Allbirds in AI pivot",
-            "description": "[CNBC] Myseum shares more than doubled after the social media firm became the latest company to refocus efforts on artificial intelligence.",
-            "url": "https://www.cnbc.com/2026/04/16/myseum-myse-ai-allbirds-pivot.html"
+            "title": "Embracing Artificial Intelligence: A New Era of Opportunity for Small Businesses",
+            "description": "[INTERNATIONAL BUSINESS TIMES] According to Graham Peddie, founder of Frame & Circuit, an AI business consulting firm, AI presents a powerful opportunity, one that can help small-scale businesses move faster, think bigger, and",
+            "url": "https://www.ibtimes.com/embracing-artificial-intelligence-new-era-opportunity-small-businesses-3801340"
         },
         {
-            "title": "Six arrested for attacking youth with iron rod in Idukki bar brawl",
-            "description": "[MALAYALA MANORAMA] A 30-year-old man named Vineesh was severely injured by an iron rod during a drunken brawl at a bar near Thodupuzha..Idukki bar attack, Thodupuzha assault, drunken brawl injury, arrested for assault,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/16/idukki-bar-attack-thodupuzha.html"
+            "title": "Taiwan's chipmaker TSMC reports 58% jump in profit",
+            "description": "[JAPAN TODAY] Taiwan\u2019s chipmaker TSMC, one of the world\u2019s largest companies, reported a 58% jump in profit on Thursday for the January-March quarter, thanks to strong demand driven by the artificial intelligence...",
+            "url": "https://japantoday.com/category/tech/taiwan%27s-chipmaker-tsmc-reports-58-jump-in-profit-warns-about-iran-war-impacts"
         },
         {
-            "title": "Fire at Munnar waste plant destroys equipment worth lakhs; probe on amid sabotage claims",
-            "description": "[MALAYALA MANORAMA] Opposition leaders V P Shivakumar and Santhosh Pandian alleged that the fire was deliberately set to cover up irregularities at the plant..Munnar waste plant fire, Nallathanni plant fire, Kallar...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/16/munnar-waste-plant-fire.html"
-        },
-        {
-            "title": "Colorado teachers report better working conditions, but concerns over artificial intelligence and high workloads persist",
-            "description": "[THE ASPEN TIMES] Amid conversations of teacher shortages and educators leaving the profession, a new survey sheds some positive light on improved working environments for teachers in Colorado. However, persistent...",
-            "url": "https://www.aspentimes.com/news/colorado-teachers-better-working-conditions-concerns-artificial-intelligence/"
+            "title": "Taiwan's chipmaker TSMC reports 58% jump in profit",
+            "description": "[JAPAN TODAY] Taiwan\u2019s chipmaker TSMC, one of the world\u2019s largest companies, reported a 58% jump in profit on Thursday for the January-March quarter, thanks to strong demand driven by the artificial intelligence...",
+            "url": "https://japantoday.com/category/tech/taiwan's-chipmaker-tsmc-reports-58-jump-in-profit-warns-about-iran-war-impacts"
         }
     ]
 }
