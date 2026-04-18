@@ -1,10 +1,10 @@
 {
-    "updated": "2026-04-18 18:42:15 UTC",
+    "updated": "2026-04-18 20:32:30 UTC",
     "news": [
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
         },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
@@ -12,9 +12,19 @@
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -25,11 +35,6 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
-        },
-        {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -47,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,9 +77,29 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "Sandra Bullock Advocates for Creative Use of AI in Hollywood",
+            "description": "[DEVDISCOURSE] Oscar-winner Sandra Bullock believes Hollywood should embrace artificial intelligence creatively. While acknowledging potential misuse, she advocates for understanding AI as an ally. Bullock's...",
+            "url": "https://www.devdiscourse.com/article/entertainment/3878564-sandra-bullock-advocates-for-creative-use-of-ai-in-hollywood"
+        },
+        {
+            "title": "Pope Leo XIV warns AI could spread \u2018fear and violence\u2019 worldwide",
+            "description": "[THE NEWS INTERNATIONAL] Pope Leo XIV used a speech to students and teachers in Cameroon's capital Yaound\u00e9 on Friday to deliver his sharpest warning yet about artificial intelligence, saying the technology risked...",
+            "url": "https://www.thenews.com.pk/latest/1399437-pope-leo-xiv-warns-ai-could-spread-fear-and-violence-worldwide"
+        },
+        {
+            "title": "AI To Become Core In Punjab Schools As PSEB Reforms Curriculum & Links Learning Outcomes To Board Certificates",
+            "description": "[FREE PRESS JOURNAL] Punjab will integrate Artificial Intelligence as a core component of school education, with computer science learning outcomes reflected in board certificates, PSEB announced. At a national AI...",
+            "url": "https://www.freepressjournal.in/education/ai-to-become-core-in-punjab-schools-as-pseb-reforms-curriculum-links-learning-outcomes-to-board-certificates"
+        },
+        {
+            "title": "Still humming 'Ninte Nunakuzhi Kandappo'? The Kalyani gang just dropped 'Chillara Flex'",
+            "description": "[MALAYALA MANORAMA] The team, in a freewheeling interview with Onmanorama, describes the song as a 'powerful response', an anthem of defiance and freedom, challenging.Chillara Flex, Arjn KDS Fifty4, Kalyani song...",
+            "url": "https://www.onmanorama.com/entertainment/music/2026/04/18/chillara-flex-anthem-arjn-kds-new-music-malayalam-song.html"
+        },
+        {
+            "title": "Kerala BDS student death: Three arrested in loan app fraud case from Noida, remanded",
+            "description": "[MALAYALA MANORAMA] Nithin, a native of Uzhamalackal in Thiruvananthapuram, was found critically injured near the medical college block on April 10 after falling from a.loan app fraud, Nithin Raj death, Instant Funds...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/18/loan-app-fraud-kannur-arrests-nithin-raj-suicide-remand.html"
         },
         {
             "title": "Cerritos teen invents AI-powered device to help detect and treat crossed eyes",
@@ -100,31 +125,6 @@
             "title": "Youth stabbed to death after dispute in Thrissur; one arrested",
             "description": "[MALAYALA MANORAMA] According to the police, the incident occurred around 10.30 pm on Friday..Thrissur stabbing, Kerala crime news, Madakkathara incident, murder in Thrissur, youth stabbed to death, arrest Thrissur,...",
             "url": "https://www.onmanorama.com/news/kerala/2026/04/18/thrissur-stabbing-death-nikhil.html"
-        },
-        {
-            "title": "Sandra Bullock Reacts To Fan-Made AI Trailers Of Practical Magic 2, Says THIS In Favour",
-            "description": "[TIMES NOW] Sandra Bullock is one of several Hollywood stars embracing the use of artificial intelligence in the industry, the Oscar winner recently stressed that her fellow movie and TV professionals \u201chave to...",
-            "url": "https://www.timesnownews.com/entertainment-news/hollywood/sandra-bullock-reacts-to-fan-made-ai-trailers-of-practical-magic-2-says-this-in-favour-article-154106120"
-        },
-        {
-            "title": "As the world\u2019s largest bank JP Morgan tests Anthropic\u2019s AI tool Mythos, CEO Jamie Dimon admits 'threat'; says: AI has made it worse, it has ...",
-            "description": "[TIMES OF INDIA] Tech News News: JPMorgan Chase CEO Jamie Dimon has now admitted that artificial intelligence, while promising to strengthen defences in the long run, is currently mak.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-the-worlds-largest-bank-jp-morgan-tests-anthropics-ai-tool-mythos-ceo-jamie-dimon-admits-threat-says-ai-has-made-it-worse-it-has-/articleshow/130346406.cms"
-        },
-        {
-            "title": "As China\u2019s biotech firms shift gears, can AI floor the accelerator?",
-            "description": "[SOUTH CHINA MORNING POST] Chinese biotech firms are striking big global deals as drug makers, but could artificial intelligence take them to the next level?",
-            "url": "https://www.scmp.com/business/china-business/article/3350421/chinas-biotech-firms-shift-gears-can-ai-floor-accelerator"
-        },
-        {
-            "title": "California-based Srinivas Narayanan quits OpenAI after \u20183 incredible years\u2019",
-            "description": "[THE FINANCIAL EXPRESS] Indian-origin tech leader Srinivas Narayanan announced his departure from OpenAI, where he has been serving as CTO since September 2025. He had previously been VP of Engineering at the artificial...",
-            "url": "https://www.financialexpress.com/shorts/trending/california-based-srinivas-narayanan-quits-openai-after-3-incredible-years-hints-at-india-return-who-is-he-4211084/"
-        },
-        {
-            "title": "Lawsuit aside, White House holds talks with Anthropic over powerful AI tool",
-            "description": "[FIRSTPOST] Nearly a month after declaring the company a 'supply chain risk,' the White House on Saturday held talks with the top executives of artificial intelligence firm Anthropic, describing the meeting as...",
-            "url": "https://www.firstpost.com/world/white-house-meeting-with-anthropic-dario-amodei-claude-mythos-14001759.html"
         }
     ]
 }
