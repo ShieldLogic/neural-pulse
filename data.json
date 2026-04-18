@@ -1,10 +1,10 @@
 {
-    "updated": "2026-04-18 08:43:07 UTC",
+    "updated": "2026-04-18 10:36:34 UTC",
     "news": [
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
         },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
@@ -12,9 +12,19 @@
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -25,11 +35,6 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
-        },
-        {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -47,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,9 +77,34 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "White House chief of staff meets with Anthropic CEO over its new AI technology",
+            "description": "[WTOP] WASHINGTON (AP) \u2014 White House chief of staff Susie Wiles on Friday sounded out Anthropic CEO Dario Amodei about the artificial intelligence company'",
+            "url": "https://wtop.com/europe/2026/04/white-house-chief-of-staff-to-meet-with-anthropic-ceo-over-its-new-ai-technology/"
+        },
+        {
+            "title": "White House, Anthropic Discuss Risks of AI",
+            "description": "[NEWSMAX] White House chief of staff Susie Wiles sounded out Anthropic CEO Dario Amodei about the artificial intelligence company's new Mythos model, which has attracted attention from the federal government...",
+            "url": "https://www.newsmax.com/newsfront/white-house-anthropic-meeting/2026/04/17/id/1253347/"
+        },
+        {
+            "title": "Meta prepares to lay off a tenth of its workforce",
+            "description": "[THE SUNDAY TIMES] The owner of Facebook and Instagram will cut 8,000 jobs next month and more later in the year as it spends hundreds of billions on artificial intelligence",
+            "url": "https://www.thetimes.com/us/business-us/article/meta-prepares-to-lay-off-a-tenth-of-its-workforce-flz9fklqj"
+        },
+        {
+            "title": "How artificial intelligence is changing business interaction with customers",
+            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Businesses say they are using AI to speed up service delivery and improve the customer experience, but economists warn this may be the \"calm before the storm\".",
+            "url": "https://www.abc.net.au/news/2026-04-18/artificial-intelligence-changing-businesses-customer-interaction/106567874"
+        },
+        {
+            "title": "Tech Up as AI Momentum Persists - Tech Roundup",
+            "description": "[MARKETSCREENER] Shares of technology companies rallied as traders chased momentum in artificial-intelligence leaders. Nvidia, the leading developer of chips for AI infrastructure, added roughly 8% for the week....",
+            "url": "https://www.marketscreener.com/news/tech-up-as-ai-momentum-persists-tech-roundup-ce7e50d3d88ffe26"
+        },
+        {
+            "title": "On cards, AI as core subject in Punjab schools",
+            "description": "[THE TRIBUNE] The Education Department is all set to introduce artificial intelligence (AI) as a core subject in schools during the current academic session.",
+            "url": "https://www.tribuneindia.com/news/punjab/on-cards-ai-as-core-subject-in-punjab-schools/"
         },
         {
             "title": "AI is a gold mine for spammers and scammers, but Google is using it as a tool to fight back",
@@ -95,36 +125,6 @@
             "title": "Anthropic CEO Dario Amodei arrives at White House for talks",
             "description": "[REUTERS] Anthropic CEO Dario Amodei arrived at the White House \u200cfor talks on Friday amid the artificial intelligence startup's dispute with the Pentagon, according to a Reuters witness.",
             "url": "https://www.reuters.com/world/anthropic-ceo-dario-amodei-arrives-white-house-talks-2026-04-17/"
-        },
-        {
-            "title": "AI demand is inflated",
-            "description": "[CNBC] The main usage metric for artificial intelligence, called tokens, looks explosive on paper, but it may be significantly overstated.",
-            "url": "https://www.cnbc.com/2026/04/17/ai-tokens-anthropic-openai-nvidia.html"
-        },
-        {
-            "title": "NVIDIA Stock Climbs 1.2% to $200 as AI Demand Fuels Continued Momentum in Chip Sector",
-            "description": "[INTERNATIONAL BUSINESS TIMES] NVIDIA Corp. shares rose more than 1% Friday, climbing to $200.67 in midday trading on the Nasdaq as investors continued to bet on the company's dominance in artificial intelligence infrastructure,",
-            "url": "https://www.ibtimes.com/nvidia-stock-climbs-12-200-ai-demand-fuels-continued-momentum-chip-sector-3801413"
-        },
-        {
-            "title": "I finally found a local LLM I want to use every day (and it's not for coding)",
-            "description": "[XDA DEVELOPERS] Local AI that actually fits into my day",
-            "url": "https://www.xda-developers.com/finally-found-local-llm-i-want-to-use-every-day/"
-        },
-        {
-            "title": "Mythos shows need to 'come to grips' with AI risks: Macklem",
-            "description": "[BNN BLOOMBERG] Bank of Canada Governor Tiff Macklem says global financial systems need to \u201ccome to grips\u201d with the risks posed by rapid advances in artificial intelligence models like Anthropic\u2019s Mythos.",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/04/17/anthropics-mythos-shows-need-to-come-to-grips-with-ai-risks-boc-governor/"
-        },
-        {
-            "title": "Mythos shows need to 'come to grips' with AI risks: Macklem",
-            "description": "[CP24 TORONTO] Bank of Canada Governor Tiff Macklem says global financial systems need to \u201ccome to grips\u201d with the risks posed by rapid advances in artificial intelligence models like Anthropic\u2019s Mythos.",
-            "url": "https://www.cp24.com/news/money/2026/04/17/anthropics-mythos-shows-need-to-come-to-grips-with-ai-risks-boc-governor/"
-        },
-        {
-            "title": "White House chief of staff to meet with Anthropic CEO over its new AI technology",
-            "description": "[BNN BLOOMBERG] White House chief of staff Susie Wiles plans to sound out Anthropic CEO Dario Amodei about the artificial intelligence company\u2019s new Mythos model.",
-            "url": "https://www.bnnbloomberg.ca/business/company-news/2026/04/17/white-house-chief-of-staff-to-meet-with-anthropic-ceo-over-its-new-ai-technology/"
         }
     ]
 }
