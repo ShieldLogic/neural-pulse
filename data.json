@@ -1,98 +1,130 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-04-18 11:57 UTC",
+    "updated": "2026-04-18 12:54:50 UTC",
     "news": [
         {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
-            "description": "The project was part of a package of tech investment promising the UK could become an AI superpower.",
-            "url": "https://www.bbc.com/news/articles/clyd032ej70o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4825/live/fa97e0f0-3433-11f1-a18c-d7e9f5df98a8.jpg",
-            "publishedAt": "2026-04-09T17:04:50Z",
-            "content": "Its project, dubbed Stargate UK, included a large data centre in Northumberland and making thousands of powerful chips for AI development available as part of a partnership with tech firms Nvidia and\u2026 [+7 chars]"
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019",
-            "description": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely-defined term that has incited a lot of discussion by tech CEOs, tech worke\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-23T19:42:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHe then seemed to slightly walk back the claim.\r\nHe then seemed to slightly walk back the claim.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to \u2026 [+2848 chars]"
+            "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
+            "description": "[RESEARCH] Generative AI",
+            "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "Why OpenAI killed Sora",
-            "description": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-27T21:47:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhy OpenAI killed Sora\r\nToo much compute, too much competition, and skeptical investors.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to your dai\u2026 [+10409 chars]"
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Will Knight",
-            "title": "AI Could Democratize One of Tech's Most Valuable Resources",
-            "description": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
-            "url": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
-            "urlToImage": "https://media.wired.com/photos/69dea084bbe4a9ff56b3014b/191:100/w_1280,c_limit/AL-Lab-AI-Could-Democratize-One-of-Techs-Most-Valuable-Resources-Business.jpg",
-            "publishedAt": "2026-04-15T18:00:00Z",
-            "content": "Nvidia is the undisputed king of AI chips. But thanks to the AI it helped build, the champ could soon face growing competition.\r\nModern AI runs on Nvidia designs, a dynamic that has propelled the com\u2026 [+3700 chars]"
+            "title": "Whole-Body Conditioned Egocentric Video Prediction",
+            "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
+            "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "Fear and loathing at OpenAI",
-            "description": "Sam Altman's tenure at OpenAI has been\u2026 messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep\u2026",
-            "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0410_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-10T12:23:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: what it takes to be in charge of AI, some vibe-coding and DIY work, and Brendan Carr.\r\nOn The Vergecast: what it takes to be in charge of AI, s\u2026 [+3366 chars]"
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "OpenAI shelves erotic chatbot \u2018indefinitely\u2019",
-            "description": "OpenAI \u200bhas paused plans to release a sexualized \"adult mode\" for ChatGPT, in its latest move to refocus on the company's core \u200bproducts. According to The Financial Times, the erotic chatbot has been shelved \"indefinitely\" after facing pushback from employees\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK464_PORN_ADULT_CONTENT_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-03-26T11:58:09Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMuch like Sora, OpenAI says its pausing plans for ChatGPTs adult mode to focus on core products.\r\nMuch like Sora, OpenAI says its pausing plans for ChatGPTs adul\u2026 [+2217 chars]"
+            "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
+            "description": "[RESEARCH] Generative AI",
+            "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Richard Lawler",
-            "title": "Arm\u2019s first CPU ever will plug into Meta\u2019s AI datacenters later this year",
-            "description": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for A\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/20260216_VISION25_ExplodedTight_Chip-01-16x9_16bit_v2-1200x675-1.jpg?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-            "publishedAt": "2026-03-24T20:43:14Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Arm AGI CPU can have up to 136 cores per CPU, claiming it has double the performance per watt of x86 chips.\r\nThe Arm AGI CPU can have up to 136 cores per CPU\u2026 [+3259 chars]"
+            "title": "AI-generated synthetic neurons speed up brain mapping",
+            "description": "[RESEARCH] General Science",
+            "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
+        },
+        {
+            "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
+            "description": "[RESEARCH] Generative AI",
+            "url": "https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/"
+        },
+        {
+            "title": "Information-Driven Design of Imaging Systems",
+            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
+            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
+        },
+        {
+            "title": "RL without TD learning",
+            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
+            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
+        },
+        {
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+        },
+        {
+            "title": "Towards developing future-ready skills with generative AI",
+            "description": "[RESEARCH] Education Innovation",
+            "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
+        },
+        {
+            "title": "What exactly does word2vec learn?",
+            "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
+            "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
+        },
+        {
+            "title": "Identifying Interactions at Scale for LLMs",
+            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
+            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Palantir Eyes Major FAA Deal to Modernize Air Traffic",
+            "description": "[MARKETS INSIDER] The U.S. Federal Aviation Administration is working with several companies to develop a new artificial intelligence tool for managing air traffi...",
+            "url": "https://markets.businessinsider.com/news/stocks/palantir-eyes-major-faa-deal-to-modernize-air-traffic-1036035033"
+        },
+        {
+            "title": "White House and Anthropic Hold \u2018Productive\u2019 Meeting, Aiming for a Compromise",
+            "description": "[THE NEW YORK TIMES] Friday\u2019s meeting at the White House followed the introduction of Anthropic\u2019s powerful new artificial intelligence model, Mythos, which U.S. officials believe could be critical for security.",
+            "url": "https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html"
+        },
+        {
+            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - AI Firm Anthropic and White House Seek Common Ground Amid Cybersecurity Fears",
+            "description": "[DEVDISCOURSE] Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all...",
+            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life"
+        },
+        {
+            "title": "Fact Check Team: Anthropic\u2019s Mythos AI raises cybersecurity promise, but poses risk",
+            "description": "[WJLA] A powerful new artificial intelligence model is drawing attention in the tech and cybersecurity world.",
+            "url": "https://wjla.com/news/nation-world/fact-check-team-anthropics-mythos-ai-raises-cybersecurity-promise-but-poses-risk-tools-cautious-google-amazon-apple"
+        },
+        {
+            "title": "Fact Check Team: Anthropic\u2019s Mythos AI raises cybersecurity promise, but poses risk",
+            "description": "[BALTIMORE NEWS] A powerful new artificial intelligence model is drawing attention in the tech and cybersecurity world.",
+            "url": "https://foxbaltimore.com/news/nation-world/fact-check-team-anthropics-mythos-ai-raises-cybersecurity-promise-but-poses-risk-tools-cautious-google-amazon-apple"
+        },
+        {
+            "title": "White House chief of staff meets with Anthropic CEO over its new AI technology",
+            "description": "[WTOP] WASHINGTON (AP) \u2014 White House chief of staff Susie Wiles on Friday sounded out Anthropic CEO Dario Amodei about the artificial intelligence company'",
+            "url": "https://wtop.com/europe/2026/04/white-house-chief-of-staff-to-meet-with-anthropic-ceo-over-its-new-ai-technology/"
+        },
+        {
+            "title": "White House, Anthropic Discuss Risks of AI",
+            "description": "[NEWSMAX] White House chief of staff Susie Wiles sounded out Anthropic CEO Dario Amodei about the artificial intelligence company's new Mythos model, which has attracted attention from the federal government...",
+            "url": "https://www.newsmax.com/newsfront/white-house-anthropic-meeting/2026/04/17/id/1253347/"
+        },
+        {
+            "title": "Meta prepares to lay off a tenth of its workforce",
+            "description": "[THE SUNDAY TIMES] The owner of Facebook and Instagram will cut 8,000 jobs next month and more later in the year as it spends hundreds of billions on artificial intelligence",
+            "url": "https://www.thetimes.com/us/business-us/article/meta-prepares-to-lay-off-a-tenth-of-its-workforce-flz9fklqj"
+        },
+        {
+            "title": "How artificial intelligence is changing business interaction with customers",
+            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Businesses say they are using AI to speed up service delivery and improve the customer experience, but economists warn this may be the \"calm before the storm\".",
+            "url": "https://www.abc.net.au/news/2026-04-18/artificial-intelligence-changing-businesses-customer-interaction/106567874"
+        },
+        {
+            "title": "Tech Up as AI Momentum Persists - Tech Roundup",
+            "description": "[MARKETSCREENER] Shares of technology companies rallied as traders chased momentum in artificial-intelligence leaders. Nvidia, the leading developer of chips for AI infrastructure, added roughly 8% for the week....",
+            "url": "https://www.marketscreener.com/news/tech-up-as-ai-momentum-persists-tech-roundup-ce7e50d3d88ffe26"
         }
     ]
 }
