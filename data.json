@@ -1,10 +1,10 @@
 {
-    "updated": "2026-04-18 16:35:05 UTC",
+    "updated": "2026-04-18 18:42:15 UTC",
     "news": [
         {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
@@ -12,19 +12,9 @@
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -35,6 +25,11 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
+        },
+        {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -52,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,19 +57,49 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
+            "title": "Cerritos teen invents AI-powered device to help detect and treat crossed eyes",
+            "description": "[KABC-TV] An eighth grader from Cerritos has developed an artificial intelligence-powered wearable device designed to help people with strabismus.",
+            "url": "https://abc7.com/post/teen-invents-ai-powered-device-help-detect-treat-crossed-eyes/18894498/"
+        },
+        {
+            "title": "Three hospitalised after inhaling smoke from fishing boat engine in Kozhikode",
+            "description": "[MALAYALA MANORAMA] The incident occurred around 6 am when the men entered the storage room of a fishing boat, Ayisha, to check for a possible leak..Beypore harbour incident, fishermen breathing difficulties, smoke...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/18/beypore-harbour-incident-fishermen-breathing-difficulties-smoke-inhalation-accident.html"
+        },
+        {
+            "title": "How Vaazha 2\u2019s 'Koodappirannor' composer Parvatish Pradeep left Bollywood to find his voice in Malayalam films",
+            "description": "[MALAYALA MANORAMA] Built around the fragile, enduring bond between siblings, Koodappirannor has struck a nerve that feels deeply personal to many listeners. For.Koodappirannor song, Vaazha 2 song, emotional sibling...",
+            "url": "https://www.onmanorama.com/entertainment/music/2026/04/18/vaazha-2-song-viral-koodepirannor-composer-parvatish-pradeep-malayalam-cinema.html"
+        },
+        {
+            "title": "White House chief Of Staff Meets Anthropic CEO Over New AI Technology",
+            "description": "[OUTLOOK INDIA] The White House has begun discussions with leading AI developers as officials assess the potential risks and benefits of powerful new artificial intelligence systems.",
+            "url": "https://www.outlookindia.com/international/white-house-chief-of-staff-meets-anthropic-ceo-over-new-ai-technology"
+        },
+        {
+            "title": "Youth stabbed to death after dispute in Thrissur; one arrested",
+            "description": "[MALAYALA MANORAMA] According to the police, the incident occurred around 10.30 pm on Friday..Thrissur stabbing, Kerala crime news, Madakkathara incident, murder in Thrissur, youth stabbed to death, arrest Thrissur,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/18/thrissur-stabbing-death-nikhil.html"
         },
         {
             "title": "Sandra Bullock Reacts To Fan-Made AI Trailers Of Practical Magic 2, Says THIS In Favour",
@@ -100,31 +125,6 @@
             "title": "Lawsuit aside, White House holds talks with Anthropic over powerful AI tool",
             "description": "[FIRSTPOST] Nearly a month after declaring the company a 'supply chain risk,' the White House on Saturday held talks with the top executives of artificial intelligence firm Anthropic, describing the meeting as...",
             "url": "https://www.firstpost.com/world/white-house-meeting-with-anthropic-dario-amodei-claude-mythos-14001759.html"
-        },
-        {
-            "title": "Al\u2019 attacker who tried to murder OpenAI CEO Sam Altman found ChatGPT \u2018awesome\u2019 because\u2026",
-            "description": "[TIMES OF INDIA] Tech News News: Daniel Moreno-Gama, who is accused of throwing a Molotov cocktail at OpenAI CEO Sam Altman's home, didn\u2019t always hate artificial intelligence (AI), a .",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/anti-al-attacker-who-tried-to-murder-openai-ceo-sam-altman-found-chatgpt-awesome-because/articleshow/130342489.cms"
-        },
-        {
-            "title": "OpenAI leadership shakeup: Srinivas Narayanan resigns amid multiple exits",
-            "description": "[MONEYCONTROL] Three OpenAI executives announced their departures from the company on Friday, the latest in a series of leadership shakeups at the artificial intelligence startup.",
-            "url": "https://www.moneycontrol.com/news/business/openai-leadership-shakeup-cto-srinivas-narayanan-resigns-amid-multiple-exits-13892474.html"
-        },
-        {
-            "title": "Anthropic and Trump officials meet to discuss Mythos access",
-            "description": "[THE JAPAN TIMES ] The White House said opportunities for collaboration and for addressing the challenges from artificial intelligence were discussed.",
-            "url": "https://www.japantimes.co.jp/business/2026/04/18/tech/anthropic-trump-officials-mythos/"
-        },
-        {
-            "title": "China Central Bank\u2019s Pan Flags AI Risks, Opportunities at IMF",
-            "description": "[BLOOMBERG] China\u2019s central bank governor Pan Gongsheng said artificial intelligence is driving a new wave of technological and industrial transformation that brings both opportunities and risks to the global...",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-18/china-central-bank-s-pan-flags-ai-risks-opportunities-at-imf"
-        },
-        {
-            "title": "Meta plans to slash roughly 8,000 jobs next month: report",
-            "description": "[FOX BUSINESS] Meta is reportedly planning to lay off nearly 8,000 employees on May 20, according to sources, as the tech giant seeks to offset rising artificial intelligence infrastructure costs.",
-            "url": "https://www.foxbusiness.com/technology/meta-plans-major-layoffs-next-month-more-cuts-expected-report"
         }
     ]
 }
