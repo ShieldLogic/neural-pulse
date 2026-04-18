@@ -1,10 +1,10 @@
 {
-    "updated": "2026-04-18 20:32:30 UTC",
+    "updated": "2026-04-18 22:30:21 UTC",
     "news": [
         {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
@@ -12,19 +12,9 @@
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -35,6 +25,11 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
+        },
+        {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -52,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Sandra Bullock Advocates for Creative Use of AI in Hollywood",
-            "description": "[DEVDISCOURSE] Oscar-winner Sandra Bullock believes Hollywood should embrace artificial intelligence creatively. While acknowledging potential misuse, she advocates for understanding AI as an ally. Bullock's...",
-            "url": "https://www.devdiscourse.com/article/entertainment/3878564-sandra-bullock-advocates-for-creative-use-of-ai-in-hollywood"
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
-            "title": "Pope Leo XIV warns AI could spread \u2018fear and violence\u2019 worldwide",
-            "description": "[THE NEWS INTERNATIONAL] Pope Leo XIV used a speech to students and teachers in Cameroon's capital Yaound\u00e9 on Friday to deliver his sharpest warning yet about artificial intelligence, saying the technology risked...",
-            "url": "https://www.thenews.com.pk/latest/1399437-pope-leo-xiv-warns-ai-could-spread-fear-and-violence-worldwide"
+            "title": "After Student Protests Over Suicide Horror, 17-Day Break: What\u2019s Happening at NIT Kurukshetra",
+            "description": "[TIMES NOW] A second-year student from Bihar, Diksha Dubey, was found hanging in her hostel room at the National Institute of Technology Kurukshetra, marking the fourth suspected suicide on campus in two months....",
+            "url": "https://www.timesnownews.com/city/after-student-protests-over-suicide-horror-17-day-break-whats-happening-at-nit-kurukshetra-article-154107529"
         },
         {
-            "title": "AI To Become Core In Punjab Schools As PSEB Reforms Curriculum & Links Learning Outcomes To Board Certificates",
-            "description": "[FREE PRESS JOURNAL] Punjab will integrate Artificial Intelligence as a core component of school education, with computer science learning outcomes reflected in board certificates, PSEB announced. At a national AI...",
-            "url": "https://www.freepressjournal.in/education/ai-to-become-core-in-punjab-schools-as-pseb-reforms-curriculum-links-learning-outcomes-to-board-certificates"
+            "title": "Iran closes Strait of Hormuz again as US blockade cotinues",
+            "description": "[MALAYALA MANORAMA] Tehran had on Friday declared the strait open on Friday after a ceasefire was agreed in Lebanon to halt Israel's war with Hezbollah..Strait of Hormuz closure, Iran US war peace deal, Middle East oil...",
+            "url": "https://www.onmanorama.com/news/world/2026/04/18/strait-of-hormuz-closure.html"
         },
         {
-            "title": "Still humming 'Ninte Nunakuzhi Kandappo'? The Kalyani gang just dropped 'Chillara Flex'",
-            "description": "[MALAYALA MANORAMA] The team, in a freewheeling interview with Onmanorama, describes the song as a 'powerful response', an anthem of defiance and freedom, challenging.Chillara Flex, Arjn KDS Fifty4, Kalyani song...",
-            "url": "https://www.onmanorama.com/entertainment/music/2026/04/18/chillara-flex-anthem-arjn-kds-new-music-malayalam-song.html"
+            "title": "Bitcoin miners pivot to AI is now an immediate risk to network security - but BTC revenue will still eclipse AI by over $4B",
+            "description": "[CRYPTOSLATE] Quantum computing has long served as Bitcoin\u2019s most cinematic threat. It has the right ingredients for a high-drama warning, strange machines, broken cryptography, and the possibility of a future...",
+            "url": "https://cryptoslate.com/bitcoin-miners-pivot-to-ai-is-now-an-immediate-risk-to-network-security-but-btc-revenue-will-still-eclipse-ai-by-over-4b/"
         },
         {
-            "title": "Kerala BDS student death: Three arrested in loan app fraud case from Noida, remanded",
-            "description": "[MALAYALA MANORAMA] Nithin, a native of Uzhamalackal in Thiruvananthapuram, was found critically injured near the medical college block on April 10 after falling from a.loan app fraud, Nithin Raj death, Instant Funds...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/18/loan-app-fraud-kannur-arrests-nithin-raj-suicide-remand.html"
+            "title": "Kannur BDS student death: Noida loan app under probe has over 1,200 customers in Kerala, complaints galore over harassment",
+            "description": "[MALAYALA MANORAMA] Based on the complaint, police launched an investigation into the app, while also probing separate allegations of abuse and harassment Nithin faced.loan app harassment, Instant Funds loan app, Noida...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/18/loan-app-harassment-investigation-kannur-bds-student-death-noida-probe-1200-customers-kerala-complaints.html"
         },
         {
-            "title": "Cerritos teen invents AI-powered device to help detect and treat crossed eyes",
-            "description": "[KABC-TV] An eighth grader from Cerritos has developed an artificial intelligence-powered wearable device designed to help people with strabismus.",
-            "url": "https://abc7.com/post/teen-invents-ai-powered-device-help-detect-treat-crossed-eyes/18894498/"
+            "title": "Don\u2019t Fear AI; It\u2019s Only Aid, Not Substitute: CJI Surya Kant",
+            "description": "[DAILY EXCELSIOR] BENGALURU, Apr 18: Cautioning that the adoption of technology in the judiciary must be accompanied by a clear and conscious understanding of its inherent limitations, Chief Justice of India Surya...",
+            "url": "https://www.dailyexcelsior.com/dont-fear-ai-its-only-aid-not-substitute-cji-surya-kant/"
         },
         {
-            "title": "Three hospitalised after inhaling smoke from fishing boat engine in Kozhikode",
-            "description": "[MALAYALA MANORAMA] The incident occurred around 6 am when the men entered the storage room of a fishing boat, Ayisha, to check for a possible leak..Beypore harbour incident, fishermen breathing difficulties, smoke...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/18/beypore-harbour-incident-fishermen-breathing-difficulties-smoke-inhalation-accident.html"
+            "title": "Don't fear AI; it's only aid, not substitute: CJI Surya Kant",
+            "description": "[THE ECONOMIC TIMES] Chief Justice of India Surya Kant advised judicial officers to use Artificial Intelligence carefully. He stressed that AI should assist, not replace, human judgment in courts. Judges must remain...",
+            "url": "https://economictimes.indiatimes.com/news/india/dont-fear-ai-its-only-aid-not-substitute-cji-surya-kant/articleshow/130350645.cms"
         },
         {
-            "title": "How Vaazha 2\u2019s 'Koodappirannor' composer Parvatish Pradeep left Bollywood to find his voice in Malayalam films",
-            "description": "[MALAYALA MANORAMA] Built around the fragile, enduring bond between siblings, Koodappirannor has struck a nerve that feels deeply personal to many listeners. For.Koodappirannor song, Vaazha 2 song, emotional sibling...",
-            "url": "https://www.onmanorama.com/entertainment/music/2026/04/18/vaazha-2-song-viral-koodepirannor-composer-parvatish-pradeep-malayalam-cinema.html"
+            "title": "Balancing Act: Judiciary Navigates AI Integration",
+            "description": "[DEVDISCOURSE] Chief Justice of India Surya Kant emphasizes the need for a balanced approach to integrating artificial intelligence in the judiciary. At a state-level conference, he highlighted AI's potential to...",
+            "url": "https://www.devdiscourse.com/article/law-order/3878670-balancing-act-judiciary-navigates-ai-integration"
         },
         {
-            "title": "White House chief Of Staff Meets Anthropic CEO Over New AI Technology",
-            "description": "[OUTLOOK INDIA] The White House has begun discussions with leading AI developers as officials assess the potential risks and benefits of powerful new artificial intelligence systems.",
-            "url": "https://www.outlookindia.com/international/white-house-chief-of-staff-meets-anthropic-ceo-over-new-ai-technology"
+            "title": "As Anthropic CEO Dario Amodei met with White House Chief of Staff Susie Wiles, Trump says: Who ...",
+            "description": "[TIMES OF INDIA] Tech News News: Anthropic CEO Dario Amodei walked into the White House this week for a high-level meeting on artificial intelligence, at a time when tensions between .",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-anthropic-ceo-dario-amodei-met-with-white-house-chief-of-staff-susie-wiles-trump-says-who-/articleshow/130350649.cms"
         },
         {
-            "title": "Youth stabbed to death after dispute in Thrissur; one arrested",
-            "description": "[MALAYALA MANORAMA] According to the police, the incident occurred around 10.30 pm on Friday..Thrissur stabbing, Kerala crime news, Madakkathara incident, murder in Thrissur, youth stabbed to death, arrest Thrissur,...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/18/thrissur-stabbing-death-nikhil.html"
+            "title": "Valparai tragedy: An entire village remains in mourning after tearful farewell to crash victims",
+            "description": "[MALAYALA MANORAMA] Students, colleagues, relatives, and local residents gathered in overwhelming numbers, many breaking down as they came face to face with the.Malappuram tragedy, Kerala school accident, Teacher...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/18/malappuram-tragedy-village-mourns-valparai-entire-village-remains-tearful-farewell-crash-vistims.html"
+        },
+        {
+            "title": "Hidden in plain sight: How a schoolgirl discovered 86 bird species on her 94-year-old campus",
+            "description": "[MALAYALA MANORAMA] Her mentor, Raju Kidoor, does not hesitate to call her an expert..young birdwatcher Neharika, Neharika bird book, campus bird species, ornithologist in training, documenting local birdlife, AI bird...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/18/young-birdwatcher-neharika-hidden-plain-sight-schoolgirl-discovered-86-bird-species-campus.html"
         }
     ]
 }
