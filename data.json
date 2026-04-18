@@ -1,30 +1,20 @@
 {
-    "updated": "2026-04-17 22:34:35 UTC",
+    "updated": "2026-04-18 02:01:38 UTC",
     "news": [
-        {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -35,6 +25,11 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
+        },
+        {
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -52,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "\u2018The control is totally with users\u2019: Samsung SRI",
-            "description": "[TIMES OF INDIA] Tech News News: As artificial intelligence (AI) shifts from reactive tools to proactive \u201cagents,\u201d Samsung is drawing a firm line when it comes to user privacy. Accord.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/the-control-is-totally-with-users-samsung-sri-noida-md-on-privacy-in-the-age-of-agentic-ai/articleshow/130329518.cms"
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
-            "title": "Middle-class customers risk paying more for their shopping as retailers tailor prices",
-            "description": "[GB NEWS] Middle-class households could soon face higher prices at the shops as retailers begin using artificial intelligence to personalise what customers are charged",
-            "url": "https://www.gbnews.com/money/supermarket-surge-pricing-middle-class"
+            "title": "Can AI properly interpret ASL? Deaf experts have concerns",
+            "description": "[NBC10 BOSTON] Sorenson Communications unveiled two artificial intelligence-powered tools designed to translate American Sign Language without a human interpreter",
+            "url": "https://www.nbcboston.com/news/local/ai-deaf-americans-asl-interpreter/3935273/"
         },
         {
-            "title": "Actor Bobby Kurian questioned in sexual assault case against director Ranjith",
-            "description": "[MALAYALA MANORAMA] In the ongoing sexual assault investigation against Malayalam filmmaker Ranjith, the Special Investigation Team has questioned actor Bobby Kurian to.Ranjith sexual assault case, Bobby Kurian...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/17/ranjith-sexual-assault-case-kochi.html"
+            "title": "NEA explores use of artificial intelligence in nuclear regulation",
+            "description": "[CRYPTO NEWS] NEA workshop highlights practical AI use cases in nuclear regulation, stressing frameworks, human oversight, and secure on-premise models for deployment",
+            "url": "https://crypto.news/nea-explores-use-of-artificial-intelligence-in-nuclear-regulation/"
         },
         {
-            "title": "Kerala HC lifts restraint on nurses' strike, allows disciplinary action by hospitals",
-            "description": "[MALAYALA MANORAMA] The court held that the petitioner, representing hospital management, is free to proceed in accordance with the law, including initiating appropriate.Kerala High Court order, nurses association...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/17/kerala-high-court-strike-order-modification-nurses-association-private-hospital-dispute-disciplinary-action.html"
+            "title": "Govt expanding capacity building to scientists, academics: Union Minister Jitendra Singh",
+            "description": "[THE ECONOMIC TIMES] India is enhancing training for scientists and academics. This initiative aims to equip institutions for future governance needs. Artificial intelligence and digital tools are highlighted as crucial...",
+            "url": "https://economictimes.indiatimes.com/news/india/govt-expanding-capacity-building-to-scientists-academics-union-minister-jitendra-singh/articleshow/130335123.cms"
         },
         {
-            "title": "Heatwave alert: Kerala sets up heatstroke clinics, urges public to avoid sun from 11am to 3pm",
-            "description": "[MALAYALA MANORAMA] Health Department is urging the public to take stringent precautions against rising temperatures..heatstroke prevention, uv index precautions, health department advisories, heat-related illness...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/17/heatstroke-prevention-guide.html"
+            "title": "Canva AI 2.0 launched with Agentic Tools, Memory and Smarter Design features",
+            "description": "[INDIA TV NEWS] Canva has unveiled Canva AI 2.0, a major upgrade to its artificial intelligence tools. The new version adds agentic capabilities, memory, web research, scheduling, and smarter design automation to...",
+            "url": "https://www.indiatvnews.com/technology/news/canva-ai-2-0-launched-with-agentic-tools-memory-and-smarter-design-features-2026-04-17-1037912"
         },
         {
-            "title": "Microsoft-Backed OpenAI Launches GPT-Rosalind AI Model For Medical Applications",
-            "description": "[MARKETSCREENER] Microsoft-backed OpenAI said Thursday it introduced a specialized artificial intelligence model named GPT-Rosalind to support biology and drug discovery research. Early adopters using the new...",
-            "url": "https://www.marketscreener.com/news/microsoft-backed-openai-launches-gpt-rosalind-ai-model-for-medical-applications-ce7e50d2dc8ef225"
+            "title": "Eight Malappuram school staff feared dead as van plunges off Valparai ghat road",
+            "description": "[MALAYALA MANORAMA] A total of 16 people, including children, were travelling in the vehicle.Kerala road accident Valparai, Valparai accident victims, mini van accident Kerala, teachers road accident Valparai, hairpin...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/17/valaparai-accident-death-teacher-malappuram-school-paangu.html"
         },
         {
-            "title": "A Family Feud at an Oregon Winery Turns to Vinegar Over A.I. Slop",
-            "description": "[THE NEW YORK TIMES] She wanted to pry her late mother\u2019s vineyard from two of her brothers. Instead, her lawyers were fined nearly $110,000 for citing bogus case law generated by artificial intelligence.",
-            "url": "https://www.nytimes.com/2026/04/17/us/oregon-winery-ai-legal-fight.html"
+            "title": "Elon Musk floats 'universal high income' to offset AI",
+            "description": "[THE ECONOMIC TIMES] Elon Musk suggests universal high income as a solution for job displacement due to artificial intelligence and robotics. He believes AI will boost production significantly, leading to abundance...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musk-floats-universal-high-income-to-offset-ai-led-job-disruption/articleshow/130334752.cms"
         },
         {
-            "title": "The attack on Sam Altman exposed a dark underbelly of the anti-AI movement",
-            "description": "[CABLE NEWS NETWORK] Mainstream artificial intelligence safety groups moved quickly to distance themselves after a 20-year-old allegedly attacked the home of OpenAI CEO Sam Altman last week in what law enforcement...",
-            "url": "https://edition.cnn.com/2026/04/17/tech/anti-ai-attack-sam-altman"
+            "title": "Anthropic CEO set to meet White House officials amid Pentagon AI dispute",
+            "description": "[THE NEWS INTERNATIONAL] Anthropic CEO Dario Amodei is set to meet White House chief of staff Susie Wiles on Friday, in a sign of a breakthrough \u200cin the artificial intelligence startup's dispute with the Pentagon. As...",
+            "url": "https://www.thenews.com.pk/latest/1399357-anthropic-ceo-set-to-meet-white-house-officials-amid-pentagon-ai-dispute"
         },
         {
-            "title": "The attack on Sam Altman exposed a dark underbelly of the anti-AI movement",
-            "description": "[ABC17NEWS.COM] By Clare Duffy, CNN New York (CNN) \u2014 Mainstream artificial intelligence safety groups moved quickly to distance themselves after a 20-year-old allegedly attacked the home of OpenAI CEO Sam Altman...",
-            "url": "https://abc17news.com/money/cnn-business-consumer/2026/04/17/the-attack-on-sam-altman-exposed-a-dark-underbelly-of-the-anti-ai-movement/"
+            "title": "Corruption row disrupts Kochi Corporation council meet; opposition demands Mayor\u2019s resignation",
+            "description": "[MALAYALA MANORAMA] However, responding to the allegations, Minimol dismissed them as politically-motivated, noting that similar charges had been raised by the LDF.Kochi corporation mayor resignation, Vigilance probe...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/17/kochi-mayor-resignation-demand-mayor-resignation-corruption-row-council-meet.html"
         },
         {
-            "title": "TasteSignal.ai uses AI to rank Charleston, SC, restaurants",
-            "description": "[CHARLESTON POST AND COURIER] TasteSignal.ai uses artificial intelligence to rank 200-plus Charleston restaurants based on reviews, trends and local buzz. It's also doubling as a real-world classroom tool at the College of...",
-            "url": "https://www.postandcourier.com/food/taste-signal-ai-best-charleston-sc-restaurants/article_06bbe84c-6694-4842-ad6c-e70fa7ec87dd.html"
+            "title": "Govt expanding capacity building to scientists, academics: Union Minister Jitendra Singh",
+            "description": "[THEPRINT] New Delhi, Apr 17 (PTI) Union Minister Jitendra Singh on Friday said that the government is expanding capacity building to scientists and academics, as part of its continuous efforts towards...",
+            "url": "https://theprint.in/india/govt-expanding-capacity-building-to-scientists-academics-union-minister-jitendra-singh/2907673/"
+        },
+        {
+            "title": "Microsoft VP Rajesh Jha has a big business idea for software companies on Agentic AI that should wipe out all 'Claude fears'",
+            "description": "[TIMES OF INDIA] Tech News News: As fears grow that artificial intelligence (AI) may kill the traditional software business model, a top executive at Microsoft has floated a new idea:.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-vp-rajesh-jha-has-a-big-business-idea-for-software-companies-on-agentic-ai-that-should-wipe-out-all-claude-fears/articleshow/130334214.cms"
         }
     ]
 }
