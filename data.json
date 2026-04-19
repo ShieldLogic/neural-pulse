@@ -1,20 +1,30 @@
 {
-    "updated": "2026-04-19 18:42:39 UTC",
+    "updated": "2026-04-19 20:33:12 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -25,11 +35,6 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
-        },
-        {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -47,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,9 +77,24 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "South China Morning Post",
+            "description": "[SOUTH CHINA MORNING POST] As artificial intelligence upends job markets and academic norms, we must go beyond the fear of change to redefine what it means to be educated.",
+            "url": "https://www.scmp.com/opinion/world-opinion/article/3350030/ai-advancing-now-its-humans-redefine-their-worth"
+        },
+        {
+            "title": "From using AI to deploying more pumps\u2014how BMC is preparing for monsoon this year",
+            "description": "[THE INDIAN EXPRESS] Besides installing a slew of dewatering pumps and carrying out interventions in flood prone zones, the Brihanmumbai Municipal Corporation has derived its own Artificial Intelligence model to keep a...",
+            "url": "https://indianexpress.com/article/cities/mumbai/from-using-ai-to-deploying-more-pumps-how-bmc-preparing-for-monsoon-this-year-10644772/"
+        },
+        {
+            "title": "'It Was Purely A Gimmick': Varun Dhawan's Hai Jawani Toh Ishq Hona Hai Team Denies AI Use In Film Amid Row Over 'AI Babies' In Teaser",
+            "description": "[FREE PRESS JOURNAL] The AI-driven concept triggered speculation online, with many wondering whether Hai Jawani Toh Ishq Hona Hai itself relies heavily on artificial intelligence. Addressing these concerns, a source...",
+            "url": "https://www.freepressjournal.in/entertainment/it-was-purely-a-gimmick-varun-dhawans-hai-jawani-toh-ishq-hona-hai-team-denies-ai-use-in-film-amid-row-over-ai-babies-in-teaser"
+        },
+        {
+            "title": "With \u2018The Mummy\u2019, Lee Cronin rejects nostalgia to deliver a darker, more claustrophobic vision",
+            "description": "[MALAYALA MANORAMA] Films like The Mummy, directed by Stephen Sommers and led by Brendan Fraser, were never designed to terrify. They entertained, blending mythology.The Mummy reimagined, new Mummy movie horror, Lee...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/04/19/lee-cronin-the-mummy-2026-horror-movie-hollywood-franchise.html"
         },
         {
             "title": "Word of the Week: Slopaganda - the AI-generated visuals of Trump and Iran flooding the internet",
@@ -105,26 +125,6 @@
             "title": "Relief for actor Maniyanpilla Raju as blood test rules out drunken driving in hit-and-run case",
             "description": "[MALAYALA MANORAMA] The case relates to an accident on February 5 in Thiruvananthapuram, where a car driven by the actor allegedly struck a two-wheeler and left the.Maniyanpilla Raju hit and run, actor Maniyanpilla Raju...",
             "url": "https://www.onmanorama.com/news/kerala/2026/04/19/actor-maniyanpilla-raju-relief-hit-and-run-case-blood-test.html"
-        },
-        {
-            "title": "Jack Dorsey who openly admitted that he is laying off thousands from his $41 billion company Block due to AI; says: I wanted to make sure that if we ...",
-            "description": "[TIMES OF INDIA] Tech News News: In a rare moment of candour among tech leaders, Jack Dorsey, CEO of fintech giant Block, openly admitted that artificial intelligence was the driving .",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/jack-dorsey-who-openly-admitted-that-he-is-laying-off-thousands-from-his-41-billion-company-block-due-to-ai-says-i-wanted-to-make-sure-that-if-we-/articleshow/130364748.cms"
-        },
-        {
-            "title": "How do you measure an AI boom?",
-            "description": "[THE INDIAN EXPRESS] Today\u2019s artificial intelligence boom is awash in data showing the rapid progress of AI systems, and hype-filled claims about what the technology can and can\u2019t do.",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/how-do-you-measure-an-ai-boom-10644349/"
-        },
-        {
-            "title": "Zoho\u2019s Sridhar Vembu has some advice for techies on weathering the AI storm",
-            "description": "[HINDUSTAN TIMES] Sridhar Vembu, founder and former CEO of Zoho, has shared his perspective on how software engineers can stay relevant in the age of artificial intelligence | Trending",
-            "url": "https://www.hindustantimes.com/trending/zohos-sridhar-vembu-has-some-advice-for-techies-on-weathering-the-ai-storm-101776567918251.html"
-        },
-        {
-            "title": "Barclays CEO CS Venkatakrishnan to everyone in the banking community: Anthropic Mythos is a serious threat; but here's the thing that there will be \u2026",
-            "description": "[TIMES OF INDIA] Tech News News: Barclays CEO CS Venkatakrishnan has a major warning for Anthropic\u2019s Mythos artificial intelligence (AI) model. According to a report by the news agenc.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/barclays-ceo-cs-venkatakrishnan-to-everyone-in-the-banking-community-anthropic-mythos-is-a-serious-threat-but-heres-the-thing-that-there-will-be-/articleshow/130361766.cms"
         }
     ]
 }
