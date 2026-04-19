@@ -1,30 +1,20 @@
 {
-    "updated": "2026-04-19 16:35:39 UTC",
+    "updated": "2026-04-19 18:42:39 UTC",
     "news": [
-        {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -35,6 +25,11 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
+        },
+        {
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -52,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,19 +57,44 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
+            "title": "Word of the Week: Slopaganda - the AI-generated visuals of Trump and Iran flooding the internet",
+            "description": "[FIRSTPOST] As the war between Iran and the US continues, it\u2019s hard not to have come across the many videos on social media poking fun at the US president. What about Donald Trump\u2019s now-deleted image of him in a...",
+            "url": "https://www.firstpost.com/explainers/word-of-the-week-slopaganda-the-ai-generated-visuals-of-trump-and-iran-flooding-the-internet-14001181.html"
+        },
+        {
+            "title": "Deepika Padukone, Ranveer Singh expecting second child, share post with daughter Dua",
+            "description": "[MALAYALA MANORAMA] The announcement came with a photograph featuring their daughter, Dua Padukone Singh, holding a pregnancy test that showed a positive result..Deepika Padukone pregnancy, Ranveer Singh second child,...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/04/19/deepika-padukone-ranveer-singh-pregnant-second-time-bollywood.html"
+        },
+        {
+            "title": "Verizon CEO Dan Schulman says \u2018not scared of\u2019 Anthropic\u2019s Mythos: \u2018It is just a\u2026\u2019",
+            "description": "[TIMES OF INDIA] Tech News News: Verizon CEO Dan Schulman is not backing down from the rapid rise of artificial intelligence (AI), and has said that the telecom giant is already utili.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/verizon-ceo-dan-schulman-says-not-scared-of-anthropics-mythos-it-is-just-a/articleshow/130364863.cms"
+        },
+        {
+            "title": "Dileesh Pothan indicates \u2018Premalu 2\u2019 may be shelved; \u2018Bethlehem Kudumba Unit\u2019 next",
+            "description": "[MALAYALA MANORAMA] Pothan had earlier stated that the second instalment of Premalu would not be made immediately, citing technical reasons..Premalu 2 sequel, Dileesh Pothan Premalu 2, Malayalam film sequel updates,...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/04/19/premalu-2-shelved-dileesh-pothan-movie-mamitha-naslen.html"
         },
         {
             "title": "I wanted more from life: How IIT Guwahati is helping me rewrite my future",
@@ -105,26 +125,6 @@
             "title": "Barclays CEO CS Venkatakrishnan to everyone in the banking community: Anthropic Mythos is a serious threat; but here's the thing that there will be \u2026",
             "description": "[TIMES OF INDIA] Tech News News: Barclays CEO CS Venkatakrishnan has a major warning for Anthropic\u2019s Mythos artificial intelligence (AI) model. According to a report by the news agenc.",
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/barclays-ceo-cs-venkatakrishnan-to-everyone-in-the-banking-community-anthropic-mythos-is-a-serious-threat-but-heres-the-thing-that-there-will-be-/articleshow/130361766.cms"
-        },
-        {
-            "title": "FAA accepting bids for AI system to assist air traffic controllers",
-            "description": "[UPI NEWS] The FAA is working to develop artificial intelligence software to help air traffic controllers manage flights across the nation's airspace.",
-            "url": "https://www.upi.com/Top_News/US/2026/04/18/faa-bids-ai-system-air-traffic-control-assistance/7181776557305/"
-        },
-        {
-            "title": "JU, NIELIT conduct interactive session on AI skill training",
-            "description": "[DAILY EXCELSIOR] Excelsior Correspondent JAMMU, Apr 18: The Centre for Distance and Online Education (CDOE), University of Jammu, in collaboration with the National Institute of Electronics and Information Technology...",
-            "url": "https://www.dailyexcelsior.com/ju-nielit-conduct-interactive-session-on-ai-skill-training/"
-        },
-        {
-            "title": "\u2018Use AI in a really constructive & creative way...\u2019",
-            "description": "[THE TRIBUNE] Sandra Bullock has called on the entertainment industry to embrace artificial intelligence, urging creatives to adapt to its growing influence while remaining cautious about its risks.",
-            "url": "https://www.tribuneindia.com/news/lifestyle/use-ai-in-a-really-constructive-creative-way/"
-        },
-        {
-            "title": "New artificial intelligence bots could drain nation's cash machines",
-            "description": "[DAILY MAIL ONLINE] British banks are set to be given early access to stress-test their cyber defences against Claude Mythos, a state-of-the-art AI bot.",
-            "url": "https://www.dailymail.co.uk/money/markets/article-15744747/New-artificial-intelligence-bots-drain-nations-cash-machines.html"
         }
     ]
 }
