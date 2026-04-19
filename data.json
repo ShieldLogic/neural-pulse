@@ -1,98 +1,130 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-04-19 11:58 UTC",
+    "updated": "2026-04-19 12:54:26 UTC",
     "news": [
         {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
-            "description": "The project was part of a package of tech investment promising the UK could become an AI superpower.",
-            "url": "https://www.bbc.com/news/articles/clyd032ej70o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4825/live/fa97e0f0-3433-11f1-a18c-d7e9f5df98a8.jpg",
-            "publishedAt": "2026-04-09T17:04:50Z",
-            "content": "Its project, dubbed Stargate UK, included a large data centre in Northumberland and making thousands of powerful chips for AI development available as part of a partnership with tech firms Nvidia and\u2026 [+7 chars]"
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019",
-            "description": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely-defined term that has incited a lot of discussion by tech CEOs, tech worke\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-23T19:42:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHe then seemed to slightly walk back the claim.\r\nHe then seemed to slightly walk back the claim.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to \u2026 [+2848 chars]"
+            "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
+            "description": "[RESEARCH] Generative AI",
+            "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "BeauHD",
-            "title": "OpenAI Starts Offering a Biology-Tuned LLM",
-            "description": "An anonymous reader quotes a report from Ars Technica: On Thursday, OpenAI announced it had developed a large language model specifically trained on common biology workflows. Called GPT-Rosalind after Rosalind Franklin, the model appears to differ from most s\u2026",
-            "url": "https://science.slashdot.org/story/26/04/17/1721205/openai-starts-offering-a-biology-tuned-llm",
-            "urlToImage": "https://a.fsdn.com/sd/topics/biotech_64.png",
-            "publishedAt": "2026-04-17T18:00:00Z",
-            "content": "On Thursday, OpenAI announced it had developed a large language model specifically trained on common biology workflows. Called GPT-Rosalind after Rosalind Franklin, the model appears to differ from m\u2026 [+1722 chars]"
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "Why OpenAI killed Sora",
-            "description": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-27T21:47:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhy OpenAI killed Sora\r\nToo much compute, too much competition, and skeptical investors.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to your dai\u2026 [+10409 chars]"
+            "title": "Whole-Body Conditioned Egocentric Video Prediction",
+            "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
+            "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
         },
         {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Will Knight",
-            "title": "AI Could Democratize One of Tech's Most Valuable Resources",
-            "description": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
-            "url": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
-            "urlToImage": "https://media.wired.com/photos/69dea084bbe4a9ff56b3014b/191:100/w_1280,c_limit/AL-Lab-AI-Could-Democratize-One-of-Techs-Most-Valuable-Resources-Business.jpg",
-            "publishedAt": "2026-04-15T18:00:00Z",
-            "content": "Nvidia is the undisputed king of AI chips. But thanks to the AI it helped build, the champ could soon face growing competition.\r\nModern AI runs on Nvidia designs, a dynamic that has propelled the com\u2026 [+3700 chars]"
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "Fear and loathing at OpenAI",
-            "description": "Sam Altman's tenure at OpenAI has been\u2026 messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep\u2026",
-            "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0410_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-10T12:23:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: what it takes to be in charge of AI, some vibe-coding and DIY work, and Brendan Carr.\r\nOn The Vergecast: what it takes to be in charge of AI, s\u2026 [+3366 chars]"
+            "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
+            "description": "[RESEARCH] Generative AI",
+            "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "OpenAI shelves erotic chatbot \u2018indefinitely\u2019",
-            "description": "OpenAI \u200bhas paused plans to release a sexualized \"adult mode\" for ChatGPT, in its latest move to refocus on the company's core \u200bproducts. According to The Financial Times, the erotic chatbot has been shelved \"indefinitely\" after facing pushback from employees\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK464_PORN_ADULT_CONTENT_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-03-26T11:58:09Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMuch like Sora, OpenAI says its pausing plans for ChatGPTs adult mode to focus on core products.\r\nMuch like Sora, OpenAI says its pausing plans for ChatGPTs adul\u2026 [+2217 chars]"
+            "title": "AI-generated synthetic neurons speed up brain mapping",
+            "description": "[RESEARCH] General Science",
+            "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
+        },
+        {
+            "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
+            "description": "[RESEARCH] Generative AI",
+            "url": "https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/"
+        },
+        {
+            "title": "Information-Driven Design of Imaging Systems",
+            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
+            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
+        },
+        {
+            "title": "RL without TD learning",
+            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
+            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
+        },
+        {
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+        },
+        {
+            "title": "Towards developing future-ready skills with generative AI",
+            "description": "[RESEARCH] Education Innovation",
+            "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
+        },
+        {
+            "title": "What exactly does word2vec learn?",
+            "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
+            "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
+        },
+        {
+            "title": "Identifying Interactions at Scale for LLMs",
+            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
+            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "FAA accepting bids for AI system to assist air traffic controllers",
+            "description": "[UPI NEWS] The FAA is working to develop artificial intelligence software to help air traffic controllers manage flights across the nation's airspace.",
+            "url": "https://www.upi.com/Top_News/US/2026/04/18/faa-bids-ai-system-air-traffic-control-assistance/7181776557305/"
+        },
+        {
+            "title": "JU, NIELIT conduct interactive session on AI skill training",
+            "description": "[DAILY EXCELSIOR] Excelsior Correspondent JAMMU, Apr 18: The Centre for Distance and Online Education (CDOE), University of Jammu, in collaboration with the National Institute of Electronics and Information Technology...",
+            "url": "https://www.dailyexcelsior.com/ju-nielit-conduct-interactive-session-on-ai-skill-training/"
+        },
+        {
+            "title": "\u2018Use AI in a really constructive & creative way...\u2019",
+            "description": "[THE TRIBUNE] Sandra Bullock has called on the entertainment industry to embrace artificial intelligence, urging creatives to adapt to its growing influence while remaining cautious about its risks.",
+            "url": "https://www.tribuneindia.com/news/lifestyle/use-ai-in-a-really-constructive-creative-way/"
+        },
+        {
+            "title": "New artificial intelligence bots could drain nation's cash machines",
+            "description": "[DAILY MAIL ONLINE] British banks are set to be given early access to stress-test their cyber defences against Claude Mythos, a state-of-the-art AI bot.",
+            "url": "https://www.dailymail.co.uk/money/markets/article-15744747/New-artificial-intelligence-bots-drain-nations-cash-machines.html"
+        },
+        {
+            "title": "\u2018No such thing as absolute safety\u2019: Japan embraces nuclear post-Fukushima",
+            "description": "[POLITICO] The country is rapidly moving to restart reactors as artificial intelligence increases electricity demand and foreign wars choke gas supplies.",
+            "url": "https://www.politico.com/news/2026/04/18/japan-nuclear-fukushima-energy-00816474"
+        },
+        {
+            "title": "In A First, Indore's DAVV To Introduce IKS And AI In All Courses From 2026-27",
+            "description": "[FREE PRESS JOURNAL] DAVV has announced a major academic reform to introduce Artificial Intelligence and Indian Knowledge Systems across all undergraduate and postgraduate programmes from the 2026\u201327 session. The...",
+            "url": "https://www.freepressjournal.in/indore/in-a-first-indores-davv-to-introduce-iks-and-ai-in-all-courses-from-202627"
+        },
+        {
+            "title": "Elon Musk Says 'If AI/Robots Increase Output, Then You Must Issue Dollars To People or There Will Be Mass",
+            "description": "[BENZINGA] Elon Musk has argued that federally funded checks delivering a universal high income are his preferred response to job losses tied to artificial intelligence, framing it as an inflation-safe policy...",
+            "url": "https://www.benzinga.com/news/politics/26/04/51902572/elon-musk-says-if-ai-robots-increase-output-then-you-must-issue-dollars-to-people-or-there-will-be-massive-disinflation"
+        },
+        {
+            "title": "Pro-Trump AI influencers are flooding social media.",
+            "description": "[THE VERGE] The New York Times has found hundreds of fake accounts on Instagram, TikTok, and Facebook that appear to be a pre-midterm push to get conservative voters to the polls in support of Trump\u2019s agenda....",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/914668/pro-trump-ai-influencers-are-flooding-social-media"
+        },
+        {
+            "title": "\u2018Patriot,\u2019 \u2018Drishyam,\u2019 \u2018Kattalan\u2019 lead a thrilling lineup of big",
+            "description": "[MALAYALA MANORAMA] Malayalam cinema is experiencing a significant surge in high-budget productions, with many films now costing between 10 crore and 100 crore, and some.Malayalam cinema high budget films, Mollywood...",
+            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/04/18/malayalam-cinema-high-budget-mollywood-upcoming-movies-2026.html"
+        },
+        {
+            "title": "Marvell (MRVL) Is an AI Winner. Three Reasons the Bull Case Still Holds",
+            "description": "[MARKETS INSIDER] Marvell Technology (MRVL) has been a major winner of the artificial intelligence (AI) boom so far. In April alone, the data infrastructure semic...",
+            "url": "https://markets.businessinsider.com/news/stocks/marvell-mrvl-is-an-ai-winner-three-reasons-the-bull-case-still-holds-1036035339"
         }
     ]
 }
