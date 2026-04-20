@@ -1,10 +1,10 @@
 {
-    "updated": "2026-04-19 22:31:22 UTC",
+    "updated": "2026-04-20 02:23:53 UTC",
     "news": [
         {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
@@ -12,19 +12,9 @@
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
-        },
-        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -35,6 +25,11 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
+        },
+        {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -52,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Five films exiting Netflix India between April 19 and 30",
-            "description": "[MALAYALA MANORAMA] Viewers looking to revisit these titles have a limited window before they are removed from the platform, with removal dates spread between April 19.Netflix India leaving soon, The Equalizer Netflix...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/04/19/movies-leaving-netflix-india-april-content-change.html"
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
-            "title": "India brings AI services to villages with unique DPI: Report",
-            "description": "[LOKMAT TIMES] India brings AI services to villages with unique DPI: Report - New Delhi, April 19 India is pairing artificial intelligence with digital public infrastructure, local\u2011language systems and governance...",
-            "url": "https://www.lokmattimes.com/technology/india-brings-ai-services-to-villages-with-unique-dpi-report-1/"
+            "title": "Noted neurosurgeon Dr Jacob Abraham passes away at 94",
+            "description": "[MALAYALA MANORAMA] Dr Abraham made notable contributions to medical science, particularly in neurosurgery, through his research..Dr Jacob Abraham, Dr Jacob Abraham death, Dr Jacob Abraham CMC Vellore, neurosurgery...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/19/dr-jacob-abraham-passes-away.html"
         },
         {
-            "title": "India brings AI services to villages with unique DPI: Report",
-            "description": "[LOKMAT TIMES] India brings AI services to villages with unique DPI: Report - New Delhi, April 19 India is pairing artificial intelligence with digital public infrastructure, local\u2011language systems and governance...",
-            "url": "https://www.lokmattimes.com/business/india-brings-ai-services-to-villages-with-unique-dpi-report/"
+            "title": "How fears of AI disruption are reshaping career choices and increasing interest in graduate education among youth",
+            "description": "[TIMES OF INDIA] News News: As artificial intelligence reshapes hiring patterns and disrupts traditional entry-level roles, a growing number of young graduates are rethinking the.",
+            "url": "https://timesofindia.indiatimes.com/education/news/how-fears-of-ai-disruption-are-reshaping-career-choices-and-increasing-interest-in-graduate-education-among-youth/articleshow/130366984.cms"
         },
         {
-            "title": "Digital Arrest Scams: CBI To Launch Chatbot To Help People Verify Notices Issued To Them",
-            "description": "[DAILY EXCELSIOR] NEW DELHI, Apr 19: To tackle the menace of digital arrest frauds, the Central Bureau of Investigation (CBI) will on Monday unveil an artificial intelligence-powered chatbot that will help people...",
-            "url": "https://www.dailyexcelsior.com/digital-arrest-scams-cbi-to-launch-chatbot-to-help-people-verify-notices-issued-to-them/"
+            "title": "After kuzhimandhi, now shawaya: Vishu ad row erupts in Malappuram over Lord Krishna\u2019s portrayal",
+            "description": "[MALAYALA MANORAMA] The FIR states that the accused allegedly shared the greeting with prior knowledge that it could hurt religious sentiments and disturb public harmony..Vishu advertisement controversy, Malappuram...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/19/kuzhimandhi-shawaya-vishu-ad-controversy-malappuram-row-lord-krishna-portrayal.html"
         },
         {
-            "title": "Zoho founder Sridhar Vembu to engineers on how to survive in AI era: Programming skills are the foundation, but ...",
-            "description": "[TIMES OF INDIA] Tech News News: As artificial intelligence reshapes the technology landscape, Zoho founder Sridhar Vembu has now offered some candid advice to the software engineers .",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/zoho-founder-sridhar-vembu-to-engineers-on-how-to-survive-in-ai-era-programming-skills-are-the-foundation-but-/articleshow/130367302.cms"
+            "title": "Tech sector layoffs accelerate in 2026 amid AI pivot",
+            "description": "[ZEE NEWS] The data from Layoffs.fyi showed that the past two weeks saw a fresh surge in headcount reductions. Snap Inc., The Walt Disney Company, Meta Platforms and Oracle Corporation, announced layoffs...",
+            "url": "https://zeenews.india.com/economy/tech-sector-layoffs-accelerate-in-2026-amid-ai-pivot-3038985.html"
         },
         {
-            "title": "Defence Minister Rajnath Singh to visit Germany to boost defence ties; first visit in 7 years",
-            "description": "[THE ECONOMIC TIMES] According to the Ministry of Defence (MoD), discussions will focus on enhancing defence industrial collaboration, strengthening military-to-military engagements, and exploring opportunities in...",
-            "url": "https://economictimes.indiatimes.com/news/defence/defence-minister-rajnath-singh-to-visit-germany-to-boost-defence-ties-first-visit-in-7-years/articleshow/130367300.cms"
+            "title": "Trump wants to stop states from regulating AI. This Utah Republican isn't listening",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Doug Fiefia once worked at Google. Now he's a Utah state representative running to be a state senator. And like some other tech employees who've gone into politics, he's made regulating the...",
+            "url": "https://www.ajc.com/news/2026/04/trump-wants-to-stop-states-from-regulating-ai-this-utah-republican-isnt-listening/"
         },
         {
-            "title": "South China Morning Post",
-            "description": "[SOUTH CHINA MORNING POST] As artificial intelligence upends job markets and academic norms, we must go beyond the fear of change to redefine what it means to be educated.",
-            "url": "https://www.scmp.com/opinion/world-opinion/article/3350030/ai-advancing-now-its-humans-redefine-their-worth"
+            "title": "Final peace deal 'far' off despite negotiations, says Iran's speaker of parliament",
+            "description": "[MALAYALA MANORAMA] US President Donald Trump said 'very good conversations' were going on with Iran but warned Tehran against trying to 'blackmail' the United States..Strait of Hormuz closure, Iran US standoff,...",
+            "url": "https://www.onmanorama.com/news/world/2026/04/19/strait-of-hormuz-iran-israel-us.html"
         },
         {
-            "title": "From using AI to deploying more pumps\u2014how BMC is preparing for monsoon this year",
-            "description": "[THE INDIAN EXPRESS] Besides installing a slew of dewatering pumps and carrying out interventions in flood prone zones, the Brihanmumbai Municipal Corporation has derived its own Artificial Intelligence model to keep a...",
-            "url": "https://indianexpress.com/article/cities/mumbai/from-using-ai-to-deploying-more-pumps-how-bmc-preparing-for-monsoon-this-year-10644772/"
+            "title": "Abandoned at birth, four-day-old elephant calf rescued in Palakkad",
+            "description": "[MALAYALA MANORAMA] Born on the eve of Vishu in the forests of Abbanur, the calf has been named Vishnu by forest officials..elephant calf rescue, orphaned elephant Attappady, newborn elephant care, rescued baby...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/19/elepelephant-calf-rescue-attappady.html"
         },
         {
-            "title": "'It Was Purely A Gimmick': Varun Dhawan's Hai Jawani Toh Ishq Hona Hai Team Denies AI Use In Film Amid Row Over 'AI Babies' In Teaser",
-            "description": "[FREE PRESS JOURNAL] The AI-driven concept triggered speculation online, with many wondering whether Hai Jawani Toh Ishq Hona Hai itself relies heavily on artificial intelligence. Addressing these concerns, a source...",
-            "url": "https://www.freepressjournal.in/entertainment/it-was-purely-a-gimmick-varun-dhawans-hai-jawani-toh-ishq-hona-hai-team-denies-ai-use-in-film-amid-row-over-ai-babies-in-teaser"
+            "title": "Why mastering AI prompt engineering is becoming essential for students navigating personal finance decisions in a digital world",
+            "description": "[TIMES OF INDIA] News News: As artificial intelligence tools become embedded in everyday decision-making, young professionals and students are increasingly turning to them for gu.",
+            "url": "https://timesofindia.indiatimes.com/education/news/why-mastering-ai-prompt-engineering-is-becoming-essential-for-students-navigating-personal-finance-decisions-in-a-digital-world/articleshow/130366734.cms"
         },
         {
-            "title": "With \u2018The Mummy\u2019, Lee Cronin rejects nostalgia to deliver a darker, more claustrophobic vision",
-            "description": "[MALAYALA MANORAMA] Films like The Mummy, directed by Stephen Sommers and led by Brendan Fraser, were never designed to terrify. They entertained, blending mythology.The Mummy reimagined, new Mummy movie horror, Lee...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/04/19/lee-cronin-the-mummy-2026-horror-movie-hollywood-franchise.html"
+            "title": "Kerala lottery Samrudhi SM-51 result today 19/04/2026: \u20b91 cr first prize for MD 586155 | Check complete list",
+            "description": "[MALAYALA MANORAMA] The second prize is 25 lakh, followed by a third prize of 5 lakh..Kerala lottery results, Samrudhi SM-51 lottery, lottery draw results, Kerala lottery winning numbers, lottery prize list, how to...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/19/kerala-lottery-results-samrudhi-sm-51-1-crore-prize-complete-list-19-4-2026-check-live.html"
+        },
+        {
+            "title": "Kerala BDS student death: \u2018Only loan app issue involved; caste bias claim baseless\u2019, says Kannur Dental College",
+            "description": "[MALAYALA MANORAMA] According to the Trust, Nithin jumped from the top of the medical college building on April 10, shortly after discussions in the principal's office.Anjarakkandy Dental College death, Nithin Raj R L...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/19/anjarakkandy-dental-college-death-statement-nithin-raj-bds-loan-app.html"
         }
     ]
 }
