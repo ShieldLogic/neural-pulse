@@ -1,30 +1,20 @@
 {
-    "updated": "2026-04-20 18:59:19 UTC",
+    "updated": "2026-04-20 20:41:00 UTC",
     "news": [
-        {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
-        },
-        {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -35,6 +25,11 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
+        },
+        {
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -52,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Tech layoffs 2026: Meta plans to 8,000 job cuts; over 73,000 roles lost globally in 3 months",
-            "description": "[FIRSTPOST] Layoffs across the global tech industry are accelerating in 2026, with more than 73,000 jobs already cut in just three months. From Meta to Oracle, companies are trimming workforces while doubling...",
-            "url": "https://www.firstpost.com/tech/tech-layoffs-2026-meta-plans-to-8000-job-cuts-over-73000-roles-lost-globally-in-3-months-ws-e-14002303.html"
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
-            "title": "AI-first filmmaking model debuts with Jio Studios' 'Krishna'",
-            "description": "[THE ECONOMIC TIMES] Jio Studios and Collective Artists Network have revealed the teaser for their new film Krishna. This movie uses an AI-native filmmaking process. The technology, called Galleri5, integrates artificial...",
-            "url": "https://economictimes.indiatimes.com/industry/media/entertainment/ai-first-filmmaking-model-debuts-with-jio-studios-krishna/articleshow/130384202.cms"
+            "title": "India, South Korea To Upgrade Current FTA With Eye To Double Trade By 2030",
+            "description": "[NDTV PROFIT] PM Modi and President Lee Jae Myung met in New Delhi on Monday and witnessed the exchange of MoUs on cooperation in artificial intelligence, shipbuilding and energy.",
+            "url": "https://www.ndtvprofit.com/india/india-south-korea-to-upgrade-current-fta-with-eye-to-double-trade-by-2030-11382375"
         },
         {
-            "title": "Blind runner completes Brighton Marathon using AI glasses",
-            "description": "[THE ARGUS] A blind artist achieved a world first by running a marathon guided by artificial intelligence glasses, assisted by remote volunteers.",
-            "url": "https://www.theargus.co.uk/news/26022494.blind-runner-completes-brighton-marathon-using-ai-glasses/"
+            "title": "Morgan Stanley sees agentic AI widening chip spending beyond graphics processors to CPUs",
+            "description": "[REUTERS] Morgan Stanley said increasingly autonomous artificial intelligence could boost demand for central processing units (CPUs), reshape data \u200bcenter buildout and widen investment beyond the \u200cgraphic...",
+            "url": "https://www.reuters.com/technology/morgan-stanley-sees-agentic-ai-widening-chip-spending-beyond-graphics-processors-2026-04-20/"
         },
         {
-            "title": "Mohanlal is currently in the US for the stage show, fitting the tour into an otherwise busy schedule.",
-            "description": "[MALAYALA MANORAMA] Mohanlal is currently in the US for the stage show, fitting the tour into an otherwise busy schedule..Mohanlal US show, Mohanlal live performance, Mohanlal Velmuruga, Mohanlal Vascodagama, actor...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/04/20/mohanlal-viral-stage-show-velmuruga-performance-us-show.html"
+            "title": "Morgan Stanley sees agentic AI widening chip spending beyond graphics processors to CPUs",
+            "description": "[MARKETSCREENER] Morgan Stanley said increasingly autonomous artificial intelligence could boost demand for central processing units , reshape data center buildout and widen investment beyond the graphic chips that...",
+            "url": "https://www.marketscreener.com/news/morgan-stanley-sees-agentic-ai-widening-chip-spending-beyond-graphics-processors-to-cpus-ce7e50d3d189f425"
         },
         {
-            "title": "After car torching, CPM expels Payyannur whistleblower Kunhikrishnan\u2019s poll strategist Purushothaman",
-            "description": "[MALAYALA MANORAMA] CPM expelled T Purushothaman, a Marxist ideologue and perceived strategist behind whistleblower V Kunhikrishnan's election campaign in Payyannur..Kannur CPM expulsion, T Purushothaman CPM, Payyannur...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/20/kannur-cpm-expulsion-kunhikrishna-poll-strategist-purushothaman.html"
+            "title": "South Korea's Lee in India for talks on shipping, AI",
+            "description": "[THE MANILA TIMES] NEW DELHI, India \u2014 India gave a red-carpet welcome for South Korean President Lee Jae-myung in New Delhi on Monday, with shipbuilding and artificial intelligence high on the agenda for talks with...",
+            "url": "https://www.manilatimes.net/2026/04/20/news/south-koreas-lee-in-india-for-talks-on-shipping-ai/2323686"
         },
         {
-            "title": "India brings AI services to villages with unique DPI: Report",
-            "description": "[ZEE NEWS] India is pairing artificial intelligence with digital public infrastructure, local\u2011language systems and governance safeguards, helping farmers, women and village institutions can use AI directly...",
-            "url": "https://zeenews.india.com/technology/india-brings-ai-services-to-villages-with-unique-dpi-report-3039093.html"
+            "title": "AI firms invest 4 times more in core capabilities, leaders see 39 pc returns: Report",
+            "description": "[LOKMAT TIMES] AI firms invest 4 times more in core capabilities, leaders see 39 pc returns: Report - New Delhi, April 20 Technology companies with successful artificial intelligence (AI) initiatives invest up to...",
+            "url": "https://www.lokmattimes.com/technology/ai-firms-invest-4-times-more-in-core-capabilities-leaders-see-39-pc-returns-report-1/"
         },
         {
-            "title": "South Korea's Lee to seek big boost in economic ties in summit with PM Modi",
-            "description": "[THE ECONOMIC TIMES] South Korean President Lee Jae Myung is in New Delhi for talks with Indian Prime Minister Narendra Modi. The visit aims to significantly increase economic ties, focusing on shipbuilding. Both nations...",
-            "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/south-koreas-lee-to-seek-big-boost-in-economic-ties-in-summit-with-pm-modi/articleshow/130381863.cms"
+            "title": "AI firms invest 4 times more in core capabilities, leaders see 39 pc returns: Report",
+            "description": "[LOKMAT TIMES] AI firms invest 4 times more in core capabilities, leaders see 39 pc returns: Report - New Delhi, April 20 Technology companies with successful artificial intelligence (AI) initiatives invest up to...",
+            "url": "https://www.lokmattimes.com/business/ai-firms-invest-4-times-more-in-core-capabilities-leaders-see-39-pc-returns-report/"
         },
         {
-            "title": "Mouser Electronics Explores How Artificial Intelligence Shapes Everyday Technologies and Experiences",
-            "description": "[THE MANILA TIMES] **media[1019732]**SHANGHAI, April 20, 2026 /PRNewswire/ -- Mouser Electronics, Inc., the authorized global distributor with the newest electronic components and industrial automation products, today...",
-            "url": "https://www.manilatimes.net/2026/04/20/tmt-newswire/pr-newswire/mouser-electronics-explores-how-artificial-intelligence-shapes-everyday-technologies-and-experiences/2323609"
+            "title": "CJI flags surge in \u2018digital arrest\u2019 scams, says even educated falling prey",
+            "description": "[THE NEW INDIAN EXPRESS] In earlier proceedings, the court had also questioned why advanced technologies such as artificial intelligence were not being used more effectively to track an",
+            "url": "https://www.newindianexpress.com/nation/2026/Apr/20/cji-flags-surge-in-digital-arrest-scams-says-even-educated-falling-prey"
         },
         {
-            "title": "\u2018Who\u2019s behind these accounts?\u2019: Manju Pillai\u2019s daughter Daya Sujith hits out at Vaazha 3 trolls",
-            "description": "[MALAYALA MANORAMA] According to her, the recently unveiled poster seems to have triggered a section of male viewers. While she acknowledged that not all responses have.Vaazha 3, Daya Sujith Vaazha 3, Manju Pillai...",
-            "url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/04/20/vaazha-3-announcement-influencer-daya-sujit-reacts.html"
+            "title": "HCLTech Q4 Preview: Software business seasonality may drag constant currency growth; Guidance key",
+            "description": "[CNBC TV18] Management has indicated that artificial intelligence could lead to 2%-3% gross deflation, but expects this to be offset by higher volumes and increased deal share.",
+            "url": "https://www.cnbctv18.com/market/hcl-technologies-q4-preview-software-business-seasonality-may-drag-constant-currency-growth-guidance-key-share-price-reaction-ws-l-19889595.htm"
         },
         {
-            "title": "Harsh Goenka shares Mumbai\u2019s new obsession after Labubu, mahjong and padel, and you may have tried it too",
-            "description": "[THE ECONOMIC TIMES] Industrialist Harsh Goenka has creatively embraced artificial intelligence to illustrate Mumbai's burgeoning benne dosa craze. His first AI-generated image, a charming vintage-style poster,...",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/harsh-goenka-shares-mumbais-new-obsession-after-labubu-mahjong-and-padel-and-you-may-have-tried-it-too/articleshow/130381940.cms"
+            "title": "Idukki accident: Wedding trip turns tragic for a family, police suspect brake failure",
+            "description": "[MALAYALA MANORAMA] Those injured include Saramma's daughter Solly, son Sajan and his wife Juliet, along with Salu, Eldhose, Jyothish, Jomal, Nihara, Chinnu and another.Idukki accident, road accident Idukki, family...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/20/idukki-accident-death.html"
+        },
+        {
+            "title": "SK hynix initiates mass production of SOCAMM2 for Nvidia's Vera Rubin platform",
+            "description": "[THE TRIBUNE] SK hynix, on Monday, announced that it began the mass production of SOCAMM2, a next-generation memory module developed to increase performance and power efficiency in artificial intelligence servers.",
+            "url": "https://www.tribuneindia.com/news/business/sk-hynix-initiates-mass-production-of-socamm2-for-nvidias-vera-rubin-platform/"
         }
     ]
 }
