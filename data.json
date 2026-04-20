@@ -1,20 +1,30 @@
 {
-    "updated": "2026-04-20 09:54:36 UTC",
+    "updated": "2026-04-20 11:17:04 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -25,11 +35,6 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
-        },
-        {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -47,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,9 +77,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "Govt imparts AI training to 2,500 artisans under PM Vishwakarma Scheme",
+            "description": "[DAILY EXCELSIOR] NEW DELHI, Apr 19 : The Ministry of Micro Small and Medium Enterprises (MSME) on Sunday said over 2,500 beneficiaries, including artisans and craftspeople, have been trained on the use of Artificial...",
+            "url": "https://www.dailyexcelsior.com/govt-imparts-ai-training-to-2500-artisans-under-pm-vishwakarma-scheme/"
+        },
+        {
+            "title": "Plans emerge for country's biggest AI data centre in Western Australia",
+            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] A huge artificial intelligence data centre capable of training models like ChatGPT is planned for WA's remote north at a cost of billons of dollars.",
+            "url": "https://www.abc.net.au/news/2026-04-20/plans-emerge-gigawatt-scale-ai-data-centre-kimberley/106567332"
         },
         {
             "title": "AI, education, policy alignment key to India\u2019s $30 trillion goal, say experts at Bengaluru event",
@@ -115,16 +125,6 @@
             "title": "M K Stalin unveils Chennai-focused 'Super Six' development promises ahead of Tamil Nadu polls",
             "description": "[THE ECONOMIC TIMES] Tamil Nadu Chief Minister MK Stalin has launched a special development package for Chennai. This initiative focuses on improving urban infrastructure and creating future job opportunities. Key...",
             "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/tamil-nadu/m-k-stalin-unveils-chennai-focused-super-six-development-plans/articleshow/130376980.cms"
-        },
-        {
-            "title": "Rajnath Singh's Germany visit focus: Defence Industry coop, weapons' coproduction",
-            "description": "[THE ECONOMIC TIMES] India and Germany are set to sign a defence industrial cooperation roadmap. Defence Minister Rajnath Singh's visit will focus on joint development and production of weapon systems. Discussions will...",
-            "url": "https://economictimes.indiatimes.com/news/defence/rajnath-singhs-germany-visit-focus-defence-industry-coop-weapons-coproduction/articleshow/130376742.cms"
-        },
-        {
-            "title": "10 tourists arrested for assaulting residents in Idukki, remanded",
-            "description": "[MALAYALA MANORAMA] Upon receiving the information, a police team arrived at the scene in three vehicles and brought the situation under control. The accused were then.Kumily assault case, public drinking incident...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/19/kumily-assault-case.html"
         }
     ]
 }
