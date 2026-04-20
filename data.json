@@ -1,10 +1,10 @@
 {
-    "updated": "2026-04-20 02:23:53 UTC",
+    "updated": "2026-04-20 06:11:56 UTC",
     "news": [
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
         },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
@@ -12,9 +12,19 @@
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+        },
+        {
             "title": "Whole-Body Conditioned Egocentric Video Prediction",
             "description": "[BAIR] &times; Predicting Ego-centric Video from human Actions (PEVA). Given past video frames and an action specifying a desired change in 3D pose, PEVA predicts the next video frame. Our results show...",
             "url": "http://bair.berkeley.edu/blog/2025/07/01/peva/"
+        },
+        {
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -25,11 +35,6 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
-        },
-        {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -47,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,59 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "10 tourists arrested for assaulting residents in Idukki, remanded",
+            "description": "[MALAYALA MANORAMA] Upon receiving the information, a police team arrived at the scene in three vehicles and brought the situation under control. The accused were then.Kumily assault case, public drinking incident...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/19/kumily-assault-case.html"
         },
         {
-            "title": "Noted neurosurgeon Dr Jacob Abraham passes away at 94",
-            "description": "[MALAYALA MANORAMA] Dr Abraham made notable contributions to medical science, particularly in neurosurgery, through his research..Dr Jacob Abraham, Dr Jacob Abraham death, Dr Jacob Abraham CMC Vellore, neurosurgery...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/19/dr-jacob-abraham-passes-away.html"
+            "title": "Fresh tiger sighting triggers panic in Munnar",
+            "description": "[MALAYALA MANORAMA] Forest officials later confirmed the presence of the animal after fresh pugmarks were found in the area..Munnar tiger sighting, tiger in Munnar, coffee estate tiger, big cat sighting Kerala, wildlife...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/19/munnar-tiger-sighting-coffee-estate.html"
         },
         {
-            "title": "How fears of AI disruption are reshaping career choices and increasing interest in graduate education among youth",
-            "description": "[TIMES OF INDIA] News News: As artificial intelligence reshapes hiring patterns and disrupts traditional entry-level roles, a growing number of young graduates are rethinking the.",
-            "url": "https://timesofindia.indiatimes.com/education/news/how-fears-of-ai-disruption-are-reshaping-career-choices-and-increasing-interest-in-graduate-education-among-youth/articleshow/130366984.cms"
+            "title": "When AI runs the firm, who pays tax?",
+            "description": "[THE ECONOMIC TIMES] The rise of artificial intelligence is reshaping our governance and taxation landscape. With AI systems becoming increasingly self-sufficient, there's a pressing need to reevaluate existing legal...",
+            "url": "https://economictimes.indiatimes.com/opinion/et-editorial/when-ai-runs-the-firm-who-pays-tax/articleshow/130375594.cms"
         },
         {
-            "title": "After kuzhimandhi, now shawaya: Vishu ad row erupts in Malappuram over Lord Krishna\u2019s portrayal",
-            "description": "[MALAYALA MANORAMA] The FIR states that the accused allegedly shared the greeting with prior knowledge that it could hurt religious sentiments and disturb public harmony..Vishu advertisement controversy, Malappuram...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/19/kuzhimandhi-shawaya-vishu-ad-controversy-malappuram-row-lord-krishna-portrayal.html"
+            "title": "'My sons slept beside me, now one is gone': 8-yr-old Thrissur snakebite victim's father recounts tragic incident",
+            "description": "[MALAYALA MANORAMA] When Siljo and neighbours returned and lifted the bedsheet, a snake fell out..snake bite victim, child snakebite, snakebite tragedy, large language model safety, LLM AI safety, AI generated content,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/19/snakebite-tragedy-child-death-slept-beside-father-son-aljo.html"
         },
         {
-            "title": "Tech sector layoffs accelerate in 2026 amid AI pivot",
-            "description": "[ZEE NEWS] The data from Layoffs.fyi showed that the past two weeks saw a fresh surge in headcount reductions. Snap Inc., The Walt Disney Company, Meta Platforms and Oracle Corporation, announced layoffs...",
-            "url": "https://zeenews.india.com/economy/tech-sector-layoffs-accelerate-in-2026-amid-ai-pivot-3038985.html"
+            "title": "Extreme heat: Palakkad Collector suspends physical classes in educational institutions",
+            "description": "[MALAYALA MANORAMA] The order applies to schools, colleges, including professional and technical institutions, coaching centres, and other educational institutions in.Palakkad school closure, heatwave alert Palakkad,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/19/palakkad-school-closure-heat.html"
         },
         {
-            "title": "Trump wants to stop states from regulating AI. This Utah Republican isn't listening",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Doug Fiefia once worked at Google. Now he's a Utah state representative running to be a state senator. And like some other tech employees who've gone into politics, he's made regulating the...",
-            "url": "https://www.ajc.com/news/2026/04/trump-wants-to-stop-states-from-regulating-ai-this-utah-republican-isnt-listening/"
+            "title": "Apple\u2019s Local LLM Revenue To Suffer Major Hit As M5 Ultra Mac Studio Not Expected Until Q4, Older Configurations Also Sold Out",
+            "description": "[WCCFTECH] With no M3 Ultra or M4 Max Mac Studio options available and the M5 Ultra version delayed, Apple\u2019s LLM revenue is expected to take a hit",
+            "url": "https://wccftech.com/m5-ultra-mac-studio-delayed-to-q4-2026-apple-llm-revenue-to-suffer/"
         },
         {
-            "title": "Final peace deal 'far' off despite negotiations, says Iran's speaker of parliament",
-            "description": "[MALAYALA MANORAMA] US President Donald Trump said 'very good conversations' were going on with Iran but warned Tehran against trying to 'blackmail' the United States..Strait of Hormuz closure, Iran US standoff,...",
-            "url": "https://www.onmanorama.com/news/world/2026/04/19/strait-of-hormuz-iran-israel-us.html"
+            "title": "Kochi man blocking passengers in viral video arrested, sent to preventive custody",
+            "description": "[MALAYALA MANORAMA] The police told Onmanorama that they had initiated an investigation immediately after the videos surfaced online.Panangad traffic obstruction, man arrested Panangad, Sanoob arrest, drug addiction...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/04/19/panangad-traffic-obstruction-arrest.html"
         },
         {
-            "title": "Abandoned at birth, four-day-old elephant calf rescued in Palakkad",
-            "description": "[MALAYALA MANORAMA] Born on the eve of Vishu in the forests of Abbanur, the calf has been named Vishnu by forest officials..elephant calf rescue, orphaned elephant Attappady, newborn elephant care, rescued baby...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/19/elepelephant-calf-rescue-attappady.html"
+            "title": "The latest xAI updates highlight major development push",
+            "description": "[SOCIAL MEDIA TODAY] New API enhancements are designed to make the company more profitable, but it\u2019s hard to keep pace with the massive cost of artificial intelligence development.",
+            "url": "https://www.socialmediatoday.com/news/the-latest-xai-updates-highlight-major-development-push/817901/"
         },
         {
-            "title": "Why mastering AI prompt engineering is becoming essential for students navigating personal finance decisions in a digital world",
-            "description": "[TIMES OF INDIA] News News: As artificial intelligence tools become embedded in everyday decision-making, young professionals and students are increasingly turning to them for gu.",
-            "url": "https://timesofindia.indiatimes.com/education/news/why-mastering-ai-prompt-engineering-is-becoming-essential-for-students-navigating-personal-finance-decisions-in-a-digital-world/articleshow/130366734.cms"
+            "title": "Trust is the new currency in the age of agentic AI",
+            "description": "[THE MANILA TIMES] ARTIFICIAL intelligence (AI) is evolving beyond chatbots and copilots. The next phase we\u2019re looking at now is agentic AI: systems that do not just generate answers but also plan tasks, make decisions...",
+            "url": "https://www.manilatimes.net/2026/04/20/business/top-business/trust-is-the-new-currency-in-the-age-of-agentic-ai/2323461"
         },
         {
-            "title": "Kerala lottery Samrudhi SM-51 result today 19/04/2026: \u20b91 cr first prize for MD 586155 | Check complete list",
-            "description": "[MALAYALA MANORAMA] The second prize is 25 lakh, followed by a third prize of 5 lakh..Kerala lottery results, Samrudhi SM-51 lottery, lottery draw results, Kerala lottery winning numbers, lottery prize list, how to...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/19/kerala-lottery-results-samrudhi-sm-51-1-crore-prize-complete-list-19-4-2026-check-live.html"
-        },
-        {
-            "title": "Kerala BDS student death: \u2018Only loan app issue involved; caste bias claim baseless\u2019, says Kannur Dental College",
-            "description": "[MALAYALA MANORAMA] According to the Trust, Nithin jumped from the top of the medical college building on April 10, shortly after discussions in the principal's office.Anjarakkandy Dental College death, Nithin Raj R L...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/04/19/anjarakkandy-dental-college-death-statement-nithin-raj-bds-loan-app.html"
+            "title": "AI 'agent' fever comes with lurking security threats",
+            "description": "[THE MANILA TIMES] PARIS, France \u2014 Artificial intelligence \u201cagents\u201d promise to save users time and energy by automating tasks, but the growing power of systems like OpenClaw is setting cybersecurity experts on edge.",
+            "url": "https://www.manilatimes.net/2026/04/20/business/foreign-business/ai-agent-fever-comes-with-lurking-security-threats/2323451"
         }
     ]
 }
