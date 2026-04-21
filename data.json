@@ -1,25 +1,15 @@
 {
-    "updated": "2026-04-21 08:05:12 UTC",
+    "updated": "2026-04-21 11:02:43 UTC",
     "news": [
-        {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
-        },
-        {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -30,6 +20,11 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
+        },
+        {
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -47,14 +42,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "How Luxury Brands Are Quietly Leaning Into Artificial Intelligence",
-            "description": "[FORBES] Luxury brand expert, Silvia Coleman, explains how luxury brands are quietly leaning into using artificial intelligence while doubling down on building consumer trust.",
-            "url": "https://www.forbes.com/sites/yolarobert1/2026/04/20/this-how-luxury-brands-are-quietly-leaning-into-artificial-intelligence/"
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
-            "title": "Here's what\u2019s at stake at this year\u2019s UN Indigenous forum",
-            "description": "[CP24 TORONTO] Hundreds of delegates are arriving at the United Nations this week for the world\u2019s largest gathering of Indigenous peoples. But they arrive against an increasingly hostile global backdrop, facing an...",
-            "url": "https://www.cp24.com/news/world/2026/04/20/war-climate-change-and-ai-whats-at-stake-at-this-years-un-indigenous-forum/"
+            "title": "From May 1, CBI notices to carry QR code to verify genuineness",
+            "description": "[DAILY EXCELSIOR] NEW DELHI, Apr 20 : CBI notices from May 1 will carry a special QR code, allowing people to verify their genuineness through an artificial intelligence-powered chatbot, ABHAY, a first-of-its-kind...",
+            "url": "https://www.dailyexcelsior.com/from-may-1-cbi-notices-to-carry-qr-code-to-verify-genuineness/"
         },
         {
-            "title": "AI executes but only customer behavior converts",
-            "description": "[AUGUSTA FREE PRESS] Artificial intelligence transforms how technology companies build, promote and sell, but it isn't solving the biggest challenge: conversion.",
-            "url": "https://augustafreepress.com/commercial/ai-executes-but-only-customer-behavior-converts/"
+            "title": "DOJ Signals Antitrust Shift on Media Deals as AI Alters Industry",
+            "description": "[BLOOMBERG] Rapid changes in media fueled by increased use of artificial intelligence and streaming services require a \u201ccautious humility\u201d from antitrust enforcers as they assess whether mergers in the industry...",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-20/doj-signals-antitrust-shift-on-media-deals-as-ai-alters-industry"
         },
         {
-            "title": "How AI and human judgment combine in modern financial market analysis",
-            "description": "[TNW] Intelligent Investing explores how artificial intelligence enhances financial forecasting while human interpretation remains critical for navigating complex market behavior.",
-            "url": "https://thenextweb.com/news/ai-human-judgment-financial-markets"
+            "title": "I ran a full LLM on my phone with no internet, and it's more useful than I expected",
+            "description": "[XDA DEVELOPERS] I owe the local LLM community an apology.",
+            "url": "https://www.xda-developers.com/ran-a-full-llm-on-my-phone-with-no-internet-and-more-useful-than-i-expected/"
         },
         {
-            "title": "Adobe unveils new AI tools for corporate clients as competition intensifies",
-            "description": "[THE NEWS INTERNATIONAL] Adobe has recently launched a suite of artificial intelligence AI tools to faciliate everyday tasks on corporate level. As announced on Monday one of the most creative suit, Adobe has launched new...",
-            "url": "https://www.thenews.com.pk/latest/1399725-adobe-unveils-new-ai-tools-for-corporate-clients-as-competition-intensifies"
+            "title": "John Ternus Named Next CEO of Apple: A New Era Begins",
+            "description": "[DEVDISCOURSE] Apple has appointed John Ternus as its new CEO, succeeding Tim Cook. Ternus, a long-serving Apple executive, has been pivotal in pioneering some of the company's notable hardware developments. His...",
+            "url": "https://www.devdiscourse.com/article/technology/3881180-john-ternus-named-next-ceo-of-apple-a-new-era-begins"
         },
         {
-            "title": "Mississippi law school is among first in nation to require AI education",
-            "description": "[WTOP] Mississippi College School of Law is one of the first schools in the nation to tackle the growing influence of artificial intelligence in jurisprudence by\u2026",
-            "url": "https://wtop.com/education/2026/04/mississippi-law-school-is-among-first-in-nation-to-require-ai-education/"
+            "title": "Semrush Brand Visibility Framework launches at Adobe Summit as AI search rewrites discovery rules",
+            "description": "[TNW] Semrush's new framework introduces Agentic Search Optimisation and draws on 213 million LLM prompts to measure brand visibility across AI search, as organic CTR drops 61%.",
+            "url": "https://thenextweb.com/news/semrush-brand-visibility-framework-ai-search"
         },
         {
-            "title": "Mississippi law school is among first in nation to require AI education",
-            "description": "[BALTIMORE SUN] By KATHERINE LIN/Mississippi Today Mississippi College School of Law is one of the first schools in the nation to tackle the growing influence of artificial intelligence in jurisprudence by making AI...",
-            "url": "https://www.baltimoresun.com/2026/04/20/mississippi-law-school-is-among-first-in-nation-to-require-ai-education/"
+            "title": "More Japanese firms plan to cut new graduate hires for FY2027 as AI use grows",
+            "description": "[JAPAN TODAY] More major Japanese companies plan to reduce the number of new graduates they hire from fiscal 2027 despite the country's labor shortage as they turn to digital solutions including artificial...",
+            "url": "https://japantoday.com/category/business/more-japan-firms-plan-to-cut-new-graduate-hires-for-fy-2027-as-ai-use-grows"
         },
         {
-            "title": "Fighting Discrimination In The Age Of AI",
-            "description": "[FORBES] Artificial intelligence has permeated and altered virtually every industry, and the law is not immune. Learn how AI is shaping law itself and posing unique challenges.",
-            "url": "https://www.forbes.com/sites/forbes-listmaker/2026/04/20/fighting-discrimination-in-the-age-of-ai/"
+            "title": "Tim Cook stepping down as Apple CEO with insider John Ternus named his replacement",
+            "description": "[INDEPENDENT.IE] Apple on Monday named longtime hardware boss John Ternus as its next CEO, turning to another insider to steer the iPhone maker after Tim Cook as it navigates a world radically altered by artificial...",
+            "url": "https://www.independent.ie/world-news/north-america/tim-cook-stepping-down-as-apple-ceo-with-insider-john-ternus-named-his-replacement/a1315681034.html"
         },
         {
-            "title": "Meta plans large-scale job cuts beginning in May, says Reuters",
-            "description": "[SOCIAL MEDIA TODAY] The company is reportedly looking to reduce its global workforce by about 10%, or approximately 8,000 people, as it increases its reliance on artificial intelligence.",
-            "url": "https://www.socialmediatoday.com/news/meta-plans-large-scale-job-cuts-beginning-in-may-says-reuters/818022/"
+            "title": "Tim Cook stepping down as Apple CEO with insider John Ternus named his replacement",
+            "description": "[INDEPENDENT.IE] Apple on Monday named insider John Ternus as its next CEO, tasking the long-time hardware chief to steer the company after Tim Cook as the iPhone maker gears up for an industry change spurred by...",
+            "url": "https://www.independent.ie/world-news/tim-cook-stepping-down-as-apple-ceo-with-insider-john-ternus-named-his-replacement/a1315681034.html"
         },
         {
-            "title": "Back to Basics at the U.N.",
-            "description": "[FOREIGN POLICY] Rather than climate, disease, or artificial intelligence, the next secretary-general should stay focused on conflict resolution.",
-            "url": "https://foreignpolicy.com/2026/04/20/united-nations-secretary-general-blue-helmets-peace-security/"
+            "title": "AI company deleted OKCupid user photos, data after FTC scrutiny",
+            "description": "[MARKETSCREENER] Artificial intelligence company Clarifai said this month it had deleted 3 million OkCupid user photos and facial-recognition models trained on them after the U.S. Federal Trade Commission settled...",
+            "url": "https://www.marketscreener.com/news/ai-company-deleted-okcupid-user-photos-data-after-ftc-scrutiny-ce7f59dadd8ef42d"
+        },
+        {
+            "title": "Lattice Teams Up With Texas Instruments for Edge AI Projects",
+            "description": "[MARKETSCREENER] Lattice Semiconductor said Monday it has teamed up with Texas Instruments to work on edge artificial intelligence projects for robotics and industrial applications. Financial details were not...",
+            "url": "https://www.marketscreener.com/news/lattice-teams-up-with-texas-instruments-for-edge-ai-projects-ce7f59dadd8ef624"
         }
     ]
 }
