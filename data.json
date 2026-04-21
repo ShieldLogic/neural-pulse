@@ -1,25 +1,15 @@
 {
-    "updated": "2026-04-20 22:39:40 UTC",
+    "updated": "2026-04-21 02:11:18 UTC",
     "news": [
-        {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
-        },
-        {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -30,6 +20,11 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
+        },
+        {
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -47,14 +42,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Chatbots often offer \u2018problematic' cancer advice, study finds",
-            "description": "[NBC 5 CHICAGO] Popular artificial intelligence programs told users where to find alternative, potentially dangerous treatments for cancer and other health scenarios.",
-            "url": "https://www.nbcchicago.com/news/national-international/chatbots-problematic-cancer-advice-study/3925185/"
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
-            "title": "Chatbots often offer \u2018problematic' cancer advice, study finds",
-            "description": "[NBC10 BOSTON] Popular artificial intelligence programs told users where to find alternative, potentially dangerous treatments for cancer and other health scenarios.",
-            "url": "https://www.nbcboston.com/news/national-international/chatbots-problematic-cancer-advice-study/3936350/"
+            "title": "iGarden Sweeps the 2026 MUSE Design Awards. Three New Products, Three Platinum Wins",
+            "description": "[THE MANILA TIMES] LOS ANGELES, April 20, 2026 /PRNewswire/ -- As artificial intelligence expands beyond the home and into outdoor environments, iGarden is redefining how people interact with their backyard...",
+            "url": "https://www.manilatimes.net/2026/04/20/tmt-newswire/pr-newswire/igarden-sweeps-the-2026-muse-design-awards-three-new-products-three-platinum-wins/2324123"
         },
         {
-            "title": "Banks in close contact with European regulator on Anthropic's Mythos, banker says",
-            "description": "[DEVDISCOURSE] Banks \u200bare in \u200bclose contact with their \u200cEuropean regulators regarding \u200bAnthropic's new artificial intelligence model Mythos, Christian Sewing, president \u200cof the German banking association and CEO of...",
-            "url": "https://www.devdiscourse.com/article/law-order/3880351-banks-in-close-contact-with-european-regulator-on-anthropics-mythos-banker-says"
+            "title": "Apple names insider John Ternus as CEO, Cook to become executive chairman",
+            "description": "[SPOKANE SPOKESMAN-REVIEW] SAN FRANCISCO \u2013 Apple on Monday named insider John Ternus as its next CEO, tasking the long-time hardware chief to steer the company after Tim Cook as the iPhone maker gears up for an \u200bindustry...",
+            "url": "https://www.spokesman.com/stories/2026/apr/20/apple-names-insider-john-ternus-as-ceo-cook-to-bec/"
         },
         {
-            "title": "Global Markets | Japan's Nikkei climbs as AI optimism outweighs Mideast concerns",
-            "description": "[THE ECONOMIC TIMES] Japan's \u200bNikkei share average rose on \u200bMonday, nearing the all-time high it scaled \u200blast week, as optimism over the red-hot artificial intelligence sector outweighed concerns about the Middle East...",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-climbs-as-ai-optimism-outweighs-mideast-concerns/articleshow/130387901.cms"
+            "title": "Outrage in China after streaming site debuts AI actor 'database'",
+            "description": "[THE ECONOMIC TIMES] China's equivalent of Netflix, iQIYI, faced backlash on Monday over a new initiative that facilitates the use of actors' likenesses in artificially generated dramas and films. China's entertainment...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/outrage-in-china-after-streaming-site-debuts-ai-actor-database/articleshow/130393817.cms"
         },
         {
-            "title": "Indian market faces AI narrative problem; it'll be smallcaps over largecaps for next 5 years: Manish Gunwani",
-            "description": "[THE ECONOMIC TIMES] Indian stock market valuations are attractive. However, global investor focus on Artificial Intelligence is diverting capital away from emerging markets like India. Foreign institutional investor...",
-            "url": "https://economictimes.indiatimes.com/markets/expert-view/indian-market-faces-ai-narrative-problem-itll-be-smallcaps-over-largecaps-for-next-5-years-manish-gunwani/articleshow/130387635.cms"
+            "title": "Broadridge Partners With, Makes Minority Investment in Centrl",
+            "description": "[MARKETSCREENER] Broadridge Financial Solutions said Monday that it has partnered with and made a minority investment in artificial intelligence due diligence platform Centrl. Financial details were not...",
+            "url": "https://www.marketscreener.com/news/broadridge-partners-with-makes-minority-investment-in-centrl-ce7f59dad98aff21"
         },
         {
-            "title": "CT law enforcement pauses AI programming use. Here's why.",
-            "description": "[HARTFORD COURANT] As artificial intelligence moves into all aspects of life, there's a belief its inclusion in law enforcement tool kit is a matter of time.",
-            "url": "https://www.courant.com/2026/04/20/ct-law-enforcement-pauses-ai-programming-use-why-experts-say-caution-is-needed-to-protect-justice/"
+            "title": "Why are French prosecutors investigating Elon Musk's X?",
+            "description": "[THE STRAITS TIMES] PARIS, April 20 - Elon Musk's summons for questioning by prosecutors in Paris is linked to a widened investigation into alleged offences linked to X's artificial intelligence chatbot Grok, abuse of...",
+            "url": "https://www.straitstimes.com/world/europe/why-are-french-prosecutors-investigating-elon-musks-x1"
         },
         {
-            "title": "Chatbots often offer 'problematic' cancer advice, study finds",
-            "description": "[NBC NEWS] Artificial intelligence chatbots will tell you where to find alternatives to chemotherapy if you ask them, a new study finds",
-            "url": "https://www.nbcnews.com/health/health-news/chatbots-offer-problematic-cancer-vaccines-5g-advice-study-rcna332068"
+            "title": "'UAE No Longer Needs America': Iran War Sparks Discussion On Future Of US Bases In Gulf",
+            "description": "[NDTV PROFIT] The UAE was designated a major US defense partner in 2024, and the two nations have deepened ties across defense, artificial intelligence and investment. Yet the Iran war has forced a public...",
+            "url": "https://www.ndtvprofit.com/world/uae-no-longer-needs-america-iran-war-sparks-discussion-on-future-of-us-bases-in-gulf-11383147"
         },
         {
-            "title": "Google, Marvell Technology in Discussions to Build New AI Chips for Inference",
-            "description": "[MARKETSCREENER] Alphabet's Google is negotiating with Marvell Technology to develop two new processors optimized for artificial intelligence inference tasks, The Information reported Sunday, citing two people...",
-            "url": "https://www.marketscreener.com/news/google-marvell-technology-in-discussions-to-build-new-ai-chips-for-inference-ce7e50d3d18bf423"
+            "title": "AI could be picking your coffee as startup takes \u00a32m",
+            "description": "[CITY A.M.] Unity Coffee, which uses artificial intelligence to offer tailored discounts based on the time and user behaviour, has completed a \u00a32m fundraise.",
+            "url": "https://www.cityam.com/ai-could-be-picking-your-coffee-as-startup-takes-2m/"
         },
         {
-            "title": "India, South Korea To Upgrade Current FTA With Eye To Double Trade By 2030",
-            "description": "[NDTV PROFIT] PM Modi and President Lee Jae Myung met in New Delhi on Monday and witnessed the exchange of MoUs on cooperation in artificial intelligence, shipbuilding and energy.",
-            "url": "https://www.ndtvprofit.com/india/india-south-korea-to-upgrade-current-fta-with-eye-to-double-trade-by-2030-11382375"
+            "title": "Boehringer Ingelheim launches AI centre for pharma research in London",
+            "description": "[MARKETSCREENER] German drugmaker Boehringer Ingelheim is launching a centre for artificial intelligence and machine learning in London, it said on Monday, as it seeks to expand its AI capabilities in...",
+            "url": "https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027"
         },
         {
-            "title": "Morgan Stanley sees agentic AI widening chip spending beyond graphics processors to CPUs",
-            "description": "[REUTERS] Morgan Stanley said increasingly autonomous artificial intelligence could boost demand for central processing units (CPUs), reshape data \u200bcenter buildout and widen investment beyond the \u200cgraphic...",
-            "url": "https://www.reuters.com/technology/morgan-stanley-sees-agentic-ai-widening-chip-spending-beyond-graphics-processors-2026-04-20/"
+            "title": "China's humanoid robot smashes half marathon world record",
+            "description": "[INDY100] A humanoid robot has achieved a remarkable feat in Beijing, completing a half-marathon faster than the human world record, underscoring China's rapid advancements in artificial intelligence and...",
+            "url": "https://www.indy100.com/science-tech/humanoid-robot-beijing-half-marathon-honor-china"
+        },
+        {
+            "title": "Nexera: KeepZone AI Enters into White Label Agreement to Develop its AI-Based Voice Communication Decision Support System",
+            "description": "[THE MANILA TIMES] Tel Aviv, Israel, April 20, 2026 (GLOBE NEWSWIRE) -- Nexera Technologies Ltd ('Nexera\u201d or the 'Company\u201d) (Nasdaq: NEXR, NEXRW) (formerly known as Jeffs\u2019 Brands Ltd), a data-driven company operating...",
+            "url": "https://www.manilatimes.net/2026/04/20/tmt-newswire/globenewswire/nexera-keepzone-ai-enters-into-white-label-agreement-to-develop-its-ai-based-voice-communication-decision-support-system/2323882"
         }
     ]
 }
