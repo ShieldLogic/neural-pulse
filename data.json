@@ -1,15 +1,25 @@
 {
-    "updated": "2026-04-21 02:11:18 UTC",
+    "updated": "2026-04-21 05:59:50 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "Improving the academic workflow: Introducing two AI agents for better figures and peer review",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+        },
+        {
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -20,11 +30,6 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
-        },
-        {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -42,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,59 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "How AI and human judgment combine in modern financial market analysis",
+            "description": "[TNW] Intelligent Investing explores how artificial intelligence enhances financial forecasting while human interpretation remains critical for navigating complex market behavior.",
+            "url": "https://thenextweb.com/news/ai-human-judgment-financial-markets"
         },
         {
-            "title": "iGarden Sweeps the 2026 MUSE Design Awards. Three New Products, Three Platinum Wins",
-            "description": "[THE MANILA TIMES] LOS ANGELES, April 20, 2026 /PRNewswire/ -- As artificial intelligence expands beyond the home and into outdoor environments, iGarden is redefining how people interact with their backyard...",
-            "url": "https://www.manilatimes.net/2026/04/20/tmt-newswire/pr-newswire/igarden-sweeps-the-2026-muse-design-awards-three-new-products-three-platinum-wins/2324123"
+            "title": "Adobe unveils new AI tools for corporate clients as competition intensifies",
+            "description": "[THE NEWS INTERNATIONAL] Adobe has recently launched a suite of artificial intelligence AI tools to faciliate everyday tasks on corporate level. As announced on Monday one of the most creative suit, Adobe has launched new...",
+            "url": "https://www.thenews.com.pk/latest/1399725-adobe-unveils-new-ai-tools-for-corporate-clients-as-competition-intensifies"
         },
         {
-            "title": "Apple names insider John Ternus as CEO, Cook to become executive chairman",
-            "description": "[SPOKANE SPOKESMAN-REVIEW] SAN FRANCISCO \u2013 Apple on Monday named insider John Ternus as its next CEO, tasking the long-time hardware chief to steer the company after Tim Cook as the iPhone maker gears up for an \u200bindustry...",
-            "url": "https://www.spokesman.com/stories/2026/apr/20/apple-names-insider-john-ternus-as-ceo-cook-to-bec/"
+            "title": "Mississippi law school is among first in nation to require AI education",
+            "description": "[WTOP] Mississippi College School of Law is one of the first schools in the nation to tackle the growing influence of artificial intelligence in jurisprudence by\u2026",
+            "url": "https://wtop.com/education/2026/04/mississippi-law-school-is-among-first-in-nation-to-require-ai-education/"
         },
         {
-            "title": "Outrage in China after streaming site debuts AI actor 'database'",
-            "description": "[THE ECONOMIC TIMES] China's equivalent of Netflix, iQIYI, faced backlash on Monday over a new initiative that facilitates the use of actors' likenesses in artificially generated dramas and films. China's entertainment...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/outrage-in-china-after-streaming-site-debuts-ai-actor-database/articleshow/130393817.cms"
+            "title": "Mississippi law school is among first in nation to require AI education",
+            "description": "[BALTIMORE SUN] By KATHERINE LIN/Mississippi Today Mississippi College School of Law is one of the first schools in the nation to tackle the growing influence of artificial intelligence in jurisprudence by making AI...",
+            "url": "https://www.baltimoresun.com/2026/04/20/mississippi-law-school-is-among-first-in-nation-to-require-ai-education/"
         },
         {
-            "title": "Broadridge Partners With, Makes Minority Investment in Centrl",
-            "description": "[MARKETSCREENER] Broadridge Financial Solutions said Monday that it has partnered with and made a minority investment in artificial intelligence due diligence platform Centrl. Financial details were not...",
-            "url": "https://www.marketscreener.com/news/broadridge-partners-with-makes-minority-investment-in-centrl-ce7f59dad98aff21"
+            "title": "Fighting Discrimination In The Age Of AI",
+            "description": "[FORBES] Artificial intelligence has permeated and altered virtually every industry, and the law is not immune. Learn how AI is shaping law itself and posing unique challenges.",
+            "url": "https://www.forbes.com/sites/forbes-listmaker/2026/04/20/fighting-discrimination-in-the-age-of-ai/"
         },
         {
-            "title": "Why are French prosecutors investigating Elon Musk's X?",
-            "description": "[THE STRAITS TIMES] PARIS, April 20 - Elon Musk's summons for questioning by prosecutors in Paris is linked to a widened investigation into alleged offences linked to X's artificial intelligence chatbot Grok, abuse of...",
-            "url": "https://www.straitstimes.com/world/europe/why-are-french-prosecutors-investigating-elon-musks-x1"
+            "title": "Meta plans large-scale job cuts beginning in May, says Reuters",
+            "description": "[SOCIAL MEDIA TODAY] The company is reportedly looking to reduce its global workforce by about 10%, or approximately 8,000 people, as it increases its reliance on artificial intelligence.",
+            "url": "https://www.socialmediatoday.com/news/meta-plans-large-scale-job-cuts-beginning-in-may-says-reuters/818022/"
         },
         {
-            "title": "'UAE No Longer Needs America': Iran War Sparks Discussion On Future Of US Bases In Gulf",
-            "description": "[NDTV PROFIT] The UAE was designated a major US defense partner in 2024, and the two nations have deepened ties across defense, artificial intelligence and investment. Yet the Iran war has forced a public...",
-            "url": "https://www.ndtvprofit.com/world/uae-no-longer-needs-america-iran-war-sparks-discussion-on-future-of-us-bases-in-gulf-11383147"
+            "title": "Back to Basics at the U.N.",
+            "description": "[FOREIGN POLICY] Rather than climate, disease, or artificial intelligence, the next secretary-general should stay focused on conflict resolution.",
+            "url": "https://foreignpolicy.com/2026/04/20/united-nations-secretary-general-blue-helmets-peace-security/"
         },
         {
-            "title": "AI could be picking your coffee as startup takes \u00a32m",
-            "description": "[CITY A.M.] Unity Coffee, which uses artificial intelligence to offer tailored discounts based on the time and user behaviour, has completed a \u00a32m fundraise.",
-            "url": "https://www.cityam.com/ai-could-be-picking-your-coffee-as-startup-takes-2m/"
+            "title": "3-Day State-Level Conference Of Industries Officers Concludes At Universal AI University In Karjat, Focusing On AI In Administration",
+            "description": "[FREE PRESS JOURNAL] A three-day Maharashtra conference of industries officials reviewed implementation of the Industrial, Investment and Services Policy-2025, Ease of Doing Business reforms and the MAITRI initiative,...",
+            "url": "https://www.freepressjournal.in/mumbai/3-day-state-level-conference-of-industries-officers-concludes-at-universal-ai-university-in-karjat-focusing-on-ai-in-administration"
         },
         {
-            "title": "Boehringer Ingelheim launches AI centre for pharma research in London",
-            "description": "[MARKETSCREENER] German drugmaker Boehringer Ingelheim is launching a centre for artificial intelligence and machine learning in London, it said on Monday, as it seeks to expand its AI capabilities in...",
-            "url": "https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027"
+            "title": "Wearable Devices Announces a Warrant Inducement Transaction for $5.0 Million in Gross Proceeds",
+            "description": "[THE MANILA TIMES] Yokneam Illit, Israel, April 20, 2026 (GLOBE NEWSWIRE) -- Wearable Devices Ltd. (Nasdaq: WLDS, WLDSW) ('Wearable Devices\u201d or the 'Company\u201d), a technology growth company specializing in artificial...",
+            "url": "https://www.manilatimes.net/2026/04/21/tmt-newswire/globenewswire/wearable-devices-announces-a-warrant-inducement-transaction-for-50-million-in-gross-proceeds/2324298"
         },
         {
-            "title": "China's humanoid robot smashes half marathon world record",
-            "description": "[INDY100] A humanoid robot has achieved a remarkable feat in Beijing, completing a half-marathon faster than the human world record, underscoring China's rapid advancements in artificial intelligence and...",
-            "url": "https://www.indy100.com/science-tech/humanoid-robot-beijing-half-marathon-honor-china"
-        },
-        {
-            "title": "Nexera: KeepZone AI Enters into White Label Agreement to Develop its AI-Based Voice Communication Decision Support System",
-            "description": "[THE MANILA TIMES] Tel Aviv, Israel, April 20, 2026 (GLOBE NEWSWIRE) -- Nexera Technologies Ltd ('Nexera\u201d or the 'Company\u201d) (Nasdaq: NEXR, NEXRW) (formerly known as Jeffs\u2019 Brands Ltd), a data-driven company operating...",
-            "url": "https://www.manilatimes.net/2026/04/20/tmt-newswire/globenewswire/nexera-keepzone-ai-enters-into-white-label-agreement-to-develop-its-ai-based-voice-communication-decision-support-system/2323882"
+            "title": "Google eyes new chips to speed up AI results, challenging Nvidia",
+            "description": "[THE MERCURY NEWS] In a matter of months, Google's AI chips have become one of the hottest commodities in the tech sector. Leading artificial intelligence developers, including some of the firm's biggest rivals, are...",
+            "url": "https://www.mercurynews.com/2026/04/20/google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia/"
         }
     ]
 }
