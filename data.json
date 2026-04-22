@@ -1,10 +1,15 @@
 {
-    "updated": "2026-04-22 13:18:55 UTC",
+    "updated": "2026-04-22 15:09:01 UTC",
     "news": [
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
+        {
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -12,9 +17,9 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -25,11 +30,6 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
-        },
-        {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -47,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
@@ -67,14 +67,34 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "A new divide has reportedly emerged among engineers within Google, with some allowed to use ...",
+            "description": "[TIMES OF INDIA] Tech News News: A divide has reportedly emerged within Google as the company pushes wider adoption of artificial intelligence (AI) tools across its workforce. Accordi.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/a-new-divide-has-reportedly-emerged-among-engineers-within-google-with-some-allowed-to-use-/articleshow/130430803.cms"
+        },
+        {
+            "title": "RBA Says It Is Vigilant Against Growing AI Threats",
+            "description": "[MARKETSCREENER] By James Glynn SYDNEY--The Reserve Bank of Australia has signaled its growing concerns about the risks posed by the rapid advancement of artificial intelligence and the potential for cyber...",
+            "url": "https://www.marketscreener.com/news/rba-says-it-is-vigilant-against-growing-ai-threats-ce7f59dbd08cf423"
+        },
+        {
+            "title": "Japan exports rise for seventh month as AI demand blunts Mideast risks for now",
+            "description": "[MARKETSCREENER] Japan's exports rose for a seventh straight month led by demand tied to artificial intelligence that has for now blunted the impact of trade disruptions caused by the Middle East conflict,...",
+            "url": "https://www.marketscreener.com/news/japan-exports-rise-for-seventh-month-as-ai-demand-blunts-mideast-risks-for-now-ce7f59dbd18efe21"
+        },
+        {
+            "title": "Path-IO model predicts immunotherapy response in lung cancer patients",
+            "description": "[NEWS-MEDICAL.NET] An artificial intelligence (AI) model developed by researchers at The University of Texas MD Anderson Cancer Center demonstrated the ability to accurately predict responses to immunotherapy for...",
+            "url": "https://www.news-medical.net/news/20260421/Path-IO-model-predicts-immunotherapy-response-in-lung-cancer-patients.aspx"
         },
         {
             "title": "Muted Q4, weak forecast cast a shadow on HCLTech",
@@ -105,26 +125,6 @@
             "title": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting",
             "description": "[THE STRAITS TIMES] WASHINGTON, April 21 - Florida Attorney General James Uthmeier said on Tuesday the state was launching a criminal probe into OpenAI and its artificial intelligence app ChatGPT over a deadly shooting...",
             "url": "https://www.straitstimes.com/world/florida-launches-criminal-probe-into-openai-and-chatgpt-over-deadly-shooting"
-        },
-        {
-            "title": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting",
-            "description": "[REUTERS] Florida Attorney General James Uthmeier said on Tuesday the state was launching a criminal probe into OpenAI and its \u200bartificial intelligence app ChatGPT over a deadly shooting last year that \u200ckilled...",
-            "url": "https://www.reuters.com/world/us/florida-launches-criminal-probe-into-openai-chatgpt-over-deadly-shooting-2026-04-21/"
-        },
-        {
-            "title": "Meta to track workers' clicks and keystrokes to train AI",
-            "description": "[BBC NEWS] The firm will take data from the way employees work for its artificial intelligence models.",
-            "url": "https://www.bbc.com/news/articles/cvglyklz49jo"
-        },
-        {
-            "title": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting",
-            "description": "[MARKETSCREENER] Florida Attorney General James Uthmeier said on Tuesday the state was launching a criminal probe into OpenAI and its artificial intelligence app ChatGPT over a deadly shooting last year that...",
-            "url": "https://www.marketscreener.com/news/florida-launches-criminal-probe-into-openai-and-chatgpt-over-deadly-shooting-ce7f59dbd18df225"
-        },
-        {
-            "title": "A.I. \u2018Hallucinations\u2019 Created Errors in Court Filing, Top Law Firm Says",
-            "description": "[THE NEW YORK TIMES] Sullivan & Cromwell apologized for submitting a court document that had fake citations created by artificial intelligence.",
-            "url": "https://www.nytimes.com/2026/04/21/nyregion/sullivan-cromwell-ai-hallucination.html"
         }
     ]
 }
