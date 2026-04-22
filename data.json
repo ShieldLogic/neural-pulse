@@ -1,15 +1,25 @@
 {
-    "updated": "2026-04-22 09:16:32 UTC",
+    "updated": "2026-04-22 11:01:05 UTC",
     "news": [
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
+        {
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -20,11 +30,6 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
-        },
-        {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -42,19 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -67,9 +67,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Meta Platforms to Track Employees' Mouse Movements, Keystrokes for AI Training",
-            "description": "[MARKETSCREENER] . Meta Platforms said Tuesday it is installing an internal tool to track and capture mouse movements, clicks and keystrokes of its employees in an effort to train its artificial intelligence...",
-            "url": "https://www.marketscreener.com/news/meta-platforms-to-track-employees-mouse-movements-keystrokes-for-ai-training-ce7f59dbde81f52c"
-        },
-        {
-            "title": "Amazon invests another $5 bil in Anthropic",
-            "description": "[JAPAN TODAY] Amazon has pumped another $5 billion into Anthropic as it ramps up its collaboration with the startup behind Claude artificial intelligence. The e-commerce and cloud computing colossus noted that the...",
-            "url": "https://japantoday.com/category/tech/amazon-invests-another-5-bn-in-anthropic"
-        },
-        {
-            "title": "BC Wildfire Service urges caution as fake wildfire images surface online",
-            "description": "[CHEK NEWS] The BC Wildfire Service is urging the public to be cautious of misleading images circulating online, as artificial intelligence-generated wildfire photos become increasingly common.",
-            "url": "https://cheknews.ca/bc-wildfire-service-urges-caution-as-fake-wildfire-images-surface-online-1319970/"
-        },
-        {
-            "title": "Meta to start capturing employee mouse movements, keystrokes for AI training data",
-            "description": "[THE MANILA TIMES] NEW YORK \u2014 Meta META.O is installing new tracking software on US-based employees\u2019 computers to capture mouse movements, clicks and keystrokes for use in training its artificial intelligence models,...",
-            "url": "https://www.manilatimes.net/2026/04/22/business/sunday-business-it/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/2325496"
-        },
-        {
-            "title": "Guns good at close range, crowded areas: Disturbing prompts asked by gunman to ChatGPT before Florida university shooting",
-            "description": "[TIMES OF INDIA] US News: A criminal investigation has been launched into whether an artificial intelligence (AI) chatbot played a role in a deadly mass shooting at Florida Sta.",
-            "url": "https://timesofindia.indiatimes.com/world/us/guns-good-at-close-range-crowded-areas-disturbing-prompts-asked-by-gunman-to-chatgpt-before-florida-university-shooting/articleshow/130426419.cms"
+            "title": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting",
+            "description": "[THE STRAITS TIMES] WASHINGTON, April 21 - Florida Attorney General James Uthmeier said on Tuesday the state was launching a criminal probe into OpenAI and its artificial intelligence app ChatGPT over a deadly shooting...",
+            "url": "https://www.straitstimes.com/world/florida-launches-criminal-probe-into-openai-and-chatgpt-over-deadly-shooting"
         },
         {
             "title": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting",
-            "description": "[JAPAN TODAY] Florida Attorney General James Uthmeier said on Tuesday the state was launching \u200ca criminal probe into OpenAI and its artificial intelligence app ChatGPT over a deadly shooting last year that killed...",
-            "url": "https://japantoday.com/category/tech/florida-launches-criminal-probe-into-openai-and-chatgpt-over-deadly-shooting"
+            "description": "[REUTERS] Florida Attorney General James Uthmeier said on Tuesday the state was launching a criminal probe into OpenAI and its \u200bartificial intelligence app ChatGPT over a deadly shooting last year that \u200ckilled...",
+            "url": "https://www.reuters.com/world/us/florida-launches-criminal-probe-into-openai-chatgpt-over-deadly-shooting-2026-04-21/"
         },
         {
-            "title": "Meta Platforms to Track Employees' Mouse Movements, Keystrokes for AI Training",
-            "description": "[MARKETSCREENER] Meta Platforms is installing software to track mouse movements, clicks and keystrokes of US employees in an effort to train its artificial intelligence models, Reuters reported Tuesday, citing an...",
-            "url": "https://www.marketscreener.com/news/meta-platforms-to-track-employees-mouse-movements-keystrokes-for-ai-training-ce7f59dbdf8ff024"
+            "title": "Meta to track workers' clicks and keystrokes to train AI",
+            "description": "[BBC NEWS] The firm will take data from the way employees work for its artificial intelligence models.",
+            "url": "https://www.bbc.com/news/articles/cvglyklz49jo"
         },
         {
-            "title": "Meta To Start Capturing Employees' Mouse Movements And Keystrokes To Train Its IA: Report",
-            "description": "[INTERNATIONAL BUSINESS TIMES] Meta is installing software on the computers of U.S. employees to track their mouse movements, clicks and keystrokes to train its artificial intelligence models, according to a new report.",
-            "url": "https://www.ibtimes.com/meta-start-capturing-employees-mouse-movements-keystrokes-train-its-ia-report-3801701"
+            "title": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting",
+            "description": "[MARKETSCREENER] Florida Attorney General James Uthmeier said on Tuesday the state was launching a criminal probe into OpenAI and its artificial intelligence app ChatGPT over a deadly shooting last year that...",
+            "url": "https://www.marketscreener.com/news/florida-launches-criminal-probe-into-openai-and-chatgpt-over-deadly-shooting-ce7f59dbd18df225"
         },
         {
-            "title": "OpenAI Consults With Accenture, PwC, Capgemini To Sell Codex To Businesses",
-            "description": "[BENZINGA] OpenAI has brought on consulting firms in an effort to scale its artificial intelligence coding model, Codex.",
-            "url": "https://www.benzinga.com/markets/private-markets/26/04/51952415/openai-consults-with-accenture-pwc-capgemini-to-sell-codex-to-businesses"
+            "title": "A.I. \u2018Hallucinations\u2019 Created Errors in Court Filing, Top Law Firm Says",
+            "description": "[THE NEW YORK TIMES] Sullivan & Cromwell apologized for submitting a court document that had fake citations created by artificial intelligence.",
+            "url": "https://www.nytimes.com/2026/04/21/nyregion/sullivan-cromwell-ai-hallucination.html"
         },
         {
-            "title": "Florida\u2019s attorney general launches criminal probe into ChatGPT over FSU shooting",
-            "description": "[HARTFORD COURANT] By MIKE SCHNEIDER ORLANDO, Fla. (AP) \u2014 Florida\u2019s attorney general on Tuesday opened an investigation into OpenAI\u2019s ChatGPT over whether there was criminal behavior involving interactions between the...",
-            "url": "https://www.courant.com/2026/04/21/floridas-attorney-general-launches-criminal-probe-into-chatgpt-over-fsu-shooting/"
+            "title": "$12.5 billion \u2018down payment\u2019 brings air traffic control out of 1990s. Now, more money is needed for new software and AI",
+            "description": "[ABC17NEWS.COM] By Alexandra Skores, CNN Washington (CNN) \u2014 The Department of Transportation is eliminating antiquated paper strips, copper communications wiring and computer floppy discs, but it says more money is...",
+            "url": "https://abc17news.com/news/national-world/cnn-national/2026/04/21/12-5-billion-down-payment-brings-air-traffic-control-out-of-1990s-now-more-money-is-needed-for-new-software-and-ai/"
+        },
+        {
+            "title": "SpaceX Said to Agree to Buy Cursor for More Than $50 Billion",
+            "description": "[THE NEW YORK TIMES] The agreement comes as Elon Musk\u2019s rocket and satellite maker, which has been emphasizing artificial intelligence, is preparing to go public.",
+            "url": "https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html"
+        },
+        {
+            "title": "49ers say AI is helping shape their NFL Draft player evaluations this year",
+            "description": "[FOX NEWS] San Francisco 49ers GM John Lynch said the team is using artificial intelligence ahead of the NFL Draft, claiming teams not using AI are \"already behind.\"",
+            "url": "https://www.foxnews.com/sports/49ers-turning-artificial-intelligence-ahead-nfl-draft-gm-says-laggards-already-behind"
+        },
+        {
+            "title": "Apple bets new CEO John Ternus will bring back Jobs-era decisiveness",
+            "description": "[THE BOSTON GLOBE] When Ternus officially takes the job in September, he will need to take chances, enter new product categories, and find the company\u2019s footing in artificial intelligence.",
+            "url": "https://www.bostonglobe.com/2026/04/21/business/apple-ceo-ternus/"
+        },
+        {
+            "title": "QC Ware Announces 5th Q2B Tokyo Conference Focused on the Roadmap to Quantum Value in Asia and Beyond, Quemix to Co-host and Sponsor",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- QC Ware, a leading provider of industry-disrupting quantum technology, quantum-inspired machine learning, and quantum chemistry simulation...",
+            "url": "https://www.prnewswire.co.uk/news-releases/qc-ware-announces-5th-q2b-tokyo-conference-focused-on-the-roadmap-to-quantum-value-in-asia-and-beyond-quemix-to-co-host-and-sponsor-302748233.html"
         }
     ]
 }
