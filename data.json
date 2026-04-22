@@ -1,25 +1,15 @@
 {
-    "updated": "2026-04-21 22:34:51 UTC",
+    "updated": "2026-04-22 02:09:40 UTC",
     "news": [
         {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
-        {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
-        },
-        {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -30,6 +20,11 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
+        },
+        {
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -47,14 +42,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Barclays, Lloyds, UBS Among Banks Picked by UK FCA for AI Tests",
-            "description": "[BLOOMBERG] Barclays Plc, Lloyds Banking Group Plc and UBS Group AG are among the latest group of lenders in the UK authorized to develop and test out real-world artificial intelligence applications, according...",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-21/barclays-lloyds-ubs-among-banks-picked-by-uk-fca-for-ai-tests"
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
-            "title": "Amazon Shares Jump Premarket on Additional Anthropic Spend",
-            "description": "[MARKETSCREENER] By Joe Stonor Amazon shares rose premarket after the company said after Monday's close that it would invest up to $25 billion in artificial-intelligence company Anthropic. Shares jumped 2.8%...",
-            "url": "https://www.marketscreener.com/news/amazon-shares-jump-premarket-on-additional-anthropic-spend-ce7f59dad081f625"
+            "title": "Market Momentum: AI Optimism and Earnings Drive Gains",
+            "description": "[DEVDISCOURSE] Wall Street indexes opened higher on Tuesday, fueled by renewed optimism in artificial intelligence and strong corporate earnings. This uplift comes as markets grapple with ongoing concerns over the...",
+            "url": "https://www.devdiscourse.com/article/science-environment/3882017-market-momentum-ai-optimism-and-earnings-drive-gains"
         },
         {
-            "title": "Eight University Teams To Vie For Laude Institute\u2019s $10 Million AI Moonshots",
-            "description": "[FORBES] Eight university research teams have been chosen as finalists for the Laude Institute\u2019s $10 million Moonshots research competition on artificial intelligence solutions.",
-            "url": "https://www.forbes.com/sites/michaeltnietzel/2026/04/21/eight-university-teams-to-compete-for-laude-institutes-10-million-moonshot/"
+            "title": "OpenAI leans on global consultancies to expand Codex use in large companies",
+            "description": "[MARKETSCREENER] OpenAI said on Tuesday it is expanding partnerships with major global consulting firms to speed up enterprise adoption of its Codex artificial intelligence tools, as competition in the rapidly...",
+            "url": "https://www.marketscreener.com/news/openai-leans-on-global-consultancies-to-expand-codex-use-in-large-companies-ce7f59dbdb80f127"
         },
         {
-            "title": "China's meteoric rise in pharmaceuticals threatens US supremacy but what about patients?",
-            "description": "[LIVEMINT] China\u2019s ambitions in semiconductors and artificial intelligence draw global attention, but its dramatic emergence as an innovator in healthcare is a story in itself. Its breakthroughs could reshape...",
-            "url": "https://www.livemint.com/opinion/online-views/china-pharmaceuticals-us-supremacy-artificial-intelligence-semiconductors-drug-therapies-11776676665162.html"
+            "title": "0G and Alibaba plug Qianwen LLM straight into onchain AI agents",
+            "description": "[CRYPTO NEWS] 0G Foundation is wiring Alibaba Cloud's Qianwen LLM into decentralized infrastructure via token-gated access, seeding one of the first onchain commercial AI...",
+            "url": "https://crypto.news/0g-and-alibaba-plug-qianwen-llm-straight-into-onchain-ai-agents/"
         },
         {
-            "title": "US stock futures climb as AI optimism tempers Middle East concerns",
-            "description": "[MARKETSCREENER] U.S. stock index futures rose on Tuesday as renewed artificial intelligence optimism bolstered markets battered by repeated back-and-forth linked to headlines about the Middle East conflict. ...",
-            "url": "https://www.marketscreener.com/news/us-stock-futures-climb-as-ai-optimism-tempers-middle-east-concerns-ce7f59dad089fe23"
+            "title": "Amazon invests another $5B in Anthropic",
+            "description": "[THE MANILA TIMES] SAN FRANCISCO \u2014 Amazon on Monday said it pumped another $5 billion into Anthropic as it ramps up its collaboration with the startup behind Claude artificial intelligence.",
+            "url": "https://www.manilatimes.net/2026/04/21/business/sunday-business-it/amazon-invests-another-5b-in-anthropic/2325144"
         },
         {
-            "title": "SLU host regional conference on Artificial intelligence in health care",
-            "description": "[BATON ROUGE ADVOCATE] The College of Nursing and Health Sciences at Southeastern Louisiana",
-            "url": "https://www.theadvocate.com/baton_rouge/news/communities/livingston_tangipahoa/slu-host-regional-conference-on-artificial-intelligence-in-health-care/article_7314c003-3599-4bc0-af9f-7bc4b3bbe5c2.html"
+            "title": "Alia Bhatt's morphed AI photos used by Pakistani clothing brand; internet reacts",
+            "description": "[INDIA TODAY] Social media users questioned a Pakistani brand over the use of Alia Bhatt's morphed pictures, raising concerns about the use of artificial intelligence.",
+            "url": "https://www.indiatoday.in/movies/celebrities/story/alia-bhatts-morphed-ai-photos-used-by-pakistani-clothing-brand-internet-reacts-2899500-2026-04-21"
         },
         {
-            "title": "Want to Speak to the Manager? At a New San Francisco Store, That\u2019s A.I.",
-            "description": "[THE NEW YORK TIMES] Andon Market in San Francisco is billed as the first retail boutique run by an artificial intelligence agent. So far, the inventory seems random, and there are too many candles.",
-            "url": "https://www.nytimes.com/2026/04/21/us/san-francisco-store-managed-ai-agent.html"
+            "title": "Yelp updates AI chatbot to help user search and book local services",
+            "description": "[NBC10 BOSTON] Online review aggregator Yelp wants to harness artificial intelligence to make it easier for users to find information curated by other people.",
+            "url": "https://www.nbcboston.com/news/business/yelp-ai-chatbot-help-users-reviews-book-services/3937137/"
         },
         {
-            "title": "German central bank chief urges wide access to Anthropic\u2019s Mythos AI model",
-            "description": "[THE NEWS INTERNATIONAL] German central bank chief Joachim Nagel has urged all institutions to have access to Anthropic\u2019s artificial intelligence Claude Mythos AI, aiming to keep the playing field even and reduce the...",
-            "url": "https://www.thenews.com.pk/latest/1399804-german-central-bank-chief-urges-wide-access-to-anthropics-mythos-ai-model"
+            "title": "Yelp updates AI chatbot to help user search and book local services",
+            "description": "[NBC 5 CHICAGO] Online review aggregator Yelp wants to harness artificial intelligence to make it easier for users to find information curated by other people.",
+            "url": "https://www.nbcchicago.com/news/business/yelp-ai-chatbot-help-users-reviews-book-services/3925730/"
         },
         {
-            "title": "'AI Nostradamus' makes grim prediction as it claims 'humanity will be rewritten'",
-            "description": "[THE DAILY STAR] EXCLUSIVE: Google's artificial intelligence-powered large language model called Gemini renamed itself and is now the official AI Nostradmus during a chat with the Daily Star",
-            "url": "https://www.dailystar.co.uk/news/latest-news/ai-nostradamus-makes-grim-prediction-37046296"
+            "title": "Cangrade Adds LLM Choice to Jules AI Copilot, Guided by Ethical AI",
+            "description": "[THE MANILA TIMES] HR teams can now select Anthropic, OpenAI, or Google, with Anthropic as the default, for increased transparency and flexibility in hiring",
+            "url": "https://www.manilatimes.net/2026/04/21/tmt-newswire/globenewswire/cangrade-adds-llm-choice-to-jules-ai-copilot-guided-by-ethical-ai/2325099"
         },
         {
-            "title": "AI is helping these Terps create a biodegradable plastic cling wrap",
-            "description": "[WTOP] Scientists at the University of Maryland are using artificial intelligence to create a biodegradable plastic wrap that reduces waste and extends the shelf life of food.",
-            "url": "https://wtop.com/maryland/2026/04/ai-is-helping-these-terps-create-a-biodegradable-plastic-cling-wrap/"
+            "title": "Reddit lands a bull rating from DA Davidson because large AI models love it",
+            "description": "[SEEKING ALPHA] DA Davidson starts Reddit (RDDT) coverage with a Buy and $200 target\u2014see why analysts cite under-monetization, ad growth, and LLM licensing upside.",
+            "url": "https://seekingalpha.com/news/4577113-reddit-lands-a-bull-rating-from-da-davidson-because-large-ai-models-love-it"
+        },
+        {
+            "title": "Lloyds pilots AI investment guidance tool as UK regulator studies impact",
+            "description": "[THE STAR] LONDON, April 21 (Reuters) - Lloyds Banking \u2060Group has become the first UK lender to introduce an artificial intelligence tool \u2060to help customers make investment decisions, even as AI's impact on the...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/21/lloyds-pilots-ai-investment-guidance-tool-as-uk-regulator-studies-impact"
         }
     ]
 }
