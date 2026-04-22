@@ -1,10 +1,10 @@
 {
-    "updated": "2026-04-22 07:51:57 UTC",
+    "updated": "2026-04-22 09:16:32 UTC",
     "news": [
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,9 +22,9 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -42,6 +42,11 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,9 +77,29 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "Meta Platforms to Track Employees' Mouse Movements, Keystrokes for AI Training",
+            "description": "[MARKETSCREENER] . Meta Platforms said Tuesday it is installing an internal tool to track and capture mouse movements, clicks and keystrokes of its employees in an effort to train its artificial intelligence...",
+            "url": "https://www.marketscreener.com/news/meta-platforms-to-track-employees-mouse-movements-keystrokes-for-ai-training-ce7f59dbde81f52c"
+        },
+        {
+            "title": "Amazon invests another $5 bil in Anthropic",
+            "description": "[JAPAN TODAY] Amazon has pumped another $5 billion into Anthropic as it ramps up its collaboration with the startup behind Claude artificial intelligence. The e-commerce and cloud computing colossus noted that the...",
+            "url": "https://japantoday.com/category/tech/amazon-invests-another-5-bn-in-anthropic"
+        },
+        {
+            "title": "BC Wildfire Service urges caution as fake wildfire images surface online",
+            "description": "[CHEK NEWS] The BC Wildfire Service is urging the public to be cautious of misleading images circulating online, as artificial intelligence-generated wildfire photos become increasingly common.",
+            "url": "https://cheknews.ca/bc-wildfire-service-urges-caution-as-fake-wildfire-images-surface-online-1319970/"
+        },
+        {
+            "title": "Meta to start capturing employee mouse movements, keystrokes for AI training data",
+            "description": "[THE MANILA TIMES] NEW YORK \u2014 Meta META.O is installing new tracking software on US-based employees\u2019 computers to capture mouse movements, clicks and keystrokes for use in training its artificial intelligence models,...",
+            "url": "https://www.manilatimes.net/2026/04/22/business/sunday-business-it/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/2325496"
+        },
+        {
+            "title": "Guns good at close range, crowded areas: Disturbing prompts asked by gunman to ChatGPT before Florida university shooting",
+            "description": "[TIMES OF INDIA] US News: A criminal investigation has been launched into whether an artificial intelligence (AI) chatbot played a role in a deadly mass shooting at Florida Sta.",
+            "url": "https://timesofindia.indiatimes.com/world/us/guns-good-at-close-range-crowded-areas-disturbing-prompts-asked-by-gunman-to-chatgpt-before-florida-university-shooting/articleshow/130426419.cms"
         },
         {
             "title": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting",
@@ -100,31 +125,6 @@
             "title": "Florida\u2019s attorney general launches criminal probe into ChatGPT over FSU shooting",
             "description": "[HARTFORD COURANT] By MIKE SCHNEIDER ORLANDO, Fla. (AP) \u2014 Florida\u2019s attorney general on Tuesday opened an investigation into OpenAI\u2019s ChatGPT over whether there was criminal behavior involving interactions between the...",
             "url": "https://www.courant.com/2026/04/21/floridas-attorney-general-launches-criminal-probe-into-chatgpt-over-fsu-shooting/"
-        },
-        {
-            "title": "OpenAI Unveils Image Model That\u2019s Better at Charts and Diagrams",
-            "description": "[BLOOMBERG] OpenAI is releasing an update to its artificial intelligence image-generating software that it says will let users create accurate, complex charts and scientific diagrams, part of a bid by the...",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-21/openai-unveils-image-model-that-s-better-at-charts-and-diagrams"
-        },
-        {
-            "title": "Maryland is banning surveillance pricing. What will it change?",
-            "description": "[WASHINGTON EXAMINER] Surveillance pricing can use artificial intelligence to sift through consumers\u2019 data, such as browsing history, to tailor prices.",
-            "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4537621/maryland-expected-ban-surveillance-pricing-consumers/"
-        },
-        {
-            "title": "Criminal probe launched into ChatGPT's possible involvement in deadly mass shooting at Florida State University",
-            "description": "[NEW YORK POST] Authorities have launched a criminal probe into whether the artificial-intelligence platform ChatGPT helped a man plan a deadly mass shooting at Florida State University last year.",
-            "url": "https://nypost.com/2026/04/21/us-news/criminal-probe-launched-into-chatgpts-possible-involvement-in-deadly-mass-shooting-at-florida-state-university/"
-        },
-        {
-            "title": "Mississippi Law School Requires AI Training as Courts Grapple With the Tech",
-            "description": "[DECRYPT] Mississippi College School of Law now mandates artificial intelligence education for first-year students as legal institutions adapt to both the risks and potential uses of the technology.",
-            "url": "https://decrypt.co/365063/mississippi-law-school-ai-training-courts"
-        },
-        {
-            "title": "Meta's New AI Initiative: Employee Monitoring for Machine Learning",
-            "description": "[DEVDISCOURSE] Meta is deploying tracking software to enhance AI models by capturing employees\u2019 computer interactions in the U.S. This initiative aims to build AI agents capable of performing tasks autonomously,...",
-            "url": "https://www.devdiscourse.com/article/technology/3882389-metas-new-ai-initiative-employee-monitoring-for-machine-learning"
         }
     ]
 }
