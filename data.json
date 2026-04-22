@@ -1,25 +1,15 @@
 {
-    "updated": "2026-04-22 15:09:01 UTC",
+    "updated": "2026-04-22 16:55:09 UTC",
     "news": [
         {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
-        {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
-        },
-        {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -30,6 +20,11 @@
             "title": "AI-generated synthetic neurons speed up brain mapping",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
+        },
+        {
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "ConvApparel: Measuring and bridging the realism gap in user simulators",
@@ -47,14 +42,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,19 +57,59 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
+            "title": "OpenAI in talks to commit up to $1.5 billion to private equity joint venture: FT",
+            "description": "[THE ECONOMIC TIMES] Artificial intelligence firm OpenAI is reportedly planning to invest up to $1.5 billion in a new joint venture, internally named 'DeployCo'. This venture, with private equity firms, is expected to be...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-in-talks-to-commit-up-to-1-5-billion-to-private-equity-joint-venture-ft/articleshow/130432065.cms"
+        },
+        {
+            "title": "OpenAI In Talks To Commit Up To $1.5 Billion To Private Equity Joint Venture",
+            "description": "[REPUBLIC WORLD] Artificial intelligence major OpenAI is set to commit up to $1.5 billion to a new joint venture with private equity firms, the Financial Times reported on Wednesday, citing people with knowledge of...",
+            "url": "https://www.republicworld.com/business/openai-in-talks-to-commit-up-to-15-billion-to-private-equity-joint-venture"
+        },
+        {
+            "title": "OpenAI in talks to commit up to $1.5 billion to private equity JV, FT reports",
+            "description": "[REUTERS] Artificial intelligence firm OpenAI is set to commit up to $1.5 billion to a new joint \u200bventure with private equity firms, Financial Times reported on \u200cWednesday, citing people familiar with the...",
+            "url": "https://www.reuters.com/legal/transactional/openai-talks-commit-up-15-billion-private-equity-joint-venture-ft-reports-2026-04-22/"
+        },
+        {
+            "title": "AI could boost growth, but Fed needs better data first: Fed Chair nominee Kevin Warsh",
+            "description": "[THE TRIBUNE] Fed Chair nominee Kevin Warsh on Tuesday said artificial intelligence could prove to be the 'most productivity enhancing wave of our lifetimes,' but the central bank must first secure better data and...",
+            "url": "https://www.tribuneindia.com/news/business/ai-could-boost-growth-but-fed-needs-better-data-first-fed-chair-nominee-kevin-warsh/"
+        },
+        {
+            "title": "Young Chinese use AI to launch one-person firms over job anxiety",
+            "description": "[BANGKOK POST] SHANGHAI - Young Chinese, many who fear age discrimination in their workplace after turning 35, are increasingly starting \"one-person companies\" that have artificial intelligence do most of the work.",
+            "url": "https://www.bangkokpost.com/world/3241784/young-chinese-use-ai-to-launch-oneperson-firms-over-job-anxiety"
+        },
+        {
+            "title": "Meta breaks ground on over $1 billion data center in Oklahoma's Tulsa",
+            "description": "[THE ECONOMIC TIMES] Meta Platforms is constructing a massive $1 billion data centre in Tulsa, Oklahoma, to boost its AI infrastructure. This investment will create over 1,000 construction jobs and 100 operational roles,...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/meta-breaks-ground-on-over-1-billion-data-center-in-oklahomas-tulsa/articleshow/130431015.cms"
+        },
+        {
+            "title": "SoftBank names CEO Rene Haas as Chief of International Arm, effective April",
+            "description": "[THE TRIBUNE] SoftBank Group on Tuesday announced an expanded leadership role for Rene Haas, signalling a sharper push to integrate its global semiconductor and artificial intelligence (AI) portfolio as the...",
+            "url": "https://www.tribuneindia.com/news/business/softbank-names-ceo-rene-haas-as-chief-of-international-arm-effective-april/"
         },
         {
             "title": "A new divide has reportedly emerged among engineers within Google, with some allowed to use ...",
@@ -90,41 +125,6 @@
             "title": "Japan exports rise for seventh month as AI demand blunts Mideast risks for now",
             "description": "[MARKETSCREENER] Japan's exports rose for a seventh straight month led by demand tied to artificial intelligence that has for now blunted the impact of trade disruptions caused by the Middle East conflict,...",
             "url": "https://www.marketscreener.com/news/japan-exports-rise-for-seventh-month-as-ai-demand-blunts-mideast-risks-for-now-ce7f59dbd18efe21"
-        },
-        {
-            "title": "Path-IO model predicts immunotherapy response in lung cancer patients",
-            "description": "[NEWS-MEDICAL.NET] An artificial intelligence (AI) model developed by researchers at The University of Texas MD Anderson Cancer Center demonstrated the ability to accurately predict responses to immunotherapy for...",
-            "url": "https://www.news-medical.net/news/20260421/Path-IO-model-predicts-immunotherapy-response-in-lung-cancer-patients.aspx"
-        },
-        {
-            "title": "Muted Q4, weak forecast cast a shadow on HCLTech",
-            "description": "[THE ECONOMIC TIMES] HCLTech's revenue growth guidance for FY27 is significantly lower than the actual FY26 growth, implying the effect of growing dependence of clients on operating efficiencies driven by ever rising...",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/muted-q4-weak-forecast-cast-a-shadow-on-hcltech/articleshow/130429557.cms"
-        },
-        {
-            "title": "Art of AI war: Sarvam to boost defence prowess",
-            "description": "[THE ECONOMIC TIMES] India is boosting its defence capabilities with a new Rs 300 crore Centre of Excellence for artificial intelligence. Homegrown labs like Sarvam are in talks with the defence ministry. This initiative...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/art-of-ai-war-sarvam-to-boost-defence-prowess/articleshow/130426430.cms"
-        },
-        {
-            "title": "Exclusive-SpaceX says unproven AI space data centers may not be commercially viable, filing shows",
-            "description": "[THE STAR] NEW YORK, April 21 (Reuters) - SpaceX \u2060warned investors that its ambitions to build space-based artificial intelligence data centers, as well as human \u2060settlements on the moon and Mars, rely on...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/22/exclusive-spacex-says-unproven-ai-space-data-centers-may-not-be-commercially-viable-filing-shows"
-        },
-        {
-            "title": "India tops global AI health adoption at 85%, far ahead of US, UK: Report",
-            "description": "[THE HITAVADA] mumbai : india has emerged as the global leader in the adoption of artificial intelligence for personal health, with a striking 85 per cent of consumers already using ai-powered tools -- far ahead of...",
-            "url": "https://www.thehitavada.com/Encyc/2026/4/22/india-tops-global-ai-health-adoption-at-85-far-ahead-of-us-uk-report.html"
-        },
-        {
-            "title": "As homes get smarter, new global research names Aiper as the world's No.1 smart robotic pool cleaner brand",
-            "description": "[THE MANILA TIMES] **media[1023514]**New research reveals Aiper holds the position of the world's No.1 brand of smart robotic pool cleaners based on 2026 manufacturer sales volume worldwideSYDNEY, April 22, 2026...",
-            "url": "https://www.manilatimes.net/2026/04/22/tmt-newswire/pr-newswire/as-homes-get-smarter-new-global-research-names-aiper-as-the-worlds-no1-smart-robotic-pool-cleaner-brand/2325579"
-        },
-        {
-            "title": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting",
-            "description": "[THE STRAITS TIMES] WASHINGTON, April 21 - Florida Attorney General James Uthmeier said on Tuesday the state was launching a criminal probe into OpenAI and its artificial intelligence app ChatGPT over a deadly shooting...",
-            "url": "https://www.straitstimes.com/world/florida-launches-criminal-probe-into-openai-and-chatgpt-over-deadly-shooting"
         }
     ]
 }
