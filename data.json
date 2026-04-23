@@ -1,98 +1,130 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-04-23 12:39 UTC",
+    "updated": "2026-04-23 13:19:56 UTC",
     "news": [
         {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
-            "description": "The project was part of a package of tech investment promising the UK could become an AI superpower.",
-            "url": "https://www.bbc.com/news/articles/clyd032ej70o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4825/live/fa97e0f0-3433-11f1-a18c-d7e9f5df98a8.jpg",
-            "publishedAt": "2026-04-09T17:04:50Z",
-            "content": "Its project, dubbed Stargate UK, included a large data centre in Northumberland and making thousands of powerful chips for AI development available as part of a partnership with tech firms Nvidia and\u2026 [+7 chars]"
+            "title": "It's all about the angle: Your photos, re-composed",
+            "description": "[RESEARCH] Generative AI",
+            "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019",
-            "description": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely-defined term that has incited a lot of discussion by tech CEOs, tech worke\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-23T19:42:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nHe then seemed to slightly walk back the claim.\r\nHe then seemed to slightly walk back the claim.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to \u2026 [+2848 chars]"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "BeauHD",
-            "title": "OpenAI Starts Offering a Biology-Tuned LLM",
-            "description": "An anonymous reader quotes a report from Ars Technica: On Thursday, OpenAI announced it had developed a large language model specifically trained on common biology workflows. Called GPT-Rosalind after Rosalind Franklin, the model appears to differ from most s\u2026",
-            "url": "https://science.slashdot.org/story/26/04/17/1721205/openai-starts-offering-a-biology-tuned-llm",
-            "urlToImage": "https://a.fsdn.com/sd/topics/biotech_64.png",
-            "publishedAt": "2026-04-17T18:00:00Z",
-            "content": "On Thursday, OpenAI announced it had developed a large language model specifically trained on common biology workflows. Called GPT-Rosalind after Rosalind Franklin, the model appears to differ from m\u2026 [+1722 chars]"
+            "title": "ReasoningBank: Enabling agents to learn from experience",
+            "description": "[RESEARCH] Generative AI",
+            "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "Why OpenAI killed Sora",
-            "description": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-03-27T21:47:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhy OpenAI killed Sora\r\nToo much compute, too much competition, and skeptical investors.\r\nby\r\nHayden FieldClose\r\nPosts from this author will be added to your dai\u2026 [+10409 chars]"
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Will Knight",
-            "title": "AI Could Democratize One of Tech's Most Valuable Resources",
-            "description": "AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.",
-            "url": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
-            "urlToImage": "https://media.wired.com/photos/69dea084bbe4a9ff56b3014b/191:100/w_1280,c_limit/AL-Lab-AI-Could-Democratize-One-of-Techs-Most-Valuable-Resources-Business.jpg",
-            "publishedAt": "2026-04-15T18:00:00Z",
-            "content": "Nvidia is the undisputed king of AI chips. But thanks to the AI it helped build, the champ could soon face growing competition.\r\nModern AI runs on Nvidia designs, a dynamic that has propelled the com\u2026 [+3700 chars]"
+            "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
+            "description": "[RESEARCH] Generative AI",
+            "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "Fear and loathing at OpenAI",
-            "description": "Sam Altman's tenure at OpenAI has been\u2026 messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep\u2026",
-            "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0410_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-04-10T12:23:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: what it takes to be in charge of AI, some vibe-coding and DIY work, and Brendan Carr.\r\nOn The Vergecast: what it takes to be in charge of AI, s\u2026 [+3366 chars]"
+            "title": "AI-generated synthetic neurons speed up brain mapping",
+            "description": "[RESEARCH] General Science",
+            "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "OpenAI shelves erotic chatbot \u2018indefinitely\u2019",
-            "description": "OpenAI \u200bhas paused plans to release a sexualized \"adult mode\" for ChatGPT, in its latest move to refocus on the company's core \u200bproducts. According to The Financial Times, the erotic chatbot has been shelved \"indefinitely\" after facing pushback from employees\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK464_PORN_ADULT_CONTENT_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-03-26T11:58:09Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nMuch like Sora, OpenAI says its pausing plans for ChatGPTs adult mode to focus on core products.\r\nMuch like Sora, OpenAI says its pausing plans for ChatGPTs adul\u2026 [+2217 chars]"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
+        },
+        {
+            "title": "Information-Driven Design of Imaging Systems",
+            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
+            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
+        },
+        {
+            "title": "RL without TD learning",
+            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
+            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
+        },
+        {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
+            "title": "Gradient-based Planning for World Models at Longer Horizons",
+            "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
+            "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "Towards developing future-ready skills with generative AI",
+            "description": "[RESEARCH] Education Innovation",
+            "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
+        },
+        {
+            "title": "What exactly does word2vec learn?",
+            "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
+            "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+        },
+        {
+            "title": "Identifying Interactions at Scale for LLMs",
+            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
+            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Google introduces specialized chip for new wave of AI computing",
+            "description": "[LIVEMINT] Google has raised the stakes in the contest to develop the world\u2019s fastest and most efficient artificial-intelligence chips.",
+            "url": "https://www.livemint.com/ai/google-introduces-specialized-chip-for-new-wave-of-ai-computing-11776906078877.html"
+        },
+        {
+            "title": "Microsoft bets big on AI in Australia with $18 billion investment",
+            "description": "[REUTERS] Microsoft said on Thursday that it will invest A$25 billion ($17.9 billion) in Australia by \u200cthe end of 2029 to boost computing and artificial intelligence capacity, betting on growing demand for the...",
+            "url": "https://www.reuters.com/world/asia-pacific/microsoft-invest-18-billion-australia-ai-push-2026-04-23/"
+        },
+        {
+            "title": "Anthropic Disputes Pentagon Claims of Its AI Tech in Court",
+            "description": "[NEWSMAX] Anthropic on Wednesday told an appeals court that it can't manipulate its artificial intelligence tool Claude once it is deployed in classified Pentagon military networks - an assertion aimed at...",
+            "url": "https://www.newsmax.com/newsfront/anthropic-artificial-intelligence-pentagon/2026/04/22/id/1253879/"
+        },
+        {
+            "title": "Mars or the moon or AI? Elon Musk\u2019s changing goals for SpaceX",
+            "description": "[THE STRAITS TIMES] SpaceX recently struck a deal that could see it acquire artificial intelligence start-up Cursor. Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/world/united-states/mars-or-the-moon-or-ai-elon-musks-changing-goals-for-spacex"
+        },
+        {
+            "title": "US tech giant claims $25b stake in Australian AI future",
+            "description": "[PERTHNOW] The nation's artificial intelligence industry will get a $25 billion-dollar boost, from data centres to workplace training, after a major company's bet big.",
+            "url": "https://www.perthnow.com.au/news/business/us-tech-giant-claims-25b-stake-in-australian-ai-future-c-22180505"
+        },
+        {
+            "title": "US tech giant claims $25b stake in Australian AI future",
+            "description": "[THE CANBERRA TIMES] The nation's artificial intelligence industry will get a $25 billion-dollar boost, from data centres to workplace training, after...",
+            "url": "https://www.canberratimes.com.au/story/9231531/us-tech-giant-claims-25b-stake-in-australian-ai-future/"
+        },
+        {
+            "title": "Nvidia supplier SK Hynix Q1 profit rises more than five-fold, meets forecasts",
+            "description": "[THE STAR] SEOUL, April \u206023 (Reuters) - South Korea's SK Hynix posted \u2060more than a five-fold jump \u200cin first-quarter operating profit to a record on Thursday, as the artificial intelligence boom drove \u200bstrong...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/23/nvidia-supplier-sk-hynix-q1-profit-rises-more-than-five-fold-meets-forecasts"
+        },
+        {
+            "title": "Unionised Samsung workers to hold rally in South Korea as labour unrest grows",
+            "description": "[THE STAR] PYEONGTAEK, South Korea, April 23 (Reuters) - \u2060Unions at Samsung Electronics said they expect about 37,000 workers to attend a rally in South Korea on \u2060Thursday, ahead of a threatened strike next...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/23/unionised-samsung-workers-to-hold-rally-in-south-korea-as-labour-unrest-grows"
+        },
+        {
+            "title": "IT takes D-St on a tumble, AI fears pop up on HCL Q4 miss",
+            "description": "[THE ECONOMIC TIMES] Indian IT stocks experienced a significant decline on Wednesday. This sell-off was triggered by HCL Technologies' disappointing fourth-quarter earnings and subdued future outlook. Investor concerns...",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/it-takes-d-st-on-a-tumble-ai-fears-pop-up-on-hcl-q4-miss/articleshow/130454163.cms"
+        },
+        {
+            "title": "IBM revenue growth slows on AI worries; shares fall",
+            "description": "[THE STAR] April 22 (Reuters) - IBM's \u2060revenue growth slowed in the first quarter on sluggishness in its software business, \u2060fanning fears of disruption from artificial intelligence tools and sending its shares...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/23/ibm-revenue-growth-slows-amid-ai-concerns-shares-fall"
         }
     ]
 }
