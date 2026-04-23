@@ -1,20 +1,30 @@
 {
-    "updated": "2026-04-23 20:47:59 UTC",
+    "updated": "2026-04-23 22:40:10 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -27,11 +37,6 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
-        },
-        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -42,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,59 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "Exclusive-SpaceX IPO filing shows Elon Musk can retain board control",
+            "description": "[THE STAR] SAN FRANCISCO / BOSTON, April 23 (Reuters) - SpaceX is telling prospective investors its board will not need a majority of \u2060directors who are independent of the company, according to an excerpt of...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/23/exclusive-spacex-ipo-filing-shows-elon-musk-can-retain-board-control"
         },
         {
-            "title": "Pitsilis: The contribution of artificial intelligence in the fight against tax evasion is decisive",
-            "description": "[PROTO THEMA] George Pitsilis underlined the importance of financial literacy and Artificial Intelligence in access to knowledge, tax evasion, subsidies and cybersecurity",
-            "url": "https://en.protothema.gr/2026/04/23/pitsilis-the-contribution-of-artificial-intelligence-in-the-fight-against-tax-evasion-is-decisive/"
+            "title": "Nasscom appoints Fractal cofounder Srikanth Velamakanni as Chairman",
+            "description": "[THE ECONOMIC TIMES] Srikanth Velamakanni takes the helm at Nasscom as the new Chairperson, succeeding Sindhu Gangadharan. With a robust background in AI and analytics, he aims to drive a rapid transformation in service...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/nasscom-appoints-fractal-cofounder-srikanth-velamakanni-as-chairman/articleshow/130464637.cms"
         },
         {
-            "title": "AI is making companies spend more on cloud and changing how tech services work says Equirus",
-            "description": "[THE TRIBUNE] Artificial Intelligence is no longer an experiment for enterprises -- it's now the core driver of technology spending and is fundamentally reshaping how services are bought and delivered, according...",
-            "url": "https://www.tribuneindia.com/news/business/ai-is-making-companies-spend-more-on-cloud-and-changing-how-tech-services-work-says-equirus/"
+            "title": "SoftBank Eyes $10 Billion Margin Loan Secured by OpenAI Shares",
+            "description": "[MARKETSCREENER] SoftBank is seeking a $10 billion margin loan backed by its Microsoft-backed OpenAI stake, as it increases borrowing to fund its aggressive push into artificial intelligence, Bloomberg reported...",
+            "url": "https://www.marketscreener.com/news/softbank-eyes-10-billion-margin-loan-secured-by-openai-shares-ce7f59d9df81ff24"
         },
         {
-            "title": "Tesla Plans to Use Intel's 14A Process to Make Chips at Terafab Project",
-            "description": "[MARKETSCREENER] Tesla intends to use Intel's upcoming 14A process to make chips at its Terafab advanced artificial intelligence project in Austin, Texas, Reuters reported Wednesday, citing Tesla Chief Executive...",
-            "url": "https://www.marketscreener.com/news/tesla-plans-to-use-intel-s-14a-process-to-make-chips-at-terafab-project-ce7f59d9dc8ef420"
+            "title": "There are fixes for AI\u2019s toll on the power grid. Here\u2019s why they\u2019re not happening",
+            "description": "[CABLE NEWS NETWORK] Tech companies charging ahead with artificial intelligence have a problem: AI\u2019s rapid growth is colliding headlong with a finite amount of available energy and computing power.",
+            "url": "https://edition.cnn.com/2026/04/23/business/ai-compute-power-electricity-grid"
         },
         {
-            "title": "Samsung workers rally in South Korea, demanding higher pay, threatening to strike",
-            "description": "[DAILY EXCELSIOR] PYEONGTAEK (South Korea), Apr 23: Thousands of Samsung Electronics workers rallied Thursday at its computer chip complex in Pyeongtaek, South Korea, demanding higher bonuses and threatening to strike...",
-            "url": "https://www.dailyexcelsior.com/samsung-workers-rally-in-south-korea-demanding-higher-pay-threatening-to-strike/"
+            "title": "AI is fueling a surge in crypto fraud schemes, IRS investigators say. For one victim, \"There's nothing left.\"",
+            "description": "[CBS NEWS] One woman's entire life savings was stolen from her by sophisticated scammers who used artificial intelligence to perfectly manipulate her.",
+            "url": "https://www.cbsnews.com/sacramento/news/ai-crypto-fraud-irs-investigators/"
         },
         {
-            "title": "Samsung workers rally in South Korea, demanding higher pay and threatening to strike",
-            "description": "[THE MANILA TIMES] PYEONGTAEK, South Korea \u2014 Thousands of Samsung Electronics workers rallied Thursday at its computer chip complex in Pyeongtaek, South Korea, demanding higher bonuses and threatening to strike as...",
-            "url": "https://www.manilatimes.net/2026/04/23/business/foreign-business/samsung-workers-rally-in-south-korea-demanding-higher-pay-and-threatening-to-strike/2326784"
+            "title": "Silicon Valley banker wants to swap his $8M estate for Anthropic stock",
+            "description": "[NEW YORK POST] A Silicon Valley dealmaker is looking to swap his 14-acre estate for shares of the AI giant Anthropic \u2013 the latest sign of the lengths investors will go to get a piece of the red-hot artificial...",
+            "url": "https://nypost.com/2026/04/23/business/silicon-valley-banker-wants-to-swap-his-8m-estate-for-anthropic-stock/"
         },
         {
-            "title": "AI to reshape next phase of financial market infrastructure: SBI Chairman CS Setty",
-            "description": "[THE ECONOMIC TIMES] State Bank of India Chairman CS Setty foresees artificial intelligence revolutionizing financial markets. AI will enhance risk management and operational efficiency. Institutions like Clearing Corp...",
-            "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-to-reshape-next-phase-of-financial-market-infrastructure-sbi-chairman-cs-setty/articleshow/130461165.cms"
+            "title": "AI is fueling a surge in crypto fraud schemes, IRS investigators say. For one victim, \"There's nothing left.\"",
+            "description": "[CBS NEWS] One woman's entire life savings was stolen from her by sophisticated scammers who used artificial intelligence to perfectly manipulate her.",
+            "url": "https://www.cbsnews.com/losangeles/news/ai-crypto-fraud-irs-investigators/"
         },
         {
-            "title": "Goldberg: Keep artificial intelligence out of classrooms",
-            "description": "[SANTA ROSA PRESS DEMOCRAT] All of the clich\u00e9s about children learning by doing are actually true.",
-            "url": "https://www.pressdemocrat.com/2026/04/23/goldberg-keep-artificial-intelligence-out-of-classrooms/"
+            "title": "AI is fueling a massive surge in crypto fraud schemes, IRS investigators say",
+            "description": "[CBS NEWS] One woman's entire life savings was stolen from her by sophisticated scammers who used artificial intelligence to perfectly manipulate her.",
+            "url": "https://www.cbsnews.com/news/ai-crypto-fraud-irs-investigators/"
         },
         {
-            "title": "Samsung workers rally in South Korea, demanding higher pay and threatening to strike",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Thousands of Samsung Electronics' workers have rallied at its computer chip making complex in Pyeongtaek, South Korea, demanding higher bonuses and threatening to strike as the boom in artificial...",
-            "url": "https://www.ajc.com/news/2026/04/samsung-workers-rally-in-south-korea-demanding-higher-pay-and-threatening-to-strike/"
+            "title": "Meet ACE: The AI robot can beat human table tennis pros",
+            "description": "[EURONEWS] A new robot developed by Sony can now take on top table tennis players, highlighting how quickly artificial intelligence is advancing into complex human skills.",
+            "url": "https://www.euronews.com/next/2026/04/23/meet-ace-the-ai-robot-can-beat-human-table-tennis-pros"
         },
         {
-            "title": "break\" moment for India's $350 billion IT sector: Nilesh Shah",
-            "description": "[THE TRIBUNE] Artificial Intelligence (AI) presents a decisive inflection point for India's massive IT ecosystem, with industry veteran Nilesh Shah warning that it could either unlock unprecedented growth or...",
-            "url": "https://www.tribuneindia.com/news/business/artificial-intelligence-a-make-or-break-moment-for-indias-350-billion-it-sector-nilesh-shah/"
-        },
-        {
-            "title": "Samsung workers rally in South Korea, demanding higher pay and threatening to strike",
-            "description": "[WDIV CLICKONDETROIT] Thousands of Samsung Electronics' workers have rallied at its computer chip making complex in Pyeongtaek, South Korea, demanding higher bonuses and threatening to strike as the boom in artificial...",
-            "url": "https://www.clickondetroit.com/business/2026/04/23/samsung-workers-rally-in-south-korea-demanding-higher-pay-and-threatening-to-strike/"
+            "title": "\u2018Marking their own homework\u2019: Sunak calls for independent AI testing amid job concerns",
+            "description": "[THE NEWS INTERNATIONAL] Artificial Intelligence is severely affecting the job market for young people, a fact of which we are all quite aware. This shift is mounting pressure on individuals regarding what the future holds...",
+            "url": "https://www.thenews.com.pk/latest/1400058-marking-their-own-homework-sunak-calls-for-independent-ai-testing-amid-job-concerns"
         }
     ]
 }
