@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-23 15:49:31 UTC",
+    "updated": "2026-04-23 17:16:31 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -7,14 +7,19 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -27,9 +32,9 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,59 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "Explained: Why China\u2019s AI computing power looks 6,000x bigger",
+            "description": "[TIMES OF INDIA] International Business News: China has reported a massive leap in its domestic artificial intelligence (AI) computing power, with official figures suggesting capacity far beyond w.",
+            "url": "https://timesofindia.indiatimes.com/business/international-business/explained-why-chinas-ai-computing-power-looks-6000x-bigger/articleshow/130457621.cms"
         },
         {
-            "title": "Microsoft to Invest $18 Billion to Expand Australia's AI Capacity by 2029 -- Update",
-            "description": "[MARKETSCREENER] By Kimberley Kao Microsoft will invest $18 billion in cloud and artificial-intelligence infrastructure in Australia by the end of 2029, marking its largest ever investment in the country. The...",
-            "url": "https://www.marketscreener.com/news/microsoft-to-invest-18-billion-to-expand-australia-s-ai-capacity-by-2029-update-ce7f59d9db8ff124"
+            "title": "AI boom lifts Nokia sales, shares hit 16-year high after earnings beat",
+            "description": "[REUTERS] Nokia raised the growth targets for its artificial intelligence business on Thursday, after the network gear maker beat market expectations for quarterly comparable operating \u200bprofit, sending its...",
+            "url": "https://www.reuters.com/business/nokia-beats-first-quarter-estimates-ai-boom-lifts-sales-again-2026-04-23/"
         },
         {
-            "title": "Tesla boosts spending plan to $25 billion amid Musk's AI, robotics push",
-            "description": "[BUSINESS STANDARD] The investments will be put toward a dramatic expansion of factory operations, including production of its Optimus humanoid robot, artificial intelligence initiatives and the Cybercab autonomous car",
-            "url": "https://www.business-standard.com/technology/tech-news/tesla-boosts-spending-plan-to-25-billion-amid-musk-s-ai-robotics-push-126042300129_1.html"
+            "title": "Exclusive: SpaceX targets in-house GPUs as it warns investors of chip supply, costs",
+            "description": "[REUTERS] SpaceX may be tackling one of the biggest challenges in the chip business: manufacturing the keys to \u200cpowering artificial intelligence called GPUs.",
+            "url": "https://www.reuters.com/business/autos-transportation/spacex-targets-in-house-gpus-it-warns-investors-chip-supply-costs-2026-04-23/"
         },
         {
-            "title": "Google CEO Sundar Pichai says AI generates 75% codes at the company: Why this number matters",
-            "description": "[TIMES OF INDIA] Tech News News: Google CEO Sundar Pichai has revealed that more than three-quarters of all new code at the company is now generated by Artificial Intelligence (AI). T.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-says-ai-generates-75-codes-at-the-company-why-this-number-matters/articleshow/130451126.cms"
+            "title": "SoftBank seeks $10 billion margin loan backed by OpenAI shares: Bloomberg",
+            "description": "[THE ECONOMIC TIMES] SoftBank is reportedly seeking a massive $10 billion loan, leveraging its stake in ChatGPT's creator, OpenAI. This move signals the Japanese tech giant's intensified commitment to artificial...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/softbank-seeks-10-billion-margin-loan-backed-by-openai-shares-bloomberg/articleshow/130456981.cms"
         },
         {
-            "title": "Google boosts AI agents strategy with next-gen chips to take on Nvidia",
-            "description": "[FIRSTPOST] Google is redesigning its AI hardware and software playbook, introducing separate chips for training and inference while pivoting hard towards enterprise AI agents. The move signals a deeper...",
-            "url": "https://www.firstpost.com/tech/google-boosts-ai-agents-strategy-with-next-gen-chips-to-take-on-nvidia-14003399.html"
+            "title": "As AI evolves, people debate whether machines deserve feelings and rights",
+            "description": "[BANGKOK POST] Humanoid robots powered by artificial intelligence are moving from science fiction to daily life, raising ethical and legal questions worldwide. Thai philosopher and artificial intelligence ethics...",
+            "url": "https://www.bangkokpost.com/life/tech/3242509/as-ai-evolves-people-debate-whether-machines-deserve-feelings-and-rights"
         },
         {
-            "title": "Alibaba, Tencent Explore Investment in DeepSeek",
-            "description": "[MARKETSCREENER] Alibaba and Tencent are in early-stage talks to back artificial intelligence firm DeepSeek, Reuters reported Wednesday, citing The Information. The startup, supported by High-Flyer Capital...",
-            "url": "https://www.marketscreener.com/news/alibaba-tencent-explore-investment-in-deepseek-ce7f59d9db8df321"
+            "title": "Dr AI: How Irish medics are using tools to help with diagnosis and treatment",
+            "description": "[INDEPENDENT.IE] More than one in two doctors reported using AI (artificial intelligence) in clinical practice within the last year and one in five look to it daily.",
+            "url": "https://www.independent.ie/irish-news/dr-ai-how-irish-medics-are-using-tools-to-help-with-diagnosis-and-treatment/a1816214815.html"
         },
         {
-            "title": "Microsoft to Invest Around $18 Billion in Australia to Build AI Capacity by 2029",
-            "description": "[MARKETSCREENER] By Kimberley Kao Microsoft will invest $18 billion in cloud and artificial-intelligence infrastructure in Australia by the end of 2029, marking its largest ever investment in the country. The...",
-            "url": "https://www.marketscreener.com/news/microsoft-to-invest-around-18-billion-in-australia-to-build-ai-capacity-by-2029-ce7f59d9db8af122"
+            "title": "K-Logistikus integrates AI to redefine logistics in the Philippines",
+            "description": "[THE MANILA TIMES] ACROSS industries, logistics is undergoing a fundamental shift. The growing complexity of supply chains, coupled with rising customer expectations for speed and transparency, is pushing companies to...",
+            "url": "https://www.manilatimes.net/2026/04/23/tmt-newswire/k-logistikus-integrates-ai-to-redefine-logistics-in-the-philippines/2326747"
         },
         {
-            "title": "Google introduces specialized chip for new wave of AI computing",
-            "description": "[LIVEMINT] Google has raised the stakes in the contest to develop the world\u2019s fastest and most efficient artificial-intelligence chips.",
-            "url": "https://www.livemint.com/ai/google-introduces-specialized-chip-for-new-wave-of-ai-computing-11776906078877.html"
+            "title": "Foreign investors buy Japan stocks on US-Iran peace hopes, AI rally",
+            "description": "[REUTERS] Japanese stocks attracted significant foreign investor inflows in the week through April 18, driven by a rally \u200bin artificial intelligence\u2011related stocks as risk sentiment improved on \u200chopes of a...",
+            "url": "https://www.reuters.com/world/asia-pacific/foreign-investors-buy-japan-stocks-us-iran-peace-hopes-ai-rally-2026-04-23/"
         },
         {
-            "title": "Microsoft bets big on AI in Australia with $18 billion investment",
-            "description": "[REUTERS] Microsoft said on Thursday that it will invest A$25 billion ($17.9 billion) in Australia by \u200cthe end of 2029 to boost computing and artificial intelligence capacity, betting on growing demand for the...",
-            "url": "https://www.reuters.com/world/asia-pacific/microsoft-invest-18-billion-australia-ai-push-2026-04-23/"
+            "title": "SoftBank Group Shares Rally as AI Stocks Lead Market Recovery",
+            "description": "[MARKETSCREENER] By Kosaku Narioka SoftBank Group's shares rallied, as artificial-intelligence-related stocks lead a recovery from the rout triggered by the Iran war. The Japanese technology investment...",
+            "url": "https://www.marketscreener.com/news/softbank-group-shares-rally-as-ai-stocks-lead-market-recovery-ce7f59d9db80f722"
         },
         {
-            "title": "Anthropic Disputes Pentagon Claims of Its AI Tech in Court",
-            "description": "[NEWSMAX] Anthropic on Wednesday told an appeals court that it can't manipulate its artificial intelligence tool Claude once it is deployed in classified Pentagon military networks - an assertion aimed at...",
-            "url": "https://www.newsmax.com/newsfront/anthropic-artificial-intelligence-pentagon/2026/04/22/id/1253879/"
-        },
-        {
-            "title": "Mars or the moon or AI? Elon Musk\u2019s changing goals for SpaceX",
-            "description": "[THE STRAITS TIMES] SpaceX recently struck a deal that could see it acquire artificial intelligence start-up Cursor. Read more at straitstimes.com.",
-            "url": "https://www.straitstimes.com/world/united-states/mars-or-the-moon-or-ai-elon-musks-changing-goals-for-spacex"
+            "title": "Foreign investors buy Japan stocks on US-Iran peace hopes, AI rally",
+            "description": "[MARKETSCREENER] Japanese stocks attracted significant foreign investor inflows in the week through April 18, driven by a rally in artificial intelligence-related stocks as risk sentiment improved on hopes of a...",
+            "url": "https://www.marketscreener.com/news/foreign-investors-buy-japan-stocks-on-us-iran-peace-hopes-ai-rally-ce7f59d9db81fe20"
         }
     ]
 }
