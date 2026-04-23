@@ -1,20 +1,30 @@
 {
-    "updated": "2026-04-22 22:43:00 UTC",
+    "updated": "2026-04-23 02:13:22 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -27,11 +37,6 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
-        },
-        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -42,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,59 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "SpaceX strikes deal for $60B option to buy Cursor later this year or pay $10B for \u2018work together\u2019 AI collaboration",
+            "description": "[TECHSTARTUPS.COM] SpaceX is moving deeper into artificial intelligence with a high-stakes arrangement that puts a fast-rising coding startup at the center of its plans. The company said it has struck a deal with AI...",
+            "url": "https://techstartups.com/2026/04/22/spacex-strikes-deal-for-60b-option-to-buy-cursor-later-this-year-or-pay-10b-for-work-together-ai-collaboration/"
         },
         {
-            "title": "UK must brace for rise in state-backed cyberattacks, security chief says",
-            "description": "[THE STRAITS TIMES] LONDON, April 22 - Britain should brace for a rise in cyberattacks linked to hostile states, the head of the country's cybersecurity agency said on Wednesday, as the government urged tech firms to...",
-            "url": "https://www.straitstimes.com/asia/uk-must-brace-for-rise-in-state-backed-cyberattacks-security-chief-says"
+            "title": "AI Pioneers Back Startup Building Models to Predict Events",
+            "description": "[BLOOMBERG] Sooth Labs, a new artificial intelligence lab founded by former Meta Platforms Inc. employees, is raising about $50 million in funding to build AI models meant to help businesses forecast the...",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-22/ai-pioneers-back-startup-building-models-to-predict-events"
         },
         {
-            "title": "UK must brace for rise in state-backed cyberattacks, security chief says",
-            "description": "[REUTERS] Britain should brace for a rise in cyberattacks linked to hostile states, the head of the country's cybersecurity agency said on Wednesday, as the government urged \u200btech firms to help build defences...",
-            "url": "https://www.reuters.com/legal/government/uk-must-brace-rise-state-backed-cyberattacks-security-chief-says-2026-04-22/"
+            "title": "Anthropic Investigates Unauthorized Access to Its New Mythos AI Model",
+            "description": "[INTERNATIONAL BUSINESS TIMES] Anthropic is investigating reports that its restricted Mythos artificial intelligence model was accessed by individuals outside its approved user base, according to a new report.",
+            "url": "https://www.ibtimes.com/anthropic-investigates-unauthorized-access-its-new-mythos-ai-model-3801748"
         },
         {
-            "title": "Next-Gen Nissan, Mercedes Tech Focuses on Naturalness",
-            "description": "[NEWSWEEK] The next automotive frontier will be defined by software and utilize artificial intelligence to achieve more natural drive performance.",
-            "url": "https://www.newsweek.com/next-gen-nissan-mercedes-tech-focuses-on-naturalness-11850892"
+            "title": "Italy is euro zone laggard on AI usage, official data shows",
+            "description": "[MARKETSCREENER] Italy has one of the lowest rates of artificial intelligence use in Europe, data showed on Wednesday, highlighting a broader shortfall in digital skills in the euro zone's third-largest economy. ......",
+            "url": "https://www.marketscreener.com/news/italy-is-euro-zone-laggard-on-ai-usage-official-data-shows-ce7f59d8df8ef623"
         },
         {
-            "title": "Nobel Prize winner predicts when humanity ends",
-            "description": "[THE DAILY STAR] US theoretical physicist David Gross has shared a bleak outlook for humanity, highlighting the prospect of nuclear war and the inexorable rise of artificial intelligence",
-            "url": "https://www.dailystar.co.uk/news/world-news/nobel-prize-winner-predicts-humanity-37052318"
+            "title": "Italy is euro zone laggard on AI usage, official data shows",
+            "description": "[REUTERS] Italy has one of the lowest rates of artificial \u200bintelligence use in Europe, data showed \u200con Wednesday, highlighting a broader shortfall in digital skills in the euro zone's \u200bthird-largest economy.",
+            "url": "https://www.reuters.com/business/italy-is-euro-zone-laggard-ai-usage-official-data-shows-2026-04-22/"
         },
         {
-            "title": "Software makers' best may not be good enough as AI fears mount",
-            "description": "[REUTERS] Salesforce will likely report its fastest quarterly revenue growth in three years, but analysts say that may not be \u200benough, as fears that artificial intelligence would decimate software makers have...",
-            "url": "https://www.reuters.com/business/software-makers-best-may-not-be-good-enough-ai-fears-mount-2026-04-22/"
+            "title": "Italy's Digital Divide: Bridging the Gap with AI",
+            "description": "[DEVDISCOURSE] Italy reports one of the lowest rates of artificial intelligence usage within Europe, emphasizing a wider digital skills gap. Just 19.9% of Italians utilized AI tools, trailing the European average...",
+            "url": "https://www.devdiscourse.com/article/technology/3883273-italys-digital-divide-bridging-the-gap-with-ai"
         },
         {
-            "title": "Kabeer Biswas\u2019s concierge startup 'M' raises Rs 102 crore from Peak XV, Blume, Cred",
-            "description": "[THE ECONOMIC TIMES] Kabeer Biswas, Dunzo cofounder, has launched a new AI concierge startup named M. The company secured Rs 102 crore in funding from Peak XV Partners, Blume Ventures, and Cred. M aims to automate...",
-            "url": "https://economictimes.indiatimes.com/tech/funding/kabeer-biswass-concierge-startup-m-raises-rs-102-crore-from-peak-xv-blume-cred/articleshow/130437866.cms"
+            "title": "Gaming industry could unlock $22 billion in profits on AI",
+            "description": "[THE ECONOMIC TIMES] Artificial intelligence is set to revolutionize game development. Analysts predict AI tools could slash costs by almost half, unlocking billions in profits. This will allow smaller teams to create...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/gaming-industry-could-unlock-22-billion-in-profits-on-ai-driven-cost-cuts-morgan-stanley/articleshow/130443111.cms"
         },
         {
-            "title": "India's central bank in talks with global regulators, banks to review Mythos risks, sources say",
-            "description": "[REUTERS] India\u2019s central bank is in talks with global regulators, Indian lenders and government officials to understand the potential risks posed by Anthropic\u2019s new artificial intelligence \u200bmodel Mythos,...",
-            "url": "https://www.reuters.com/sustainability/boards-policy-regulation/indias-central-bank-talks-with-global-regulators-banks-review-mythos-risks-2026-04-22/"
+            "title": "Merck to partner with Google Cloud on AI initiatives",
+            "description": "[BNN BLOOMBERG] Drugmaker Merck & Co MRK.N said on Wednesday it will partner with Google Cloud to build up its artificial intelligence capabilities, investing as much as $1 billion with Google over a number of years...",
+            "url": "https://www.bnnbloomberg.ca/business/company-news/2026/04/22/merck-to-partner-with-google-cloud-on-ai-initiatives/"
         },
         {
-            "title": "Finally, an answer: how much is a pint of Guinness in every British pub?",
-            "description": "[THE SUNDAY TIMES] A pair of tech engineers use artificial intelligence to find the UK\u2019s \u2018Guinness Equator\u2019 and reveal where a pint of the black stuff costs \u00a37.61",
-            "url": "https://www.thetimes.com/uk/london/article/how-much-pint-guinness-british-pubs-3qd23klfs"
+            "title": "TD Bank Mulls Hedging Data Center Debt With Rare SRT Deal",
+            "description": "[BLOOMBERG] Toronto-Dominion Bank is weighing a rare type of significant risk transfer to hedge current and future data center exposure as tech companies ramp up artificial intelligence investment.",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-22/td-bank-mulls-hedging-data-center-debt-with-rare-srt-deal"
         },
         {
-            "title": "India's central bank in talks with global regulators, banks to review Mythos risks, sources say",
-            "description": "[MARKETSCREENER] India's central bank is in talks with global regulators, Indian lenders and government officials to understand the potential risks posed by Anthropic's new artificial intelligence model Mythos,...",
-            "url": "https://www.marketscreener.com/news/india-s-central-bank-in-talks-with-global-regulators-banks-to-review-mythos-risks-sources-say-ce7f59d8db80f427"
-        },
-        {
-            "title": "Nearly 70 pc of new green jobs need tech skills; huge vacancy for skilled professionals",
-            "description": "[LOKMAT TIMES] Nearly 70 pc of new green jobs need tech skills; huge vacancy for skilled professionals - New Delhi, April 22 A convergence of artificial intelligence and sustainability created urgent demand for...",
-            "url": "https://www.lokmattimes.com/technology/nearly-70-pc-of-new-green-jobs-need-tech-skills-huge-vacancy-for-skilled-professionals-1/"
+            "title": "Google Unveils Two New AI Chips, Will Invest $750 Million in Agentic AI Adoption",
+            "description": "[MARKETSCREENER] By Adriano Marchese Google unveiled its latest custom chips and set up a new $750 million agentic AI partner fund to accelerate the adoption of agentic artificial intelligence. The TPU 8t and...",
+            "url": "https://www.marketscreener.com/news/google-unveils-two-new-ai-chips-will-invest-750-million-in-agentic-ai-adoption-ce7f59d8df8bf024"
         }
     ]
 }
