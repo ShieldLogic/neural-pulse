@@ -1,30 +1,20 @@
 {
-    "updated": "2026-04-23 06:03:04 UTC",
+    "updated": "2026-04-23 09:23:50 UTC",
     "news": [
-        {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
         {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
-        },
-        {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -37,6 +27,11 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
+        },
+        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -47,14 +42,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "This San Francisco store is run by artificial intelligence: Meet Luna, the boss",
-            "description": "[KABC-TV] An artificial intelligence boss named Luna is running Andon Market in San Francisco's Cow Hollow neighborhood.",
-            "url": "https://abc7.com/post/artificial-intelligence-boss-named-luna-running-san-francisco-store-andon-market-cow-hollow-neighborhood/18943220/"
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
-            "title": "Anthropic seeks to debunk Pentagon's claims about its control over AI technology in military systems",
-            "description": "[BREITBART NEWS NETWORK] Anthropic on Wednesday told an appeals court that it can\u2019t manipulate its artificial intelligence tool Claude once it is deployed in classified",
-            "url": "https://www.breitbart.com/news/anthropic-seeks-to-debunk-pentagons-claims-about-its-control-over-ai-technology-in-military-systems/"
+            "title": "'I think it's a mistake': Delta CEO Ed Bastian refuses to call it 'artificial intelligence' because it scares people",
+            "description": "[FORTUNE] \"You want to scare people?\" The Delta CEO told Fortune. \"Tell them that artificial intelligence is coming for you.\"",
+            "url": "https://fortune.com/2026/04/22/delta-ceo-ed-bastian-great-place-to-work-ai-scaring-people-artificial-branding-mistake/"
         },
         {
-            "title": "SpaceX says it can buy AI coding tool Cursor for $60B later this year",
-            "description": "[NBC NEWS] SpaceX says it has the rights to buy artificial intelligence coding tool Cursor for $60 billion later this year as Elon Musk\u2019s space exploration and AI company looks for ways to compete with rivals...",
-            "url": "https://www.nbcnews.com/tech/tech-news/spacex-says-can-buy-ai-coding-tool-cursor-60b-later-year-rcna341455"
+            "title": "IBM Posts Higher 1Q Sales, Buoyed by AI -- Update",
+            "description": "[MARKETSCREENER] By Elias Schisgall IBM reported rising revenue and a higher profit in the first quarter, buoyed by the growing adoption of artificial-intelligence tools by businesses. AI continues to be a...",
+            "url": "https://www.marketscreener.com/news/ibm-posts-higher-1q-sales-buoyed-by-ai-update-ce7f59d9d98ff021"
         },
         {
-            "title": "Xanadu Quantum Stock Explodes 22% in Frenzied Session as Photonic Computing Hype Surges",
-            "description": "[INTERNATIONAL BUSINESS TIMES] Xanadu Quantum Technologies shares rocketed more than 22% midday Wednesday, pushing past $28 as momentum in the nascent quantum computing sector continued to build on artificial intelligence",
-            "url": "https://www.ibtimes.com/xanadu-quantum-stock-explodes-22-frenzied-session-photonic-computing-hype-surges-3801776"
+            "title": "OPB union ratifies contract that sets minimum salary, built-in raises",
+            "description": "[THE OREGONIAN] The three-year deal also includes job protections related to artificial intelligence.",
+            "url": "https://www.oregonlive.com/business/2026/04/oregon-public-radio-workers-ratify-contract-that-sets-minimum-salary-built-in-raises.html"
         },
         {
-            "title": "Nvidia's H200 chips remain stalled in China despite US green light",
-            "description": "[MARKETSCREENER] Nvidia's H200 artificial intelligence chips have yet to be marketed to Chinese firms, despite the authorization granted in January by the Donald Trump administration. During a Senate hearing, US...",
-            "url": "https://www.marketscreener.com/news/nvidia-s-h200-chips-remain-stalled-in-china-despite-us-green-light-ce7f59d8d180f720"
+            "title": "ServiceNow stock sinks as subscription revenue takes hit from Iran war",
+            "description": "[CNBC] The software company beat expectations for earnings and revenue as it continued to expand its artificial intelligence offerings.",
+            "url": "https://www.cnbc.com/2026/04/22/servicenow-now-earnings-q1-2026.html"
         },
         {
-            "title": "Reese Witherspoon clarifies AI stance amid backlash over comments",
-            "description": "[HARTFORD COURANT] Superstar Reese Witherspoon responded Tuesday to viral backlash against earlier comments she had made urging women to familiarize themselves with Artificial Intelligence and its uses or risk being...",
-            "url": "https://www.courant.com/2026/04/22/reese-witherspoon-clarifies-ai-stance-amid-backlash-over-comments/"
+            "title": "IBM Q1 earnings report 2026",
+            "description": "[CNBC] Investors have been attuned to mainframe disruption threats from artificial intelligence, but IBM posted 51% growth in Z mainframe hardware revenue.",
+            "url": "https://www.cnbc.com/2026/04/22/ibm-q1-earnings-report-2026.html"
         },
         {
-            "title": "Microsoft to integrate Anthropic's Mythos into its security development program",
-            "description": "[REUTERS] Microsoft said on Wednesday it plans to embed advanced artificial intelligence models, including Anthropic's Claude Mythos \u200bPreview, into its secure coding framework, as \u200cthe company steps up its...",
-            "url": "https://www.reuters.com/technology/microsoft-integrate-anthropics-mythos-into-its-security-development-program-2026-04-22/"
+            "title": "IBM's slower revenue growth fans AI worries, shares fall",
+            "description": "[REUTERS] IBM's revenue growth slowed in the first quarter on sluggishness in its software business, fanning fears of disruption from artificial intelligence tools \u200band sending its shares down 6.5% after hours...",
+            "url": "https://www.reuters.com/business/ibm-tops-quarterly-estimates-hybrid-cloud-growth-2026-04-22/"
         },
         {
-            "title": "Rivian CEO Sees New Electric SUV as Key Milestone for AI Tech",
-            "description": "[BLOOMBERG] Rivian Automotive Inc. is betting its next-generation R2 SUV will do more than boost sales. The higher-volume vehicle is key to unlocking the EV maker\u2019s autonomous driving future, Chief Executive...",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-22/rivian-ceo-sees-new-electric-suv-as-key-milestone-for-ai-tech"
+            "title": "Tesla lifts 2026 spending plans by a quarter as Musk funds AI and robotic dreams",
+            "description": "[REUTERS] Tesla sharply raised its spending plan to more \u200bthan $25 billion for the year as CEO Elon Musk pours money into artificial intelligence, robotics and chips - moves he said were \"well justified\" to...",
+            "url": "https://www.reuters.com/business/autos-transportation/tesla-revenue-misses-estimates-demand-weakens-2026-04-22/"
         },
         {
-            "title": "Meta breaks ground on 28th US data center",
-            "description": "[SOCIAL MEDIA TODAY] The new artificial intelligence-optimized project in Tulsa, Oklahoma will be the company\u2019s first in the state and its 32nd globally.",
-            "url": "https://www.socialmediatoday.com/news/meta-breaks-ground-on-28th-us-data-center/818268/"
+            "title": "Musk's $60 Billion Bet on Cursor Comes as xAI Falls Behind on Coding",
+            "description": "[BLOOMBERG] Elon Musk\u2019s artificial intelligence startup xAI has spent months trying to convince businesses to use its Grok chatbot for speeding up the process of coding. But Musk\u2019s own employees have sometimes...",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-22/musk-makes-60-billion-gamble-after-xai-slips-behind-in-coding"
         },
         {
-            "title": "Bloodbath at Mark Zuckerberg-backed California school as tech titan and his wife strip funding",
-            "description": "[NEW YORK POST] A Mark Zuckerberg-backed private school in the Bay Area is laying off nearly 150 employees as it prepares to shut down this summer \u2014 as the tech scion invests billions into artificial intelligence.",
-            "url": "https://nypost.com/2026/04/22/business/bloodbath-at-mark-zuckerberg-backed-california-school-as-tech-titan-and-his-wife-strip-funding/"
+            "title": "8 in 10 civic school students in Mumbai aware of AI tools, finds study; flags overdependence and calls for exam reform",
+            "description": "[TIMES OF INDIA] Mumbai: Eight in 10 students in Mumbai's civic schools are aware of artificial intelligence tools, but their use is increasingly centred around homewo.",
+            "url": "https://timesofindia.indiatimes.com/city/mumbai/8-in-10-civic-school-students-in-mumbai-aware-of-ai-tools-finds-study-flags-overdependence-and-calls-for-exam-reform/articleshow/130449937.cms"
+        },
+        {
+            "title": "AI to reshape financial market infrastructure, says State Bank of India chairman CS Setty",
+            "description": "[THE ECONOMIC TIMES] State Bank of India chairman CS Setty foresees artificial intelligence revolutionizing financial markets. AI will enhance risk management and operational efficiency. Institutions like Clearing Corp...",
+            "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-to-reshape-financial-market-infrastructure-says-state-bank-of-india-chairman-cs-setty/articleshow/130450982.cms"
         }
     ]
 }
