@@ -1,30 +1,20 @@
 {
-    "updated": "2026-04-24 02:13:54 UTC",
+    "updated": "2026-04-24 06:05:53 UTC",
     "news": [
-        {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
         {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
-        },
-        {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -37,6 +27,11 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+        },
+        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -47,14 +42,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "AI Takes The Stand: The New Frontier In White-Collar Evidence",
-            "description": "[FORBES] Artificial intelligence has moved from the back office to the witness stand, becoming the foundation for expert testimony and forensic evidence in criminal trials.",
-            "url": "https://www.forbes.com/sites/maglaw/2026/04/23/ai-takes-the-stand-the-new-frontier-in-white-collar-evidence/"
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
-            "title": "Inside China, artificial intelligence is a snake eating its own tail",
-            "description": "[DEFENSENEWS.COM] Opinion: AI researchers refer to this as \u201cmodel collapse,\u201d a phenomenon in which models trained on their own synthetic outputs degrade over successive generations.",
-            "url": "https://www.defensenews.com/opinion/2026/04/23/inside-china-artificial-intelligence-is-a-snake-eating-its-own-tail/"
+            "title": "Meta to Cut 10 Percent of Work Force",
+            "description": "[THE NEW YORK TIMES] The layoffs affect about 8,000 employees, with Meta also planning to close 6,000 open roles, as the company focuses on artificial intelligence.",
+            "url": "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html"
         },
         {
-            "title": "Applied Digital signs $7.5 billion AI data center lease with US hyperscaler",
-            "description": "[REUTERS] Applied Digital has signed a long-term lease worth $7.5 billion with an unnamed U.S.-based hyperscaler at its \u200bnew Delta Forge 1 site, it said on Thursday, \u200cstrengthening its position as a data...",
-            "url": "https://www.reuters.com/business/applied-digital-signs-75-billion-ai-data-center-lease-with-us-hyperscaler-2026-04-23/"
+            "title": "Coinbase slashes fraud response times with new AI-driven rules engine",
+            "description": "[CRYPTO NEWS] Coinbase has rebuilt its anti\u2011fraud stack by tightly integrating machine learning models with a high\u2011speed rules engine, slashing response times to new scam",
+            "url": "https://crypto.news/coinbase-slashes-fraud-response-times-with-new-ai-driven-rules-engine/"
         },
         {
-            "title": "Rishi Sunak warns AI is making it harder for young people to land jobs in law, finance",
-            "description": "[LIVEMINT] Artificial intelligence is beginning to reshape hiring patterns in sectors like law and accountancy, making it harder for young job seekers to find opportunities, former UK prime minister Rishi Sunak...",
-            "url": "https://www.livemint.com/news/trends/rishi-sunak-warns-ai-is-making-it-harder-for-young-people-to-land-jobs-in-law-finance-11776950891153.html"
+            "title": "FM Sitharaman urges bankers to brace for AI threats amid Anthropic concerns",
+            "description": "[MONEYCONTROL] Anthropic, an US-based artificial intelligence company, said unauthorised access was made on its new model Mythos, which is deemed too dangerous for public release.",
+            "url": "https://www.moneycontrol.com/news/business/fm-sitharaman-urges-bankers-to-brace-for-ai-threats-amid-anthropic-concerns-13897950.html"
         },
         {
-            "title": "India needs digital identity for every device and stronger AI-led cyber defence to curb threats: Experts",
-            "description": "[LIVEMINT] With the rapid expansion of the digital ecosystem and rising cyber threats, experts have called for creating a digital identity for every device and strengthening artificial intelligence (AI)-led...",
-            "url": "https://www.livemint.com/technology/india-needs-digital-identity-for-every-device-and-stronger-ai-led-cyber-defence-to-curb-threats-experts-11776951208130.html"
+            "title": "Meta tells staff it will cut 10% of jobs in push for efficiency",
+            "description": "[THE ECONOMIC TIMES] Meta Platforms is set to lay off approximately 8,000 employees, about 10% of its workforce, on May 20. This significant workforce reduction aims to boost efficiency and offset substantial investments...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency/articleshow/130476309.cms"
         },
         {
-            "title": "India needs digital identity for every device and stronger AI",
-            "description": "[THE TRIBUNE] With the rapid expansion of the digital ecosystem and rising cyber threats, experts have called for creating a digital identity for every device and strengthening artificial intelligence (AI)-led...",
-            "url": "https://www.tribuneindia.com/news/business/india-needs-digital-identity-for-every-device-and-stronger-ai-led-cyber-defence-to-curb-threats-experts/"
+            "title": "Anthropic, law firm Freshfields to jointly develop AI legal tools",
+            "description": "[REUTERS] Global law firm Freshfields and artificial intelligence startup Anthropic said on Thursday that they signed an agreement to develop new AI tools, \u200bas large law firms look increasingly to embed...",
+            "url": "https://www.reuters.com/legal/legalindustry/anthropic-law-firm-freshfields-jointly-develop-ai-legal-tools-2026-04-23/"
         },
         {
-            "title": "Infosys Steps Up AI Game With OpenAI Collaboration",
-            "description": "[OUTLOOK BUSINESS] Infosys has announced a strategic collaboration with OpenAI to accelerate enterprise adoption of artificial intelligence and modernise software development processes.",
-            "url": "https://www.outlookbusiness.com/corporate/infosys-big-ai-move-with-openai-heres-what-it-means-for-enterprises"
+            "title": "White House accuses China of industrial-scale AI technology theft, report claims",
+            "description": "[THE NEWS INTERNATIONAL] The White House on Thursday accused China of a new AI theft on industrial scale. US President Donald Trump's administration has accused China of stealing U.S. artificial intelligence AI labs'...",
+            "url": "https://www.thenews.com.pk/latest/1400114-white-house-accuses-china-of-industrial-scale-ai-technology-theft-report-claims"
         },
         {
-            "title": "Tesla's $25 billion spending plan tests investor faith in unproven AI bets",
-            "description": "[THE ECONOMIC TIMES] Tesla CEO Elon Musk is seeking investor confidence for ambitious ventures in self-driving cars and humanoid robots. The company is significantly increasing its capital expenditure to over $25 billion...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/teslas-25-billion-spending-plan-tests-investor-faith-in-unproven-ai-bets/articleshow/130469059.cms"
+            "title": "Microsoft Targets Trimming 7% Of Workforce Via First-Ever Voluntary Retirement Offer",
+            "description": "[NDTV PROFIT] The move comes as major tech firms tighten costs while investing heavily in artificial intelligence infrastructure.",
+            "url": "https://www.ndtvprofit.com/business/microsoft-targets-trimming-7-of-workforce-via-first-ever-voluntary-retirement-offer-11400266"
         },
         {
-            "title": "Google says AI now writes 75% of all codes- Are human developers becoming irrelevant?",
-            "description": "[THE NEWS INTERNATIONAL] When it comes to coding, most of the tech companies are turning to artificial intelligence to ensure accuracy and efficiency. After Anthropic, Google is the latest company at which 75 percent of...",
-            "url": "https://www.thenews.com.pk/latest/1400081-google-says-ai-now-writes-75-of-all-codes-are-human-developers-becoming-irrelevant"
+            "title": "Sitharaman holds meeting with banks on emerging threats linked to AI models, asks them to take measures to secure IT systems, safeguard customer data",
+            "description": "[THE TRIBUNE] Union Finance Minister Nirmala Sitharaman chaired a high-level meeting on Thursday, along with Union Minister for Electronics and Information Technology Ashwini Vaishnaw, with Scheduled Commercial...",
+            "url": "https://www.tribuneindia.com/news/business/sitharaman-holds-meeting-with-banks-on-emerging-threats-linked-to-ai-models-asks-them-to-take-measures-to-secure-it-systems-safeguard-customer-data/"
         },
         {
-            "title": "Samsung, SK Hynix and TSMC Battle for AI Chip Supremacy in Asia as 2026 Race Intensifies",
-            "description": "[INTERNATIONAL BUSINESS TIMES] As artificial intelligence demand drives the global semiconductor industry toward a trillion-dollar scale in 2026, three Asian powerhouses \u2014 Taiwan's TSMC, South Korea's Samsung Electronics and SK",
-            "url": "https://www.ibtimes.com/samsung-sk-hynix-tsmc-battle-ai-chip-supremacy-asia-2026-race-intensifies-3801801"
+            "title": "Alphabet Stock Edges Higher on New AI Chip Launches and Cloud Momentum Ahead of Q1 Earnings",
+            "description": "[INTERNATIONAL BUSINESS TIMES] Alphabet Inc. Class C shares (NASDAQ: GOOG) ticked up modestly Thursday, trading around $338.38 after gaining about 0.19% early in the session, as investors digested fresh artificial intelligence",
+            "url": "https://www.ibtimes.com/alphabet-stock-edges-higher-new-ai-chip-launches-cloud-momentum-ahead-q1-earnings-3801885"
+        },
+        {
+            "title": "Educators should adopt trust-based approach to AI in schools, committee hears",
+            "description": "[THE IRISH TIMES] Co-ordinators of a proactive artificial intelligence schools programme in Estonia tell of their experience",
+            "url": "https://www.irishtimes.com/ireland/education/2026/04/23/educators-should-adopt-trust-based-system-when-it-comes-to-ai-in-schools-committee-hears/"
         }
     ]
 }
