@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-24 15:04:53 UTC",
+    "updated": "2026-04-24 16:51:48 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -7,14 +7,19 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -27,9 +32,9 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,59 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "DeepSeek\u2019s Sequel Set to Extend China\u2019s Reach in Open-Source A.I.",
+            "description": "[THE NEW YORK TIMES] Chinese companies have embraced making their most advanced artificial intelligence models available to all.",
+            "url": "https://www.nytimes.com/2026/04/24/business/china-ai-deepseek-open-source.html"
         },
         {
-            "title": "Government assesses potential risks from AI models",
-            "description": "[TIMES OF INDIA] India Business News: NEW DELHI: Government has started to assess potential risks from advanced artificial intelligence (AI) models, such as Anthropic\u2019s Mythos, with financ.",
-            "url": "https://timesofindia.indiatimes.com/business/india-business/government-assesses-potential-risks-from-ai-models/articleshow/130482128.cms"
+            "title": "Meta layoffs: 10pc workforce cut as company invests in AI and shuts thousands of open roles",
+            "description": "[THE NEWS INTERNATIONAL] Meta has announced plans to cut around 10 percent of its workforce, affecting roughly 8,000 employees, as it continues to invest heavily in artificial intelligence. According to a memo by chief...",
+            "url": "https://www.thenews.com.pk/latest/1400157-meta-layoffs-10pc-workforce-cut-as-company-invests-billions-in-ai-and-shuts-thousands-of-open-roles"
         },
         {
-            "title": "Perplexity CEO Aravind Srinivas gives three reasons why and how AI does not matter for iPhone and Apple fans",
-            "description": "[TIMES OF INDIA] Tech News News: At a time when the tech world is obsessed with how artificial intelligence (AI) may \u2018disrupt\u2019 or replace our current gadgets, the CEO of one of the wo.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/perplexity-ceo-aravind-srinivas-gives-three-reasons-why-and-how-ai-does-not-matter-for-iphone-and-apple-fans/articleshow/130478442.cms"
+            "title": "Meta to layoff 8,000 from its workforce, amid AI spending push: Report",
+            "description": "[THE INDIAN EXPRESS] Meta is set to lay off around 8,000 employees globally as it looks to streamline operations and offset rising investments in artificial intelligence.",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/meta-to-layoff-8000-from-its-workforce-amid-ai-spending-push-report-10653052/"
         },
         {
-            "title": "Meta layoffs: Company confirms 8,000 job cut to focus on AI",
-            "description": "[FIRSTPOST] Meta Platforms is preparing another significant round of layoffs, targeting around 8,000 roles, as it doubles down on artificial intelligence. The move reflects a broader industry shift, with major...",
-            "url": "https://www.firstpost.com/tech/meta-layoffs-company-confirms-8000-job-cut-to-focus-on-ai-14003808.html"
+            "title": "Trump administration vows crackdown on Chinese companies 'exploiting' AI models made in US",
+            "description": "[THE ECONOMIC TIMES] America is taking a strong stance against foreign tech firms, especially those in China, for allegedly stealing advanced artificial intelligence technology. The U.S. government plans to identify and...",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-administration-announces-aggressive-action-against-chinese-theft-of-us-ai-technology/articleshow/130482919.cms"
         },
         {
-            "title": "SK Group Establishes Foundation for AI Collaboration with Vietnam",
-            "description": "[THE MANILA TIMES] SK Telecom and SK Innovation sign separate MOUs with Vietnam's Nghe An Province and the National Innovation Center (NIC) to foster artificial intelligence (AI) ecosystem development.From AI data...",
-            "url": "https://www.manilatimes.net/2026/04/24/tmt-newswire/pr-newswire/sk-group-establishes-foundation-for-ai-collaboration-with-vietnam/2327726"
+            "title": "China's DeepSeek returns with new model, a year after viral rise",
+            "description": "[THE ECONOMIC TIMES] DeepSeek, a Chinese AI firm, is previewing a significant upgrade to its artificial intelligence model. The new V4 model will feature pro and flash versions.",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-deepseek-returns-with-new-model-a-year-after-viral-rise/articleshow/130482795.cms"
         },
         {
-            "title": "AI model rapidly designs new antibiotic to fight resistant bacteria",
-            "description": "[NEWS-MEDICAL.NET] Researchers at McMaster University have developed a new generative artificial intelligence (AI) model capable of drastically speeding up drug discovery - and, in early tests, it has already designed...",
-            "url": "https://www.news-medical.net/news/20260423/AI-model-rapidly-designs-new-antibiotic-to-fight-resistant-bacteria.aspx"
+            "title": "Musk Is Chasing the Smart AI Money With $60 Billion Deal",
+            "description": "[BLOOMBERG] One of the most fundamental ingredients of Silicon Valley success is the practice of dominating a market to rapidly achieve massive scale. The strategy has a name, blitzscaling, coined by billionaire...",
+            "url": "https://www.bloomberg.com/opinion/articles/2026-04-24/spacex-ai-musk-is-chasing-the-smart-money-with-60-billion-cursor-deal"
         },
         {
-            "title": "Markets have poor scorecard for spotting AI losers",
-            "description": "[REUTERS] When a groundbreaking \u2060technology arrives, \u200binvestors are quick \u200bto identify leaders and laggards. The artificial \u200bintelligence boom \u200bhas knocked shares of software \u200cand \u2060data firms. Yet past bubbles...",
-            "url": "https://www.reuters.com/commentary/breakingviews/markets-have-poor-scorecard-spotting-ai-losers-2026-04-24/"
+            "title": "Meta to cut 10% of global workforce, and this is what the severance pay looks like",
+            "description": "[FIRSTPOST] Meta is preparing sweeping layoffs affecting thousands of employees as it focuses on artificial intelligence. In the memo, the company has outlined severance packages, healthcare support, and...",
+            "url": "https://www.firstpost.com/tech/meta-to-cut-10-of-global-workforce-and-this-is-what-the-severance-pay-looks-like-14003810.html"
         },
         {
-            "title": "anticipated update of its AI model",
-            "description": "[BREITBART NEWS NETWORK] DeepSeek, the Chinese artificial intelligence startup that shook up world markets last year, has launched preview versions of its latest major update",
-            "url": "https://www.breitbart.com/news/chinas-deepseek-rolls-out-a-long-anticipated-update-of-its-ai-model/"
+            "title": "Meta to lay off 8,000 employees amid increased AI apending",
+            "description": "[THE TRIBUNE] Meta, parent of Facebook and Instagram, is set to lay off around 8,000 employees, nearly 10 per cent of its global workforce, as part of a broader restructuring effort driven by rising investments in...",
+            "url": "https://www.tribuneindia.com/news/business/meta-to-lay-off-8000-employees-amid-increased-ai-apending/"
         },
         {
-            "title": "Commonwealth Bank of Australia Deploys Agentic AI System to Combat Fraud, Scams",
-            "description": "[MARKETSCREENER] Commonwealth Bank of Australia has launched a new agentic artificial intelligence system that continuously analyzes payments data to identify emerging fraud patterns and propose real-time...",
-            "url": "https://www.marketscreener.com/news/commonwealth-bank-of-australia-deploys-agentic-ai-system-to-combat-fraud-scams-ce7f59dede8ef62c"
+            "title": "DeepSeek Unveils Newest Flagship AI Model a Year after Upending Silicon Valley",
+            "description": "[BLOOMBERG] DeepSeek rolled out preview versions of a new flagship artificial intelligence model a year after upending Silicon Valley, calling it the most powerful open-source platform in a challenge to rivals...",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough"
         },
         {
-            "title": "Infosys logs 21% jump in Q4 profit",
-            "description": "[THE ECONOMIC TIMES] Infosys, India's second-largest IT firm, announced robust revenue and net profit figures for the fourth quarter of FY26. Despite outperforming rivals, the company issued a wider annual revenue...",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/infosys-logs-21-jump-in-q4-profit/articleshow/130475716.cms"
-        },
-        {
-            "title": "Meta slashes 8,000 jobs, or 10% of its workforce, as Microsoft offers buyouts",
-            "description": "[ANCHORAGE DAILY NEWS] Meta continues to ramp up spending on artificial intelligence infrastructure and highly paid AI-expert hires.",
-            "url": "https://www.adn.com/nation-world/2026/04/23/meta-slashes-8000-jobs-or-10-of-its-workforce-as-microsoft-offers-buyouts/"
+            "title": "China's AI darling DeepSeek previews new model adapted for Huawei chip technology",
+            "description": "[REUTERS] DeepSeek, the \u200bChinese artificial intelligence startup whose low-cost model stunned the world last year, on Friday launched a preview of \u200cits highly awaited new model adapted for Huawei chip...",
+            "url": "https://www.reuters.com/technology/chinas-deepseek-returns-with-new-model-year-after-viral-rise-2026-04-24/"
         }
     ]
 }
