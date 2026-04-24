@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-24 09:27:56 UTC",
+    "updated": "2026-04-24 11:03:36 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -15,11 +15,6 @@
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
-        },
-        {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -47,14 +42,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Xiao-I Corporation Announces Plan to Implement ADS Ratio Change",
-            "description": "[THE MANILA TIMES] SHANGHAI, April 24, 2026 /PRNewswire/ -- Xiao-I Corporation ('Xiao-I' or the 'Company') (NASDAQ: AIXI), a leading artificial intelligence company, today announced that it plans to change the ratio of...",
-            "url": "https://www.manilatimes.net/2026/04/24/tmt-newswire/pr-newswire/xiao-i-corporation-announces-plan-to-implement-ads-ratio-change/2327671"
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
-            "title": "Meta to cut 10 per cent of workforce in AI push",
-            "description": "[THE CANBERRA TIMES] Meta will cut nearly 8000 jobs next month as it spends more on artificial intelligence projects.",
-            "url": "https://www.canberratimes.com.au/story/9232169/meta-to-cut-10-per-cent-of-workforce-in-ai-push/"
+            "title": "Meta to lay off 10% of workforce in AI push",
+            "description": "[UPI NEWS] Meta plans to lay off 10% of its employees worldwide -- about 8,000 people -- and focus on artificial intelligence, an employee memo said Thursday.",
+            "url": "https://www.upi.com/Top_News/US/2026/04/23/Meta-layoffs-artificial-intelligence/4571776982803/"
         },
         {
-            "title": "The Potential Peril and Profit of Anthropic\u2019s Mythos",
-            "description": "[BLOOMBERG] The artificial intelligence model has sparked fear on Wall Street. But the furor could eventually benefit its maker.",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-23/video-the-potential-peril-and-profit-of-anthropic-s-mythos"
+            "title": "Meta to lay off 8,000 employees in AI investment pivot",
+            "description": "[FOX BUSINESS] Meta confirms plans to cut 10% of its workforce \u2014 roughly 8,000 jobs \u2014 starting May to prioritize heavy investments in artificial intelligence.",
+            "url": "https://www.foxbusiness.com/technology/meta-informs-staff-layoffs-affecting-8000-employees-amid-ai-push"
         },
         {
-            "title": "Axe employer National Insurance to save young people\u2019s jobs from rising costs and AI, warns Rishi Sunak",
-            "description": "[THE SUN] RISHI Sunak has urged ministers to axe employer National Insurance \u2014 warning rising hiring costs and artificial intelligence are squeezing young...",
-            "url": "https://www.thesun.co.uk/money/38913339/sunak-ministers-axe-national-insurance-save-youth-jobs/"
+            "title": "Trump administration targets foreign exploitation of US AI models",
+            "description": "[THE ASSOCIATED PRESS] The Trump administration is vowing to crack down on foreign tech companies\u2019 exploitation of U.S. artificial intelligence models, singling out China at a time that country is narrowing the gap with...",
+            "url": "https://apnews.com/article/ai-china-us-model-distillation-kratsios-a5c40346394ef5fa9ae710c5aabdc62c"
         },
         {
-            "title": "Meta slashes 8,000 jobs, or 10% of its workforce; Microsoft offers buyouts",
-            "description": "[JAPAN TODAY] Meta is laying off about 8,000 workers, or about 10% of its workforce, the company said Thursday as it continues to ramp up spending on artificial intelligence infrastructure and highly paid...",
-            "url": "https://japantoday.com/category/tech/meta-slashes-8-000-jobs-or-10-of-its-workforce-as-microsoft-offers-buyouts"
+            "title": "Trump administration vows crackdown on Chinese companies \u2018exploiting\u2019 AI models made in US",
+            "description": "[WTOP] WASHINGTON (AP) \u2014 The Trump administration is vowing to crack down on foreign tech companies' exploitation of U.S. artificial intelligence models\u2026",
+            "url": "https://wtop.com/business-finance/2026/04/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/"
         },
         {
-            "title": "Intel's Strong AI-Fueled Forecast Tops Estimates",
-            "description": "[MARKETSCREENER] Intel gave a strong sales forecast for the current period, signaling that the struggling chipmaker is finally beginning to benefit from the giant build-out of artificial intelligence...",
-            "url": "https://www.marketscreener.com/news/intel-s-strong-ai-fueled-forecast-tops-estimates-ce7f59dedc89f226"
+            "title": "Trump administration vows crackdown on Chinese companies \u2018exploiting\u2019 AI models made in US",
+            "description": "[NEWSBREAK] WASHINGTON (AP) \u2014 The Trump administration is vowing to crack down on foreign tech companies\u2019 exploitation of U.S. artificial intelligence models, singling",
+            "url": "https://www.newsbreak.com/the-associated-press-510077/4609617907362-trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us"
         },
         {
-            "title": "Lawyers should disclose when AI causes errors, appeals court says",
-            "description": "[REUTERS] Lawyers should be candid with judges when using generative artificial intelligence for legal work creates errors in court filings, a state appeals court said, in a ruling that underscored the...",
-            "url": "https://www.reuters.com/legal/government/lawyers-should-disclose-when-ai-causes-errors-appeals-court-says-2026-04-23/"
+            "title": "Trump administration vows crackdown on Chinese companies 'exploiting' AI models made in US",
+            "description": "[WDIV CLICKONDETROIT] The Trump administration is vowing to crack down on foreign tech companies\u2019 exploitation of U.S. artificial intelligence models, singling out China at a time that country is narrowing the gap with...",
+            "url": "https://www.clickondetroit.com/business/2026/04/23/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/"
         },
         {
-            "title": "AI threatens 260K Massachusetts jobs, study finds, sparking calls for retraining",
-            "description": "[MASSLIVE] A recent study found that Massachusetts is at a higher risk for job loss due to artificial intelligence than any other U.S. state.",
-            "url": "https://www.masslive.com/business/2026/04/ai-threatens-260k-massachusetts-jobs-study-finds-sparking-calls-for-retraining.html"
+            "title": "Trump Administration Vows Crackdown on Chinese Companies 'Exploiting' AI Models Made in US",
+            "description": "[U.S. NEWS & WORLD REPORT] WASHINGTON (AP) \u2014 The Trump administration is vowing to crack down on foreign tech companies' exploitation of U.S. artificial intelligence models, singling out China at a time that country is...",
+            "url": "https://www.usnews.com/news/business/articles/2026-04-23/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us"
         },
         {
-            "title": "Bezos\u2019s Project Prometheus AI Lab Hits $38 Billion Valuation After Funding Round",
-            "description": "[BLOOMBERG] Project Prometheus, the artificial intelligence lab that Amazon.com Inc. founder Jeff Bezos is leading with Google veteran Vik Bajaj, has closed a $10 billion funding round that values the company at...",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-23/bezos-s-physical-ai-lab-has-closed-round-at-38-billion-value"
+            "title": "Fox News Poll: Voters see AI as a risk to privacy and paychecks",
+            "description": "[FOX NEWS] Most voters see AI as a threat to privacy and jobs, according to a new poll. Overall, 54% hold an unfavorable view of artificial intelligence, with concerns spanning both parties.",
+            "url": "https://www.foxnews.com/politics/fox-news-poll-voters-see-ai-risk-privacy-paychecks"
+        },
+        {
+            "title": "Feds launch flurry of new AI chatbots and tools",
+            "description": "[OTTAWA CITIZEN] The public service has launched several artificial intelligence platforms in recent weeks.",
+            "url": "https://ottawacitizen.com/public-service/federal-government-ai-chatbots-tools"
         },
         {
             "title": "Elon Musk lays out Terafab AI chip project plan",
-            "description": "[REUTERS] Tesla chief Elon Musk said on Wednesday the electric vehicle maker plans to use Intel's next-generation 14A manufacturing process to make chips at its Terafab project, an advanced...",
-            "url": "https://www.reuters.com/business/autos-transportation/elon-musk-lays-out-terafab-ai-chip-project-plan-2026-04-23/"
+            "description": "[THE MANILA TIMES] Tesla chief Elon Musk said on Wednesday the electric vehicle maker plans to use Intel's INTC.Onext-generation 14A manufacturing process to make chips at its Terafab project, an advanced...",
+            "url": "https://www.manilatimes.net/2026/04/24/business/sunday-business-it/elon-musk-lays-out-terafab-ai-chip-project-plan/2327677"
         }
     ]
 }
