@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-24 20:42:01 UTC",
+    "updated": "2026-04-24 22:35:55 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -7,19 +7,14 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
-        },
-        {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -32,9 +27,9 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,14 +42,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Indian Banks Must Build New Defences To Counter AI Threats: FM Sitharaman",
-            "description": "[REPUBLIC WORLD] Union Finance Minister Nirmala Sitharaman said Indian banks must adopt a more versatile and proactive approach to counter emerging artificial intelligence-driven cyber threats.",
-            "url": "https://www.republicworld.com/business/indian-banks-must-build-new-defences-to-counter-ai-threats-fm-sitharaman"
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
-            "title": "Top 20 Technology and AI Facts You Didn\u2019t Know | General Knowledge Quiz with Answers",
-            "description": "[TIMES NOW] Test your knowledge of AI and technology with 20 fun questions covering key concepts, tools, and innovations shaping the digital world, from chatbots and machine learning to cybersecurity and smart...",
-            "url": "https://www.timesnownews.com/education/top-20-technology-and-ai-facts-you-didnt-know-general-knowledge-quiz-with-answers-article-154143858"
+            "title": "Palo Alto Networks CEO Nikesh Arora shares three reasons why AI models like Anthropic Mythos cannot do the job of Cybersecurity software companies",
+            "description": "[TIMES OF INDIA] Tech News News: Nikesh Arora, CEO of Palo Alto Networks, has pushed back against the panic caused by Anthropic\u2019s Mythos. As artificial intelligence (AI) models like A.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/palo-alto-networks-ceo-nikesh-arora-shares-three-reasons-why-ai-models-like-anthropic-mythos-cannot-do-the-job-of-cybersecurity-software-companies/articleshow/130491031.cms"
         },
         {
-            "title": "China's AI-Driven Automotive Revolution: The Next Leap in Electric Vehicles",
-            "description": "[DEVDISCOURSE] China's automotive industry is advancing into a new era by integrating artificial intelligence (AI) into electric vehicles (EVs). This initiative aims to reduce dependence on foreign semiconductors...",
-            "url": "https://www.devdiscourse.com/article/technology/3885495-chinas-ai-driven-automotive-revolution-the-next-leap-in-electric-vehicles"
+            "title": "Trump administration cracking down",
+            "description": "[BNN BLOOMBERG] The Trump administration is vowing to crack down on foreign tech companies\u2019 exploitation of U.S. artificial intelligence models, singling out China at a time that country is narrowing the gap with...",
+            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/04/24/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/"
         },
         {
-            "title": "China's DeepSeek rolls out long-anticipated update of its AI model",
-            "description": "[DAILY EXCELSIOR] HONG KONG, Apr 24: DeepSeek, the Chinese artificial intelligence startup that shook world markets last year, launched preview versions of its latest major update Friday as the AI rivalry between...",
-            "url": "https://www.dailyexcelsior.com/chinas-deepseek-rolls-out-long-anticipated-update-of-its-ai-model/"
+            "title": "Trump administration cracking down",
+            "description": "[CP24 TORONTO] The Trump administration is vowing to crack down on foreign tech companies\u2019 exploitation of U.S. artificial intelligence models, singling out China at a time that country is narrowing the gap with...",
+            "url": "https://www.cp24.com/news/world/2026/04/24/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/"
         },
         {
-            "title": "FM Sitharaman says Indian banks must build new defences as AI threats grow, West Asia crisis watched closely",
-            "description": "[THE ECONOMIC TIMES] Indian banks face new artificial intelligence cyber threats. Finance Minister Nirmala Sitharaman urged a proactive approach. Banks will collaborate to identify vulnerabilities and adopt new...",
-            "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fm-sitharaman-says-indian-banks-must-build-new-defences-as-ai-threats-grow-west-asia-crisis-watched-closely/articleshow/130487865.cms"
+            "title": "Meta to cut 8,000 jobs, Microsoft to offer voluntary buyouts for thousands",
+            "description": "[CBC.CA] Meta is laying off about 8,000 workers, or about 10 per cent of its workforce, the company said Thursday as it continues to ramp up spending on artificial intelligence infrastructure and highly paid...",
+            "url": "https://www.cbc.ca/news/business/meta-microsoft-layoff-buyouts-9.7175729"
         },
         {
-            "title": "Communicating with AI: How India is redefining citizen-centric governance",
-            "description": "[MONEYCONTROL] With rapid advances in Artificial Intelligence (AI) and digital technologies, government institutions are increasingly adopting new tools to communicate policies and deliver services more efficiently",
-            "url": "https://www.moneycontrol.com/news/india/communicating-with-ai-how-india-is-redefining-citizen-centric-governance-13898495.html"
+            "title": "At SpaceX, AI is burning the cash that Starlink earns",
+            "description": "[REUTERS] Elon Musk is touting SpaceX as humanity's ticket to Mars. But \u200bthe company's pitch to investors for a potentially historic IPO reveals that its main business will be the same as Big Tech: building...",
+            "url": "https://www.reuters.com/business/finance/spacex-ai-is-burning-cash-that-starlink-earns-2026-04-24/"
         },
         {
-            "title": "Inside 'The Spine,' Egypt\u2019s AI-powered \u2018cognitive city\u2019 near Cairo",
-            "description": "[FIRSTPOST] The Egyptian government has launched \u2018The Spine\u2019, described as the country\u2019s \u2018first fully artificial\u2011intelligence\u2011powered cognitive city\u2019. The project cost exceeds1.4 trillion Egyptian pounds (around...",
-            "url": "https://www.firstpost.com/explainers/inside-the-spine-egypts-ai-powered-cognitive-city-near-cairo-14003497.html"
+            "title": "\u201cWe need something far more versatile\u2026\u201d: Nirmala Sitharaman flags Anthropic Mythos AI as new risk to banks",
+            "description": "[BUSINESS TODAY] Nirmala Sitharaman chaired a high-level meet to valuate cybersecurity risks associated with Artificial Intelligence (AI) models.",
+            "url": "https://www.businesstoday.in/technology/story/we-need-something-far-more-versatile-nirmala-sitharaman-flags-anthropic-mythos-ai-as-new-risk-to-banks-527335-2026-04-24"
         },
         {
-            "title": "China's DeepSeek unveils long-awaited V4 AI model",
-            "description": "[SILICONREPUBLIC.COM] Chinese AI darling DeepSeek has launched its long awaited V4 LLM in preview, as speculation around a possible first funding round swirls.",
-            "url": "https://www.siliconrepublic.com/machines/chinas-deepseek-unveils-long-awaited-v4-ai-model"
+            "title": "Iran war shows \u2018strategic value\u2019 of AI for China\u2019s military, PLA Daily says",
+            "description": "[SOUTH CHINA MORNING POST] Commentary calls it \u2018inevitable\u2019 and necessary for PLA to embrace artificial intelligence to gain the advantage in future warfare.",
+            "url": "https://www.scmp.com/news/china/military/article/3351303/iran-war-shows-strategic-value-ai-chinas-military-pla-daily-says"
         },
         {
-            "title": "FM Sitharaman says Indian banks must build new defences as AI threats grow, West Asia crisis watched closely",
-            "description": "[THE TRIBUNE] Speaking at a post-inaugural press conference after the launch of the new State Bank of India office in Maharashtra, Union Finance Minister Nirmala Sitharaman said Indian banks must adopt a more...",
-            "url": "https://www.tribuneindia.com/news/business/fm-sitharaman-says-indian-banks-must-build-new-defences-as-ai-threats-grow-west-asia-crisis-watched-closely/"
+            "title": "SpaceX warns about this xAI \u2018problem\u2019 before IPO; risk filing says: Grok's content may lead company \u200bto lose access to \u2026",
+            "description": "[TIMES OF INDIA] Tech News News: Elon Musk\u2019s SpaceX has flagged potential regulatory and market risks tied to its artificial intelligence unit, xAI, ahead of its planned initial publi.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/spacex-warns-about-this-xai-problem-before-ipo-risk-filing-says-groks-content-may-lead-company-to-lose-access-to-/articleshow/130490156.cms"
         },
         {
-            "title": "AI threat review: FM Nirmala Sitharaman meets banks, orders cybersecurity steps amid Anthropic Mythos concerns",
-            "description": "[FIRSTPOST] Finance Minister Nirmala Sitharaman has chaired a high-level meeting with heads of scheduled commercial banks and key stakeholders to assess the potential impact of emerging threats linked to recent...",
-            "url": "https://www.firstpost.com/tech/ai-threat-review-fm-nirmala-sitharaman-meets-banks-orders-cybersecurity-steps-amid-anthropic-mythos-concerns-14003911.html"
+            "title": "US-China AI Showdown: Is Beijing Stealing AI Tech At Industrial Scale?",
+            "description": "[TIMES NOW] China has responded strongly to allegations from the United States regarding large-scale theft of artificial intelligence technology., World News, Times Now",
+            "url": "https://www.timesnownews.com/world/uschina-ai-showdown-is-beijing-stealing-ai-tech-at-industrial-scale-article-154157399"
+        },
+        {
+            "title": "A.I. Start-Ups From Canada and Germany Merge to Take On Silicon Valley",
+            "description": "[THE NEW YORK TIMES] Cohere is acquiring Aleph Alpha in a deal aimed at customers uneasy about the dominance of American companies in artificial intelligence.",
+            "url": "https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html"
         }
     ]
 }
