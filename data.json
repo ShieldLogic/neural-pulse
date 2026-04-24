@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-24 06:05:53 UTC",
+    "updated": "2026-04-24 09:27:56 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -7,14 +7,19 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -27,9 +32,9 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,59 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "Xiao-I Corporation Announces Plan to Implement ADS Ratio Change",
+            "description": "[THE MANILA TIMES] SHANGHAI, April 24, 2026 /PRNewswire/ -- Xiao-I Corporation ('Xiao-I' or the 'Company') (NASDAQ: AIXI), a leading artificial intelligence company, today announced that it plans to change the ratio of...",
+            "url": "https://www.manilatimes.net/2026/04/24/tmt-newswire/pr-newswire/xiao-i-corporation-announces-plan-to-implement-ads-ratio-change/2327671"
         },
         {
-            "title": "Meta to Cut 10 Percent of Work Force",
-            "description": "[THE NEW YORK TIMES] The layoffs affect about 8,000 employees, with Meta also planning to close 6,000 open roles, as the company focuses on artificial intelligence.",
-            "url": "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html"
+            "title": "Meta to cut 10 per cent of workforce in AI push",
+            "description": "[THE CANBERRA TIMES] Meta will cut nearly 8000 jobs next month as it spends more on artificial intelligence projects.",
+            "url": "https://www.canberratimes.com.au/story/9232169/meta-to-cut-10-per-cent-of-workforce-in-ai-push/"
         },
         {
-            "title": "Coinbase slashes fraud response times with new AI-driven rules engine",
-            "description": "[CRYPTO NEWS] Coinbase has rebuilt its anti\u2011fraud stack by tightly integrating machine learning models with a high\u2011speed rules engine, slashing response times to new scam",
-            "url": "https://crypto.news/coinbase-slashes-fraud-response-times-with-new-ai-driven-rules-engine/"
+            "title": "The Potential Peril and Profit of Anthropic\u2019s Mythos",
+            "description": "[BLOOMBERG] The artificial intelligence model has sparked fear on Wall Street. But the furor could eventually benefit its maker.",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-23/video-the-potential-peril-and-profit-of-anthropic-s-mythos"
         },
         {
-            "title": "FM Sitharaman urges bankers to brace for AI threats amid Anthropic concerns",
-            "description": "[MONEYCONTROL] Anthropic, an US-based artificial intelligence company, said unauthorised access was made on its new model Mythos, which is deemed too dangerous for public release.",
-            "url": "https://www.moneycontrol.com/news/business/fm-sitharaman-urges-bankers-to-brace-for-ai-threats-amid-anthropic-concerns-13897950.html"
+            "title": "Axe employer National Insurance to save young people\u2019s jobs from rising costs and AI, warns Rishi Sunak",
+            "description": "[THE SUN] RISHI Sunak has urged ministers to axe employer National Insurance \u2014 warning rising hiring costs and artificial intelligence are squeezing young...",
+            "url": "https://www.thesun.co.uk/money/38913339/sunak-ministers-axe-national-insurance-save-youth-jobs/"
         },
         {
-            "title": "Meta tells staff it will cut 10% of jobs in push for efficiency",
-            "description": "[THE ECONOMIC TIMES] Meta Platforms is set to lay off approximately 8,000 employees, about 10% of its workforce, on May 20. This significant workforce reduction aims to boost efficiency and offset substantial investments...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency/articleshow/130476309.cms"
+            "title": "Meta slashes 8,000 jobs, or 10% of its workforce; Microsoft offers buyouts",
+            "description": "[JAPAN TODAY] Meta is laying off about 8,000 workers, or about 10% of its workforce, the company said Thursday as it continues to ramp up spending on artificial intelligence infrastructure and highly paid...",
+            "url": "https://japantoday.com/category/tech/meta-slashes-8-000-jobs-or-10-of-its-workforce-as-microsoft-offers-buyouts"
         },
         {
-            "title": "Anthropic, law firm Freshfields to jointly develop AI legal tools",
-            "description": "[REUTERS] Global law firm Freshfields and artificial intelligence startup Anthropic said on Thursday that they signed an agreement to develop new AI tools, \u200bas large law firms look increasingly to embed...",
-            "url": "https://www.reuters.com/legal/legalindustry/anthropic-law-firm-freshfields-jointly-develop-ai-legal-tools-2026-04-23/"
+            "title": "Intel's Strong AI-Fueled Forecast Tops Estimates",
+            "description": "[MARKETSCREENER] Intel gave a strong sales forecast for the current period, signaling that the struggling chipmaker is finally beginning to benefit from the giant build-out of artificial intelligence...",
+            "url": "https://www.marketscreener.com/news/intel-s-strong-ai-fueled-forecast-tops-estimates-ce7f59dedc89f226"
         },
         {
-            "title": "White House accuses China of industrial-scale AI technology theft, report claims",
-            "description": "[THE NEWS INTERNATIONAL] The White House on Thursday accused China of a new AI theft on industrial scale. US President Donald Trump's administration has accused China of stealing U.S. artificial intelligence AI labs'...",
-            "url": "https://www.thenews.com.pk/latest/1400114-white-house-accuses-china-of-industrial-scale-ai-technology-theft-report-claims"
+            "title": "Lawyers should disclose when AI causes errors, appeals court says",
+            "description": "[REUTERS] Lawyers should be candid with judges when using generative artificial intelligence for legal work creates errors in court filings, a state appeals court said, in a ruling that underscored the...",
+            "url": "https://www.reuters.com/legal/government/lawyers-should-disclose-when-ai-causes-errors-appeals-court-says-2026-04-23/"
         },
         {
-            "title": "Microsoft Targets Trimming 7% Of Workforce Via First-Ever Voluntary Retirement Offer",
-            "description": "[NDTV PROFIT] The move comes as major tech firms tighten costs while investing heavily in artificial intelligence infrastructure.",
-            "url": "https://www.ndtvprofit.com/business/microsoft-targets-trimming-7-of-workforce-via-first-ever-voluntary-retirement-offer-11400266"
+            "title": "AI threatens 260K Massachusetts jobs, study finds, sparking calls for retraining",
+            "description": "[MASSLIVE] A recent study found that Massachusetts is at a higher risk for job loss due to artificial intelligence than any other U.S. state.",
+            "url": "https://www.masslive.com/business/2026/04/ai-threatens-260k-massachusetts-jobs-study-finds-sparking-calls-for-retraining.html"
         },
         {
-            "title": "Sitharaman holds meeting with banks on emerging threats linked to AI models, asks them to take measures to secure IT systems, safeguard customer data",
-            "description": "[THE TRIBUNE] Union Finance Minister Nirmala Sitharaman chaired a high-level meeting on Thursday, along with Union Minister for Electronics and Information Technology Ashwini Vaishnaw, with Scheduled Commercial...",
-            "url": "https://www.tribuneindia.com/news/business/sitharaman-holds-meeting-with-banks-on-emerging-threats-linked-to-ai-models-asks-them-to-take-measures-to-secure-it-systems-safeguard-customer-data/"
+            "title": "Bezos\u2019s Project Prometheus AI Lab Hits $38 Billion Valuation After Funding Round",
+            "description": "[BLOOMBERG] Project Prometheus, the artificial intelligence lab that Amazon.com Inc. founder Jeff Bezos is leading with Google veteran Vik Bajaj, has closed a $10 billion funding round that values the company at...",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-23/bezos-s-physical-ai-lab-has-closed-round-at-38-billion-value"
         },
         {
-            "title": "Alphabet Stock Edges Higher on New AI Chip Launches and Cloud Momentum Ahead of Q1 Earnings",
-            "description": "[INTERNATIONAL BUSINESS TIMES] Alphabet Inc. Class C shares (NASDAQ: GOOG) ticked up modestly Thursday, trading around $338.38 after gaining about 0.19% early in the session, as investors digested fresh artificial intelligence",
-            "url": "https://www.ibtimes.com/alphabet-stock-edges-higher-new-ai-chip-launches-cloud-momentum-ahead-q1-earnings-3801885"
-        },
-        {
-            "title": "Educators should adopt trust-based approach to AI in schools, committee hears",
-            "description": "[THE IRISH TIMES] Co-ordinators of a proactive artificial intelligence schools programme in Estonia tell of their experience",
-            "url": "https://www.irishtimes.com/ireland/education/2026/04/23/educators-should-adopt-trust-based-system-when-it-comes-to-ai-in-schools-committee-hears/"
+            "title": "Elon Musk lays out Terafab AI chip project plan",
+            "description": "[REUTERS] Tesla chief Elon Musk said on Wednesday the electric vehicle maker plans to use Intel's next-generation 14A manufacturing process to make chips at its Terafab project, an advanced...",
+            "url": "https://www.reuters.com/business/autos-transportation/elon-musk-lays-out-terafab-ai-chip-project-plan-2026-04-23/"
         }
     ]
 }
