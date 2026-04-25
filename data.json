@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-25 16:36:50 UTC",
+    "updated": "2026-04-25 18:43:41 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -7,14 +7,19 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -27,9 +32,9 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,9 +77,39 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "EU Seeks Android Access From Google For Rival AI Assistants",
+            "description": "[FREE PRESS JOURNAL] The EU is stepping up pressure on Google to open up its Android ecosystem to rival artificial intelligence assistants, marking a fresh escalation in the bloc\u2019s ongoing regulatory push against Big...",
+            "url": "https://www.freepressjournal.in/tech/eu-seeks-android-access-from-google-for-rival-ai-assistants"
+        },
+        {
+            "title": "US flags \u2018AI copying\u2019 by China, warns allies ahead of Xi-Trump meet",
+            "description": "[FIRSTPOST] The US has stepped up its campaign against China in the field of artificial intelligence, warning countries about what it describes as attempts by Chinese firms to copy American technology.",
+            "url": "https://www.firstpost.com/world/us-accuses-china-of-stealing-ai-secrets-and-wants-the-world-to-know-14004220.html"
+        },
+        {
+            "title": "The Complete List Of Companies Slashing Jobs For AI",
+            "description": "[NDTV PROFIT] The decisions are being linked to many factors, including the growing role of artificial intelligence.",
+            "url": "https://www.ndtvprofit.com/technology/layoffs-2026-amazon-meta-microsoft-among-companies-cutting-jobs-amid-growing-ai-push-11406941"
+        },
+        {
+            "title": "ASL Industries Limited Rebrands as AVATAR Industries Limited, Pivots to Artificial Intelligence Segment",
+            "description": "[SCANX.TRADE] ASL Industries Limited has strategically rebranded to AVATAR Industries Limited on April 24, 2026, transitioning from traditional industrial operations to an AI-focused technology enterprise. The...",
+            "url": "https://scanx.trade/stock-market-news/companies/asl-industries-limited-rebrands-as-avatar-industries-limited-pivots-to-artificial-intelligence-segment/38641926"
+        },
+        {
+            "title": "OpenAI case narrows as Musk withdraws fraud allegations before key trial; here's what we know",
+            "description": "[BUSINESS TODAY] At the heart of the dispute is Musk\u2019s claim that OpenAI strayed from its founding mission. Co-founded in 2015 as a nonprofit, the organisation was intended to develop artificial intelligence for the...",
+            "url": "https://www.businesstoday.in/technology/news/story/openai-case-narrows-as-musk-withdraws-fraud-allegations-before-key-trial-heres-what-we-know-527423-2026-04-25"
+        },
+        {
+            "title": "Domestic jobs market facing artificial intelligence \u2018upheaval\u2019, says Taoiseach",
+            "description": "[THE IRISH TIMES] Miche\u00e1l Martin\u2019s comments come as Meta cuts 10% of global staff, about 8,000 workers",
+            "url": "https://www.irishtimes.com/politics/2026/04/25/domestic-jobs-market-facing-artificial-intelligence-upheaval-says-taoiseach/"
+        },
+        {
+            "title": "Banks\u2019 steady support key to growth: Finance minister Nirmala Sitharaman",
+            "description": "[TELEGRAPH INDIA] The finance minister called for greater adaptability in the banking system in response to rapid advances in artificial intelligence, citing emerging risks from next-generation models such as Claude...",
+            "url": "https://www.telegraphindia.com/business/banks-steady-support-key-to-growth-finance-minister-nirmala-sitharaman-prnt/cid/2157703"
         },
         {
             "title": "Artificial Intelligence will bore us to death before it kills us",
@@ -90,41 +125,6 @@
             "title": "Wall Street Week Ahead: Soaring US stocks face pivotal week of tech-led earnings, Fed meeting",
             "description": "[THE ECONOMIC TIMES] Indian markets brace for a crucial week. Major tech giants like Microsoft and Alphabet report earnings. Investors watch for clues on artificial intelligence spending. The U.S. Federal Reserve meets,...",
             "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-soaring-us-stocks-face-pivotal-week-of-tech-led-earnings-fed-meeting/articleshow/130507988.cms"
-        },
-        {
-            "title": "Kazakhstan\u2019s digital leap: How Central Asia\u2019s tech hub is shaping the future of AI and GovTech",
-            "description": "[THE ECONOMIC TIMES] Kazakhstan is emerging as a key digital hub in Central Asia, backed by a broad national push in artificial intelligence, digital governance, connectivity and startup development. The country has...",
-            "url": "https://economictimes.indiatimes.com/news/international/world-news/kazakhstans-digital-leap-how-central-asias-tech-hub-is-shaping-the-future-of-ai-and-govtech/articleshow/130507193.cms"
-        },
-        {
-            "title": "AI hedge as global capital seeks diversification says Mirae Asset's Swarup Mohanty",
-            "description": "[THE TRIBUNE] While Indian markets currently lack a pure-play AI champion and large IT services firms face disruption risks from artificial intelligence, Mirae Asset Mutual Fund's CEO and Vice President Swarup...",
-            "url": "https://www.tribuneindia.com/news/business/india-can-be-a-non-ai-hedge-as-global-capital-seeks-diversification-says-mirae-assets-swarup-mohanty/"
-        },
-        {
-            "title": "Trump administration is joining Elon Musk\u2019s xAI in its legal challenge to Colorado\u2019s new state law",
-            "description": "[TIMES OF INDIA] Tech News News: Elon Musk\u2019s artificial intelligence (AI) company, xAI, has received support from the Trump administration in opposing a new Colorado law. The US gover.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/trump-administration-is-joining-elon-musks-xai-in-its-legal-challenge-to-colorados-new-state-law/articleshow/130503985.cms"
-        },
-        {
-            "title": "AI-assisted doctors perform better in complex clinical decision making",
-            "description": "[NEWS-MEDICAL.NET] Artificial intelligence-powered chatbots are getting pretty good at diagnosing some diseases, even when they are complex.",
-            "url": "https://www.news-medical.net/news/20260424/AI-assisted-doctors-perform-better-in-complex-clinical-decision-making.aspx"
-        },
-        {
-            "title": "AI Chip Surge Elevates Taiwan, Korea in Global Equity Rankings",
-            "description": "[LIVEMINT] The artificial intelligence boom has triggered a seismic reshuffling of global equity markets, with Taiwan and South Korea muscling past European nations one by one.",
-            "url": "https://www.livemint.com/market/ai-chip-surge-elevates-taiwan-korea-in-global-equity-rankings-11777076636370.html"
-        },
-        {
-            "title": "The feds join Elon Musk\u2019s attempt to stop new AI regulations in Colorado.",
-            "description": "[THE VERGE] A report by Bloomberg points out that the DOJ has joined an xAI lawsuit against the Consumer Protections for Artificial Intelligence law that is set to take effect in Colorado on June 30th. In their...",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/918492/the-feds-join-elon-musks-attempt-to-stop-new-ai-regulations-in-colorado"
-        },
-        {
-            "title": "Exclusive: US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
-            "description": "[REUTERS] The U.S. State Department \u200bhas ordered a global push to bring attention to what it says are widespread efforts by Chinese companies, including AI \u200cstartup DeepSeek, to steal intellectual property...",
-            "url": "https://www.reuters.com/world/china/us-state-dept-orders-global-warning-about-alleged-china-ai-thefts-by-deepseek-2026-04-24/"
         }
     ]
 }
