@@ -1,30 +1,20 @@
 {
-    "updated": "2026-04-25 05:46:01 UTC",
+    "updated": "2026-04-25 07:09:20 UTC",
     "news": [
-        {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
         {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
-        },
-        {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -37,6 +27,11 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+        },
+        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -47,14 +42,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,19 +57,44 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
+            "title": "Anthropic says Google to pump $40 bil into AI startup",
+            "description": "[JAPAN TODAY] Google is planning to invest up to $40 billion in Anthropic, the artificial intelligence firm confirmed Friday, expanding a long-standing alliance between the two companies. The investment builds on...",
+            "url": "https://japantoday.com/category/tech/anthropic-says-google-to-pump-40-bn-into-ai-startup"
+        },
+        {
+            "title": "Google to invest up to US$40B in Anthropic",
+            "description": "[BNN BLOOMBERG] Google-parent Alphabet will invest up to US$40 billion in Anthropic, as the tech giant deepens its partnership with the artificial intelligence startup that is also its rival in the global AI race.",
+            "url": "https://www.bnnbloomberg.ca/business/company-news/2026/04/24/google-to-invest-up-to-us40b-in-ai-rival-anthropic/"
+        },
+        {
+            "title": "Google to invest up to US$40B in Anthropic",
+            "description": "[CP24 TORONTO] Google-parent Alphabet will invest up to US$40 billion in Anthropic, as the tech giant deepens its partnership with the artificial intelligence startup that is also its rival in the global AI race.",
+            "url": "https://www.cp24.com/news/money/2026/04/24/google-to-invest-up-to-us40b-in-ai-rival-anthropic/"
+        },
+        {
+            "title": "Artificial Intelligence: Revolutionizing Every Aspect of Life - Google's Monumental $40 Billion Investment: A New Chapter in AI Rivalry",
+            "description": "[DEVDISCOURSE] Artificial Intelligence (AI) is rapidly redefining the way we live, work, and interact. No longer confined to the realm of science fiction, AI is now a driving force behind innovations across all...",
+            "url": "https://www.devdiscourse.com/live-discourse/8922-artificial-intelligence-revolutionizing-every-aspect-of-life"
         },
         {
             "title": "Nuclear company X-Energy valued at US$11.9B in Nasdaq IPO",
@@ -105,26 +125,6 @@
             "title": "Mount Sinai Health System and Guyana Ministry of Health Host Seminar on Practical, Responsible Integration of Artificial Intelligence in Health Care",
             "description": "[THE MANILA TIMES] Mount Sinai Health System and Guyana Ministry of Health Host Seminar on Practical, Responsible Integration of Artificial Intelligence in Health Care",
             "url": "https://www.manilatimes.net/2026/04/25/tmt-newswire/globenewswire/mount-sinai-health-system-and-guyana-ministry-of-health-host-seminar-on-practical-responsible-integration-of-artificial-intelligence-in-health-care/2328320"
-        },
-        {
-            "title": "Nuclear reactor maker X-Energy valued at $11.9 billion in stellar Nasdaq debut",
-            "description": "[REUTERS] X-Energy shares surged 30.9% in their Nasdaq debut, fetching the company a valuation of $11.9 billion and signaling strong interest in the developers of carbon-free energy that has \u200bthe potential to...",
-            "url": "https://www.reuters.com/business/nuclear-reactor-maker-x-energy-valued-119-billion-nasdaq-debut-shares-rise-31-2026-04-24/"
-        },
-        {
-            "title": "After \u2018blocking\u2019 Nvidia chips, China plans to tighten grip on tech companies: Here\u2019s how",
-            "description": "[TIMES OF INDIA] Tech News News: China has reportedly begun ordered its leading artificial intelligence (AI) companies to stop accepting American capital. This new \u2018state filter\u2019 on f.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-blocking-nvidia-chips-china-plans-to-tighten-grip-on-tech-companies-heres-how/articleshow/130499463.cms"
-        },
-        {
-            "title": "Intel forecasts second-quarter revenue above estimates, shares jump 19%",
-            "description": "[THE MANILA TIMES] INTEL forecast second-quarter (Q2) revenue above Wall Street expectations on Thursday, underscoring booming demand for the company\u2019s server processors used for artificial intelligence (AI) in data...",
-            "url": "https://www.manilatimes.net/2026/04/25/business/foreign-business/intel-forecasts-second-quarter-revenue-above-estimates-shares-jump-19/2328009"
-        },
-        {
-            "title": "Meta plans 10% layoffs as AI spending soars",
-            "description": "[THE MANILA TIMES] NEW YORK \u2014 Meta plans to cut a 10th of its workforce, looking for productivity gains from its remaining workers as it invests heavily in artificial intelligence (AI).",
-            "url": "https://www.manilatimes.net/2026/04/25/business/foreign-business/meta-plans-10-layoffs-as-ai-spending-soars/2328108"
         }
     ]
 }
