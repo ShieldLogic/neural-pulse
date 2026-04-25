@@ -1,15 +1,20 @@
 {
-    "updated": "2026-04-25 02:03:39 UTC",
+    "updated": "2026-04-25 05:46:01 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -17,9 +22,9 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -32,11 +37,6 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
-        },
-        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -47,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
@@ -67,9 +67,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "From Interconnect to Power and Thermal Management: Luxshare-ICT Expands Its Role in AI Data Center Infrastructure",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- As artificial intelligence moves from model training into broader commercial deployment, the underlying data center architecture is changing...",
-            "url": "https://www.prnewswire.co.uk/news-releases/from-interconnect-to-power-and-thermal-management-luxshare-ict-expands-its-role-in-ai-data-center-infrastructure-302752978.html"
+            "title": "Nuclear company X-Energy valued at US$11.9B in Nasdaq IPO",
+            "description": "[BNN BLOOMBERG] X-Energy shares surged 30.9 per cent in their Nasdaq debut, fetching the company a valuation of US$11.9 billion and signaling strong interest in the developers of carbon-free energy that has the...",
+            "url": "https://www.bnnbloomberg.ca/business/2026/04/24/nuclear-reactor-maker-x-energy-valued-at-us119-billion-in-stellar-nasdaq-debut/"
         },
         {
-            "title": "BlackRock Likes Chips, Hardware in Overweight AI Stance",
-            "description": "[MARKETSCREENER] Wei Li, chief global investment strategist at BlackRock , discusses the outlook for artificial intelligence stocks, capital expenditure and earnings. We're specifically overweight semis and...",
-            "url": "https://www.marketscreener.com/news/blackrock-likes-chips-hardware-in-overweight-ai-stance-ce7f59dfdd8ef520"
+            "title": "We\u2019re Throwing the First Ever Blowout Magazine Launch Party for Bots",
+            "description": "[VICE] Join us on Moltbook tomorrow for the world premier launch party for the new issue of VICE magazine. Free LLM hallucinogens. No humans allowed.",
+            "url": "https://www.vice.com/en/article/vice-magazine-spring-2026-first-ever-blowout-launch-party-for-bots/"
         },
         {
-            "title": "At SpaceX, AI is burning the cash that Starlink earns",
-            "description": "[CP24 TORONTO] Elon Musk is touting SpaceX as humanity\u2019s ticket to Mars. But the company\u2019s pitch to investors for a potentially historic IPO reveals that its main business will be the same as Big Tech: building...",
-            "url": "https://www.cp24.com/news/money/2026/04/24/at-spacex-ai-is-burning-the-cash-that-starlink-earns/"
+            "title": "Microsoft to offer voluntary retirement to thousands of US employees for the first time",
+            "description": "[CABLE NEWS NETWORK] Microsoft is offering about 7% of its US workforce the option to retire early, the latest attempt by a major tech firm to downsize while ramping up artificial intelligence investments.",
+            "url": "https://edition.cnn.com/2026/04/24/tech/microsoft-voluntary-buyouts-us-employees"
         },
         {
-            "title": "At SpaceX, AI is burning the cash that Starlink earns",
-            "description": "[BNN BLOOMBERG] Elon Musk is touting SpaceX as humanity\u2019s ticket to Mars. But the company\u2019s pitch to investors for a potentially historic IPO reveals that its main business will be the same as Big Tech: building...",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/04/24/at-spacex-ai-is-burning-the-cash-that-starlink-earns/"
+            "title": "Microsoft to offer voluntary retirement to thousands of US employees for the first time",
+            "description": "[ABC17NEWS.COM] By Lisa Eadicicco, CNN (CNN) \u2014 Microsoft is offering about 7% of its US workforce the option to retire early, the latest attempt by a major tech firm to downsize while ramping up artificial...",
+            "url": "https://abc17news.com/money/cnn-business-consumer/2026/04/24/microsoft-to-offer-voluntary-retirement-to-thousands-of-us-employees-for-the-first-time/"
         },
         {
-            "title": "Risk of \u2018significant upheaval\u2019 in jobs market, Irish premier warns",
-            "description": "[LONGFORD LEADER] There could be a \u201csignificant upheaval\u201d in the jobs market as a result of artificial intelligence, Ireland\u2019s premier has said, after Meta said...",
-            "url": "https://www.longfordleader.ie/news/national-news/2069383/risk-of-significant-upheaval-in-jobs-market-irish-premier-warns.html"
+            "title": "Meta Platforms May Disclose More Job Cuts as AI Integration Ramps Up, Wedbush Says",
+            "description": "[MARKETSCREENER] Meta Platforms may disclose more layoffs later this year as the technology giant looks to boost operational efficiency through artificial intelligence, Wedbush Securities said in a note. Meta is...",
+            "url": "https://www.marketscreener.com/news/meta-platforms-may-disclose-more-job-cuts-as-ai-integration-ramps-up-wedbush-says-ce7f59dfdf80f72c"
         },
         {
-            "title": "As AI hiring booms, companies rethink skills for the enterprise era",
-            "description": "[THE TRIBUNE] Demand for AI and machine learning roles rose nearly 40 to 50 per cent year on year in early 2026, with Indian multinational companies posting an 82 per cent jump in hiring. Senior roles paying above...",
-            "url": "https://www.tribuneindia.com/news/business/as-ai-hiring-booms-companies-rethink-skills-for-the-enterprise-era/"
+            "title": "Mount Sinai Health System and Guyana Ministry of Health Host Seminar on Practical, Responsible Integration of Artificial Intelligence in Health Care",
+            "description": "[THE MANILA TIMES] Mount Sinai Health System and Guyana Ministry of Health Host Seminar on Practical, Responsible Integration of Artificial Intelligence in Health Care",
+            "url": "https://www.manilatimes.net/2026/04/25/tmt-newswire/globenewswire/mount-sinai-health-system-and-guyana-ministry-of-health-host-seminar-on-practical-responsible-integration-of-artificial-intelligence-in-health-care/2328320"
         },
         {
-            "title": "The World's First Open-Source Medical Video LLM Released, Calling the Global Developer Community to Push It Further",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- United Imaging Intelligence (UII) has unveiled uAI NEXUS MedVLM, a pioneering Medical Video Large Language Model that delivers unprecedented...",
-            "url": "https://www.prnewswire.co.uk/news-releases/the-worlds-first-open-source-medical-video-llm-released-calling-the-global-developer-community-to-push-it-further-302752818.html"
+            "title": "Nuclear reactor maker X-Energy valued at $11.9 billion in stellar Nasdaq debut",
+            "description": "[REUTERS] X-Energy shares surged 30.9% in their Nasdaq debut, fetching the company a valuation of $11.9 billion and signaling strong interest in the developers of carbon-free energy that has \u200bthe potential to...",
+            "url": "https://www.reuters.com/business/nuclear-reactor-maker-x-energy-valued-119-billion-nasdaq-debut-shares-rise-31-2026-04-24/"
         },
         {
-            "title": "Trump administration vows crackdown on Chinese companies 'exploiting' AI models made in US",
-            "description": "[THE ECONOMIC TIMES] America is taking a strong stance against foreign tech firms, especially those in China, for allegedly stealing advanced artificial intelligence capabilities. The US government plans to work with...",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/articleshow/130495399.cms"
+            "title": "After \u2018blocking\u2019 Nvidia chips, China plans to tighten grip on tech companies: Here\u2019s how",
+            "description": "[TIMES OF INDIA] Tech News News: China has reportedly begun ordered its leading artificial intelligence (AI) companies to stop accepting American capital. This new \u2018state filter\u2019 on f.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-blocking-nvidia-chips-china-plans-to-tighten-grip-on-tech-companies-heres-how/articleshow/130499463.cms"
         },
         {
-            "title": "Advanced AI Raises Stakes in Cybersecurity Race",
-            "description": "[NEWSMAX] For years, concerns about artificial intelligence disrupting cybersecurity have largely been framed as long-term risks.",
-            "url": "https://www.newsmax.com/platinum/anthropic-artificial-intelligence-cybersecurity/2026/04/13/id/1252716/"
+            "title": "Intel forecasts second-quarter revenue above estimates, shares jump 19%",
+            "description": "[THE MANILA TIMES] INTEL forecast second-quarter (Q2) revenue above Wall Street expectations on Thursday, underscoring booming demand for the company\u2019s server processors used for artificial intelligence (AI) in data...",
+            "url": "https://www.manilatimes.net/2026/04/25/business/foreign-business/intel-forecasts-second-quarter-revenue-above-estimates-shares-jump-19/2328009"
         },
         {
-            "title": "Risk of \u2018significant upheaval\u2019 in jobs market, Irish premier warns",
-            "description": "[LIMERICK LEADER] There could be a \u201csignificant upheaval\u201d in the jobs market as a result of artificial intelligence, Ireland\u2019s premier has said, after Meta said...",
-            "url": "https://www.limerickleader.ie/news/national-news/2069383/risk-of-significant-upheaval-in-jobs-market-irish-premier-warns.html"
+            "title": "Meta plans 10% layoffs as AI spending soars",
+            "description": "[THE MANILA TIMES] NEW YORK \u2014 Meta plans to cut a 10th of its workforce, looking for productivity gains from its remaining workers as it invests heavily in artificial intelligence (AI).",
+            "url": "https://www.manilatimes.net/2026/04/25/business/foreign-business/meta-plans-10-layoffs-as-ai-spending-soars/2328108"
         }
     ]
 }
