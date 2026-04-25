@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-25 20:34:43 UTC",
+    "updated": "2026-04-25 22:32:57 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -7,14 +7,19 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -27,9 +32,9 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,59 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "How AI Is Changing Animal Research",
+            "description": "[THE ECONOMIC TIMES] Machine learning is revolutionizing animal behavior research by enabling automatic analysis of movement and interactions, surpassing manual methods' limitations. While powerful, these algorithms...",
+            "url": "https://economictimes.indiatimes.com/news/international/us/how-ai-is-changing-animal-research/articleshow/130512052.cms"
+        },
+        {
+            "title": "AI could democratize medicine, but better regulation comes first",
+            "description": "[LOS ANGELES TIMES] Artificial intelligence has the potential to fundamentally change healthcare, and the possibilities are neither radical nor experimental.",
+            "url": "https://www.latimes.com/opinion/story/2026-04-25/ai-democratize-medicine-regulation"
+        },
+        {
+            "title": "Oracle to Snap: 4 billion-dollar giants cut thousands of jobs for AI push in first 4 months of 2026",
+            "description": "[HINDUSTAN TIMES] Oracle, Meta, Snap, and Block cut thousands of jobs to reallocate funds into artificial intelligence.",
+            "url": "https://www.hindustantimes.com/trending/us/oracle-to-snap-4-billion-dollar-giants-cut-thousands-of-jobs-for-ai-push-in-first-4-months-of-2026-101777108624092.html"
+        },
+        {
+            "title": "Delta Airlines CEO Ed Bastian doesn\u2019t like the term \u2018artificial intelligence': \u2018I want our employees to see it as\u2026\u2019",
+            "description": "[TIMES OF INDIA] Tech News News: Delta Air Lines CEO Ed Bastian said he prefers not to use the term \u201cartificial intelligence.\u201d He argued that it creates unnecessary fear among employe.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/delta-airlines-ceo-ed-bastian-doesnt-like-the-term-artificial-intelligence-i-want-our-employees-to-see-it-as/articleshow/130510433.cms"
+        },
+        {
+            "title": "Using AI for financial advice? Keep these 5 things out of your chats.",
+            "description": "[THE WASHINGTON POST] Artificial intelligence tools have made financial advice more accessible, but they have also created a significant privacy risk.",
+            "url": "https://www.washingtonpost.com/business/2026/04/25/ai-financial-advice-privacy-concerns/"
+        },
+        {
+            "title": "fraud measures key to digital growth: COAI DigiCom Summit",
+            "description": "[THE TRIBUNE] The summit concluded with stakeholders advocating 'a secure, resilient and innovation-driven digital ecosystem, underpinned by next-generation telecom networks and emerging technologies such as...",
+            "url": "https://www.tribuneindia.com/news/business/ai-led-networks-stronger-anti-fraud-measures-key-to-digital-growth-coai-digicom-summit/"
+        },
+        {
+            "title": "Microsoft Announces Voluntary Retirement Programme For Employees",
+            "description": "[FREE PRESS JOURNAL] Microsoft has introduced its first-ever voluntary retirement programme for eligible employees as part of its workforce restructuring strategy amid rising investments in artificial intelligence",
+            "url": "https://www.freepressjournal.in/tech/microsoft-announces-voluntary-retirement-programme-for-employees"
+        },
+        {
+            "title": "Salesforce CEO Marc Benioff says the company is hiring 1000 people for these positions",
+            "description": "[TIMES OF INDIA] Tech News News: At a time when there are fears that artificial intelligence (AI) will wipe out entry-level roles, Salesforce CEO Marc Benioff has made an announcement.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-says-company-is-hiring-1000-new-grads-interns-how-to-apply/articleshow/130509776.cms"
+        },
+        {
+            "title": "India minister urges market regulator to boost global consultations, tackle cyber risks",
+            "description": "[REUTERS] India's market regulator should increase consultations \u200bwith global regulators \u200cand capitalise on artificial intelligence to manage cyber risks, \u200bFinance Minister Nirmala \u200bSitharaman said on Saturday.",
+            "url": "https://www.reuters.com/world/india/india-minister-urges-market-regulator-boost-global-consultations-tackle-cyber-2026-04-25/"
         },
         {
             "title": "EU Seeks Android Access From Google For Rival AI Assistants",
             "description": "[FREE PRESS JOURNAL] The EU is stepping up pressure on Google to open up its Android ecosystem to rival artificial intelligence assistants, marking a fresh escalation in the bloc\u2019s ongoing regulatory push against Big...",
             "url": "https://www.freepressjournal.in/tech/eu-seeks-android-access-from-google-for-rival-ai-assistants"
-        },
-        {
-            "title": "US flags \u2018AI copying\u2019 by China, warns allies ahead of Xi-Trump meet",
-            "description": "[FIRSTPOST] The US has stepped up its campaign against China in the field of artificial intelligence, warning countries about what it describes as attempts by Chinese firms to copy American technology.",
-            "url": "https://www.firstpost.com/world/us-accuses-china-of-stealing-ai-secrets-and-wants-the-world-to-know-14004220.html"
-        },
-        {
-            "title": "The Complete List Of Companies Slashing Jobs For AI",
-            "description": "[NDTV PROFIT] The decisions are being linked to many factors, including the growing role of artificial intelligence.",
-            "url": "https://www.ndtvprofit.com/technology/layoffs-2026-amazon-meta-microsoft-among-companies-cutting-jobs-amid-growing-ai-push-11406941"
-        },
-        {
-            "title": "ASL Industries Limited Rebrands as AVATAR Industries Limited, Pivots to Artificial Intelligence Segment",
-            "description": "[SCANX.TRADE] ASL Industries Limited has strategically rebranded to AVATAR Industries Limited on April 24, 2026, transitioning from traditional industrial operations to an AI-focused technology enterprise. The...",
-            "url": "https://scanx.trade/stock-market-news/companies/asl-industries-limited-rebrands-as-avatar-industries-limited-pivots-to-artificial-intelligence-segment/38641926"
-        },
-        {
-            "title": "OpenAI case narrows as Musk withdraws fraud allegations before key trial; here's what we know",
-            "description": "[BUSINESS TODAY] At the heart of the dispute is Musk\u2019s claim that OpenAI strayed from its founding mission. Co-founded in 2015 as a nonprofit, the organisation was intended to develop artificial intelligence for the...",
-            "url": "https://www.businesstoday.in/technology/news/story/openai-case-narrows-as-musk-withdraws-fraud-allegations-before-key-trial-heres-what-we-know-527423-2026-04-25"
-        },
-        {
-            "title": "Domestic jobs market facing artificial intelligence \u2018upheaval\u2019, says Taoiseach",
-            "description": "[THE IRISH TIMES] Miche\u00e1l Martin\u2019s comments come as Meta cuts 10% of global staff, about 8,000 workers",
-            "url": "https://www.irishtimes.com/politics/2026/04/25/domestic-jobs-market-facing-artificial-intelligence-upheaval-says-taoiseach/"
-        },
-        {
-            "title": "Banks\u2019 steady support key to growth: Finance minister Nirmala Sitharaman",
-            "description": "[TELEGRAPH INDIA] The finance minister called for greater adaptability in the banking system in response to rapid advances in artificial intelligence, citing emerging risks from next-generation models such as Claude...",
-            "url": "https://www.telegraphindia.com/business/banks-steady-support-key-to-growth-finance-minister-nirmala-sitharaman-prnt/cid/2157703"
-        },
-        {
-            "title": "Artificial Intelligence will bore us to death before it kills us",
-            "description": "[THE SPECTATOR] Before the world ends, Artificial Intelligence poses another grave threat to humanity: it risks boring us to death",
-            "url": "https://spectator.com/article/artificial-intelligence-will-bore-us-to-death-before-it-kills-us/"
-        },
-        {
-            "title": "AI united Sam Altman and Elon Musk, then drove them apart",
-            "description": "[THE ECONOMIC TIMES] Elon Musk and Sam Altman, co-founders of OpenAI, are set to face off in court over a clash of visions regarding artificial intelligence. Their initial collaboration, driven by a shared concern for...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-united-sam-altman-and-elon-musk-then-drove-them-apart/articleshow/130508103.cms"
-        },
-        {
-            "title": "Wall Street Week Ahead: Soaring US stocks face pivotal week of tech-led earnings, Fed meeting",
-            "description": "[THE ECONOMIC TIMES] Indian markets brace for a crucial week. Major tech giants like Microsoft and Alphabet report earnings. Investors watch for clues on artificial intelligence spending. The U.S. Federal Reserve meets,...",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-soaring-us-stocks-face-pivotal-week-of-tech-led-earnings-fed-meeting/articleshow/130507988.cms"
         }
     ]
 }
