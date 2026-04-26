@@ -1,30 +1,20 @@
 {
-    "updated": "2026-04-26 20:34:42 UTC",
+    "updated": "2026-04-26 22:34:10 UTC",
     "news": [
-        {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
         {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
-        },
-        {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -37,6 +27,11 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
+        },
+        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -47,14 +42,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,19 +57,44 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
+            "title": "UAE's Billion Dirham Leap Towards Industrial Resilience",
+            "description": "[DEVDISCOURSE] The United Arab Emirates is launching a one billion dirham national fund, announced by Prime Minister Sheikh Mohammed bin Rashid Al Maktoum. The fund aims to boost industrial resilience by focusing...",
+            "url": "https://www.devdiscourse.com/article/law-order/3887446-uaes-billion-dirham-leap-towards-industrial-resilience"
+        },
+        {
+            "title": "TCS vs Infosys vs Wipro vs HCL Tech vs Tech Mahindra: Which IT stock to buy after Q4 results 2026?",
+            "description": "[LIVEMINT] IT sector has remained in focus amid uncertain global demand, pricing challenges, and the transformative influence of artificial intelligence (AI) continue to reshape its growth outlook. Here's what...",
+            "url": "https://www.livemint.com/market/stock-market-news/tcs-vs-infosys-vs-wipro-vs-hcl-tech-vs-tech-mahindra-which-it-stock-to-buy-after-q4-results-2026-11777195140659.html"
+        },
+        {
+            "title": "AI Framework Revolutionizes Retail Sustainability",
+            "description": "[DEVDISCOURSE] Researchers from GIM and Graphic Era have developed an innovative AI framework assisting retail businesses in adapting to dynamic consumer sustainability preferences. By leveraging advanced machine...",
+            "url": "https://www.devdiscourse.com/article/business/3887391-ai-framework-revolutionizes-retail-sustainability"
+        },
+        {
+            "title": "US senator Bernie Sanders warns AI can wipe out humanity",
+            "description": "[THE NEWS INTERNATIONAL] Geoffrey Hinton, the Nobel Prize-winning scientist widely called the godfather of AI, believes there is a 10 to 20% chance artificial intelligence wipes out humanity. Bernie Sanders wants to know...",
+            "url": "https://www.thenews.com.pk/latest/1400406-bernie-sanders-warns-ai-can-wipe-out-humanity"
         },
         {
             "title": "AI Replicas Of The Dead Are Reshaping How People Deal With Loss",
@@ -105,26 +125,6 @@
             "title": "\u2018Artificial Intelligence boosts justice efficiency, but risks demand human vigilance\u2019: CJI Surya Kant outlines AI\u2019s role in Indian judiciary",
             "description": "[THE FINANCIAL EXPRESS] Shifting focus to technology's transformative potential, CJI Surya Kant highlighted AI's practical applications in streamlining judicial processes. He noted its value in administrative tasks and...",
             "url": "https://www.financialexpress.com/india-news/artificial-intelligence-boosts-justice-efficiency-but-risks-demand-human-vigilance-cji-surya-kant-outlines-ais-role-in-indian-judiciary/4218585/"
-        },
-        {
-            "title": "Anthropic Denies Pentagon Claims of AI \u2018Kill Switch\u2019 in Court Filing",
-            "description": "[NATURAL NEWS] Artificial intelligence company Anthropic has formally denied the Pentagon\u2019s assertions that it retains control over its Claude AI models once they are deployed on classified military networks,...",
-            "url": "https://www.naturalnews.com/2026-04-26-anthtropic-denies-pentagon-claims-ai-kill-switch.html"
-        },
-        {
-            "title": "Upper Burrell residents remain unclear about data center\u2019s project scope",
-            "description": "[PITTSBURGH TRIBUNE-REVIEW] As Pennsylvania\u2019s artificial intelligence industry starts to take off, Upper Burrell residents say they still feel left in the dark about a data center coming to the township. While officials work...",
-            "url": "https://triblive.com/local/valley-news-dispatch/upper-burrell-residents-remain-unclear-about-data-centers-project-scope/"
-        },
-        {
-            "title": "Rajat Bedi on the role of AI in the movies: It will make visuals more powerful",
-            "description": "[LOKMAT TIMES] Rajat Bedi on the role of AI in the movies: It will make visuals more powerful - Mumbai, April 26 Actor Rajat Bedi talked about the growing role of Artificial Intelligence in the movies during ......",
-            "url": "https://www.lokmattimes.com/entertainment/rajat-bedi-on-the-role-of-ai-in-the-movies-it-will-make-visuals-more-powerful/"
-        },
-        {
-            "title": "Manitoba premier says social media ban coming for kids, like Australia",
-            "description": "[BAYTODAY] WINNIPEG \u2014 The Manitoba government is planning to ban children from using social media and artificial intelligence chatbots.",
-            "url": "https://www.baytoday.ca/national-news/manitoba-premier-says-social-media-ban-coming-for-kids-like-australia-12194841"
         }
     ]
 }
