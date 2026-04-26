@@ -1,15 +1,20 @@
 {
-    "updated": "2026-04-26 16:38:09 UTC",
+    "updated": "2026-04-26 18:45:43 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -17,9 +22,9 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -32,11 +37,6 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
-        },
-        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -47,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
@@ -67,14 +67,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "AI Replicas Of The Dead Are Reshaping How People Deal With Loss",
+            "description": "[NDTV.COM] As artificial intelligence and voice technology improve, these tools are becoming more realistic and readily available.",
+            "url": "https://www.ndtv.com/feature/ai-replicas-of-the-dead-are-reshaping-how-people-deal-with-loss-11410632"
+        },
+        {
+            "title": "Russia weaponising AI deepfakes in grey zone warfare to shatter Western support for Ukraine, report warns",
+            "description": "[LBC] The Kremlin has launched a sophisticated \"asymmetric assault\" on Western democracy, deploying advanced artificial intelligence and deepfake technology to flood the information space with realistic...",
+            "url": "https://www.lbc.co.uk/article/russia-weaponising-ai-deepfakes-in-grey-zone-warfare-to-shatter-western-support-5HjdYHM_2/"
+        },
+        {
+            "title": "DeepSeek unveils new, low-cost V4 AI models: Here\u2019s what you need to know",
+            "description": "[THE INDIAN EXPRESS] More than a year after taking the AI world by storm, Chinese AI startup DeepSeek has unveiled two versions of its all-new large language model (LLM) called DeepSeek V4 Flash and DeepSeek V4 Pro. Both...",
+            "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/deepseek-new-low-cost-v4-ai-models-what-to-know-10656402/"
+        },
+        {
+            "title": "DeepSeek unveils new, low-cost V4 AI models: Here\u2019s what you need to know",
+            "description": "[THE INDIAN EXPRESS] DeepSeek\u2019s new LLM follows a long-awaited upgrade to last year\u2019s V3.2 and R1 reasoning model that rattled markets and hurtled the Chinese startup into the spotlight.",
+            "url": "https://indianexpress.com/article/technology/artificial-intelligence/deepseek-new-low-cost-v4-ai-models-what-to-know-10656402/"
+        },
+        {
+            "title": "Google Earmarks $40 Billion for Anthropic Investment",
+            "description": "[MARKETSCREENER] Alphabet's Google will earmark up to $40 billion into artificial intelligence company Anthropic, according to an April 25 release. Under the investment, the technology giant will initially invest...",
+            "url": "https://www.marketscreener.com/news/google-earmarks-40-billion-for-anthropic-investment-ce7f59dcdb8ef126"
+        },
+        {
+            "title": "\u2018Artificial Intelligence boosts justice efficiency, but risks demand human vigilance\u2019: CJI Surya Kant outlines AI\u2019s role in Indian judiciary",
+            "description": "[THE FINANCIAL EXPRESS] Shifting focus to technology's transformative potential, CJI Surya Kant highlighted AI's practical applications in streamlining judicial processes. He noted its value in administrative tasks and...",
+            "url": "https://www.financialexpress.com/india-news/artificial-intelligence-boosts-justice-efficiency-but-risks-demand-human-vigilance-cji-surya-kant-outlines-ais-role-in-indian-judiciary/4218585/"
+        },
+        {
+            "title": "Anthropic Denies Pentagon Claims of AI \u2018Kill Switch\u2019 in Court Filing",
+            "description": "[NATURAL NEWS] Artificial intelligence company Anthropic has formally denied the Pentagon\u2019s assertions that it retains control over its Claude AI models once they are deployed on classified military networks,...",
+            "url": "https://www.naturalnews.com/2026-04-26-anthtropic-denies-pentagon-claims-ai-kill-switch.html"
+        },
+        {
+            "title": "Upper Burrell residents remain unclear about data center\u2019s project scope",
+            "description": "[PITTSBURGH TRIBUNE-REVIEW] As Pennsylvania\u2019s artificial intelligence industry starts to take off, Upper Burrell residents say they still feel left in the dark about a data center coming to the township. While officials work...",
+            "url": "https://triblive.com/local/valley-news-dispatch/upper-burrell-residents-remain-unclear-about-data-centers-project-scope/"
         },
         {
             "title": "Rajat Bedi on the role of AI in the movies: It will make visuals more powerful",
@@ -85,46 +125,6 @@
             "title": "Manitoba premier says social media ban coming for kids, like Australia",
             "description": "[BAYTODAY] WINNIPEG \u2014 The Manitoba government is planning to ban children from using social media and artificial intelligence chatbots.",
             "url": "https://www.baytoday.ca/national-news/manitoba-premier-says-social-media-ban-coming-for-kids-like-australia-12194841"
-        },
-        {
-            "title": "Manitoba premier says social media ban coming for kids, like Australia",
-            "description": "[SOOTODAY] WINNIPEG \u2014 The Manitoba government is planning to ban children from using social media and artificial intelligence chatbots.",
-            "url": "https://www.sootoday.com/national-news/manitoba-premier-says-social-media-ban-coming-for-kids-like-australia-12194841"
-        },
-        {
-            "title": "Edsource: Achievement Gaps, Artificial Intelligence And More: State Superintendent Hopefuls Detail Their Plans At Candidate Forums",
-            "description": "[SFGATE] EdSource",
-            "url": "https://www.sfgate.com/news/bayarea/article/edsource-achievement-gaps-artificial-22226675.php"
-        },
-        {
-            "title": "Quote of the day by Sam Altman: AI won't replace humans. But humans who use AI ...",
-            "description": "[INDIA TODAY] Sam Altman's widely shared quote frames AI as a tool that rewards adaptation. It has added to the debate on how workers can stay relevant as artificial intelligence changes jobs.",
-            "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/quote-of-the-day-by-sam-altman-ai-wont-replace-humans-but-humans-who-use-ai-2901394-2026-04-26"
-        },
-        {
-            "title": "Microsoft CEO Satya Nadella may have just agreed with VP Rajesh Jha on the solution to software companies\u2019 biggest fear",
-            "description": "[TIMES OF INDIA] Tech News News: The rise of agentic AI has triggered a crises in the enterprise software industry. The fear goes something like this: if artificial intelligence (AI) .",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-may-have-just-agreed-with-vp-rajesh-jha-on-the-solution-to-software-companies-biggest-fear/articleshow/130522881.cms"
-        },
-        {
-            "title": "Machine learning predicts asthma risk in children with early-life atopic dermatitis",
-            "description": "[MEDICAL XPRESS] Machine learning models can predict the risk for developing moderate-to-severe persistent asthma and allergic rhinitis in children diagnosed with early-life atopic dermatitis, according to a study...",
-            "url": "https://medicalxpress.com/news/2026-04-machine-asthma-children-early-life.html"
-        },
-        {
-            "title": "'Will shield vulnerable sections from price pain, says Finance Minister Nirmala Sitharaman",
-            "description": "[THE ECONOMIC TIMES] Finance Minister Nirmala Sitharaman pledges government support for farmers facing rising costs. She encourages Indian businesses to invest and expand capacity. The minister also highlights the dual...",
-            "url": "https://economictimes.indiatimes.com/news/india/will-shield-vulnerable-sections-from-price-pain-says-finance-minister-nirmala-sitharaman-at-economic-times-awards-for-corporate-excellence/articleshow/130521764.cms"
-        },
-        {
-            "title": "World Intellectual Property Day: Innovation, Creativity, and the Power of Ideas",
-            "description": "[DAILY EXCELSIOR] Gourav Sabharwal Every year on April 26, the global community observes World Intellectual Property Day, an international awareness initiative led by the World Intellectual Property Organization. The...",
-            "url": "https://www.dailyexcelsior.com/world-intellectual-property-day-innovation-creativity-and-the-power-of-ideas/"
-        },
-        {
-            "title": "WE-AI holds workshops, seminars across Kashmir",
-            "description": "[DAILY EXCELSIOR] Excelsior Correspondent SRINAGAR, Apr 25: Marking a significant milestone in student-led innovation and outreach, the WE-AI (Women Empowerment-Artificial Intelligence) Club has successfully concluded...",
-            "url": "https://www.dailyexcelsior.com/we-ai-holds-workshops-seminars-across-kashmir/"
         }
     ]
 }
