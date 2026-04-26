@@ -1,20 +1,15 @@
 {
-    "updated": "2026-04-26 02:25:54 UTC",
+    "updated": "2026-04-26 06:04:27 UTC",
     "news": [
-        {
-            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
-            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
-            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
-        },
         {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
-            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,9 +17,9 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Vector Databases Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -37,6 +32,11 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
+        },
+        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -47,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
-            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
-            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
         },
         {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
@@ -67,14 +67,44 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
-            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
-            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "FM Nirmala Sitharaman pushes unified KYC framework, asks Sebi to lead",
+            "description": "[THE ECONOMIC TIMES] Finance Minister Nirmala Sitharaman called for a single know-your-customer system across the financial sector. She asked the Securities and Exchange Board of India to lead this initiative. The...",
+            "url": "https://economictimes.indiatimes.com/news/economy/finance/fm-nirmala-sitharaman-pushes-unified-kyc-framework-asks-sebi-to-lead/articleshow/130520459.cms"
+        },
+        {
+            "title": "New Disney Patent Shows How AI Could Soon Improve Ride Safety and Load Times",
+            "description": "[WDWNT.COM] The recently patented system suggests that Disney may be looking to leverage machine learning in an effort that could streamline security checks and lessen ride dispatch times.",
+            "url": "https://wdwnt.com/2026/04/new-disney-patent-shows-how-ai-could-soon-improve-ride-safety-and-load-times/"
+        },
+        {
+            "title": "Cloud Titans Battle 2026: Microsoft Azure vs AWS vs Google Cloud - Which Stock to Buy?",
+            "description": "[INTERNATIONAL BUSINESS TIMES] As artificial intelligence reshapes the global economy, the battle among cloud computing giants Microsoft, Amazon and Alphabet's Google Cloud is intensifying, with investors scrambling to pick the",
+            "url": "https://www.ibtimes.com/cloud-titans-battle-2026-microsoft-azure-vs-aws-vs-google-cloud-which-stock-buy-3801980"
+        },
+        {
+            "title": "Google to invest up to $40 billion in AI rival Anthropic",
+            "description": "[THE MANILA TIMES] GOOGLE parent company Alphabet will invest up to $40 billion in Anthropic, as the tech giant deepens its partnership with the artificial intelligence startup that is also its rival in the global AI...",
+            "url": "https://www.manilatimes.net/2026/04/26/business/top-business/google-to-invest-up-to-40-billion-in-ai-rival-anthropic/2328598"
+        },
+        {
+            "title": "AP banking on AI, green energy to accelerate growth, says Naidu",
+            "description": "[TIMES OF INDIA] Vijayawada: Chief minister N Chandrababu Naidu on Saturday said that his govt was leveraging advanced technologies, including artificial intelligence(.",
+            "url": "https://timesofindia.indiatimes.com/city/vijayawada/ap-banking-on-ai-green-energy-to-accelerate-growth-says-naidu/articleshow/130518378.cms"
+        },
+        {
+            "title": "AI To Take Over 50% Of UAE Government Services By 2028; What It Means For People",
+            "description": "[NEWS18] At the centre of the plan is \u2018Agentic AI\u2019, a more advanced form of artificial intelligence that goes beyond assisting humans.",
+            "url": "https://www.news18.com/world/ai-to-take-over-50-of-uae-government-services-by-2028-what-it-means-for-people-ws-l-10057456.html"
         },
         {
             "title": "Why turning to AI for personal advice is a bad idea",
@@ -95,36 +125,6 @@
             "title": "'A double-edged sword': Why some parents have concerns about introducing AI at Primary 4",
             "description": "[CNA] With the Ministry of Education introducing artificial intelligence to Primary 4 pupils, parents are caught between wanting their children to be prepared for the future and worrying that they are too...",
             "url": "https://www.channelnewsasia.com/today/ground-up/ai-primary-school-student-parent-concerns-chatgpt-age-appropriate-6075356"
-        },
-        {
-            "title": "Man uses AI to create fake photo with VP in Rishikesh; booked",
-            "description": "[THEPRINT] Rishikesh, Apr 25 (PTI) Rishikesh Police has booked a man posing as a seer for allegedly using artificial intelligence to create a fake photograph of himself with Vice President CP Radhakrishnan. The...",
-            "url": "https://theprint.in/india/man-uses-ai-to-create-fake-photo-with-vp-in-rishikesh-booked/2914264/"
-        },
-        {
-            "title": "From Oracle To Meta: Tech Giants Cut Over 40K Jobs In 2026. Here\u2019s Why",
-            "description": "[NEWS18] Major tech companies including Oracle, Meta, Snap, and Block are cutting thousands of jobs as they redirect resources toward artificial intelligence and large-scale automation.",
-            "url": "https://www.news18.com/world/from-oracle-to-meta-tech-giants-cut-over-40k-jobs-in-2026-heres-why-ws-el-10057313.html"
-        },
-        {
-            "title": "IIT prof develops AI-VR device for faster heart disease diagnosis",
-            "description": "[THEPRINT] Dhanbad, Apr 25 (PTI) A professor at IIT (ISM) Dhanbad has developed a device that uses artificial intelligence (AI) and virtual reality (VR) to help doctors examine the heart more quickly and...",
-            "url": "https://theprint.in/india/iit-prof-develops-ai-vr-device-for-faster-heart-disease-diagnosis/2914256/"
-        },
-        {
-            "title": "'Hiding in Plain Sight': Nebraska Middle School Teacher Accused of Creating AI Child Porn at Work",
-            "description": "[BREITBART NEWS NETWORK] A middle school teacher is accused of using artificial intelligence (AI) to create child pornography while he was at work in Omaha, Nebraska.",
-            "url": "https://www.breitbart.com/education/2026/04/25/video-hiding-in-plain-sight-nebraska-middle-school-teacher-accused-of-creating-ai-child-porn-at-work/"
-        },
-        {
-            "title": "How AI technology is powering Bali\u2019s tourism revolution in 2026: Here\u2019s everything to know",
-            "description": "[THE NEWS INTERNATIONAL] The rapid advancement of Artificial Intelligence is transforming every aspect of our surroundings. It is intriguing to see how the travel sector is adapting to keep pace with these advances, as...",
-            "url": "https://www.thenews.com.pk/latest/1400326-how-ai-technology-is-powering-balis-tourism-revolution-in-2026-heres-everything-to-know"
-        },
-        {
-            "title": "How web intelligence is powering the next wave of AI Infrastructure",
-            "description": "[TNW] From multimodal AI to LLM search and data pipelines, web intelligence is evolving to support the scale and complexity of modern AI systems.",
-            "url": "https://thenextweb.com/news/from-web-to-artificial-intelligence-building-the-missing-links"
         }
     ]
 }
