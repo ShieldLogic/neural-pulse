@@ -1,15 +1,20 @@
 {
-    "updated": "2026-04-25 22:32:57 UTC",
+    "updated": "2026-04-26 02:25:54 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -17,9 +22,9 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -32,11 +37,6 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
-        },
-        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -47,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
         },
         {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
@@ -67,9 +67,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "How AI Is Changing Animal Research",
-            "description": "[THE ECONOMIC TIMES] Machine learning is revolutionizing animal behavior research by enabling automatic analysis of movement and interactions, surpassing manual methods' limitations. While powerful, these algorithms...",
-            "url": "https://economictimes.indiatimes.com/news/international/us/how-ai-is-changing-animal-research/articleshow/130512052.cms"
+            "title": "Why turning to AI for personal advice is a bad idea",
+            "description": "[THE HINDU] The current crop of artificial intelligence tools landed on our smartphones and web browsers as chatbots \u2014 they were designed to answer queries. You can ask it something, and receive a statistically...",
+            "url": "https://www.thehindu.com/sci-tech/technology/why-turning-to-ai-for-personal-advice-is-a-bad-idea/article70888162.ece"
         },
         {
-            "title": "AI could democratize medicine, but better regulation comes first",
-            "description": "[LOS ANGELES TIMES] Artificial intelligence has the potential to fundamentally change healthcare, and the possibilities are neither radical nor experimental.",
-            "url": "https://www.latimes.com/opinion/story/2026-04-25/ai-democratize-medicine-regulation"
+            "title": "Elon Musk in courtroom showdown",
+            "description": "[CP24 TORONTO] Jury selection is to begin Monday in a high-profile legal battle between billionaire Elon Musk and artificial intelligence startup OpenAI, which he accuses of betraying its non-profit mission.",
+            "url": "https://www.cp24.com/news/world/2026/04/25/billionaire-elon-musk-enters-courtroom-showdown-with-openai/"
         },
         {
-            "title": "Oracle to Snap: 4 billion-dollar giants cut thousands of jobs for AI push in first 4 months of 2026",
-            "description": "[HINDUSTAN TIMES] Oracle, Meta, Snap, and Block cut thousands of jobs to reallocate funds into artificial intelligence.",
-            "url": "https://www.hindustantimes.com/trending/us/oracle-to-snap-4-billion-dollar-giants-cut-thousands-of-jobs-for-ai-push-in-first-4-months-of-2026-101777108624092.html"
+            "title": "Elon Musk in courtroom showdown",
+            "description": "[BNN BLOOMBERG] Jury selection is to begin Monday in a high-profile legal battle between billionaire Elon Musk and artificial intelligence startup OpenAI, which he accuses of betraying its non-profit mission.",
+            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/04/25/billionaire-elon-musk-enters-courtroom-showdown-with-openai/"
         },
         {
-            "title": "Delta Airlines CEO Ed Bastian doesn\u2019t like the term \u2018artificial intelligence': \u2018I want our employees to see it as\u2026\u2019",
-            "description": "[TIMES OF INDIA] Tech News News: Delta Air Lines CEO Ed Bastian said he prefers not to use the term \u201cartificial intelligence.\u201d He argued that it creates unnecessary fear among employe.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/delta-airlines-ceo-ed-bastian-doesnt-like-the-term-artificial-intelligence-i-want-our-employees-to-see-it-as/articleshow/130510433.cms"
+            "title": "'A double-edged sword': Why some parents have concerns about introducing AI at Primary 4",
+            "description": "[CNA] With the Ministry of Education introducing artificial intelligence to Primary 4 pupils, parents are caught between wanting their children to be prepared for the future and worrying that they are too...",
+            "url": "https://www.channelnewsasia.com/today/ground-up/ai-primary-school-student-parent-concerns-chatgpt-age-appropriate-6075356"
         },
         {
-            "title": "Using AI for financial advice? Keep these 5 things out of your chats.",
-            "description": "[THE WASHINGTON POST] Artificial intelligence tools have made financial advice more accessible, but they have also created a significant privacy risk.",
-            "url": "https://www.washingtonpost.com/business/2026/04/25/ai-financial-advice-privacy-concerns/"
+            "title": "Man uses AI to create fake photo with VP in Rishikesh; booked",
+            "description": "[THEPRINT] Rishikesh, Apr 25 (PTI) Rishikesh Police has booked a man posing as a seer for allegedly using artificial intelligence to create a fake photograph of himself with Vice President CP Radhakrishnan. The...",
+            "url": "https://theprint.in/india/man-uses-ai-to-create-fake-photo-with-vp-in-rishikesh-booked/2914264/"
         },
         {
-            "title": "fraud measures key to digital growth: COAI DigiCom Summit",
-            "description": "[THE TRIBUNE] The summit concluded with stakeholders advocating 'a secure, resilient and innovation-driven digital ecosystem, underpinned by next-generation telecom networks and emerging technologies such as...",
-            "url": "https://www.tribuneindia.com/news/business/ai-led-networks-stronger-anti-fraud-measures-key-to-digital-growth-coai-digicom-summit/"
+            "title": "From Oracle To Meta: Tech Giants Cut Over 40K Jobs In 2026. Here\u2019s Why",
+            "description": "[NEWS18] Major tech companies including Oracle, Meta, Snap, and Block are cutting thousands of jobs as they redirect resources toward artificial intelligence and large-scale automation.",
+            "url": "https://www.news18.com/world/from-oracle-to-meta-tech-giants-cut-over-40k-jobs-in-2026-heres-why-ws-el-10057313.html"
         },
         {
-            "title": "Microsoft Announces Voluntary Retirement Programme For Employees",
-            "description": "[FREE PRESS JOURNAL] Microsoft has introduced its first-ever voluntary retirement programme for eligible employees as part of its workforce restructuring strategy amid rising investments in artificial intelligence",
-            "url": "https://www.freepressjournal.in/tech/microsoft-announces-voluntary-retirement-programme-for-employees"
+            "title": "IIT prof develops AI-VR device for faster heart disease diagnosis",
+            "description": "[THEPRINT] Dhanbad, Apr 25 (PTI) A professor at IIT (ISM) Dhanbad has developed a device that uses artificial intelligence (AI) and virtual reality (VR) to help doctors examine the heart more quickly and...",
+            "url": "https://theprint.in/india/iit-prof-develops-ai-vr-device-for-faster-heart-disease-diagnosis/2914256/"
         },
         {
-            "title": "Salesforce CEO Marc Benioff says the company is hiring 1000 people for these positions",
-            "description": "[TIMES OF INDIA] Tech News News: At a time when there are fears that artificial intelligence (AI) will wipe out entry-level roles, Salesforce CEO Marc Benioff has made an announcement.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-says-company-is-hiring-1000-new-grads-interns-how-to-apply/articleshow/130509776.cms"
+            "title": "'Hiding in Plain Sight': Nebraska Middle School Teacher Accused of Creating AI Child Porn at Work",
+            "description": "[BREITBART NEWS NETWORK] A middle school teacher is accused of using artificial intelligence (AI) to create child pornography while he was at work in Omaha, Nebraska.",
+            "url": "https://www.breitbart.com/education/2026/04/25/video-hiding-in-plain-sight-nebraska-middle-school-teacher-accused-of-creating-ai-child-porn-at-work/"
         },
         {
-            "title": "India minister urges market regulator to boost global consultations, tackle cyber risks",
-            "description": "[REUTERS] India's market regulator should increase consultations \u200bwith global regulators \u200cand capitalise on artificial intelligence to manage cyber risks, \u200bFinance Minister Nirmala \u200bSitharaman said on Saturday.",
-            "url": "https://www.reuters.com/world/india/india-minister-urges-market-regulator-boost-global-consultations-tackle-cyber-2026-04-25/"
+            "title": "How AI technology is powering Bali\u2019s tourism revolution in 2026: Here\u2019s everything to know",
+            "description": "[THE NEWS INTERNATIONAL] The rapid advancement of Artificial Intelligence is transforming every aspect of our surroundings. It is intriguing to see how the travel sector is adapting to keep pace with these advances, as...",
+            "url": "https://www.thenews.com.pk/latest/1400326-how-ai-technology-is-powering-balis-tourism-revolution-in-2026-heres-everything-to-know"
         },
         {
-            "title": "EU Seeks Android Access From Google For Rival AI Assistants",
-            "description": "[FREE PRESS JOURNAL] The EU is stepping up pressure on Google to open up its Android ecosystem to rival artificial intelligence assistants, marking a fresh escalation in the bloc\u2019s ongoing regulatory push against Big...",
-            "url": "https://www.freepressjournal.in/tech/eu-seeks-android-access-from-google-for-rival-ai-assistants"
+            "title": "How web intelligence is powering the next wave of AI Infrastructure",
+            "description": "[TNW] From multimodal AI to LLM search and data pipelines, web intelligence is evolving to support the scale and complexity of modern AI systems.",
+            "url": "https://thenextweb.com/news/from-web-to-artificial-intelligence-building-the-missing-links"
         }
     ]
 }
