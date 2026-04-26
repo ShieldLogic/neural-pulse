@@ -1,20 +1,30 @@
 {
-    "updated": "2026-04-26 12:58:35 UTC",
+    "updated": "2026-04-26 14:39:42 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -27,11 +37,6 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
-        },
-        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -42,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,9 +77,34 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "Rajat Bedi on the role of AI in the movies: It will make visuals more powerful",
+            "description": "[LOKMAT TIMES] Rajat Bedi on the role of AI in the movies: It will make visuals more powerful - Mumbai, April 26 Actor Rajat Bedi talked about the growing role of Artificial Intelligence in the movies during ......",
+            "url": "https://www.lokmattimes.com/entertainment/rajat-bedi-on-the-role-of-ai-in-the-movies-it-will-make-visuals-more-powerful/"
+        },
+        {
+            "title": "Manitoba premier says social media ban coming for kids, like Australia",
+            "description": "[BAYTODAY] WINNIPEG \u2014 The Manitoba government is planning to ban children from using social media and artificial intelligence chatbots.",
+            "url": "https://www.baytoday.ca/national-news/manitoba-premier-says-social-media-ban-coming-for-kids-like-australia-12194841"
+        },
+        {
+            "title": "Manitoba premier says social media ban coming for kids, like Australia",
+            "description": "[SOOTODAY] WINNIPEG \u2014 The Manitoba government is planning to ban children from using social media and artificial intelligence chatbots.",
+            "url": "https://www.sootoday.com/national-news/manitoba-premier-says-social-media-ban-coming-for-kids-like-australia-12194841"
+        },
+        {
+            "title": "Edsource: Achievement Gaps, Artificial Intelligence And More: State Superintendent Hopefuls Detail Their Plans At Candidate Forums",
+            "description": "[SFGATE] EdSource",
+            "url": "https://www.sfgate.com/news/bayarea/article/edsource-achievement-gaps-artificial-22226675.php"
+        },
+        {
+            "title": "Quote of the day by Sam Altman: AI won't replace humans. But humans who use AI ...",
+            "description": "[INDIA TODAY] Sam Altman's widely shared quote frames AI as a tool that rewards adaptation. It has added to the debate on how workers can stay relevant as artificial intelligence changes jobs.",
+            "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/quote-of-the-day-by-sam-altman-ai-wont-replace-humans-but-humans-who-use-ai-2901394-2026-04-26"
+        },
+        {
+            "title": "Microsoft CEO Satya Nadella may have just agreed with VP Rajesh Jha on the solution to software companies\u2019 biggest fear",
+            "description": "[TIMES OF INDIA] Tech News News: The rise of agentic AI has triggered a crises in the enterprise software industry. The fear goes something like this: if artificial intelligence (AI) .",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-may-have-just-agreed-with-vp-rajesh-jha-on-the-solution-to-software-companies-biggest-fear/articleshow/130522881.cms"
         },
         {
             "title": "Machine learning predicts asthma risk in children with early-life atopic dermatitis",
@@ -95,36 +125,6 @@
             "title": "WE-AI holds workshops, seminars across Kashmir",
             "description": "[DAILY EXCELSIOR] Excelsior Correspondent SRINAGAR, Apr 25: Marking a significant milestone in student-led innovation and outreach, the WE-AI (Women Empowerment-Artificial Intelligence) Club has successfully concluded...",
             "url": "https://www.dailyexcelsior.com/we-ai-holds-workshops-seminars-across-kashmir/"
-        },
-        {
-            "title": "Japan to set up task force on cyberattack risks from Anthropic's Mythos AI",
-            "description": "[JAPAN TODAY] Japan will set up a task force to discuss cybersecurity risks in the financial sector posed by Anthropic's Mythos artificial intelligence model, Finance Minister Satsuki Katayama said, as concerns...",
-            "url": "https://japantoday.com/category/tech/update1-japan-to-set-up-task-force-on-cyberattack-risks-from-anthropic's-mythos-ai"
-        },
-        {
-            "title": "Japan to set up task force on cyberattack risks from Anthropic's Mythos AI",
-            "description": "[JAPAN TODAY] Japan will set up a task force to discuss cybersecurity risks in the financial sector posed by Anthropic's Mythos artificial intelligence model, Finance Minister Satsuki Katayama said, as concerns...",
-            "url": "https://japantoday.com/category/tech/update1-japan-to-set-up-task-force-on-cyberattack-risks-from-anthropic%27s-mythos-ai"
-        },
-        {
-            "title": "Young Chinese use AI to launch one-person firms over job anxiety",
-            "description": "[JAPAN TODAY] Young Chinese, many who fear age discrimination in their workplace after turning 35, are increasingly starting \"one-person companies\" that have artificial intelligence do most of the work. Smaller...",
-            "url": "https://japantoday.com/category/tech/young-chinese-use-ai-to-launch-one-person-firms-over-job-anxiety"
-        },
-        {
-            "title": "FM Nirmala Sitharaman pushes unified KYC framework, asks Sebi to lead",
-            "description": "[THE ECONOMIC TIMES] Finance Minister Nirmala Sitharaman called for a single know-your-customer system across the financial sector. She asked the Securities and Exchange Board of India to lead this initiative. The...",
-            "url": "https://economictimes.indiatimes.com/news/economy/finance/fm-nirmala-sitharaman-pushes-unified-kyc-framework-asks-sebi-to-lead/articleshow/130520459.cms"
-        },
-        {
-            "title": "New Disney Patent Shows How AI Could Soon Improve Ride Safety and Load Times",
-            "description": "[WDWNT.COM] The recently patented system suggests that Disney may be looking to leverage machine learning in an effort that could streamline security checks and lessen ride dispatch times.",
-            "url": "https://wdwnt.com/2026/04/new-disney-patent-shows-how-ai-could-soon-improve-ride-safety-and-load-times/"
-        },
-        {
-            "title": "Cloud Titans Battle 2026: Microsoft Azure vs AWS vs Google Cloud - Which Stock to Buy?",
-            "description": "[INTERNATIONAL BUSINESS TIMES] As artificial intelligence reshapes the global economy, the battle among cloud computing giants Microsoft, Amazon and Alphabet's Google Cloud is intensifying, with investors scrambling to pick the",
-            "url": "https://www.ibtimes.com/cloud-titans-battle-2026-microsoft-azure-vs-aws-vs-google-cloud-which-stock-buy-3801980"
         }
     ]
 }
