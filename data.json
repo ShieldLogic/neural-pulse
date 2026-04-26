@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-26 08:56:10 UTC",
+    "updated": "2026-04-26 10:41:30 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -15,6 +15,11 @@
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -42,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,9 +77,29 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "World Intellectual Property Day: Innovation, Creativity, and the Power of Ideas",
+            "description": "[DAILY EXCELSIOR] Gourav Sabharwal Every year on April 26, the global community observes World Intellectual Property Day, an international awareness initiative led by the World Intellectual Property Organization. The...",
+            "url": "https://www.dailyexcelsior.com/world-intellectual-property-day-innovation-creativity-and-the-power-of-ideas/"
+        },
+        {
+            "title": "WE-AI holds workshops, seminars across Kashmir",
+            "description": "[DAILY EXCELSIOR] Excelsior Correspondent SRINAGAR, Apr 25: Marking a significant milestone in student-led innovation and outreach, the WE-AI (Women Empowerment-Artificial Intelligence) Club has successfully concluded...",
+            "url": "https://www.dailyexcelsior.com/we-ai-holds-workshops-seminars-across-kashmir/"
+        },
+        {
+            "title": "Japan to set up task force on cyberattack risks from Anthropic's Mythos AI",
+            "description": "[JAPAN TODAY] Japan will set up a task force to discuss cybersecurity risks in the financial sector posed by Anthropic's Mythos artificial intelligence model, Finance Minister Satsuki Katayama said, as concerns...",
+            "url": "https://japantoday.com/category/tech/update1-japan-to-set-up-task-force-on-cyberattack-risks-from-anthropic's-mythos-ai"
+        },
+        {
+            "title": "Japan to set up task force on cyberattack risks from Anthropic's Mythos AI",
+            "description": "[JAPAN TODAY] Japan will set up a task force to discuss cybersecurity risks in the financial sector posed by Anthropic's Mythos artificial intelligence model, Finance Minister Satsuki Katayama said, as concerns...",
+            "url": "https://japantoday.com/category/tech/update1-japan-to-set-up-task-force-on-cyberattack-risks-from-anthropic%27s-mythos-ai"
+        },
+        {
+            "title": "Young Chinese use AI to launch one-person firms over job anxiety",
+            "description": "[JAPAN TODAY] Young Chinese, many who fear age discrimination in their workplace after turning 35, are increasingly starting \"one-person companies\" that have artificial intelligence do most of the work. Smaller...",
+            "url": "https://japantoday.com/category/tech/young-chinese-use-ai-to-launch-one-person-firms-over-job-anxiety"
         },
         {
             "title": "FM Nirmala Sitharaman pushes unified KYC framework, asks Sebi to lead",
@@ -100,31 +125,6 @@
             "title": "AP banking on AI, green energy to accelerate growth, says Naidu",
             "description": "[TIMES OF INDIA] Vijayawada: Chief minister N Chandrababu Naidu on Saturday said that his govt was leveraging advanced technologies, including artificial intelligence(.",
             "url": "https://timesofindia.indiatimes.com/city/vijayawada/ap-banking-on-ai-green-energy-to-accelerate-growth-says-naidu/articleshow/130518378.cms"
-        },
-        {
-            "title": "AI To Take Over 50% Of UAE Government Services By 2028; What It Means For People",
-            "description": "[NEWS18] At the centre of the plan is \u2018Agentic AI\u2019, a more advanced form of artificial intelligence that goes beyond assisting humans.",
-            "url": "https://www.news18.com/world/ai-to-take-over-50-of-uae-government-services-by-2028-what-it-means-for-people-ws-l-10057456.html"
-        },
-        {
-            "title": "Why turning to AI for personal advice is a bad idea",
-            "description": "[THE HINDU] The current crop of artificial intelligence tools landed on our smartphones and web browsers as chatbots \u2014 they were designed to answer queries. You can ask it something, and receive a statistically...",
-            "url": "https://www.thehindu.com/sci-tech/technology/why-turning-to-ai-for-personal-advice-is-a-bad-idea/article70888162.ece"
-        },
-        {
-            "title": "Elon Musk in courtroom showdown",
-            "description": "[CP24 TORONTO] Jury selection is to begin Monday in a high-profile legal battle between billionaire Elon Musk and artificial intelligence startup OpenAI, which he accuses of betraying its non-profit mission.",
-            "url": "https://www.cp24.com/news/world/2026/04/25/billionaire-elon-musk-enters-courtroom-showdown-with-openai/"
-        },
-        {
-            "title": "Elon Musk in courtroom showdown",
-            "description": "[BNN BLOOMBERG] Jury selection is to begin Monday in a high-profile legal battle between billionaire Elon Musk and artificial intelligence startup OpenAI, which he accuses of betraying its non-profit mission.",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/04/25/billionaire-elon-musk-enters-courtroom-showdown-with-openai/"
-        },
-        {
-            "title": "'A double-edged sword': Why some parents have concerns about introducing AI at Primary 4",
-            "description": "[CNA] With the Ministry of Education introducing artificial intelligence to Primary 4 pupils, parents are caught between wanting their children to be prepared for the future and worrying that they are too...",
-            "url": "https://www.channelnewsasia.com/today/ground-up/ai-primary-school-student-parent-concerns-chatgpt-age-appropriate-6075356"
         }
     ]
 }
