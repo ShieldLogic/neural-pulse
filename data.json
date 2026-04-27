@@ -1,20 +1,30 @@
 {
-    "updated": "2026-04-27 06:24:58 UTC",
+    "updated": "2026-04-27 10:11:06 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -27,11 +37,6 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
-        },
-        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -42,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,9 +77,19 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "AI transforming human-animal relationship, for the better",
+            "description": "[CHARLESTON POST AND COURIER] Artificial intelligence is revolutionizing various aspects of society, including the relationship between humans and animals.",
+            "url": "https://www.postandcourier.com/opinion/commentary/ai-innovation-human-animal-relationship-biomedical-research/article_1e338689-7d0f-4b8d-9b4d-f1764353766e.html"
+        },
+        {
+            "title": "Billionaire Elon Musk enters courtroom showdown with OpenAI",
+            "description": "[JAPAN TODAY] Jury selection is to begin Monday in a high-profile legal battle between billionaire Elon Musk and artificial intelligence startup OpenAI, which he accuses of betraying its non-profit mission. The...",
+            "url": "https://japantoday.com/category/tech/billionaire-elon-musk-enters-courtroom-showdown-with-openai"
+        },
+        {
+            "title": "AI decision review system being trialled in Darwin women's division one cricket competition",
+            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Darwin's premier women's cricket league has become the first Australian grade competition to use an artificial intelligence umpire review system.",
+            "url": "https://www.abc.net.au/news/2026-04-27/nt-ai-decision-review-system-technology-darwin-cricket/106604718"
         },
         {
             "title": "Manitoba will move to ban social media for kids",
@@ -110,21 +125,6 @@
             "title": "AI goldrush collides with voter backlash in Georgia",
             "description": "[POLITICO] Multibillion-dollar artificial intelligence hubs are beginning to scramble politics in the crucial swing state as voters worry about costs and local control.",
             "url": "https://www.politico.com/news/2026/04/26/ai-data-centers-georgia-midterms-00888668"
-        },
-        {
-            "title": "AI to accelerate India's tech industry, not a threat; tech to continue hiring people: Nasscom Chair",
-            "description": "[THE ECONOMIC TIMES] Srikanth Velamakanni has taken over the top leadership charge of NASSCOM (National Association of Software and Service Companies) at a time when the Indian IT industry is facing twin challenges:...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/ai-to-accelerate-indias-tech-industry-not-a-threat-tech-to-continue-hiring-people-nasscom-chair/articleshow/130531908.cms"
-        },
-        {
-            "title": "Colorado lawmakers weigh youth chatbot protections, age attestation",
-            "description": "[THE DENVER POST] Colorado lawmakers are grappling with regulation of artificial intelligence-powered chatbots and other protections for youth online as they also weigh privacy and freedom concerns.",
-            "url": "https://www.denverpost.com/2026/04/26/chatbot-regulations-ai-suicide-age-verification-colorado/"
-        },
-        {
-            "title": "Colorado lawmakers weigh youth chatbot protections, age attestation",
-            "description": "[BOULDER DAILY CAMERA] Colorado lawmakers are grappling with regulation of artificial intelligence-powered chatbots and other protections for youth online as they also weigh privacy and freedom concerns.",
-            "url": "https://www.dailycamera.com/2026/04/26/chatbot-regulations-ai-suicide-age-verification-colorado/"
         }
     ]
 }
