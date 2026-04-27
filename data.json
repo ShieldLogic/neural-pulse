@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-27 13:44:26 UTC",
+    "updated": "2026-04-27 15:43:45 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -7,14 +7,19 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -27,9 +32,9 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,59 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "Bluechip safety no more? Infosys knocked out of India's top 10 valuable companies list after losing Rs 2 lakh crore",
+            "description": "[THE ECONOMIC TIMES] Infosys, once a market leader, has lost significant value and exited India's top 10 companies. Investors are concerned about future growth and client spending. Artificial intelligence presents both...",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/bluechip-safety-no-more-infosys-knocked-out-of-indias-top-10-valuable-companies-list-after-losing-rs-2-lakh-crore/articleshow/130543225.cms"
+        },
+        {
+            "title": "San Francisco, AI capital of the world, is an economic laggard",
+            "description": "[HINDUSTAN TIMES] Artificial intelligence is booming. Its heartland is not | World News",
+            "url": "https://www.hindustantimes.com/world-news/san-francisco-ai-capital-of-the-world-is-an-economic-laggard-101777261033249.html"
+        },
+        {
+            "title": "BYD, Geely see more EV demand as oil prices climb from Iran War",
+            "description": "[THE HINDU BUSINESS LINE] Cambricon Technologies Corp. and Foxconn Industrial Internet Co. will also continue to offer a glimpse of how China\u2019s hardware players are responding to the artificial intelligence boom",
+            "url": "https://www.thehindubusinessline.com/companies/byd-geely-see-more-ev-demand-as-oil-prices-climb-from-iran-war/article70910683.ece"
+        },
+        {
+            "title": "AI drives global IT spending to $6.31 trillion, but Indian IT firms face a margin squeeze, warns Gartner",
+            "description": "[THE ECONOMIC TIMES] Global IT spending is surging due to Artificial Intelligence. India's IT sector sees a significant opportunity in managed services as companies shift focus to AI. However, traditional IT services...",
+            "url": "https://economictimes.indiatimes.com/markets/expert-view/ai-drives-global-it-spending-to-6-31-trillion-but-indian-it-firms-face-a-margin-squeeze-warns-gartner/articleshow/130494986.cms"
+        },
+        {
+            "title": "[ANN Exclusive] Of bytes and bridges: AI in the newsroom takes centre stage at WJC 2026",
+            "description": "[THE STAR] The most pressing concern is no longer whether artificial intelligence (AI) belongs in journalism, but how to ensure the limitless bytes of AI output do not drown out the human pulse of the press.",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/27/ann-exclusive-of-bytes-and-bridges-ai-in-the-newsroom-takes-centre-stage-at-wjc-2026"
+        },
+        {
+            "title": "ET Awards: \u2018Invest in the idea of India, by India, for India,\u2019 say top CEOs amid West Asia conflict",
+            "description": "[THE ECONOMIC TIMES] Indian business leaders view the West Asia conflict as a catalyst for long-delayed structural reforms, urging accelerated efforts in energy security and reduced external vulnerabilities. They...",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/et-awards-invest-in-the-idea-of-india-by-india-for-india-say-top-ceos-amid-west-asia-conflict/articleshow/130542696.cms"
+        },
+        {
+            "title": "Chips carry stocks higher; Oil jumps on stalled peace talks",
+            "description": "[MARKETSCREENER] Oil climbed on Monday as stalled U.S.-Iran peace talks prolonged the disruption of Middle East energy exports, while renewed excitement about artificial intelligence spending drove up chip stocks...",
+            "url": "https://www.marketscreener.com/news/chips-carry-stocks-higher-oil-jumps-on-stalled-peace-talks-ce7f59dcda80ff26"
+        },
+        {
+            "title": "Emerging Stocks Rise to Record High on AI, Iran's Hormuz Offer",
+            "description": "[FINANCIAL POST] Emerging-market equities rose to a record high, buoyed by optimism over the artificial intelligence trade and a report that Iran offered a new proposal to reopen th\u2026",
+            "url": "https://financialpost.com/pmn/business-pmn/emerging-stocks-rise-to-record-high-on-ai-irans-hormuz-offer"
+        },
+        {
+            "title": "Stage set for Elon Musk's court battle with OpenAI",
+            "description": "[BANGKOK POST] OAKLAND (UNITED STATES) - Elon Musk's lawsuit accusing high-profile artificial intelligence company OpenAI of betraying its non-profit mission heads for trial on Monday with the selection of jurors.",
+            "url": "https://www.bangkokpost.com/world/3244735/stage-set-for-elon-musks-court-battle-with-openai"
         },
         {
             "title": "After OpenAI and Anthropic, Jeff Bezos\u2019s AI lab 'goes to' London",
             "description": "[TIMES OF INDIA] Tech News News: Jeff Bezos\u2019 artificial intelligence (AI) lab Project Prometheus is reportedly in talks to lease office space in London\u2019s King\u2019s Cross area. This signa.",
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-openai-and-anthropic-jeff-bezoss-ai-lab-goes-to-london/articleshow/130539027.cms"
-        },
-        {
-            "title": "Apple, Google Caught 'Helping Users' Find Apps That Can Deepfake Nude Pictures of Real People, and Worse Kids Are Vulnerable Too",
-            "description": "[THE GATEWAY PUNDIT] Apple and Google were found to be promoting the use of apps that sexualize imagery through artificial intelligence.",
-            "url": "https://www.thegatewaypundit.com/2026/04/apple-google-caught-helping-users-find-apps-can/"
-        },
-        {
-            "title": "ET Awards: India Inc discusses strategy as FM Sitharaman signals readiness for reforms amid rising global uncertainty",
-            "description": "[THE ECONOMIC TIMES] India's finance minister has urged industry leaders to engage in open dialogue. Discussions at the Economic Times Awards focused on navigating global uncertainties. Experts proposed measures from...",
-            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/et-awards-india-inc-discusses-strategy-as-fm-sitharaman-signals-readiness-for-reforms-amid-rising-global-uncertainty/articleshow/130541506.cms"
-        },
-        {
-            "title": "AI-powered app aids Mohali police in night checks",
-            "description": "[TIMES OF INDIA] Barinderjit.SalujaMohali: The Punjab Artificial Intelligence System (PAIS) app proved useful for Mohali police on Saturday night when they stopped a b.",
-            "url": "https://timesofindia.indiatimes.com/city/chandigarh/ai-powered-app-aids-mohali-police-in-night-checks/articleshow/130539213.cms"
-        },
-        {
-            "title": "Is your career at risk? How to adapt to AI according to a Fil-Aus tech CEO",
-            "description": "[SBS AUSTRALIA] In Trabaho, Visa, atbp., Xenai Digital CEO and founder Pauline Pangan outlines essential strategies for professionals to adapt and thrive as Artificial Intelligence transforms the global workforce.",
-            "url": "https://www.sbs.com.au/language/filipino/en/podcast-episode/is-your-career-at-risk-how-to-adapt-to-ai-according-to-a-fil-aus-tech-ceo/1qzbjktr8"
-        },
-        {
-            "title": "College students wary of the job market are changing course in search of 'AI",
-            "description": "[BREITBART NEWS NETWORK] The rise of artificial intelligence is prompting college students to second-guess their career paths College students wary of the job market are changing",
-            "url": "https://www.breitbart.com/news/college-students-wary-of-the-job-market-are-changing-course-in-search-of-ai-proof-majors/"
-        },
-        {
-            "title": "Air India embraces AI to enhance ops efficiency, increase revenues, reduce costs",
-            "description": "[DAILY EXCELSIOR] NEW DELHI, Apr 26: Embracing technology in a big way, full-service carrier Air India is tapping opportunities with artificial intelligence to enhance operational efficiency, improve customer...",
-            "url": "https://www.dailyexcelsior.com/air-india-embraces-ai-to-enhance-ops-efficiency-increase-revenues-reduce-costs/"
-        },
-        {
-            "title": "AI transforming human-animal relationship, for the better",
-            "description": "[CHARLESTON POST AND COURIER] Artificial intelligence is revolutionizing various aspects of society, including the relationship between humans and animals.",
-            "url": "https://www.postandcourier.com/opinion/commentary/ai-innovation-human-animal-relationship-biomedical-research/article_1e338689-7d0f-4b8d-9b4d-f1764353766e.html"
-        },
-        {
-            "title": "Billionaire Elon Musk enters courtroom showdown with OpenAI",
-            "description": "[JAPAN TODAY] Jury selection is to begin Monday in a high-profile legal battle between billionaire Elon Musk and artificial intelligence startup OpenAI, which he accuses of betraying its non-profit mission. The...",
-            "url": "https://japantoday.com/category/tech/billionaire-elon-musk-enters-courtroom-showdown-with-openai"
-        },
-        {
-            "title": "AI decision review system being trialled in Darwin women's division one cricket competition",
-            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Darwin's premier women's cricket league has become the first Australian grade competition to use an artificial intelligence umpire review system.",
-            "url": "https://www.abc.net.au/news/2026-04-27/nt-ai-decision-review-system-technology-darwin-cricket/106604718"
         }
     ]
 }
