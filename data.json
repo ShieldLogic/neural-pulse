@@ -1,20 +1,30 @@
 {
-    "updated": "2026-04-26 22:34:10 UTC",
+    "updated": "2026-04-27 02:28:32 UTC",
     "news": [
+        {
+            "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+            "description": "[MACHINELEARNINGMASTERY] My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+            "url": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/"
+        },
         {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Beyond the Vector Store: Building the Full Data Layer for AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] If you look at the architecture diagram of almost any AI startup today, you will see a large language model (LLM) connected to a vector store.",
+            "url": "https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "Vector Databases Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional databases answer a well-defined question: does the record matching these criteria exist? <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/vector-databases-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -27,11 +37,6 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
-        },
-        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -42,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "7 Steps to Mastering Memory in Agentic AI Systems",
+            "description": "[MACHINELEARNINGMASTERY] Memory is one of the most overlooked parts of agentic system design.",
+            "url": "https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes",
+            "description": "[MACHINELEARNINGMASTERY] Creating an AI agent for tasks like analyzing and processing documents autonomously used to require hours of near-endless configuration, code orchestration, and deployment battles.",
+            "url": "https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,9 +77,39 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "AI goldrush collides with voter backlash in Georgia",
+            "description": "[POLITICO] Multibillion-dollar artificial intelligence hubs are beginning to scramble politics in the crucial swing state as voters worry about costs and local control.",
+            "url": "https://www.politico.com/news/2026/04/26/ai-data-centers-georgia-midterms-00888668"
+        },
+        {
+            "title": "AI to accelerate India's tech industry, not a threat; tech to continue hiring people: Nasscom Chair",
+            "description": "[THE ECONOMIC TIMES] Srikanth Velamakanni has taken over the top leadership charge of NASSCOM (National Association of Software and Service Companies) at a time when the Indian IT industry is facing twin challenges:...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/ai-to-accelerate-indias-tech-industry-not-a-threat-tech-to-continue-hiring-people-nasscom-chair/articleshow/130531908.cms"
+        },
+        {
+            "title": "Colorado lawmakers weigh youth chatbot protections, age attestation",
+            "description": "[THE DENVER POST] Colorado lawmakers are grappling with regulation of artificial intelligence-powered chatbots and other protections for youth online as they also weigh privacy and freedom concerns.",
+            "url": "https://www.denverpost.com/2026/04/26/chatbot-regulations-ai-suicide-age-verification-colorado/"
+        },
+        {
+            "title": "Colorado lawmakers weigh youth chatbot protections, age attestation",
+            "description": "[BOULDER DAILY CAMERA] Colorado lawmakers are grappling with regulation of artificial intelligence-powered chatbots and other protections for youth online as they also weigh privacy and freedom concerns.",
+            "url": "https://www.dailycamera.com/2026/04/26/chatbot-regulations-ai-suicide-age-verification-colorado/"
+        },
+        {
+            "title": "Air India embraces AI to enhance ops efficiency, increase revenues, reduce costs",
+            "description": "[THE ECONOMIC TIMES] Air India is embracing artificial intelligence to transform its operations. The airline is using AI to cut costs, improve customer service, and boost revenue. Generative AI is helping validate pilot...",
+            "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-embraces-ai-to-enhance-ops-efficiency-increase-revenues-reduce-costs/articleshow/130531028.cms"
+        },
+        {
+            "title": "Air India embraces AI to enhance ops efficiency, increase revenues, reduce costs",
+            "description": "[THE ECONOMIC TIMES] Air India is embracing artificial intelligence to transform its operations. The airline is using AI to cut costs, improve customer service, and boost revenue. Generative AI is helping validate pilot...",
+            "url": "https://economictimes.indiatimes.com/budget-2023/sectors-in-focus/aviation/air-india-embraces-ai-to-enhance-ops-efficiency-increase-revenues-reduce-costs/articleshow/130531028.cms"
+        },
+        {
+            "title": "Air India's Technological Ascent: Harnessing AI for Transformation",
+            "description": "[DEVDISCOURSE] Air India, led by Tata Group, is revolutionizing its operations by integrating artificial intelligence to boost efficiency, customer service, and revenue while cutting costs. The transformation plan...",
+            "url": "https://www.devdiscourse.com/article/technology/3887481-air-indias-technological-ascent-harnessing-ai-for-transformation"
         },
         {
             "title": "UAE's Billion Dirham Leap Towards Industrial Resilience",
@@ -90,41 +125,6 @@
             "title": "AI Framework Revolutionizes Retail Sustainability",
             "description": "[DEVDISCOURSE] Researchers from GIM and Graphic Era have developed an innovative AI framework assisting retail businesses in adapting to dynamic consumer sustainability preferences. By leveraging advanced machine...",
             "url": "https://www.devdiscourse.com/article/business/3887391-ai-framework-revolutionizes-retail-sustainability"
-        },
-        {
-            "title": "US senator Bernie Sanders warns AI can wipe out humanity",
-            "description": "[THE NEWS INTERNATIONAL] Geoffrey Hinton, the Nobel Prize-winning scientist widely called the godfather of AI, believes there is a 10 to 20% chance artificial intelligence wipes out humanity. Bernie Sanders wants to know...",
-            "url": "https://www.thenews.com.pk/latest/1400406-bernie-sanders-warns-ai-can-wipe-out-humanity"
-        },
-        {
-            "title": "AI Replicas Of The Dead Are Reshaping How People Deal With Loss",
-            "description": "[NDTV.COM] As artificial intelligence and voice technology improve, these tools are becoming more realistic and readily available.",
-            "url": "https://www.ndtv.com/feature/ai-replicas-of-the-dead-are-reshaping-how-people-deal-with-loss-11410632"
-        },
-        {
-            "title": "Russia weaponising AI deepfakes in grey zone warfare to shatter Western support for Ukraine, report warns",
-            "description": "[LBC] The Kremlin has launched a sophisticated \"asymmetric assault\" on Western democracy, deploying advanced artificial intelligence and deepfake technology to flood the information space with realistic...",
-            "url": "https://www.lbc.co.uk/article/russia-weaponising-ai-deepfakes-in-grey-zone-warfare-to-shatter-western-support-5HjdYHM_2/"
-        },
-        {
-            "title": "DeepSeek unveils new, low-cost V4 AI models: Here\u2019s what you need to know",
-            "description": "[THE INDIAN EXPRESS] More than a year after taking the AI world by storm, Chinese AI startup DeepSeek has unveiled two versions of its all-new large language model (LLM) called DeepSeek V4 Flash and DeepSeek V4 Pro. Both...",
-            "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/deepseek-new-low-cost-v4-ai-models-what-to-know-10656402/"
-        },
-        {
-            "title": "DeepSeek unveils new, low-cost V4 AI models: Here\u2019s what you need to know",
-            "description": "[THE INDIAN EXPRESS] DeepSeek\u2019s new LLM follows a long-awaited upgrade to last year\u2019s V3.2 and R1 reasoning model that rattled markets and hurtled the Chinese startup into the spotlight.",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/deepseek-new-low-cost-v4-ai-models-what-to-know-10656402/"
-        },
-        {
-            "title": "Google Earmarks $40 Billion for Anthropic Investment",
-            "description": "[MARKETSCREENER] Alphabet's Google will earmark up to $40 billion into artificial intelligence company Anthropic, according to an April 25 release. Under the investment, the technology giant will initially invest...",
-            "url": "https://www.marketscreener.com/news/google-earmarks-40-billion-for-anthropic-investment-ce7f59dcdb8ef126"
-        },
-        {
-            "title": "\u2018Artificial Intelligence boosts justice efficiency, but risks demand human vigilance\u2019: CJI Surya Kant outlines AI\u2019s role in Indian judiciary",
-            "description": "[THE FINANCIAL EXPRESS] Shifting focus to technology's transformative potential, CJI Surya Kant highlighted AI's practical applications in streamlining judicial processes. He noted its value in administrative tasks and...",
-            "url": "https://www.financialexpress.com/india-news/artificial-intelligence-boosts-justice-efficiency-but-risks-demand-human-vigilance-cji-surya-kant-outlines-ais-role-in-indian-judiciary/4218585/"
         }
     ]
 }
