@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-27 20:58:20 UTC",
+    "updated": "2026-04-27 22:48:31 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -15,11 +15,6 @@
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
-        },
-        {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -47,14 +42,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,14 +57,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
-        },
-        {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Record Highs: AI Enthusiasm Fuels Emerging Markets Amid Global Uncertainty",
-            "description": "[DEVDISCOURSE] Emerging market stocks soared to record highs on Monday, driven by Asian markets' renewed interest in artificial intelligence. This surge coincided with halted U.S.-Iran negotiations, resulting in...",
-            "url": "https://www.devdiscourse.com/article/headlines/3888269-record-highs-ai-enthusiasm-fuels-emerging-markets-amid-global-uncertainty"
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
-            "title": "Google to build AI campus in South Korea, presidential office says",
-            "description": "[MARKETSCREENER] South Korea and Google have agreed to build an artificial-intelligence campus in Seoul to develop cooperation between the tech firm and local engineers and startups, Kim Yong-beom, a presidential...",
-            "url": "https://www.marketscreener.com/news/google-to-build-ai-campus-in-south-korea-presidential-office-says-ce7f59dcdf8bf227"
+            "title": "Building Artificial Intelligence Tools That Speak Nuclear",
+            "description": "[FORBES] AI tools are starting to streamline and accelerate how nuclear plants are designed, approved, and built.",
+            "url": "https://www.forbes.com/sites/annabroughel/2026/04/27/building-ai-that-speaks-nuclear/"
         },
         {
-            "title": "ET Most Innovative AI Product Awards 2026: Honouring the innovations powering India's next economy",
-            "description": "[THE ECONOMIC TIMES] The ET Most Innovative AI Product Awards 2026 brings together 11 distinct categories that reflect where artificial intelligence is delivering real, measurable impact across Indias economy. Spanning...",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/et-most-innovative-ai-product-awards-2026-honouring-the-innovations-powering-indias-next-economy/articleshow/130548563.cms"
+            "title": "Every Time You Click On Claude, A Caribbean Island Earns Millions Of Dollars",
+            "description": "[NDTV.COM] Anguilla is a Caribbean island that has .ai as its country-code domain, through which it has been earning millions of dollars every year since the boom of artificial intelligence",
+            "url": "https://www.ndtv.com/lifestyle/every-time-you-click-on-claude-a-caribbean-island-earns-millions-of-dollars-11415161"
         },
         {
-            "title": "S.Korea, Taiwan stocks end at record closing highs, powered by chip gains",
-            "description": "[MARKETSCREENER] Chip stocks led Taiwan and South Korean equities to record high closing levels on Monday with strong earnings in the United States powering artificial intelligence bets, as investors briefly looked...",
-            "url": "https://www.marketscreener.com/news/s-korea-taiwan-stocks-end-at-record-closing-highs-powered-by-chip-gains-ce7f59dcdf88ff26"
+            "title": "India sees 60% jump in AI jobs as hiring expands beyond major cities",
+            "description": "[FIRSTPOST] India\u2019s appetite for AI talent is growing at a record pace, with job postings rising sharply and opportunities spreading beyond traditional tech hubs. From large enterprises to smaller firms, demand...",
+            "url": "https://www.firstpost.com/tech/india-sees-60-jump-in-ai-jobs-as-hiring-expands-beyond-major-cities-14004904.html"
         },
         {
-            "title": "Seoul stocks close at a new record high amid AI",
-            "description": "[UPI NEWS] Seoul stocks shattered a new record Monday, to close at a fresh high, boosted by an artificial intelligence (AI)-led chip and power equipment rally.",
-            "url": "https://www.upi.com/Top_News/World-News/2026/04/27/korea-KOSPI-Korea-Stock-Index-record-high-6615-AI-chip-rally/3151777276675/"
+            "title": "China blocks Meta from acquiring AI startup Manus",
+            "description": "[WTOP] HONG KONG (AP) \u2014 China on Monday blocked Meta\u2019s acquisition of the artificial intelligence startup Manus, which has Chinese roots but is Singapore-based.",
+            "url": "https://wtop.com/world/2026/04/china-blocks-meta-from-acquiring-ai-startup-manus/"
         },
         {
-            "title": "DeepSeek's new AI model does not wow markets in fast-changing industry",
-            "description": "[MARKETSCREENER] Market reaction to DeepSeek's preview of its long-awaited next-generation artificial intelligence model has so far been subdued compared with the Chinese startup's outsized global breakthrough last...",
-            "url": "https://www.marketscreener.com/news/deepseek-s-new-ai-model-does-not-wow-markets-in-fast-changing-industry-ce7f59dcdc81f524"
+            "title": "China Blocks Meta From Acquiring AI Startup Manus",
+            "description": "[U.S. NEWS & WORLD REPORT] HONG KONG (AP) \u2014 China on Monday blocked Meta\u2019s acquisition of the artificial intelligence startup Manus, which has Chinese roots but is Singapore-based.",
+            "url": "https://www.usnews.com/news/business/articles/2026-04-27/china-blocks-meta-from-acquiring-ai-startup-manus"
         },
         {
-            "title": "Oil Rises, Asian Markets Divided as AI Boom Overshadows Middle East Tensions -- Update",
-            "description": "[MARKETSCREENER] By Ronnie Harui and Kimberley Kao Oil rose while Asian stock markets were mixed as investors navigated the optimism surrounding the artificial intelligence boom against the backdrop of rising...",
-            "url": "https://www.marketscreener.com/news/oil-rises-asian-markets-divided-as-ai-boom-overshadows-middle-east-tensions-update-ce7f59dcdc8ef625"
+            "title": "Elon Musk's trial against Sam Altman to reveal the ongoing power struggle for OpenAI",
+            "description": "[MARKETSCREENER] The bitter legal fight between Elon Musk and the leading artificial intelligence firm, OpenAI, led by Sam Altman, may come down to a few pages in one executive's personal diary. This...",
+            "url": "https://www.marketscreener.com/news/elon-musk-s-trial-against-sam-altman-to-reveal-the-ongoing-power-struggle-for-openai-ce7f59dcde89f626"
         },
         {
-            "title": "Elon Musk and OpenAI CEO Sam Altman head to court in high-stakes showdown over AI",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Technology tycoons Elon Musk and Sam Altman are poised to face off in a high-stakes trial revolving around the alleged betrayal, deceit and unbridled ambition that blurred the bickering billionaires\u2019...",
-            "url": "https://www.ajc.com/news/2026/04/elon-musk-and-openai-ceo-sam-altman-head-to-court-in-high-stakes-showdown-over-ai/"
+            "title": "Giving a local LLM full VM access showed me why we need better AI guardrails",
+            "description": "[XDA DEVELOPERS] The prompt injection is coming from inside the house",
+            "url": "https://www.xda-developers.com/giving-a-local-llm-full-vm-access-we-need-better-ai-guardrails/"
         },
         {
-            "title": "Higher education partnership with Turkiye elevated with focus on future tech, says Zambry",
-            "description": "[THE STAR] KUALA LUMPUR: The strategic higher education partnership between Malaysia and T\u00fcrkiye has entered a deeper phase, now focusing on critical future technologies, including artificial intelligence (AI).",
-            "url": "https://www.thestar.com.my/news/nation/2026/04/27/higher-education-partnership-with-turkiye-elevated-with-focus-on-future-tech-says-zambry"
+            "title": "Meta Seeks to Power Data Centers With Energy Beamed From Space",
+            "description": "[BLOOMBERG] Meta Platforms Inc. is looking to power artificial intelligence data centers with solar energy collected in space, taking a novel approach to meeting its insatiable demand for electricity.",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-27/meta-seeks-to-power-data-centers-with-energy-beamed-from-space"
         },
         {
-            "title": "IT stocks wipe off \u20b9767,000 crore m-cap YTD: Should you be greedy or fearful amid the ongoing selloff?",
-            "description": "[LIVEMINT] Hurt by weak demand, tariff impact and H1-B visa fee hike in 2025, the headwinds for IT sector have only multiplied this year, with the growing shift to artificial intelligence (AI) emerging as a key...",
-            "url": "https://www.livemint.com/market/stock-market-news/it-stocks-wipe-off-rs-767-000-crore-m-cap-ytd-should-you-be-greedy-or-fearful-amid-the-ongoing-selloff-11777272216594.html"
+            "title": "Google to build first-of-its-kind AI campus in South Korea",
+            "description": "[THE NEWS INTERNATIONAL] Google and South Korea have entered a partnership, agreeing to build artificial intelligence in Seoul to boost tech innovation and the knowledge economy. On Monday, Google DeepMind CEO Demis...",
+            "url": "https://www.thenews.com.pk/latest/1400520-google-to-build-first-of-its-kind-ai-campus-in-south-korea"
+        },
+        {
+            "title": "Archaeologists at Pompeii use artificial intelligence to reveal the face of one of the victims",
+            "description": "[BREITBART NEWS NETWORK] Archaeologists at Pompeii have used AI to digitally reconstruct the face of a victim from the AD 79 eruption of Mount Vesuvius Archaeologists at Pompeii",
+            "url": "https://www.breitbart.com/news/archaeologists-at-pompeii-use-artificial-intelligence-to-reveal-the-face-of-one-of-the-victims/"
         }
     ]
 }
