@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-27 15:43:45 UTC",
+    "updated": "2026-04-27 17:18:40 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -7,9 +7,9 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,6 +22,11 @@
             "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
+            "title": "Building AI Agents with Local Small Language Models",
+            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
@@ -32,11 +37,6 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
-        },
-        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -45,6 +45,11 @@
             "title": "RL without TD learning",
             "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
+        },
+        {
+            "title": "Text Summarization with Scikit-LLM",
+            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
         },
         {
             "title": "Getting Started with Zero-Shot Text Classification",
@@ -67,64 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Bluechip safety no more? Infosys knocked out of India's top 10 valuable companies list after losing Rs 2 lakh crore",
-            "description": "[THE ECONOMIC TIMES] Infosys, once a market leader, has lost significant value and exited India's top 10 companies. Investors are concerned about future growth and client spending. Artificial intelligence presents both...",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/bluechip-safety-no-more-infosys-knocked-out-of-indias-top-10-valuable-companies-list-after-losing-rs-2-lakh-crore/articleshow/130543225.cms"
+            "title": "Chip rally drives South Korea, Taiwan stocks to record highs",
+            "description": "[MARKETSCREENER] Equities in South Korea and Taiwan hit record highs on Monday and were headed for their best month in more than three decades as renewed excitement about artificial intelligence eclipsed worries...",
+            "url": "https://www.marketscreener.com/news/chip-rally-drives-south-korea-taiwan-stocks-to-record-highs-ce7f59dcdd8dfe22"
         },
         {
-            "title": "San Francisco, AI capital of the world, is an economic laggard",
-            "description": "[HINDUSTAN TIMES] Artificial intelligence is booming. Its heartland is not | World News",
-            "url": "https://www.hindustantimes.com/world-news/san-francisco-ai-capital-of-the-world-is-an-economic-laggard-101777261033249.html"
+            "title": "Axis Bank Layoffs: Headcount Falls By 3,000 As Tech Push Drives Productivity Gains",
+            "description": "[NDTV PROFIT] While automation has helped streamline operations, the bank clarified that artificial intelligence has not yet played a major role in reducing manpower requirements.",
+            "url": "https://www.ndtvprofit.com/business/axis-bank-layoffs-headcount-falls-by-3-000-as-tech-push-drives-productivity-gains-11413861"
         },
         {
-            "title": "BYD, Geely see more EV demand as oil prices climb from Iran War",
-            "description": "[THE HINDU BUSINESS LINE] Cambricon Technologies Corp. and Foxconn Industrial Internet Co. will also continue to offer a glimpse of how China\u2019s hardware players are responding to the artificial intelligence boom",
-            "url": "https://www.thehindubusinessline.com/companies/byd-geely-see-more-ev-demand-as-oil-prices-climb-from-iran-war/article70910683.ece"
+            "title": "Tech workers under stress as pressure to roll out artificial intelligence projects mounts",
+            "description": "[THE IRISH TIMES] Survey of information technology personnel finds 60% experiencing mental health issues",
+            "url": "https://www.irishtimes.com/business/2026/04/27/tech-workers-under-stress-as-pressure-to-roll-out-artificial-intelligence-projects-mounts/"
         },
         {
-            "title": "AI drives global IT spending to $6.31 trillion, but Indian IT firms face a margin squeeze, warns Gartner",
-            "description": "[THE ECONOMIC TIMES] Global IT spending is surging due to Artificial Intelligence. India's IT sector sees a significant opportunity in managed services as companies shift focus to AI. However, traditional IT services...",
-            "url": "https://economictimes.indiatimes.com/markets/expert-view/ai-drives-global-it-spending-to-6-31-trillion-but-indian-it-firms-face-a-margin-squeeze-warns-gartner/articleshow/130494986.cms"
+            "title": "Asian Chip Stocks Rise as Markets Look Past Geopolitics",
+            "description": "[MARKETSCREENER] By Sherry Qin Asian chip stocks were broadly higher as investors began to look past geopolitical tensions and refocus on continued surge in demand related to artificial-intelligence. Regional...",
+            "url": "https://www.marketscreener.com/news/asian-chip-stocks-rise-as-markets-look-past-geopolitics-ce7f59dcdd8bff23"
         },
         {
-            "title": "[ANN Exclusive] Of bytes and bridges: AI in the newsroom takes centre stage at WJC 2026",
-            "description": "[THE STAR] The most pressing concern is no longer whether artificial intelligence (AI) belongs in journalism, but how to ensure the limitless bytes of AI output do not drown out the human pulse of the press.",
-            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/27/ann-exclusive-of-bytes-and-bridges-ai-in-the-newsroom-takes-centre-stage-at-wjc-2026"
+            "title": "Markets getting used to Iran conflict, earnings still strong: Ed Yardeni",
+            "description": "[CNBC TV18] Ed Yardeni, President of Yardeni Research explains why markets are adapting to geopolitical tensions, backed by strong earnings and the global artificial intelligence (AI) boom, while maintaining a...",
+            "url": "https://www.cnbctv18.com/market/markets-getting-used-to-war-risk-earnings-still-strong-ed-yardeni-19893729.htm"
         },
         {
-            "title": "ET Awards: \u2018Invest in the idea of India, by India, for India,\u2019 say top CEOs amid West Asia conflict",
-            "description": "[THE ECONOMIC TIMES] Indian business leaders view the West Asia conflict as a catalyst for long-delayed structural reforms, urging accelerated efforts in energy security and reduced external vulnerabilities. They...",
-            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/et-awards-invest-in-the-idea-of-india-by-india-for-india-say-top-ceos-amid-west-asia-conflict/articleshow/130542696.cms"
+            "title": "Global Market: Investors face triple test this week from geopolitics, rate outlook and tech earnings",
+            "description": "[THE ECONOMIC TIMES] Global markets brace for a crucial week. Geopolitical tensions involving Iran and the Strait of Hormuz are a major focus. Shifting interest rate expectations from the US Federal Reserve and European...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-investors-face-triple-test-this-week-from-geopolitics-rate-outlook-and-tech-earnings/articleshow/130543744.cms"
         },
         {
-            "title": "Chips carry stocks higher; Oil jumps on stalled peace talks",
-            "description": "[MARKETSCREENER] Oil climbed on Monday as stalled U.S.-Iran peace talks prolonged the disruption of Middle East energy exports, while renewed excitement about artificial intelligence spending drove up chip stocks...",
-            "url": "https://www.marketscreener.com/news/chips-carry-stocks-higher-oil-jumps-on-stalled-peace-talks-ce7f59dcda80ff26"
+            "title": "DeepSeek Slashes Fees for New AI Model in Chinese Price War",
+            "description": "[BLOOMBERG] DeepSeek is aggressively pitching low-priced-plans for its just-released flagship model, intensifying competition across a Chinese artificial intelligence industry trying to take on Silicon Valley\u2019s...",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-27/deepseek-slashes-fees-for-new-ai-model-in-chinese-price-war"
         },
         {
-            "title": "Emerging Stocks Rise to Record High on AI, Iran's Hormuz Offer",
-            "description": "[FINANCIAL POST] Emerging-market equities rose to a record high, buoyed by optimism over the artificial intelligence trade and a report that Iran offered a new proposal to reopen th\u2026",
-            "url": "https://financialpost.com/pmn/business-pmn/emerging-stocks-rise-to-record-high-on-ai-irans-hormuz-offer"
+            "title": "College students wary of the job market are changing course in search of 'AI-proof' majors",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] The rise of artificial intelligence is prompting college students to second-guess their career paths. Students say that picking a major that\u2019s AI-proof feels like shooting at a moving target, as they...",
+            "url": "https://www.ajc.com/news/2026/04/college-students-wary-of-the-job-market-are-changing-course-in-search-of-ai-proof-majors/"
         },
         {
-            "title": "Stage set for Elon Musk's court battle with OpenAI",
-            "description": "[BANGKOK POST] OAKLAND (UNITED STATES) - Elon Musk's lawsuit accusing high-profile artificial intelligence company OpenAI of betraying its non-profit mission heads for trial on Monday with the selection of jurors.",
-            "url": "https://www.bangkokpost.com/world/3244735/stage-set-for-elon-musks-court-battle-with-openai"
+            "title": "AI anxiety upends college plans as students scramble for 'AI-proof' majors",
+            "description": "[THE ASSOCIATED PRESS] The rise of artificial intelligence is prompting college students to second-guess their career paths.",
+            "url": "https://apnews.com/article/ai-anxiety-college-major-4af9a0a8caae1d302acb5aadcf0c68ba"
         },
         {
-            "title": "After OpenAI and Anthropic, Jeff Bezos\u2019s AI lab 'goes to' London",
-            "description": "[TIMES OF INDIA] Tech News News: Jeff Bezos\u2019 artificial intelligence (AI) lab Project Prometheus is reportedly in talks to lease office space in London\u2019s King\u2019s Cross area. This signa.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-openai-and-anthropic-jeff-bezoss-ai-lab-goes-to-london/articleshow/130539027.cms"
+            "title": "College students wary of the job market are changing course in search of 'AI-proof' majors",
+            "description": "[WDIV CLICKONDETROIT] The rise of artificial intelligence is prompting college students to second-guess their career paths.",
+            "url": "https://www.clickondetroit.com/business/2026/04/27/college-students-wary-of-the-job-market-are-changing-course-in-search-of-ai-proof-majors/"
         }
     ]
 }
