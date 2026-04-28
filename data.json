@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-28 06:26:26 UTC",
+    "updated": "2026-04-28 10:10:03 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -7,24 +7,14 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
-        },
-        {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
-        },
-        {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -37,6 +27,11 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+        },
+        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -47,24 +42,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
-        },
-        {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
             "title": "Towards developing future-ready skills with generative AI",
             "description": "[RESEARCH] Education Innovation",
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "AI used to generate image of Pompeii victim",
-            "description": "[CP24 TORONTO] Archeologists in Italy\u2019s Pompeii have for the first time used artificial intelligence to reconstruct the appearance of one of the victims of the volcanic eruption that destroyed the ancient Roman...",
-            "url": "https://www.cp24.com/news/world/2026/04/27/archeologists-use-ai-to-generate-image-of-pompeii-victim/"
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
-            "title": "EU Tells Google to Open Android to AI Rivals -- 2nd Update",
-            "description": "[MARKETSCREENER] By Edith Hancock The European Union told Alphabet's Google what it should do to open up its Android operating system to artificial-intelligence services that compete with its own, the latest move...",
-            "url": "https://www.marketscreener.com/news/eu-tells-google-to-open-android-to-ai-rivals-2nd-update-ce7f59ddd880ff24"
+            "title": "Box to launch Box Automate service to expedite enterprise business processes, CEO says",
+            "description": "[MARKETSCREENER] Box is launching a service built for artificial intelligence to expedite tedious work like processing invoices and pulling key data from corporate documents, CEO Aaron Levie told Reuters on Monday....",
+            "url": "https://www.marketscreener.com/news/box-to-launch-box-automate-service-to-expedite-enterprise-business-processes-ceo-says-ce7f59ddda80f527"
         },
         {
-            "title": "600 Google staff urge CEO Sundar Pichai to reject classified military AI contract",
-            "description": "[THE ECONOMIC TIMES] More than 600 Google employees demanded Monday that the company reject a proposed Pentagon deal that would allow its artificial intelligence technology to be deployed in classified military...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/600-google-staff-urge-ceo-sundar-pichai-to-reject-classified-military-ai-contract/articleshow/130561658.cms"
+            "title": "Meta seeks to power data centers with energy beamed from space",
+            "description": "[LOS ANGELES TIMES] Meta Platforms Inc. is looking to power artificial intelligence data centers with solar energy collected in space, taking a novel approach to meeting its insatiable demand for electricity.",
+            "url": "https://www.latimes.com/business/story/2026-04-27/meta-seeks-to-power-data-centers-with-energy-beamed-from-space"
         },
         {
-            "title": "Prosecutors say suspect in missing students' killings asked ChatGPT about disposing of a body",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Prosecutors say the suspect in the killings of two University of South Florida doctoral students from Bangladesh had asked ChatGPT days before the pair went missing what would happen if a human body...",
-            "url": "https://www.ajc.com/news/2026/04/prosecutors-say-suspect-in-missing-students-killings-asked-chatgpt-about-disposing-of-a-body/"
+            "title": "Cadence lifts annual revenue forecast on sustained AI chip-design boom",
+            "description": "[MARKETSCREENER] April 27 - Cadence Design Systems raised its full-year revenue forecast on Monday, betting that sustained, heavy investment in specialized artificial intelligence processors will continue to drive...",
+            "url": "https://www.marketscreener.com/news/cadence-lifts-annual-revenue-forecast-on-sustained-ai-chip-design-boom-ce7f59ddda8bf32c"
         },
         {
-            "title": "Archaeologists at Pompeii use AI to reconstruct the face of one of the victims of volcano\u2019s eruption",
-            "description": "[WTOP] ROME (AP) \u2014 Archaeologists and researchers at the ancient Roman site of Pompeii have used artificial intelligence for the first time to digitally reconstruct\u2026",
-            "url": "https://wtop.com/world/2026/04/archaeologists-at-pompeii-use-artificial-intelligence-to-reveal-the-face-of-one-of-the-victims/"
+            "title": "College students changing course in search of 'AI-proof' majors",
+            "description": "[THE PHILADELPHIA INQUIRER] The rise of artificial intelligence is prompting some to second-guess their career paths.",
+            "url": "https://www.inquirer.com/news/nation-world/ai-college-students-change-majors-career-skills-artificial-intelligence-20260427.html"
         },
         {
-            "title": "Manitoba social media ban could begin in schools",
-            "description": "[CP24 TORONTO] Manitoba\u2019s education minister says the government may first turn to schools to ban children from using social media accounts and artificial intelligence chatbots.",
-            "url": "https://www.cp24.com/news/canada/2026/04/27/manitoba-education-minister-says-social-media-ban-could-start-in-schools/"
+            "title": "Archaeologists at Pompeii use AI to reconstruct the face of one of the victims of volcano's eruption",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Archaeologists at Pompeii have used artificial intelligence to digitally reconstruct the face of one of the victims of the AD 79 eruption of Mount Vesuvius. The portrait shows an older man who died...",
+            "url": "https://www.ajc.com/news/2026/04/archaeologists-at-pompeii-use-ai-to-reconstruct-the-face-of-one-of-the-victims-of-volcanos-eruption/"
         },
         {
-            "title": "U-BX Technology Ltd. Announces Pricing of $4.55 Million Registered Direct Offering",
-            "description": "[THE MANILA TIMES] Beijing, China, April 27, 2026 (GLOBE NEWSWIRE) -- U-BX Technology Ltd. (NASDAQ: UBXG) (the 'Company'), a leading company providing value-added services using artificial intelligence-driven...",
-            "url": "https://www.manilatimes.net/2026/04/28/tmt-newswire/globenewswire/u-bx-technology-ltd-announces-pricing-of-455-million-registered-direct-offering/2329619"
+            "title": "Find 28 words celebrating mothers",
+            "description": "[PORTLAND PRESS HERALD] This puzzle was created using Artificial Intelligence technology.",
+            "url": "https://www.pressherald.com/2026/04/27/find-28-words-celebrating-mothers/"
         },
         {
-            "title": "Cathie Wood Funds Make A Big Bet On This New Nuclear Stock",
-            "description": "[INVESTOR'S BUSINESS DAILY] Cathie Wood's ARK funds make a big bet on the newest nuclear stock, X-Energy, amid energy demand from artificial intelligence data centers.",
-            "url": "https://www.investors.com/news/cathie-wood-nuclear-stock-ipo-x-energy-ark-funds/"
+            "title": "Ex-Meta AI Exec Warns 'Every Job Is Now An AI Job' - Here's What Gen Z Must Do To Get Hired",
+            "description": "[INTERNATIONAL BUSINESS TIMES] Artificial intelligence is transforming the workforce, with AI fluency becoming essential. Generation Z faces challenges entering the job market, while AI tools are reshaping hiring practices and job",
+            "url": "https://www.ibtimes.com/ex-meta-ai-exec-warns-every-job-now-ai-job-heres-what-gen-z-must-do-get-hired-3802052"
         },
         {
-            "title": "Delhi heatwave temperature April Power Demand Tops 7,000 MW For 1st Time",
-            "description": "[NDTV.COM] BSES is using AI and machine learning-based forecasting, along with IMD-POSCO weather inputs, to predict demand and manage supply.",
-            "url": "https://www.ndtv.com/india-news/delhi-heatwave-temperature-april-power-demand-tops-7-000-mw-for-1st-time-11417326"
+            "title": "NVIDIA's Rubin Lands Inside Google's Virtual Machine, Stretching Multi Site Clusters to Nearly 1 Million GPUs",
+            "description": "[WCCFTECH] Google and NVIDIA have teamed up to provide users with access to as much as one million NVIDIA GPUs to power up the freshly launched A5X instances. The announcement is part of the pair's latest...",
+            "url": "https://wccftech.com/nvidias-rubin-lands-inside-googles-virtual-machine-stretching-multi-site-clusters-to-nearly-1-million-gpus/"
         },
         {
-            "title": "EU Tells Google to Open Android to AI Rivals -- Update",
-            "description": "[MARKETSCREENER] By Edith Hancock The European Union told Alphabet's Google what it should do to open up its Android operating system to artificial-intelligence services that compete with its own, the latest move...",
-            "url": "https://www.marketscreener.com/news/eu-tells-google-to-open-android-to-ai-rivals-update-ce7f59ddd88ff123"
+            "title": "Canaries in AI coalmine still chirping, jobs data shows",
+            "description": "[PERTHNOW] A forum bringing together government, unions and business groups will discuss how to ensure workers and employers both benefit from artificial intelligence.",
+            "url": "https://www.perthnow.com.au/news/business/canaries-in-ai-coalmine-still-chirping-jobs-data-shows-c-22200347"
+        },
+        {
+            "title": "Start-up founder quits as CEO to tackle AI\u2019s existential threat",
+            "description": "[AUSTRALIAN FINANCIAL REVIEW] Josh Foreman founded the $350 million company a decade ago and says he now wants to focus on building its new products with artificial intelligence.",
+            "url": "https://www.afr.com/technology/start-up-founder-quits-as-ceo-to-tackle-ai-s-existential-threat-20260424-p5zqvx"
         }
     ]
 }
