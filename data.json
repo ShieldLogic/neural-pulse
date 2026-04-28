@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-28 13:55:33 UTC",
+    "updated": "2026-04-28 16:06:08 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -7,19 +7,14 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
-        },
-        {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -47,14 +42,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -62,19 +57,64 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
+            "title": "Tuesday Morning News Roundup",
+            "description": "[SFGATE] Monday marked the first official day of the trial of Elon Musk's lawsuit against Sam Altman and the artificial intelligence developer OpenAI, the company responsible for the creation of...",
+            "url": "https://www.sfgate.com/news/bayarea/article/tuesday-morning-news-roundup-22229740.php"
+        },
+        {
+            "title": "How South Korea Uses A.I. to Check on Its Elderly",
+            "description": "[THE NEW YORK TIMES] In the world\u2019s fastest aging society, artificial intelligence is being used to make care calls to older adults who live alone and to fight dementia.",
+            "url": "https://www.nytimes.com/2026/04/28/world/asia/korea-ai-seniors-dementia.html"
+        },
+        {
+            "title": "Up 3000% over a year, what's moving this AI company's shares now?",
+            "description": "[THE MOTLEY FOOL AUSTRALIA] Shares in artificial intelligence company FortifAI Ltd (ASX: FTI) have surged to a new 12-month high north of $1 per share.",
+            "url": "https://www.fool.com.au/2026/04/28/up-3000-over-a-year-whats-moving-this-ai-companys-shares-now/"
+        },
+        {
+            "title": "Cadence lifts annual revenue forecast on sustained AI chip",
+            "description": "[THE ECONOMIC TIMES] Cadence Design Systems anticipates strong revenue growth. The company expects higher earnings for fiscal 2026. This optimism stems from increased investment in specialized artificial intelligence...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cadence-lifts-annual-revenue-forecast-on-sustained-ai-chip-design-boom/articleshow/130567775.cms"
+        },
+        {
+            "title": "Bernie Sanders says: Time to listen to Verizon CEO's warning NOW, we are not prepared to ...",
+            "description": "[TIMES OF INDIA] Tech News News: Senator Bernie Sanders has now raised an alarm on the risks posed by artificial intelligence, amplifying a stark warning from Verizon CEO Dan Schulman.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/bernie-sanders-says-time-to-listen-to-verizon-ceos-warning-now-we-are-not-prepared-to-/articleshow/130567591.cms"
+        },
+        {
+            "title": "Korea Passes UK to Become World's Eighth-Largest Stock Market",
+            "description": "[NDTV PROFIT] The surge in Korean stocks underscores the global pivot toward companies linked to artificial intelligence, which has driven gains in the Asian nation's two biggest listed companies: Samsung...",
+            "url": "https://www.ndtvprofit.com/world/korea-passes-uk-to-become-worlds-eighth-largest-stock-market-11418256"
+        },
+        {
+            "title": "More than 600 Google workers write to Sundar Pichai to refuse Pentagon deal for classified AI work",
+            "description": "[FIRSTPOST] Hundreds of Google employees have urged CEO Sundar Pichai to reject Pentagon deals involving classified AI work, citing transparency and ethical concerns. The move follows Anthropic\u2019s fallout with...",
+            "url": "https://www.firstpost.com/tech/more-than-600-google-workers-write-to-sundar-pichai-to-refuse-pentagon-deal-for-classified-ai-work-14005070.html"
+        },
+        {
+            "title": "Opening remarks Tuesday in Elon Musk versus OpenAI trial",
+            "description": "[THE ECONOMIC TIMES] A courtroom showdown begins Tuesday between billionaire Elon Musk and OpenAI. Musk alleges the artificial intelligence company betrayed its non-profit mission. OpenAI counters that Musk sought...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/opening-remarks-tuesday-in-elon-musk-versus-openai-trial/articleshow/130567408.cms"
         },
         {
             "title": "Over 43,000 scam posts removed in Malaysia in first quarter",
@@ -85,46 +125,6 @@
             "title": "In warns MSMEs on new AI risks",
             "description": "[TIMES OF INDIA] India Business News: New Delhi: India's cybersecurity agency, the Indian Computer Emergency Response Team (CERT-In) has warned that advances in artificial intelligence are.",
             "url": "https://timesofindia.indiatimes.com/business/india-business/cert-in-warns-msmes-on-new-ai-risks/articleshow/130567065.cms"
-        },
-        {
-            "title": "Taylor Swift applies to trademark her voice and likeness in bid to prevent AI deepfakes",
-            "description": "[LBC] Taylor Swift has moved to trademark her voice and likeness in an apparent move to protect her from artificial intelligence (AI) deepfakes.",
-            "url": "https://www.lbc.co.uk/article/taylor-swift-ai-deepfake-trademark-voice-face-5HjdYM7_2/"
-        },
-        {
-            "title": "Korea Passes UK to Become World\u2019s Eighth-Largest Stock Market",
-            "description": "[LIVEMINT] South Korea has leapfrogged the UK to become the world\u2019s eighth-biggest stock market, fueled by a high-octane rally in its artificial intelligence-linked technology champions.",
-            "url": "https://www.livemint.com/market/korea-passes-uk-to-become-world-s-eighth-largest-stock-market-11777339085991.html"
-        },
-        {
-            "title": "Korea Passes UK to Become World\u2019s Eighth-Largest Stock Market",
-            "description": "[BLOOMBERG] South Korea has leapfrogged the UK to become the world\u2019s eighth-biggest stock market, fueled by a high-octane rally in its artificial intelligence-linked technology champions.",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-28/korea-passes-uk-to-become-world-s-eighth-largest-stock-market"
-        },
-        {
-            "title": "Box to launch Box Automate to speed up customers' business with AI, CEO says",
-            "description": "[THE STAR] NEW YORK/SAN FRANCISCO, \u2060April 27 (Reuters) - Box is launching a service built for artificial intelligence to expedite tedious work, like processing millions of invoices and pulling data from...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/28/box-to-launch-box-automate-to-speed-up-customers039-business-with-ai-ceo-says"
-        },
-        {
-            "title": "Taylor Swift files to trademark her voice, likeness to ward off AI deepfakes",
-            "description": "[THE STAR] April 27 (Reuters) - Pop superstar \u2060Taylor Swift filed trademark applications for two audio clips and one image of herself in what \u2060a trademark attorney said is an attempt to protect her voice and...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/28/taylor-swift-files-to-trademark-her-voice-likeness-to-ward-off-ai-deepfakes"
-        },
-        {
-            "title": "Commentary: AI Hardware Demand Singlehandedly Drives Asian Export Growth",
-            "description": "[CAIXIN] Commentary: AI Hardware Demand Singlehandedly Drives Asian Export Growth - Asian manufacturing hubs are leaning entirely on the artificial intelligence boom to sustain massive surges in their 2026...",
-            "url": "https://www.caixinglobal.com/2026-04-28/commentary-ai-hardware-demand-singlehandedly-drives-asian-export-growth-102438749.html"
-        },
-        {
-            "title": "Cadence lifts annual revenue forecast on sustained AI chip-design boom",
-            "description": "[THE STAR] April 27 (Reuters) - Cadence Design \u2060Systems raised its full-year revenue forecast on Monday, betting \u2060that sustained, heavy investment in specialized artificial intelligence processors will...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/28/cadence-lifts-annual-revenue-forecast-on-sustained-ai-chip-design-boom"
-        },
-        {
-            "title": "In Depth: China\u2019s Auto Industry Bets Self",
-            "description": "[CAIXIN] In Depth: China\u2019s Auto Industry Bets Self-Driving Cars Will Lead to Embodied AI - Along with a series of autonomous driving announcements, industry executives are hyping the technology\u2019s potential...",
-            "url": "https://www.caixinglobal.com/2026-04-28/in-depth-chinas-auto-industry-bets-self-driving-cars-will-lead-to-embodied-ai-102438916.html"
         }
     ]
 }
