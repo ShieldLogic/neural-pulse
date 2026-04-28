@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-28 21:04:00 UTC",
+    "updated": "2026-04-28 22:53:42 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -7,14 +7,24 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+        },
+        {
+            "title": "Building AI Agents with Local Small Language Models",
+            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -27,11 +37,6 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
-        },
-        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -42,24 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Text Summarization with Scikit-LLM",
+            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
+        },
+        {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
             "title": "Towards developing future-ready skills with generative AI",
             "description": "[RESEARCH] Education Innovation",
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -72,59 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "The 13 jobs most and least at risk of being lost to AI",
+            "description": "[THE SUN] MORE than one million workers across the capital are staring down the barrel of an artificial intelligence revolution that could see their daily...",
+            "url": "https://www.thesun.co.uk/money/38951249/ai-jobs-risk-londoners-face-axe/"
         },
         {
-            "title": "China and Hong Kong stocks drop as markets struggle for direction",
-            "description": "[DEVDISCOURSE] China \u200band Hong Kong stocks fell on Tuesday \u200bas the artificial intelligence-led rally took a \u200cbreather, \u200bleaving investors scouring for fresh catalysts to sustain the upward momentum.",
-            "url": "https://www.devdiscourse.com/article/technology/3889155-china-and-hong-kong-stocks-drop-as-markets-struggle-for-direction"
+            "title": "\u201cAI for Teachers\u201d Upskills 160,000+ Thai Educators for a Digital Future",
+            "description": "[BANGKOK POST] The Ministry of Education, in collaboration with Microsoft Thailand and key educational partners including the Office of the Basic Education Commission (OBEC), the Office of Vocational Education...",
+            "url": "https://www.bangkokpost.com/thailand/pr/3245752/ai-for-teachers-upskills-160000-thai-educators-for-a-digital-future"
         },
         {
-            "title": "\u2018They\u2019re supposed to be handmade\u2019: zine creators fight to resist AI influence",
-            "description": "[THE GUARDIAN] Artists and writers argue scrappy nature of self-published booklets is incompatible with artificial intelligence",
-            "url": "https://www.theguardian.com/technology/2026/apr/28/zine-creators-fight-to-resist-ai-influence"
+            "title": "OpenAI trial pitting Elon Musk against Sam Altman kicks off",
+            "description": "[THE STRAITS TIMES] OAKLAND, California, April 28 - A trial that could help shape the future of artificial intelligence begins on Tuesday, with billionaires Elon Musk and Sam Altman at odds over the evolution of ChatGPT...",
+            "url": "https://www.straitstimes.com/world/openai-trial-pitting-elon-musk-against-sam-altman-kicks-off"
         },
         {
-            "title": "Face photos reveal faster biological aging tied to poorer cancer survival",
-            "description": "[MEDICAL XPRESS] The Mass General Brigham research team behind FaceAge, an artificial intelligence (AI) tool that can estimate a person's biological age from a single photo, is reporting in a new study that...",
-            "url": "https://medicalxpress.com/news/2026-04-photos-reveal-faster-biological-aging.html"
+            "title": "The Impact of Artificial Intelligence on Modern Diplomatic Practice",
+            "description": "[THE INDIAN EXPRESS] Singapore FM Vivian Balakrishnan\u2019s personal AI project signals a shift in statecraft.",
+            "url": "https://indianexpress.com/article/opinion/columns/raja-mohan-ai-national-security-diplomacy-10660236/"
         },
         {
-            "title": "How Decatur students are helping to lead us in the AI era",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Education is changing as artificial intelligence rapidly transforms how we approach everything.",
-            "url": "https://www.ajc.com/education/2026/04/how-decatur-students-are-helping-to-lead-us-in-the-ai-era/"
+            "title": "Pompeii victim who tried to flee molten ash with 'dish on his head' is revealed by AI after 2,000",
+            "description": "[THE SUN U.S EDITION] THE face of a Pompeii victim has been revealed by artificial intelligence after his 2,000-year-old body and a dish used to cover his head were...",
+            "url": "https://www.the-sun.com/tech/16283678/pompeii-victim-ai-reconstructs-molten-ash/"
         },
         {
-            "title": "USD 15 bn Google data centre to transform Vizag into AI hub: Union Min Vaishnaw",
-            "description": "[DEVDISCOURSE] Union Minister Ashwini Vaishnaw on Tuesday highlighted Indias growing digital strength and said Visakhapatnam will emerge as an artificial intelligence hub with the upcoming USD 15 billion Google AI...",
-            "url": "https://www.devdiscourse.com/article/technology/3889145-usd-15-bn-google-data-centre-to-transform-vizag-into-ai-hub-union-min-vaishnaw"
+            "title": "Pompeii victim who tried to flee molten ash with 'dish on his head' is revealed by AI after 2,000",
+            "description": "[THE IRISH SUN] THE face of a Pompeii victim has been revealed by artificial intelligence after his 2,000-year-old body and a dish used to cover his head were...",
+            "url": "https://www.thesun.ie/tech/16883825/pompeii-victim-ai-reconstructs-molten-ash/"
         },
         {
-            "title": "Google Signs Deal to Allow Use of AI Models for Classified US Defense Department Projects",
-            "description": "[MARKETSCREENER] Alphabet's Google and the US Department of Defense signed a deal allowing the Pentagon to use the tech giant's artificial intelligence models on classified work, The Information reported late...",
-            "url": "https://www.marketscreener.com/news/google-signs-deal-to-allow-use-of-ai-models-for-classified-us-defense-department-projects-ce7f59ddd18cfe22"
+            "title": "OpenAI trial pitting Elon Musk against Sam Altman kicks off",
+            "description": "[THE STAR] OAKLAND, California, April 28 (Reuters) - A trial that could \u2060help shape the future of artificial intelligence begins on Tuesday, with billionaires Elon Musk and Sam Altman at odds over the evolution...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/28/openai-trial-pitting-elon-musk-against-sam-altman-kicks-off"
         },
         {
-            "title": "AI Is Taking Over Audit Functions. Accounting Needs to Get Ready",
-            "description": "[BLOOMBERG TAX NEWS] Patrick Morgan\u2019s James O\u2019Dowd says KPMG\u2019s rollout of advanced artificial intelligence agents is the start of something structurally significant: a \u201cK-shaped\u201d reshaping of professional services, in...",
-            "url": "https://news.bloombergtax.com/daily-tax-report/ai-is-taking-over-audit-functions-accounting-needs-to-get-ready"
+            "title": "OpenAI trial pitting Elon Musk against Sam Altman kicks off",
+            "description": "[MARKETSCREENER] A trial that could help shape the future of artificial intelligence begins on Tuesday, with billionaires Elon Musk and Sam Altman at odds over the evolution of ChatGPT maker OpenAI from a nonprofit...",
+            "url": "https://www.marketscreener.com/news/openai-trial-pitting-elon-musk-against-sam-altman-kicks-off-ce7f59ddd08cf421"
         },
         {
-            "title": "USD 15 bn Google data centre to transform Vizag into AI hub: Union Min Vaishnaw",
-            "description": "[DEVDISCOURSE] Union Minister Ashwini Vaishnaw on Tuesday highlighted Indias growing digital strength and said Visakhapatnam will emerge as an artificial intelligence hub with the upcoming USD 15 billion Google AI...",
-            "url": "https://www.devdiscourse.com/article/technology/3889111-usd-15-bn-google-data-centre-to-transform-vizag-into-ai-hub-union-min-vaishnaw"
+            "title": "Musk's social media use questioned as he, Sam Altman arrive for OpenAI trial",
+            "description": "[REUTERS] A trial that could help shape the future of artificial \u200bintelligence begins on Tuesday, with billionaires Elon Musk and Sam Altman at odds over the evolution of ChatGPT maker OpenAI from a nonprofit...",
+            "url": "https://www.reuters.com/legal/litigation/openai-trial-pitting-elon-musk-against-sam-altman-kicks-off-2026-04-28/"
         },
         {
-            "title": "Asian stocks off record highs ahead of crucial tech earnings",
-            "description": "[MARKETSCREENER] Asian emerging market stocks pulled back from record highs on Tuesday, as investors grew cautious ahead of a slate of U.S. tech earnings that could test the artificial intelligence-driven...",
-            "url": "https://www.marketscreener.com/news/asian-stocks-off-record-highs-ahead-of-crucial-tech-earnings-ce7f59ddd18dfe2d"
-        },
-        {
-            "title": "Ashwini Vaishnaw Urges Google During AI data Centre Inauguration In Vizag",
-            "description": "[NDTV PROFIT] Vaishnaw said Visakhapatnam could soon be known as \"AI Patnam,\" as he highlighted the city's growing role in India's artificial intelligence push.",
-            "url": "https://www.ndtvprofit.com/india/manufacture-servers-in-india-ashwini-vaishnaw-urges-google-during-ai-data-centre-inauguration-in-vizag-11419569"
+            "title": "Big Tech investors to gauge payoff as AI spending set to hit $600 billion",
+            "description": "[REUTERS] Big Tech has spent hundreds of billions of dollars over three years to power the artificial intelligence boom. But investors still want one answer: will all this pay off?",
+            "url": "https://www.reuters.com/business/retail-consumer/big-tech-investors-gauge-payoff-ai-spending-set-hit-600-billion-2026-04-28/"
         }
     ]
 }
