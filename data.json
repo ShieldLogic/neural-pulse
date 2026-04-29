@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-29 15:53:53 UTC",
+    "updated": "2026-04-29 17:24:01 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -7,24 +7,14 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
-        },
-        {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
-        },
-        {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -37,6 +27,11 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
+        },
+        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -47,24 +42,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
-        },
-        {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
             "title": "Towards developing future-ready skills with generative AI",
             "description": "[RESEARCH] Education Innovation",
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
+            "title": "South Korea exports seen rising sharply again in April on chip boom",
+            "description": "[MARKETSCREENER] South Korean exports likely rose in April for an 11th straight month, with a surge in chip demand driven by artificial intelligence investment more than offsetting a hit from the Middle East...",
+            "url": "https://www.marketscreener.com/news/south-korea-exports-seen-rising-sharply-again-in-april-on-chip-boom-ce7f59d3da88f426"
+        },
+        {
+            "title": "South Korea exports seen rising sharply again in April on chip boom: Reuters poll",
+            "description": "[REUTERS] South Korean exports likely rose in April for \u200ban 11th straight month, with a surge in chip demand driven by artificial intelligence investment more \u200cthan offsetting a hit from the Middle East...",
+            "url": "https://www.reuters.com/world/asia-pacific/south-korea-exports-seen-rising-sharply-again-april-chip-boom-2026-04-29/"
+        },
+        {
+            "title": "AI tool that reads your face could help doctors predict cancer survival, study finds",
+            "description": "[EURONEWS] Scientists have developed an artificial intelligence tool that analyses changes in a person\u2019s facial appearance over time to predict cancer outcomes.",
+            "url": "https://www.euronews.com/health/2026/04/29/ai-tool-that-reads-your-face-could-help-doctors-predict-cancer-survival-study-finds"
+        },
+        {
+            "title": "Reuters Entertainment News Summary",
+            "description": "[DEVDISCOURSE] U.S. President Donald Trump said on Monday that Kimmel should \u2060be fired by ABC \u200band its parent Disney, joining his wife Melania in calling out the talk show host \u2060for remarks made prior to a shooting...",
+            "url": "https://www.devdiscourse.com/article/entertainment/3890243-reuters-entertainment-news-summary"
+        },
+        {
+            "title": "AI deepfakes are circulating in our schools. What's the right way to handle them?",
+            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Deepfake content, made from artificial intelligence, is increasingly circulating in schools. But what can parents do if their children are the target?",
+            "url": "https://www.abc.net.au/news/2026-04-29/what-should-schools-do-about-ai-deepfakes-friends-school-hobart/106619686"
+        },
+        {
+            "title": "Eternal Q4 FY26: Deepinder Goyal Pushes Back on AI Threat to Zomato, Blinkit",
+            "description": "[OUTLOOK BUSINESS] Eternal founder Deepinder Goyal has downplayed concerns that artificial intelligence-led chat platforms from major tech players like Google and Amazon could pose a threat to the company\u2019s core...",
+            "url": "https://www.outlookbusiness.com/corporate/eternal-q4-fy26-deepinder-goyal-pushes-back-on-ai-threat-to-zomato-blinkit"
+        },
+        {
+            "title": "US Stock Market: OpenAI growth concerns spark broad selloff in AI-linked stocks",
+            "description": "[THE ECONOMIC TIMES] A broad selloff swept across artificial intelligence\u2013linked stocks after a report indicated that OpenAI failed to meet key sales and user growth targets, raising fresh concerns about whether massive...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-openai-growth-concerns-spark-broad-selloff-in-ai-linked-stocks/articleshow/130595558.cms"
+        },
+        {
+            "title": "China Internet Civilization Conference 2026 to Release AI Ethics and Safety Guidelines",
+            "description": "[GIZCHINA.COM] The 2026 China Internet Civilization Conference in Nanning will release the Artificial Intelligence (AI) Application Ethics and Safety Guidelines (Version 1.0).",
+            "url": "https://www.gizchina.com/ai/china-internet-civilization-conference-2026-to-release-ai-ethics-and-safety-guidelines"
+        },
+        {
+            "title": "Notified Launches AI Press Release Optimizer to Strengthen",
+            "description": "[GLOBENEWSWIRE] Notified has launched its AI Press Release Optimizer, a new tool that improves LLM discoverability via AI powered recommendations....",
+            "url": "https://www.globenewswire.com/news-release/2026/04/29/3283414/0/en/notified-launches-ai-press-release-optimizer-to-strengthen-corporate-narratives-and-increase-ai-citations.html"
+        },
+        {
             "title": "Elon Musk and OpenAI CEO Sam Altman head to court in high-stakes showdown over AI",
             "description": "[THE MANILA TIMES] OAKLAND, California \u2014 Elon Musk, the Tesla CEO, world's richest man and OpenAI cofounder, took the stand Tuesday in a high-stakes trial revolving around a bitter feud with his former friend Sam...",
             "url": "https://www.manilatimes.net/2026/04/29/business/sunday-business-it/elon-musk-and-openai-ceo-sam-altman-head-to-court-in-high-stakes-showdown-over-ai/2331075"
-        },
-        {
-            "title": "An experimental cafe run by AI opens in Stockholm",
-            "description": "[BANGKOK POST] STOCKHOLM - The avocado toasts and baristas making foamy lattes make it look like any other cafe, except at this one, located in a Stockholm residential neighbourhood, artificial intelligence (AI) is...",
-            "url": "https://www.bangkokpost.com/world/3246340/an-experimental-cafe-run-by-ai-opens-in-stockholm"
-        },
-        {
-            "title": "EQS Newswire: Maiyue Technology Limited: Maiyue Technology (2501.HK) Deepens Presence in ASEAN Markets, Initiating Value Revaluation in the Dawn of the AI Agent Era",
-            "description": "[FINANZNACHRICHTEN] EQS Newswire / 29/04/2026 / 09:27 UTC+8 The year of 2025 is widely recognized as the pivotal turning point for Artificial Intelligence (AI) as it moves from conceptualization to large-scale...",
-            "url": "https://www.finanznachrichten.de/nachrichten-2026-04/68333477-eqs-newswire-maiyue-technology-limited-maiyue-technology-2501-hk-deepens-presence-in-asean-markets-initiating-value-revaluation-in-the-dawn-of-th-023.htm"
-        },
-        {
-            "title": "Bonree Retains No.1 Position in China's APMO Market Share, IDC Reports",
-            "description": "[THE MANILA TIMES] **media[1034047]**HONG KONG, SINGAPORE and BEIJING, April 29, 2026 /PRNewswire/ -- Recently, International Data Corporation (IDC) released its China IT Intelligent Operations Software Market Tracking...",
-            "url": "https://www.manilatimes.net/2026/04/29/tmt-newswire/pr-newswire/bonree-retains-no1-position-in-chinas-apmo-market-share-idc-reports/2331071"
-        },
-        {
-            "title": "UPDATE 2-White House drafts guidance to bypass Anthropic's risk flag for new AI models, Axios reports",
-            "description": "[DEVDISCOURSE] The White \u200bHouse is developing guidance that could \u200callow \u200bfederal agencies to sidestep Anthropic's supply-chain risk designation and onboard new artificial intelligence models, including Mythos,...",
-            "url": "https://www.devdiscourse.com/article/technology/3890174-update-2-white-house-drafts-guidance-to-bypass-anthropics-risk-flag-for-new-ai-models-axios-reports"
-        },
-        {
-            "title": "Sal Khan announces a new AI degree, backed by Big Tech to rival Ivy League \u2014 and it costs just $10,000",
-            "description": "[FIRSTPOST] A new AI-focused degree from the Khan TED Institute promises elite-level learning at under $10,000, targeting students priced out of top universities. Backed by major employers, it aims to bridge the...",
-            "url": "https://www.firstpost.com/tech/sal-khan-partners-with-google-microsoft-and-mckinsey-to-launch-a-new-ai-degree-targeting-the-ivy-league-and-it-only-costs-10000-14005495.html"
-        },
-        {
-            "title": "An experimental cafe run by AI opens in Stockholm",
-            "description": "[THE ECONOMIC TIMES] The avocado toasts and baristas making foamy lattes make it look like any other cafe, except at this one, located in a Stockholm residential neighbourhood, artificial intelligence (AI) is running the...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/an-experimental-cafe-run-by-ai-opens-in-stockholm/articleshow/130593717.cms"
-        },
-        {
-            "title": "WhatsApp to block misuse of logos to curb \u2018digital arrest\u2019",
-            "description": "[TIMES OF INDIA] India News: New Delhi: Social media major WhatsApp has told the Union govt that it has deployed artificial intelligence-based logo detection and media matching sy.",
-            "url": "https://timesofindia.indiatimes.com/india/whatsapp-to-block-misuse-of-logos-to-curb-digital-arrest/articleshow/130593922.cms"
-        },
-        {
-            "title": "White House drafts guidance to bypass Anthropic's risk flag for new AI models: Report",
-            "description": "[THE ECONOMIC TIMES] The \u200bWhite \u200bHouse is developing guidance \u200cthat \u2060could \u2060allow \u200bfederal agencies to \u200bsidestep Anthropic's supply-chain \u200brisk \u2060designation and \u200conboard \u200bnew artificial \u200bintelligence \u2060models, including...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/white-house-drafts-guidance-to-bypass-anthropics-risk-flag-for-new-ai-models-report/articleshow/130593783.cms"
-        },
-        {
-            "title": "White House drafts guidance to bypass Anthropic's risk flag for new AI models, Axios reports",
-            "description": "[REUTERS] The White House is developing guidance that could allow \u200bfederal agencies to sidestep Anthropic's supply-chain risk designation and onboard \u200cnew artificial intelligence models, including Mythos,...",
-            "url": "https://www.reuters.com/legal/government/white-house-drafts-guidance-bypass-anthropics-risk-flag-new-ai-models-axios-2026-04-29/"
         }
     ]
 }
