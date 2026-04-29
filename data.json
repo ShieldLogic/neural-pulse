@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-28 22:53:42 UTC",
+    "updated": "2026-04-29 02:36:03 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -7,24 +7,14 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
-        },
-        {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
-        },
-        {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -37,6 +27,11 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
+        },
+        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -47,24 +42,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
-        },
-        {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
             "title": "Towards developing future-ready skills with generative AI",
             "description": "[RESEARCH] Education Innovation",
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "The 13 jobs most and least at risk of being lost to AI",
-            "description": "[THE SUN] MORE than one million workers across the capital are staring down the barrel of an artificial intelligence revolution that could see their daily...",
-            "url": "https://www.thesun.co.uk/money/38951249/ai-jobs-risk-londoners-face-axe/"
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
-            "title": "\u201cAI for Teachers\u201d Upskills 160,000+ Thai Educators for a Digital Future",
-            "description": "[BANGKOK POST] The Ministry of Education, in collaboration with Microsoft Thailand and key educational partners including the Office of the Basic Education Commission (OBEC), the Office of Vocational Education...",
-            "url": "https://www.bangkokpost.com/thailand/pr/3245752/ai-for-teachers-upskills-160000-thai-educators-for-a-digital-future"
+            "title": "Directors Say Talks to Tax Artificial Intelligence Are Premature",
+            "description": "[BLOOMBERG TAX NEWS] Tax directors at multinational companies believe it\u2019s too soon to discuss taxing artificial intelligence, and policymakers must wait to see how the nascent technology develops.",
+            "url": "https://news.bloombergtax.com/daily-tax-report/directors-say-talks-to-tax-artificial-intelligence-are-premature"
         },
         {
-            "title": "OpenAI trial pitting Elon Musk against Sam Altman kicks off",
-            "description": "[THE STRAITS TIMES] OAKLAND, California, April 28 - A trial that could help shape the future of artificial intelligence begins on Tuesday, with billionaires Elon Musk and Sam Altman at odds over the evolution of ChatGPT...",
-            "url": "https://www.straitstimes.com/world/openai-trial-pitting-elon-musk-against-sam-altman-kicks-off"
+            "title": "US STOCKS-Nasdaq underperforms S&P 500, Dow as AI growth worries hit tech stocks",
+            "description": "[DEVDISCOURSE] The Nasdaq \u200cComposite \u200bfell on Tuesday, underperforming the benchmark S&P 500 and the blue-chip Dow, as investors questioned whether the artificial intelligence boom can deliver meaningful growth for...",
+            "url": "https://www.devdiscourse.com/article/headlines/3889665-us-stocks-nasdaq-underperforms-sp-500-dow-as-ai-growth-worries-hit-tech-stocks"
         },
         {
-            "title": "The Impact of Artificial Intelligence on Modern Diplomatic Practice",
-            "description": "[THE INDIAN EXPRESS] Singapore FM Vivian Balakrishnan\u2019s personal AI project signals a shift in statecraft.",
-            "url": "https://indianexpress.com/article/opinion/columns/raja-mohan-ai-national-security-diplomacy-10660236/"
+            "title": "Norway wealth fund CEO warns against using AI for cuts",
+            "description": "[RTE.IE] The CEO of Norway's $2.2 trillion sovereign wealth fund, the world's largest, has today urged companies to use artificial intelligence to \"lift everybody up\" and not just to cut jobs, warning that...",
+            "url": "https://www.rte.ie/news/business/2026/0428/1570651-norway-wealth-fund-ceo-on-ai-use/"
         },
         {
-            "title": "Pompeii victim who tried to flee molten ash with 'dish on his head' is revealed by AI after 2,000",
-            "description": "[THE SUN U.S EDITION] THE face of a Pompeii victim has been revealed by artificial intelligence after his 2,000-year-old body and a dish used to cover his head were...",
-            "url": "https://www.the-sun.com/tech/16283678/pompeii-victim-ai-reconstructs-molten-ash/"
+            "title": "It\u2019s not just the vibes that are off inside OpenAI.",
+            "description": "[THE VERGE] It\u2019s the numbers, too, according to a new Wall Street Journal report, which echoes The Information\u2019s claim earlier this month that CFO Sarah Friar has expressed concern about its IPO plans and CEO...",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/919533/openai-revenue-user-numbers-miss-report"
         },
         {
-            "title": "Pompeii victim who tried to flee molten ash with 'dish on his head' is revealed by AI after 2,000",
-            "description": "[THE IRISH SUN] THE face of a Pompeii victim has been revealed by artificial intelligence after his 2,000-year-old body and a dish used to cover his head were...",
-            "url": "https://www.thesun.ie/tech/16883825/pompeii-victim-ai-reconstructs-molten-ash/"
+            "title": "Lumai Launches the World\u2019s First Optical Computing System for Real-Time, Billion-Parameter LLM Inference",
+            "description": "[THE MANILA TIMES] New Lumai Iris Nova Server Delivers Scalable, Energy-Efficient AI Beyond the Limits of Silicon",
+            "url": "https://www.manilatimes.net/2026/04/28/tmt-newswire/globenewswire/lumai-launches-the-worlds-first-optical-computing-system-for-real-time-billion-parameter-llm-inference/2330612"
         },
         {
-            "title": "OpenAI trial pitting Elon Musk against Sam Altman kicks off",
-            "description": "[THE STAR] OAKLAND, California, April 28 (Reuters) - A trial that could \u2060help shape the future of artificial intelligence begins on Tuesday, with billionaires Elon Musk and Sam Altman at odds over the evolution...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/28/openai-trial-pitting-elon-musk-against-sam-altman-kicks-off"
+            "title": "Wall Street: S&P 500, Nasdaq drop on concerns over artificial intelligence boom",
+            "description": "[LIVEMINT] The Dow Jones Industrial Average rose 0.22%, the S&P 500 fell 0.56%, the Nasdaq Composite dropped 1.12%",
+            "url": "https://www.livemint.com/market/stock-market-news/wall-street-s-p-500-nasdaq-drop-on-concerns-over-artificial-intelligence-boom-11777383950019.html"
         },
         {
-            "title": "OpenAI trial pitting Elon Musk against Sam Altman kicks off",
-            "description": "[MARKETSCREENER] A trial that could help shape the future of artificial intelligence begins on Tuesday, with billionaires Elon Musk and Sam Altman at odds over the evolution of ChatGPT maker OpenAI from a nonprofit...",
-            "url": "https://www.marketscreener.com/news/openai-trial-pitting-elon-musk-against-sam-altman-kicks-off-ce7f59ddd08cf421"
+            "title": "Home Assistant's local LLM support outperforms Gemini for Home, and Google knows it",
+            "description": "[XDA DEVELOPERS] The smarter smart home is local.",
+            "url": "https://www.xda-developers.com/home-assistants-local-llm-outperforms-gemini-for-home-and-google-knows-it/"
         },
         {
-            "title": "Musk's social media use questioned as he, Sam Altman arrive for OpenAI trial",
-            "description": "[REUTERS] A trial that could help shape the future of artificial \u200bintelligence begins on Tuesday, with billionaires Elon Musk and Sam Altman at odds over the evolution of ChatGPT maker OpenAI from a nonprofit...",
-            "url": "https://www.reuters.com/legal/litigation/openai-trial-pitting-elon-musk-against-sam-altman-kicks-off-2026-04-28/"
+            "title": "Why Binary Thinking Falls Short In The Age Of Artificial Intelligence",
+            "description": "[FORBES] AI reshapes work through hybrid human machine systems, where success depends on integrated thinking, redesigned roles, and rejecting false dichotomies",
+            "url": "https://www.forbes.com/sites/michaeledmondson/2026/04/28/why-binary-thinking-falls-short-in-the-age-of-artificial-intelligence/"
         },
         {
-            "title": "Big Tech investors to gauge payoff as AI spending set to hit $600 billion",
-            "description": "[REUTERS] Big Tech has spent hundreds of billions of dollars over three years to power the artificial intelligence boom. But investors still want one answer: will all this pay off?",
-            "url": "https://www.reuters.com/business/retail-consumer/big-tech-investors-gauge-payoff-ai-spending-set-hit-600-billion-2026-04-28/"
+            "title": "\"Not Read By Me\": Customers Bank CEO Reveals AI Clone Delivered His Remarks During Earnings Call",
+            "description": "[NDTV.COM] Sidhu said that the choice was made on purpose to show how the bank is using more and more artificial intelligence in its work,",
+            "url": "https://www.ndtv.com/feature/not-read-by-me-customers-bank-ceo-reveals-ai-clone-delivered-his-remarks-during-earnings-call-11421452"
+        },
+        {
+            "title": "TSMC projects 70% annual growth in 2nm capacity through 2028",
+            "description": "[THE ECONOMIC TIMES] TSMC anticipates substantial growth in its 2-nanometer chip production from 2026 to 2028. The company is also preparing its new A13 process for volume production in 2029. This advanced technology...",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/tsmc-projects-70-annual-growth-in-2nm-capacity-through-2028/articleshow/130582361.cms"
         }
     ]
 }
