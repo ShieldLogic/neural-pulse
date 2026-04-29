@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-29 19:19:23 UTC",
+    "updated": "2026-04-29 20:59:48 UTC",
     "news": [
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -15,6 +15,11 @@
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -42,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
         },
         {
             "title": "Towards developing future-ready skills with generative AI",
@@ -57,14 +62,14 @@
             "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/"
         },
         {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "What exactly does word2vec learn?",
             "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+        },
+        {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,59 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "India In Talks With US, Anthropic To Get Mythos' Early Access For Domestic Companies",
+            "description": "[FREE PRESS JOURNAL] The Indian government is holding discussions with the United States and Anthropic to get access to the latter\u2019s latest artificial intelligence model, Mythos, for Indian companies. The government is...",
+            "url": "https://www.freepressjournal.in/tech/india-in-talks-with-us-anthropic-to-get-mythos-early-access-for-domestic-companies"
+        },
+        {
+            "title": "Can a Machine Lead? SBS University\u2019s 17th National Debate Competition Puts Artificial Intelligence, Talent, and Human Judgment in the Dock",
+            "description": "[NEWSX] Over 100 students from 46 universities across India gathered at North India\u2019s oldest university to debate the question every institution, employer, and policy-maker is quietly wrestling with: what\u2026",
+            "url": "https://www.newsx.com/business/can-a-machine-lead-sbs-universitys-17th-national-debate-competition-puts-artificial-intelligence-talent-and-human-judgment-in-the-dock-207056/"
+        },
+        {
+            "title": "Goldman Sachs Removes Access to Anthropic AI Models for Hong Kong Bankers",
+            "description": "[MARKETSCREENER] Goldman Sachs has removed access to Anthropic's artificial intelligence models for its Hong Kong-based bankers, Reuters reported Tuesday, citing a person familiar with the matter. Staff in the...",
+            "url": "https://www.marketscreener.com/news/goldman-sachs-removes-access-to-anthropic-ai-models-for-hong-kong-bankers-ce7f59d3df88f024"
+        },
+        {
+            "title": "T.H.E Dance Company's tech-driven performance with digital avatar",
+            "description": "[THE STRAITS TIMES] Explore T.H.E Dance Company's innovative tech-driven performance featuring a digital avatar, blending human movement with artificial intelligence. Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/life/arts/t-h-e-dance-company-dances-with-digital-avatar-in-new-tech-driven-work"
+        },
+        {
+            "title": "Pentagon AI head 'confirms' Google deal with an 'appreciation note'; says: Saving us thousands of ...",
+            "description": "[TIMES OF INDIA] Tech News News: The Pentagon\u2019s head of artificial intelligence, Cameron Stanly has now confirmed that the Department of Defense (DOD) is expanding its use of Google\u2019s.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/pentagon-ai-head-confirms-google-deal-with-an-appreciation-note-says-saving-us-thousands-of-/articleshow/130600022.cms"
+        },
+        {
+            "title": "AI, not news bargaining, is a bigger battle with big tech",
+            "description": "[AUSTRALIAN FINANCIAL REVIEW] Labor\u2019s belated push to make tech giants pay for journalism ignores the more pressing need to regulate the artificial intelligence revolution.",
+            "url": "https://www.afr.com/policy/economy/ai-not-news-bargaining-is-a-bigger-battle-with-big-tech-20260429-p5zrxg"
+        },
+        {
+            "title": "Myrtle.ai Halves Latency in Financial Machine Learning Inference Benchmark Record with VOLLO",
+            "description": "[THE MANILA TIMES] **media[1034234]**CAMBRIDGE, England, April 29, 2026 /PRNewswire/ -- myrtle.ai, a recognized leader in accelerating machine learning inference, today announced that a stack featuring its VOLLO\u00ae...",
+            "url": "https://www.manilatimes.net/2026/04/29/tmt-newswire/pr-newswire/myrtleai-halves-latency-in-financial-machine-learning-inference-benchmark-record-with-vollo/2331177"
+        },
+        {
+            "title": "Myrtle.ai Halves Latency in Financial Machine Learning Inference Benchmark Record with VOLLO",
+            "description": "[THE MANILA TIMES] **media[1034229]**CAMBRIDGE, England, April 29, 2026 /PRNewswire/ -- myrtle.ai, a recognized leader in accelerating machine learning inference, today announced that a stack featuring its VOLLO\u00ae...",
+            "url": "https://www.manilatimes.net/2026/04/29/tmt-newswire/pr-newswire/myrtleai-halves-latency-in-financial-machine-learning-inference-benchmark-record-with-vollo/2331176"
+        },
+        {
+            "title": "Elon Musk says AI could kill us, warns of \u2018Terminator outcome\u2019",
+            "description": "[THE NEWS INTERNATIONAL] Elon Musk appeared in a California courtroom on Tuesday, sounding an alarm about artificial intelligence, which he himself had helped develop, as something capable of destroying humanity\u2019s...",
+            "url": "https://www.thenews.com.pk/latest/1400751-elon-musk-says-ai-could-kill-us-warns-of-terminator-outcome"
         },
         {
             "title": "Myrtle.ai Halves Latency in Financial Machine Learning Inference Benchmark Record with VOLLO",
             "description": "[PR NEWSWIRE UK] /PRNewswire/ -- myrtle.ai, a recognized leader in accelerating machine learning inference, today announced that a stack featuring its VOLLO\u00ae product has...",
             "url": "https://www.prnewswire.co.uk/news-releases/myrtleai-halves-latency-in-financial-machine-learning-inference-benchmark-record-with-vollo-302753239.html"
-        },
-        {
-            "title": "OpenAI Trial: Elon Musk Wants 'Star Trek' Future, Not 'Terminator' Like Outcome",
-            "description": "[TIMES NOW] Elon Musk, during his testimony in a legal dispute with OpenAI, voiced grave concerns about the future of artificial intelligence (AI), emphasising the need to avoid catastrophic outcomes akin to...",
-            "url": "https://www.timesnownews.com/technology-science/openai-trial-elon-musk-wants-star-trek-future-not-terminator-like-outcome-article-154195691"
-        },
-        {
-            "title": "Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say",
-            "description": "[MARKETSCREENER] Demand for Huawei's Ascend 950 AI chips has surged following the release of DeepSeek's V4 artificial intelligence model that runs on the Shenzhen-based tech firm's chips, with major Chinese...",
-            "url": "https://www.marketscreener.com/news/big-chinese-tech-firms-scramble-to-secure-huawei-ai-chips-after-deepseek-v4-launch-sources-say-ce7f59d3dd8ff723"
-        },
-        {
-            "title": "Exclusive: Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say",
-            "description": "[REUTERS] Demand for Huawei's Ascend 950 AI chips has surged following the release of DeepSeek's V4 artificial intelligence model that runs on the Shenzhen-based tech firm's chips, with \u200bmajor Chinese internet...",
-            "url": "https://www.reuters.com/world/china/big-chinese-tech-firms-scramble-secure-huawei-ai-chips-after-deepseek-v4-launch-2026-04-29/"
-        },
-        {
-            "title": "Orders for Business Equipment Surge by the Most Since 2020 as AI Boom Rolls On",
-            "description": "[BREITBART NEWS NETWORK] Orders for core business equipment posted their largest monthly increase since the summer of 2020, the Commerce Department reported Wednesday, driven by surging demand for computers and electronic...",
-            "url": "https://www.breitbart.com/economy/2026/04/29/orders-for-business-equipment-surge-by-the-most-since-2020-as-ai-boom-rolls-on/"
-        },
-        {
-            "title": "Google Translate turns 20: Sundar Pichai reflects on its journey to a billion users",
-            "description": "[FIRSTPOST] Google Translate turns 20, with Sundar Pichai highlighting its evolution into a billion-user AI tool supporting nearly 250 languages. From simple text translation to real-time conversations and image...",
-            "url": "https://www.firstpost.com/tech/google-translate-turns-20-sundar-pichai-reflects-on-its-journey-to-billion-users-14005603.html"
-        },
-        {
-            "title": "AI could kill us all, we don't want to be in Terminator movie: Elon Musk at OpenAI trial",
-            "description": "[INDIA TODAY] Elon Musk told the OpenAI trial that artificial intelligence could kill us all. The remark framed the case around broader fears over AI risk and control.",
-            "url": "https://www.indiatoday.in/technology/news/story/ai-could-kill-us-all-we-dont-want-to-be-in-terminator-movie-elon-musk-at-openai-trial-2903058-2026-04-29"
-        },
-        {
-            "title": "Elon Musk appears in court at start of case that could reshape AI\u2019s future",
-            "description": "[INDEPENDENT.IE] Tesla chief Elon Musk has given evidence in court in a high-stakes trial revolving around a bitter feud between himself and former friends Sam Altman and Greg Brockman that could reshape the future...",
-            "url": "https://www.independent.ie/world-news/north-america/elon-musk-appears-in-court-at-start-of-case-that-could-reshape-ais-future/a1108782886.html"
-        },
-        {
-            "title": "Taylor Swift files 3 new trademark applications. One expert says it is to curb AI threats",
-            "description": "[THE MANILA TIMES] NEW YORK \u2014 Taylor Swift filed three new trademark applications with the U.S. Patent & Trademark Office, a move one legal expert theorizes it is to protect her voice and image from potential misuse...",
-            "url": "https://www.manilatimes.net/2026/04/29/entertainment-lifestyle/taylor-swift-files-3-new-trademark-applications-one-expert-says-it-is-to-curb-ai-threats/2331111"
-        },
-        {
-            "title": "EU countries, lawmakers fail to reach deal on watered-down AI rules",
-            "description": "[THE HINDU] EU countries and European Parliament lawmakers failed to reach a \u200bdeal on watered-down landmark artificial intelligence rules after 12 hours \u200cof negotiations",
-            "url": "https://www.thehindu.com/sci-tech/technology/eu-countries-lawmakers-fail-to-reach-deal-on-watered-down-ai-rules/article70918973.ece"
         }
     ]
 }
