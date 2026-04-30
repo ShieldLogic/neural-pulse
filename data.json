@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-30 06:24:56 UTC",
+    "updated": "2026-04-30 10:03:07 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -27,11 +27,6 @@
             "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
@@ -42,6 +37,11 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
+        },
+        {
             "title": "Information-Driven Design of Imaging Systems",
             "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
             "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
@@ -50,11 +50,6 @@
             "title": "RL without TD learning",
             "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
-        },
-        {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
         },
         {
             "title": "Getting Started with Zero-Shot Text Classification",
@@ -72,59 +67,64 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Apple Plans AI Push With Siri Camera Mode in iOS 27",
-            "description": "[MARKETSCREENER] Apple is planning to integrate artificial intelligence more deeply into the iPhone's camera app by introducing a new Siri mode in its upcoming iOS 27 update, Bloomberg reported Wednesday, citing...",
-            "url": "https://www.marketscreener.com/news/apple-plans-ai-push-with-siri-camera-mode-in-ios-27-ce7f58dadc88f326"
+            "title": "Stocks to Watch : Meta Platforms, Alphabet, Qualcomm, Amazon.com",
+            "description": "[MARKETSCREENER] By Elias Schisgall Meta Platforms said it expects to spend more on artificial-intelligence data centers this year than it had previously forecast. Shares fell 6.5%, to $626.00, after the market...",
+            "url": "https://www.marketscreener.com/news/stocks-to-watch-meta-platforms-alphabet-qualcomm-amazon-com-ce7f58dad088fe2d"
         },
         {
-            "title": "Amphenol forecasts upbeat quarterly results on AI data center demand",
-            "description": "[MARKETSCREENER] Electronic gear maker Amphenol forecast second-quarter revenue above Wall Street estimates on Wednesday, betting on enterprise spending for its components used in artificial intelligence data...",
-            "url": "https://www.marketscreener.com/news/amphenol-forecasts-upbeat-quarterly-results-on-ai-data-center-demand-ce7f58dadd81f025"
+            "title": "Anthropic Considering Funding Offers at Over $900 Billion Value",
+            "description": "[BLOOMBERG] Anthropic PBC has begun weighing a fresh funding round that would value the artificial intelligence developer at more than $900 billion, according to people familiar with the matter, potentially...",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-29/anthropic-considering-funding-offers-at-over-900-billion-value"
         },
         {
-            "title": "Inside the AI ad boom at Google and Meta.",
-            "description": "[THE VERGE] All the ad people I know keep saying \u201cthe content is the targeting\u201d lately, and now I know why: Google and Meta are using AI to flip the online ad model upside down. Big dive in the NYT: > But the...",
-            "url": "https://www.theverge.com/tech/920733/inside-the-ai-ad-boom-at-google-and-meta"
+            "title": "Stock market today: What Google, Microsoft, Meta and Amazon earnings reports say. Explained",
+            "description": "[HINDUSTAN TIMES] Big Tech\u2019s latest earnings sent a clear message to Wall Street: artificial intelligence remains the defining battleground",
+            "url": "https://www.hindustantimes.com/world-news/us-news/stock-market-today-what-google-alphabet-microsoft-meta-facebook-amazon-qualcomm-earnings-reports-say-explained-101777497071990.html"
         },
         {
-            "title": "Inside the Plot to Cover Europe with Gas-Powered AI Data Centres",
-            "description": "[DESMOG] As the UK and EU debate how to source the vast quantities of electricity they\u2019ll need to power their grand visions of home-grown artificial intelligence (AI), the gas turbine sector is confident that...",
-            "url": "https://www.desmog.com/2026/04/29/inside-the-plot-to-cover-europe-with-gas-powered-ai-data-centres/"
+            "title": "Meta Shares Plunge on Escalating Concerns Over AI Spending Spree",
+            "description": "[BLOOMBERG TAX NEWS] Meta Platforms Inc. shares slid after the company raised its spending outlook for the year, reigniting fears that the historic levels of investment it\u2019s making to catch up in the artificial...",
+            "url": "https://news.bloombergtax.com/daily-tax-report/meta-shares-plunge-on-escalating-concerns-over-ai-spending-spree"
         },
         {
-            "title": "Maharashtra Approves AI Policy 2026 Targeting \u20b910,000 Cr Investment And 1.5 Lakh Jobs By 2031",
-            "description": "[FREE PRESS JOURNAL] Maharashtra has approved its AI Policy 2026, aiming to attract \u20b910,000 crore in investments and generate over 1.5 lakh jobs by 2031. The plan includes a \u20b9500 crore startup fund, AI infrastructure,...",
-            "url": "https://www.freepressjournal.in/mumbai/maharashtra-approves-ai-policy-2026-targeting-10000-cr-investment-and-15-lakh-jobs-by-2031"
+            "title": "Charleston County schools plan AI implementation for students",
+            "description": "[LIVE 5 NEWS WCSC] The Charleston County School District is moving forward with artificial intelligence in the classrooms",
+            "url": "https://www.live5news.com/2026/04/29/charleston-county-schools-plan-ai-implementation-students/"
         },
         {
-            "title": "Can AI Be Trained to Predict the Past?",
-            "description": "[BLOOMBERG] A new LLM that\u2019s living in our history.",
-            "url": "https://www.bloomberg.com/news/newsletters/2026-04-29/can-ai-be-trained-to-predict-the-past"
+            "title": "Elon Musk accuses Sam Altman\u2019s lawyer of trying to trick him during tense cross-examination",
+            "description": "[THE GLOBE AND MAIL] Musk\u2019s lawsuit alleges OpenAI ditched its mission to build artificial intelligence for the public good",
+            "url": "https://www.theglobeandmail.com/world/article-elon-musk-sam-altman-openai-trial/"
         },
         {
-            "title": "Apple Plans a Siri Camera Mode and Upgraded Visual AI in iOS 27",
-            "description": "[BLOOMBERG] Apple Inc. is planning to embed artificial intelligence more deeply into the iPhone\u2019s camera app, adding a new Siri mode alongside the standard photo and video options in its upcoming iOS 27...",
-            "url": "https://www.bloomberg.com/news/articles/2026-04-29/ios-27-features-siri-camera-mode-visual-intelligence-nutrition-info-contacts"
+            "title": "Anxiety, resentment around AI spur violence against tech's figureheads",
+            "description": "[JAPAN TODAY] Several proponents of artificial intelligence (AI) have become the victims of violent acts in recent days, reflecting the existential dread around the emerging technology -- and the public's growing...",
+            "url": "https://japantoday.com/category/tech/anxiety-resentment-around-ai-spur-violence-against-tech%27s-figureheads"
         },
         {
-            "title": "Taylor Swift files trademark applications for her voice and likeness reportedly to curb AI threats",
-            "description": "[LIVE 5 NEWS WCSC] Taylor Swift filed three new trademark applications with the U.S. Patent & Trademark Office, a move one legal expert theorizes it is to protect her voice and image from potential misuse through...",
-            "url": "https://www.live5news.com/2026/04/29/taylor-swift-files-trademark-applications-her-voice-likeness-reportedly-curb-ai-threats/"
+            "title": "Anxiety, resentment around AI spur violence against tech's figureheads",
+            "description": "[JAPAN TODAY] Several proponents of artificial intelligence (AI) have become the victims of violent acts in recent days, reflecting the existential dread around the emerging technology -- and the public's growing...",
+            "url": "https://japantoday.com/category/tech/anxiety-resentment-around-ai-spur-violence-against-tech's-figureheads"
         },
         {
-            "title": "Taylor Swift files trademark applications for her voice and likeness reportedly to curb AI threats",
-            "description": "[WEAU] Taylor Swift filed three new trademark applications with the U.S. Patent & Trademark Office, a move one legal expert theorizes it is to protect her voice and image from potential misuse through...",
-            "url": "https://www.weau.com/2026/04/29/taylor-swift-files-trademark-applications-her-voice-likeness-reportedly-curb-ai-threats/"
+            "title": "New report calls for a nationwide strategy on AI in the workplace",
+            "description": "[SBS AUSTRALIA] A new report argues that Australia lacks a national strategy to regulate the spread of artificial intelligence in the workplace. It has been published as an A-I forum is held in Adelaide to examine...",
+            "url": "https://www.sbs.com.au/news/podcast-episode/new-report-calls-for-a-nationwide-strategy-on-ai-in-the-workplace/mtv8pnub3"
         },
         {
-            "title": "Taylor Swift files trademark applications for her voice and likeness reportedly to curb AI threats",
-            "description": "[WIS10] Taylor Swift filed three new trademark applications with the U.S. Patent & Trademark Office, a move one legal expert theorizes it is to protect her voice and image from potential misuse through...",
-            "url": "https://www.wistv.com/2026/04/29/taylor-swift-files-trademark-applications-her-voice-likeness-reportedly-curb-ai-threats/"
+            "title": "quarter profit soars as Google\u2019s big AI bets help push stock to new highs",
+            "description": "[WTOP] Google\u2019s transition into the era of artificial intelligence continued to pay off for its corporate parent, Alphabet Inc., which on Wednesday announced another\u2026",
+            "url": "https://wtop.com/business-finance/2026/04/alphabets-first-quarter-profit-soars-as-googles-big-ai-bets-help-push-stock-to-new-highs/"
         }
     ]
 }
