@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-30 15:45:42 UTC",
+    "updated": "2026-04-30 17:16:47 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,14 +12,19 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -47,19 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -67,14 +67,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "Murata Tops Profit Estimates on Rising AI Data Center Demand",
+            "description": "[BLOOMBERG] Murata Manufacturing Co. reported fourth-quarter earnings that beat analyst estimates, fueled by robust demand from artificial intelligence data center builders.",
+            "url": "https://www.bloomberg.com/news/articles/2026-04-30/murata-tops-profit-estimates-on-rising-ai-data-center-demand"
+        },
+        {
+            "title": "SoftBank eyes listing new AI and robotics firm Roze in the U.S., FT reports",
+            "description": "[CNBC] SoftBank Group is planning to create and list a standalone artificial intelligence and robotics company, coined \"Roze\" in the U.S.",
+            "url": "https://www.cnbc.com/2026/04/30/softbank-roze-ai-robotics-ipo-100-billion-ft-report.html"
+        },
+        {
+            "title": "On witness stand, Elon Musk accuses Sam Altman's lawyer of trying to trick him",
+            "description": "[HINDUSTAN TIMES] Musk's lawsuit alleges OpenAI ditched its mission to build artificial intelligence for the public good. | World News",
+            "url": "https://www.hindustantimes.com/world-news/on-witness-stand-elon-musk-accuses-sam-altmans-lawyer-of-trying-to-trick-him-101777524944385.html"
+        },
+        {
+            "title": "Warning of AI\u2019s 'environmental damage' amid Somerset data centre plans",
+            "description": "[SOMERSET LIVE] A warning has been issued of how the 'environmental damage' of artificial intelligence needs to be taken seriously as plans for a new data centre near the M5 move forward.",
+            "url": "https://www.somersetlive.co.uk/news/somerset-news/warning-ais-environmental-damage-amid-10941940"
+        },
+        {
+            "title": "Reuters Entertainment News Summary",
+            "description": "[DEVDISCOURSE] U.S. President Donald Trump said on Monday that Kimmel should be fired by ABC and its parent Disney, joining his wife Melania in calling out the talk show host for remarks made prior to a shooting at...",
+            "url": "https://www.devdiscourse.com/article/entertainment/3891484-reuters-entertainment-news-summary"
+        },
+        {
+            "title": "Global Market | AI boom fuels record earnings surge at Samsung Electronics",
+            "description": "[THE ECONOMIC TIMES] Samsung Electronics reported a dramatic surge in first-quarter earnings, driven by soaring memory chip prices amid a global artificial intelligence boom that has tightened supply across the...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ai-boom-fuels-record-earnings-surge-at-samsung-electronics/articleshow/130622883.cms"
+        },
+        {
+            "title": "WRAPUP 1-US growth likely picked up in first quarter, but consumer spending probably cooled",
+            "description": "[DEVDISCOURSE] The anticipated increase in gross domestic product last quarter also would reflect robust growth in business investment in equipment, fueled by an artificial intelligence spending boom and the...",
+            "url": "https://www.devdiscourse.com/article/business/3891443-wrapup-1-us-growth-likely-picked-up-in-first-quarter-but-consumer-spending-probably-cooled"
+        },
+        {
+            "title": "US Stock Market | Meta ramps up AI spending amid regulatory heat and user concerns",
+            "description": "[THE ECONOMIC TIMES] Meta Platforms has sharply increased its capital spending outlook, underscoring its aggressive push into artificial intelligence even as it faces intensifying regulatory scrutiny and growing backlash...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-meta-ramps-up-ai-spending-amid-regulatory-heat-and-user-concerns/articleshow/130622618.cms"
         },
         {
             "title": "Journalism classes lack a consistent approach to AI use across institutions",
@@ -85,46 +125,6 @@
             "title": "21-year-old dies in Noida; autopsy shows \u2018heart enlargement\u2019",
             "description": "[HINDUSTAN TIMES] Police identified the deceased as a student of Artificial Intelligence (AI) at the Meerut University who resided at a high-rise in Greater Noida, Techzone 4 with his family members",
             "url": "https://www.hindustantimes.com/cities/noida-news/21yearold-dies-in-noida-autopsy-shows-heart-enlargement-101777489685148.html"
-        },
-        {
-            "title": "SoftBank to create and list AI firm Roze in U.S., Financial Times reports",
-            "description": "[THE JAPAN TIMES ] The Japanese group has piled on debt as founder Masayoshi Son seeks to position himself as a linchpin in the global artificial intelligence boom.",
-            "url": "https://www.japantimes.co.jp/business/2026/04/30/companies/softbank-ai-firm-us/"
-        },
-        {
-            "title": "Meta chief Zuckerberg doubles down on AI spending",
-            "description": "[THE MANILA TIMES] SAN FRANCISCO \u2014 Meta chief Mark Zuckerberg on Wednesday defended massive spending on artificial intelligence that dragged down shares despite strong earnings boosted by the technology.",
-            "url": "https://www.manilatimes.net/2026/04/30/business/foreign-business/meta-chief-zuckerberg-doubles-down-on-ai-spending/2332202"
-        },
-        {
-            "title": "Samsung Electronics posts record quarterly profit on AI boom",
-            "description": "[THE ECONOMIC TIMES] Samsung Electronics posted a record quarterly profit on Thursday, driven by strong sales of chips crucial for artificial intelligence. South Korea's benchmark Kospi stock index opened at a fresh high...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-posts-record-quarterly-profit-on-ai-boom/articleshow/130620652.cms"
-        },
-        {
-            "title": "Melania Trump emerging as AI and education champion, advisor says",
-            "description": "[FOX NEWS] Melania Trump is positioning herself as a leading voice on artificial intelligence and education, her senior advisor says, highlighting her Fostering the Future Together initiative.",
-            "url": "https://www.foxnews.com/politics/melania-trump-embraces-ai-education-initiative-white-house-tech-push-shes-been-champion"
-        },
-        {
-            "title": "Anthropic weighs new funding round at valuation exceeding $900 billion: Report",
-            "description": "[THE ECONOMIC TIMES] Artificial intelligence firm Anthropic is exploring a new funding round. This round could value the company at over $900 billion. This valuation would make Anthropic the world's most valuable AI...",
-            "url": "https://economictimes.indiatimes.com/tech/funding/anthropic-weighs-new-funding-round-at-valuation-exceeding-900-billion-report/articleshow/130620657.cms"
-        },
-        {
-            "title": "Meta shares fall on concerns over AI spending, legal scrutiny",
-            "description": "[THE ECONOMIC TIMES] Meta Platforms is significantly increasing its investment in artificial intelligence infrastructure. This comes as the social media giant faces growing backlash from young users globally. The company...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/meta-shares-fall-on-concerns-over-ai-spending-legal-scrutiny/articleshow/130620634.cms"
-        },
-        {
-            "title": "Samsung Electronics sees robust AI demand after Q1 profit surges eightfold to set record",
-            "description": "[THE STAR] SEOUL, April 30 (Reuters) - Samsung \u2060Electronics said on Thursday its operating profit jumped \u2060eightfold to a record in the first quarter, underpinned \u200cby higher chip prices as an artificial...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/30/samsung-electronics-sees-robust-ai-demand-after-q1-profit-surges-eightfold-to-set-record"
-        },
-        {
-            "title": "Anthropic weighs new funding round at valuation exceeding $900 billion, Bloomberg News reports",
-            "description": "[THE STAR] April 29 (Reuters) - Artificial intelligence \u2060startup Anthropic is weighing raising funds in a \u2060new round that would value the Claude maker at \u200cmore than $900 billion, Bloomberg News reported on...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/30/anthropic-weighs-new-funding-round-at-valuation-exceeding-900-billion-bloomberg-news-reports"
         }
     ]
 }
