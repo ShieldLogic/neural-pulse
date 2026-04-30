@@ -1,5 +1,5 @@
 {
-    "updated": "2026-04-29 22:53:18 UTC",
+    "updated": "2026-04-30 02:36:53 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,14 +12,19 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -32,9 +37,9 @@
             "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,19 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -67,64 +67,64 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+            "title": "storage stocks jump as Seagate's upbeat forecast fuels confidence in AI spending",
+            "description": "[THE ECONOMIC TIMES] Shares of data-storage firms saw a significant jump. This follows strong revenue and profit forecasts from Seagate Technology. The outlook suggests enterprise spending on artificial intelligence...",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/data-storage-stocks-jump-as-seagates-upbeat-forecast-fuels-confidence-in-ai-spending/articleshow/130610356.cms"
         },
         {
-            "title": "WATCH: Vaibhav Sooryavanshi breaks silence on Pakistan's 'AI chip in bat' claims says, 'Bhagwaan ne lagake diya hai'",
-            "description": "[ZEE NEWS] Pakistani cricket expert Nauman Niaz, a commentator well known for his theatrical and often controversial takes, recently suggested in jest that the teenage sensation might be using an artificial...",
-            "url": "https://zeenews.india.com/cricket/watch-vaibhav-sooryavanshi-breaks-silence-on-pakistans-ai-chip-in-bat-claims-says-bhagwaan-ne-lagake-diya-hai-3042085.html"
+            "title": "Bloom Energy soars to all-time high after routing Q1 estimates, hiking full-year guidance",
+            "description": "[SEEKING ALPHA] Bloom Energy surges after crushing estimates for Q1 earnings and revenue on rising demand for digital power as part of the artificial intelligence boom, and raising full-year guidance.",
+            "url": "https://seekingalpha.com/news/4581597-bloom-energy-soars-to-all-time-high-after-routing-q1-estimates-hiking-revenue-guidance"
         },
         {
-            "title": "Ranked School, Silverline Prestige School, Becomes First Private Institution in India to Host Google's Global Leadership Team",
-            "description": "[THE TRIBUNE] New Delhi [India], April 29: Ghaziabad's leading school, Silverline Prestige School, became the first private educational institution in India to host Google for Education's high-level global...",
-            "url": "https://www.tribuneindia.com/news/business/ghaziabads-top-ranked-school-silverline-prestige-school-becomes-first-private-institution-in-india-to-host-googles-global-leadership-team/"
+            "title": "Data-storage stocks jump as Seagate's upbeat forecast fuels confidence in AI spending",
+            "description": "[THE STAR] April 29 (Reuters) - Shares of \u2060data-storage companies jumped on Wednesday, a day after strong revenue and profit forecasts from \u2060Seagate Technology signaled that spending by enterprises on...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/04/29/data-storage-stocks-jump-as-seagate039s-upbeat-forecast-fuels-confidence-in-ai-spending"
         },
         {
-            "title": "Cathie Wood just made a massive bet on these two top AI stocks",
-            "description": "[FINBOLD] Cathie Wood's Ark Innovation ETF just poured more than $28 million into these two top artificial intelligence (AI) stocks.",
-            "url": "https://finbold.com/cathie-wood-just-made-a-massive-bet-on-these-two-top-ai-stocks/"
+            "title": "quarter profit soars as Google's big AI bets help push stock to new highs",
+            "description": "[BREITBART NEWS NETWORK] Google\u2019s transition into the era of artificial intelligence continued to pay off for its corporate parent, Alphabet Inc., which on Wednesday",
+            "url": "https://www.breitbart.com/news/alphabets-first-quarter-profit-soars-as-googles-big-ai-bets-help-push-stock-to-new-highs/"
         },
         {
-            "title": "Inside SpaceX's IPO: Musk's most ambitious plan yet",
-            "description": "[THE ECONOMIC TIMES] SpaceX is preparing for a massive IPO, aiming for a $1.75 trillion valuation. The company's future plans include artificial intelligence, space-based data centers, and settlements on the moon and...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/inside-spacexs-ipo-musks-most-ambitious-plan-yet/articleshow/130603680.cms"
+            "title": "Is it worth buying shares in Relx?",
+            "description": "[THE SUNDAY TIMES] The analytics company was rocked by a sell-off on fears that artificial intelligence can do the same job cheaper, but it has plenty in its own arsenal",
+            "url": "https://www.thetimes.com/business/companies-markets/article/worth-buying-shares-relx-tech-ai-0bc55r0bd"
         },
         {
-            "title": "Taxing Artificial Intelligence Would Be a Big Mistake: Editorial",
-            "description": "[BLOOMBERG TAX NEWS] Artificial intelligence might be the most transformative technology ever devised. Exactly how its effects will work through the economy is impossible to say, but serious disruption of one kind or...",
-            "url": "https://news.bloombergtax.com/daily-tax-report/taxing-artificial-intelligence-would-be-a-big-mistake-editorial"
+            "title": "AI Worries Have Returned to Wall Street. Now Come Earnings.",
+            "description": "[HINDUSTAN TIMES] A slide in artificial-intelligence stocks comes ahead of earnings from key tech giants. | World News",
+            "url": "https://www.hindustantimes.com/world-news/ai-worries-have-returned-to-wall-street-now-come-earnings-101777454407823.html"
         },
         {
-            "title": "Seoul stocks end at fresh record high on revived hope for AI boom",
-            "description": "[UPI NEWS] Seoul stocks closed at a fresh peak on Wednesday, just an inch away from the 6,700 mark, as investors bet chip demand will remain solid amid woes over the artificial intelligence (AI) boom.",
-            "url": "https://www.upi.com/Top_News/World-News/2026/04/29/korea-KOSPI-Korea-Stock-Index-record-high-6700-AI-boom/1211777455599/"
+            "title": "Jackson College event to explore artificial intelligence\u2019s role in manufacturing",
+            "description": "[M LIVE MICHIGAN ] ReMaking Michigan 2026: The Next Era of Manufacturing will take place Friday, May 8, from 8:30 a.m. to 11:30 a.m. in the Victor Cuiss Fieldhouse on the college\u2019s Central Campus.",
+            "url": "https://www.mlive.com/news/jackson/2026/04/jackson-college-event-to-explore-artificial-intelligences-role-in-manufacturing.html"
         },
         {
-            "title": "Andy Mukherjee: How the AI shake-up of India\u2019s tech sector has begun to hit its property market",
-            "description": "[LIVEMINT] Artificial intelligence (AI) is reshaping not just India\u2019s software sector but also demand for brick-and-mortar property. IT layoffs have begun to act as a drag on a market that had boomed on the...",
-            "url": "https://www.livemint.com/opinion/online-views/andy-mukherjee-ai-shake-up-india-tech-sector-property-market-real-estate-it-layoffs-bank-loans-11777450351607.html"
+            "title": "Trump threatens Iran with an AI picture of himself holding a gun",
+            "description": "[WJLA] President Donald Trump on Wednesday threatened Iran with an artificial intelligence photo of himself holding a gun.",
+            "url": "https://wjla.com/news/nation-world/trump-threatens-iran-with-an-ai-picture-of-himself-holding-a-gun-strait-of-hormuz-israel-marco-rubio-blockade"
         },
         {
-            "title": "EU should seek access to Anthropic's Mythos, Bundesbank says",
-            "description": "[MARKETSCREENER] European banks need to be given access to Anthropic's latest artificial intelligence model, Mythos, if they are to shield themselves against the threat of cyberattacks powered by this new breed of......",
-            "url": "https://www.marketscreener.com/news/eu-should-seek-access-to-anthropic-s-mythos-bundesbank-says-ce7f59d3de89f621"
+            "title": "Trump threatens Iran with an AI picture of himself holding a gun",
+            "description": "[BALTIMORE NEWS] President Donald Trump on Wednesday threatened Iran with an artificial intelligence photo of himself holding a gun.",
+            "url": "https://foxbaltimore.com/station/share/trump-threatens-iran-with-an-ai-picture-of-himself-holding-a-gun-strait-of-hormuz-israel-marco-rubio-blockade"
         },
         {
-            "title": "\u2018Not OK to steal a charity\u2019: Elon Musk testifies in legal battle with Sam Altman over OpenAI",
-            "description": "[EURONEWS] In his opening statement, Musk\u2019s lawyer, Steven Molo, said Altman and Brockman, with Microsoft\u2019s help, had taken control of a charity \u201cwhose mission was the safe, open development of artificial...",
-            "url": "https://www.euronews.com/next/2026/04/29/not-ok-to-steal-a-charity-elon-musk-testifies-in-legal-battle-with-sam-altman-over-openai"
-        },
-        {
-            "title": "EU should seek access to Anthropic's Mythos, Bundesbank says",
-            "description": "[REUTERS] European banks need to be given access \u200cto Anthropic's latest artificial intelligence model, Mythos, if they are to shield themselves against the threat of cyberattacks powered by this new breed of...",
-            "url": "https://www.reuters.com/legal/litigation/eu-should-seek-access-anthropics-mythos-bundesbank-says-2026-04-29/"
+            "title": "Maharashtra announces AI policy, envisages Rs 10,000 crore investment",
+            "description": "[DEVDISCOURSE] Towards this, the policy proposes setting up the Maharashtra AI Mission and also includes a plan to provide AI skills training to two lakh young people and professionals in the state, the statement...",
+            "url": "https://www.devdiscourse.com/article/law-order/3891055-maharashtra-announces-ai-policy-envisages-rs-10000-crore-investment"
         }
     ]
 }
