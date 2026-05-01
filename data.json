@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-01 16:53:55 UTC",
+    "updated": "2026-05-01 19:06:22 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -27,14 +27,14 @@
             "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -45,11 +45,6 @@
             "title": "RL without TD learning",
             "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
-        },
-        {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
         },
         {
             "title": "Getting Started with Zero-Shot Text Classification",
@@ -67,6 +62,11 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
+            "title": "McGrath: Can I trust my AI \u2018best friend forever\u2019?",
+            "description": "[SANTA ROSA PRESS DEMOCRAT] Why I took a chance on an artificial intelligence friend \u2014 and what I concluded.",
+            "url": "https://www.pressdemocrat.com/2026/05/01/mcgrath-can-i-trust-my-ai-best-friend-forever/"
+        },
+        {
+            "title": "Swiss bankers wary, but not spooked by Mythos AI threat",
+            "description": "[SWISSINFO (EN)] The Swiss financial sector is assessing the potential threat posed by frontier artificial intelligence (AI) models.",
+            "url": "https://www.swissinfo.ch/eng/swiss-ai/swiss-bankers-wary-but-not-spooked-by-mythos-ai-threat/91342557"
+        },
+        {
+            "title": "Clean up AI or go away: rules proposed for data centres",
+            "description": "[THE CANBERRA TIMES] Artificial intelligence companies should promise they have not broken the law before building a data centre in Australia,...",
+            "url": "https://www.canberratimes.com.au/story/9237718/clean-up-ai-or-go-away-rules-proposed-for-data-centres/"
+        },
+        {
+            "title": "Western Digital Leverages AI Boom to Forecast Revenue Above Estimates",
+            "description": "[MARKETSCREENER] The storage specialist anticipates robust demand, driven by artificial intelligence infrastructure, despite a post-announcement dip in its share price.",
+            "url": "https://www.marketscreener.com/news/western-digital-leverages-ai-boom-to-forecast-revenue-above-estimates-ce7f58d9d980f12d"
+        },
+        {
+            "title": "The Twin Economic Superstorms: Why Your Financial Future Is at Risk from Energy Collapse and AI Job Replacement",
+            "description": "[NATURAL NEWS] Two Storms Are About to Hit I have been warning for years that an economic hurricane is bearing down on the United States, and now I see two distinct superstorms converging at once. The first is an...",
+            "url": "https://www.naturalnews.com/2026-05-01-twin-economic-superstorms-financial-future-at-risk.html"
+        },
+        {
+            "title": "Reddit CEO Steve Huffman Calls Platform 'Fuel' For AI Growth",
+            "description": "[BENZINGA] Reddit CEO Steve Huffman said the platform's vast archive of user discussions has become essential \"fuel\" for artificial intelligence systems.",
+            "url": "https://www.benzinga.com/markets/tech/26/05/52204549/reddit-ceo-steve-huffman-calls-platform-fuel-for-ai-growth"
+        },
+        {
+            "title": "Google on track to become world\u2019s most valuable company, adds $420 billion market cap in single day",
+            "description": "[THE FINANCIAL EXPRESS] Alphabet topped Wall Street estimates for quarterly revenue on Wednesday, as enterprise spending on artificial intelligence delivered the best quarter of reported growth for its cloud unit yet.",
+            "url": "https://www.financialexpress.com/market/global-markets-google-on-track-to-become-worlds-most-valuable-company-adds-420-billion-market-cap-in-single-day-4223941/"
+        },
+        {
+            "title": "US Stock Market: Meta raises $25 billion via bond sale to fund AI expansion",
+            "description": "[THE ECONOMIC TIMES] Meta Platforms has secured $25 billion in investment-grade bonds to fuel its aggressive expansion in artificial intelligence infrastructure. This significant debt issuance follows a substantial...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-meta-raises-25-billion-via-bond-sale-to-fund-ai-expansion/articleshow/130670581.cms"
+        },
+        {
+            "title": "\u2018We need to take down the size of the company\u2019: Meta CEO Mark Zuckerberg signals more layoffs",
+            "description": "[BUSINESS TODAY] Mark Zuckerberg told employees that layoffs are linked to the company's rising spending on artificial intelligence (AI)- driven investments.",
+            "url": "https://www.businesstoday.in/technology/story/we-need-to-take-down-the-size-of-the-company-meta-ceo-mark-zuckerberg-signals-more-layoffs-528388-2026-05-01"
+        },
+        {
             "title": "Emerging Stocks See Best Month Since 2022 Amid AI Boom, Oil Fear",
             "description": "[MONEYCONTROL] Emerging-market equities posted the best month since 2022, fueled by rallies in Asian technology shares on optimism over artificial intelligence demand, even as oil supply shock persists amid a...",
             "url": "https://www.moneycontrol.com/news/business/markets/emerging-stocks-see-best-month-since-2022-amid-ai-boom-oil-fear-13905180.html"
-        },
-        {
-            "title": "US Stock Market | Inside the Rally: What\u2019s fueling Apple Inc. stock surge",
-            "description": "[THE ECONOMIC TIMES] Apple\u2019s latest earnings have sparked strong market interest. A combination of better-than-expected results, optimism around artificial intelligence, and resilient iPhone demand has pushed the stock...",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-inside-the-rally-whats-fueling-apple-inc-stock-surge/slideshow/130670311.cms"
-        },
-        {
-            "title": "AI is changing cyber offense and defense, says US Council of Advisers on Science & Technology member, David Sacks",
-            "description": "[LIVEMINT] Former White House Crypto and AI Czar and US' Council of Advisers on Science & Technology member David Sacks has weighed in on the growing role of artificial intelligence in cybersecurity, arguing...",
-            "url": "https://www.livemint.com/technology/ai-is-changing-cyber-offense-and-defense-says-us-council-of-advisers-on-science-technology-member-david-sacks-11777609713135.html"
-        },
-        {
-            "title": "AI is changing cyber offense and defense, says US' Council of Advisers on Science & Technology member, David Sacks",
-            "description": "[THE TRIBUNE] Former White House Crypto and AI Czar and US' Council of Advisers on Science & Technology member David Sacks has weighed in on the growing role of artificial intelligence in cybersecurity, arguing...",
-            "url": "https://www.tribuneindia.com/news/business/ai-is-changing-cyber-offense-and-defense-says-us-council-of-advisers-on-science-technology-member-david-sacks/"
-        },
-        {
-            "title": "The rich are more likely to use AI, exposing a new digital divide",
-            "description": "[PHYS.ORG] The widespread adoption of artificial intelligence (AI)\u2014particularly in \"hidden\" everyday applications\u2014is creating a new and distinct form of digital inequality. This is the warning of communication...",
-            "url": "https://phys.org/news/2026-04-rich-ai-exposing-digital.html"
-        },
-        {
-            "title": "After 8,000 cuts, Meta signals layoffs may not be over amid AI surge",
-            "description": "[FIRSTPOST] Meta is cutting thousands of jobs as it pours billions into artificial intelligence, with CEO Mark Zuckerberg linking layoffs directly to rising infrastructure costs. While the company insists AI...",
-            "url": "https://www.firstpost.com/tech/after-8000-cuts-meta-signals-layoffs-may-not-be-over-amid-ai-surge-14006417.html"
-        },
-        {
-            "title": "Friday Morning News Roundup",
-            "description": "[SFGATE] The lawsuit alleges that under Altman's leadership, OpenAI, the nonprofit San Francisco artificial intelligence developer, has abandoned its charitable mission and has become a primarily...",
-            "url": "https://www.sfgate.com/news/bayarea/article/friday-morning-news-roundup-22236049.php"
-        },
-        {
-            "title": "Mark Cuban to engineers: Use these three Claude prompts to sharpen your skills",
-            "description": "[TIMES OF INDIA] Tech News News: American billionaire and former Shark Tank investor Mark Cuban is now encouraging engineers to embrace artificial intelligence by practicing with Anth.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-cuban-to-engineers-use-these-three-claude-prompts-to-sharpen-your-skills/articleshow/130669076.cms"
-        },
-        {
-            "title": "Meta raises $25 billion in bond sale after lifting AI spending plan",
-            "description": "[THE ECONOMIC TIMES] Meta Platforms has raised $25 billion through bond sales to boost its artificial intelligence infrastructure. This move follows a significant $30 billion sale last year. The company is increasing its...",
-            "url": "https://economictimes.indiatimes.com/tech/funding/meta-raises-25-billion-in-bond-sale-after-lifting-ai-spending-plan/articleshow/130665428.cms"
-        },
-        {
-            "title": "On witness stand, Elon Musk accuses Sam Altman's lawyer of trying to trick him",
-            "description": "[FIRSTPOST] Elon Musk's lawsuit alleges OpenAI ditched its mission to build artificial intelligence for the public good, and he is seeking billions of dollars and a change in management and direction for OpenAI,...",
-            "url": "https://www.firstpost.com/tech/on-witness-stand-elon-musk-accuses-sam-altmans-lawyer-of-trying-to-trick-him-14006393.html"
         }
     ]
 }
