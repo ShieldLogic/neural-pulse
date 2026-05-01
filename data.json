@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-01 14:52:17 UTC",
+    "updated": "2026-05-01 16:53:55 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -27,19 +27,14 @@
             "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
+            "title": "Building AI Agents with Local Small Language Models",
+            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "AI-generated synthetic neurons speed up brain mapping",
-            "description": "[RESEARCH] General Science",
-            "url": "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping/"
-        },
-        {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -50,6 +45,11 @@
             "title": "RL without TD learning",
             "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
+        },
+        {
+            "title": "Text Summarization with Scikit-LLM",
+            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
         },
         {
             "title": "Getting Started with Zero-Shot Text Classification",
@@ -67,14 +67,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Catalyzing scientific impact through global partnerships and open resources",
+            "description": "[RESEARCH] Data Mining & Modeling",
+            "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Emerging Stocks See Best Month Since 2022 Amid AI Boom, Oil Fear",
+            "description": "[MONEYCONTROL] Emerging-market equities posted the best month since 2022, fueled by rallies in Asian technology shares on optimism over artificial intelligence demand, even as oil supply shock persists amid a...",
+            "url": "https://www.moneycontrol.com/news/business/markets/emerging-stocks-see-best-month-since-2022-amid-ai-boom-oil-fear-13905180.html"
+        },
+        {
+            "title": "US Stock Market | Inside the Rally: What\u2019s fueling Apple Inc. stock surge",
+            "description": "[THE ECONOMIC TIMES] Apple\u2019s latest earnings have sparked strong market interest. A combination of better-than-expected results, optimism around artificial intelligence, and resilient iPhone demand has pushed the stock...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-inside-the-rally-whats-fueling-apple-inc-stock-surge/slideshow/130670311.cms"
+        },
+        {
+            "title": "AI is changing cyber offense and defense, says US Council of Advisers on Science & Technology member, David Sacks",
+            "description": "[LIVEMINT] Former White House Crypto and AI Czar and US' Council of Advisers on Science & Technology member David Sacks has weighed in on the growing role of artificial intelligence in cybersecurity, arguing...",
+            "url": "https://www.livemint.com/technology/ai-is-changing-cyber-offense-and-defense-says-us-council-of-advisers-on-science-technology-member-david-sacks-11777609713135.html"
+        },
+        {
+            "title": "AI is changing cyber offense and defense, says US' Council of Advisers on Science & Technology member, David Sacks",
+            "description": "[THE TRIBUNE] Former White House Crypto and AI Czar and US' Council of Advisers on Science & Technology member David Sacks has weighed in on the growing role of artificial intelligence in cybersecurity, arguing...",
+            "url": "https://www.tribuneindia.com/news/business/ai-is-changing-cyber-offense-and-defense-says-us-council-of-advisers-on-science-technology-member-david-sacks/"
+        },
+        {
+            "title": "The rich are more likely to use AI, exposing a new digital divide",
+            "description": "[PHYS.ORG] The widespread adoption of artificial intelligence (AI)\u2014particularly in \"hidden\" everyday applications\u2014is creating a new and distinct form of digital inequality. This is the warning of communication...",
+            "url": "https://phys.org/news/2026-04-rich-ai-exposing-digital.html"
+        },
+        {
+            "title": "After 8,000 cuts, Meta signals layoffs may not be over amid AI surge",
+            "description": "[FIRSTPOST] Meta is cutting thousands of jobs as it pours billions into artificial intelligence, with CEO Mark Zuckerberg linking layoffs directly to rising infrastructure costs. While the company insists AI...",
+            "url": "https://www.firstpost.com/tech/after-8000-cuts-meta-signals-layoffs-may-not-be-over-amid-ai-surge-14006417.html"
+        },
+        {
+            "title": "Friday Morning News Roundup",
+            "description": "[SFGATE] The lawsuit alleges that under Altman's leadership, OpenAI, the nonprofit San Francisco artificial intelligence developer, has abandoned its charitable mission and has become a primarily...",
+            "url": "https://www.sfgate.com/news/bayarea/article/friday-morning-news-roundup-22236049.php"
+        },
+        {
+            "title": "Mark Cuban to engineers: Use these three Claude prompts to sharpen your skills",
+            "description": "[TIMES OF INDIA] Tech News News: American billionaire and former Shark Tank investor Mark Cuban is now encouraging engineers to embrace artificial intelligence by practicing with Anth.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-cuban-to-engineers-use-these-three-claude-prompts-to-sharpen-your-skills/articleshow/130669076.cms"
         },
         {
             "title": "Meta raises $25 billion in bond sale after lifting AI spending plan",
@@ -85,46 +125,6 @@
             "title": "On witness stand, Elon Musk accuses Sam Altman's lawyer of trying to trick him",
             "description": "[FIRSTPOST] Elon Musk's lawsuit alleges OpenAI ditched its mission to build artificial intelligence for the public good, and he is seeking billions of dollars and a change in management and direction for OpenAI,...",
             "url": "https://www.firstpost.com/tech/on-witness-stand-elon-musk-accuses-sam-altmans-lawyer-of-trying-to-trick-him-14006393.html"
-        },
-        {
-            "title": "Overcoming the algorithmic gender bias in AI\u2011driven personal finance",
-            "description": "[PHYS.ORG] Artificial intelligence is transforming our world and financial services are no exception. AI is reshaping the personal banking sector, but where does it currently stand on gender parity,...",
-            "url": "https://phys.org/news/2026-04-algorithmic-gender-bias-aidriven-personal.html"
-        },
-        {
-            "title": "South Korea April exports rise 48.0% y/y, as chip boom continues",
-            "description": "[MARKETSCREENER] South Korean exports rose for an 11th month in April, beating forecasts, as the global appetite for artificial intelligence infrastructure boosted semiconductor sales to offset jitters from the...",
-            "url": "https://www.marketscreener.com/news/south-korea-april-exports-rise-48-0-y-y-as-chip-boom-continues-ce7f58d8d08afe21"
-        },
-        {
-            "title": "CX Daily: When AI Spends, Card Networks Scramble to Keep Payments Safe",
-            "description": "[CAIXIN] CX Daily: When AI Spends, Card Networks Scramble to Keep Payments Safe-Artificial intelligence (AI) is no longer limited to answering questions \u2014 it is ordering bubble tea, booking flights and buying...",
-            "url": "https://www.caixinglobal.com/2026-05-01/cx-daily-when-ai-spends-card-networks-scramble-to-keep-payments-safe-102439914.html"
-        },
-        {
-            "title": "Apple stocks jump big: iPhone makers predict blockbuster sales forecast as MacBook Neo dominates",
-            "description": "[THE ECONOMIC TIMES] Apple stocks: outlook and a fresh $100 billion share buyback offered reassurance to investors weighing Apples leadership transition amid intensifying competition in artificial intelligence.",
-            "url": "https://economictimes.indiatimes.com/news/international/us/apple-stocks-jump-big-iphone-makers-predict-blockbuster-sales-forecast-as-macbook-neo-dominates/articleshow/130659904.cms"
-        },
-        {
-            "title": "GoDaddy forecasts quarterly revenue above estimates on AI push",
-            "description": "[MARKETSCREENER] GoDaddy on Thursday forecast quarterly revenue above estimates, betting on its artificial intelligence tools to attract more small businesses to its platform. Shares of the Tempe,...",
-            "url": "https://www.marketscreener.com/news/godaddy-forecasts-quarterly-revenue-above-estimates-on-ai-push-ce7f58d8d18df125"
-        },
-        {
-            "title": "Reddit's CEO calls his company 'the fuel' for artificial intelligence",
-            "description": "[CNBC] Reddit CEO Steve Huffman said the platform\u2019s vast library of human conversations makes it a critical input for AI, calling it \u201cthe fuel\u201d behind the technology.",
-            "url": "https://www.cnbc.com/2026/04/30/reddits-ceo-fuel-artificial-intelligence.html"
-        },
-        {
-            "title": "White House presses tech companies for support on AI-driven cyberattacks",
-            "description": "[POLITICO] Tech and cyber companies were sent questions about artificial intelligence-led cybersecurity threats, including those posed by Anthropic\u2019s advanced AI model, Mythos.",
-            "url": "https://www.politico.com/news/2026/04/30/white-house-ai-cyber-threats-mythos-00902045"
-        },
-        {
-            "title": "Senate Panel Advances Bill on AI Chatbots for Kids",
-            "description": "[NEWSMAX] The Senate Judiciary Committee voted 22-0 on Thursday to advance bipartisan legislation that would bar minors from using artificial intelligence companion chatbots.",
-            "url": "https://www.newsmax.com/newsfront/senate-ai-chatbots/2026/04/30/id/1254840/"
         }
     ]
 }
