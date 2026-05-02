@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-02 13:02:23 UTC",
+    "updated": "2026-05-02 14:42:26 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -22,11 +22,6 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
@@ -47,14 +42,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -62,19 +62,44 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Oscars organization expands international film eligibility, addresses AI in new rules",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] The organization behind the Oscars is for the first time addressing the use of artificial intelligence in performances and scripts for the 2027 Academy Awards. New rules emphasize human authorship...",
+            "url": "https://www.ajc.com/news/2026/05/oscars-organization-expands-international-film-eligibility-addresses-ai-in-new-rules/"
+        },
+        {
+            "title": "AI actors and writers will be ineligible for Oscars",
+            "description": "[THE ECONOMIC TIMES] The Academy Awards will now require acting and writing to be human-created for Oscar eligibility. New rules clarify that artificial intelligence cannot be used for these categories. This change...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-actors-and-writers-will-be-ineligible-for-oscars/articleshow/130708656.cms"
+        },
+        {
+            "title": "Impressed by Claude, Snap CEO Evan Spiegel predicts: People are going to pull away resources from software engineering to \u2026",
+            "description": "[TIMES OF INDIA] Tech News News: Snap CEO Evan Spiegel is really impressed by the advancement of Anthropic\u2019s Claude and other artificial intelligence (AI) tools. Speaking about the ra.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/impressed-by-claude-snap-ceo-evan-spiegel-predicts-people-are-going-to-pull-away-resources-from-software-engineering-to-/articleshow/130707918.cms"
+        },
+        {
+            "title": "US military reaches deals with 7 tech companies to use their AI on classified systems",
+            "description": "[THE ECONOMIC TIMES] The Pentagon is boosting its warfighting capabilities by integrating artificial intelligence into classified computer networks. Seven leading tech firms will provide AI resources to aid military...",
+            "url": "https://economictimes.indiatimes.com/news/defence/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/articleshow/130708407.cms"
+        },
+        {
+            "title": "MOREH Demonstrates Production-Ready LLM Inference on Tenstorrent Galaxy, Achieving DGX A100-Class Performance with Improved Cost Efficiency",
+            "description": "[THE MANILA TIMES] Reduces HBM Costs with GPU-Tenstorrent Heterogeneous Distributed Serving",
+            "url": "https://www.manilatimes.net/2026/05/02/tmt-newswire/pr-newswire/moreh-demonstrates-production-ready-llm-inference-on-tenstorrent-galaxy-achieving-dgx-a100-class-performance-with-improved-cost-efficiency/2334139"
         },
         {
             "title": "Ceres mayor faces backlash over AI-enhanced cleanup photo",
@@ -100,31 +125,6 @@
             "title": "Exclusive-US officials weigh cutting deadlines to fix digital flaws amid worries over AI-powered hacking, sources say",
             "description": "[THE STAR] WASHINGTON, May 1 (Reuters) - U.S. cybersecurity officials are considering \u2060sharply shorter deadlines for fixing critical flaws in government IT systems, amid concerns hackers could exploit them...",
             "url": "https://www.thestar.com.my/tech/tech-news/2026/05/02/exclusive-us-officials-weigh-cutting-deadlines-to-fix-digital-flaws-amid-worries-over-ai-powered-hacking-sources-say"
-        },
-        {
-            "title": "US military reaches deals with 7 tech companies to use their AI on classified systems",
-            "description": "[WJLA] The Pentagon said Friday that it has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks, allowing",
-            "url": "https://wjla.com/news/local/military-ai-artificial-intelligence-contract-classified-systems-tech-company-google-microsoft-amazon-nvidia-openai-space-x-war-ethics-battlefield-resources-trump-administration-pentagon-dod"
-        },
-        {
-            "title": "Oscars bans AI actors, writing from awards",
-            "description": "[BBC NEWS] The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film.",
-            "url": "https://www.bbc.com/news/articles/cx21dl3v7d3o"
-        },
-        {
-            "title": "Oscars 2027: The Academy change rules for nominations, International film eligibility; AI actors and writers 'not eligible'",
-            "description": "[TIMES OF INDIA] The organization behind the Oscars is for the first time addressing the use of artificial intelligence in performances and scripts for the 2027 Academ.",
-            "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2027the-academy-change-rules-for-nominations-international-film-eligibility-ai-actors-and-writers-not-eligible/articleshow/130706114.cms"
-        },
-        {
-            "title": "AI actors and writers not eligible for Oscars: The Academy",
-            "description": "[LIVEMINT] The Academy has ruled that AI-generated actors and screenplays will not qualify for Oscars, making human performance and authorship mandatory. The new rules come amid growing use of artificial...",
-            "url": "https://www.livemint.com/news/us-news/ai-actors-and-writers-not-eligible-for-oscars-academy-11777666668648.html"
-        },
-        {
-            "title": "Half of teenage girls in survey use AI for advice",
-            "description": "[JAPAN TODAY] More than half of teenage girls in Japan who use generative artificial intelligence solicit AI's advice on personal worries, a recent government survey found, highlighting the technology's growing...",
-            "url": "https://japantoday.com/category/national/half-of-teenage-girls-in-japan-use-ai-for-advice-gov%27t-survey"
         }
     ]
 }
