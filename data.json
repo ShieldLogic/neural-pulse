@@ -1,10 +1,15 @@
 {
-    "updated": "2026-05-02 16:41:15 UTC",
+    "updated": "2026-05-02 18:53:57 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
+        },
+        {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
         },
         {
             "title": "It's all about the angle: Your photos, re-composed",
@@ -17,14 +22,14 @@
             "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
         },
         {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+        },
+        {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
-        },
-        {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Building AI Agents with Local Small Language Models",
@@ -52,11 +57,6 @@
             "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
@@ -77,6 +77,31 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
+            "title": "7 tech firms accept deal allowing US military to use their AI",
+            "description": "[ARKANSAS ONLINE] WASHINGTON -- The Pentagon said Friday that it has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks, allowing the military to tap into...",
+            "url": "https://www.arkansasonline.com/news/2026/may/02/7-tech-firms-accept-deal-allowing-us-military-to/"
+        },
+        {
+            "title": "source AI models challenge US dominance as Europe grapples with Iran fallout: Report",
+            "description": "[THE ECONOMIC TIMES] China's artificial intelligence services are surging, with its models processing vast amounts of data. This growth highlights its expanding role in digital knowledge exports. Meanwhile, Europe...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-open-source-ai-models-challenge-us-dominance-as-europe-grapples-with-iran-fallout-report/articleshow/130711163.cms"
+        },
+        {
+            "title": "source AI models challenge US dominance as Europe grapples with Iran fallout: Report",
+            "description": "[THE TRIBUNE] China is rapidly emerging as a force in Artificial Intelligence services, with its open-source models processing a volume of tokens comparable to US counterparts, while Europe faces growing economic...",
+            "url": "https://www.tribuneindia.com/news/business/chinas-open-source-ai-models-challenge-us-dominance-as-europe-grapples-with-iran-fallout-report/"
+        },
+        {
+            "title": "I installed a small LLM on my Mac laptop - here's why I can't go back",
+            "description": "[TOM'S GUIDE] Cotypist is a free tool for text suggestions on your Mac, and it\u2019s much smarter than Apple\u2019s iPhone version.",
+            "url": "https://www.tomsguide.com/ai/i-installed-a-small-llm-on-my-mac-laptop-heres-why-i-cant-go-back"
+        },
+        {
+            "title": "AI-powered university policy hub to simplify student access",
+            "description": "[THE MANILA TIMES] MANILA, Philippines\u2014The Department of Science and Technology (DOST) launched an artificial intelligence-driven university policy hub, aimed at simplifying access to institutional policies for...",
+            "url": "https://www.manilatimes.net/2026/05/02/news/ai-powered-university-policy-hub-to-simplify-student-access/2334169"
+        },
+        {
             "title": "Pentagon inks AI deals with tech firms, snubs Anthropic",
             "description": "[PERTHNOW] The US military has agreed to deals with seven big tech firms as it expands its artificial intelligence capabilities.",
             "url": "https://www.perthnow.com.au/news/politics/pentagon-inks-ai-deals-with-tech-firms-snubs-anthropic-c-22224892"
@@ -92,39 +117,14 @@
             "url": "https://apnews.com/article/artificial-intelligence-technology-labor-unions-data-centers-64b10b2f993743dc0c73d273248574cf"
         },
         {
-            "title": "Building Trades Unions Emerge as a Key Ally of Tech Giants in Push for AI Data Centers",
-            "description": "[U.S. NEWS & WORLD REPORT] HARRISBURG, Pa. (AP) \u2014 Building trades unions \u2014 long fashioned as the voice of the American worker \u2014 are now intertwined with the richest companies in the world as they create America's artificial...",
-            "url": "https://www.usnews.com/news/best-states/pennsylvania/articles/2026-05-02/building-trades-unions-emerge-as-a-key-ally-of-tech-giants-in-push-for-ai-data-centers"
+            "title": "In the PR battle for AI data centers, tech giants got a blue-collar ally",
+            "description": "[BALTIMORE SUN] By MARC LEVY HARRISBURG, Pa. (AP) \u2014 Building trades unions \u2014 long fashioned as the voice of the American worker \u2014 are now intertwined with the richest companies in the world as they create America\u2019s...",
+            "url": "https://www.baltimoresun.com/2026/05/02/in-the-pr-battle-for-ai-data-centers-tech-giants-got-a-blue-collar-ally/"
         },
         {
-            "title": "AI agents becoming day traders, but gains prove elusive",
-            "description": "[THE ECONOMIC TIMES] In a groundbreaking shift, retail investors are now harnessing artificial intelligence to facilitate their trading endeavors. Many see this as a revolutionary step in the investment landscape, with...",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-agents-becoming-day-traders-but-gains-prove-elusive/articleshow/130709705.cms"
-        },
-        {
-            "title": "Meta buys humanoid robot startup Assured Robot Intelligence as 8,000 job cuts loom",
-            "description": "[LIVEMINT] Meta Platforms has acquired Assured Robot Intelligence, a humanoid robot AI startup, as CEO Mark Zuckerberg raises capital spending to $145 billion and prepares to lay off 8,000 employees to fund the...",
-            "url": "https://www.livemint.com/companies/news/meta-acquires-humanoid-robot-startup-assured-robot-intelligence-weeks-after-announcing-8-000-layoffs-11777692898608.html"
-        },
-        {
-            "title": "Japan\u2019s Takaichi to hold talks in Vietnam on economic security, critical minerals",
-            "description": "[SOUTH CHINA MORNING POST] Both sides are expected to discuss cooperation in areas such as energy and artificial intelligence.",
-            "url": "https://www.scmp.com/news/asia/east-asia/article/3352202/japans-takaichi-hold-talks-vietnam-economic-security-critical-minerals"
-        },
-        {
-            "title": "Pentagon signs classified AI deal that Google employees objected to with seven tech companies; Here\u2019s the full list, as War Department says: These strategic partners share\u2026",
-            "description": "[TIMES OF INDIA] Tech News News: The Pentagon on Friday signed agreements with seven leading artificial intelligence companies to run their technology on classified military networks..",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/pentagon-signs-classified-ai-deal-that-google-employees-objected-to-with-seven-tech-companies-heres-the-full-list-as-war-department-says-these-strategic-partners-share/articleshow/130708959.cms"
-        },
-        {
-            "title": "Oscars organization expands international film eligibility, addresses AI in new rules",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] The organization behind the Oscars is for the first time addressing the use of artificial intelligence in performances and scripts for the 2027 Academy Awards. New rules emphasize human authorship...",
-            "url": "https://www.ajc.com/news/2026/05/oscars-organization-expands-international-film-eligibility-addresses-ai-in-new-rules/"
-        },
-        {
-            "title": "AI actors and writers will be ineligible for Oscars",
-            "description": "[THE ECONOMIC TIMES] The Academy Awards will now require acting and writing to be human-created for Oscar eligibility. New rules clarify that artificial intelligence cannot be used for these categories. This change...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-actors-and-writers-will-be-ineligible-for-oscars/articleshow/130708656.cms"
+            "title": "In the PR battle for AI data centers, tech giants got a blue-collar ally",
+            "description": "[NORFOLK VIRGINIAN-PILOT] Building trades unions \u2014 long fashioned as the voice of the American worker \u2014 are now intertwined with the richest companies in the world as they create America\u2019s artificial intelligence economy.",
+            "url": "https://www.pilotonline.com/2026/05/02/in-the-pr-battle-for-ai-data-centers-tech-giants-got-a-blue-collar-ally/"
         }
     ]
 }
