@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-03 09:19:23 UTC",
+    "updated": "2026-05-03 10:51:41 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,24 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
-        },
-        {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -32,14 +22,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,14 +42,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -72,9 +67,29 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Oscars organization addresses AI in new rules",
+            "description": "[NBC 5 CHICAGO] The organization behind the Oscars is for the first time addressing the use of artificial intelligence in performances and scripts for the 2027 Academy Awards",
+            "url": "https://www.nbcchicago.com/entertainment/entertainment-news/oscars-new-rules-articifical-intelligence/3931115/"
+        },
+        {
+            "title": "Oscars organization addresses AI in new rules",
+            "description": "[NBC10 BOSTON] The organization behind the Oscars is for the first time addressing the use of artificial intelligence in performances and scripts for the 2027 Academy Awards",
+            "url": "https://www.nbcboston.com/entertainment/entertainment-news/oscars-new-rules-articifical-intelligence/3943757/"
+        },
+        {
+            "title": "MI5 offering \u00a373,000 a year for boffin to provide spies with AI gadgets",
+            "description": "[THE SUN] MI5 is offering \u00a373,000 a year for a boffin to provide spies with gadgets that use artificial intelligence. The job involves ensuring real-life...",
+            "url": "https://www.thesun.co.uk/news/38999088/mi5-73-k-job-spies-ai-gadgets/"
         },
         {
             "title": "U.S. military reaches deals with 7 tech companies to use their AI on classified systems",
@@ -110,21 +125,6 @@
             "title": "In the PR battle for AI data centers, tech giants got a blue",
             "description": "[THE ECONOMIC TIMES] American construction unions are now key players in building the nation's artificial intelligence infrastructure. They are partnering with major tech companies on massive data center projects. This...",
             "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/in-the-pr-battle-for-ai-data-centers-tech-giants-got-a-blue-collar-ally/articleshow/130720114.cms"
-        },
-        {
-            "title": "Woman bites municipal employee, creates ruckus at Mukkam Municipality Office",
-            "description": "[MALAYALA MANORAMA] A woman attacked a municipal employee over a pension issue, biting and injuring her and two others, causing panic; police intervened, but no case was.pension dispute, widow pension, municipal office...",
-            "url": "https://www.onmanorama.com/news/kerala/2026/05/02/pension-dispute-municipality-attack.html"
-        },
-        {
-            "title": "SuiteConnect Manila: PH firms to confront expansion bottlenecks with AI",
-            "description": "[THE MANILA TIMES] EVEN in an industry already so automated and programmed, artificial intelligence still finds a place to make operations more efficient. Oracle NetSuite used its SuiteConnect Manila event last April...",
-            "url": "https://www.manilatimes.net/2026/05/03/business/sunday-business-it/suiteconnect-manila-ph-firms-to-confront-expansion-bottlenecks-with-ai/2334194"
-        },
-        {
-            "title": "Intel brings AI PC era to the Philippines",
-            "description": "[THE MANILA TIMES] LAPTOPS powered by Intel\u2019s Core Ultra Series 3 processors are now available in the Philippines, with units from ASUS, Acer, Dell, HP, Lenovo, and MSI already at local retailers. The selling point:...",
-            "url": "https://www.manilatimes.net/2026/05/03/business/sunday-business-it/intel-brings-ai-pc-era-to-the-philippines/2334193"
         }
     ]
 }
