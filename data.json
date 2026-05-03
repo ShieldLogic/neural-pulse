@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-03 20:38:23 UTC",
+    "updated": "2026-05-03 22:36:31 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,14 +7,24 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+        },
+        {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,19 +32,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+            "title": "Building AI Agents with Local Small Language Models",
+            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+            "title": "Text Summarization with Scikit-LLM",
+            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
         },
         {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
@@ -62,11 +67,6 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
@@ -75,6 +75,26 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Pentagon announces list of seven companies that signed deal for classified work that a Google employee said he is 'ashamed of' the company signing",
+            "description": "[TIMES OF INDIA] Tech News News: The US Department of War recently announced a deal with seven technology companies to deploy artificial intelligence (AI) tools on classified military.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/pentagon-announces-list-of-seven-companies-that-signed-deal-for-classified-work-that-a-google-employee-said-he-is-ashamed-of-the-company-signing/articleshow/130730527.cms"
+        },
+        {
+            "title": "Claude Code with a local LLM running offline is the hybrid setup I didn't know I needed",
+            "description": "[XDA DEVELOPERS] Local LLMs are great, when you know what tasks suit them best",
+            "url": "https://www.xda-developers.com/claude-code-with-a-local-llm-running-offline-is-the-hybrid-setup-i-didnt-know-i-needed/"
+        },
+        {
+            "title": "\u2018I want to fund those people\u2019: Sam Altman on the important ingredient he looks for",
+            "description": "[TIMES OF INDIA] Tech News News: OpenAI CEO Sam Altman has said that apart from enhancing efficiency, reducing human error and automating repetitive tasks, artificial intelligence (AI.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/i-want-to-fund-those-people-sam-altman-on-the-important-ingredient-he-looks-for/articleshow/130728566.cms"
+        },
+        {
+            "title": "One Issue Uniting Democrats and Republicans? Worries About A.I.",
+            "description": "[THE NEW YORK TIMES] The growing unease over artificial intelligence is something elements of the left and the right can agree on in a polarized age.",
+            "url": "https://www.nytimes.com/2026/05/03/us/politics/democrats-republicans-ai.html"
         },
         {
             "title": "Oscars organization expands international film eligibility, addresses AI in new rules",
@@ -105,26 +125,6 @@
             "title": "The Academy expands international film eligibility, addresses AI in new rules",
             "description": "[THE HINDU] The Academy, the organisation behind the Oscars, has addressed the use of artificial intelligence in performances and scripts for the 2027 Academy Awards, apart from allowing an actor to be nominated...",
             "url": "https://www.thehindu.com/entertainment/movies/the-academy-expands-international-film-eligibility-addresses-ai-in-new-rules/article70934554.ece"
-        },
-        {
-            "title": "Lewisham leaseholder who used AI to argue case at tribunal loses",
-            "description": "[MY LONDON] Leaseholder David Jeffs used other cases to support his own but it appears one may have been invented by artificial intelligence",
-            "url": "https://www.mylondon.news/news/south-london-news/lewisham-leaseholder-who-used-ai-33875475"
-        },
-        {
-            "title": "Jensen Huang To Tech Leaders: Be Careful On AI Impact, 'Hot Takes' On Jobs Aren\u2019t Helpful",
-            "description": "[TIMES NOW] Nvidia CEO Jensen Huang urges tech leaders to avoid exaggerated AI claims, pushing for fact-based discussions on job impact and dismissing doomsday fears around artificial intelligence., Technology &...",
-            "url": "https://www.timesnownews.com/technology-science/jensen-huang-to-tech-leaders-be-careful-on-ai-impact-hot-takes-on-jobs-arent-helpful-article-154229849"
-        },
-        {
-            "title": "People are losing jobs to AI-But this quiet trait could save yours, shares ex-Oracle boss",
-            "description": "[TIMES OF INDIA] Relationships News: In a world that\u2019s racing faster every day\u2014driven by automation, artificial intelligence, and the constant push for speed\u2014there\u2019s a softer, more human .",
-            "url": "https://timesofindia.indiatimes.com/relationships/people-are-losing-jobs-to-aibut-this-quiet-trait-could-save-yours-shares-ex-oracle-boss/articleshow/130727981.cms"
-        },
-        {
-            "title": "PennWest California professor to study AI education in Brazil on Fulbright Scholar award",
-            "description": "[PITTSBURGH TRIBUNE-REVIEW] A Pennsylvania Western University professor will be researching artificial intelligence and higher education during a trip to the Amazon this summer. Mark Lennon, a business professor at PennWest...",
-            "url": "https://triblive.com/local/regional/pennwest-california-professor-to-study-ai-education-in-brazil-on-fulbright-scholar-award/"
         }
     ]
 }
