@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-03 18:54:27 UTC",
+    "updated": "2026-05-03 20:38:23 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,24 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
-        },
-        {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -32,14 +22,19 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
         },
         {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
@@ -67,6 +62,11 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
@@ -75,6 +75,26 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Oscars organization expands international film eligibility, addresses AI in new rules",
+            "description": "[THE MANILA TIMES] The organization behind the Oscars is for the first time addressing the use of artificial intelligence in performances and scripts for the 2027 Academy Awards. The Academy of Motion Picture Arts and...",
+            "url": "https://www.manilatimes.net/2026/05/03/entertainment-lifestyle/oscars-organization-expands-international-film-eligibility-addresses-ai-in-new-rules/2334422"
+        },
+        {
+            "title": "NVIDIA vs Intel Stock Battle 2026: AI Leader or Turnaround Star - Which to Buy Now?",
+            "description": "[INTERNATIONAL BUSINESS TIMES] As investors weigh semiconductor giants amid the ongoing artificial intelligence boom, NVIDIA Corp. stands out as Wall Street's clear favorite heading into the second half of 2026, with analysts",
+            "url": "https://www.ibtimes.com/nvidia-vs-intel-stock-battle-2026-ai-leader-turnaround-star-which-buy-now-3802284"
+        },
+        {
+            "title": "Sustainability has left the AI chat",
+            "description": "[THE JAPAN TIMES ] For all the awe over artificial intelligence, one word rarely finds its way into coffee table conversations about the transformative technology: sustainability.",
+            "url": "https://www.japantimes.co.jp/commentary/2026/05/03/world/sustainability-issues-ai/"
+        },
+        {
+            "title": "Fired For AI? China Court Says That\u2019s Illegal-Here\u2019s Why It Matters",
+            "description": "[TIMES NOW] Chinese court rules companies can\u2019t fire employees just to replace them with Artificial Intelligence, stressing labour rights amid rising automation trends., Industry, Times Now",
+            "url": "https://www.timesnownews.com/business-economy/industry/fired-for-ai-china-court-says-thats-illegalheres-why-it-matters-article-154230003"
         },
         {
             "title": "EDITORIAL SHORT: The need, the need for speed",
@@ -105,26 +125,6 @@
             "title": "PennWest California professor to study AI education in Brazil on Fulbright Scholar award",
             "description": "[PITTSBURGH TRIBUNE-REVIEW] A Pennsylvania Western University professor will be researching artificial intelligence and higher education during a trip to the Amazon this summer. Mark Lennon, a business professor at PennWest...",
             "url": "https://triblive.com/local/regional/pennwest-california-professor-to-study-ai-education-in-brazil-on-fulbright-scholar-award/"
-        },
-        {
-            "title": "Deepfake Simon Harris is only the start of the Government\u2019s AI problem",
-            "description": "[THE IRISH TIMES] Artificial intelligence will bring significant changes in the world of work, and soon present very considerable political challenges",
-            "url": "https://www.irishtimes.com/opinion/2026/05/03/deepfake-simon-harris-is-only-the-start-of-the-governments-ai-problem/"
-        },
-        {
-            "title": "AI trade behind FPI outflows from India as AI stock overvaluation concerns linger",
-            "description": "[LOKMAT TIMES] AI trade behind FPI outflows from India as AI stock overvaluation concerns linger - New Delhi, May 3 As long as the artificial intelligence (AI) trade continues, the trend of foreign portfolio ......",
-            "url": "https://www.lokmattimes.com/business/ai-trade-behind-fpi-outflows-from-india-as-ai-stock-overvaluation-concerns-linger/"
-        },
-        {
-            "title": "AI trade behind FPI outflows from India as AI stock overvaluation concerns linger",
-            "description": "[LOKMAT TIMES] AI trade behind FPI outflows from India as AI stock overvaluation concerns linger - New Delhi, May 3 As long as the artificial intelligence (AI) trade continues, the trend of foreign portfolio ......",
-            "url": "https://www.lokmattimes.com/technology/ai-trade-behind-fpi-outflows-from-india-as-ai-stock-overvaluation-concerns-linger-1/"
-        },
-        {
-            "title": "In the PR battle for AI data centers, tech giants got a blue-collar ally",
-            "description": "[SANTA ANA ORANGE COUNTY REGISTER] Building trades unions \u2014 long fashioned as the voice of the American worker \u2014 are now intertwined with the richest companies in the world as they create America\u2019s artificial intelligence economy.",
-            "url": "https://www.ocregister.com/2026/05/02/in-the-pr-battle-for-ai-data-centers-tech-giants-got-a-blue-collar-ally/"
         }
     ]
 }
