@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-02 22:36:10 UTC",
+    "updated": "2026-05-03 02:34:25 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,14 +7,24 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+        },
+        {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,14 +32,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
+            "title": "Building AI Agents with Local Small Language Models",
+            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,19 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Text Summarization with Scikit-LLM",
+            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -67,64 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
-        },
-        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Oscars Draw Red Line For AI-Generated Actors, Scripts",
-            "description": "[FREE PRESS JOURNAL] The Academy of Motion Picture Arts and Sciences has moved to draw a clear line on the use of artificial intelligence in films, making it explicit that AI-generated actors and writers will not be...",
-            "url": "https://www.freepressjournal.in/tech/oscars-draw-red-line-for-ai-generated-actors-scripts"
+            "title": "Self-hosted LLMs are way more powerful than a chat interface, here\u2019s how I utilize it fully",
+            "description": "[XDA DEVELOPERS] Your local LLM isn\u2019t a chatbot, it\u2019s an engine.",
+            "url": "https://www.xda-developers.com/self-hosted-llms-are-way-more-powerful-than-a-chat-interface/"
         },
         {
-            "title": "Tesla former HR chief says AI fear is bigger than reality; advises professionals to learn AI not because \u2026",
-            "description": "[TIMES OF INDIA] Tech News News: Tesla former chief HR officer Valerie Capers Workman has said fears around artificial intelligence (AI) wiping out white-collar jobs are being oversta.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/tesla-former-hr-chief-says-ai-fear-is-bigger-than-reality-advises-professionals-to-learn-ai-not-because-/articleshow/130714155.cms"
+            "title": "Is This a Stock Market Melt-Up? Here Are Ways to Tell",
+            "description": "[BLOOMBERG] The stock market is on a tear again, with high-flying technology stocks propelling the S&P 500 Index toward fresh records and luring swaths of momentum-chasing investors. Speculation that the worst...",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-02/is-this-a-stock-market-melt-up-here-are-ways-to-tell"
         },
         {
-            "title": "AI finds signs of pancreatic cancer before tumors develop",
-            "description": "[NBC NEWS] An artificial intelligence model from the Mayo Clinic detected early signs of possible pancreatic cancer on scans up to two years before patients were diagnosed.",
-            "url": "https://www.nbcnews.com/health/cancer/ai-early-signs-pancreatic-cancer-before-tumors-develop-rcna343099"
+            "title": "Motion Picture Academy Rules AI Actors & Writers Not Eligible for Oscars",
+            "description": "[BREITBART NEWS NETWORK] Actors created with artificial intelligence will not be eligible for an Oscar, the Academy of Motion Picture Arts and Sciences said Friday as it launched a crackdown on the use of AI. | Entertainment",
+            "url": "https://www.breitbart.com/entertainment/2026/05/02/motion-picture-academy-rules-ai-actors-writers-not-eligible-for-oscars/"
         },
         {
-            "title": "Chinese actor leaves industry after AI cuts work in micro-drama sector",
-            "description": "[MONEYCONTROL] Rapid adoption of artificial intelligence in entertainment leaves performers scrambling for livelihoods.",
-            "url": "https://www.moneycontrol.com/news/trends/chinese-actor-leaves-industry-after-ai-cuts-work-in-micro-drama-sector-13906002.html"
+            "title": "generated actors, writers not eligible for Oscar win\u2014Academy",
+            "description": "[MANILASTANDARD.NET] Los Angeles \u2013 Actors created with artificial intelligence will not be eligible for an Oscar, the Academy of Motion Picture Arts and Sciences said as it",
+            "url": "https://manilastandard.net/news/world/314734878/ai-generated-actors-writers-not-eligible-for-oscar-win-academy.html"
         },
         {
-            "title": "Why the families of Tumbler Ridge shooting victims may face 'difficult' issues with OpenAI lawsuits",
-            "description": "[CBC.CA] The families of victims of the Tumbler Ridge, B.C., school shooting who are suing OpenAI could face some significant legal hurdles in their attempt to hold the artificial intelligence company...",
-            "url": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-lawsuit-shooting-9.7184662"
+            "title": "Scientists identify 10,000 'impossible' exoplanet candidates, potentially tripling the number of known alien worlds",
+            "description": "[LIVESCIENCE.COM] A new study has identified a potentially record-breaking haul of transiting exoplanets, thanks to a machine learning algorithm that analyzed the light curves of more than 80 million previously...",
+            "url": "https://www.livescience.com/space/exoplanets/scientists-identify-10-000-impossible-exoplanet-candidates-potentially-tripling-the-number-of-known-alien-worlds"
         },
         {
-            "title": "Pentagon signs deals with AI firms, sidelines Anthropic",
-            "description": "[THE NATION] The Pentagon said on Friday it had reached agreements with seven artificial intelligence companies to deploy advanced capabilities across its classified networks, as",
-            "url": "https://www.nation.com.pk/02-May-2026/pentagon-signs-deals-ai-firms-sidelines-anthropic"
+            "title": "Did The Devil Wears Prada 2 Use AI? Here's The Truth About Anne Hathaway, Meryl Streep Film",
+            "description": "[TIMES NOW] Despite its AI-themed storyline, The Devil Wears Prada 2 did not use artificial intelligence for its viral meme sequence targeting Miranda Priestly in a major sequence. Instead, director David...",
+            "url": "https://www.timesnownews.com/entertainment-news/hollywood/did-the-devil-wears-prada-2-use-ai-heres-the-truth-about-anne-hathaway-meryl-streep-film-article-154224002"
         },
         {
-            "title": "Oscars body finally tackles the elephant in the room - Artificial Intelligence",
-            "description": "[THE TRIBUNE] The new rules also include significant changes to the much-criticised international film category, expanding eligibility to include films that won top qualifying awards from prestigious film...",
-            "url": "https://www.tribuneindia.com/news/entertainment/oscars-body-finally-tackles-the-elephant-in-the-room-artificial-intelligence/"
+            "title": "AI is driving new wave of startups with smaller teams: OpenAI CEO Sam Altman",
+            "description": "[THE ECONOMIC TIMES] OpenAI CEO Sam Altman believes artificial intelligence is fueling a new wave of startups, empowering small teams and even individuals to build and scale businesses. He highlighted that AI's...",
+            "url": "https://economictimes.indiatimes.com/tech/startups/ai-is-driving-new-wave-of-startups-with-smaller-teams-openai-ceo-sam-altman/articleshow/130716417.cms"
         },
         {
-            "title": "7 tech firms accept deal allowing US military to use their AI",
-            "description": "[ARKANSAS ONLINE] WASHINGTON -- The Pentagon said Friday that it has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks, allowing the military to tap into...",
-            "url": "https://www.arkansasonline.com/news/2026/may/02/7-tech-firms-accept-deal-allowing-us-military-to/"
+            "title": "AI is driving new wave of startups with smaller teams: OpenAI CEO Sam Altman",
+            "description": "[THE ECONOMIC TIMES] OpenAI CEO Sam Altman believes artificial intelligence is fueling a new wave of startups, empowering small teams and even individuals to build and scale businesses. He highlighted that AI's...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-is-driving-new-wave-of-startups-with-smaller-teams-openai-ceo-sam-altman/articleshow/130716397.cms"
         },
         {
-            "title": "source AI models challenge US dominance as Europe grapples with Iran fallout: Report",
-            "description": "[THE ECONOMIC TIMES] China's artificial intelligence services are surging, with its models processing vast amounts of data. This growth highlights its expanding role in digital knowledge exports. Meanwhile, Europe...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-open-source-ai-models-challenge-us-dominance-as-europe-grapples-with-iran-fallout-report/articleshow/130711163.cms"
+            "title": "Q&A: What AI actually does in diffusion models for drug design",
+            "description": "[PHYS.ORG] In the search for new drugs, artificial intelligence in the form of diffusion models is being used in drug design. What exactly does AI do in this context? Dr. Andrea Mastropietro and Prof. Dr....",
+            "url": "https://phys.org/news/2026-04-qa-ai-diffusion-drug.html"
         },
         {
-            "title": "source AI models challenge US dominance as Europe grapples with Iran fallout: Report",
-            "description": "[THE TRIBUNE] China is rapidly emerging as a force in Artificial Intelligence services, with its open-source models processing a volume of tokens comparable to US counterparts, while Europe faces growing economic...",
-            "url": "https://www.tribuneindia.com/news/business/chinas-open-source-ai-models-challenge-us-dominance-as-europe-grapples-with-iran-fallout-report/"
+            "title": "PKR launches Teras, its AI data-driven election system",
+            "description": "[THE STAR] KLANG: Given the increasingly challenging political environment in the country, PKR has embarked on an initiative using artificial intelligence (AI) to manage its election operations.",
+            "url": "https://www.thestar.com.my/news/nation/2026/05/02/pkr-launches-teras-its-ai-data-driven-election-system"
         }
     ]
 }
