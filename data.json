@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-03 06:24:06 UTC",
+    "updated": "2026-05-03 09:19:23 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,14 +7,24 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+        },
+        {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,19 +32,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+            "title": "Building AI Agents with Local Small Language Models",
+            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+            "title": "Text Summarization with Scikit-LLM",
+            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
         },
         {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
@@ -62,11 +67,6 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
@@ -75,6 +75,31 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "U.S. military reaches deals with 7 tech companies to use their AI on classified systems",
+            "description": "[JAPAN TODAY] The Pentagon says it has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks, allowing the military to tap into AI-powered capabilities to...",
+            "url": "https://japantoday.com/category/tech/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems"
+        },
+        {
+            "title": "11 Ways To Get The Most Out Of Your New PC",
+            "description": "[BGR] New computers aren't cheap, and with artificial intelligence driving prices higher, it's more important than ever to get the most out of yours.",
+            "url": "https://www.bgr.com/2157900/ways-get-most-out-of-new-pc/"
+        },
+        {
+            "title": "College students wary of the job market are changing course in search of 'AI-proof' majors",
+            "description": "[JAPAN TODAY] Two years ago, Josephine Timperman arrived at college with a plan. She declared a major in business analytics, figuring she'd learn niche skills that would stand out on a resume and help land a good...",
+            "url": "https://japantoday.com/category/business/college-students-wary-of-the-job-market-are-changing-course-in-search-of-'ai-proof'-majors"
+        },
+        {
+            "title": "College students wary of the job market are changing course in search of 'AI-proof' majors",
+            "description": "[JAPAN TODAY] Two years ago, Josephine Timperman arrived at college with a plan. She declared a major in business analytics, figuring she'd learn niche skills that would stand out on a resume and help land a good...",
+            "url": "https://japantoday.com/category/business/college-students-wary-of-the-job-market-are-changing-course-in-search-of-%27ai-proof%27-majors"
+        },
+        {
+            "title": "In the PR battle for AI data centers, tech giants got a blue-collar ally",
+            "description": "[ANCHORAGE DAILY NEWS] Building trades unions have long been considered a voice of the American worker. But they now are intertwined with the richest companies in the world as they create America\u2019s artificial intelligence...",
+            "url": "https://www.adn.com/nation-world/2026/05/02/in-the-pr-battle-for-ai-data-centers-tech-giants-got-a-blue-collar-ally/"
         },
         {
             "title": "Welcome to the family, AI: Rethinking intelligence beyond fear and hype",
@@ -100,31 +125,6 @@
             "title": "Intel brings AI PC era to the Philippines",
             "description": "[THE MANILA TIMES] LAPTOPS powered by Intel\u2019s Core Ultra Series 3 processors are now available in the Philippines, with units from ASUS, Acer, Dell, HP, Lenovo, and MSI already at local retailers. The selling point:...",
             "url": "https://www.manilatimes.net/2026/05/03/business/sunday-business-it/intel-brings-ai-pc-era-to-the-philippines/2334193"
-        },
-        {
-            "title": "Physicians benefit from AI when making nuanced clinical decisions, study shows",
-            "description": "[MEDICAL XPRESS] Artificial intelligence-powered chatbots are getting pretty good at diagnosing some diseases, even when they are complex. But how do chatbots do when guiding treatment and care after the diagnosis?...",
-            "url": "https://medicalxpress.com/news/2026-04-physicians-benefit-ai-nuanced-clinical.html"
-        },
-        {
-            "title": "Berkshire\u2019s Abel signals cautious AI approach; Sees 50% utility growth in 5 yrs from data centres",
-            "description": "[CNBC TV18] Berkshire Hathaway signalled a cautious approach to artificial intelligence, with CEO Greg Abel stressing that any adoption must deliver clear business value. He also flagged strong growth prospects...",
-            "url": "https://www.cnbctv18.com/business/berkshire-hathaway-abel-signals-cautious-ai-approach-sees-utility-growth-in-5-yrs-from-data-centres-ws-l-19897559.htm"
-        },
-        {
-            "title": "Oscars tighten AI rules, emphasizing human authorship",
-            "description": "[HARTFORD COURANT] LOS ANGELES \u2014 As artificial intelligence becomes more embedded in film production, the Academy of Motion Picture Arts and Sciences is drawing a clearer line around it. In new rules announced Friday...",
-            "url": "https://www.courant.com/2026/05/02/oscars-tighten-ai-rules-emphasizing-human-authorship-3/"
-        },
-        {
-            "title": "Business Leaders Say Adapting to AI Is Essential to Survival",
-            "description": "[TIME] Executives from IBM, VaynerX and Deepblocks talk to TIME100 about the blistering pace of change all companies are facing in the age of artificial intelligence.",
-            "url": "https://time.com/article/2026/04/28/pmi-time100-talk-AI-adaptation-IBM/"
-        },
-        {
-            "title": "Self-hosted LLMs are way more powerful than a chat interface, here\u2019s how I utilize it fully",
-            "description": "[XDA DEVELOPERS] Your local LLM isn\u2019t a chatbot, it\u2019s an engine.",
-            "url": "https://www.xda-developers.com/self-hosted-llms-are-way-more-powerful-than-a-chat-interface/"
         }
     ]
 }
