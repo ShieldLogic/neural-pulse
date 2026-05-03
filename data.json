@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-03 13:01:16 UTC",
+    "updated": "2026-05-03 14:44:29 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,14 +22,19 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+        },
+        {
+            "title": "Building AI Agents with Local Small Language Models",
+            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,19 +47,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Text Summarization with Scikit-LLM",
+            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
+        },
+        {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -67,14 +72,19 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
-        },
-        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "NVDA vs. MU: Which \u201cStrong Buy\u201d AI Stock Has the Higher Upside Potential, According to Analysts?",
+            "description": "[MARKETS INSIDER] Elevated spending by hyperscalers and artificial intelligence (AI) startups on AI infrastructure continues to drive demand for many companies, s...",
+            "url": "https://markets.businessinsider.com/news/stocks/nvda-vs-mu-which-strong-buy-ai-stock-has-the-higher-upside-potential-according-to-analysts-1036098012"
+        },
+        {
+            "title": "Chinese court rules firms can't lay off workers on AI grounds",
+            "description": "[TIMES OF INDIA] International Business News: A Chinese court ruled that companies cannot terminate employees just to replace them with artificial intelligence systems, as authorities juggle the n.",
+            "url": "https://timesofindia.indiatimes.com/business/international-business/chinese-court-rules-firms-cant-lay-off-workers-on-ai-grounds/articleshow/130726519.cms"
         },
         {
             "title": "Uber Shifts Gears: Company To Turn Millions Of Drivers Into Data Machines For Self-Driving Firms",
@@ -115,16 +125,6 @@
             "title": "College students wary of the job market are changing course in search of 'AI-proof' majors",
             "description": "[JAPAN TODAY] Two years ago, Josephine Timperman arrived at college with a plan. She declared a major in business analytics, figuring she'd learn niche skills that would stand out on a resume and help land a good...",
             "url": "https://japantoday.com/category/business/college-students-wary-of-the-job-market-are-changing-course-in-search-of-%27ai-proof%27-majors"
-        },
-        {
-            "title": "In the PR battle for AI data centers, tech giants got a blue-collar ally",
-            "description": "[ANCHORAGE DAILY NEWS] Building trades unions have long been considered a voice of the American worker. But they now are intertwined with the richest companies in the world as they create America\u2019s artificial intelligence...",
-            "url": "https://www.adn.com/nation-world/2026/05/02/in-the-pr-battle-for-ai-data-centers-tech-giants-got-a-blue-collar-ally/"
-        },
-        {
-            "title": "Welcome to the family, AI: Rethinking intelligence beyond fear and hype",
-            "description": "[THE ECONOMIC TIMES] Artificial intelligence is like a new family member. It has protective instincts, like a mother, looking out for dangers. It also has an ambitious side, like a father, exploring new opportunities....",
-            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/welcome-to-the-family-ai-rethinking-intelligence-beyond-fear-and-hype/articleshow/130720670.cms"
         }
     ]
 }
