@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-03 16:43:49 UTC",
+    "updated": "2026-05-03 18:54:27 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,14 +7,24 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+        },
+        {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,14 +32,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
+            "title": "Building AI Agents with Local Small Language Models",
+            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,19 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Text Summarization with Scikit-LLM",
+            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -67,64 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
-        },
-        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
+            "title": "EDITORIAL SHORT: The need, the need for speed",
+            "description": "[ARKANSAS ONLINE] In these days of social media, artificial intelligence, robotics, self-driving cars, private space travel, and other incredible technological advancements, it's hard to believe that some people are...",
+            "url": "https://www.arkansasonline.com/news/2026/may/03/editorial-short-the-need-the-need-for-speed/"
+        },
+        {
+            "title": "The Academy expands international film eligibility, addresses AI in new rules",
+            "description": "[THE HINDU] The Academy, the organisation behind the Oscars, has addressed the use of artificial intelligence in performances and scripts for the 2027 Academy Awards, apart from allowing an actor to be nominated...",
+            "url": "https://www.thehindu.com/entertainment/movies/the-academy-expands-international-film-eligibility-addresses-ai-in-new-rules/article70934554.ece"
+        },
+        {
+            "title": "Lewisham leaseholder who used AI to argue case at tribunal loses",
+            "description": "[MY LONDON] Leaseholder David Jeffs used other cases to support his own but it appears one may have been invented by artificial intelligence",
+            "url": "https://www.mylondon.news/news/south-london-news/lewisham-leaseholder-who-used-ai-33875475"
+        },
+        {
+            "title": "Jensen Huang To Tech Leaders: Be Careful On AI Impact, 'Hot Takes' On Jobs Aren\u2019t Helpful",
+            "description": "[TIMES NOW] Nvidia CEO Jensen Huang urges tech leaders to avoid exaggerated AI claims, pushing for fact-based discussions on job impact and dismissing doomsday fears around artificial intelligence., Technology &...",
+            "url": "https://www.timesnownews.com/technology-science/jensen-huang-to-tech-leaders-be-careful-on-ai-impact-hot-takes-on-jobs-arent-helpful-article-154229849"
+        },
+        {
+            "title": "People are losing jobs to AI-But this quiet trait could save yours, shares ex-Oracle boss",
+            "description": "[TIMES OF INDIA] Relationships News: In a world that\u2019s racing faster every day\u2014driven by automation, artificial intelligence, and the constant push for speed\u2014there\u2019s a softer, more human .",
+            "url": "https://timesofindia.indiatimes.com/relationships/people-are-losing-jobs-to-aibut-this-quiet-trait-could-save-yours-shares-ex-oracle-boss/articleshow/130727981.cms"
+        },
+        {
+            "title": "PennWest California professor to study AI education in Brazil on Fulbright Scholar award",
+            "description": "[PITTSBURGH TRIBUNE-REVIEW] A Pennsylvania Western University professor will be researching artificial intelligence and higher education during a trip to the Amazon this summer. Mark Lennon, a business professor at PennWest...",
+            "url": "https://triblive.com/local/regional/pennwest-california-professor-to-study-ai-education-in-brazil-on-fulbright-scholar-award/"
+        },
+        {
+            "title": "Deepfake Simon Harris is only the start of the Government\u2019s AI problem",
+            "description": "[THE IRISH TIMES] Artificial intelligence will bring significant changes in the world of work, and soon present very considerable political challenges",
+            "url": "https://www.irishtimes.com/opinion/2026/05/03/deepfake-simon-harris-is-only-the-start-of-the-governments-ai-problem/"
+        },
+        {
+            "title": "AI trade behind FPI outflows from India as AI stock overvaluation concerns linger",
+            "description": "[LOKMAT TIMES] AI trade behind FPI outflows from India as AI stock overvaluation concerns linger - New Delhi, May 3 As long as the artificial intelligence (AI) trade continues, the trend of foreign portfolio ......",
+            "url": "https://www.lokmattimes.com/business/ai-trade-behind-fpi-outflows-from-india-as-ai-stock-overvaluation-concerns-linger/"
+        },
+        {
+            "title": "AI trade behind FPI outflows from India as AI stock overvaluation concerns linger",
+            "description": "[LOKMAT TIMES] AI trade behind FPI outflows from India as AI stock overvaluation concerns linger - New Delhi, May 3 As long as the artificial intelligence (AI) trade continues, the trend of foreign portfolio ......",
+            "url": "https://www.lokmattimes.com/technology/ai-trade-behind-fpi-outflows-from-india-as-ai-stock-overvaluation-concerns-linger-1/"
+        },
+        {
             "title": "In the PR battle for AI data centers, tech giants got a blue-collar ally",
             "description": "[SANTA ANA ORANGE COUNTY REGISTER] Building trades unions \u2014 long fashioned as the voice of the American worker \u2014 are now intertwined with the richest companies in the world as they create America\u2019s artificial intelligence economy.",
             "url": "https://www.ocregister.com/2026/05/02/in-the-pr-battle-for-ai-data-centers-tech-giants-got-a-blue-collar-ally/"
-        },
-        {
-            "title": "NVDA vs. MU: Which \u201cStrong Buy\u201d AI Stock Has the Higher Upside Potential, According to Analysts?",
-            "description": "[MARKETS INSIDER] Elevated spending by hyperscalers and artificial intelligence (AI) startups on AI infrastructure continues to drive demand for many companies, s...",
-            "url": "https://markets.businessinsider.com/news/stocks/nvda-vs-mu-which-strong-buy-ai-stock-has-the-higher-upside-potential-according-to-analysts-1036098012"
-        },
-        {
-            "title": "Chinese court rules firms can't lay off workers on AI grounds",
-            "description": "[TIMES OF INDIA] International Business News: A Chinese court ruled that companies cannot terminate employees just to replace them with artificial intelligence systems, as authorities juggle the n.",
-            "url": "https://timesofindia.indiatimes.com/business/international-business/chinese-court-rules-firms-cant-lay-off-workers-on-ai-grounds/articleshow/130726519.cms"
-        },
-        {
-            "title": "Uber Shifts Gears: Company To Turn Millions Of Drivers Into Data Machines For Self-Driving Firms",
-            "description": "[NEWS18] Uber aims to create the world\u2019s largest real-time ecosystem for training the artificial intelligence that will power future self-driving systems",
-            "url": "https://www.news18.com/tech/uber-shifts-gears-company-to-turn-millions-of-drivers-into-data-machines-for-self-driving-firms-10070196.html"
-        },
-        {
-            "title": "Oscars organization addresses AI in new rules",
-            "description": "[NBC 5 CHICAGO] The organization behind the Oscars is for the first time addressing the use of artificial intelligence in performances and scripts for the 2027 Academy Awards",
-            "url": "https://www.nbcchicago.com/entertainment/entertainment-news/oscars-new-rules-articifical-intelligence/3931115/"
-        },
-        {
-            "title": "Oscars organization addresses AI in new rules",
-            "description": "[NBC10 BOSTON] The organization behind the Oscars is for the first time addressing the use of artificial intelligence in performances and scripts for the 2027 Academy Awards",
-            "url": "https://www.nbcboston.com/entertainment/entertainment-news/oscars-new-rules-articifical-intelligence/3943757/"
-        },
-        {
-            "title": "MI5 offering \u00a373,000 a year for boffin to provide spies with AI gadgets",
-            "description": "[THE SUN] MI5 is offering \u00a373,000 a year for a boffin to provide spies with gadgets that use artificial intelligence. The job involves ensuring real-life...",
-            "url": "https://www.thesun.co.uk/news/38999088/mi5-73-k-job-spies-ai-gadgets/"
-        },
-        {
-            "title": "U.S. military reaches deals with 7 tech companies to use their AI on classified systems",
-            "description": "[JAPAN TODAY] The Pentagon says it has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks, allowing the military to tap into AI-powered capabilities to...",
-            "url": "https://japantoday.com/category/tech/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems"
-        },
-        {
-            "title": "11 Ways To Get The Most Out Of Your New PC",
-            "description": "[BGR] New computers aren't cheap, and with artificial intelligence driving prices higher, it's more important than ever to get the most out of yours.",
-            "url": "https://www.bgr.com/2157900/ways-get-most-out-of-new-pc/"
-        },
-        {
-            "title": "College students wary of the job market are changing course in search of 'AI-proof' majors",
-            "description": "[JAPAN TODAY] Two years ago, Josephine Timperman arrived at college with a plan. She declared a major in business analytics, figuring she'd learn niche skills that would stand out on a resume and help land a good...",
-            "url": "https://japantoday.com/category/business/college-students-wary-of-the-job-market-are-changing-course-in-search-of-%27ai-proof%27-majors"
         }
     ]
 }
