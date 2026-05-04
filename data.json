@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-04 13:50:09 UTC",
+    "updated": "2026-05-04 15:58:42 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,24 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
-        },
-        {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -32,14 +22,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,14 +42,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -72,9 +67,29 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Global Markets Steady Amid Middle East Tensions and Earnings Reports",
+            "description": "[DEVDISCOURSE] Global markets show resilience as investors navigate geopolitical uncertainties in the Middle East, economic data, and corporate earnings. Despite tensions, oil prices remain stable and stocks show...",
+            "url": "https://www.devdiscourse.com/article/headlines/3895188-global-markets-steady-amid-middle-east-tensions-and-earnings-reports"
+        },
+        {
+            "title": "Anthropic nears $1.5 billion AI joint venture with Wall Street firms, WSJ reports",
+            "description": "[MARKETSCREENER] Anthropic is finalizing an about $1.5 billion joint venture with Blackstone, Goldman Sachs and a handful of other Wall Street firms to sell artificial-intelligence tools to private-equity-backed...",
+            "url": "https://www.marketscreener.com/news/anthropic-nears-1-5-billion-ai-joint-venture-with-wall-street-firms-wsj-reports-ce7f58deda8af227"
+        },
+        {
+            "title": "Asian Stocks Near Record as AI Boom Helps Wipe Out War Losses",
+            "description": "[BLOOMBERG] Asian stocks rose to near a record, with a measure excluding Japan already at an all-time high, as investors\u2019 enthusiasm for artificial intelligence bets helped erase losses caused by the war in Iran.",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-04/asian-stocks-outside-of-japan-hit-record-high-as-tech-rallies"
         },
         {
             "title": "Chinese stocks are about to get a big AI boost, Morgan Stanley predicts",
@@ -110,21 +125,6 @@
             "title": "The automation arms race will have huge consequences for workers",
             "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Artificial intelligence might be driving growth for data centre companies, but society is unprepared for the long-term risks posed to the rest of us.",
             "url": "https://www.abc.net.au/news/2026-05-04/artificial-intelligence-fog-layoff-data-centres-craig-scroggie/106635938"
-        },
-        {
-            "title": "Study warns cost-cutting use of generative AI could increase cyber-attack risks",
-            "description": "[PHYS.ORG] Newly published research from a leading computer scientist warns that the use of generative AI to design, train, or perform steps within a machine learning system could increase serious risks....",
-            "url": "https://phys.org/news/2026-04-generative-ai-cyber.html"
-        },
-        {
-            "title": "generated actors and scripts: What is changing",
-            "description": "[TIMES OF INDIA] Tech News News: At a time when artificial intelligence (AI) is transforming the making of movies, the Academy of Motion Picture Arts and Sciences has officially drawn.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/oscars-have-new-rules-for-ai-generated-actors-and-scripts-what-is-changing/articleshow/130734690.cms"
-        },
-        {
-            "title": "Meta acquires humanoid robot developer Assured Robot Intelligence",
-            "description": "[SOCIAL MEDIA TODAY] It\u2019s the latest move in a race to add artificial intelligence to consumer-facing home technology, with xAI and Amazon also competing for future category dominance.",
-            "url": "https://www.socialmediatoday.com/news/meta-acquires-humanoid-robot-developer-assured-robot-intelligence/819156/"
         }
     ]
 }
