@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-04 15:58:42 UTC",
+    "updated": "2026-05-04 17:45:01 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -22,6 +22,11 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
@@ -42,19 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -62,19 +62,49 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
-        },
-        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "ISBF Launches BSc (Hons) Artificial Intelligence with Brunel Academic Direction",
+            "description": "[THE TRIBUNE] New Delhi [India], May 4: The Indian School of Business & Finance (ISBF) has announced the launch of its BSc (Hons) Artificial Intelligence undergraduate programme, further strengthening its...",
+            "url": "https://www.tribuneindia.com/news/business/isbf-launches-bsc-hons-artificial-intelligence-with-brunel-academic-direction/"
+        },
+        {
+            "title": "ISBF Launches BSc (Hons) Artificial Intelligence with Brunel Academic Direction",
+            "description": "[NEWS18] ISBF Launches BSc (Hons) Artificial Intelligence with Brunel Academic Direction",
+            "url": "https://www.news18.com/agency-feeds/isbf-launches-bsc-hons-artificial-intelligence-with-brunel-academic-direction-10072686.html"
+        },
+        {
+            "title": "Asian equities gain amid light holiday volume; investors weigh Trump\u2019s",
+            "description": "[SEEKING ALPHA] Asian equities rise in thin holiday trading on Monday driven by strong earnings from major US tech companies and growing interest in artificial intelligence. Investors monitored Middle East...",
+            "url": "https://seekingalpha.com/news/4584495-asian-equities-gain-amid-light-holiday-volume-investors-weigh-trumps-middle-east-updates"
+        },
+        {
+            "title": "What is Mark Zuckerberg\u2019s Biohub and can it build AI models of human cells to cure all disease?",
+            "description": "[EURONEWS] Mark Zuckerberg and Priscilla Chan\u2019s Biohub is investing $500 million to build AI models of human cells, as tech giants race to bring artificial intelligence into biology.",
+            "url": "https://www.euronews.com/next/2026/05/04/what-is-mark-zuckerbergs-biohub-and-can-it-build-ai-models-of-human-cells-to-cure-all-dise"
+        },
+        {
+            "title": "Anthropic nears $1.5 billion AI joint venture with Wall Street firms: Report",
+            "description": "[THE HINDU] Anthropic is finalising \u200ban about $1.5 billion \u200cjoint venture with \u200bBlackstone, \u2060Goldman Sachs and a handful of other \u200cWall Street firms to \u200csell artificial-intelligence tools \u200cto...",
+            "url": "https://www.thehindu.com/sci-tech/technology/anthropic-nears-15-billion-ai-joint-venture-with-wall-street-firms-report/article70937159.ece"
+        },
+        {
+            "title": "AI helped Shenzhen judges handle cases 50% faster. Is this the future for China?",
+            "description": "[SOUTH CHINA MORNING POST] Pilot system driven by artificial intelligence technology will now be rolled out in the courts of dozens more Chinese cities.",
+            "url": "https://www.scmp.com/news/china/politics/article/3352161/ai-helped-shenzhen-judges-handle-cases-50-faster-future-china"
         },
         {
             "title": "Global Markets Steady Amid Middle East Tensions and Earnings Reports",
@@ -95,36 +125,6 @@
             "title": "Chinese stocks are about to get a big AI boost, Morgan Stanley predicts",
             "description": "[CNBC TV18] The investment bank also raised its price targets on two Chinese companies that develop artificial intelligence models.",
             "url": "https://www.cnbctv18.com/technology/chinese-stocks-are-about-to-get-a-big-ai-boost-morgan-stanley-predicts-19897786.htm"
-        },
-        {
-            "title": "Anthropic co-founder: AI impact \u201810x larger and 10x faster than industrial revolution\u2019",
-            "description": "[CHANNEL 4 NEWS] Artificial intelligence is evolving faster than ever - and the debate over AI safety, regulation, and control is intensifying.",
-            "url": "https://www.channel4.com/news/anthropic-co-founder-ai-impact-10x-larger-and-10x-faster-than-industrial-revolution"
-        },
-        {
-            "title": "The Week in Breakingviews: Taking stock of tech",
-            "description": "[REUTERS] As demand for \u2060artificial intelligence surges, \u200bis Big Tech\u2019s \u200bbig bet paying off? This week\u2019s recap \u200bexplores why this \u200byear\u2019s $725 bln capex splurge \u200cis \u2060still risky for investors. Plus why...",
-            "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-05-03/"
-        },
-        {
-            "title": "Stock Market Today: Dow, S&P Live Updates for May 4",
-            "description": "[BLOOMBERG] Stocks rallied, with Asian shares climbing toward all-time highs, on optimism around the artificial intelligence trade and stronger-than-expected earnings from megacap tech companies. The yen briefly...",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-03/us-futures-gain-oil-falls-on-signs-of-iran-talks-markets-wrap"
-        },
-        {
-            "title": "Mark Cuban Urges Employees To Challenge AI Output To Secure Job Stability, Says 'If You Regurgitate What",
-            "description": "[BENZINGA] Mark Cuban told his followers on Sunday that workers should use artificial intelligence as an opponent to test and challenge, not a machine that quietly writes their work for them.",
-            "url": "https://www.benzinga.com/markets/tech/26/05/52238981/mark-cuban-urges-employees-to-challenge-ai-output-to-secure-job-stability-says-if-you-regurgitate-what-ai-gives-you-you-will-be-fired"
-        },
-        {
-            "title": "Ericsson highlights 5G, AI-led growth potential",
-            "description": "[THE NATION] ISLAMABAD - Ericsson underscored the transformative role of advanced connectivity, artificial intelligence (AI), and 5G in accelerating Pakistan\u2019s",
-            "url": "https://www.nation.com.pk/04-May-2026/ericsson-highlights-5g-ai-led-growth-potential"
-        },
-        {
-            "title": "The automation arms race will have huge consequences for workers",
-            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Artificial intelligence might be driving growth for data centre companies, but society is unprepared for the long-term risks posed to the rest of us.",
-            "url": "https://www.abc.net.au/news/2026-05-04/artificial-intelligence-fog-layoff-data-centres-craig-scroggie/106635938"
         }
     ]
 }
