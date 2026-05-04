@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-03 22:36:31 UTC",
+    "updated": "2026-05-04 02:32:52 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,24 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
-        },
-        {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -32,14 +22,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,14 +42,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -72,59 +67,64 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
+            "title": "Secret Pentagon AI Deals: Why Google, SpaceX, And OpenAI Are Joining The Frontlines",
+            "description": "[NDTV.COM] The US Department of Defence has secured deals with Nvidia, Microsoft, and Amazon to deploy artificial intelligence across its highly classified networks, aiming to enhance decision-making and...",
+            "url": "https://www.ndtv.com/world-news/secret-pentagon-ai-deals-why-nvidia-and-microsoft-are-joining-the-frontlines-11443189"
+        },
+        {
+            "title": "Why the war on Iran matters for the global AI energy race",
+            "description": "[MIDDLE EAST EYE] As artificial intelligence reshapes global competition, control of the energy that powers it has become a strategic prize",
+            "url": "https://www.middleeasteye.net/opinion/why-war-iran-matters-global-ai-energy-race"
+        },
+        {
+            "title": "Elon Musk \u2018agrees\u2019 to the AI training practice that Anthropic complained to White House against China",
+            "description": "[TIMES OF INDIA] Tech News News: Elon Musk told a federal courtroom in California this week that his artificial intelligence startup, xAI, has used models from OpenAI to improve its o.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-agrees-to-the-ai-training-practice-that-anthropic-complained-to-white-house-against-china/articleshow/130733206.cms"
+        },
+        {
+            "title": "Midterms Spur Regulatory Scrutiny Over Crypto and AI Super PACs",
+            "description": "[CRYPTO BREAKING NEWS] In the run-up to the 2026 midterm elections, industry groups aligned with crypto and artificial intelligence are channeling tens of millions of dollars",
+            "url": "https://www.cryptobreaking.com/midterms-spur-regulatory-scrutiny-over/"
+        },
+        {
+            "title": "Big Tech Earnings Show Split Between AI Trade Winners and Losers",
+            "description": "[BLOOMBERG] The world\u2019s biggest technology companies posted strong earnings last week, showing that the artificial intelligence boom is alive and well. But in the stock market, investors are getting more...",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-03/big-tech-earnings-show-split-between-ai-trade-winners-and-losers"
+        },
+        {
+            "title": "Building a local LLM news brief taught me my real problem wasn't the sources, it was the apps",
+            "description": "[XDA DEVELOPERS] My local LLM brief didn\u2019t replace journalism. It replaced the app noise that made following the news feel exhausting.",
+            "url": "https://www.xda-developers.com/building-local-llm-news-brief-taught-problem-apps/"
+        },
+        {
+            "title": "driven pricing pressure, cost cuts reshape India IT outlook: Report",
+            "description": "[THE ECONOMIC TIMES] Artificial intelligence (AI) is increasingly reshaping the growth and margin outlook for India's IT services sector, with firms facing rising pricing pressure even as new demand opportunities emerge,...",
+            "url": "https://economictimes.indiatimes.com/tech/information-tech/ai-driven-pricing-pressure-cost-cuts-reshape-india-it-outlook-report/articleshow/130732370.cms"
+        },
+        {
+            "title": "Chinese stocks are about to get a big AI boost, Morgan Stanley predicts",
+            "description": "[CNBC] The investment bank also raised its price targets on two Chinese companies that develop artificial intelligence models.",
+            "url": "https://www.cnbc.com/2026/05/03/chinese-stocks-are-about-to-get-a-big-ai-boost-morgan-stanley-predicts.html"
+        },
+        {
+            "title": "driven pricing pressure, cost cuts reshape India IT outlook: Report",
+            "description": "[THE TRIBUNE] Artificial intelligence (AI) is increasingly reshaping the growth and margin outlook for India's IT services sector, with firms facing rising pricing pressure even as new demand opportunities emerge,...",
+            "url": "https://www.tribuneindia.com/news/business/ai-driven-pricing-pressure-cost-cuts-reshape-india-it-outlook-report/"
+        },
+        {
             "title": "Pentagon announces list of seven companies that signed deal for classified work that a Google employee said he is 'ashamed of' the company signing",
             "description": "[TIMES OF INDIA] Tech News News: The US Department of War recently announced a deal with seven technology companies to deploy artificial intelligence (AI) tools on classified military.",
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/pentagon-announces-list-of-seven-companies-that-signed-deal-for-classified-work-that-a-google-employee-said-he-is-ashamed-of-the-company-signing/articleshow/130730527.cms"
-        },
-        {
-            "title": "Claude Code with a local LLM running offline is the hybrid setup I didn't know I needed",
-            "description": "[XDA DEVELOPERS] Local LLMs are great, when you know what tasks suit them best",
-            "url": "https://www.xda-developers.com/claude-code-with-a-local-llm-running-offline-is-the-hybrid-setup-i-didnt-know-i-needed/"
-        },
-        {
-            "title": "\u2018I want to fund those people\u2019: Sam Altman on the important ingredient he looks for",
-            "description": "[TIMES OF INDIA] Tech News News: OpenAI CEO Sam Altman has said that apart from enhancing efficiency, reducing human error and automating repetitive tasks, artificial intelligence (AI.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/i-want-to-fund-those-people-sam-altman-on-the-important-ingredient-he-looks-for/articleshow/130728566.cms"
-        },
-        {
-            "title": "One Issue Uniting Democrats and Republicans? Worries About A.I.",
-            "description": "[THE NEW YORK TIMES] The growing unease over artificial intelligence is something elements of the left and the right can agree on in a polarized age.",
-            "url": "https://www.nytimes.com/2026/05/03/us/politics/democrats-republicans-ai.html"
-        },
-        {
-            "title": "Oscars organization expands international film eligibility, addresses AI in new rules",
-            "description": "[THE MANILA TIMES] The organization behind the Oscars is for the first time addressing the use of artificial intelligence in performances and scripts for the 2027 Academy Awards. The Academy of Motion Picture Arts and...",
-            "url": "https://www.manilatimes.net/2026/05/03/entertainment-lifestyle/oscars-organization-expands-international-film-eligibility-addresses-ai-in-new-rules/2334422"
-        },
-        {
-            "title": "NVIDIA vs Intel Stock Battle 2026: AI Leader or Turnaround Star - Which to Buy Now?",
-            "description": "[INTERNATIONAL BUSINESS TIMES] As investors weigh semiconductor giants amid the ongoing artificial intelligence boom, NVIDIA Corp. stands out as Wall Street's clear favorite heading into the second half of 2026, with analysts",
-            "url": "https://www.ibtimes.com/nvidia-vs-intel-stock-battle-2026-ai-leader-turnaround-star-which-buy-now-3802284"
-        },
-        {
-            "title": "Sustainability has left the AI chat",
-            "description": "[THE JAPAN TIMES ] For all the awe over artificial intelligence, one word rarely finds its way into coffee table conversations about the transformative technology: sustainability.",
-            "url": "https://www.japantimes.co.jp/commentary/2026/05/03/world/sustainability-issues-ai/"
-        },
-        {
-            "title": "Fired For AI? China Court Says That\u2019s Illegal-Here\u2019s Why It Matters",
-            "description": "[TIMES NOW] Chinese court rules companies can\u2019t fire employees just to replace them with Artificial Intelligence, stressing labour rights amid rising automation trends., Industry, Times Now",
-            "url": "https://www.timesnownews.com/business-economy/industry/fired-for-ai-china-court-says-thats-illegalheres-why-it-matters-article-154230003"
-        },
-        {
-            "title": "EDITORIAL SHORT: The need, the need for speed",
-            "description": "[ARKANSAS ONLINE] In these days of social media, artificial intelligence, robotics, self-driving cars, private space travel, and other incredible technological advancements, it's hard to believe that some people are...",
-            "url": "https://www.arkansasonline.com/news/2026/may/03/editorial-short-the-need-the-need-for-speed/"
-        },
-        {
-            "title": "The Academy expands international film eligibility, addresses AI in new rules",
-            "description": "[THE HINDU] The Academy, the organisation behind the Oscars, has addressed the use of artificial intelligence in performances and scripts for the 2027 Academy Awards, apart from allowing an actor to be nominated...",
-            "url": "https://www.thehindu.com/entertainment/movies/the-academy-expands-international-film-eligibility-addresses-ai-in-new-rules/article70934554.ece"
         }
     ]
 }
