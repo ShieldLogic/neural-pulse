@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-05 06:12:32 UTC",
+    "updated": "2026-05-05 09:58:47 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,14 +7,24 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+        },
+        {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,19 +32,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+            "title": "Building AI Agents with Local Small Language Models",
+            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+            "title": "Text Summarization with Scikit-LLM",
+            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
         },
         {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
@@ -62,11 +67,6 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Solomon says new federal AI strategy will track impact on jobs",
-            "description": "[CHEK NEWS] The federal government's promised new national AI strategy will consider the technology\u2019s impacts on the labour market, Artificial Intelligence Minister Evan Solomon said on Monday.",
-            "url": "https://cheknews.ca/solomon-says-new-federal-ai-strategy-will-track-impact-on-jobs-1322575/"
+            "title": "Intel appoints Qualcomm executive to lead PC and physical AI business",
+            "description": "[MARKETSCREENER] Intel said on Monday it had appointed Alex Katouzian to lead the company's PC and physical artificial intelligence unit. The new role for Katouzian includes the company's crucial PC...",
+            "url": "https://www.marketscreener.com/news/intel-appoints-qualcomm-executive-to-lead-pc-and-physical-ai-business-ce7f58dfdd8af42d"
         },
         {
-            "title": "Advanced AI models outperform pediatricians in diagnosing rare diseases",
-            "description": "[NEWS-MEDICAL.NET] Artificial intelligence (AI) is increasingly being explored as a tool to support clinical decision-making, yet its real-world performance in pediatric diagnosis remains unclear.",
-            "url": "https://www.news-medical.net/news/20260504/Advanced-AI-models-outperform-pediatricians-in-diagnosing-rare-diseases.aspx"
+            "title": "OpenAI president discloses his stake in the company is worth $30B",
+            "description": "[THE ASSOCIATED PRESS] Greg Brockman, OpenAI\u2019s president and CEO Sam Altman\u2019s top lieutenant, disclosed in court Monday that his stake in the artificial intelligence company is worth nearly $30 billion.",
+            "url": "https://apnews.com/article/brockman-musk-altman-openai-trial-837bdc3fbced2a02f0f93a1899260bdd"
         },
         {
-            "title": "France had no men\u2019s badminton player in the top 10. Then they changed one thing.",
-            "description": "[THE INDIAN EXPRESS] In 2025, France made a breakthrough in badminton with three male shuttlers in the top 20 and reaching the Thomas Cup final. This transformation was due to the individual coaching model, advanced...",
-            "url": "https://indianexpress.com/shorts/sports/badminton/france-thomas-cup-badminton-revolution-top-10-10672775/"
+            "title": "OpenAI president discloses his stake in the company is worth $30B",
+            "description": "[BARCHART] Greg Brockman, OpenAI\u2019s president and CEO Sam Altman\u2019s top lieutenant, disclosed in court Monday that his stake in the artificial intelligence company is worth nearly $30 billion",
+            "url": "https://www.barchart.com/story/news/1695682/openai-president-discloses-his-stake-in-the-company-is-worth-30b"
         },
         {
-            "title": "Sam Altman may have just agreed with Elon Musk but it is not about AI but having more \u2026",
-            "description": "[TIMES OF INDIA] Tech News News: While OpenAI CEO Sam Altman and Tesla CEO Elon Musk are often at odds over the future of artificial intelligence (AI), they have found something to ag.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-may-have-just-agreed-with-elon-musk-but-it-is-not-about-ai-but-having-more-/articleshow/130808456.cms"
+            "title": "OpenAI president discloses his stake in the company is worth $30B",
+            "description": "[WDIV CLICKONDETROIT] Greg Brockman, OpenAI\u2019s president and CEO Sam Altman\u2019s top lieutenant, disclosed in court Monday that his stake in the artificial intelligence company is worth nearly $30 billion.",
+            "url": "https://www.clickondetroit.com/business/2026/05/04/openai-president-discloses-his-stake-in-the-company-is-worth-30b/"
         },
         {
-            "title": "Threads expands trending topic summaries to more regions",
-            "description": "[SOCIAL MEDIA TODAY] Topic summaries are determined by artificial intelligence, with the app\u2019s team providing oversight to avoid violating community guidelines.",
-            "url": "https://www.socialmediatoday.com/news/threads-expands-trending-topic-summaries-to-more-regions/819276/"
+            "title": "OpenAI President Discloses His Stake in the Company Is Worth $30B",
+            "description": "[U.S. NEWS & WORLD REPORT] OAKLAND, Calif. (AP) \u2014 Greg Brockman, OpenAI's president and CEO Sam Altman's top lieutenant, disclosed in court Monday that his stake in the artificial intelligence company is worth nearly $30...",
+            "url": "https://www.usnews.com/news/business/articles/2026-05-04/openai-president-discloses-his-stake-in-the-company-is-worth-30b"
         },
         {
-            "title": "White House posts AI Star Wars picture of Trump for May 4",
-            "description": "[BALTIMORE NEWS] The White House on Monday posted a Star Wars artificial intelligence picture of President Donald Trump for May 4.",
-            "url": "https://foxbaltimore.com/station/share/white-house-posts-ai-star-wars-picture-of-trump-for-may-4-iran-jesus-christ-white-house"
+            "title": "NYC public schools get lousy grade on protecting student privacy",
+            "description": "[NEW YORK DAILY NEWS] The audit by State Comptroller Tom DiNapoli raised fresh concerns about the embrace of artificial intelligence in the classroom.",
+            "url": "https://www.nydailynews.com/2026/05/04/nyc-public-schools-get-lousy-grade-on-protecting-student-privacy/"
         },
         {
-            "title": "White House posts AI Star Wars picture of Trump for May 4",
-            "description": "[WJLA] The White House on Monday posted a Star Wars artificial intelligence picture of President Donald Trump for May 4.",
-            "url": "https://wjla.com/news/nation-world/white-house-posts-ai-star-wars-picture-of-trump-for-may-4-iran-jesus-christ-white-house"
+            "title": "Trump Team Weighs Limited AI Oversight",
+            "description": "[NEWSMAX] In a notable evolution from its earlier light-touch approach to the fast-growing industry, the Trump administration is exploring whether to introduce targeted federal oversight of cutting-edge...",
+            "url": "https://www.newsmax.com/politics/trump-ai-artificial-intelligence/2026/05/04/id/1255162/"
         },
         {
-            "title": "Centre announces 15,000 scholarships for AI",
-            "description": "[THE ECONOMIC TIMES] The Centre is launching a major initiative to train young professionals in artificial intelligence. Fifteen thousand scholarships will be offered for the media, entertainment, gaming, and animation...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/centre-announces-15000-scholarships-for-ai-use-in-media-entertainment-gaming/articleshow/130806639.cms"
+            "title": "Building trades unions emerge as a key ally of tech giants in push for AI data centers",
+            "description": "[JAPAN TODAY] Building trades unions \u2014 long fashioned as the voice of the American worker \u2014 are now intertwined with the richest companies in the world as they create America's artificial intelligence economy....",
+            "url": "https://japantoday.com/category/business/building-trades-unions-emerge-as-a-key-ally-of-tech-giants-in-push-for-ai-data-centers"
         },
         {
-            "title": "Instagram adds AI Creator labels",
-            "description": "[SOCIAL MEDIA TODAY] The feature is rolling out for accounts that post artificial intelligence-generated content, and the labels will appear on profiles and content.",
-            "url": "https://www.socialmediatoday.com/news/instagram-adds-ai-creator-labels/819267/"
+            "title": "Rosenberg Research: How to avoid the dangers of Big Tech\u2019s shift out of asset-light business models - and still be able to profit from AI",
+            "description": "[THE GLOBE AND MAIL] The artificial intelligence boom is dragging Big Tech into a far more capital-intensive world",
+            "url": "https://www.theglobeandmail.com/investing/investment-ideas/article-big-techs-capital-expenditures-race-and-the-looming-earnings-quality/"
         },
         {
-            "title": "Federal AI strategy will track impact on jobs: Evan Solomon",
-            "description": "[BNN BLOOMBERG] Artificial Intelligence Minister Evan Solomon says the government\u2019s new national AI strategy will consider the technology\u2019s impacts on the labour market.",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/05/04/solomon-says-new-federal-ai-strategy-will-track-impact-on-jobs/"
+            "title": "Trump says AI will probably kill jobs but also 'create a lot of jobs'",
+            "description": "[WASHINGTON EXAMINER] President Donald Trump conceded Monday that artificial intelligence will have a seismic impact on the labor market.",
+            "url": "https://www.washingtonexaminer.com/news/white-house/4554424/trump-ai-probably-kill-jobs-also-create-a-lot/"
         }
     ]
 }
