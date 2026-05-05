@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-05 19:14:08 UTC",
+    "updated": "2026-05-05 20:59:18 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,24 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
-        },
-        {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -32,14 +22,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,14 +42,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -72,9 +67,24 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Musk vs Altman: AI legal fight spills internal chats, 5 key moments so far",
+            "description": "[FIRSTPOST] The high-stakes courtroom battle between Elon Musk and OpenAI is revealing more than legal arguments. From heated testimonies to leaked messages and AI rivalry claims, the case is shedding light on...",
+            "url": "https://www.firstpost.com/tech/musk-vs-altman-ai-legal-fight-spills-internal-chats-5-key-moments-so-far-14007774.html"
+        },
+        {
+            "title": "US government planning law so Google, OpenAI and no other company can freely release an AI model like Anthropic's Mythos that 'scared' many",
+            "description": "[TIMES OF INDIA] Tech News News: The Trump administration, which once promised Silicon Valley it would never slow down artificial intelligence with \\\"foolish rules,\\\" is now drafting le.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-planning-law-so-google-openai-and-no-other-company-can-freely-release-an-ai-model-like-anthropics-mythos-that-scared-many/articleshow/130819415.cms"
         },
         {
             "title": "ATxSummit 2026 Brings Global Leaders to Singapore to Chart AI's Future Across Asia",
@@ -115,16 +125,6 @@
             "title": "Terrified Pompeii victim\u2019s face reconstructed with AI",
             "description": "[DAILY EXPRESS] Archaeologists have used artificial intelligence for the first time to digitally reconstruct the face of a man who died during the Mount Vesuvius eruption.",
             "url": "https://www.express.co.uk/news/science/2200241/pompeii-victims-face-reconstructed-ai"
-        },
-        {
-            "title": "Responsible artificial intelligence practices still \u2018in their infancy\u2019 across Irish firms",
-            "description": "[THE IRISH TIMES] Irish organisations significantly trail their US counterparts in terms of AI governance execution on every dimension measured",
-            "url": "https://www.irishtimes.com/business/2026/05/05/responsible-artificial-intelligence-practices-still-in-their-infancy-across-irish-firms/"
-        },
-        {
-            "title": "Biocon\u2019s Kiran Mazumdar-Shaw chooses niece Claire Mazumdar as successor: Report",
-            "description": "[THE ECONOMIC TIMES] Biocon founder Kiran Mazumdar-Shaw has announced her successor. Niece Claire Mazumdar will lead the company. Claire Mazumdar is the founder and CEO of Bicara Therapeutics. She holds advanced degrees...",
-            "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/biocons-kiran-mazumdar-shaw-chooses-niece-claire-mazumdar-as-successor-report/articleshow/130815946.cms"
         }
     ]
 }
