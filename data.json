@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-05 17:20:33 UTC",
+    "updated": "2026-05-05 19:14:08 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,14 +7,24 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+        },
+        {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,19 +32,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+            "title": "Building AI Agents with Local Small Language Models",
+            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,9 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+            "title": "Text Summarization with Scikit-LLM",
+            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
         },
         {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
@@ -62,11 +67,6 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
@@ -77,6 +77,46 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
+            "title": "ATxSummit 2026 Brings Global Leaders to Singapore to Chart AI's Future Across Asia",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Artificial intelligence (AI) is rapidly embedding itself into the systems that power economies, reshaping how businesses compete, governments...",
+            "url": "https://www.prnewswire.co.uk/news-releases/atxsummit-2026-brings-global-leaders-to-singapore-to-chart-ais-future-across-asia-302762370.html"
+        },
+        {
+            "title": "New molecular framework paves the way for targeted Parkinson\u2019s therapeutic interventions",
+            "description": "[NEWS-MEDICAL.NET] A new study led by researchers from VIB and KU Leuven shows that Parkinson's disease can be divided into distinct subtypes, helping explain why a single treatment does not work for all patients....",
+            "url": "https://www.news-medical.net/news/20260505/New-molecular-framework-paves-the-way-for-targeted-Parkinsone28099s-therapeutic-interventions.aspx"
+        },
+        {
+            "title": "Steven Soderbergh believes AI will make his war film 'better'",
+            "description": "[PERTHNOW] Steven Soderbergh has insisted using artificial intelligence (AI) technology will be \"better\" for his upcoming Spanish-American war movie, but he stressed he won't use it to replace performance.",
+            "url": "https://www.perthnow.com.au/entertainment/movies/steven-soderbergh-believes-ai-will-make-his-war-film-better-c-22238373"
+        },
+        {
+            "title": "\u200bBeyond China: Nvidia bets big on the global AI boom\u200b",
+            "description": "[THE ECONOMIC TIMES] Nvidia\u2019s sudden exit from China marks a turning point in the global AI race. As geopolitical tensions reshape technology markets, CEO Jensen Huang\u2019s warning highlights a deeper shift\u2014one that could...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/beyond-china-nvidia-bets-big-on-the-global-ai-boom/slideshow/130819013.cms"
+        },
+        {
+            "title": "What is Mark Zuckerberg\u2019s AI Biohub: Inside the $500 million effort to analyse human cells with artificial intelligence",
+            "description": "[TIMES OF INDIA] Tech News News: Artificial intelligence is steadily moving beyond chatbots and search engines into something far more complex: human biology. In a bold new move, Mark.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/what-is-mark-zuckerbergs-ai-biohub-inside-the-500-million-effort-to-analyse-human-cells-with-artificial-intelligence/articleshow/130818453.cms"
+        },
+        {
+            "title": "Incredible AI reconstruction of Pompeii victim's face as he fled Mount Vesuvius eruption",
+            "description": "[THE DAILY STAR] The face of a Pompeii victim who died trying to escape the deadly eruption of Mount Vesuvius in 79AD has been digitally reconstructed using artificial intelligence by archaeologists at the ancient...",
+            "url": "https://www.dailystar.co.uk/news/world-news/incredible-ai-reconstruction-pompeii-victims-37096578"
+        },
+        {
+            "title": "Incredible AI reconstruction of Pompeii victim's face as he fled Mount Vesuvius eruption",
+            "description": "[THE DAILY STAR] The face of a Pompeii victim who died trying to escape the deadly eruption of Mount Vesuvius in 79AD has been digitally reconstructed using artificial intelligence by archaeologists at the ancient...",
+            "url": "https://www.dailystar.co.uk/news/uk-news/incredible-ai-reconstruction-pompeii-victims-37096578"
+        },
+        {
+            "title": "Terrified Pompeii victim\u2019s face reconstructed with AI",
+            "description": "[DAILY EXPRESS] Archaeologists have used artificial intelligence for the first time to digitally reconstruct the face of a man who died during the Mount Vesuvius eruption.",
+            "url": "https://www.express.co.uk/news/science/2200241/pompeii-victims-face-reconstructed-ai"
+        },
+        {
             "title": "Responsible artificial intelligence practices still \u2018in their infancy\u2019 across Irish firms",
             "description": "[THE IRISH TIMES] Irish organisations significantly trail their US counterparts in terms of AI governance execution on every dimension measured",
             "url": "https://www.irishtimes.com/business/2026/05/05/responsible-artificial-intelligence-practices-still-in-their-infancy-across-irish-firms/"
@@ -85,46 +125,6 @@
             "title": "Biocon\u2019s Kiran Mazumdar-Shaw chooses niece Claire Mazumdar as successor: Report",
             "description": "[THE ECONOMIC TIMES] Biocon founder Kiran Mazumdar-Shaw has announced her successor. Niece Claire Mazumdar will lead the company. Claire Mazumdar is the founder and CEO of Bicara Therapeutics. She holds advanced degrees...",
             "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/biocons-kiran-mazumdar-shaw-chooses-niece-claire-mazumdar-as-successor-report/articleshow/130815946.cms"
-        },
-        {
-            "title": "Pinterest forecasts upbeat quarterly revenue on resilient ad spending, shares surge",
-            "description": "[THE ECONOMIC TIMES] Pinterest anticipates strong second-quarter revenue, exceeding analyst expectations. The image-sharing platform's shares surged on the news. Investments in artificial intelligence and a focus on...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/pinterest-forecasts-upbeat-quarterly-revenue-on-resilient-ad-spending-shares-surge/articleshow/130815836.cms"
-        },
-        {
-            "title": "FIIs sell Indian equities on 150 of last 240 trading days. What does it say about their return timing?",
-            "description": "[THE ECONOMIC TIMES] Foreign investors have sold Indian stocks on most trading days recently. This trend is linked to rising oil prices, a weaker rupee, and higher US bond yields. Global capital is also moving towards...",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-indian-equities-on-150-of-last-240-trading-days-what-does-it-say-about-their-return-timing/articleshow/130815595.cms"
-        },
-        {
-            "title": "White House weighs vetting AI models before public release, says NYT",
-            "description": "[THE HINDU] Trump's administration is considering requiring U.S. government oversight of artificial intelligence models before they are released to the public, a sharp reversal of the previous hands-off approach...",
-            "url": "https://www.thehindu.com/sci-tech/technology/white-house-weighs-vetting-ai-models-before-public-release-says-nyt/article70941238.ece"
-        },
-        {
-            "title": "Campaigns are using AI to talk you into voting for candidates",
-            "description": "[SALT LAKE CITY DESERET NEWS] Why is artificial intelligence giving stump speeches?",
-            "url": "https://www.deseret.com/politics/2026/05/04/political-campaigns-are-using-ai-chatbots-to-persuade-voters-make-video-ads-and-write-speeches/"
-        },
-        {
-            "title": "White House weighs vetting AI models before public release: NYT",
-            "description": "[THE ECONOMIC TIMES] President Donald Trump's administration is considering requiring US government oversight of artificial intelligence models before they are released to the public, a sharp reversal of the previous...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/white-house-weighs-vetting-ai-models-before-public-release-nyt/articleshow/130814263.cms"
-        },
-        {
-            "title": "AI model reads genetic code to trace evolutionary history",
-            "description": "[NEWS-MEDICAL.NET] Researchers at the University of Oregon have developed an artificial intelligence tool that can read genetic code the way large language models like ChatGPT read text. Scanning the genome for...",
-            "url": "https://www.news-medical.net/news/20260504/AI-model-reads-genetic-code-to-trace-evolutionary-history.aspx"
-        },
-        {
-            "title": "Strategic autonomy: Why India should call off the LLM debate and develop its very own AI models",
-            "description": "[LIVEMINT] The argument that developing large language models (LLMs) locally would waste Indian resources has weakened. Put to strategic use, AI could have implications for cyber and national security. Clearly,...",
-            "url": "https://www.livemint.com/opinion/online-views/strategic-autonomy-india-llm-debate-ai-models-artificial-intelligence-anthropic-mythos-11777901561793.html"
-        },
-        {
-            "title": "States across the wildfire-prone Western US are using AI for early detection",
-            "description": "[PHYS.ORG] On a March afternoon, artificial intelligence detected something resembling smoke on a camera feed from Arizona's Coconino National Forest. Human analysts verified it wasn't a cloud or dust, then...",
-            "url": "https://phys.org/news/2026-05-states-wildfire-prone-western-ai.html"
         }
     ]
 }
