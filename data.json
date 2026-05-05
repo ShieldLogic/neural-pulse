@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-05 02:27:24 UTC",
+    "updated": "2026-05-05 06:12:32 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -22,6 +22,11 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
@@ -42,19 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -62,14 +62,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Wall Street Lunch: AI Chipmaker Seeks $3.5B In IPO, Eyes $26.5B Valuation",
-            "description": "[SEEKING ALPHA] Artificial intelligence chipmaker Cerebras Systems (CBRS) is seeking to raise up to $3.5B in its upcoming initial public offering.",
-            "url": "https://seekingalpha.com/article/4898002-wall-street-lunch-ai-chipmaker-seeks-3-5b-in-ipo-eyes-26-5b-valuation"
+            "title": "Solomon says new federal AI strategy will track impact on jobs",
+            "description": "[CHEK NEWS] The federal government's promised new national AI strategy will consider the technology\u2019s impacts on the labour market, Artificial Intelligence Minister Evan Solomon said on Monday.",
+            "url": "https://cheknews.ca/solomon-says-new-federal-ai-strategy-will-track-impact-on-jobs-1322575/"
         },
         {
-            "title": "States across wildfire-prone Western U.S. use AI for early detection",
-            "description": "[BNN BLOOMBERG] On a March afternoon, artificial intelligence detected something resembling smoke on a camera feed from Arizona\u2019s Coconino National Forest. Human analysts verified it wasn\u2019t a cloud or dust, then...",
-            "url": "https://www.bnnbloomberg.ca/business/2026/05/04/states-across-the-wildfire-prone-western-us-are-using-ai-for-early-detection/"
+            "title": "Advanced AI models outperform pediatricians in diagnosing rare diseases",
+            "description": "[NEWS-MEDICAL.NET] Artificial intelligence (AI) is increasingly being explored as a tool to support clinical decision-making, yet its real-world performance in pediatric diagnosis remains unclear.",
+            "url": "https://www.news-medical.net/news/20260504/Advanced-AI-models-outperform-pediatricians-in-diagnosing-rare-diseases.aspx"
         },
         {
-            "title": "Why Nvidia stock is about to begin a 3-month hot run",
-            "description": "[FINBOLD] Nvidia stock could be entering another powerful rally phase, supported by strong seasonal trends and booming artificial intelligence demand.",
-            "url": "https://finbold.com/why-nvidia-stock-is-about-to-begin-a-3-month-hot-run/"
+            "title": "France had no men\u2019s badminton player in the top 10. Then they changed one thing.",
+            "description": "[THE INDIAN EXPRESS] In 2025, France made a breakthrough in badminton with three male shuttlers in the top 20 and reaching the Thomas Cup final. This transformation was due to the individual coaching model, advanced...",
+            "url": "https://indianexpress.com/shorts/sports/badminton/france-thomas-cup-badminton-revolution-top-10-10672775/"
         },
         {
-            "title": "AI's Crucial Role in Wildfire Detection and Management",
-            "description": "[DEVDISCOURSE] Artificial intelligence is transforming wildfire detection and management across the western United States. AI-enabled cameras, like those used by Arizona Public Service, help quickly identify and...",
-            "url": "https://www.devdiscourse.com/article/science-environment/3896115-ais-crucial-role-in-wildfire-detection-and-management"
+            "title": "Sam Altman may have just agreed with Elon Musk but it is not about AI but having more \u2026",
+            "description": "[TIMES OF INDIA] Tech News News: While OpenAI CEO Sam Altman and Tesla CEO Elon Musk are often at odds over the future of artificial intelligence (AI), they have found something to ag.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-may-have-just-agreed-with-elon-musk-but-it-is-not-about-ai-but-having-more-/articleshow/130808456.cms"
         },
         {
-            "title": "prone Western US are using AI for early detection",
-            "description": "[WTOP] On a March afternoon, artificial intelligence detected something resembling smoke on a camera feed from Arizona\u2019s Coconino National Forest.",
-            "url": "https://wtop.com/australia/2026/05/states-across-the-wildfire-prone-western-us-are-using-ai-for-early-detection-2/"
+            "title": "Threads expands trending topic summaries to more regions",
+            "description": "[SOCIAL MEDIA TODAY] Topic summaries are determined by artificial intelligence, with the app\u2019s team providing oversight to avoid violating community guidelines.",
+            "url": "https://www.socialmediatoday.com/news/threads-expands-trending-topic-summaries-to-more-regions/819276/"
         },
         {
-            "title": "States Across the Wildfire-Prone Western US Are Using AI for Early Detection",
-            "description": "[U.S. NEWS & WORLD REPORT] On a March afternoon, artificial intelligence detected something resembling smoke on a camera feed from Arizona\u2019s Coconino National Forest. Human analysts verified it wasn't a cloud or dust, then...",
-            "url": "https://www.usnews.com/news/technology/articles/2026-05-04/states-across-the-wildfire-prone-western-us-are-using-ai-for-early-detection"
+            "title": "White House posts AI Star Wars picture of Trump for May 4",
+            "description": "[BALTIMORE NEWS] The White House on Monday posted a Star Wars artificial intelligence picture of President Donald Trump for May 4.",
+            "url": "https://foxbaltimore.com/station/share/white-house-posts-ai-star-wars-picture-of-trump-for-may-4-iran-jesus-christ-white-house"
         },
         {
-            "title": "Pixxel, Sarvam to launch India\u2019s first orbital data centre satellite for AI training",
-            "description": "[THE INDIAN EXPRESS] Space-tech startup Pixxel on Monday, May 4, announced a partnership with LLM provider Sarvam AI to develop and build India\u2019s first orbital data centre satellite called The Pathfinder. Expected to...",
-            "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/pixxel-sarvam-india-first-orbital-data-centre-ai-training-10672464/"
+            "title": "White House posts AI Star Wars picture of Trump for May 4",
+            "description": "[WJLA] The White House on Monday posted a Star Wars artificial intelligence picture of President Donald Trump for May 4.",
+            "url": "https://wjla.com/news/nation-world/white-house-posts-ai-star-wars-picture-of-trump-for-may-4-iran-jesus-christ-white-house"
         },
         {
-            "title": "Enphase Energy publishes technical white paper on IQ Sst architecture for AI data centers",
-            "description": "[MARKETSCREENER] Enphase Energy Inc: Enphase Energy publishes technical white paper on IQ Sst architecture for Artificial Intelligence Data Center Architecture ...",
-            "url": "https://www.marketscreener.com/news/enphase-energy-publishes-technical-white-paper-on-iq-sst-architecture-for-ai-data-centers-ce7f58ded188f520"
+            "title": "Centre announces 15,000 scholarships for AI",
+            "description": "[THE ECONOMIC TIMES] The Centre is launching a major initiative to train young professionals in artificial intelligence. Fifteen thousand scholarships will be offered for the media, entertainment, gaming, and animation...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/centre-announces-15000-scholarships-for-ai-use-in-media-entertainment-gaming/articleshow/130806639.cms"
         },
         {
-            "title": "Machine learning algorithm predicts Micron stock price on May 31, 2026",
-            "description": "[FINBOLD] Following MU stock's nearly 100% YTD rally, Finbold consulted its own AI agent on how Micron's shares might fare by May 31.",
-            "url": "https://finbold.com/machine-learning-algorithm-predicts-micron-stock-price-on-may-31-2026/"
+            "title": "Instagram adds AI Creator labels",
+            "description": "[SOCIAL MEDIA TODAY] The feature is rolling out for accounts that post artificial intelligence-generated content, and the labels will appear on profiles and content.",
+            "url": "https://www.socialmediatoday.com/news/instagram-adds-ai-creator-labels/819267/"
         },
         {
-            "title": "From 1 share to 480: Nvidia's stock split story and what comes next",
-            "description": "[BUSINESS TODAY] According to a Yahoo Finance report, the company could continue its growth trajectory for decades. Over the next few years, it added that more than $7 trillion could be spent on building new...",
-            "url": "https://www.businesstoday.in/markets/story/from-1-share-to-480-nvidias-split-story-and-what-comes-next-529670-2026-05-04"
+            "title": "Federal AI strategy will track impact on jobs: Evan Solomon",
+            "description": "[BNN BLOOMBERG] Artificial Intelligence Minister Evan Solomon says the government\u2019s new national AI strategy will consider the technology\u2019s impacts on the labour market.",
+            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/05/04/solomon-says-new-federal-ai-strategy-will-track-impact-on-jobs/"
         }
     ]
 }
