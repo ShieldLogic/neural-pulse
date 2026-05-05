@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-04 22:54:34 UTC",
+    "updated": "2026-05-05 02:27:24 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,19 +22,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
-        },
-        {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,19 +42,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
-        },
-        {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -72,59 +67,64 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "AI Accelerates Formula 1: The Race Towards Technological Dominance",
-            "description": "[DEVDISCOURSE] Formula 1 teams, owned by Liberty Media, are leveraging Artificial Intelligence to enhance on- and off-track operations. Noteworthy partnerships with AI firms like Anthropic and CoreWeave highlight a...",
-            "url": "https://www.devdiscourse.com/article/technology/3895811-ai-accelerates-formula-1-the-race-towards-technological-dominance"
+            "title": "Wall Street Lunch: AI Chipmaker Seeks $3.5B In IPO, Eyes $26.5B Valuation",
+            "description": "[SEEKING ALPHA] Artificial intelligence chipmaker Cerebras Systems (CBRS) is seeking to raise up to $3.5B in its upcoming initial public offering.",
+            "url": "https://seekingalpha.com/article/4898002-wall-street-lunch-ai-chipmaker-seeks-3-5b-in-ipo-eyes-26-5b-valuation"
         },
         {
-            "title": "Biohub invests $500M to build AI models of human cells",
-            "description": "[THE NEWS INTERNATIONAL] Chan Zuckerberg Biohub is investing $500 million within a period of five years in developing artificial intelligence models of human cells, tools that can be used to investigate diseases digitally...",
-            "url": "https://www.thenews.com.pk/latest/1401324-biohub-invests-500m-to-build-ai-models-of-human-cells"
+            "title": "States across wildfire-prone Western U.S. use AI for early detection",
+            "description": "[BNN BLOOMBERG] On a March afternoon, artificial intelligence detected something resembling smoke on a camera feed from Arizona\u2019s Coconino National Forest. Human analysts verified it wasn\u2019t a cloud or dust, then...",
+            "url": "https://www.bnnbloomberg.ca/business/2026/05/04/states-across-the-wildfire-prone-western-us-are-using-ai-for-early-detection/"
         },
         {
-            "title": "OJR student a finalists for overseas debate program",
-            "description": "[READING EAGLE] In London, finalists will debate topics related to digital surveillance, Artificial Intelligence, NATO, and free speech.",
-            "url": "https://www.readingeagle.com/2026/05/04/ojr-student-a-finalists-for-overseas-debate-program/"
+            "title": "Why Nvidia stock is about to begin a 3-month hot run",
+            "description": "[FINBOLD] Nvidia stock could be entering another powerful rally phase, supported by strong seasonal trends and booming artificial intelligence demand.",
+            "url": "https://finbold.com/why-nvidia-stock-is-about-to-begin-a-3-month-hot-run/"
         },
         {
-            "title": "HUMAIN ONE, Powered by AWS, Will Be the Industry's First Enterprise-Grade Operating System for Building, Deploying, and Governing Autonomous AI Agents at Scale",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- HUMAIN, a PIF company delivering full-stack artificial intelligence (AI) capabilities globally, today announced an expansion of its strategic...",
-            "url": "https://www.prnewswire.co.uk/news-releases/humain-one-powered-by-aws-will-be-the-industrys-first-enterprise-grade-operating-system-for-building-deploying-and-governing-autonomous-ai-agents-at-scale-302761241.html"
+            "title": "AI's Crucial Role in Wildfire Detection and Management",
+            "description": "[DEVDISCOURSE] Artificial intelligence is transforming wildfire detection and management across the western United States. AI-enabled cameras, like those used by Arizona Public Service, help quickly identify and...",
+            "url": "https://www.devdiscourse.com/article/science-environment/3896115-ais-crucial-role-in-wildfire-detection-and-management"
         },
         {
-            "title": "Factory Orders Jump on AI Surge",
-            "description": "[BREITBART NEWS NETWORK] New orders for U.S. factory goods rose more than expected in March, driven by surging demand for electronics products amid the artificial intelligence | Economy",
-            "url": "https://www.breitbart.com/economy/2026/05/04/factory-orders-jump-on-surge-in-ai-demand/"
+            "title": "prone Western US are using AI for early detection",
+            "description": "[WTOP] On a March afternoon, artificial intelligence detected something resembling smoke on a camera feed from Arizona\u2019s Coconino National Forest.",
+            "url": "https://wtop.com/australia/2026/05/states-across-the-wildfire-prone-western-us-are-using-ai-for-early-detection-2/"
         },
         {
-            "title": "10 free Google AI courses enable beginners to build skills in modern machine learning tools - check details here",
-            "description": "[TIMES OF INDIA] News News: Google has made available a set of ten free artificial intelligence courses aimed at learners with no prior experience. The modules span generative sy.",
-            "url": "https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms"
+            "title": "States Across the Wildfire-Prone Western US Are Using AI for Early Detection",
+            "description": "[U.S. NEWS & WORLD REPORT] On a March afternoon, artificial intelligence detected something resembling smoke on a camera feed from Arizona\u2019s Coconino National Forest. Human analysts verified it wasn't a cloud or dust, then...",
+            "url": "https://www.usnews.com/news/technology/articles/2026-05-04/states-across-the-wildfire-prone-western-us-are-using-ai-for-early-detection"
         },
         {
-            "title": "AI has companies cutting jobs - but not replacing workers",
-            "description": "[ACTIVIST POST] Discover the truth behind artificial intelligence and jobs: how corporate shifts can influence workforce stability and structure.",
-            "url": "https://www.activistpost.com/ai-has-companies-cutting-jobs-but-not-replacing-workers/"
+            "title": "Pixxel, Sarvam to launch India\u2019s first orbital data centre satellite for AI training",
+            "description": "[THE INDIAN EXPRESS] Space-tech startup Pixxel on Monday, May 4, announced a partnership with LLM provider Sarvam AI to develop and build India\u2019s first orbital data centre satellite called The Pathfinder. Expected to...",
+            "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/pixxel-sarvam-india-first-orbital-data-centre-ai-training-10672464/"
         },
         {
-            "title": "Sharon AI rejects short seller accusation about key contract",
-            "description": "[AUSTRALIAN FINANCIAL REVIEW] The artificial intelligence start-up aiming for an ASX listing next month says it has no concern about a newly announced Indian customers\u2019 ability to pay its bills.",
-            "url": "https://www.afr.com/technology/sharon-ai-rejects-short-seller-accusation-about-key-contract-20260504-p5ztf0"
+            "title": "Enphase Energy publishes technical white paper on IQ Sst architecture for AI data centers",
+            "description": "[MARKETSCREENER] Enphase Energy Inc: Enphase Energy publishes technical white paper on IQ Sst architecture for Artificial Intelligence Data Center Architecture ...",
+            "url": "https://www.marketscreener.com/news/enphase-energy-publishes-technical-white-paper-on-iq-sst-architecture-for-ai-data-centers-ce7f58ded188f520"
         },
         {
-            "title": "Inside Israel's AI targeting system: How data from a phone become a death sentence",
-            "description": "[LOS ANGELES TIMES] The Israeli military has used a targeting system powered by artificial intelligence to launch what it says are attacks on Hezbollah in Lebanon.",
-            "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence"
+            "title": "Machine learning algorithm predicts Micron stock price on May 31, 2026",
+            "description": "[FINBOLD] Following MU stock's nearly 100% YTD rally, Finbold consulted its own AI agent on how Micron's shares might fare by May 31.",
+            "url": "https://finbold.com/machine-learning-algorithm-predicts-micron-stock-price-on-may-31-2026/"
         },
         {
-            "title": "As Formula One evolves, AI becomes part of the race",
-            "description": "[THE STRAITS TIMES] LONDON, May 4 - Artificial Intelligence\u2019s integration into Liberty Media-owned Formula One and its 11 teams has been noticeable on- and off-track in the already highly tech-powered sport. Read more...",
-            "url": "https://www.straitstimes.com/sport/formula-one/as-formula-one-evolves-ai-becomes-part-of-the-race"
+            "title": "From 1 share to 480: Nvidia's stock split story and what comes next",
+            "description": "[BUSINESS TODAY] According to a Yahoo Finance report, the company could continue its growth trajectory for decades. Over the next few years, it added that more than $7 trillion could be spent on building new...",
+            "url": "https://www.businesstoday.in/markets/story/from-1-share-to-480-nvidias-split-story-and-what-comes-next-529670-2026-05-04"
         }
     ]
 }
