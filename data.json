@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-05 15:50:21 UTC",
+    "updated": "2026-05-05 17:20:33 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,24 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
-        },
-        {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -32,14 +22,19 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,9 +47,9 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
         },
         {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
@@ -67,6 +62,11 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
@@ -75,6 +75,26 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Responsible artificial intelligence practices still \u2018in their infancy\u2019 across Irish firms",
+            "description": "[THE IRISH TIMES] Irish organisations significantly trail their US counterparts in terms of AI governance execution on every dimension measured",
+            "url": "https://www.irishtimes.com/business/2026/05/05/responsible-artificial-intelligence-practices-still-in-their-infancy-across-irish-firms/"
+        },
+        {
+            "title": "Biocon\u2019s Kiran Mazumdar-Shaw chooses niece Claire Mazumdar as successor: Report",
+            "description": "[THE ECONOMIC TIMES] Biocon founder Kiran Mazumdar-Shaw has announced her successor. Niece Claire Mazumdar will lead the company. Claire Mazumdar is the founder and CEO of Bicara Therapeutics. She holds advanced degrees...",
+            "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/biocons-kiran-mazumdar-shaw-chooses-niece-claire-mazumdar-as-successor-report/articleshow/130815946.cms"
+        },
+        {
+            "title": "Pinterest forecasts upbeat quarterly revenue on resilient ad spending, shares surge",
+            "description": "[THE ECONOMIC TIMES] Pinterest anticipates strong second-quarter revenue, exceeding analyst expectations. The image-sharing platform's shares surged on the news. Investments in artificial intelligence and a focus on...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/pinterest-forecasts-upbeat-quarterly-revenue-on-resilient-ad-spending-shares-surge/articleshow/130815836.cms"
+        },
+        {
+            "title": "FIIs sell Indian equities on 150 of last 240 trading days. What does it say about their return timing?",
+            "description": "[THE ECONOMIC TIMES] Foreign investors have sold Indian stocks on most trading days recently. This trend is linked to rising oil prices, a weaker rupee, and higher US bond yields. Global capital is also moving towards...",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-indian-equities-on-150-of-last-240-trading-days-what-does-it-say-about-their-return-timing/articleshow/130815595.cms"
         },
         {
             "title": "White House weighs vetting AI models before public release, says NYT",
@@ -105,26 +125,6 @@
             "title": "States across the wildfire-prone Western US are using AI for early detection",
             "description": "[PHYS.ORG] On a March afternoon, artificial intelligence detected something resembling smoke on a camera feed from Arizona's Coconino National Forest. Human analysts verified it wasn't a cloud or dust, then...",
             "url": "https://phys.org/news/2026-05-states-wildfire-prone-western-ai.html"
-        },
-        {
-            "title": "Intel appoints Qualcomm executive to lead PC and physical AI business",
-            "description": "[THE ECONOMIC TIMES] Intel has made a significant leadership change by appointing Alex Katouzian to spearhead its PC and physical artificial intelligence division. With a rich background in mobile chip development from...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/intel-appoints-qualcomm-executive-to-lead-pc-and-physical-ai-business/articleshow/130814072.cms"
-        },
-        {
-            "title": "Intel appoints Qualcomm executive to lead PC and physical AI business",
-            "description": "[THE STAR] May 4 (Reuters) - Intel said \u2060on Monday it had appointed Alex Katouzian to \u2060lead the company's PC and physical artificial intelligence \u200cunit.",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/05/intel-appoints-qualcomm-executive-to-lead-pc-and-physical-ai-business"
-        },
-        {
-            "title": "Lattice Semiconductor to buy software firm AMI in $1.65 billion deal",
-            "description": "[THE STAR] May 4 (Reuters) - Lattice \u2060Semiconductor will acquire AMI in a $1.65 billion \u2060deal, it said on Monday, as the \u200cchipmaker looks to expand into the software and artificial intelligence management space.",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/05/lattice-semiconductor-to-buy-software-firm-ami-in-165-billion-deal"
-        },
-        {
-            "title": "Competition for Artificial Intelligence Labs Is Possible, but We See the Ontology as Best-of-Breed",
-            "description": "[MORNINGSTAR] Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
-            "url": "https://www.morningstar.com/company-reports/1479519-competition-for-artificial-intelligence-labs-is-possible-but-we-see-the-ontology-as-best-of-breed"
         }
     ]
 }
