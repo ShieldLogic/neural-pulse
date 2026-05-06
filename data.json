@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-06 21:07:37 UTC",
+    "updated": "2026-05-06 22:47:46 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -22,11 +22,6 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
@@ -47,14 +42,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -62,14 +62,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Florida tragedies highlight risks of chatbots' friendly suggestions",
-            "description": "[HERALD-TRIBUNE] Artificial intelligence chatbots are readily available while the rest of the world sleeps, but some of their advice has been part of tragic outcomes.",
-            "url": "https://www.heraldtribune.com/story/news/healthcare/2026/05/06/chatbot-advice-found-tragic-florida-outcomes-regulations-debated/89824887007/"
+            "title": "Wall Street Rally Fueled by U.S.-Iran Peace Hopes and AI Optimism",
+            "description": "[DEVDISCOURSE] Wall Street futures climbed on Wednesday, buoyed by optimism over a potential U.S.-Iran peace agreement and growth in artificial intelligence. Major indices reached record highs, spurred by strong...",
+            "url": "https://www.devdiscourse.com/article/headlines/3898596-wall-street-rally-fueled-by-us-iran-peace-hopes-and-ai-optimism"
         },
         {
-            "title": "Florida tragedies highlight risks of chatbots' friendly suggestions",
-            "description": "[GAINESVILLE SUN] Artificial intelligence chatbots are readily available while the rest of the world sleeps, but some of their advice has been part of tragic outcomes.",
-            "url": "https://www.gainesville.com/story/news/healthcare/2026/05/06/chatbot-advice-found-tragic-florida-outcomes-regulations-debated/89824887007/"
+            "title": "Hut 8 to Lease Texas AI Data Center for at Least $9.8 Billion",
+            "description": "[BLOOMBERG] Hut 8 Corp., a cryptocurrency miner that is shifting to developing artificial intelligence data center capacity, has signed a lease worth at least $9.8 billion over 15 years to provide computing...",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-06/hut-8-to-lease-texas-ai-data-center-for-at-least-9-8-billion"
         },
         {
-            "title": "Florida tragedies highlight risks of chatbots' friendly suggestions",
-            "description": "[TCPALM] Artificial intelligence chatbots are readily available while the rest of the world sleeps, but some of their advice has been part of tragic outcomes.",
-            "url": "https://www.tcpalm.com/story/news/healthcare/2026/05/06/chatbot-advice-found-tragic-florida-outcomes-regulations-debated/89824887007/"
+            "title": "Managers, get your hands dirty or get fired: Lessons from AI-powered tech layoffs at Coinbase, Block, Snap",
+            "description": "[LIVEMINT] As layoffs become the law of the land, and artificial intelligence (AI) drives productivity, it is managers that are becoming redundant.",
+            "url": "https://www.livemint.com/companies/managers-get-your-hands-dirty-or-get-fired-lessons-from-ai-powered-tech-layoffs-at-coinbase-block-snap-11778061704617.html"
         },
         {
-            "title": "Florida tragedies highlight risks of chatbots' friendly suggestions",
-            "description": "[NAPLES DAILY NEWS] Artificial intelligence chatbots are readily available while the rest of the world sleeps, but some of their advice has been part of tragic outcomes.",
-            "url": "https://www.naplesnews.com/story/news/healthcare/2026/05/06/chatbot-advice-found-tragic-florida-outcomes-regulations-debated/89824887007/"
+            "title": "Tan See Leng responds to motion on artificial intelligence transition with no jobless growth",
+            "description": "[CNA] Singapore will not leave the future of work and its people\u2019s livelihoods to chance amid disruption from AI, said Manpower Minister Tan See Leng. He told parliament on Wednesday (May 6) that the...",
+            "url": "https://www.channelnewsasia.com/watch/tan-see-leng-responds-motion-artificial-intelligence-transition-no-jobless-growth-6104131"
         },
         {
-            "title": "The AI Boom\u2019s Chipmaker Moment Ignores History",
-            "description": "[BLOOMBERG] Semiconductors are pulling ahead of everything else in the stock market, including the vaunted hyperscalers that helped drive extraordinary returns from 2022 through 2025. The divergence is part of a...",
-            "url": "https://www.bloomberg.com/opinion/articles/2026-05-06/the-ai-boom-s-chipmaker-moment-ignores-history-as-micron-surges"
+            "title": "AI boom drives a rally in buying of tech shares",
+            "description": "[BNN BLOOMBERG] South Korea\u2019s Kospi soared nearly seven per cent to a fresh record on Wednesday as Samsung Electronics\u2019 stock jumped nearly 13 per cent in a rally driven by expectations of strong growth in...",
+            "url": "https://www.bnnbloomberg.ca/markets/2026/05/06/ai-boom-drives-a-rally-in-buying-of-tech-shares-pushing-south-koreas-kospi-to-a-record/"
         },
         {
-            "title": "Thailand Clears $29 Billion Investments Led by TikTok Project",
-            "description": "[BLOOMBERG] Thailand approved 958 billion baht ($29 billion) of investment projects, led by TikTok System (Thailand) Co.\u2019s planned expansion of data infrastructure as the country pushes to become a regional hub...",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-06/thailand-clears-29-billion-investments-led-by-tiktok-project"
+            "title": "AI boom drives a rally in buying of tech shares",
+            "description": "[CP24 TORONTO] South Korea\u2019s Kospi soared nearly seven per cent to a fresh record on Wednesday as Samsung Electronics\u2019 stock jumped nearly 13 per cent in a rally driven by expectations of strong growth in...",
+            "url": "https://www.cp24.com/news/money/2026/05/06/ai-boom-drives-a-rally-in-buying-of-tech-shares-pushing-south-koreas-kospi-to-a-record/"
         },
         {
-            "title": "Wall Street's Record Surge: Fueled by AI Optimism and Middle East Peace Hopes",
-            "description": "[DEVDISCOURSE] Wall Street futures surged amidst optimism surrounding a potential U.S.-Iran peace agreement and advancements in artificial intelligence, taking major indexes to record highs. Strong forecasts from...",
-            "url": "https://www.devdiscourse.com/article/headlines/3898428-wall-streets-record-surge-fueled-by-ai-optimism-and-middle-east-peace-hopes"
+            "title": "Schneider Electric to launch Southeast Asia training hub in Malaysia",
+            "description": "[REUTERS] French energy technology firm Schneider Electric plans to open a Southeast Asian training centre in Malaysia this year, \u200ba senior executive said on Wednesday, as a boom \u200cin artificial intelligence...",
+            "url": "https://www.reuters.com/world/asia-pacific/schneider-electric-launch-southeast-asia-training-hub-malaysia-2026-05-06/"
         },
         {
-            "title": "US stock futures rally on Middle East peace hopes, AI optimism",
-            "description": "[REUTERS] Wall Street futures rose \u200bon Wednesday, extending a strong run on hopes of a potential U.S.-Iran peace agreement \u200cand unrelenting optimism around artificial intelligence.",
-            "url": "https://www.reuters.com/business/us-stock-index-futures-rise-middle-east-peace-hopes-ai-optimism-2026-05-06/"
+            "title": "Workers can do more with AI than organisations support: Report",
+            "description": "[LOKMAT TIMES] Workers can do more with AI than organisations support: Report - New Delhi, May 6 Organisations are failing to keep pace with workers using artificial intelligence to expand the ... Get Latest News...",
+            "url": "https://www.lokmattimes.com/business/workers-can-do-more-with-ai-than-organisations-support-report/"
         },
         {
-            "title": "US stock index futures rise on Middle East peace hopes, AI optimism",
-            "description": "[MARKETSCREENER] Wall Street futures climbed on Wednesday, buoyed by hopes of a U.S.-Iran peace agreement and unrelenting optimism around artificial intelligence. The rally, which took the S&P 500 and...",
-            "url": "https://www.marketscreener.com/news/us-stock-index-futures-rise-on-middle-east-peace-hopes-ai-optimism-ce7f58dddf8df225"
+            "title": "Workers can do more with AI than organisations support: Report",
+            "description": "[LOKMAT TIMES] Workers can do more with AI than organisations support: Report - New Delhi, May 6 Organisations are failing to keep pace with workers using artificial intelligence to expand the ... Get Latest News...",
+            "url": "https://www.lokmattimes.com/technology/workers-can-do-more-with-ai-than-organisations-support-report-1/"
         },
         {
-            "title": "Motion: Sharael Taha on artificial intelligence transition with no jobless growth",
-            "description": "[CNA] In many economies, jobless growth means growth without jobs. For Singapore, which is near full employment, it is not just about creating more jobs during the AI transition, but ensuring people can...",
-            "url": "https://www.channelnewsasia.com/watch/motion-sharael-taha-artificial-intelligence-transition-no-jobless-growth-6103776"
+            "title": "AI Tsunami: How Artificial Intelligence is Overwhelming Scientific Journals",
+            "description": "[DEVDISCOURSE] The use of AI in scientific paper submissions has surged by 42% since ChatGPT's release, leading to a decline in writing quality, a study reveals. Organization Science journal reports increased...",
+            "url": "https://www.devdiscourse.com/article/science-environment/3898518-ai-tsunami-how-artificial-intelligence-is-overwhelming-scientific-journals"
         }
     ]
 }
