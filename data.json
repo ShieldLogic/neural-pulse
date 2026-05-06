@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-06 02:31:31 UTC",
+    "updated": "2026-05-06 06:26:47 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,19 +22,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,14 +42,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -62,14 +62,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Major publishers sue Meta for copyright infringement over AI training",
-            "description": "[THE ECONOMIC TIMES] Major publishers have filed a lawsuit against Meta Platforms in Manhattan federal court. They accuse the tech giant of using millions of their books and journal articles without permission to train...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/major-publishers-sue-meta-for-copyright-infringement-over-ai-training/articleshow/130831862.cms"
+            "title": "Cerebras Requires Limit Orders From IPO Buyers as Demand Grows",
+            "description": "[BLOOMBERG] Cerebras Systems Inc. is telling institutional investors placing orders in its IPO to specify the number of shares and the maximum price they\u2019re willing to pay, according to people familiar with the...",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-05/cerebras-requires-limit-orders-from-ipo-buyers-as-demand-grows"
         },
         {
-            "title": "The Federal Safety Net Isn\u2019t Ready for Artificial Intelligence",
-            "description": "[THE NEW YORK TIMES] As fears of A.I.-driven job losses mount, economists warn that unemployment benefits and other programs to help displaced workers aren\u2019t sufficient.",
-            "url": "https://www.nytimes.com/2026/05/05/business/artificial-intelligence-safety-net.html"
+            "title": "Alphabet closes in on Nvidia\u2019s spot as world\u2019s biggest company",
+            "description": "[BNN BLOOMBERG] Alphabet is on the cusp of overtaking Nvidia as the world\u2019s most valuable company, riding on a record stock rally fueled by its artificial intelligence efforts and booming cloud business.",
+            "url": "https://www.bnnbloomberg.ca/business/2026/05/05/alphabet-closes-in-on-nvidias-spot-as-worlds-biggest-company/"
         },
         {
-            "title": "Rotated lithium niobate crystals unlock conductive interfaces in otherwise insulating material",
-            "description": "[PHYS.ORG] An international research team involving the Institute for Photonic Quantum Systems (PhoQS) at Paderborn University has made significant progress in researching so-called quantum materials. Their...",
-            "url": "https://phys.org/news/2026-05-rotated-lithium-niobate-crystals-interfaces.html"
+            "title": "Pa. sues AI company, saying chatbot posed as doctor",
+            "description": "[BREITBART NEWS NETWORK] May 5 (UPI) -- Pennsylvania officials say they're suing an artificial intelligence company after one of its AI chatbots posed as a doctor who could",
+            "url": "https://www.breitbart.com/news/pa-sues-ai-company-saying-chatbot-posed-as-doctor/"
         },
         {
-            "title": "The War Department Announces Agreements With Leading AI Companies To Deploy Capabilities On Classified Networks",
-            "description": "[THE GATEWAY PUNDIT] The Department of War - Official Press Release The War Department has entered into agreements with seven of the world\u2019s leading frontier artificial intelligence companies, SpaceX, OpenAI, Google,...",
-            "url": "https://www.thegatewaypundit.com/2026/05/war-department-announces-agreements-leading-ai-companies-deploy/"
+            "title": "Apple to Let Users Choose Third-Party AI Models With iOS 27",
+            "description": "[MARKETSCREENER] Apple will let users select from multiple third-party artificial intelligence models for tasks across its iOS 27 software, Bloomberg reported Tuesday, citing people with knowledge of the...",
+            "url": "https://www.marketscreener.com/news/apple-to-let-users-choose-third-party-ai-models-with-ios-27-ce7f58dcde8af32c"
         },
         {
-            "title": "Steven Soderbergh Explains AI Use in John Lennon 'Last Interview' Doc",
-            "description": "[ROLLING STONE] Steven Soderbergh offered an in-depth description of how he used artificial intelligence in his upcoming doc based on John Lennon's final interview.",
-            "url": "https://www.rollingstone.com/music/music-news/steven-soderbergh-ai-use-john-lennon-last-interview-doc-1235557848/"
+            "title": "AI has companies cutting jobs - but not replacing workers",
+            "description": "[ACTIVIST POST] Discover the truth behind artificial intelligence and jobs: how corporate shifts can influence workforce stability and structure.",
+            "url": "https://www.activistpost.com/ai-has-companies-cutting-jobs-but-not-replacing-workers/"
         },
         {
-            "title": "Tech Giants Open AI Models to US Authorities",
-            "description": "[MARKETSCREENER] Microsoft, Google and xAI have agreed to submit their systems to safety checks prior to launch, amid mounting concerns over the risks associated with artificial intelligence.",
-            "url": "https://www.marketscreener.com/news/tech-giants-open-ai-models-to-us-authorities-ce7f58dcdd89f222"
+            "title": "Child safety lab launching \u2018independent crash testing\u2019 for AI tools",
+            "description": "[THE MERCURY NEWS] Since independent vehicle testing began in the mid-1990s, automakers have been incentivized to make safety changes that have saved thousands of lives each year. Now, a new group is hoping to take a...",
+            "url": "https://www.mercurynews.com/2026/05/05/child-safety-lab-launching-independent-crash-testing-for-ai-tools/"
         },
         {
-            "title": "Coinbase layoffs: Why Coinbase is cutting 14% jobs as CEO Brian Armstrong pushes AI shift \u2013 here's what he said about severance pay, healthcare, and support",
-            "description": "[THE ECONOMIC TIMES] Coinbase layoffs 2026: Coinbase is cutting 14% of its workforce amid market pressures and a shift toward artificial intelligence. CEO Brian Armstrong outlines severance, healthcare support, and the...",
-            "url": "https://economictimes.indiatimes.com/news/international/us/coinbase-layoffs-why-coinbase-is-cutting-14-jobs-as-ceo-brian-armstrong-pushes-ai-shift-heres-what-he-said-about-severance-pay-healthcare-and-support/articleshow/130829915.cms"
+            "title": "AI finds 100+ new planets and 2,000 possible new worlds using NASA's TESS data",
+            "description": "[TIMES OF INDIA] Trending News: In a development that signals a quiet but significant shift in space research, scientists have used artificial intelligence to validate over 100 plane.",
+            "url": "https://timesofindia.indiatimes.com/etimes/trending/ai-finds-100-new-planets-and-2000-possible-new-worlds-using-nasas-tess-data/articleshow/130835888.cms"
         },
         {
-            "title": "Coinbase slashes headcount to accelerate AI pivot",
-            "description": "[MARKETSCREENER] The cryptocurrency exchange has announced a 14% reduction in its workforce as it seeks to streamline its structure amid market uncertainty and the rapid rise of artificial intelligence.",
-            "url": "https://www.marketscreener.com/news/coinbase-slashes-headcount-to-accelerate-ai-pivot-ce7f58dcda81f525"
+            "title": "CoreWeave Gets Lower Costs on $3.1 Billion Loan as Demand Surges",
+            "description": "[BLOOMBERG] CoreWeave Inc. has secured lower borrowing costs on a first-of-its-kind $3.1 billion loan backed by customer contracts for microchips, benefiting from strong investor demand for artificial...",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-05/coreweave-gets-lower-costs-on-3-1-billion-loan-as-demand-surges"
         },
         {
-            "title": "XAI sidelines major water reuse project as IPO looms",
-            "description": "[POLITICO] Elon Musk\u2019s artificial intelligence company abruptly stopped work on a water reuse facility meant to alleviate strain on the Memphis-area water supply. Nobody\u2019s saying why.",
-            "url": "https://www.politico.com/news/2026/05/05/xai-water-reuse-project-musk-ai-spacex-ipo-environmental-project-ee-00896170"
+            "title": "Microsoft study claims workplace culture is slowing AI usage among companies: All details",
+            "description": "[TIMES OF INDIA] Tech News News: Microsoft\u2019s recent study has revealed the biggest factor limiting the effective use of artificial intelligence (AI) tools in companies. The software g.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-study-claims-workplace-culture-is-slowing-ai-usage-among-companies-all-details/articleshow/130834109.cms"
         },
         {
-            "title": "SAP Plans to Expand AI Access to Customers Who Don\u2019t Use Cloud",
-            "description": "[BLOOMBERG] SAP SE is planning to expand access to its artificial intelligence solutions to some customers who haven\u2019t moved their systems to its cloud services, people familiar with the matter said, a strategic...",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-05/sap-plans-to-expand-ai-access-to-customers-who-don-t-use-cloud"
+            "title": "Italy's Meloni Denounces Deepfake Photo as a Political Attack",
+            "description": "[U.S. NEWS & WORLD REPORT] ROME (AP) \u2014 Italian Premier Giorgia Meloni on Tuesday denounced the circulation of a deepfake photo of her \u2014 posing in bed, wearing lingerie \u2014 and complained that such artificial intelligence-created...",
+            "url": "https://www.usnews.com/news/technology/articles/2026-05-05/italys-meloni-denounces-deepfake-photo-as-a-political-attack"
         }
     ]
 }
