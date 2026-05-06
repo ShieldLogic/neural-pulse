@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-05 22:52:08 UTC",
+    "updated": "2026-05-06 02:31:31 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -22,6 +22,11 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
@@ -42,19 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -62,14 +62,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "How to run an LLM locally on your laptop for free",
-            "description": "[THE INDIAN EXPRESS] With tools like Ollama and LM Studio, users can now operate AI models on their own laptops with greater privacy, offline access, and more.",
-            "url": "https://indianexpress.com/article/technology/artificial-intelligence/how-to-run-an-llm-locally-on-your-laptop-for-free-10673988/"
+            "title": "Major publishers sue Meta for copyright infringement over AI training",
+            "description": "[THE ECONOMIC TIMES] Major publishers have filed a lawsuit against Meta Platforms in Manhattan federal court. They accuse the tech giant of using millions of their books and journal articles without permission to train...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/major-publishers-sue-meta-for-copyright-infringement-over-ai-training/articleshow/130831862.cms"
         },
         {
-            "title": "AI has gotten away without the self-restraints that scientists employ in the face of risks. How come?",
-            "description": "[LIVEMINT] In 2024, the scientific community chose to halt mirror-life research as soon as its dangers became clear. Are the artificial intelligence (AI) stakes too high for this field of technology to take a...",
-            "url": "https://www.livemint.com/opinion/online-views/ai-scientists-risks-mirror-life-chiral-scientific-community-artificial-intelligence-technology-11777887537255.html"
+            "title": "The Federal Safety Net Isn\u2019t Ready for Artificial Intelligence",
+            "description": "[THE NEW YORK TIMES] As fears of A.I.-driven job losses mount, economists warn that unemployment benefits and other programs to help displaced workers aren\u2019t sufficient.",
+            "url": "https://www.nytimes.com/2026/05/05/business/artificial-intelligence-safety-net.html"
         },
         {
-            "title": "Apple expected to introduce iOS 27 with advanced Siri and satellite support",
-            "description": "[BOL NEWS] Apple is expected to announce iOS 27 at its Worldwide Developers Conference (WWDC) 2026 keynote on June 8 introducing a host of new features, artificial intelligence upgrades, and system improvements...",
-            "url": "https://www.bolnews.com/technology/apple-expected-to-introduce-ios-27-with-advanced-siri-and-satellite-support/"
+            "title": "Rotated lithium niobate crystals unlock conductive interfaces in otherwise insulating material",
+            "description": "[PHYS.ORG] An international research team involving the Institute for Photonic Quantum Systems (PhoQS) at Paderborn University has made significant progress in researching so-called quantum materials. Their...",
+            "url": "https://phys.org/news/2026-05-rotated-lithium-niobate-crystals-interfaces.html"
         },
         {
-            "title": "AI-driven model predicts type 1 diabetes risk with greater accuracy",
-            "description": "[NEWS-MEDICAL.NET] Researchers use machine learning and genetic analysis to uncover type 1 diabetes risk factors, improving prediction accuracy and identifying patient subtypes.",
-            "url": "https://www.news-medical.net/news/20260505/AI-driven-model-predicts-type-1-diabetes-risk-with-greater-accuracy.aspx"
+            "title": "The War Department Announces Agreements With Leading AI Companies To Deploy Capabilities On Classified Networks",
+            "description": "[THE GATEWAY PUNDIT] The Department of War - Official Press Release The War Department has entered into agreements with seven of the world\u2019s leading frontier artificial intelligence companies, SpaceX, OpenAI, Google,...",
+            "url": "https://www.thegatewaypundit.com/2026/05/war-department-announces-agreements-leading-ai-companies-deploy/"
         },
         {
-            "title": "ISBF Launches Cutting-Edge AI Degree in Partnership with Brunel University London",
-            "description": "[DEVDISCOURSE] The Indian School of Business & Finance (ISBF) has introduced a BSc (Hons) Artificial Intelligence undergraduate program directed by Brunel University London. This program focuses on bridging...",
-            "url": "https://www.devdiscourse.com/article/education/3897167-isbf-launches-cutting-edge-ai-degree-in-partnership-with-brunel-university-london"
+            "title": "Steven Soderbergh Explains AI Use in John Lennon 'Last Interview' Doc",
+            "description": "[ROLLING STONE] Steven Soderbergh offered an in-depth description of how he used artificial intelligence in his upcoming doc based on John Lennon's final interview.",
+            "url": "https://www.rollingstone.com/music/music-news/steven-soderbergh-ai-use-john-lennon-last-interview-doc-1235557848/"
         },
         {
-            "title": "Instagram Tests \u2018AI Creator\u2019 Label To Voluntarily Identify Content",
-            "description": "[FREE PRESS JOURNAL] Instagram is testing an \u201cAI creator\u201d label for accounts that frequently post AI-generated or AI-edited material. The feature, currently in the testing phase, allows creators to voluntarily tag their...",
-            "url": "https://www.freepressjournal.in/tech/instagram-tests-ai-creator-label-to-voluntarily-identify-content"
+            "title": "Tech Giants Open AI Models to US Authorities",
+            "description": "[MARKETSCREENER] Microsoft, Google and xAI have agreed to submit their systems to safety checks prior to launch, amid mounting concerns over the risks associated with artificial intelligence.",
+            "url": "https://www.marketscreener.com/news/tech-giants-open-ai-models-to-us-authorities-ce7f58dcdd89f222"
         },
         {
-            "title": "Citigroup to announce new profit targets at investor day, CEO says",
-            "description": "[REUTERS] Citigroup will unveil medium-term profitability targets at its investor day on Thursday, highlighting improvements in \u200bexpenses and revenue from its multi-year overhaul, while betting on artificial...",
-            "url": "https://www.reuters.com/legal/transactional/citigroup-announce-new-profit-targets-investor-day-ceo-says-2026-05-05/"
+            "title": "Coinbase layoffs: Why Coinbase is cutting 14% jobs as CEO Brian Armstrong pushes AI shift \u2013 here's what he said about severance pay, healthcare, and support",
+            "description": "[THE ECONOMIC TIMES] Coinbase layoffs 2026: Coinbase is cutting 14% of its workforce amid market pressures and a shift toward artificial intelligence. CEO Brian Armstrong outlines severance, healthcare support, and the...",
+            "url": "https://economictimes.indiatimes.com/news/international/us/coinbase-layoffs-why-coinbase-is-cutting-14-jobs-as-ceo-brian-armstrong-pushes-ai-shift-heres-what-he-said-about-severance-pay-healthcare-and-support/articleshow/130829915.cms"
         },
         {
-            "title": "College students are in search of 'AI-proof' majors. But no one knows what they are",
-            "description": "[LOS ANGELES TIMES] The rise of artificial intelligence is prompting college students to second-guess their career paths",
-            "url": "https://www.latimes.com/world-nation/story/2026-05-05/college-students-are-in-search-of-ai-proof-majors"
+            "title": "Coinbase slashes headcount to accelerate AI pivot",
+            "description": "[MARKETSCREENER] The cryptocurrency exchange has announced a 14% reduction in its workforce as it seeks to streamline its structure amid market uncertainty and the rapid rise of artificial intelligence.",
+            "url": "https://www.marketscreener.com/news/coinbase-slashes-headcount-to-accelerate-ai-pivot-ce7f58dcda81f525"
         },
         {
-            "title": "Pennsylvania sues startup over unlicensed AI \u2018doctors\u2019",
-            "description": "[PITTSBURGH TRIBUNE-REVIEW] The Shapiro administration is suing the maker of popular chatbot service Character.AI for illegal practice of medicine, claiming its artificial intelligence-generated personalities are posing as...",
-            "url": "https://triblive.com/news/pennsylvania/pennsylvania-sues-startup-over-unlicensed-ai-doctors/"
+            "title": "XAI sidelines major water reuse project as IPO looms",
+            "description": "[POLITICO] Elon Musk\u2019s artificial intelligence company abruptly stopped work on a water reuse facility meant to alleviate strain on the Memphis-area water supply. Nobody\u2019s saying why.",
+            "url": "https://www.politico.com/news/2026/05/05/xai-water-reuse-project-musk-ai-spacex-ipo-environmental-project-ee-00896170"
         },
         {
-            "title": "Haun Ventures raises $1B, expands to AI-driven crypto investing",
-            "description": "[CRYPTO BREAKING NEWS] Haun Ventures has raised $1 billion to back crypto startups across early and late stages, marking a strategic expansion into artificial intelligence for",
-            "url": "https://www.cryptobreaking.com/haun-ventures-raises-1b-expands/"
+            "title": "SAP Plans to Expand AI Access to Customers Who Don\u2019t Use Cloud",
+            "description": "[BLOOMBERG] SAP SE is planning to expand access to its artificial intelligence solutions to some customers who haven\u2019t moved their systems to its cloud services, people familiar with the matter said, a strategic...",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-05/sap-plans-to-expand-ai-access-to-customers-who-don-t-use-cloud"
         }
     ]
 }
