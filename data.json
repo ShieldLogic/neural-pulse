@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-07 19:39:14 UTC",
+    "updated": "2026-05-07 21:01:20 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -22,11 +22,6 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
@@ -47,14 +42,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -62,19 +62,54 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "LALAL.AI Wins People's Voice Webby Award for Best Use of AI & Machine Learning",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- LALAL.AI, the AI-powered audio separation and stem splitting platform, today announced it has won the People's Voice Award for Best Use of AI &...",
+            "url": "https://www.prnewswire.co.uk/news-releases/lalalai-wins-peoples-voice-webby-award-for-best-use-of-ai--machine-learning-302763083.html"
+        },
+        {
+            "title": "AI and data modernisation emerge as biggest drivers of India's tech spending surge: Report",
+            "description": "[THE TRIBUNE] Artificial intelligence and data-led transformation are expected to account for 40-45 per cent of India's change-related technology spending in 2026, as companies accelerate investments in...",
+            "url": "https://www.tribuneindia.com/news/business/ai-and-data-modernisation-emerge-as-biggest-drivers-of-indias-tech-spending-surge-report/"
+        },
+        {
+            "title": "Swiss media adopts AI code of conduct",
+            "description": "[SWISSINFO (EN)] Swiss media industry adopting code of conduct for the responsible use of artificial intelligence.",
+            "url": "https://www.swissinfo.ch/eng/swiss-ai/swiss-media-adopt-a-code-of-conduct-on-ai/91377202"
+        },
+        {
+            "title": "Did Shivon Zilis operate as Elon Musk\u2019s agent at OpenAI?",
+            "description": "[FIRSTPOST] Shivon Zilis\u2019 ties to Elon Musk were detailed in the blockbuster OpenAI trial. Zilis, mother of Musk\u2019s four children, testified on Wednesday (May 6) on whether she \u2018funnelled\u2019 information to the...",
+            "url": "https://www.firstpost.com/explainers/did-shivon-zilis-operate-as-elon-musks-agent-at-openai-14008486.html"
+        },
+        {
+            "title": "Activist investor Palliser takes minor stake in UK's Autotrader, source says",
+            "description": "[REUTERS] Activist investor Palliser Capital has built \u200bup to a 2% stake in Britain's Autotrader Group , a source \u200cfamiliar with the matter said on Thursday, at a time when the automotive marketplace is under...",
+            "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/activist-palliser-builds-stake-uks-autotrader-sky-news-reports-2026-05-07/"
+        },
+        {
+            "title": "U.S.-Iran Peace Hopes, AI Cheer Power Asia Markets Higher -- Update",
+            "description": "[MARKETSCREENER] By Kimberley Kao and Megan Cheah Asian stocks rallied again on Thursday as continued hopes for a U.S.-Iran resolution and another surge in artificial-intelligence stocks lifted markets. ...",
+            "url": "https://www.marketscreener.com/news/u-s-iran-peace-hopes-ai-cheer-power-asia-markets-higher-update-ce7f58d3db8ff024"
+        },
+        {
+            "title": "Simulations Plus teams up with Nvidia to accelerate AI-driven drug modelling",
+            "description": "[SCIENTIFIC COMPUTING WORLD] Simulations Plus has announced a collaboration with Nvidia aimed at speeding up drug development by combining advanced simulation software with GPU-powered computing and artificial intelligence...",
+            "url": "https://www.scientific-computing.com/article/simulations-plus-teams-nvidia-accelerate-ai-driven-drug-modelling"
         },
         {
             "title": "AI boom keeping markets elevated despite geopolitical noise: Mark Matthews",
@@ -90,41 +125,6 @@
             "title": "Ron DeSantis Praises Elon Musk's 'Pro-Human' AI Vision After SpaceX-Anthropic Partnership",
             "description": "[BENZINGA] Florida Governor Ron DeSantis praises SpaceX-Anthropic partnership for its pro-human approach to artificial intelligence.",
             "url": "https://www.benzinga.com/markets/tech/26/05/52355107/ron-desantis-elon-musks-pro-human-ai-vision-spacex-anthropic-partnership"
-        },
-        {
-            "title": "Meesho Stock Climbs 8% as Revenue Growth and AI Push Lift Sentiment",
-            "description": "[OUTLOOK BUSINESS] Meesho stock jumped 8% after the ecommerce firm sharply narrowed its Q4 loss by 88% year-on-year, with revenue up 47% and order volumes rising 43%. Investors cheered strong NMV growth, stabilised...",
-            "url": "https://www.outlookbusiness.com/markets/meesho-stock-climbs-8-as-revenue-growth-and-ai-push-lift-sentiment"
-        },
-        {
-            "title": "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI's leaders",
-            "description": "[THE STAR] At the heart of the trial pitting Elon Musk against OpenAI CEO Sam Altman is a moment when they found common cause on an ever more pressing question: how to protect humanity from the risks of...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/07/worries-about-ai039s-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openai039s-leaders"
-        },
-        {
-            "title": "Inside SpaceXAI: Elon Musk\u2019s next AI venture after dissolving xAI",
-            "description": "[THE NEWS INTERNATIONAL] Elon Musk has dropped a major announcement related to his artificial intelligence startup xAI after entering an AI-powered partnership with Anthropic on Wednesday. Taking to X, the CEO of SpaceX...",
-            "url": "https://www.thenews.com.pk/latest/1401696-inside-spacexai-elon-musks-next-ai-venture-after-dissolving-xai"
-        },
-        {
-            "title": "Musk vs Altman: Before suing OpenAI, Musk tried to bring its leaders under Tesla",
-            "description": "[FIRSTPOST] Fresh courtroom testimony has revealed how Elon Musk once explored bringing OpenAI\u2019s founding team, including Sam Altman, into Tesla as internal tensions mounted over the future of artificial...",
-            "url": "https://www.firstpost.com/tech/musk-vs-altman-before-suing-openai-musk-tried-to-bring-its-leaders-under-tesla-14008468.html"
-        },
-        {
-            "title": "Native Government In India: ServiceNow Vice Chairman Nick Tzitzon \u2013 Outlook Business",
-            "description": "[OUTLOOK BUSINESS] An AI-native government is a model of governance where artificial intelligence is an intrinsic, trusted component, built naturally into all public services and administrative processes",
-            "url": "https://www.outlookbusiness.com/industry/opportunity-to-shape-ai-native-government-in-india-servicenow-vice-chairman-nick-tzitzon"
-        },
-        {
-            "title": "AI Alert: Cybersecurity Concerns Raised by New Model",
-            "description": "[DEVDISCOURSE] India's Financial Services Secretary has indicated that Anthropic's new AI model has amplified global cybersecurity concerns. This development has caught the attention of banking regulators...",
-            "url": "https://www.devdiscourse.com/article/headlines/3899577-ai-alert-cybersecurity-concerns-raised-by-new-model"
-        },
-        {
-            "title": "Scale AI wins $500m Pentagon contract, five times its previous deal",
-            "description": "[TNW] Scale AI has won a $500M contract from the Pentagon's Chief Digital and Artificial Intelligence Office, a five-fold expansion of the company's existing contract.",
-            "url": "https://thenextweb.com/news/scale-ai-500m-pentagon-defense-contract-cdao"
         }
     ]
 }
