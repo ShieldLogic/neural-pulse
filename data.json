@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-07 13:58:15 UTC",
+    "updated": "2026-05-07 16:07:58 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,19 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -27,19 +22,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
-        },
-        {
-            "title": "Effective KV Compression with TurboQuant",
-            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
-            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -57,9 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -72,59 +67,64 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Appen Shares Rise After Joining Forces With Artificial Intelligence Technology Company",
-            "description": "[MARKETSCREENER] Appen shares rose more than 1% in morning trade on Thursday following its collaboration with artificial intelligence technology company Hugging Face to bring private audio datasets to the Open ASR...",
-            "url": "https://www.marketscreener.com/news/appen-shares-rise-after-joining-forces-with-artificial-intelligence-technology-company-ce7f58d2d08af125"
+            "title": "Worries about AI's risks to humanity loom over Elon Musk's trial against OpenAI",
+            "description": "[THE ASSOCIATED PRESS] Questions about the dangers of artificial intelligence have been looming over the trial pitting Elon Musk against OpenAI CEO Sam Altman.",
+            "url": "https://apnews.com/article/openai-musk-altman-trial-agi-4f8810743d6ef9a72f91f8721a3f4027"
         },
         {
-            "title": "Korea Surpasses Canada as World\u2019s Seventh-Largest Stock Market",
-            "description": "[BLOOMBERG] South Korea\u2019s equity market has overtaken Canada\u2019s as the world\u2019s seventh largest, propelled by insatiable demand for chips powering artificial intelligence.",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-07/korea-surpasses-canada-as-world-s-seventh-largest-stock-market"
+            "title": "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI's leaders",
+            "description": "[BARCHART] Questions about the dangers of artificial intelligence have been looming over the trial pitting Elon Musk against OpenAI CEO Sam Altman",
+            "url": "https://www.barchart.com/story/news/1771304/worries-about-ai-s-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openai-s-leaders"
         },
         {
-            "title": "In OpenAI trial, former technology chief says Sam Altman sowed 'chaos,' distrust among top executives",
-            "description": "[THE ECONOMIC TIMES] A former OpenAI executive testified that CEO Sam Altman created distrust among leaders. This testimony emerged during Elon Musk's lawsuit against OpenAI. Musk claims the company abandoned its...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/in-openai-trial-former-technology-chief-says-sam-altman-sowed-chaos-distrust-among-top-executives/articleshow/130875033.cms"
+            "title": "EU countries, lawmakers clinch provisional deal on watered-down AI rules",
+            "description": "[MARKETSCREENER] EU countries and European Parliament lawmakers on Thursday agreed to watered-down landmark artificial intelligence rules, including delaying their implementation, in a move which critics say shows......",
+            "url": "https://www.marketscreener.com/news/eu-countries-lawmakers-clinch-provisional-deal-on-watered-down-ai-rules-ce7f58d2d08ff220"
         },
         {
-            "title": "SpaceX to give Anthropic access to its massive AI supercomputer",
-            "description": "[THE STAR] May 6 (Reuters) - \u2060Elon Musk's SpaceX \u2060said on Wednesday it \u200chas signed a deal to give Anthropic access to Colossus \u200b1, a massive \u2060AI supercomputer, \u2060bringing together two of the \u2060most \u200cprominent...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/07/spacex-to-give-anthropic-access-to-its-massive-ai-supercomputer"
+            "title": "Mythos Shows AI Weapons Inspectors Need Sharp Teeth",
+            "description": "[BLOOMBERG] Here\u2019s something you don\u2019t see every day: In the midst of an urgent global race to deploy artificial intelligence, some tech companies are voluntarily reining themselves in. Microsoft Corp., Alphabet...",
+            "url": "https://www.bloomberg.com/opinion/articles/2026-05-07/anthropic-s-mythos-shows-ai-weapons-inspectors-need-sharp-teeth"
         },
         {
-            "title": "How AI bots hired over 260 candidates at Piramal Finance",
-            "description": "[LIVEMINT] Piramal Finance, a non-bank financier, hired 262 entry-level sales executives entirely using an artificial intelligence (AI) bot.",
-            "url": "https://www.livemint.com/companies/ai-hiring-piramal-finance-jobs-ajay-piramal-artificial-intelligence-nbfc-india-11778060548042.html"
+            "title": "EU Nations and Parliament Reach AI Rule Compromise",
+            "description": "[DEVDISCOURSE] EU countries and European Parliament have agreed to a softened version of proposed AI regulations and postponed their activation. The move comes after lobbying by certain governments and corporations...",
+            "url": "https://www.devdiscourse.com/article/law-order/3899394-eu-nations-and-parliament-reach-ai-rule-compromise"
         },
         {
-            "title": "AI Diplomacy: US-China Relations Enter New Dimension",
-            "description": "[DEVDISCOURSE] Washington and Beijing are contemplating official discussions on artificial intelligence as part of a summit next week between President Trump and Chinese leader Xi Jinping. The U.S. is led by...",
-            "url": "https://www.devdiscourse.com/article/politics/3899365-ai-diplomacy-us-china-relations-enter-new-dimension"
+            "title": "US, China weigh launch of official discussions on AI: WSJ",
+            "description": "[THE ECONOMIC TIMES] Washington and Beijing are reportedly considering official discussions on artificial intelligence. This topic may be placed on the agenda for an upcoming summit between President Trump and Chinese...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-china-weigh-launch-of-official-discussions-on-ai-wsj/articleshow/130876732.cms"
         },
         {
-            "title": "US, China weigh launch of official discussions on AI, WSJ reports",
-            "description": "[REUTERS] Washington and Beijing are weighing the launch of official \u200bdiscussions about artificial intelligence, \u200cthe Wall Street Journal reported on Wednesday, citing people familiar with \u200bthe matter.",
-            "url": "https://www.reuters.com/world/china/us-china-weigh-launch-official-discussions-ai-wsj-reports-2026-05-07/"
+            "title": "Hormuz crisis shows gaps in Taiwan\u2019s high-tech \u2018silicon shield\u2019",
+            "description": "[THE JAPAN TIMES ] The factors that make Taiwan an economic powerhouse \u2014 its successful technology industry and artificial intelligence-driven chipmaking \u2014 are also the ones making it vulnerable.",
+            "url": "https://www.japantimes.co.jp/news/2026/05/07/asia-pacific/hormuz-taiwan-silicon-shield/"
         },
         {
-            "title": "US, China weigh launch of official discussions on AI, WSJ reports",
-            "description": "[MARKETSCREENER] Washington and Beijing are weighing the launch of official discussions about artificial intelligence, the Wall Street Journal reported on Wednesday, citing people familiar with the matter. ... -May...",
-            "url": "https://www.marketscreener.com/news/us-china-weigh-launch-of-official-discussions-on-ai-wsj-reports-ce7f58d2d18ff427"
+            "title": "DeepSeek Valuation Could Reach Up to $50 Billion in Maiden Funding Round",
+            "description": "[MARKETSCREENER] Chinese artificial intelligence platform DeepSeek could be valued at up to $50 billion in its first fundraising drive, which could be led by the country's national artificial intelligence fund,...",
+            "url": "https://www.marketscreener.com/news/deepseek-valuation-could-reach-up-to-50-billion-in-maiden-funding-round-ce7f58d2d08df127"
         },
         {
-            "title": "South Korea and Taiwan close in on India's m-cap",
-            "description": "[THE ECONOMIC TIMES] Emerging market valuations are changing. South Korea and Taiwan are gaining ground on India, driven by the artificial intelligence chip sector. Their market values have seen significant growth....",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/south-korea-and-taiwan-close-in-on-indias-m-cap/articleshow/130874311.cms"
+            "title": "New B80m project to build AI infrastructure",
+            "description": "[BANGKOK POST] The Digital Economy and Society (DES) Ministry and the Ministry of Higher Education, Science, Research and Innovation (MHESI) have launched the ThaiLLM Foundation Model with an 80-million-baht...",
+            "url": "https://www.bangkokpost.com/business/general/3251093/new-b80m-project-to-build-ai-infrastructure"
         },
         {
-            "title": "Commentary: The AI Economy Is Accelerating the Global Baby Bust",
-            "description": "[CAIXIN] Commentary: The AI Economy Is Accelerating the Global Baby Bust - Artificial intelligence is raising the stakes for career advancement and driving up the cost of education. Without bold fiscal...",
-            "url": "https://www.caixinglobal.com/2026-05-07/the-ai-economy-is-accelerating-the-global-baby-bust-102441349.html"
+            "title": "B80-million Thai-language AI project launched",
+            "description": "[BANGKOK POST] The government is preparing to launch a new Thai large language model (LLM) project intended to secure artificial intelligence (AI) sovereignty and drive the country\u2019s digital economy.",
+            "url": "https://www.bangkokpost.com/life/tech/3251093/b80million-thailanguage-ai-project-launched"
         }
     ]
 }
