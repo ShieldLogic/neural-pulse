@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-06 22:47:46 UTC",
+    "updated": "2026-05-07 02:33:43 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -22,6 +22,11 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
@@ -42,19 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -62,14 +62,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Wall Street Rally Fueled by U.S.-Iran Peace Hopes and AI Optimism",
-            "description": "[DEVDISCOURSE] Wall Street futures climbed on Wednesday, buoyed by optimism over a potential U.S.-Iran peace agreement and growth in artificial intelligence. Major indices reached record highs, spurred by strong...",
-            "url": "https://www.devdiscourse.com/article/headlines/3898596-wall-street-rally-fueled-by-us-iran-peace-hopes-and-ai-optimism"
+            "title": "Minister Shelar calls for use of AI to ensure transparency in BMC tenders",
+            "description": "[THEPRINT] Mumbai, May 6 (PTI) Maharashtra IT minister Ashish Shelar on Wednesday directed officials to deploy artificial intelligence to eliminate human intervention in the Brihanmumbai Municipal Corporation\u2019s...",
+            "url": "https://theprint.in/india/minister-shelar-calls-for-use-of-ai-to-ensure-transparency-in-bmc-tenders/2923964/"
         },
         {
-            "title": "Hut 8 to Lease Texas AI Data Center for at Least $9.8 Billion",
-            "description": "[BLOOMBERG] Hut 8 Corp., a cryptocurrency miner that is shifting to developing artificial intelligence data center capacity, has signed a lease worth at least $9.8 billion over 15 years to provide computing...",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-06/hut-8-to-lease-texas-ai-data-center-for-at-least-9-8-billion"
+            "title": "Op Sindoor: India marks first anniversary of its most expansive multi-domain combat mission in half a century",
+            "description": "[THEPRINT] New Delhi, May 6 (PTI) Operation Sindoor, launched weeks after the dastardly Pahalgam terror attack last year, marked a paradigm shift in India\u2019s national security calculus through the extensive use...",
+            "url": "https://theprint.in/india/op-sindoor-india-marks-first-anniversary-of-its-most-expansive-multi-domain-combat-mission-in-half-a-century/2923960/"
         },
         {
-            "title": "Managers, get your hands dirty or get fired: Lessons from AI-powered tech layoffs at Coinbase, Block, Snap",
-            "description": "[LIVEMINT] As layoffs become the law of the land, and artificial intelligence (AI) drives productivity, it is managers that are becoming redundant.",
-            "url": "https://www.livemint.com/companies/managers-get-your-hands-dirty-or-get-fired-lessons-from-ai-powered-tech-layoffs-at-coinbase-block-snap-11778061704617.html"
+            "title": "S&P 500, Nasdaq hit record highs on AI optimism, Middle East peace hopes",
+            "description": "[MARKETSCREENER] The S&P 500 and the Nasdaq hit record highs on Wednesday, extending their strong run powered by sustained enthusiasm around artificial intelligence and the prospect of a U.S.-Iran peace agreement. ...",
+            "url": "https://www.marketscreener.com/news/s-p-500-nasdaq-hit-record-highs-on-ai-optimism-middle-east-peace-hopes-ce7f58d2d881fe21"
         },
         {
-            "title": "Tan See Leng responds to motion on artificial intelligence transition with no jobless growth",
-            "description": "[CNA] Singapore will not leave the future of work and its people\u2019s livelihoods to chance amid disruption from AI, said Manpower Minister Tan See Leng. He told parliament on Wednesday (May 6) that the...",
-            "url": "https://www.channelnewsasia.com/watch/tan-see-leng-responds-motion-artificial-intelligence-transition-no-jobless-growth-6104131"
+            "title": "Infineon: Q2 26",
+            "description": "[MARKETSCREENER] Earnings/Sales releases Infineon Technologies is entering a cyclical upswing supported by structural growth drivers, most notably artificial intelligence , power infrastructure, and...",
+            "url": "https://www.marketscreener.com/news/infineon-q2-26-ai-led-supercycle-drives-margin-expansion-and-structural-growth-ce7f58d2d881f625"
         },
         {
-            "title": "AI boom drives a rally in buying of tech shares",
-            "description": "[BNN BLOOMBERG] South Korea\u2019s Kospi soared nearly seven per cent to a fresh record on Wednesday as Samsung Electronics\u2019 stock jumped nearly 13 per cent in a rally driven by expectations of strong growth in...",
-            "url": "https://www.bnnbloomberg.ca/markets/2026/05/06/ai-boom-drives-a-rally-in-buying-of-tech-shares-pushing-south-koreas-kospi-to-a-record/"
+            "title": "Microsoft may shelve 2030 clean energy target as AI lifts power use: Bloomberg News",
+            "description": "[THE ECONOMIC TIMES] Microsoft may miss its 2030 renewable energy target. The company faces challenges with its ambitious climate goals. Building new data centers for artificial intelligence requires massive power. This...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-may-shelve-2030-clean-energy-target-as-ai-lifts-power-use-bloomberg-news/articleshow/130859487.cms"
         },
         {
-            "title": "AI boom drives a rally in buying of tech shares",
-            "description": "[CP24 TORONTO] South Korea\u2019s Kospi soared nearly seven per cent to a fresh record on Wednesday as Samsung Electronics\u2019 stock jumped nearly 13 per cent in a rally driven by expectations of strong growth in...",
-            "url": "https://www.cp24.com/news/money/2026/05/06/ai-boom-drives-a-rally-in-buying-of-tech-shares-pushing-south-koreas-kospi-to-a-record/"
+            "title": "AI Revolutionizes BMC Tendering Process in Maharashtra",
+            "description": "[DEVDISCOURSE] Maharashtra IT Minister Ashish Shelar has urged the integration of artificial intelligence into the BMC's tendering processes to foster transparency and accountability. AI will streamline project...",
+            "url": "https://www.devdiscourse.com/article/technology/3898902-ai-revolutionizes-bmc-tendering-process-in-maharashtra"
         },
         {
-            "title": "Schneider Electric to launch Southeast Asia training hub in Malaysia",
-            "description": "[REUTERS] French energy technology firm Schneider Electric plans to open a Southeast Asian training centre in Malaysia this year, \u200ba senior executive said on Wednesday, as a boom \u200cin artificial intelligence...",
-            "url": "https://www.reuters.com/world/asia-pacific/schneider-electric-launch-southeast-asia-training-hub-malaysia-2026-05-06/"
+            "title": "Nvidia faces its biggest threat yet as tech giants build their own AI chips",
+            "description": "[LOS ANGELES TIMES] This earnings season has delivered plenty of good news for the artificial intelligence trade, but instead of bidding up Nvidia Corp. shares, investors have been dumping them.",
+            "url": "https://www.latimes.com/business/story/2026-05-06/nvidia-faces-its-biggest-threat-yet-as-tech-giants-build-their-own-ai-chips"
         },
         {
-            "title": "Workers can do more with AI than organisations support: Report",
-            "description": "[LOKMAT TIMES] Workers can do more with AI than organisations support: Report - New Delhi, May 6 Organisations are failing to keep pace with workers using artificial intelligence to expand the ... Get Latest News...",
-            "url": "https://www.lokmattimes.com/business/workers-can-do-more-with-ai-than-organisations-support-report/"
+            "title": "Japanese lawmakers urge U.S. to focus on AI, critical minerals pacts",
+            "description": "[UPI NEWS] Japanese lawmakers urged the United States to remain focused on the U.S.-Japan alliance in artificial intelligence and critical minerals.",
+            "url": "https://www.upi.com/Top_News/World-News/2026/05/06/japan-pacts-AI-critical-metals-trump/7311778016510/"
         },
         {
-            "title": "Workers can do more with AI than organisations support: Report",
-            "description": "[LOKMAT TIMES] Workers can do more with AI than organisations support: Report - New Delhi, May 6 Organisations are failing to keep pace with workers using artificial intelligence to expand the ... Get Latest News...",
-            "url": "https://www.lokmattimes.com/technology/workers-can-do-more-with-ai-than-organisations-support-report-1/"
+            "title": "Report on OpenAI expected from federal, provincial privacy watchdogs",
+            "description": "[GLOBAL NEWS] Privacy watchdogs plan to release a report Wednesday on OpenAI, the company behind the popular artificial intelligence-powered chatbot ChatGPT.",
+            "url": "https://globalnews.ca/news/11836689/report-on-openai-expected-from-federal-provincial-privacy-watchdogs/"
         },
         {
-            "title": "AI Tsunami: How Artificial Intelligence is Overwhelming Scientific Journals",
-            "description": "[DEVDISCOURSE] The use of AI in scientific paper submissions has surged by 42% since ChatGPT's release, leading to a decline in writing quality, a study reveals. Organization Science journal reports increased...",
-            "url": "https://www.devdiscourse.com/article/science-environment/3898518-ai-tsunami-how-artificial-intelligence-is-overwhelming-scientific-journals"
+            "title": "Some iPhone owners could get up to $95 payment after Apple agrees to settle case for $250 million",
+            "description": "[BOSTON.COM] Owners of some iPhones are in line to get cash payments of up to $95 from Apple after the company on Tuesday reached a $250 million settlement in a class-action lawsuit for false advertising of its...",
+            "url": "https://www.boston.com/news/business/2026/05/06/some-iphone-owners-could-get-up-to-95-payment-after-apple-agrees-to-settle-case-for-250-million/"
         }
     ]
 }
