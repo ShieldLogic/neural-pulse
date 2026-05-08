@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-08 17:12:20 UTC",
+    "updated": "2026-05-08 19:11:47 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -17,11 +17,6 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
-        },
-        {
             "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
             "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
             "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
@@ -32,9 +27,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+        },
+        {
+            "title": "Effective KV Compression with TurboQuant",
+            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
+            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -52,19 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "What exactly does word2vec learn?",
-            "description": "[BAIR] What exactly does word2vec learn, and how? Answering this question amounts to understanding representation learning in a minimal yet interesting language modeling task. Despite the fact that word2vec...",
-            "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,59 +67,64 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
+            "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
+            "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
+        },
+        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Cloudflare to cut about 20% workforce as AI adoption reshapes operations",
-            "description": "[THE HINDU] Cloudflare said it would cut about 20% of \u200bits workforce as the company restructures operations around \u2060the rapid adoption of artificial intelligence tools",
-            "url": "https://www.thehindu.com/sci-tech/technology/cloudflare-to-cut-about-20-workforce-as-ai-adoption-reshapes-operations/article70953734.ece"
+            "title": "RailTel Bags \u20b924.91 Crore AI-Based Insurance Fraud Detection Order From New India Assurance",
+            "description": "[FREE PRESS JOURNAL] RailTel Corporation of India has secured a purchase order worth Rs 24.91 crore, including taxes, from The New India Assurance Company for deploying an AI and machine learning-based solution to...",
+            "url": "https://www.freepressjournal.in/business/railtel-bags-2491-crore-ai-based-insurance-fraud-detection-order-from-new-india-assurance"
         },
         {
-            "title": "Australian Government Has Not Determined a National Stratigy for AI Artificial Intelligence at Workplace",
-            "description": "[SBS AUSTRALIA] A new report argues that Australia lacks a national strategy to regulate the deployment of artificial intelligence (AI) in the workplace.",
-            "url": "https://www.sbs.com.au/language/indonesian/en/podcast-episode/australian-government-has-not-determined-a-national-stratigy-for-ai-artificial-intelligence-at-workplace/zcuzshr1t"
+            "title": "Vietnam eyes influencers, AI to spruce up propaganda",
+            "description": "[BANGKOK POST] HANOI - Vietnam's ruling Communist Party plans to \u200brevamp its propaganda efforts by drafting in social media influencers and artificial \u200cintelligence experts while adopting new formats such as...",
+            "url": "https://www.bangkokpost.com/world/3251809/vietnam-eyes-influencers-ai-to-spruce-up-propaganda"
         },
         {
-            "title": "US Stock Market: Private credit funds of Blackstone, BlackRock mark down portfolios amid software sector stress",
-            "description": "[THE ECONOMIC TIMES] Major investment firms Blackstone and BlackRock saw their private credit portfolios shrink. Troubled loans, especially from software firms impacted by artificial intelligence, caused this decline....",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-private-credit-funds-of-blackstone-blackrock-mark-down-portfolios-amid-software-sector-stress/articleshow/130948652.cms"
+            "title": "Communist-run Vietnam eyes influencers, AI to spruce up propaganda, documents show",
+            "description": "[BANGKOK POST] HANOI - Vietnam's ruling Communist Party plans to \u200brevamp its propaganda efforts by drafting in social media influencers and artificial \u200cintelligence experts while adopting new formats such as...",
+            "url": "https://www.bangkokpost.com/world/3251809/communistrun-vietnam-eyes-influencers-ai-to-spruce-up-propaganda-documents-show"
         },
         {
-            "title": "Alibaba Group, Tencent Earnings to Slow Over Mounting AI Costs",
-            "description": "[MARKETSCREENER] Alibaba Group and Tencent Holdings could post slower earnings growth in their upcoming results next week as artificial intelligence costs rise and domestic competition intensifies, Bloomberg said...",
-            "url": "https://www.marketscreener.com/news/alibaba-group-tencent-earnings-to-slow-over-mounting-ai-costs-ce7f5bdade81f727"
+            "title": "GPT Satya: Everything You Need to Know About AI",
+            "description": "[THE TRIBUNE] New Delhi [India], May 8: This comprehensive, research-based book covers key aspects of AI, including AI bias, emotional dependency, productivity, health and AI, the future of human-AI interaction,...",
+            "url": "https://www.tribuneindia.com/news/business/the-story-of-ai-gpt-satya-everything-you-need-to-know-about-ai/"
         },
         {
-            "title": "Malaysia's economy remains resilient despite West Asia risks, says Bank Negara governor",
-            "description": "[THE STAR] KUALA LUMPUR: Malaysia's economy remains resilient despite mounting risks from the ongoing West Asia conflict, supported by strong domestic demand, sustained investment activity and robust exports...",
-            "url": "https://www.thestar.com.my/business/business-news/2026/05/08/malaysia039s-economy-remains-resilient-despite-west-asia-risks-says-bank-negara-governor"
+            "title": "IMF warns of 'inevitable' AI-powered threats to global financial system",
+            "description": "[THE HINDU] The International Monetary Fund (IMF) warned on Thursday of the risks to global financial stability posed by cyberattacks powered by advanced artificial intelligence tools",
+            "url": "https://www.thehindu.com/sci-tech/technology/imf-warns-of-inevitable-ai-powered-threats-to-global-financial-system/article70953725.ece"
         },
         {
-            "title": "Bonree to Launch Bonree ONE 4.0 at DCCI Malaysia 2026",
-            "description": "[THE MANILA TIMES] **media[1048411]**KUALA LUMPUR, Malaysia and BEIJING, May 8, 2026 /PRNewswire/ -- On 12 May 2026, Bonree will host the '2026 Bonree ONE 4.0 Global Product Launch' during the Digital Cloud &...",
-            "url": "https://www.manilatimes.net/2026/05/08/tmt-newswire/pr-newswire/bonree-to-launch-bonree-one-40-at-dcci-malaysia-2026/2339217"
+            "title": "Cloudflare Announces Layoff Of Over 1,100 Jobs In Major AI-Driven Restructuring",
+            "description": "[FREE PRESS JOURNAL] Cloudflare has announced plans to lay off more than 1,100 employees globally as it restructures operations to adapt to the rapid rise of artificial intelligence. The company cited an over 600 percent...",
+            "url": "https://www.freepressjournal.in/tech/cloudflare-announces-layoff-of-over-1100-jobs-in-major-ai-driven-restructuring"
         },
         {
-            "title": "CoreWeave tops revenue estimates as AI boom supercharges cloud demand",
-            "description": "[THE ECONOMIC TIMES] CoreWeave Inc. has surpassed revenue expectations. Strong demand for its high-performance computing services fuels this growth. These services are crucial for training and deploying artificial...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/coreweave-tops-revenue-estimates-as-ai-boom-supercharges-cloud-demand/articleshow/130946848.cms"
+            "title": "IMF Warns That Evolving AI Threat Could Upend Financial Markets",
+            "description": "[MARKETSCREENER] By Fabiana Negrin Ochoa and Kimberley Kao Advances in artificial-intelligence can strengthen markets' defense against cyber threats but the technology now has the capacity to cause a...",
+            "url": "https://www.marketscreener.com/news/imf-warns-that-evolving-ai-threat-could-upend-financial-markets-ce7f5bdad18df426"
         },
         {
-            "title": "Minneapolis College sees growing demand of students seeking careers in trades",
-            "description": "[FOX 9] With the uncertainty of how artificial intelligence will impact jobs in the future, there is a growing trend of students turning to trade skills.",
-            "url": "https://www.fox9.com/news/minneapolis-college-sees-growing-demand-students-seeking-careers-trades"
+            "title": "RBC lifts S&P 500 year-end target to 7,900 on AI optimism",
+            "description": "[REUTERS] RBC Capital Markets raised its year-end target for the S&P 500 \u200bto 7,900 from 7,750 on Friday, citing resilient \u200cearnings growth and continued strength in artificial intelligence\u2011linked sectors.",
+            "url": "https://www.reuters.com/business/finance/rbc-lifts-sp-500-year-end-target-7900-ai-optimism-2026-05-08/"
         },
         {
-            "title": "Zoom CEO Eric Yuan: \u2018I really do not think we need to work for five days because \u2026\u2019",
-            "description": "[TIMES OF INDIA] Tech News News: Eric Yuan, CEO of Zoom Video Communications, believes artificial intelligence (AI) could significantly reduce the traditional workweek in the coming y.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/zoom-ceo-eric-yuan-i-really-do-not-think-we-need-to-work-for-five-days-because-/articleshow/130946060.cms"
+            "title": "driven cyber threats could destabilize global financial markets",
+            "description": "[THE TRIBUNE] The International Monetary Fund (IMF) warned that extreme cyber-incident losses could trigger funding strains, raise solvency concerns, and disrupt broader markets. As artificial intelligence...",
+            "url": "https://www.tribuneindia.com/news/business/imf-warns-ai-driven-cyber-threats-could-destabilize-global-financial-markets/"
         },
         {
-            "title": "LLM From Scratch is a hands-on workshop where you write every piece of an AI from nothing",
-            "description": "[XDA DEVELOPERS] It can even run on a laptop.",
-            "url": "https://www.xda-developers.com/llm-from-scratch-is-a-hands-on-workshop-where-you-write-every-piece-of-an-ai-from-nothing/"
+            "title": "AI certifications are becoming the new measure of institutional readiness",
+            "description": "[THE ECONOMIC TIMES] As artificial intelligence reshapes hiring and workplace expectations, AI certifications are emerging as a critical marker of institutional readiness. The focus is shifting beyond intent to...",
+            "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-certifications-are-becoming-the-new-measure-of-institutional-readiness/articleshow/130949699.cms"
         }
     ]
 }
