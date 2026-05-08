@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-08 19:11:47 UTC",
+    "updated": "2026-05-08 20:55:59 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,19 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -27,19 +22,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
-        },
-        {
-            "title": "Effective KV Compression with TurboQuant",
-            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
-            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -57,14 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -75,6 +75,41 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "HSBC sees AI upside for China software stocks despite global jitters",
+            "description": "[DEVDISCOURSE] China's software sector is likely to see gains \u200bfrom the rapid adoption of artificial intelligence, countering \u200binvestor concerns that AI could disrupt \u200cor \u200bundermine demand for traditional software...",
+            "url": "https://www.devdiscourse.com/article/technology/3901018-hsbc-sees-ai-upside-for-china-software-stocks-despite-global-jitters"
+        },
+        {
+            "title": "Google explores AI infrastructure, server and drone manufacturing investments In India: Ashwini Vaishnaw",
+            "description": "[LOKMAT TIMES] Google explores AI infrastructure, server and drone manufacturing investments In India: Ashwini Vaishnaw - New Delhi, May 8 Alphabet-owned Google is exploring fresh investments in India focused on...",
+            "url": "https://www.lokmattimes.com/technology/google-explores-ai-infrastructure-server-and-drone-manufacturing-investments-in-india-ashwini-vaishnaw-1/"
+        },
+        {
+            "title": "Google explores AI infrastructure, server and drone manufacturing investments In India: Ashwini Vaishnaw",
+            "description": "[LOKMAT TIMES] Google explores AI infrastructure, server and drone manufacturing investments In India: Ashwini Vaishnaw - New Delhi, May 8 Alphabet-owned Google is exploring fresh investments in India focused on...",
+            "url": "https://www.lokmattimes.com/business/google-explores-ai-infrastructure-server-and-drone-manufacturing-investments-in-india-ashwini-vaishnaw/"
+        },
+        {
+            "title": "ECB is studying defences against Mythos-powered attacks, Lagarde says",
+            "description": "[MARKETSCREENER] The European Central Bank is studying defences against cyberattacks powered by artificial intelligence model Mythos but, like the rest of Europe, it is at a disadvantage because it has no access...",
+            "url": "https://www.marketscreener.com/news/ecb-is-studying-defences-against-myhtos-powered-attacks-lagarde-says-ce7f5bdbd989ff24"
+        },
+        {
+            "title": "AI demand lifts Taiwan Semiconductor Manufacturing Company April revenue by 17.5 pc",
+            "description": "[THE TRIBUNE] Taiwan Semiconductor Manufacturing Company (TSMC), the world's largest contract chipmaker, on Friday reported consolidated revenue of NT$410.73 billion (around USD 13.1 billion) for April 2026,...",
+            "url": "https://www.tribuneindia.com/news/business/ai-demand-lifts-taiwan-semiconductor-manufacturing-company-april-revenue-by-17-5-pc/"
+        },
+        {
+            "title": "IMF Warns AI-Driven Cyber Threats Could Destabilise Global Financial Markets",
+            "description": "[REPUBLIC WORLD] The International Monetary Fund (IMF) warned that extreme cyber-incident losses could trigger funding strains, raise solvency concerns, and disrupt broader markets. As artificial intelligence...",
+            "url": "https://www.republicworld.com/business/imf-warns-ai-driven-cyber-threats-could-destabilise-global-financial-markets"
+        },
+        {
+            "title": "Building quant skills for modern finance: IIM Ahmedabad's Advanced Programme in Quantitative Finance and Risk Management",
+            "description": "[HINDUSTAN TIMES] Derivatives pricing. Risk management. Machine learning in finance. These are the skills modern quants need. Build your expertise with IIM Ahmedabad.",
+            "url": "https://www.hindustantimes.com/genesis/building-quant-skills-for-modern-finance-iim-ahmedabads-advanced-programme-in-quantitative-finance-and-risk-management-101778217023648.html"
         },
         {
             "title": "RailTel Bags \u20b924.91 Crore AI-Based Insurance Fraud Detection Order From New India Assurance",
@@ -90,41 +125,6 @@
             "title": "Communist-run Vietnam eyes influencers, AI to spruce up propaganda, documents show",
             "description": "[BANGKOK POST] HANOI - Vietnam's ruling Communist Party plans to \u200brevamp its propaganda efforts by drafting in social media influencers and artificial \u200cintelligence experts while adopting new formats such as...",
             "url": "https://www.bangkokpost.com/world/3251809/communistrun-vietnam-eyes-influencers-ai-to-spruce-up-propaganda-documents-show"
-        },
-        {
-            "title": "GPT Satya: Everything You Need to Know About AI",
-            "description": "[THE TRIBUNE] New Delhi [India], May 8: This comprehensive, research-based book covers key aspects of AI, including AI bias, emotional dependency, productivity, health and AI, the future of human-AI interaction,...",
-            "url": "https://www.tribuneindia.com/news/business/the-story-of-ai-gpt-satya-everything-you-need-to-know-about-ai/"
-        },
-        {
-            "title": "IMF warns of 'inevitable' AI-powered threats to global financial system",
-            "description": "[THE HINDU] The International Monetary Fund (IMF) warned on Thursday of the risks to global financial stability posed by cyberattacks powered by advanced artificial intelligence tools",
-            "url": "https://www.thehindu.com/sci-tech/technology/imf-warns-of-inevitable-ai-powered-threats-to-global-financial-system/article70953725.ece"
-        },
-        {
-            "title": "Cloudflare Announces Layoff Of Over 1,100 Jobs In Major AI-Driven Restructuring",
-            "description": "[FREE PRESS JOURNAL] Cloudflare has announced plans to lay off more than 1,100 employees globally as it restructures operations to adapt to the rapid rise of artificial intelligence. The company cited an over 600 percent...",
-            "url": "https://www.freepressjournal.in/tech/cloudflare-announces-layoff-of-over-1100-jobs-in-major-ai-driven-restructuring"
-        },
-        {
-            "title": "IMF Warns That Evolving AI Threat Could Upend Financial Markets",
-            "description": "[MARKETSCREENER] By Fabiana Negrin Ochoa and Kimberley Kao Advances in artificial-intelligence can strengthen markets' defense against cyber threats but the technology now has the capacity to cause a...",
-            "url": "https://www.marketscreener.com/news/imf-warns-that-evolving-ai-threat-could-upend-financial-markets-ce7f5bdad18df426"
-        },
-        {
-            "title": "RBC lifts S&P 500 year-end target to 7,900 on AI optimism",
-            "description": "[REUTERS] RBC Capital Markets raised its year-end target for the S&P 500 \u200bto 7,900 from 7,750 on Friday, citing resilient \u200cearnings growth and continued strength in artificial intelligence\u2011linked sectors.",
-            "url": "https://www.reuters.com/business/finance/rbc-lifts-sp-500-year-end-target-7900-ai-optimism-2026-05-08/"
-        },
-        {
-            "title": "driven cyber threats could destabilize global financial markets",
-            "description": "[THE TRIBUNE] The International Monetary Fund (IMF) warned that extreme cyber-incident losses could trigger funding strains, raise solvency concerns, and disrupt broader markets. As artificial intelligence...",
-            "url": "https://www.tribuneindia.com/news/business/imf-warns-ai-driven-cyber-threats-could-destabilize-global-financial-markets/"
-        },
-        {
-            "title": "AI certifications are becoming the new measure of institutional readiness",
-            "description": "[THE ECONOMIC TIMES] As artificial intelligence reshapes hiring and workplace expectations, AI certifications are emerging as a critical marker of institutional readiness. The focus is shifting beyond intent to...",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-certifications-are-becoming-the-new-measure-of-institutional-readiness/articleshow/130949699.cms"
         }
     ]
 }
