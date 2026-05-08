@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-08 02:39:45 UTC",
+    "updated": "2026-05-08 05:53:52 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,24 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
-        },
-        {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -32,14 +22,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,14 +42,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -72,59 +67,64 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "I asked ChatGPT to calculate corpus needed to retire in Kodaikanal by 55 years of age\u2026 the answer shocked me",
-            "description": "[LIVEMINT] I asked ChatGPT to calculate corpus for retirement to vacation location at 55, factoring in inflation, healthcare, and a sustainable withdrawal rate. Here is what artificial intelligence chatbot said\u2026",
-            "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-calculate-savings-invest-corpus-need-retirement-kodaikanal-55-age-answer-shocked-me-inflation-healthcare-11778162046752.html"
+            "title": "Tech is turning increasingly to religion in a quest to create ethical AI",
+            "description": "[NEWSBREAK] LOS ANGELES (AP) \u2014 As concerns mount over artificial intelligence and its rapid integration into society, tech companies are increasingly turning to faith",
+            "url": "https://www.newsbreak.com/the-associated-press-510077/4637592432759-tech-is-turning-increasingly-to-religion-in-a-quest-to-create-ethical-ai"
         },
         {
-            "title": "This chip stock is tumbling. Bullish Evercore ISI thinks it will be worth $1 trillion one day",
-            "description": "[CNBC] Demand for memory, storage and CPUs are bolstering chip makers thanks to the artificial intelligence buildout.",
-            "url": "https://www.cnbc.com/2026/05/07/this-chip-stock-is-tumbling-bullish-evercore-isi-thinks-it-will-be-worth-1-trillion-one-day-.html"
+            "title": "Tech is turning increasingly to religion in a quest to create ethical AI",
+            "description": "[THE ASSOCIATED PRESS] Tech companies are increasingly seeking guidance from faith leaders to shape artificial intelligence.",
+            "url": "https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea"
         },
         {
-            "title": "The Messy, Humiliating Courtroom Drama Between Elon Musk and OpenAI",
-            "description": "[BLOOMBERG] Artificial intelligence companies were already unpopular before the billionaires started fighting in court.",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-07/in-musk-v-openai-elon-musk-and-chatgpt-founders-risk-reputation"
+            "title": "Tech is turning increasingly to religion in a quest to create ethical AI",
+            "description": "[WDIV CLICKONDETROIT] Tech companies are increasingly seeking guidance from faith leaders to shape artificial intelligence.",
+            "url": "https://www.clickondetroit.com/tech/2026/05/07/tech-is-turning-increasingly-to-religion-in-a-quest-to-create-ethical-ai/"
         },
         {
-            "title": "India, Vietnam must deepen ties amid profound changes in world: To Lam",
-            "description": "[THE ECONOMIC TIMES] Reconstruction of global supply chains, strategic competition between major economies, emergence of digital technologies like artificial intelligence, green transformation and increasing demands for...",
-            "url": "https://economictimes.indiatimes.com/news/india/india-vietnam-must-deepen-ties-amid-profound-changes-in-world-to-lam/articleshow/130902601.cms"
+            "title": "Tech Is Turning Increasingly to Religion in a Quest to Create Ethical AI",
+            "description": "[U.S. NEWS & WORLD REPORT] LOS ANGELES (AP) \u2014 As concerns mount over artificial intelligence and its rapid integration into society, tech companies are increasingly turning to faith leaders for guidance on how to shape the...",
+            "url": "https://www.usnews.com/news/technology/articles/2026-05-07/tech-is-turning-increasingly-to-religion-in-a-quest-to-create-ethical-ai"
         },
         {
-            "title": "poor divide widens, Microsoft says",
-            "description": "[THE ECONOMIC TIMES] Generative artificial intelligence is being used by 17.8% of the world's working-age population, but the gap between wealthy and developing nations continues to widen, according to a report published...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-use-surges-globally-but-rich-poor-divide-widens-microsoft-says/articleshow/130902148.cms"
+            "title": "The Bolshevik Algorithm: How the globalist machine hacked humanity and erased the soul of America",
+            "description": "[NATURAL NEWS] \u201cThe Bolshevik Algorithm\u201d is presented as a forensic report revealing the master plan of a globalist cabal (linked to Big Pharma, the deep state, Bill Gates and Klaus Schwab) to replace humanity with...",
+            "url": "https://www.naturalnews.com/2026-05-07-the-bolshevik-algorithm-globalist-machine-hacked-humanity.html"
         },
         {
-            "title": "Artificial intelligence may accelerate the path to radicalization",
-            "description": "[PHYS.ORG] How are ordinary people drawn into extremist circles\u2014and what role can artificial intelligence play in that process? This question is addressed by a new study which, for the first time, combines...",
-            "url": "https://phys.org/news/2026-05-artificial-intelligence-path-radicalization.html"
+            "title": "Nvidia in Talks With SoftBank on Making Servers in Japan",
+            "description": "[MARKETSCREENER] Nvidia has started discussions with Japan's SoftBank, which is looking for help with its plan to develop and produce homegrown artificial intelligence servers, Nikkei Asia reported Thursday. Along...",
+            "url": "https://www.marketscreener.com/news/nvidia-in-talks-with-softbank-on-making-servers-in-japan-ce7f5bdad88ff325"
         },
         {
-            "title": "India, Vietnam must deepen ties amid profound changes in world: To Lam",
-            "description": "[DEVDISCOURSE] Reconstruction of global supply chains, strategic competition between major economies, emergence of digital technologies like artificial intelligence, green transformation and increasing demands for...",
-            "url": "https://www.devdiscourse.com/article/headlines/3900253-india-vietnam-must-deepen-ties-amid-profound-changes-in-world-to-lam"
+            "title": "Pakistani techie\u2019s shocking journey to getting hired at Anthropic goes viral: \u2018Stop fearing AI, learn it or fall behind\u2019",
+            "description": "[TIMES OF INDIA] Trending News: Artificial intelligence has slowly become part of everyday conversations, especially when people talk about jobs and how work is changing. Everywhere .",
+            "url": "https://timesofindia.indiatimes.com/etimes/trending/pakistani-techies-shocking-journey-to-getting-hired-at-anthropic-goes-viral-stop-fearing-ai-learn-it-or-fall-behind/articleshow/130912788.cms"
         },
         {
-            "title": "US stocks today: Datadog raises annual forecast on strong cloud security demand, shares jump 36%",
-            "description": "[THE ECONOMIC TIMES] Cloud security firm Datadog has boosted its annual forecast. The company surpassed Wall Street expectations for its first quarter. This surge is due to strong demand for its cloud security products....",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-datadog-raises-annual-forecast-on-strong-cloud-security-demand-shares-jump-over-36/articleshow/130901789.cms"
+            "title": "powered threats to global financial system",
+            "description": "[THE ECONOMIC TIMES] The International Monetary Fund has issued a stark warning about advanced artificial intelligence tools powering cyberattacks. These attacks pose significant risks to global financial stability. The...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/imf-warns-of-inevitable-ai-powered-threats-to-global-financial-system/articleshow/130910033.cms"
         },
         {
-            "title": "\u2018A pivotal moment\u2019: European ban on AI nudification apps is welcomed",
-            "description": "[THE IRISH TIMES] Niamh Smyth, the Minister of State for AI, said the provisional agreement \u2018marks a pivotal moment in the responsible regulation of artificial intelligence\u2019",
-            "url": "https://www.irishtimes.com/politics/2026/05/07/a-pivotal-moment-european-ban-on-ai-nudification-apps-is-welcomed/"
+            "title": "If you're an iPhone user, you could get $95 from this Apple settlement",
+            "description": "[SPOKANE SPOKESMAN-REVIEW] Some iPhone users could be eligible to collect up to $95 per device as part of a settlement over allegations that Apple misled consumers about the abilities of its artificial intelligence-powered...",
+            "url": "https://www.spokesman.com/stories/2026/may/07/if-youre-an-iphone-user-you-could-get-95-from-this/"
         },
         {
-            "title": "Uber CEO Dara Khosrowshahi admits that company is slowing hiring and the reason is AI; says: If every person at this company can increase their productivity by ...",
-            "description": "[TIMES OF INDIA] Tech News News: Uber is slowing its headcount growth to pivot more resources toward artificial intelligence (AI), according to CEO Dara Khosrowshahi. During the compa.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/uber-ceo-dara-khosrowshahi-admits-that-company-is-slowing-hiring-and-the-reason-is-ai-says-if-every-person-at-this-company-can-increase-their-productivity-by-/articleshow/130901246.cms"
+            "title": "Blue Owl private credit fund will lower software exposure, CEO says",
+            "description": "[REUTERS] Blue Owl's biggest publicly traded private credit fund will look to \u200breduce its exposure to software, the fund's chief executive said, as \u200cuncertainty about the impact of artificial intelligence on...",
+            "url": "https://www.reuters.com/technology/blue-owl-private-credit-fund-will-lower-software-exposure-ceo-says-2026-05-07/"
         }
     ]
 }
