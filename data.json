@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-08 07:24:32 UTC",
+    "updated": "2026-05-08 09:14:30 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -17,11 +17,6 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
-        },
-        {
             "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
             "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
             "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
@@ -32,9 +27,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+        },
+        {
+            "title": "Effective KV Compression with TurboQuant",
+            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
+            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -52,14 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "TalentSprint, IIM Jammu Launch Industry\u2011Integrated EBBA Degree",
-            "description": "[DECCAN CHRONICLE] As digital technologies, data and artificial intelligence reshape how organizations operate and create value, employers are increasingly seeking graduates who combine strong business fundamentals...",
-            "url": "https://www.deccanchronicle.com/education/talentsprint-iim-jammu-launch-industryintegrated-ebba-degree-1955342"
+            "title": "The rapid embrace of AI in China, its biggest testing ground, may shape how AI is used globally",
+            "description": "[JAPAN TODAY] On a recent weekday, around 50 people gathered outside the headquarters of a Chinese mobile internet company, waiting to get help with installing an artificial intelligence assistant. The scene in...",
+            "url": "https://japantoday.com/category/tech/the-rapid-embrace-of-ai-in-china-its-biggest-testing-ground-may-shape-how-ai-is-used-globally"
         },
         {
-            "title": "French prosecutors seek charges against Elon Musk, X over child sexual abuse images",
-            "description": "[DEVDISCOURSE] French prosecutors are seeking charges against Elon Musk and his social platform X for child sexual abuse images on the platform, deepfakes, disinformation and complicity in denying crimes against...",
-            "url": "https://www.devdiscourse.com/article/technology/3900607-french-prosecutors-seek-charges-against-elon-musk-x-over-child-sexual-abuse-images"
+            "title": "NetraMark Announces Change To Board Of Directors",
+            "description": "[THE MANILA TIMES] TORONTO, May 07, 2026 (GLOBE NEWSWIRE) -- NetraMark Holdings Inc. (the 'Company\u201d or 'NetraMark\u201d) (TSX: AIAI) (OTCQB: AINMF) (Frankfurt: PF0), a premier artificial intelligence (AI) company...",
+            "url": "https://www.manilatimes.net/2026/05/08/tmt-newswire/globenewswire/netramark-announces-change-to-board-of-directors/2339053"
         },
         {
-            "title": "US STOCKS-S&P 500 dips as chip stocks give up gains",
-            "description": "[DEVDISCOURSE] The Nasdaq declined 0.15% to 25,799.74 points, while the Dow Jones Industrial Average was down 0.55% at 49,638.38 points. A relentless rally in technology and AI shares has helped push \u2060U.S. stocks...",
-            "url": "https://www.devdiscourse.com/article/headlines/3900604-us-stocks-sp-500-dips-as-chip-stocks-give-up-gains"
+            "title": "Cloudflare cuts workforce by 20% in 'AI-first' restructuring",
+            "description": "[REUTERS] Cloudflare said on Thursday it would lay off about 20% of its workforce as part \u200bof a shift toward an \"agentic AI-first operating model,\" as \u200cthe internet services company restructures around...",
+            "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/"
         },
         {
-            "title": "Use of artificial intelligence among senior civil servants \u2018increasingly common\u2019",
-            "description": "[THE IRISH TIMES] Association of Higher and Civil Public Servants to debate several motions at conference on Friday",
-            "url": "https://www.irishtimes.com/business/work/2026/05/07/use-of-artificial-intelligence-among-senior-civil-servants-increasingly-common/"
+            "title": "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI's leaders",
+            "description": "[JAPAN TODAY] At the heart of the trial pitting Elon Musk against OpenAI CEO Sam Altman is a moment when they found common cause on an ever more pressing question: how to protect humanity from the risks of...",
+            "url": "https://japantoday.com/category/tech/worries-about-ai's-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openai's-leaders"
         },
         {
-            "title": "Tech is turning increasingly to religion in a quest to create ethical AI",
-            "description": "[THE MANILA TIMES] LOS ANGELES \u2014 As concerns mount over artificial intelligence and its rapid integration into society, tech companies are increasingly turning to faith leaders for guidance on how to shape the...",
-            "url": "https://www.manilatimes.net/2026/05/08/business/sunday-business-it/tech-is-turning-increasingly-to-religion-in-a-quest-to-create-ethical-ai/2338841"
+            "title": "Worries about AI's risks to humanity loom over the trial pitting Musk against OpenAI's leaders",
+            "description": "[JAPAN TODAY] At the heart of the trial pitting Elon Musk against OpenAI CEO Sam Altman is a moment when they found common cause on an ever more pressing question: how to protect humanity from the risks of...",
+            "url": "https://japantoday.com/category/tech/worries-about-ai%27s-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openai%27s-leaders"
         },
         {
-            "title": "Meta announces AI support for SMBs and rural companies",
-            "description": "[SOCIAL MEDIA TODAY] Joel Kaplan, Meta\u2019s chief of global affairs, said the initiatives were part of a broader push to help U.S. entrepreneurs use artificial intelligence tools.",
-            "url": "https://www.socialmediatoday.com/news/meta-announces-ai-support-for-smbs-and-rural-companies/819661/"
+            "title": "AI emerges as a top cause of layoffs, accounting for 26% of April's job cuts",
+            "description": "[CBS NEWS] New data shows artificial intelligence is the most cited reason for layoffs, even as economists debate whether it is truly displacing workers.",
+            "url": "https://www.cbsnews.com/sacramento/news/ai-layoffs-job-cuts-challenger-report-april-2026/"
         },
         {
-            "title": "French Prosecutors Seek Charges Against Elon Musk and X Over Child Sexual Abuse Images",
-            "description": "[U.S. NEWS & WORLD REPORT] French prosecutors are seeking charges against Elon Musk and his social platform X for child sexual abuse images on the platform, deepfakes, disinformation and complicity in denying crimes against...",
-            "url": "https://www.usnews.com/news/business/articles/2026-05-07/french-prosecutors-seek-charges-against-elon-musk-and-x-over-child-sexual-abuse-images"
+            "title": "AI emerges as a top cause of layoffs, accounting for 26% of April's job cuts",
+            "description": "[CBS NEWS] New data shows artificial intelligence is the most cited reason for layoffs, even as economists debate whether it is truly displacing workers.",
+            "url": "https://www.cbsnews.com/news/ai-layoffs-job-cuts-challenger-report-april-2026/"
         },
         {
-            "title": "Arlington high school reverses course on plan to use AI to pronounce student names during graduation",
-            "description": "[WTOP] A Northern Virginia high school is backing out of a plan to use an artificial intelligence program to pronounce student names during graduation.",
-            "url": "https://wtop.com/arlington/2026/05/arlington-high-school-reverses-course-on-plan-to-use-ai-to-pronounce-student-names-during-graduation/"
+            "title": "US STOCKS-S&P 500 ends down as chip stocks give up gains",
+            "description": "[DEVDISCOURSE] The S&P 500 ended lower on \u200cThursday, with \u200bIntel and other chip stocks retreating after a recent rally, while uncertainty around U.S.-Iran peace talks weighed on the wider market. A relentless rally...",
+            "url": "https://www.devdiscourse.com/article/headlines/3900645-us-stocks-sp-500-ends-down-as-chip-stocks-give-up-gains"
         },
         {
-            "title": "DOJ antitrust head warns dealmakers not to mislead on AI",
-            "description": "[REUTERS] The U.S. Department of Justice's antitrust head \u200bon Thursday warned companies against \u200ctrying to misleadingly use artificial intelligence disruption as a defense in merger \u200breviews without providing...",
-            "url": "https://www.reuters.com/legal/litigation/doj-antitrust-head-warns-dealmakers-not-mislead-ai-2026-05-07/"
+            "title": "French prosecutors seek charges against Elon Musk and X over child sexual abuse images",
+            "description": "[JAPAN TODAY] French prosecutors are seeking charges against Elon Musk and his social platform X for child sexual abuse images on the platform, deepfakes, disinformation and complicity in denying crimes against...",
+            "url": "https://japantoday.com/category/world/french-prosecutors-seek-charges-against-elon-musk-and-x-over-child-sexual-abuse-images"
         },
         {
-            "title": "Japan's SoftBank explores homegrown AI servers with Nvidia, Foxconn, Nikkei reports",
-            "description": "[REUTERS] SoftBank Corp has begun discussions \u200bwith U.S. chip giant Nvidia NVDA.O and \u200cTaiwanese contract manufacturer Foxconn as it weighs plans to build \"made-in-Japan\" artificial intelligence servers, the...",
-            "url": "https://www.reuters.com/business/media-telecom/softbank-talks-with-nvidia-build-homegrown-ai-servers-nikkei-reports-2026-05-07/"
+            "title": "Elon Musk called Anthropic \u2018evil\u2019 3 months ago. Now he\u2019s taking $4 billion to become its landlord",
+            "description": "[FORTUNE] \u201cHe who controls the data center, really does control the application of artificial intelligence right now.\u201d",
+            "url": "https://fortune.com/2026/05/07/spacex-anthropic-deal-elon-musk-ai-landlord-evil/"
         }
     ]
 }
