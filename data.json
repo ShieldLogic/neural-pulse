@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-08 13:24:27 UTC",
+    "updated": "2026-05-08 15:18:31 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,19 +22,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,14 +42,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -62,19 +62,44 @@
             "url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
+        },
+        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "LLM From Scratch is a hands-on workshop where you write every piece of an AI from nothing",
+            "description": "[XDA DEVELOPERS] It can even run on a laptop.",
+            "url": "https://www.xda-developers.com/llm-from-scratch-is-a-hands-on-workshop-where-you-write-every-piece-of-an-ai-from-nothing/"
+        },
+        {
+            "title": "68% of Indian Travelers Likely to Use AI for Their Next Trip: Agoda",
+            "description": "[THE MANILA TIMES] **media[1048371]**Nearly 9 in 10 Indian travelers (88%) trust or feel neutral about AI-generated travel recommendationsInterest spans entire trip planning journey, from destination discovery to...",
+            "url": "https://www.manilatimes.net/2026/05/08/tmt-newswire/pr-newswire/68-of-indian-travelers-likely-to-use-ai-for-their-next-trip-agoda/2339198"
+        },
+        {
+            "title": "Cloudflare to cut about 20% workforce as AI adoption reshapes operations",
+            "description": "[THE ECONOMIC TIMES] Cloudflare announced significant layoffs, cutting approximately 20% of its workforce, impacting over 1,100 global employees. This restructuring is driven by the company's rapid adoption of artificial...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/cloudflare-to-cut-about-20-workforce-as-ai-adoption-reshapes-operations/articleshow/130943006.cms"
+        },
+        {
+            "title": "MUFG Partners With Google to Develop AI Retail Finance Services",
+            "description": "[MARKETSCREENER] Mitsubishi UFJ Financial Group will form a strategic partnership with Google to strengthen retail financial services through artificial intelligence, Nikkei Asia reported Friday, citing a company...",
+            "url": "https://www.marketscreener.com/news/mufg-partners-with-google-to-develop-ai-retail-finance-services-ce7f5bdade88f32d"
+        },
+        {
+            "title": "How ChatGPT and Sam Altman\u2019s OpenAI have changed Silicon Valley\u2019s housing market forever",
+            "description": "[TIMES OF INDIA] Tech News News: The artificial intelligence (AI) boom is not just \u2018making\u2019 new billionaires, it is reshaping the real estate landscape of Silicon Valley. A new report.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-chatgpt-and-sam-altmans-openai-have-changed-silicon-valleys-housing-market-forever/articleshow/130914619.cms"
         },
         {
             "title": "UPDATE 3-Cloudflare to cut about 20% workforce as AI adoption reshapes operations",
@@ -100,31 +125,6 @@
             "title": "Communist-run Vietnam eyes influencers, AI to spruce up propaganda, documents show",
             "description": "[MARKETSCREENER] Vietnam's ruling Communist Party plans to revamp its propaganda efforts by drafting in social media influencers and artificial intelligence experts while adopting new formats such as podcasts and...",
             "url": "https://www.marketscreener.com/news/communist-run-vietnam-eyes-influencers-ai-to-spruce-up-propaganda-documents-show-ce7f5bdade89f720"
-        },
-        {
-            "title": "Judge rules Trump administration's cancellation of humanities grants was unconstitutional",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] A federal judge in New York has ruled that the Trump administration's cancellation of over $100 million in humanities grants was unconstitutional. Judge Colleen McMahon on Thursday sided with The...",
-            "url": "https://www.ajc.com/news/2026/05/judge-rules-trump-administrations-cancellation-of-humanities-grants-was-unconstitutional/"
-        },
-        {
-            "title": "Silicon Valley seeking ethics advice from religion",
-            "description": "[CP24 TORONTO] As concerns mount over artificial intelligence and its rapid integration into society, tech companies are increasingly turning to faith leaders for guidance on how to shape the technology \u2014 a...",
-            "url": "https://www.cp24.com/news/world/2026/05/08/tech-is-turning-increasingly-to-religion-in-a-quest-to-create-ethical-ai/"
-        },
-        {
-            "title": "Apple Agrees to Pay iPhone Users $250 Million in a Class Action Lawsuit. See if You\u2019re Eligible",
-            "description": "[NEWSX] Apple has agreed to pay $250 million to settle a consumer lawsuit after it delayed new artificial intelligence features for its Siri voice assistant.",
-            "url": "https://www.newsx.com/uncategorized/apple-agrees-to-pay-iphone-users-250-million-in-a-class-action-lawsuit-see-if-youre-eligible-215241/"
-        },
-        {
-            "title": "Apple Agrees to Pay iPhone Users $250 Million in a Class Action Lawsuit. See if You\u2019re Eligible",
-            "description": "[NEWSX] Apple has agreed to pay $250 million to settle a consumer lawsuit after it delayed new artificial intelligence features for its Siri voice assistant.",
-            "url": "https://www.newsx.com/tech-and-auto/apple-agrees-to-pay-iphone-users-250-million-in-a-class-action-lawsuit-see-if-youre-eligible-215241/"
-        },
-        {
-            "title": "War Dept: Pentagon Won't Rely on One AI Vendor",
-            "description": "[NEWSMAX] Emil Michael, Department of War undersecretary for research and engineering, says the Pentagon is moving away from relying on a single artificial intelligence provider after previously becoming too...",
-            "url": "https://www.newsmax.com/newsfront/pentagon-artificial-intelligence-department-of-war/2026/05/07/id/1255594/"
         }
     ]
 }
