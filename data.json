@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-08 15:18:31 UTC",
+    "updated": "2026-05-08 17:12:20 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,14 +7,24 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+        },
+        {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,14 +32,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
+            "title": "Building AI Agents with Local Small Language Models",
+            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,19 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Text Summarization with Scikit-LLM",
+            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -67,64 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
-        },
-        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
+            "title": "Cloudflare to cut about 20% workforce as AI adoption reshapes operations",
+            "description": "[THE HINDU] Cloudflare said it would cut about 20% of \u200bits workforce as the company restructures operations around \u2060the rapid adoption of artificial intelligence tools",
+            "url": "https://www.thehindu.com/sci-tech/technology/cloudflare-to-cut-about-20-workforce-as-ai-adoption-reshapes-operations/article70953734.ece"
+        },
+        {
+            "title": "Australian Government Has Not Determined a National Stratigy for AI Artificial Intelligence at Workplace",
+            "description": "[SBS AUSTRALIA] A new report argues that Australia lacks a national strategy to regulate the deployment of artificial intelligence (AI) in the workplace.",
+            "url": "https://www.sbs.com.au/language/indonesian/en/podcast-episode/australian-government-has-not-determined-a-national-stratigy-for-ai-artificial-intelligence-at-workplace/zcuzshr1t"
+        },
+        {
+            "title": "US Stock Market: Private credit funds of Blackstone, BlackRock mark down portfolios amid software sector stress",
+            "description": "[THE ECONOMIC TIMES] Major investment firms Blackstone and BlackRock saw their private credit portfolios shrink. Troubled loans, especially from software firms impacted by artificial intelligence, caused this decline....",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-private-credit-funds-of-blackstone-blackrock-mark-down-portfolios-amid-software-sector-stress/articleshow/130948652.cms"
+        },
+        {
+            "title": "Alibaba Group, Tencent Earnings to Slow Over Mounting AI Costs",
+            "description": "[MARKETSCREENER] Alibaba Group and Tencent Holdings could post slower earnings growth in their upcoming results next week as artificial intelligence costs rise and domestic competition intensifies, Bloomberg said...",
+            "url": "https://www.marketscreener.com/news/alibaba-group-tencent-earnings-to-slow-over-mounting-ai-costs-ce7f5bdade81f727"
+        },
+        {
+            "title": "Malaysia's economy remains resilient despite West Asia risks, says Bank Negara governor",
+            "description": "[THE STAR] KUALA LUMPUR: Malaysia's economy remains resilient despite mounting risks from the ongoing West Asia conflict, supported by strong domestic demand, sustained investment activity and robust exports...",
+            "url": "https://www.thestar.com.my/business/business-news/2026/05/08/malaysia039s-economy-remains-resilient-despite-west-asia-risks-says-bank-negara-governor"
+        },
+        {
+            "title": "Bonree to Launch Bonree ONE 4.0 at DCCI Malaysia 2026",
+            "description": "[THE MANILA TIMES] **media[1048411]**KUALA LUMPUR, Malaysia and BEIJING, May 8, 2026 /PRNewswire/ -- On 12 May 2026, Bonree will host the '2026 Bonree ONE 4.0 Global Product Launch' during the Digital Cloud &...",
+            "url": "https://www.manilatimes.net/2026/05/08/tmt-newswire/pr-newswire/bonree-to-launch-bonree-one-40-at-dcci-malaysia-2026/2339217"
+        },
+        {
+            "title": "CoreWeave tops revenue estimates as AI boom supercharges cloud demand",
+            "description": "[THE ECONOMIC TIMES] CoreWeave Inc. has surpassed revenue expectations. Strong demand for its high-performance computing services fuels this growth. These services are crucial for training and deploying artificial...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/coreweave-tops-revenue-estimates-as-ai-boom-supercharges-cloud-demand/articleshow/130946848.cms"
+        },
+        {
+            "title": "Minneapolis College sees growing demand of students seeking careers in trades",
+            "description": "[FOX 9] With the uncertainty of how artificial intelligence will impact jobs in the future, there is a growing trend of students turning to trade skills.",
+            "url": "https://www.fox9.com/news/minneapolis-college-sees-growing-demand-students-seeking-careers-trades"
+        },
+        {
+            "title": "Zoom CEO Eric Yuan: \u2018I really do not think we need to work for five days because \u2026\u2019",
+            "description": "[TIMES OF INDIA] Tech News News: Eric Yuan, CEO of Zoom Video Communications, believes artificial intelligence (AI) could significantly reduce the traditional workweek in the coming y.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/zoom-ceo-eric-yuan-i-really-do-not-think-we-need-to-work-for-five-days-because-/articleshow/130946060.cms"
+        },
+        {
             "title": "LLM From Scratch is a hands-on workshop where you write every piece of an AI from nothing",
             "description": "[XDA DEVELOPERS] It can even run on a laptop.",
             "url": "https://www.xda-developers.com/llm-from-scratch-is-a-hands-on-workshop-where-you-write-every-piece-of-an-ai-from-nothing/"
-        },
-        {
-            "title": "68% of Indian Travelers Likely to Use AI for Their Next Trip: Agoda",
-            "description": "[THE MANILA TIMES] **media[1048371]**Nearly 9 in 10 Indian travelers (88%) trust or feel neutral about AI-generated travel recommendationsInterest spans entire trip planning journey, from destination discovery to...",
-            "url": "https://www.manilatimes.net/2026/05/08/tmt-newswire/pr-newswire/68-of-indian-travelers-likely-to-use-ai-for-their-next-trip-agoda/2339198"
-        },
-        {
-            "title": "Cloudflare to cut about 20% workforce as AI adoption reshapes operations",
-            "description": "[THE ECONOMIC TIMES] Cloudflare announced significant layoffs, cutting approximately 20% of its workforce, impacting over 1,100 global employees. This restructuring is driven by the company's rapid adoption of artificial...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/cloudflare-to-cut-about-20-workforce-as-ai-adoption-reshapes-operations/articleshow/130943006.cms"
-        },
-        {
-            "title": "MUFG Partners With Google to Develop AI Retail Finance Services",
-            "description": "[MARKETSCREENER] Mitsubishi UFJ Financial Group will form a strategic partnership with Google to strengthen retail financial services through artificial intelligence, Nikkei Asia reported Friday, citing a company...",
-            "url": "https://www.marketscreener.com/news/mufg-partners-with-google-to-develop-ai-retail-finance-services-ce7f5bdade88f32d"
-        },
-        {
-            "title": "How ChatGPT and Sam Altman\u2019s OpenAI have changed Silicon Valley\u2019s housing market forever",
-            "description": "[TIMES OF INDIA] Tech News News: The artificial intelligence (AI) boom is not just \u2018making\u2019 new billionaires, it is reshaping the real estate landscape of Silicon Valley. A new report.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-chatgpt-and-sam-altmans-openai-have-changed-silicon-valleys-housing-market-forever/articleshow/130914619.cms"
-        },
-        {
-            "title": "UPDATE 3-Cloudflare to cut about 20% workforce as AI adoption reshapes operations",
-            "description": "[DEVDISCOURSE] Cloudflare said on Thursday it would cut about 20% of its workforce as the company restructures operations around the rapid adoption of artificial intelligence tools, and \u200cforecast second-quarter...",
-            "url": "https://www.devdiscourse.com/article/technology/3900733-update-3-cloudflare-to-cut-about-20-workforce-as-ai-adoption-reshapes-operations"
-        },
-        {
-            "title": "Communist-run Vietnam eyes influencers, AI to spruce up propaganda, documents show",
-            "description": "[THE STRAITS TIMES] HANOI, May 8 - Vietnam's ruling Communist Party plans to revamp its propaganda efforts by drafting in social media influencers and artificial intelligence experts while adopting new formats such as...",
-            "url": "https://www.straitstimes.com/asia/communist-run-vietnam-eyes-influencers-ai-to-spruce-up-propaganda-documents-show"
-        },
-        {
-            "title": "Communist-run Vietnam eyes influencers, AI to spruce up propaganda, documents show",
-            "description": "[REUTERS] Vietnam's ruling Communist Party plans to revamp its propaganda efforts by drafting in social media influencers \u200band artificial intelligence experts while adopting new formats such as podcasts and...",
-            "url": "https://www.reuters.com/sustainability/society-equity/communist-run-vietnam-eyes-influencers-ai-spruce-up-propaganda-documents-show-2026-05-08/"
-        },
-        {
-            "title": "Communist-run Vietnam eyes influencers, AI to spruce up propaganda, documents show",
-            "description": "[DEVDISCOURSE] \u200bVietnam's ruling Communist Party plans to revamp its propaganda efforts by drafting \u200cin social \u200bmedia influencers and artificial intelligence experts while adopting new formats such as podcasts and...",
-            "url": "https://www.devdiscourse.com/article/law-order/3900728-communist-run-vietnam-eyes-influencers-ai-to-spruce-up-propaganda-documents-show"
-        },
-        {
-            "title": "Communist-run Vietnam eyes influencers, AI to spruce up propaganda, documents show",
-            "description": "[MARKETSCREENER] Vietnam's ruling Communist Party plans to revamp its propaganda efforts by drafting in social media influencers and artificial intelligence experts while adopting new formats such as podcasts and...",
-            "url": "https://www.marketscreener.com/news/communist-run-vietnam-eyes-influencers-ai-to-spruce-up-propaganda-documents-show-ce7f5bdade89f720"
         }
     ]
 }
