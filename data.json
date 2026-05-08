@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-08 20:55:59 UTC",
+    "updated": "2026-05-08 22:52:30 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -22,6 +22,11 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
@@ -42,29 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "HSBC sees AI upside for China software stocks despite global jitters",
-            "description": "[DEVDISCOURSE] China's software sector is likely to see gains \u200bfrom the rapid adoption of artificial intelligence, countering \u200binvestor concerns that AI could disrupt \u200cor \u200bundermine demand for traditional software...",
-            "url": "https://www.devdiscourse.com/article/technology/3901018-hsbc-sees-ai-upside-for-china-software-stocks-despite-global-jitters"
+            "title": "Consensus Miami Day 3 Highlights: AI, Tokenization and Real-World Blockchain Infrastructure Take Center Stage",
+            "description": "[CRYPTO BREAKING NEWS] Consensus 2026 concluded its final day with a strong focus on artificial intelligence, tokenization, stablecoin infrastructure, and institutional",
+            "url": "https://www.cryptobreaking.com/consensus-miami-day-3-highlights/"
         },
         {
-            "title": "Google explores AI infrastructure, server and drone manufacturing investments In India: Ashwini Vaishnaw",
-            "description": "[LOKMAT TIMES] Google explores AI infrastructure, server and drone manufacturing investments In India: Ashwini Vaishnaw - New Delhi, May 8 Alphabet-owned Google is exploring fresh investments in India focused on...",
-            "url": "https://www.lokmattimes.com/technology/google-explores-ai-infrastructure-server-and-drone-manufacturing-investments-in-india-ashwini-vaishnaw-1/"
+            "title": "Sony, Nintendo grapple with memory price surge as AI boom constrains supply",
+            "description": "[MARKETSCREENER] Nintendo and Sony both flagged the impact from surging memory prices on their games businesses on Friday, as the artificial intelligence boom constrains chip supply and deepens disruptions across...",
+            "url": "https://www.marketscreener.com/news/sony-nintendo-grapple-with-memory-price-surge-as-ai-boom-constrains-supply-ce7f5bdbd88bf123"
         },
         {
-            "title": "Google explores AI infrastructure, server and drone manufacturing investments In India: Ashwini Vaishnaw",
-            "description": "[LOKMAT TIMES] Google explores AI infrastructure, server and drone manufacturing investments In India: Ashwini Vaishnaw - New Delhi, May 8 Alphabet-owned Google is exploring fresh investments in India focused on...",
-            "url": "https://www.lokmattimes.com/business/google-explores-ai-infrastructure-server-and-drone-manufacturing-investments-in-india-ashwini-vaishnaw/"
+            "title": "Sony, Nintendo grapple with memory price surge as AI boom constrains supply",
+            "description": "[REUTERS] Nintendo and Sony both flagged the impact from \u200bsurging memory prices on their games businesses on Friday, as the artificial intelligence boom constrains chip supply and deepens disruptions across...",
+            "url": "https://www.reuters.com/world/asia-pacific/sony-nintendo-grapple-with-memory-price-surge-ai-boom-constrains-supply-2026-05-08/"
         },
         {
-            "title": "ECB is studying defences against Mythos-powered attacks, Lagarde says",
-            "description": "[MARKETSCREENER] The European Central Bank is studying defences against cyberattacks powered by artificial intelligence model Mythos but, like the rest of Europe, it is at a disadvantage because it has no access...",
-            "url": "https://www.marketscreener.com/news/ecb-is-studying-defences-against-myhtos-powered-attacks-lagarde-says-ce7f5bdbd989ff24"
+            "title": "Peak XV onboards former Fractal executive as operating partner in US",
+            "description": "[THE ECONOMIC TIMES] Peak XV Partners, India's largest VC firm, has appointed Shelly Singh as an operating partner in its San Francisco office. This move strengthens the firm's focus on US deals, particularly in...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/peak-xv-onboards-former-fractal-executive-as-operating-partner-in-us/articleshow/130956538.cms"
         },
         {
-            "title": "AI demand lifts Taiwan Semiconductor Manufacturing Company April revenue by 17.5 pc",
-            "description": "[THE TRIBUNE] Taiwan Semiconductor Manufacturing Company (TSMC), the world's largest contract chipmaker, on Friday reported consolidated revenue of NT$410.73 billion (around USD 13.1 billion) for April 2026,...",
-            "url": "https://www.tribuneindia.com/news/business/ai-demand-lifts-taiwan-semiconductor-manufacturing-company-april-revenue-by-17-5-pc/"
+            "title": "Tech is turning increasingly to religion in a quest to create ethical AI",
+            "description": "[HARTFORD COURANT] By KRYSTA FAURIA LOS ANGELES (AP) \u2014 As concerns mount over artificial intelligence and its rapid integration into society, tech companies are increasingly turning to faith leaders for guidance on how...",
+            "url": "https://www.courant.com/2026/05/08/tech-is-turning-increasingly-to-religion-in-a-quest-to-create-ethical-ai/"
         },
         {
-            "title": "IMF Warns AI-Driven Cyber Threats Could Destabilise Global Financial Markets",
-            "description": "[REPUBLIC WORLD] The International Monetary Fund (IMF) warned that extreme cyber-incident losses could trigger funding strains, raise solvency concerns, and disrupt broader markets. As artificial intelligence...",
-            "url": "https://www.republicworld.com/business/imf-warns-ai-driven-cyber-threats-could-destabilise-global-financial-markets"
+            "title": "AI has companies cutting jobs - but not replacing workers",
+            "description": "[ACTIVIST POST] Discover the truth behind artificial intelligence and jobs: how corporate shifts can influence workforce stability and structure.",
+            "url": "https://www.activistpost.com/ai-has-companies-cutting-jobs-but-not-replacing-workers/"
         },
         {
-            "title": "Building quant skills for modern finance: IIM Ahmedabad's Advanced Programme in Quantitative Finance and Risk Management",
-            "description": "[HINDUSTAN TIMES] Derivatives pricing. Risk management. Machine learning in finance. These are the skills modern quants need. Build your expertise with IIM Ahmedabad.",
-            "url": "https://www.hindustantimes.com/genesis/building-quant-skills-for-modern-finance-iim-ahmedabads-advanced-programme-in-quantitative-finance-and-risk-management-101778217023648.html"
+            "title": "The UK cannot allow unions to ruin its AI revolution",
+            "description": "[WASHINGTON EXAMINER] The U.K.'s competitiveness in artificial intelligence would be badly damaged by allowing Google DeepMind Unions, which could pull the plug on productivity.",
+            "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4558076/uk-cannot-allow-unions-to-ruin-its-ai-revolution/"
         },
         {
-            "title": "RailTel Bags \u20b924.91 Crore AI-Based Insurance Fraud Detection Order From New India Assurance",
-            "description": "[FREE PRESS JOURNAL] RailTel Corporation of India has secured a purchase order worth Rs 24.91 crore, including taxes, from The New India Assurance Company for deploying an AI and machine learning-based solution to...",
-            "url": "https://www.freepressjournal.in/business/railtel-bags-2491-crore-ai-based-insurance-fraud-detection-order-from-new-india-assurance"
+            "title": "Inside DC\u2019s AI expo, industry leaders discuss same fears held by many",
+            "description": "[WTOP] An artificial intelligence expo in D.C. is hosting leaders of the industry who are discussing many of the same fears about the technology held by people outside tech circles.",
+            "url": "https://wtop.com/artificial-intelligence/2026/05/inside-a-big-ai-expo-the-industry-is-talking-about-the-same-thing-you-are/"
         },
         {
-            "title": "Vietnam eyes influencers, AI to spruce up propaganda",
-            "description": "[BANGKOK POST] HANOI - Vietnam's ruling Communist Party plans to \u200brevamp its propaganda efforts by drafting in social media influencers and artificial \u200cintelligence experts while adopting new formats such as...",
-            "url": "https://www.bangkokpost.com/world/3251809/vietnam-eyes-influencers-ai-to-spruce-up-propaganda"
+            "title": "Accurate Group of Institutions Students' academic trip to IIM Sirmaur for AI Certification, Strengthening Future",
+            "description": "[THE TRIBUNE] Noida (Uttar Pradesh) [India], May 8: Taking a significant step towards building future-ready professionals, Accurate Group of Institutions has enabled more than 45 students to participate in an...",
+            "url": "https://www.tribuneindia.com/news/business/accurate-group-of-institutions-students-academic-trip-to-iim-sirmaur-for-ai-certification-strengthening-future-ready-learning/"
         },
         {
-            "title": "Communist-run Vietnam eyes influencers, AI to spruce up propaganda, documents show",
-            "description": "[BANGKOK POST] HANOI - Vietnam's ruling Communist Party plans to \u200brevamp its propaganda efforts by drafting in social media influencers and artificial \u200cintelligence experts while adopting new formats such as...",
-            "url": "https://www.bangkokpost.com/world/3251809/communistrun-vietnam-eyes-influencers-ai-to-spruce-up-propaganda-documents-show"
+            "title": "India has a Chance to Lead the World on Ethical AI",
+            "description": "[THE TRIBUNE] New Delhi [India], May 8: As artificial intelligence accelerates globally, most governments are focused on regulation, risk mitigation and compliance. But a growing body of thinking suggests that...",
+            "url": "https://www.tribuneindia.com/news/business/india-has-a-chance-to-lead-the-world-on-ethical-ai/"
         }
     ]
 }
