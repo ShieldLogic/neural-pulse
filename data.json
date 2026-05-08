@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-07 22:58:27 UTC",
+    "updated": "2026-05-08 02:39:45 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,14 +7,24 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+        },
+        {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,14 +32,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
+            "title": "Building AI Agents with Local Small Language Models",
+            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,19 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Text Summarization with Scikit-LLM",
+            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "What exactly does word2vec learn?",
@@ -67,64 +72,59 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
-        },
-        {
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Sport Stands Strong Against AI Disruption, Opening New Avenues for India",
-            "description": "[THE TRIBUNE] New Delhi [India], May 7: As artificial intelligence transforms industries from finance to media, one sector is proving unusually resilient. Sport.",
-            "url": "https://www.tribuneindia.com/news/business/sport-stands-strong-against-ai-disruption-opening-new-avenues-for-india/"
+            "title": "I asked ChatGPT to calculate corpus needed to retire in Kodaikanal by 55 years of age\u2026 the answer shocked me",
+            "description": "[LIVEMINT] I asked ChatGPT to calculate corpus for retirement to vacation location at 55, factoring in inflation, healthcare, and a sustainable withdrawal rate. Here is what artificial intelligence chatbot said\u2026",
+            "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-calculate-savings-invest-corpus-need-retirement-kodaikanal-55-age-answer-shocked-me-inflation-healthcare-11778162046752.html"
         },
         {
-            "title": "India's real estate market may touch USD 5.8 trillion by 2047; AI adoption jumps to 91%: FICCI",
-            "description": "[THE TRIBUNE] India's real estate market is projected to grow nearly nine-fold to USD 5.8 trillion by 2047 from USD 650 billion in 2025, while artificial intelligence (AI) adoption in the corporate real estate...",
-            "url": "https://www.tribuneindia.com/news/business/indias-real-estate-market-may-touch-usd-5-8-trillion-by-2047-ai-adoption-jumps-to-91-ficci-kpmg/"
+            "title": "This chip stock is tumbling. Bullish Evercore ISI thinks it will be worth $1 trillion one day",
+            "description": "[CNBC] Demand for memory, storage and CPUs are bolstering chip makers thanks to the artificial intelligence buildout.",
+            "url": "https://www.cnbc.com/2026/05/07/this-chip-stock-is-tumbling-bullish-evercore-isi-thinks-it-will-be-worth-1-trillion-one-day-.html"
         },
         {
-            "title": "5 Transformational Changes in Healthcare",
-            "description": "[NEWSMAX] Artificial intelligence, robotic surgery, gene editing and early detection are transforming doctors\u2019 roles without replacing human judgment.",
-            "url": "https://www.newsmax.com/platinum/transformational-changes-healthcare/2026/04/30/id/1254801/"
+            "title": "The Messy, Humiliating Courtroom Drama Between Elon Musk and OpenAI",
+            "description": "[BLOOMBERG] Artificial intelligence companies were already unpopular before the billionaires started fighting in court.",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-07/in-musk-v-openai-elon-musk-and-chatgpt-founders-risk-reputation"
         },
         {
-            "title": "Why AI hackathons are becoming the new talent discovery platforms",
-            "description": "[THE ECONOMIC TIMES] As artificial intelligence reshapes how companies discover talent and innovation, AI hackathons are evolving beyond coding competitions into high-impact innovation environments. ET AI Hackathon 2.0...",
-            "url": "https://economictimes.indiatimes.com/ai/ai-insights/why-ai-hackathons-are-becoming-the-new-talent-discovery-platforms/articleshow/130887191.cms"
+            "title": "India, Vietnam must deepen ties amid profound changes in world: To Lam",
+            "description": "[THE ECONOMIC TIMES] Reconstruction of global supply chains, strategic competition between major economies, emergence of digital technologies like artificial intelligence, green transformation and increasing demands for...",
+            "url": "https://economictimes.indiatimes.com/news/india/india-vietnam-must-deepen-ties-amid-profound-changes-in-world-to-lam/articleshow/130902601.cms"
         },
         {
-            "title": "Germany's golden years are over, Reinhold W\u00fcrth warns",
-            "description": "[EURONEWS] Reinhold W\u00fcrth, who has made the W\u00fcrth Group the global market leader in the trade of assembly and fastening materials for trade and industry, sees an opportunity above all in the fields of...",
-            "url": "https://www.euronews.com/my-europe/2026/05/07/germanys-golden-years-are-over-reinhold-wurth-warns"
+            "title": "poor divide widens, Microsoft says",
+            "description": "[THE ECONOMIC TIMES] Generative artificial intelligence is being used by 17.8% of the world's working-age population, but the gap between wealthy and developing nations continues to widen, according to a report published...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-use-surges-globally-but-rich-poor-divide-widens-microsoft-says/articleshow/130902148.cms"
         },
         {
-            "title": "How AI can bring the DNA of success to every classroom",
-            "description": "[CHICAGO TRIBUNE] There is \u201cDNA\u201d common in high-performing schools. Artificial intelligence can enhance that DNA and be a bridge to delivering it to every child.",
-            "url": "https://www.chicagotribune.com/2026/05/07/opinion-ai-schools-improve-success/"
+            "title": "Artificial intelligence may accelerate the path to radicalization",
+            "description": "[PHYS.ORG] How are ordinary people drawn into extremist circles\u2014and what role can artificial intelligence play in that process? This question is addressed by a new study which, for the first time, combines...",
+            "url": "https://phys.org/news/2026-05-artificial-intelligence-path-radicalization.html"
         },
         {
-            "title": "Grid giants back data centre boom to bolster renewable build-out",
-            "description": "[AUSTRALIAN FINANCIAL REVIEW] Surging demand for artificial intelligence is turning into a massive call on the energy market, leaving governments scrambling to work out how to ensure supply.",
-            "url": "https://www.afr.com/companies/energy/grid-giants-back-data-centre-boom-to-bolster-renewable-build-out-20260507-p5zunp"
+            "title": "India, Vietnam must deepen ties amid profound changes in world: To Lam",
+            "description": "[DEVDISCOURSE] Reconstruction of global supply chains, strategic competition between major economies, emergence of digital technologies like artificial intelligence, green transformation and increasing demands for...",
+            "url": "https://www.devdiscourse.com/article/headlines/3900253-india-vietnam-must-deepen-ties-amid-profound-changes-in-world-to-lam"
         },
         {
-            "title": "Iran-U.S. Peace Deal Fuels Emerging Market Rally",
-            "description": "[DEVDISCOURSE] Emerging market stocks and currencies gained momentum on Thursday amid optimism over an impending peace deal between Iran and the United States and ongoing enthusiasm for artificial intelligence...",
-            "url": "https://www.devdiscourse.com/article/headlines/3899818-iran-us-peace-deal-fuels-emerging-market-rally"
+            "title": "US stocks today: Datadog raises annual forecast on strong cloud security demand, shares jump 36%",
+            "description": "[THE ECONOMIC TIMES] Cloud security firm Datadog has boosted its annual forecast. The company surpassed Wall Street expectations for its first quarter. This surge is due to strong demand for its cloud security products....",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-datadog-raises-annual-forecast-on-strong-cloud-security-demand-shares-jump-over-36/articleshow/130901789.cms"
         },
         {
-            "title": "AI meets spirituality: Robot monk unveiled in South Korea ahead of Buddha\u2019s birthday",
-            "description": "[THE NEWS INTERNATIONAL] Have you ever imagined what will happen when AI takes over the position of spiritual leader? Initially, it seems like a figment of imagination. Now, artificial intelligence has entered the realm of...",
-            "url": "https://www.thenews.com.pk/latest/1401716-ai-meets-spirituality-robot-monk-unveiled-in-south-korea-ahead-of-buddhas-birthday"
+            "title": "\u2018A pivotal moment\u2019: European ban on AI nudification apps is welcomed",
+            "description": "[THE IRISH TIMES] Niamh Smyth, the Minister of State for AI, said the provisional agreement \u2018marks a pivotal moment in the responsible regulation of artificial intelligence\u2019",
+            "url": "https://www.irishtimes.com/politics/2026/05/07/a-pivotal-moment-european-ban-on-ai-nudification-apps-is-welcomed/"
         },
         {
-            "title": "LALAL.AI Wins People's Voice Webby Award for Best Use of AI & Machine Learning",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- LALAL.AI, the AI-powered audio separation and stem splitting platform, today announced it has won the People's Voice Award for Best Use of AI &...",
-            "url": "https://www.prnewswire.co.uk/news-releases/lalalai-wins-peoples-voice-webby-award-for-best-use-of-ai--machine-learning-302763083.html"
+            "title": "Uber CEO Dara Khosrowshahi admits that company is slowing hiring and the reason is AI; says: If every person at this company can increase their productivity by ...",
+            "description": "[TIMES OF INDIA] Tech News News: Uber is slowing its headcount growth to pivot more resources toward artificial intelligence (AI), according to CEO Dara Khosrowshahi. During the compa.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/uber-ceo-dara-khosrowshahi-admits-that-company-is-slowing-hiring-and-the-reason-is-ai-says-if-every-person-at-this-company-can-increase-their-productivity-by-/articleshow/130901246.cms"
         }
     ]
 }
