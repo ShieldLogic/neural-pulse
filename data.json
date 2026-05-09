@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-09 16:50:52 UTC",
+    "updated": "2026-05-09 18:55:14 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,19 +22,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,24 +42,29 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -75,6 +75,26 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "AI turns 12 years of couple chats into wedding story; Anthropic employee\u2019s project goes viral",
+            "description": "[TIMES OF INDIA] Trending News: Artificial intelligence is usually linked with offices, coding, or automation tasks. But a recent viral story has shown a very different use of AI, on.",
+            "url": "https://timesofindia.indiatimes.com/etimes/trending/ai-turns-12-years-of-couple-chats-into-wedding-story-anthropic-employees-project-goes-viral/articleshow/130971774.cms"
+        },
+        {
+            "title": "Spotify to label human and AI artists separately",
+            "description": "[BANGKOK POST] Spotify is rolling out a sophisticated new verification system designed to help listeners distinguish between human artists and artificial intelligence, as the surge of AI-generated content continues...",
+            "url": "https://www.bangkokpost.com/life/tech/3252299/spotify-to-label-human-and-ai-artists-separately"
+        },
+        {
+            "title": "Telangana Govt To Establish Special Degree Colleges For Minorities",
+            "description": "[DECCAN CHRONICLE] The proposed colleges would be equipped with skill development and AI (Artificial Intelligence) training for the students.",
+            "url": "https://www.deccanchronicle.com/southern-states/telangana/telangana-govt-to-establish-special-degree-colleges-for-minorities-in-10-districts-1955589"
+        },
+        {
+            "title": "Best career options after 12th in the age of AI: Here\u2019s a list",
+            "description": "[ZEE NEWS] Best career options after 12th: In the year 2026, Artificial Intelligence is rapidly transforming the global job market, changing the skills employers look for and creating entirely new career...",
+            "url": "https://zeenews.india.com/education/best-career-options-after-12th-in-the-age-of-ai-here-s-a-list-3045859.html"
         },
         {
             "title": "Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It",
@@ -105,26 +125,6 @@
             "title": "AI Gives Cybersecurity Competitive Advantage",
             "description": "[DAILY EXCELSIOR] By Satyaki Chakraborty GENEVA: Artificial intelligence is rapidly reshaping cybersecurity and is the biggest driver of change in the field, according to a new World Economic Forum report released on...",
             "url": "https://www.dailyexcelsior.com/ai-gives-cybersecurity-competitive-advantage/"
-        },
-        {
-            "title": "Qualcomm Throws Down the Gauntlet to Nvidia on Chips",
-            "description": "[THE ECONOMIC TIMES] Qualcomm is taking aim at Nvidias leadership in data centre chips designed for artificial intelligence (AI) workloads, targeting a significant market share in the category in the coming year.",
-            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/may/09/satet-front/qualcomm-throws-down-the-gauntlet-to-nvidia-on-chips/articleshow/130966976.cms"
-        },
-        {
-            "title": "Qualcomm Throws Down the Gauntlet to Nvidia on Chips",
-            "description": "[THE ECONOMIC TIMES] Qualcomm is taking aim at Nvidias leadership in data centre chips designed for artificial intelligence (AI) workloads, targeting a significant market share in the category in the coming year.",
-            "url": "https://economictimes.indiatimes.com/satet-front/qualcomm-throws-down-the-gauntlet-to-nvidia-on-chips/articleshow/130966976.cms"
-        },
-        {
-            "title": "Tech Up on AI Enthusiasm - Tech Roundup",
-            "description": "[MARKETSCREENER] Shares of technology companies rallied as artificial-intelligence enthusiasm reached fever pitch. Intel shares soared to record highs after Apple reached a preliminary agreement with the chip... -May...",
-            "url": "https://www.marketscreener.com/news/tech-up-on-ai-enthusiasm-tech-roundup-ce7f5bdbd188ff24"
-        },
-        {
-            "title": "Penn State names an education leader for artificial intelligence",
-            "description": "[MECHANICSBURG PATRIOT NEWS ] At least three Pennsylvania universities are offering bachelor's degrees in artificial intelligence.",
-            "url": "https://www.pennlive.com/education/2026/05/penn-state-names-an-education-leader-for-artificial-intelligence.html"
         }
     ]
 }
