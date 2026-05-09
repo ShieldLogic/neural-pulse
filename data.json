@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-09 02:33:25 UTC",
+    "updated": "2026-05-09 06:12:20 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,14 +7,24 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+        },
+        {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,14 +32,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
+            "title": "Building AI Agents with Local Small Language Models",
+            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,29 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Text Summarization with Scikit-LLM",
+            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "The best way to invest in AI on the ASX",
-            "description": "[THE MOTLEY FOOL AUSTRALIA] Want to invest in artificial intelligence (AI) on the ASX? Here's why I think the best way to do it is through ASX ETFs.",
-            "url": "https://www.fool.com.au/2026/05/09/the-best-way-to-invest-in-ai-on-the-asx/"
+            "title": "OpenAI Expands Cyber-Focused GPT-5.5 Access As AI Security Race Intensifies",
+            "description": "[INTERNATIONAL BUSINESS TIMES] OpenAI is widening access to a more permissive version of its GPT-5.5 artificial intelligence model for vetted cybersecurity defenders as concerns grow over how advanced AI systems could reshape",
+            "url": "https://www.ibtimes.com/openai-expands-cyber-focused-gpt-55-access-ai-security-race-intensifies-3802541"
         },
         {
-            "title": "India advancing rapidly in emerging technologies: Jitendra Singh",
-            "description": "[DEVDISCOURSE] India is moving at a rapid pace in emerging technologies such as quantum computing, artificial intelligence AI, semiconductors and deep-tech, and the countrys youth will play a central role in...",
-            "url": "https://www.devdiscourse.com/article/education/3901529-india-advancing-rapidly-in-emerging-technologies-jitendra-singh"
+            "title": "Canadian youth hit hardest in job market",
+            "description": "[BNN BLOOMBERG] Canada\u2019s youth are being hit hardest in a weakening labour market as the country grapples with tariffs, artificial intelligence and shifting industries, economists say.",
+            "url": "https://www.bnnbloomberg.ca/business/2026/05/08/canadian-youth-hit-hardest-in-job-market-while-facing-rapidly-changing-economy-analyst/"
         },
         {
-            "title": "India among first in Global South to develop Health AI benchmarking platform, says health body CEO",
-            "description": "[DEVDISCOURSE] India is among the first countries in the Global South to develop an open Health AI benchmarking platform to evaluate artificial intelligence models on diverse Indian datasets before deployment at a...",
-            "url": "https://www.devdiscourse.com/article/technology/3901528-india-among-first-in-global-south-to-develop-health-ai-benchmarking-platform-says-health-body-ceo"
+            "title": "Canadian youth hit hardest in job market",
+            "description": "[CP24 TORONTO] Canada\u2019s youth are being hit hardest in a weakening labour market as the country grapples with tariffs, artificial intelligence and shifting industries, economists say.",
+            "url": "https://www.cp24.com/news/money/2026/05/08/canadian-youth-hit-hardest-in-job-market-while-facing-rapidly-changing-economy-analyst/"
         },
         {
-            "title": "Meta\u2019s Embrace of A.I. Is Making Its Employees Miserable",
-            "description": "[THE NEW YORK TIMES] As it adapts to the artificial intelligence era, the company is pushing many of its 78,000 workers to use the technology, and preparing to lay some of them off.",
-            "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
+            "title": "AI-generated images of depression depict more stereotypes and arouse greater stigmatization, study suggests",
+            "description": "[MEDICAL XPRESS] Images generated using artificial intelligence (AI) depict more stereotypes and stigmas around depression than images used by the media to illustrate the disease. This is the main conclusion of a...",
+            "url": "https://medicalxpress.com/news/2026-05-ai-generated-images-depression-depict.html"
         },
         {
-            "title": "NCAR develops AI tools to improve severe weather forecasting",
-            "description": "[BOULDER DAILY CAMERA] The National Center for Atmospheric Research in Boulder is developing artificial intelligence tools that enable forecasters to predict severe weather threats more accurately and farther in advance.",
-            "url": "https://www.dailycamera.com/2026/05/08/ncar-develops-ai-tools-to-improve-severe-weather-forecasting/"
+            "title": "Google DeepMind Staff Unionize Over Military Contracts With Israel and the United States",
+            "description": "[NATURAL NEWS] Hundreds of workers at Google DeepMind\u2019s London office voted on Tuesday, May 5, to unionize, citing concerns that the company\u2019s artificial intelligence (AI) technology is being used by the U.S. and...",
+            "url": "https://www.naturalnews.com/2026-05-08-google-deepmind-staff-unionize-military-ai-contracts.html"
         },
         {
-            "title": "Nvidia in Talks With SoftBank on Making Servers in Japan",
-            "description": "[MARKETSCREENER] Nvidia has started discussions with Japan's SoftBank, which is looking for help with its plan to develop and produce homegrown artificial intelligence servers, Nikkei Asia reported...",
-            "url": "https://www.marketscreener.com/news/nvidia-in-talks-with-softbank-on-making-servers-in-japan-ce7f5bdbdd8cf427"
+            "title": "Anthropic\u2019s Claude Mythos exposed a terrifying new cybersecurity reality: AI can now find vulnerabilities faster than humans can fix them",
+            "description": "[TECHSTARTUPS.COM] For years, cybersecurity experts worried about the moment artificial intelligence would tilt the balance between attackers and defenders. That moment may have already arrived. Anthropic\u2019s new AI...",
+            "url": "https://techstartups.com/2026/05/08/anthropics-claude-mythos-exposed-a-terrifying-new-cybersecurity-reality-ai-can-now-find-vulnerabilities-faster-than-humans-can-fix-them/"
         },
         {
-            "title": "Google Bets Big on India for AI, Servers and Drone Manufacturing",
-            "description": "[OUTLOOK BUSINESS] Global technology major Google is exploring fresh investment opportunities in India focused on artificial intelligence (AI) infrastructure and the local manufacturing of servers and drones, Union...",
-            "url": "https://www.outlookbusiness.com/corporate/google-bets-big-on-india-for-ai-servers-and-drone-manufacturing"
+            "title": "Teacher training in AI will be primary focus in next 3-4 months: Official",
+            "description": "[DEVDISCOURSE] The Education Ministry will focus on training teachers in the use of Artificial Intelligence tools over the next three to four months to support classroom teaching, lesson planning and student...",
+            "url": "https://www.devdiscourse.com/article/education/3901707-teacher-training-in-ai-will-be-primary-focus-in-next-3-4-months-official"
         },
         {
-            "title": "Cloudflare's slowing growth disappoints investors betting on AI boost",
-            "description": "[THE STAR] May 8 (Reuters) - Cloudflare shares tumbled \u2060more than 15% in premarket trading on Friday, after its quarterly \u2060revenue forecast disappointed investors who had bet the stock would be \u200ca major...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/08/cloudflare039s-slowing-growth-disappoints-investors-betting-on-ai-boost"
+            "title": "AI action plan poised for 3Q launch",
+            "description": "[THE STAR] PETALING JAYA: The National Artificial Intelligence (AI) Action Plan 2026\u20132030, aimed at addressing Malaysia's AI talent shortage, is expected to be launched in the third quarter of this year.",
+            "url": "https://www.thestar.com.my/news/nation/2026/05/09/ai-action-plan-poised-for-3q-launch"
         },
         {
-            "title": "We asked ChatGPT what will be Take-Two stock price when GTA 6 releases; Here\u2019s what it said",
-            "description": "[FINBOLD] Finbold consluted the advanced artificial intelligence (AI) of ChatGPT on TTWO stock's GTA 6 release date price target.",
-            "url": "https://finbold.com/we-asked-chatgpt-what-will-be-take-two-stock-price-when-gta-6-releases-heres-what-it-said/"
+            "title": "Apple Likely to see Major Inflection Point in Growth, Wedbush Says",
+            "description": "[MARKETSCREENER] Apple is likely to see a major inflection point in growth as it prepares to unveil its artificial intelligence strategy at WWDC next month, Wedbush said in a Friday research report. The brokerage...",
+            "url": "https://www.marketscreener.com/news/apple-likely-to-see-major-inflection-point-in-growth-wedbush-says-ce7f5bdbdc8df326"
         },
         {
-            "title": "From Cloudflare to Meta and Amazon: How the AI layoff wave has wiped out more than 90,000 jobs this year | Explained",
-            "description": "[MONEYCONTROL] Cloudflare has become the latest major company to announce layoffs as firms increasingly restructure operations around artificial intelligence and automation.",
-            "url": "https://www.moneycontrol.com/world/from-cloudflare-to-meta-and-amazon-how-the-ai-layoff-wave-has-wiped-out-more-than-90-000-jobs-this-year-explained-article-13913296.html"
+            "title": "Cloudflare Founders Say Work Has \u201cFundamentally Changed\u201d As Layoffs Hit 1,100+ Employees",
+            "description": "[NDTV.COM] The company stated that artificial intelligence usage inside the company has increased by more than 600% in just three months.",
+            "url": "https://www.ndtv.com/us-markets/cloudflare-founders-say-work-has-fundamentally-changed-as-layoffs-hit-1-100-employees-11468689"
         }
     ]
 }
