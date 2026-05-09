@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-08 22:52:30 UTC",
+    "updated": "2026-05-09 02:33:25 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -22,11 +22,6 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
@@ -47,24 +42,29 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Consensus Miami Day 3 Highlights: AI, Tokenization and Real-World Blockchain Infrastructure Take Center Stage",
-            "description": "[CRYPTO BREAKING NEWS] Consensus 2026 concluded its final day with a strong focus on artificial intelligence, tokenization, stablecoin infrastructure, and institutional",
-            "url": "https://www.cryptobreaking.com/consensus-miami-day-3-highlights/"
+            "title": "The best way to invest in AI on the ASX",
+            "description": "[THE MOTLEY FOOL AUSTRALIA] Want to invest in artificial intelligence (AI) on the ASX? Here's why I think the best way to do it is through ASX ETFs.",
+            "url": "https://www.fool.com.au/2026/05/09/the-best-way-to-invest-in-ai-on-the-asx/"
         },
         {
-            "title": "Sony, Nintendo grapple with memory price surge as AI boom constrains supply",
-            "description": "[MARKETSCREENER] Nintendo and Sony both flagged the impact from surging memory prices on their games businesses on Friday, as the artificial intelligence boom constrains chip supply and deepens disruptions across...",
-            "url": "https://www.marketscreener.com/news/sony-nintendo-grapple-with-memory-price-surge-as-ai-boom-constrains-supply-ce7f5bdbd88bf123"
+            "title": "India advancing rapidly in emerging technologies: Jitendra Singh",
+            "description": "[DEVDISCOURSE] India is moving at a rapid pace in emerging technologies such as quantum computing, artificial intelligence AI, semiconductors and deep-tech, and the countrys youth will play a central role in...",
+            "url": "https://www.devdiscourse.com/article/education/3901529-india-advancing-rapidly-in-emerging-technologies-jitendra-singh"
         },
         {
-            "title": "Sony, Nintendo grapple with memory price surge as AI boom constrains supply",
-            "description": "[REUTERS] Nintendo and Sony both flagged the impact from \u200bsurging memory prices on their games businesses on Friday, as the artificial intelligence boom constrains chip supply and deepens disruptions across...",
-            "url": "https://www.reuters.com/world/asia-pacific/sony-nintendo-grapple-with-memory-price-surge-ai-boom-constrains-supply-2026-05-08/"
+            "title": "India among first in Global South to develop Health AI benchmarking platform, says health body CEO",
+            "description": "[DEVDISCOURSE] India is among the first countries in the Global South to develop an open Health AI benchmarking platform to evaluate artificial intelligence models on diverse Indian datasets before deployment at a...",
+            "url": "https://www.devdiscourse.com/article/technology/3901528-india-among-first-in-global-south-to-develop-health-ai-benchmarking-platform-says-health-body-ceo"
         },
         {
-            "title": "Peak XV onboards former Fractal executive as operating partner in US",
-            "description": "[THE ECONOMIC TIMES] Peak XV Partners, India's largest VC firm, has appointed Shelly Singh as an operating partner in its San Francisco office. This move strengthens the firm's focus on US deals, particularly in...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/peak-xv-onboards-former-fractal-executive-as-operating-partner-in-us/articleshow/130956538.cms"
+            "title": "Meta\u2019s Embrace of A.I. Is Making Its Employees Miserable",
+            "description": "[THE NEW YORK TIMES] As it adapts to the artificial intelligence era, the company is pushing many of its 78,000 workers to use the technology, and preparing to lay some of them off.",
+            "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html"
         },
         {
-            "title": "Tech is turning increasingly to religion in a quest to create ethical AI",
-            "description": "[HARTFORD COURANT] By KRYSTA FAURIA LOS ANGELES (AP) \u2014 As concerns mount over artificial intelligence and its rapid integration into society, tech companies are increasingly turning to faith leaders for guidance on how...",
-            "url": "https://www.courant.com/2026/05/08/tech-is-turning-increasingly-to-religion-in-a-quest-to-create-ethical-ai/"
+            "title": "NCAR develops AI tools to improve severe weather forecasting",
+            "description": "[BOULDER DAILY CAMERA] The National Center for Atmospheric Research in Boulder is developing artificial intelligence tools that enable forecasters to predict severe weather threats more accurately and farther in advance.",
+            "url": "https://www.dailycamera.com/2026/05/08/ncar-develops-ai-tools-to-improve-severe-weather-forecasting/"
         },
         {
-            "title": "AI has companies cutting jobs - but not replacing workers",
-            "description": "[ACTIVIST POST] Discover the truth behind artificial intelligence and jobs: how corporate shifts can influence workforce stability and structure.",
-            "url": "https://www.activistpost.com/ai-has-companies-cutting-jobs-but-not-replacing-workers/"
+            "title": "Nvidia in Talks With SoftBank on Making Servers in Japan",
+            "description": "[MARKETSCREENER] Nvidia has started discussions with Japan's SoftBank, which is looking for help with its plan to develop and produce homegrown artificial intelligence servers, Nikkei Asia reported...",
+            "url": "https://www.marketscreener.com/news/nvidia-in-talks-with-softbank-on-making-servers-in-japan-ce7f5bdbdd8cf427"
         },
         {
-            "title": "The UK cannot allow unions to ruin its AI revolution",
-            "description": "[WASHINGTON EXAMINER] The U.K.'s competitiveness in artificial intelligence would be badly damaged by allowing Google DeepMind Unions, which could pull the plug on productivity.",
-            "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4558076/uk-cannot-allow-unions-to-ruin-its-ai-revolution/"
+            "title": "Google Bets Big on India for AI, Servers and Drone Manufacturing",
+            "description": "[OUTLOOK BUSINESS] Global technology major Google is exploring fresh investment opportunities in India focused on artificial intelligence (AI) infrastructure and the local manufacturing of servers and drones, Union...",
+            "url": "https://www.outlookbusiness.com/corporate/google-bets-big-on-india-for-ai-servers-and-drone-manufacturing"
         },
         {
-            "title": "Inside DC\u2019s AI expo, industry leaders discuss same fears held by many",
-            "description": "[WTOP] An artificial intelligence expo in D.C. is hosting leaders of the industry who are discussing many of the same fears about the technology held by people outside tech circles.",
-            "url": "https://wtop.com/artificial-intelligence/2026/05/inside-a-big-ai-expo-the-industry-is-talking-about-the-same-thing-you-are/"
+            "title": "Cloudflare's slowing growth disappoints investors betting on AI boost",
+            "description": "[THE STAR] May 8 (Reuters) - Cloudflare shares tumbled \u2060more than 15% in premarket trading on Friday, after its quarterly \u2060revenue forecast disappointed investors who had bet the stock would be \u200ca major...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/08/cloudflare039s-slowing-growth-disappoints-investors-betting-on-ai-boost"
         },
         {
-            "title": "Accurate Group of Institutions Students' academic trip to IIM Sirmaur for AI Certification, Strengthening Future",
-            "description": "[THE TRIBUNE] Noida (Uttar Pradesh) [India], May 8: Taking a significant step towards building future-ready professionals, Accurate Group of Institutions has enabled more than 45 students to participate in an...",
-            "url": "https://www.tribuneindia.com/news/business/accurate-group-of-institutions-students-academic-trip-to-iim-sirmaur-for-ai-certification-strengthening-future-ready-learning/"
+            "title": "We asked ChatGPT what will be Take-Two stock price when GTA 6 releases; Here\u2019s what it said",
+            "description": "[FINBOLD] Finbold consluted the advanced artificial intelligence (AI) of ChatGPT on TTWO stock's GTA 6 release date price target.",
+            "url": "https://finbold.com/we-asked-chatgpt-what-will-be-take-two-stock-price-when-gta-6-releases-heres-what-it-said/"
         },
         {
-            "title": "India has a Chance to Lead the World on Ethical AI",
-            "description": "[THE TRIBUNE] New Delhi [India], May 8: As artificial intelligence accelerates globally, most governments are focused on regulation, risk mitigation and compliance. But a growing body of thinking suggests that...",
-            "url": "https://www.tribuneindia.com/news/business/india-has-a-chance-to-lead-the-world-on-ethical-ai/"
+            "title": "From Cloudflare to Meta and Amazon: How the AI layoff wave has wiped out more than 90,000 jobs this year | Explained",
+            "description": "[MONEYCONTROL] Cloudflare has become the latest major company to announce layoffs as firms increasingly restructure operations around artificial intelligence and automation.",
+            "url": "https://www.moneycontrol.com/world/from-cloudflare-to-meta-and-amazon-how-the-ai-layoff-wave-has-wiped-out-more-than-90-000-jobs-this-year-explained-article-13913296.html"
         }
     ]
 }
