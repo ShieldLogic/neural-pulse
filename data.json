@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-09 20:39:58 UTC",
+    "updated": "2026-05-09 22:38:35 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -22,11 +22,6 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
@@ -47,24 +42,29 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Officials should take help of AI to solve myriad civic issues: Citizens",
-            "description": "[TIMES OF INDIA] Pune: In the age of increasing use of artificial intelligence (AI) in systems, juxtaposed with unending complaints of administrative apathy, many city.",
-            "url": "https://timesofindia.indiatimes.com/city/pune/officials-should-take-help-of-ai-to-solve-myriad-civic-issues-citizens/articleshow/130973973.cms"
+            "title": "India's market underperformance driven by 'AI exposure gap', not domestic weakness: Motilal Oswal report",
+            "description": "[DEVDISCOURSE] India's underperformance against major global markets has been driven largely by the global artificial intelligence (AI) rally and not necessarily by weakness in the broader domestic economy,...",
+            "url": "https://www.devdiscourse.com/article/business/3902252-indias-market-underperformance-driven-by-ai-exposure-gap-not-domestic-weakness-motilal-oswal-report"
         },
         {
-            "title": "Telangana govt to establish special degree colleges for minorities in 10 districts",
-            "description": "[THE INDIAN EXPRESS] The 10 districts in Telangana during undivided Andhra Pradesh were reorganised into 33 during the previous BRS regime. The proposed colleges would be equipped with skill development and AI...",
-            "url": "https://indianexpress.com/article/education/telangana-govt-to-establish-special-degree-colleges-for-minorities-in-10-districts-10680756/"
+            "title": "India's market underperformance driven by 'AI exposure gap', not domestic weakness: Motilal Oswal report",
+            "description": "[THE TRIBUNE] India's underperformance against major global markets has been driven largely by the global artificial intelligence (AI) rally and not necessarily by weakness in the broader domestic economy,...",
+            "url": "https://www.tribuneindia.com/news/business/indias-market-underperformance-driven-by-ai-exposure-gap-not-domestic-weakness-motilal-oswal-report/"
         },
         {
-            "title": "AI turns 12 years of couple chats into wedding story; Anthropic employee\u2019s project goes viral",
-            "description": "[TIMES OF INDIA] Trending News: Artificial intelligence is usually linked with offices, coding, or automation tasks. But a recent viral story has shown a very different use of AI, on.",
-            "url": "https://timesofindia.indiatimes.com/etimes/trending/ai-turns-12-years-of-couple-chats-into-wedding-story-anthropic-employees-project-goes-viral/articleshow/130971774.cms"
+            "title": "AI-powered ICCC cuts Tirumala darshan waiting time to 8-14 hours from 24-36 hours",
+            "description": "[TIMES OF INDIA] VIJAYAWADA: The Artificial Intelligence-based Integrated Command and Control Centre (ICCC) established by Tirumala Tirupati Devasthanams (TTD) has dra.",
+            "url": "https://timesofindia.indiatimes.com/city/vijayawada/ai-based-iccc-transforms-pilgrim-management-in-tirumala/articleshow/130975183.cms"
         },
         {
-            "title": "Spotify to label human and AI artists separately",
-            "description": "[BANGKOK POST] Spotify is rolling out a sophisticated new verification system designed to help listeners distinguish between human artists and artificial intelligence, as the surge of AI-generated content continues...",
-            "url": "https://www.bangkokpost.com/life/tech/3252299/spotify-to-label-human-and-ai-artists-separately"
+            "title": "AI has companies cutting jobs - but not replacing workers",
+            "description": "[ACTIVIST POST] Discover the truth behind artificial intelligence and jobs: how corporate shifts can influence workforce stability and structure.",
+            "url": "https://www.activistpost.com/ai-has-companies-cutting-jobs-but-not-replacing-workers/"
         },
         {
-            "title": "Telangana Govt To Establish Special Degree Colleges For Minorities",
-            "description": "[DECCAN CHRONICLE] The proposed colleges would be equipped with skill development and AI (Artificial Intelligence) training for the students.",
-            "url": "https://www.deccanchronicle.com/southern-states/telangana/telangana-govt-to-establish-special-degree-colleges-for-minorities-in-10-districts-1955589"
+            "title": "AI era as attackers, defenders deploy autonomous systems: WEF report",
+            "description": "[THE ECONOMIC TIMES] The cybersecurity landscape is shifting to an \"AI versus AI\" era as attackers leverage artificial intelligence for faster, more sophisticated threats. In response, organizations are deploying...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cybersecurity-entering-ai-vs-ai-era-as-attackers-defenders-deploy-autonomous-systems-wef-report/articleshow/130975105.cms"
         },
         {
-            "title": "Best career options after 12th in the age of AI: Here\u2019s a list",
-            "description": "[ZEE NEWS] Best career options after 12th: In the year 2026, Artificial Intelligence is rapidly transforming the global job market, changing the skills employers look for and creating entirely new career...",
-            "url": "https://zeenews.india.com/education/best-career-options-after-12th-in-the-age-of-ai-here-s-a-list-3045859.html"
+            "title": "AI era as attackers, defenders deploy autonomous systems: WEF report",
+            "description": "[THE TRIBUNE] Cybersecurity is entering an 'AI versus AI' era, with companies increasingly deploying autonomous artificial intelligence systems to investigate, detect and respond to cyberattacks at machine speed...",
+            "url": "https://www.tribuneindia.com/news/business/cybersecurity-entering-ai-vs-ai-era-as-attackers-defenders-deploy-autonomous-systems-wef-report/"
         },
         {
-            "title": "Why the Trump-Xi Summit Matters, Even if Little Seems to Come of It",
-            "description": "[THE NEW YORK TIMES] The war in Iran, trade, artificial intelligence and Taiwan are expected to be on the agenda. But expectations are modest.",
-            "url": "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html"
+            "title": "ByteDance bets big on AI with 25% spending increase in 2026",
+            "description": "[THE NEWS INTERNATIONAL] ByteDance has announced plans to boost infrastructure spending on artificial intelligence infrastructure this year in a major push to dominate the competitive AI landscape. The spending is expected...",
+            "url": "https://www.thenews.com.pk/latest/1401961-bytedance-bets-big-on-ai-with-25-spending-increase-in-2026"
         },
         {
-            "title": "Decision to introduce AI tech in PFSA",
-            "description": "[THE NATION] LAHORE - Punjab Forensic Science Authority (PFSA) has decided to introduce artificial intelligence (AI) technology to develop the investigation system on",
-            "url": "https://www.nation.com.pk/09-May-2026/decision-introduce-ai-tech-pfsa"
+            "title": "India's mining sector can create 25 million jobs by 2047: Report",
+            "description": "[DEVDISCOURSE] India's mining sector has the potential to contribute an additional USD 500 billion to the economy and create up to 25 million incremental jobs by 2047, but achieving this will require a major shift...",
+            "url": "https://www.devdiscourse.com/article/business/3902184-indias-mining-sector-can-create-25-million-jobs-by-2047-report"
         },
         {
-            "title": "India push AI defence cooperation",
-            "description": "[LOKMAT TIMES] US-India push AI defence cooperation - Washington, May 9 The United States and India must step up cooperation in artificial intelligence and defence as ... Get Latest News on International only on...",
-            "url": "https://www.lokmattimes.com/international/us-india-push-ai-defence-cooperation/"
+            "title": "India's mining sector can create 25 million jobs by 2047: Report",
+            "description": "[THE TRIBUNE] India's mining sector has the potential to contribute an additional USD 500 billion to the economy and create up to 25 million incremental jobs by 2047, but achieving this will require a major shift...",
+            "url": "https://www.tribuneindia.com/news/business/indias-mining-sector-can-create-25-million-jobs-by-2047-report/"
         },
         {
-            "title": "Dr Jitendra inaugurates \u2018Future Skills Centre\u2019 in Parul University, underlines Govt supported ecosystem",
-            "description": "[DAILY EXCELSIOR] Excelsior Correspondent VADODARA (GUJARAT), May 8 :Union Minister of State (Independent Charge) for Science & Technology, Earth Sciences and MoS PMO, Personnel, Public Grievances, Pensions, Atomic...",
-            "url": "https://www.dailyexcelsior.com/dr-jitendra-inaugurates-future-skills-centre-in-parul-university-underlines-govt-supported-ecosystem/"
+            "title": "India's mining sector can create 25 million jobs by 2047: Report",
+            "description": "[THE ECONOMIC TIMES] India's mining sector is poised for significant growth. A new report suggests \"Mining 5.0\" can boost the economy by USD 500 billion and create 25 million jobs by 2047. This transformation relies on...",
+            "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/indias-mining-sector-can-create-25-million-jobs-by-2047-report/articleshow/130974214.cms"
         }
     ]
 }
