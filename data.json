@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-09 18:55:14 UTC",
+    "updated": "2026-05-09 20:39:58 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,14 +22,19 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,29 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -75,6 +75,16 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Officials should take help of AI to solve myriad civic issues: Citizens",
+            "description": "[TIMES OF INDIA] Pune: In the age of increasing use of artificial intelligence (AI) in systems, juxtaposed with unending complaints of administrative apathy, many city.",
+            "url": "https://timesofindia.indiatimes.com/city/pune/officials-should-take-help-of-ai-to-solve-myriad-civic-issues-citizens/articleshow/130973973.cms"
+        },
+        {
+            "title": "Telangana govt to establish special degree colleges for minorities in 10 districts",
+            "description": "[THE INDIAN EXPRESS] The 10 districts in Telangana during undivided Andhra Pradesh were reorganised into 33 during the previous BRS regime. The proposed colleges would be equipped with skill development and AI...",
+            "url": "https://indianexpress.com/article/education/telangana-govt-to-establish-special-degree-colleges-for-minorities-in-10-districts-10680756/"
         },
         {
             "title": "AI turns 12 years of couple chats into wedding story; Anthropic employee\u2019s project goes viral",
@@ -115,16 +125,6 @@
             "title": "Dr Jitendra inaugurates \u2018Future Skills Centre\u2019 in Parul University, underlines Govt supported ecosystem",
             "description": "[DAILY EXCELSIOR] Excelsior Correspondent VADODARA (GUJARAT), May 8 :Union Minister of State (Independent Charge) for Science & Technology, Earth Sciences and MoS PMO, Personnel, Public Grievances, Pensions, Atomic...",
             "url": "https://www.dailyexcelsior.com/dr-jitendra-inaugurates-future-skills-centre-in-parul-university-underlines-govt-supported-ecosystem/"
-        },
-        {
-            "title": "Anthropic signs $1.8 billion AI cloud deal with Akamai, Bloomberg News reports",
-            "description": "[THE STAR] May 8 (Reuters) - Artificial \u2060intelligence startup Anthropic has signed a $1.8 billion \u2060computing deal with Akamai Technologies to meet \u200csurging demand for its AI software, Bloomberg News reported on...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/09/anthropic-signs-18-billion-ai-cloud-deal-with-akamai-bloomberg-news-reports"
-        },
-        {
-            "title": "AI Gives Cybersecurity Competitive Advantage",
-            "description": "[DAILY EXCELSIOR] By Satyaki Chakraborty GENEVA: Artificial intelligence is rapidly reshaping cybersecurity and is the biggest driver of change in the field, according to a new World Economic Forum report released on...",
-            "url": "https://www.dailyexcelsior.com/ai-gives-cybersecurity-competitive-advantage/"
         }
     ]
 }
