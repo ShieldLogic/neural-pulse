@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-10 06:30:37 UTC",
+    "updated": "2026-05-10 09:25:27 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,24 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
-        },
-        {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -32,14 +22,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,19 +42,29 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -75,6 +75,26 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Australia's data centre dilemma: energy boom or bust?",
+            "description": "[PERTHNOW] Tech giants are spending billions of dollars to make Australia an artificial intelligence destination but its impact on the nation is up for debate.",
+            "url": "https://www.perthnow.com.au/news/technology/australias-data-centre-dilemma-energy-boom-or-bust-c-22261251"
+        },
+        {
+            "title": "Australia's data centre dilemma: energy boom or bust?",
+            "description": "[THE CANBERRA TIMES] Tech giants are spending billions of dollars to make Australia an artificial intelligence destination but its impact on...",
+            "url": "https://www.canberratimes.com.au/story/9243025/australias-data-centre-dilemma-energy-boom-or-bust/"
+        },
+        {
+            "title": "AI use surges globally but rich-poor divide widens, Microsoft says",
+            "description": "[JAPAN TODAY] Generative artificial intelligence is being used by 17.8 percent of the world's working-age population, but the gap between wealthy and developing nations continues to widen, according to a report...",
+            "url": "https://japantoday.com/category/tech/ai-use-surges-globally-but-rich-poor-divide-widens-microsoft-says"
+        },
+        {
+            "title": "How the FAA wants to use artificial intelligence",
+            "description": "[POLITICO] The agency\u2019s new effort isn\u2019t focused on \u201csafety critical functions,\u201d according to one participant.",
+            "url": "https://www.politico.com/news/2026/05/09/faa-artificial-intelligence-00909097"
         },
         {
             "title": "AI-powered electrocardiogram detects early signs of heart failure",
@@ -105,26 +125,6 @@
             "title": "Deepfakes shatter online confidence",
             "description": "[THE MANILA TIMES] A NEW consumer study from iProov, a leading provider of science-based biometric identity verification solutions, warns that the rise of deepfakes is undermining confidence in what people see online....",
             "url": "https://www.manilatimes.net/2026/05/10/business/sunday-business-it/deepfakes-shatter-online-confidence/2339948"
-        },
-        {
-            "title": "Govt in AI-driven approach to tackle challenges, cut costs",
-            "description": "[THE STAR] PETALING JAYA: The Government Innovation Initiative (GII), a flagship national effort to accelerate Malaysia's transition into an artificial intelligence (AI) nation by 2030, will be officially...",
-            "url": "https://www.thestar.com.my/news/nation/2026/05/10/govt-in-ai-driven-approach-to-tackle-challenges-cut-costs"
-        },
-        {
-            "title": "AI emerging as key tool to make cancer care faster, cheaper and more precise: Expert",
-            "description": "[FIRSTPOST] As cancer cases surge worldwide and treatment costs rise sharply, artificial intelligence is increasingly emerging as a critical tool to improve early diagnosis, precision treatment and affordability...",
-            "url": "https://www.firstpost.com/health/ai-emerging-as-key-tool-to-make-cancer-care-faster-cheaper-and-more-precise-experts-ws-e-14009468.html"
-        },
-        {
-            "title": "Michael Saylor Says Don't Bother Working Hard: Is The Crypto Billionaire's Take Controversial Or Simply C",
-            "description": "[BENZINGA] Strategy Inc. (NASDAQ:MSTR) co-founder Michael Saylor recently expressed a view on the diminishing value of hard work amid the rise of artificial intelligence.",
-            "url": "https://www.benzinga.com/crypto/cryptocurrency/26/05/52435013/michael-saylor-dont-bother-working-hard-crypto-billionaire-controversial-take"
-        },
-        {
-            "title": "Rural students now discussing AI and how to use it effectively, says Sharad Pawar",
-            "description": "[THEPRINT] Satara, May 9 (PTI) Students from villages are now discussing Artificial Intelligence (AI) and how it can be used effectively, NCP (SP) supremo Sharad Pawar said on Saturday. The former Union...",
-            "url": "https://theprint.in/india/rural-students-now-discussing-ai-and-how-to-use-it-effectively-says-sharad-pawar/2926867/"
         }
     ]
 }
