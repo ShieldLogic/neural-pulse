@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-10 02:36:58 UTC",
+    "updated": "2026-05-10 06:30:37 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,14 +7,24 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+        },
+        {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,19 +32,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+            "title": "Building AI Agents with Local Small Language Models",
+            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,19 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+            "title": "Text Summarization with Scikit-LLM",
+            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
         },
         {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
+            "title": "AI-powered electrocardiogram detects early signs of heart failure",
+            "description": "[MEDICAL XPRESS] Interpreting relatively inexpensive electrocardiograms (ECGs) with an artificial intelligence (AI) algorithm accurately screened patients for a key precursor of heart failure in Kenya, a study led by...",
+            "url": "https://medicalxpress.com/news/2026-05-ai-powered-electrocardiogram-early-heart.html"
+        },
+        {
+            "title": "Technology can be advantage, shouldn't deprive independent thought: Andhra Chief Justice",
+            "description": "[DEVDISCOURSE] Andhra Pradesh High Court Chief Justice Lisa Gill on Saturday said here that Artificial Intelligence should be used carefully, observing that technology should be an advantage but not a deprivation...",
+            "url": "https://www.devdiscourse.com/article/law-order/3902595-technology-can-be-advantage-shouldnt-deprive-independent-thought-andhra-chief-justice"
+        },
+        {
+            "title": "Semiconductors propel Wall Street despite renewed tensions in the Strait of Hormuz",
+            "description": "[MARKETSCREENER] US markets advanced on Friday, buoyed by stronger-than-expected job creations and a fresh surge in artificial intelligence-related stocks, despite Middle East tensions flaring up. The S&P 500 rose...",
+            "url": "https://www.marketscreener.com/news/semiconductors-propel-wall-street-despite-renewed-tensions-in-the-strait-of-hormuz-ce7f5bd8db8ef524"
+        },
+        {
+            "title": "NetSuite expands AI-powered ERP push in Southeast Asia",
+            "description": "[THE MANILA TIMES] ORACLE NetSuite is expanding its artificial intelligence-powered enterprise resource planning (ERP) offerings in Southeast Asia as businesses in the Philippines and across the region accelerate...",
+            "url": "https://www.manilatimes.net/2026/05/10/business/sunday-business-it/netsuite-expands-ai-powered-erp-push-in-southeast-asia/2339951"
+        },
+        {
+            "title": "Legal and sovereignty questions",
+            "description": "[THE MANILA TIMES] THE proposed Pax Silica project in New Clark City in Tarlac has drawn public attention due to its scale and implications. Initial reports describe a 4,000-acre site, or about 1,600 hectares, that...",
+            "url": "https://www.manilatimes.net/2026/05/10/opinion/columns/legal-and-sovereignty-questions/2340038"
+        },
+        {
+            "title": "Deepfakes shatter online confidence",
+            "description": "[THE MANILA TIMES] A NEW consumer study from iProov, a leading provider of science-based biometric identity verification solutions, warns that the rise of deepfakes is undermining confidence in what people see online....",
+            "url": "https://www.manilatimes.net/2026/05/10/business/sunday-business-it/deepfakes-shatter-online-confidence/2339948"
+        },
+        {
+            "title": "Govt in AI-driven approach to tackle challenges, cut costs",
+            "description": "[THE STAR] PETALING JAYA: The Government Innovation Initiative (GII), a flagship national effort to accelerate Malaysia's transition into an artificial intelligence (AI) nation by 2030, will be officially...",
+            "url": "https://www.thestar.com.my/news/nation/2026/05/10/govt-in-ai-driven-approach-to-tackle-challenges-cut-costs"
+        },
+        {
+            "title": "AI emerging as key tool to make cancer care faster, cheaper and more precise: Expert",
+            "description": "[FIRSTPOST] As cancer cases surge worldwide and treatment costs rise sharply, artificial intelligence is increasingly emerging as a critical tool to improve early diagnosis, precision treatment and affordability...",
+            "url": "https://www.firstpost.com/health/ai-emerging-as-key-tool-to-make-cancer-care-faster-cheaper-and-more-precise-experts-ws-e-14009468.html"
+        },
+        {
+            "title": "Michael Saylor Says Don't Bother Working Hard: Is The Crypto Billionaire's Take Controversial Or Simply C",
+            "description": "[BENZINGA] Strategy Inc. (NASDAQ:MSTR) co-founder Michael Saylor recently expressed a view on the diminishing value of hard work amid the rise of artificial intelligence.",
+            "url": "https://www.benzinga.com/crypto/cryptocurrency/26/05/52435013/michael-saylor-dont-bother-working-hard-crypto-billionaire-controversial-take"
+        },
+        {
             "title": "Rural students now discussing AI and how to use it effectively, says Sharad Pawar",
             "description": "[THEPRINT] Satara, May 9 (PTI) Students from villages are now discussing Artificial Intelligence (AI) and how it can be used effectively, NCP (SP) supremo Sharad Pawar said on Saturday. The former Union...",
             "url": "https://theprint.in/india/rural-students-now-discussing-ai-and-how-to-use-it-effectively-says-sharad-pawar/2926867/"
-        },
-        {
-            "title": "AI cuts wildlife tracking time from months to days",
-            "description": "[PHYS.ORG] Artificial intelligence can dramatically speed up the painstaking work of tracking wildlife with remote cameras, cutting analysis time from months or even a year to just days while producing nearly...",
-            "url": "https://phys.org/news/2026-05-ai-wildlife-tracking-months-days.html"
-        },
-        {
-            "title": "Rural students now discussing AI and how to use it effectively, says Sharad Pawar",
-            "description": "[DEVDISCOURSE] Students from villages are now discussing Artificial Intelligence AI and how it can be used effectively, NCP SP supremo Sharad Pawar said on Saturday. Efforts are underway to establish partnerships...",
-            "url": "https://www.devdiscourse.com/article/education/3902444-rural-students-now-discussing-ai-and-how-to-use-it-effectively-says-sharad-pawar"
-        },
-        {
-            "title": "Bumble says goodbye to swipes as AI matchmaking reshapes online dating",
-            "description": "[THE NEWS INTERNATIONAL] Artificial intelligence is going to rule the dating landscape. Hence, the era of swipe is coming to an end. Bumble dating is set to witness this change very soon as the company will scrap the swipe...",
-            "url": "https://www.thenews.com.pk/latest/1401993-bumble-says-goodbye-to-swipes-as-ai-matchmaking-reshapes-online-dating"
-        },
-        {
-            "title": "FIIs may be selling, Indian markets aren\u2019t 'broken': Ramesh Damani on India's long-term opportunity",
-            "description": "[MONEYCONTROL] Currently, a large part of market conversation has revolved around how FIIs have shifted allocations toward technology-heavy markets such as Taiwan and Korea amid the global artificial intelligence...",
-            "url": "https://www.moneycontrol.com/news/business/markets/fiis-may-be-selling-indian-markets-aren-t-broken-ramesh-damani-on-india-s-long-term-opportunity-13913809.html"
-        },
-        {
-            "title": "The Future of AI-Powered Email",
-            "description": "[KIPLINGER] Microsoft is rolling out new artificial intelligence capabilities to conquer overflowing inboxes. Can it improve workplace communication?",
-            "url": "https://www.kiplinger.com/business/the-future-of-ai-powered-email"
-        },
-        {
-            "title": "\u201cWhat if ChatGPT is wrong\u201d- Naomi Osaka irked by use of AI use in tennis scouting after Italian Open win over Eva Lys",
-            "description": "[TIMES OF INDIA] International Sports News: Naomi Osaka recently opened up on the growing use of artificial intelligence in tennis. She advanced to the third round of the Italian Open in Rome. T.",
-            "url": "https://timesofindia.indiatimes.com/sports/international-sports/what-if-chatgpt-is-wrong-naomi-osaka-irked-by-use-of-ai-use-in-tennis-scouting-after-italian-open-win-over-eva-lys/articleshow/130977188.cms"
-        },
-        {
-            "title": "AI disruption, work pressure pushing BFSI employees towards exit, says report",
-            "description": "[BUSINESS TODAY] The report, titled \u201cPeople Reality in BFSI \u2013 Three Workforce Imperatives,\u201d said the sector is undergoing a major workforce transition as companies accelerate automation and Artificial Intelligence...",
-            "url": "https://www.businesstoday.in/industry/banks/story/ai-disruption-work-pressure-pushing-bfsi-employees-towards-exit-says-report-530668-2026-05-09"
-        },
-        {
-            "title": "US workers thought they could spot AI: A new survey reveals a growing workplace trust crisis",
-            "description": "[TIMES OF INDIA] News News: Artificial intelligence is no longer sitting in the background of the modern workplace. It is now helping employees draft emails, write reports, summa.",
-            "url": "https://timesofindia.indiatimes.com/education/news/us-workers-thought-they-could-spot-ai-a-new-survey-reveals-a-growing-workplace-trust-crisis/articleshow/130974870.cms"
-        },
-        {
-            "title": "In steel country, Silicon Valley\u2019s Ro Khanna pitches AI safeguards and a federal jobs program",
-            "description": "[HARTFORD COURANT] PITTSBURGH \u2014 A potential 2028 presidential contender launched a Rust Belt tour in Pittsburgh on Thursday to pitch his vision for a massive, New Deal-style expansion of the federal workforce. To...",
-            "url": "https://www.courant.com/2026/05/09/in-steel-country-silicon-valleys-ro-khanna-pitches-ai-safeguards-and-a-federal-jobs-program-3/"
         }
     ]
 }
