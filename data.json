@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-10 20:42:10 UTC",
+    "updated": "2026-05-10 22:42:02 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,14 +22,19 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,29 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -75,6 +75,21 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Study finds women judged more harshly for using AI",
+            "description": "[THE NEWS INTERNATIONAL] Women are significantly penalised for using artificial intelligence to create job application materials, while men who use identical AI assistance receive forgiveness and understanding, according...",
+            "url": "https://www.thenews.com.pk/latest/1402063-study-finds-women-judged-more-harshly-for-using-ai"
+        },
+        {
+            "title": "Former US Army CIO Leonel Garciga says that the tension playing out with US Army's rapid adoption of AI technologies is ...",
+            "description": "[TIMES OF INDIA] Tech News News: The US Army is reportedly racing to integrate artificial intelligence and digital tools across its operations. However, the former chief information o.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/former-us-army-cio-leonel-garciga-says-that-the-tension-playing-out-with-us-armys-rapid-adoption-of-ai-technologies-is-/articleshow/130989963.cms"
+        },
+        {
+            "title": "Meet Gabi, The Humanoid Robot Now Officially A Buddhist Monk In South Korea",
+            "description": "[TIMES NOW] South Korea\u2019s first robot monk, Gabi, has officially taken Buddhist vows at Seoul\u2019s Jogyesa Temple, sparking global fascination over the unexpected intersection of artificial intelligence,...",
+            "url": "https://www.timesnownews.com/lifestyle/people/meet-gabi-the-humanoid-robot-now-officially-a-buddhist-monk-in-south-korea-article-154287458"
         },
         {
             "title": "Beware, OpenAI: China Is Building World\u2019s Fastest-Growing AI Cybersecurity Powerhouse",
@@ -110,21 +125,6 @@
             "title": "Spotting AI scams is an increasingly difficult task",
             "description": "[THE IRISH TIMES] Helping people navigate new reality of artificial intelligence is critical",
             "url": "https://www.irishtimes.com/business/2026/05/10/spotting-ai-scams-is-an-increasingly-difficult-task/"
-        },
-        {
-            "title": "Logitech bets on AI, gaming and business users as it raises spending, CEO says",
-            "description": "[THE INDIAN EXPRESS] Logitech International will increase spending on product development and marketing this year, CEO Hanneke Faber said, even as concernsgrowof a possible global economic slowdown fuelled by the Iran...",
-            "url": "https://indianexpress.com/shorts/technology/logitech-bets-on-ai-gaming-and-business-users-as-it-raises-spending-ceo-says-10681943/"
-        },
-        {
-            "title": "Traders looking for next leg in global stocks rally bet on Asia",
-            "description": "[THE ECONOMIC TIMES] Investors are increasingly betting on Asia for the next phase of the global equities rally, driven by enthusiasm around artificial intelligence and strong performances in South Korean and Taiwanese...",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/traders-looking-for-next-leg-in-global-stocks-rally-bet-on-asia/articleshow/130986358.cms"
-        },
-        {
-            "title": "Artificial Intelligence May Change How Financial Crises Emerge, ECB Study Finds",
-            "description": "[DEVDISCOURSE] A new ECB-led study finds that artificial intelligence could reshape financial crises, with different AI systems behaving in dramatically different ways during market stress. While some AI models...",
-            "url": "https://www.devdiscourse.com/article/business/3900985-artificial-intelligence-may-change-how-financial-crises-emerge-ecb-study-finds"
         }
     ]
 }
