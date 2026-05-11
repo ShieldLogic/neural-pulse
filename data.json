@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-11 19:41:56 UTC",
+    "updated": "2026-05-11 21:13:22 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,24 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
-        },
-        {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -32,14 +22,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,19 +42,29 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -75,6 +75,36 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Lawsuit blames ChatGPT maker OpenAI for bot helping plan a mass shooting",
+            "description": "[BREITBART NEWS NETWORK] The widow of a man killed in a mass shooting at Florida State University is suing ChatGPT maker OpenAI, blaming the artificial intelligence chatbot for",
+            "url": "https://www.breitbart.com/news/lawsuit-blames-chatgpt-maker-openai-for-bot-helping-plan-a-mass-shooting/"
+        },
+        {
+            "title": "Korea\u2019s KOSPI hits all-time high as \u2018ants\u2019 join global rush to buy AI stocks",
+            "description": "[THE HINDU BUSINESS LINE] South Korean \u200cstocks sprinted to record highs on Monday as legions of retail \u201cant\u201d investors swarmed into \u200bchipmakers, riding a fresh wave of artificial intelligence-fuelled optimism sparked by a...",
+            "url": "https://www.thehindubusinessline.com/markets/koreas-kospi-hits-all-time-high-as-ants-join-global-rush-to-buy-ai-stocks/article70964871.ece"
+        },
+        {
+            "title": "Why Anthropic thinks \u2018evil AI\u2019 fiction pushed Claude toward blackmail",
+            "description": "[TIMES OF INDIA] Tech News News: Anthropic believes the internet\u2019s long-running obsession with rogue artificial intelligence may have done more than shape public imagination \u2014 it may .",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/why-anthropic-thinks-evil-ai-fiction-pushed-claude-toward-blackmail/articleshow/131008681.cms"
+        },
+        {
+            "title": "Hackers used AI to build zero-day attack, Google researchers say",
+            "description": "[SPOKANE SPOKESMAN-REVIEW] Security researchers at Alphabet Inc.\u2019s Google said they believe a cybercrime group used artificial intelligence to create a hacking tool that can bypass defenses in a widely-used tool to administer...",
+            "url": "https://www.spokesman.com/stories/2026/may/11/hackers-used-ai-to-build-zero-day-attack-google-re/"
+        },
+        {
+            "title": "AI must empower workers, farmers and small businesses, not just boardrooms: Gautam Adani",
+            "description": "[DEVDISCOURSE] Gautam Adani, Chairman of Adani Group, said India's artificial intelligence revolution must focus on empowering workers, farmers, nurses and small businesses rather than only benefiting large...",
+            "url": "https://www.devdiscourse.com/article/business/3903626-ai-must-empower-workers-farmers-and-small-businesses-not-just-boardrooms-gautam-adani"
+        },
+        {
+            "title": "Adani calls for India to build, power, and own AI infrastructure on home soil",
+            "description": "[THE HINDU BUSINESS LINE] Billionaire Gautam Adani said on Monday that energy security and digital infrastructure would define geopolitical power in the coming decades, as he called on India to build sovereign capabilities...",
+            "url": "https://www.thehindubusinessline.com/news/adani-calls-for-india-to-build-power-and-own-ai-infrastructure-on-home-soil/article70964795.ece"
         },
         {
             "title": "AI must empower workers, farmers and small businesses, not just boardrooms: Gautam Adani",
@@ -95,36 +125,6 @@
             "title": "Blackrock CEO Larry Fink Says There Is No AI Bubble But",
             "description": "[TIMES NOW] Artificial Intelligence (AI) is becoming increasingly integral to technology, yet opinions among industry leaders diverge. , Technology & Science, Times Now",
             "url": "https://www.timesnownews.com/technology-science/blackrock-ceo-larry-fink-says-there-is-no-ai-bubble-but-article-154292445"
-        },
-        {
-            "title": "Adani calls for India to build, power, and own AI infrastructure on home soil",
-            "description": "[DEVDISCOURSE] And Artificial Intelligence is being built behind the protective walls of data centres. Referring to recent geopolitical conflicts and attacks on infrastructure, Adani said energy security and...",
-            "url": "https://www.devdiscourse.com/article/technology/3903578-adani-calls-for-india-to-build-power-and-own-ai-infrastructure-on-home-soil"
-        },
-        {
-            "title": "Energy, Compute and AI infrastructure will define India's next economic cycle, says Gautam Adani",
-            "description": "[THE TRIBUNE] Gautam Adani, Chairman of Adani Group, on Monday said India's next economic cycle will be defined by large-scale investments in energy, data centres, compute infrastructure and artificial...",
-            "url": "https://www.tribuneindia.com/news/business/energy-compute-and-ai-infrastructure-will-define-indias-next-economic-cycle-says-gautam-adani/"
-        },
-        {
-            "title": "86 pc Indian employees use AI, but ROI and governance lag: Report",
-            "description": "[LOKMAT TIMES] 86 pc Indian employees use AI, but ROI and governance lag: Report - New Delhi, May 11 While 86 per cent of employees in India use artificial intelligence at work, only ... Get Latest News on Business...",
-            "url": "https://www.lokmattimes.com/business/86-pc-indian-employees-use-ai-but-roi-and-governance-lag-report/"
-        },
-        {
-            "title": "86 pc Indian employees use AI, but ROI and governance lag: Report",
-            "description": "[LOKMAT TIMES] 86 pc Indian employees use AI, but ROI and governance lag: Report - New Delhi, May 11 While 86 per cent of employees in India use artificial intelligence at work, only ... Get Latest News on...",
-            "url": "https://www.lokmattimes.com/technology/86-pc-indian-employees-use-ai-but-roi-and-governance-lag-report-1/"
-        },
-        {
-            "title": "AI must empower Bharat, not just boardrooms: Gautam Adani",
-            "description": "[LOKMAT TIMES] AI must empower Bharat, not just boardrooms: Gautam Adani - New Delhi, May 11 Gautam Adani, Chairman of the Adani Group, on Monday said India\u2019s Artificial Intelligence (AI) ... Get Latest News on...",
-            "url": "https://www.lokmattimes.com/business/ai-must-empower-bharat-not-just-boardrooms-gautam-adani-1/"
-        },
-        {
-            "title": "AI must empower Bharat, not just boardrooms: Gautam Adani",
-            "description": "[LOKMAT TIMES] AI must empower Bharat, not just boardrooms: Gautam Adani - New Delhi, May 11 Gautam Adani, Chairman of the Adani Group, on Monday said India\u2019s Artificial Intelligence (AI) ... Get Latest News on...",
-            "url": "https://www.lokmattimes.com/technology/ai-must-empower-bharat-not-just-boardrooms-gautam-adani-2/"
         }
     ]
 }
