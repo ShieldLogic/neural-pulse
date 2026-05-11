@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-11 21:13:22 UTC",
+    "updated": "2026-05-11 22:50:36 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,14 +7,19 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,14 +27,19 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+        },
+        {
+            "title": "Effective KV Compression with TurboQuant",
+            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
+            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,24 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Lawsuit blames ChatGPT maker OpenAI for bot helping plan a mass shooting",
-            "description": "[BREITBART NEWS NETWORK] The widow of a man killed in a mass shooting at Florida State University is suing ChatGPT maker OpenAI, blaming the artificial intelligence chatbot for",
-            "url": "https://www.breitbart.com/news/lawsuit-blames-chatgpt-maker-openai-for-bot-helping-plan-a-mass-shooting/"
+            "title": "EU Commission in talks with OpenAI and Anthropic over AI models",
+            "description": "[MARKETSCREENER] The European Commission is in ongoing discussions with U.S. artificial intelligence giants OpenAI and Anthropic, a spokesperson said on Monday. Spokesperson Thomas Regnier said the...",
+            "url": "https://www.marketscreener.com/news/eu-commission-in-talks-with-openai-and-anthropic-over-ai-models-ce7f5bd8d18af626"
         },
         {
-            "title": "Korea\u2019s KOSPI hits all-time high as \u2018ants\u2019 join global rush to buy AI stocks",
-            "description": "[THE HINDU BUSINESS LINE] South Korean \u200cstocks sprinted to record highs on Monday as legions of retail \u201cant\u201d investors swarmed into \u200bchipmakers, riding a fresh wave of artificial intelligence-fuelled optimism sparked by a...",
-            "url": "https://www.thehindubusinessline.com/markets/koreas-kospi-hits-all-time-high-as-ants-join-global-rush-to-buy-ai-stocks/article70964871.ece"
+            "title": "A great code bloat is arising as AI turns managers into software programmers",
+            "description": "[LIVEMINT] Everyone can now use artificial intelligence (AI) to create software code, but ensuring that these systems actually work reliably is quite another matter. Indeed, this may become the next big role...",
+            "url": "https://www.livemint.com/opinion/online-views/code-bloat-vibe-coding-ai-it-services-managers-software-programmers-claude-anthropic-11778404325084.html"
         },
         {
-            "title": "Why Anthropic thinks \u2018evil AI\u2019 fiction pushed Claude toward blackmail",
-            "description": "[TIMES OF INDIA] Tech News News: Anthropic believes the internet\u2019s long-running obsession with rogue artificial intelligence may have done more than shape public imagination \u2014 it may .",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/why-anthropic-thinks-evil-ai-fiction-pushed-claude-toward-blackmail/articleshow/131008681.cms"
+            "title": "Machine learning algorithm predicts XRP price on May 31, 2026",
+            "description": "[FINBOLD] XRP price outlook appears more optimistic as regulatory progress, whale accumulation, and technical signals boost trader sentiment.",
+            "url": "https://finbold.com/machine-learning-algorithm-predicts-xrp-price-on-may-31-2026/"
         },
         {
-            "title": "Hackers used AI to build zero-day attack, Google researchers say",
-            "description": "[SPOKANE SPOKESMAN-REVIEW] Security researchers at Alphabet Inc.\u2019s Google said they believe a cybercrime group used artificial intelligence to create a hacking tool that can bypass defenses in a widely-used tool to administer...",
-            "url": "https://www.spokesman.com/stories/2026/may/11/hackers-used-ai-to-build-zero-day-attack-google-re/"
-        },
-        {
-            "title": "AI must empower workers, farmers and small businesses, not just boardrooms: Gautam Adani",
-            "description": "[DEVDISCOURSE] Gautam Adani, Chairman of Adani Group, said India's artificial intelligence revolution must focus on empowering workers, farmers, nurses and small businesses rather than only benefiting large...",
-            "url": "https://www.devdiscourse.com/article/business/3903626-ai-must-empower-workers-farmers-and-small-businesses-not-just-boardrooms-gautam-adani"
+            "title": "Africa Faces GW-Scale Energy Challenge as AI Boom Drives Explosive Data Center Demand",
+            "description": "[DEVDISCOURSE] The rapid adoption of artificial intelligence technologies is driving one of the largest structural shifts in global electricity consumption in decades.",
+            "url": "https://www.devdiscourse.com/article/law-order/3903820-africa-faces-gw-scale-energy-challenge-as-ai-boom-drives-explosive-data-center-demand"
         },
         {
             "title": "Adani calls for India to build, power, and own AI infrastructure on home soil",
-            "description": "[THE HINDU BUSINESS LINE] Billionaire Gautam Adani said on Monday that energy security and digital infrastructure would define geopolitical power in the coming decades, as he called on India to build sovereign capabilities...",
-            "url": "https://www.thehindubusinessline.com/news/adani-calls-for-india-to-build-power-and-own-ai-infrastructure-on-home-soil/article70964795.ece"
+            "description": "[DAILY EXCELSIOR] NEW DELHI, May 11: Billionaire Gautam Adani said on Monday that energy security and digital infrastructure would define geopolitical power in the coming decades, as he called on India to build...",
+            "url": "https://www.dailyexcelsior.com/adani-calls-for-india-to-build-power-and-own-ai-infrastructure-on-home-soil/"
         },
         {
-            "title": "AI must empower workers, farmers and small businesses, not just boardrooms: Gautam Adani",
-            "description": "[THE TRIBUNE] Gautam Adani, Chairman of Adani Group, said India's artificial intelligence revolution must focus on empowering workers, farmers, nurses and small businesses rather than only benefiting large...",
-            "url": "https://www.tribuneindia.com/news/business/ai-must-empower-workers-farmers-and-small-businesses-not-just-boardrooms-gautam-adani/"
+            "title": "AI labs should pass safety review to get US government contracts, group says",
+            "description": "[MARKETSCREENER] The Trump administration should screen cutting-edge artificial intelligence models for security threats before they are publicly released and withhold lucrative government contracts from those that...",
+            "url": "https://www.marketscreener.com/news/ai-labs-should-pass-safety-review-to-get-us-government-contracts-group-says-ce7f5bd8de8ef124"
         },
         {
-            "title": "Gautam Adani calls for India to build, power, and own AI infrastructure on home soil",
-            "description": "[THE ECONOMIC TIMES] Gautam Adani states energy and digital infrastructure will shape future global power. He urges India to build its own artificial intelligence capabilities. India must own its intelligence future, not...",
-            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/gautam-adani-calls-for-india-to-build-power-and-own-ai-infrastructure-on-home-soil/articleshow/131007373.cms"
+            "title": "A $400 AI Bet That\u2019s Actually a High-Stakes Wager on the Future of Work",
+            "description": "[BLOOMBERG] Two prominent economists differ on how quickly artificial intelligence will reshape the US job market.",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-11/ai-related-job-displacement-isn-t-being-planned-for-enough-economists-say"
         },
         {
-            "title": "Dubai Launches World\u2019s First AI-Powered Smart Bus Station with Solar Energy and Real-Time Crowd Tracking",
-            "description": "[NEWSX] Dubai has launched the worlds smart bus station that uses artificial intelligence at the Mall of the Emirates. This smart bus station has a lot of features like cameras that can track how many people...",
-            "url": "https://www.newsx.com/middle-east/dubai-launches-worlds-first-ai-powered-smart-bus-station-with-solar-energy-and-real-time-crowd-tracking-216972/"
+            "title": "How this \u2018underground market\u2019 is giving Chinese coders access to Claude and Gemini",
+            "description": "[TIMES OF INDIA] Tech News News: Chinese developers are increasingly turning to a sprawling underground network of \u201cshadow APIs\u201d to access leading US artificial intelligence models su.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-this-underground-market-is-giving-chinese-coders-access-to-claude-and-gemini/articleshow/131010385.cms"
         },
         {
-            "title": "Blackrock CEO Larry Fink Says There Is No AI Bubble But",
-            "description": "[TIMES NOW] Artificial Intelligence (AI) is becoming increasingly integral to technology, yet opinions among industry leaders diverge. , Technology & Science, Times Now",
-            "url": "https://www.timesnownews.com/technology-science/blackrock-ceo-larry-fink-says-there-is-no-ai-bubble-but-article-154292445"
+            "title": "Scale Sense Launches AI First Growth Model for Indian Brands amid Rapid Shift in Digital Marketing",
+            "description": "[THE TRIBUNE] New Delhi [India], May 11: As Indian businesses struggle to keep pace with rising digital advertising costs, changing algorithms and the growing influence of artificial intelligence on consumer...",
+            "url": "https://www.tribuneindia.com/news/business/scale-sense-launches-ai-first-growth-model-for-indian-brands-amid-rapid-shift-in-digital-marketing/"
+        },
+        {
+            "title": "UPDATE 1-Deals and new partnerships on the menu at Africa-France summit",
+            "description": "[DEVDISCOURSE] The Africa Forward \u200cSummit is the first France has organised in an English-speaking nation and follows a series of setbacks in West Africa, where some Francophone leaders have cut back on security...",
+            "url": "https://www.devdiscourse.com/article/headlines/3903777-update-1-deals-and-new-partnerships-on-the-menu-at-africa-france-summit"
         }
     ]
 }
