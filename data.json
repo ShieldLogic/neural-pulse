@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-11 07:37:30 UTC",
+    "updated": "2026-05-11 10:57:46 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,19 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -27,19 +22,19 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
-        },
-        {
-            "title": "Effective KV Compression with TurboQuant",
-            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
-            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,14 +47,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,6 +77,46 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
+            "title": "Mideast war fuels move to new AI tech model",
+            "description": "[BANGKOK POST] The future of enterprise computing is shifting from a purely cloud-centric model towards a more distributed artificial intelligence (AI) model powered by AI PCs and high-performance workstations.",
+            "url": "https://www.bangkokpost.com/business/general/3253010/mideast-war-fuels-move-to-new-ai-tech-model"
+        },
+        {
+            "title": "Journalists ask: how firmly to embrace AI?",
+            "description": "[BANGKOK POST] KUALA LUMPUR: Educators and media professionals across Asean explored the growing role of artificial intelligence (AI) in the newsroom, urging colleagues to view the technology as an assistant rather...",
+            "url": "https://www.bangkokpost.com/world/3252965/journalists-ask-how-firmly-to-embrace-ai"
+        },
+        {
+            "title": "NVIDIA's V100, An 8-Year Old GPU, Now Sells for $100 and Crushes Modern Consumer Cards in AI LLM Workloads",
+            "description": "[WCCFTECH] The 8-year-old NVIDIA V100 outperformed the RTX 3060 and RX 7800 XT in AI LLMs, achieving 130 Tokens/s at only $200 total cost with mods.",
+            "url": "https://wccftech.com/nvidia-v100-an-8-year-old-gpu-now-sells-for-100-us-crushes-modern-consumer-cards-in-ai-llms/"
+        },
+        {
+            "title": "\u2018Battlefield expands beyond physical borders\u2019: J&K LG calls for integration of AI into policing operations",
+            "description": "[HINDUSTAN TIMES] Jammu and Kashmir lieutenant governor Manoj Sinha on Sunday underscored the need for increased integration of Artificial Intelligence (AI) in policing operations pointing out the shifting landscape...",
+            "url": "https://www.hindustantimes.com/cities/chandigarh-news/battlefield-expands-beyond-physical-borders-j-k-lg-calls-for-integration-of-ai-into-policing-operations-101778435027479.html"
+        },
+        {
+            "title": "Cerebras to raise IPO price range to $150-$160 as demand surges, sources say",
+            "description": "[MARKETSCREENER] Cerebras Systems is set to raise the size and price of its initial public offering as soon as Monday, as demand for the artificial intelligence chipmaker's shares continues to climb, two people...",
+            "url": "https://www.marketscreener.com/news/cerebras-to-raise-ipo-price-range-to-150-160-as-demand-surges-sources-say-ce7f5bd8dd89f126"
+        },
+        {
+            "title": "Trump and China's Xi set for talks spanning Iran, nuclear, trade and AI",
+            "description": "[AL-MONITOR] By Trevor Hunnicutt and Nandita BoseWASHINGTON/BEIJING, May 10 (Reuters) - U.S. President Donald Trump and Chinese President Xi Jinping are set to discuss Iran, Taiwan, artificial intelligence and...",
+            "url": "https://www.al-monitor.com/originals/2026/05/trump-and-chinas-xi-set-talks-spanning-iran-nuclear-trade-and-ai"
+        },
+        {
+            "title": "New initiative launched to equip teachers with AI skills",
+            "description": "[THE TRIBUNE] In a step aimed at transforming school education in India, Bodhan AI on Sunday announced the launch of its \u201cAI Literacy for Teachers\u201d programme, a national-scale initiative aimed at training more...",
+            "url": "https://www.tribuneindia.com/news/india/new-initiative-launched-to-equip-teachers-with-ai-skills/"
+        },
+        {
+            "title": "Anthropic says \u2018evil\u2019 portrayals of AI were responsible for Claude\u2019s blackmail attempts",
+            "description": "[TECHCRUNCH] Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+            "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/"
+        },
+        {
             "title": "AI recruited to speed up home approvals, in budget set to reshape housing market",
             "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Artificial intelligence will be recruited to speed up assessments of housing and energy projects waiting for environmental approval, as the government races to build more homes and ward off a key...",
             "url": "https://www.abc.net.au/news/2026-05-11/housing-artificial-intelligence-epbc-assessments-federal-budget/106663464"
@@ -85,46 +125,6 @@
             "title": "Must avoid dependencies on adversarial nations in AI: US official",
             "description": "[THE ECONOMIC TIMES] A senior US official emphasized openness and avoiding dependencies on adversarial nations for India and the US to unlock artificial intelligence potential. The US aims for regional access to...",
             "url": "https://economictimes.indiatimes.com/tech/technology/must-avoid-dependencies-on-adversarial-nations-in-ai-us-official/articleshow/130996121.cms"
-        },
-        {
-            "title": "LinkedIn uses AI to improve feed relevance",
-            "description": "[SOCIAL MEDIA TODAY] The company is using artificial intelligence-powered generative recommendations to assess user actions across the platform.",
-            "url": "https://www.socialmediatoday.com/news/linkedin-uses-ai-to-improve-feed-relevance/819792/"
-        },
-        {
-            "title": "AI, connected TV, programmatic buying reshape India\u2019s digital ad market",
-            "description": "[THE ECONOMIC TIMES] India's digital advertising is transforming as artificial intelligence, programmatic buying, connected TV, and retail media are merging. Marketers are moving budgets from traditional TV to digital....",
-            "url": "https://economictimes.indiatimes.com/industry/services/advertising/ai-connected-tv-programmatic-buying-reshape-indias-digital-ad-market/articleshow/130995641.cms"
-        },
-        {
-            "title": "Six AI platforms: Sara will be acquitted by Senate",
-            "description": "[THE MANILA TIMES] ARTIFICIAL intelligence, or AI, refers to computer systems designed to perform tasks that normally require human intelligence \u2014 understanding language, analyzing information, recognizing patterns,...",
-            "url": "https://www.manilatimes.net/2026/05/11/opinion/columns/six-ai-platforms-sara-will-be-acquitted-by-senate/2340253"
-        },
-        {
-            "title": "I asked ChatGPT to calculate monthly savings to build education fund for my children's higher studies in Delhi",
-            "description": "[LIVEMINT] I asked ChatGPT to calculate the required monthly savings to build a good education corpus for my children's higher studies for medical or engineering college in Delhi. Here is what artificial...",
-            "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-calculate-monthly-savings-build-education-fund-children-higher-studies-delhi-invest-medicine-engineering-11778421110533.html"
-        },
-        {
-            "title": "I don't need Claude, this is the local LLM I run on my NAS that powers my smart home",
-            "description": "[XDA DEVELOPERS] Qwen is what you need for your smart home",
-            "url": "https://www.xda-developers.com/dont-need-claude-local-llm-run-nas-powers-smart-home/"
-        },
-        {
-            "title": "Trump-Xi: The meeting that could determine the next phase of the US-China confrontation",
-            "description": "[PROTO THEMA] Iran, trade, Taiwan & artificial intelligence on the table in Beijing - Why expectations are limited, but the stakes are enormous",
-            "url": "https://en.protothema.gr/2026/05/10/trump-xi-the-meeting-that-could-determine-the-next-phase-of-the-us-china-confrontation/"
-        },
-        {
-            "title": "AI Wins Have Alphabet Poised to Become World\u2019s Biggest Company",
-            "description": "[BLOOMBERG] Over the past year, Alphabet Inc. has gone from an artificial intelligence afterthought to the one firm in the market with dominant positions in nearly every aspect of the technology. Now it\u2019s on the...",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-10/ai-wins-have-alphabet-poised-to-become-world-s-biggest-company"
-        },
-        {
-            "title": "How Students Interact With A.I. Is What Matters",
-            "description": "[THE NEW YORK TIMES] Readers discuss artificial intelligence and writing in the classroom. Also: President Trump\u2019s latest assault on science; election workers.",
-            "url": "https://www.nytimes.com/2026/05/10/opinion/ai-students.html"
         }
     ]
 }
