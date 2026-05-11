@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-11 02:46:43 UTC",
+    "updated": "2026-05-11 07:37:30 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,14 +7,19 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,19 +27,19 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+        },
+        {
+            "title": "Effective KV Compression with TurboQuant",
+            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
+            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,19 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -75,6 +75,31 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "AI recruited to speed up home approvals, in budget set to reshape housing market",
+            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Artificial intelligence will be recruited to speed up assessments of housing and energy projects waiting for environmental approval, as the government races to build more homes and ward off a key...",
+            "url": "https://www.abc.net.au/news/2026-05-11/housing-artificial-intelligence-epbc-assessments-federal-budget/106663464"
+        },
+        {
+            "title": "Must avoid dependencies on adversarial nations in AI: US official",
+            "description": "[THE ECONOMIC TIMES] A senior US official emphasized openness and avoiding dependencies on adversarial nations for India and the US to unlock artificial intelligence potential. The US aims for regional access to...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/must-avoid-dependencies-on-adversarial-nations-in-ai-us-official/articleshow/130996121.cms"
+        },
+        {
+            "title": "LinkedIn uses AI to improve feed relevance",
+            "description": "[SOCIAL MEDIA TODAY] The company is using artificial intelligence-powered generative recommendations to assess user actions across the platform.",
+            "url": "https://www.socialmediatoday.com/news/linkedin-uses-ai-to-improve-feed-relevance/819792/"
+        },
+        {
+            "title": "AI, connected TV, programmatic buying reshape India\u2019s digital ad market",
+            "description": "[THE ECONOMIC TIMES] India's digital advertising is transforming as artificial intelligence, programmatic buying, connected TV, and retail media are merging. Marketers are moving budgets from traditional TV to digital....",
+            "url": "https://economictimes.indiatimes.com/industry/services/advertising/ai-connected-tv-programmatic-buying-reshape-indias-digital-ad-market/articleshow/130995641.cms"
+        },
+        {
+            "title": "Six AI platforms: Sara will be acquitted by Senate",
+            "description": "[THE MANILA TIMES] ARTIFICIAL intelligence, or AI, refers to computer systems designed to perform tasks that normally require human intelligence \u2014 understanding language, analyzing information, recognizing patterns,...",
+            "url": "https://www.manilatimes.net/2026/05/11/opinion/columns/six-ai-platforms-sara-will-be-acquitted-by-senate/2340253"
         },
         {
             "title": "I asked ChatGPT to calculate monthly savings to build education fund for my children's higher studies in Delhi",
@@ -100,31 +125,6 @@
             "title": "How Students Interact With A.I. Is What Matters",
             "description": "[THE NEW YORK TIMES] Readers discuss artificial intelligence and writing in the classroom. Also: President Trump\u2019s latest assault on science; election workers.",
             "url": "https://www.nytimes.com/2026/05/10/opinion/ai-students.html"
-        },
-        {
-            "title": "SK Hynix flooded with unprecedented offers from big tech firms to secure chip supplies",
-            "description": "[THE ECONOMIC TIMES] Global tech giants are making unprecedented offers to SK Hynix. They want to invest in new production lines and fund expensive equipment purchases. This is to secure vital memory chips. Demand for...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-flooded-with-unprecedented-offers-from-big-tech-firms-to-secure-chip-supplies/articleshow/130992487.cms"
-        },
-        {
-            "title": "Congress doing little to prepare for potential AI job losses",
-            "description": "[SANTA ANA ORANGE COUNTY REGISTER] Economists aren\u2019t sure if or when artificial intelligence will cause widespread job losses.",
-            "url": "https://www.ocregister.com/2026/05/10/congress-is-doing-little-to-prepare-for-potential-ai-job-losses/"
-        },
-        {
-            "title": "Colorado lawmakers are poised to scale back the state's AI regulations",
-            "description": "[THE DENVER POST] Colorado lawmakers are poised to rewrite artificial intelligence rules after closed-door negotiations by business groups, tech companies like Google, and consumer protection and progressive groups.",
-            "url": "https://www.denverpost.com/2026/05/10/colorado-artificial-intelligence-regulations-compromise-bill/"
-        },
-        {
-            "title": "Airbnb CEO Brian Chesky says AI now writes 60% of the company's code",
-            "description": "[TIMES OF INDIA] Tech News News: Airbnb CEO Brian Chesky recently said artificial intelligence played a major role in software development at Airbnb during the first quarter of 2026, .",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/airbnb-ceo-brian-chesky-says-ai-now-writes-60-of-the-companys-code/articleshow/130990619.cms"
-        },
-        {
-            "title": "I built a free local LLM workflow with my 10-year-old-GPU, and it's reliable enough to replace the cloud",
-            "description": "[XDA DEVELOPERS] It was a bit of a hassle to set up, though",
-            "url": "https://www.xda-developers.com/i-built-a-local-llm-workflow-that-runs-on-my-10-year-old-gpu/"
         }
     ]
 }
