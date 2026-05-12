@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-12 21:15:34 UTC",
+    "updated": "2026-05-12 22:56:33 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,14 +7,19 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,19 +27,19 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+        },
+        {
+            "title": "Effective KV Compression with TurboQuant",
+            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
+            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,19 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "China Sought Access to Anthropic\u2019s Newest A.I. The Answer Was No.",
-            "description": "[THE NEW YORK TIMES] The latest artificial intelligence models from Anthropic and OpenAI are extending the United States\u2019 lead over China and intensifying the rivalry between the countries.",
-            "url": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html"
+            "title": "Electronics prices surge as AI industry drains chip supply chain",
+            "description": "[BOL NEWS] The rapid expansion of artificial intelligence is reshaping the global technology market, triggering what experts are calling a \u201cmemory crisis\u201d that is driving up the cost of smartphones, laptops,...",
+            "url": "https://www.bolnews.com/technology/electronics-prices-surge-as-ai-industry-drains-chip-supply-chain/"
         },
         {
-            "title": "Start-Up Raises $1.3 Billion for an A.I. \u2018Grid\u2019",
-            "description": "[THE NEW YORK TIMES] As tech giants dominate the hardware needed to build artificial intelligence, Amp hopes to create an alternative.",
-            "url": "https://www.nytimes.com/2026/05/12/technology/amp-startup.html"
+            "title": "BHP says AI solution boosts iron ore output in Western Australia",
+            "description": "[STEELORBIS] Australian miner BHP Group has said that an artificial intelligence-based solution helped unlock almost 1 million mt of additional annual iron ore ...",
+            "url": "https://www.steelorbis.com/steel-news/latest-news/bhp-says-ai-solution-boosts-iron-ore-output-in-western-australia-1452978.htm"
         },
         {
-            "title": "cleared AI risk tool could help guide breast cancer therapy",
-            "description": "[MEDICAL NEWS TODAY] The FDA has cleared the first AI test to help breast cancer patients decide on chemotherapy. The multimodal artificial intelligence (MMAI) tool, known as ArteraAI, could help low risk patients avoid...",
-            "url": "https://www.medicalnewstoday.com/articles/fda-approves-first-ai-test-guide-breast-cancer-patients-chemotherapy"
+            "title": "Qnity raises annual revenue forecast as AI spending climbs",
+            "description": "[MARKETSCREENER] Semiconductor solutions provider Qnity Electronics raised its annual revenue and profit forecast on Tuesday, driven by demand for artificial intelligence and high-performance computing. ...",
+            "url": "https://www.marketscreener.com/news/qnity-raises-annual-revenue-forecast-as-ai-spending-climbs-ce7f5bdedb8af322"
         },
         {
-            "title": "Georgia wrestles with how to govern AI without stifling innovation",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Most Georgians think the government should do more to regulate artificial intelligence, according to the latest Atanta Journal-Constitution poll.",
-            "url": "https://www.ajc.com/politics/2026/05/georgia-wrestles-with-how-to-govern-ai-without-stifling-innovation/"
+            "title": "'AI Dividend': This Asian Economy Mulls Making Citizens Eligible For Share In Economic Windfall",
+            "description": "[NDTV PROFIT] South Korea's proposal to share AI-driven economic gains with citizens rattles markets and revives debate over wealth concentration in the artificial intelligence era.",
+            "url": "https://www.ndtvprofit.com/markets/ai-dividend-this-asian-economy-mulls-making-citizens-eligible-for-share-in-economic-windfall-11483316"
         },
         {
-            "title": "Cannes Film Market Is Betting Big on AI, Creators and the Future of Film",
-            "description": "[YARDBARKER] Artificial intelligence has rapidly become Hollywood\u2019s newest obsession, with every industry conversation pulling cinema deeper into the tech era. And",
-            "url": "https://www.yardbarker.com/entertainment/articles/cannes_film_market_is_betting_big_on_ai_creators_and_the_future_of_film/s1_17785_43833501"
+            "title": "IIT Delhi Invites Applications for Second Cohort of Online PG Diploma in Advanced Communication Engineering with AI and Quantum Integration",
+            "description": "[THE TRIBUNE] New Delhi [India], May 12: As communication networks become increasingly intelligent, software-defined, and security-intensive, the Indian Institute of Technology (IIT) Delhi has invited applications...",
+            "url": "https://www.tribuneindia.com/news/business/iit-delhi-invites-applications-for-second-cohort-of-online-pg-diploma-in-advanced-communication-engineering-with-ai-and-quantum-integration/"
         },
         {
-            "title": "China Stocks Dip as Market Awaits Trade Talks",
-            "description": "[DEVDISCOURSE] China's stocks dipped slightly as investors shifted focus to a critical meeting between the U.S. and China. While the Shanghai Composite and Hong Kong's Hang Seng indexes both dropped, certain...",
-            "url": "https://www.devdiscourse.com/article/headlines/3904930-china-stocks-dip-as-market-awaits-trade-talks"
+            "title": "AI can't replace doggie actors, director says",
+            "description": "[THE STAR] For director Robert Vince, the magic of a canine performer cannot ever be replicated by artificial intelligence.",
+            "url": "https://www.thestar.com.my/lifestyle/entertainment/2026/05/12/ai-can039t-replace-doggie-actors-director-says"
         },
         {
-            "title": "Germany's finance watchdog to make targeted inspections amid 'substantial' AI risks",
-            "description": "[THE STAR] FRANKFURT, May 12 (Reuters) - Germany's \u2060banking regulator BaFin warned on Tuesday that cyber \u2060risks were \"growing\" and \"substantial\" due to advances in artificial \u200cintelligence, and announced a new...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/12/germany039s-finance-watchdog-to-make-targeted-inspections-amid-039substantial039-ai-risks"
+            "title": "Presidential official proposes 'public dividends' from AI",
+            "description": "[UPI NEWS] The presidential chief of staff for policy on Tuesday proposed introducing public dividends to distribute the \"fruits\" from an artificial intelligence (AI)-driven economic boom.",
+            "url": "https://www.upi.com/Top_News/World-News/2026/05/12/korea-Korea-AI-boom-public-dividend-Kim-Yong-beom-presidential-policy-chief/6461778578279/"
         },
         {
-            "title": "Companies plan to raise new-grad hiring as students pivot toward AI skills",
-            "description": "[WJLA] Artificial Intelligence is rapidly reshaping the job market, and it's hitting entry-level workers especially hard.",
-            "url": "https://wjla.com/news/local/companies-raise-new-grad-hiring-this-spring-students-pivot-toward-ai-skills-artificial-intelligence-job-market-entry-level-jobs-college-graduates-underemployment-employer-demand"
+            "title": "What China wants from Trump",
+            "description": "[WASHINGTON EXAMINER] China wants U.S. concessions on artificial intelligence, export markets, and Taiwan to come from this week's summit with President Donald Trump.",
+            "url": "https://www.washingtonexaminer.com/opinion/4561414/what-china-wants-from-trump-2/"
         },
         {
-            "title": "Critical minerals, Taiwan and AI wars: Trump-Xi meeting could reshape global geopolitics",
-            "description": "[FIRSTPOST] From rare earth supply chains and Taiwan tensions to artificial intelligence rivalry and the Iran crisis, the upcoming Trump-Xi summit in Beijing is emerging as one of the most consequential...",
-            "url": "https://www.firstpost.com/business/critical-minerals-taiwan-and-ai-wars-trump-xi-meeting-could-reshape-global-geopolitics-14010308.html"
+            "title": "Nokia Launches Agentic AI Tools to Automate Troubleshooting, Installations",
+            "description": "[MARKETSCREENER] Nokia said Tuesday it introduced new agentic artificial intelligence capabilities for its fixed network product lines to improve operational efficiency for home and broadband networks. The new...",
+            "url": "https://www.marketscreener.com/news/nokia-launches-agentic-ai-tools-to-automate-troubleshooting-installations-ce7f5bded88cf222"
         },
         {
-            "title": "Ontario auditor general to release report into government use of artificial intelligence",
-            "description": "[GLOBAL NEWS] Auditor General Shelley Spence will present her reports at 11 a.m., according to her office, which is also when she will answer questions about them.",
-            "url": "https://globalnews.ca/news/11844349/ontario-auditor-general-ai-usage/"
+            "title": "India cannot afford to be just an AI consumer: Sarvam AI\u2019s Pratyush Kumar",
+            "description": "[THE ECONOMIC TIMES] India needs to develop its own large-scale artificial intelligence models. Sarvam AI plans to train a trillion-parameter AI model soon. This move is crucial for India to lead in AI development....",
+            "url": "https://economictimes.indiatimes.com/news/india/india-cannot-afford-to-be-just-an-ai-consumer-sarvam-ais-pratyush-kumar/articleshow/131035073.cms"
         }
     ]
 }
