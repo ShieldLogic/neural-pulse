@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-12 02:39:16 UTC",
+    "updated": "2026-05-12 06:33:48 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
-            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,14 +22,19 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,29 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "How to Implement Tool Calling with Gemma 4 and Python",
-            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
-            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
-        },
-        {
-            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
-            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
-            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Google says it found evidence of AI helping in cyberattack",
-            "description": "[CP24 TORONTO] Google said Monday that it had disrupted a criminal group\u2019s attempt to use artificial intelligence to exploit another company\u2019s previously unknown digital vulnerability, adding to heightened worries...",
-            "url": "https://www.cp24.com/news/world/2026/05/11/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-companys-digital-defence/"
+            "title": "Paraguay, Taiwan announce ambitious AI hub plan for South America",
+            "description": "[UPI NEWS] Paraguayan President Santiago Pe\u00f1a announced a pactwith Taiwan to develop one of the world's largest artificial intelligence centers in Paraguay.",
+            "url": "https://www.upi.com/Top_News/World-News/2026/05/11/latam-paraguay-taiwan-data-center-development/2731778522952/"
         },
         {
-            "title": "Google says it found evidence of AI helping in cyberattack",
-            "description": "[BNN BLOOMBERG] Google said Monday that it had disrupted a criminal group\u2019s attempt to use artificial intelligence to exploit another company\u2019s previously unknown digital vulnerability, adding to heightened worries...",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/05/11/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-companys-digital-defence/"
+            "title": "AI to drive next phase of healthcare growth, improve last-mile access: NHA CEO",
+            "description": "[THEPRINT] New Delhi, May 11 (PTI) The next phase of growth in the healthcare sector will be driven by artificial intelligence and its use across multiple touchpoints of care to empower consumers and improve...",
+            "url": "https://theprint.in/india/ai-to-drive-next-phase-of-healthcare-growth-improve-last-mile-access-nha-ceo/2928445/"
         },
         {
-            "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company\u2019s digital defense",
-            "description": "[WTOP] Google said Monday that it had disrupted a criminal group's attempt to use artificial intelligence to exploit another company'",
-            "url": "https://wtop.com/national/2026/05/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-companys-digital-defense/"
+            "title": "AI-Powered Healthcare: Transforming Accessibility and Empowerment",
+            "description": "[DEVDISCOURSE] Artificial intelligence is set to drive the next phase of growth in the healthcare sector by improving accessibility and empowering consumers. Experts emphasize robust policies and data-driven...",
+            "url": "https://www.devdiscourse.com/article/health/3904582-ai-powered-healthcare-transforming-accessibility-and-empowerment"
         },
         {
-            "title": "Brookfield to Invest $500 Million in Partnership With OpenAI",
-            "description": "[MARKETSCREENER] By Robb M. Stewart Brookfield Asset Management is investing $500 million a new artificial intelligence deployment platform set up by OpenAI and global investors. Brookfield Business Corp.,...",
-            "url": "https://www.marketscreener.com/news/brookfield-to-invest-500-million-in-partnership-with-openai-ce7f5bd9d981f624"
+            "title": "Telus Advances Proposed Sovereign AI Factory Cluster Project With Canadian Government",
+            "description": "[MARKETSCREENER] Telus , Westbank, and the Canadian government are making progress on a proposed sovereign artificial intelligence factory cluster in British Columbia, the communications technology company said...",
+            "url": "https://www.marketscreener.com/news/telus-advances-proposed-sovereign-ai-factory-cluster-project-with-canadian-government-ce7f5bd9da8efe25"
         },
         {
-            "title": "Google says it disrupted an AI-driven effort to exploit a software bug",
-            "description": "[THE ASSOCIATED PRESS] Google said Monday that it had disrupted a criminal group\u2019s attempt to use artificial intelligence to exploit another company\u2019s previously unknown digital vulnerability, adding to heightened worries...",
-            "url": "https://apnews.com/article/google-ai-cybersecurity-exploitation-mythos-926aea7f7dc5e0e61adce3273c55c6d4"
+            "title": "2026 Cannes Film Festival: John Travolta to make directorial debut",
+            "description": "[THE NEWS INTERNATIONAL] Tales of war, grief and artificial intelligence join a race for the 2026 Cannes Film Festival's top prize from Tuesday. According to Reuters news agency, the glitzy festival, \u200clong a launch pad...",
+            "url": "https://www.thenews.com.pk/latest/1402212-2026-cannes-film-festival-john-travolta-to-make-directorial-debut"
         },
         {
-            "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense",
-            "description": "[BARCHART] Google said Monday that it had disrupted a criminal group\u2019s attempt to use artificial intelligence to exploit another company\u2019s previously unknown digital vulnerability, adding to heightened worries...",
-            "url": "https://www.barchart.com/story/news/1850106/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-company-s-digital-defense"
+            "title": "Alphabet, Amazon tap overseas debt markets to fund AI infrastructure push",
+            "description": "[THE ECONOMIC TIMES] As the race to dominate artificial intelligence heats up, major technology firms are escalating their borrowing. Alphabet plans to launch its debut bond sale in yen, while Amazon is eyeing its...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/alphabet-amazon-tap-overseas-debt-markets-to-fund-ai-infrastructure-push/articleshow/131020973.cms"
         },
         {
-            "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense",
-            "description": "[WDIV CLICKONDETROIT] Google said Monday that it had disrupted a criminal group\u2019s attempt to use artificial intelligence to exploit another company\u2019s previously unknown digital vulnerability, adding to heightened worries...",
-            "url": "https://www.clickondetroit.com/business/2026/05/11/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-companys-digital-defense/"
+            "title": "Telus and feds announce AI data cluster in B.C.",
+            "description": "[BNN BLOOMBERG] The federal government and Telus have announced plans for a large-scale AI data centre project in British Columbia they say will boost Canada\u2019s sovereign computing and artificial-intelligence...",
+            "url": "https://www.bnnbloomberg.ca/business/2026/05/11/telus-and-feds-announce-ai-data-cluster-in-bc-to-boost-sovereign-computing-power/"
         },
         {
-            "title": "Google Disrupts Hackers Using AI to Exploit an Unknown Weakness in a Company's Digital Defense",
-            "description": "[U.S. NEWS & WORLD REPORT] Google said Monday that it had disrupted a criminal group's attempt to use artificial intelligence to exploit another company's previously unknown digital vulnerability, adding to heightened worries...",
-            "url": "https://www.usnews.com/news/us/articles/2026-05-11/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-companys-digital-defense"
+            "title": "Microsoft CEO Satya Nadella testifies in Musk-OpenAI trial:",
+            "description": "[NBC NEWS] Microsoft CEO Satya Nadella took the witness stand Monday in a trial about control of the artificial intelligence startup OpenAI.",
+            "url": "https://www.nbcnews.com/tech/elon-musk/microsoft-ceo-satya-nadella-testifies-musk-openai-trial-rcna344584"
         },
         {
-            "title": "Is AI Inflationary or Deflationary?",
-            "description": "[MARKETSCREENER] Artificial intelligence promises a revolution in terms of productivity, leading to a wealthier, more efficient, and perhaps even more solvent economy. However, in the bond markets, this grand...",
-            "url": "https://www.marketscreener.com/news/is-ai-inflationary-or-deflationary-ce7f5bd8d08df321"
+            "title": "Turkey's STM debuts new unmanned systems, is 'really open' to Gulf collaboration",
+            "description": "[BREAKING DEFENSE] \u201cWe are already using artificial intelligence, image processing, machine learning and things like that. But we are also going more deep and deep in those areas,\u201d the company\u2019s general manager told...",
+            "url": "https://breakingdefense.com/2026/05/turkeys-stm-debuts-new-unmanned-systems-is-really-open-to-gulf-collaboration/"
         },
         {
-            "title": "I asked ChatGPT to calculate the savings needed as a freelance artist, to live my old age in Pune",
-            "description": "[LIVEMINT] I asked ChatGPT to calculate the how much savings corpus I should build for my old age as a freelance artist with irregular income, living in Pune. Here is what artificial intelligence (AI) chatbot...",
-            "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-to-calculate-savings-needed-freelancer-artist-live-old-age-pune-retirement-corpus-investment-nps-ppf-sip-11778504617350.html"
+            "title": "A roadmap for safer, explainable protein-design AI",
+            "description": "[PHYS.ORG] Protein language models are artificial intelligence tools which help engineer proteins with useful properties, including completely new structures never seen before in nature.",
+            "url": "https://phys.org/news/2026-05-roadmap-safer-protein-ai.html"
         }
     ]
 }
