@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-12 06:33:48 UTC",
+    "updated": "2026-05-12 10:27:58 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,19 +12,14 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
-        },
-        {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -32,9 +27,9 @@
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,24 +42,29 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+        },
+        {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Paraguay, Taiwan announce ambitious AI hub plan for South America",
-            "description": "[UPI NEWS] Paraguayan President Santiago Pe\u00f1a announced a pactwith Taiwan to develop one of the world's largest artificial intelligence centers in Paraguay.",
-            "url": "https://www.upi.com/Top_News/World-News/2026/05/11/latam-paraguay-taiwan-data-center-development/2731778522952/"
+            "title": "AI Daily: Google spinout Isomorphic seeks over $2B in fundraising",
+            "description": "[MARKETS INSIDER] Catch up on the top artificial intelligence news and commentary by Wall Street analysts on publicly traded companies in the space with this dail...",
+            "url": "https://markets.businessinsider.com/news/stocks/ai-daily-google-spinout-isomorphic-seeks-over-2b-in-fundraising-1036140576"
         },
         {
-            "title": "AI to drive next phase of healthcare growth, improve last-mile access: NHA CEO",
-            "description": "[THEPRINT] New Delhi, May 11 (PTI) The next phase of growth in the healthcare sector will be driven by artificial intelligence and its use across multiple touchpoints of care to empower consumers and improve...",
-            "url": "https://theprint.in/india/ai-to-drive-next-phase-of-healthcare-growth-improve-last-mile-access-nha-ceo/2928445/"
+            "title": "Microsoft CEO Satya Nadella testifies in OpenAI trial",
+            "description": "[NBC 5 CHICAGO] Microsoft CEO Satya Nadella took the witness stand Monday in a trial about control of the artificial intelligence startup OpenAI.",
+            "url": "https://www.nbcchicago.com/news/national-international/microsoft-ceo-satya-nadella-testifies-musk-openai-trial/3934505/"
         },
         {
-            "title": "AI-Powered Healthcare: Transforming Accessibility and Empowerment",
-            "description": "[DEVDISCOURSE] Artificial intelligence is set to drive the next phase of growth in the healthcare sector by improving accessibility and empowering consumers. Experts emphasize robust policies and data-driven...",
-            "url": "https://www.devdiscourse.com/article/health/3904582-ai-powered-healthcare-transforming-accessibility-and-empowerment"
+            "title": "GitLab Says Will Cut Jobs to Spend on Growth in \u2018Agentic Era\u2019",
+            "description": "[BLOOMBERG] GitLab Inc., which makes software that helps developers on coding projects, said it is cutting jobs to free up money to spend on the market opportunity for artificial intelligence agents.",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-11/gitlab-says-will-cut-jobs-to-spend-on-growth-in-agentic-era"
         },
         {
-            "title": "Telus Advances Proposed Sovereign AI Factory Cluster Project With Canadian Government",
-            "description": "[MARKETSCREENER] Telus , Westbank, and the Canadian government are making progress on a proposed sovereign artificial intelligence factory cluster in British Columbia, the communications technology company said...",
-            "url": "https://www.marketscreener.com/news/telus-advances-proposed-sovereign-ai-factory-cluster-project-with-canadian-government-ce7f5bd9da8efe25"
+            "title": "Trading Day: AI beats Iran impasse",
+            "description": "[MARKETSCREENER] U.S. and world stocks touched new highs on Monday, as artificial intelligence fever continued to outweigh the prolonged U.S.-Iran impasse. The ceasefire is fragile and hopes of a lasting deal...",
+            "url": "https://www.marketscreener.com/news/trading-day-ai-beats-iran-impasse-ce7f5bd9dc8df723"
         },
         {
-            "title": "2026 Cannes Film Festival: John Travolta to make directorial debut",
-            "description": "[THE NEWS INTERNATIONAL] Tales of war, grief and artificial intelligence join a race for the 2026 Cannes Film Festival's top prize from Tuesday. According to Reuters news agency, the glitzy festival, \u200clong a launch pad...",
-            "url": "https://www.thenews.com.pk/latest/1402212-2026-cannes-film-festival-john-travolta-to-make-directorial-debut"
+            "title": "How AI can lead to false arrests and wrongful convictions",
+            "description": "[PHYS.ORG] In Baltimore on Oct. 20, 2025, a 17-year-old student named Taki Allen was sitting outside his high school after football practice when an artificial intelligence-enhanced surveillance camera falsely...",
+            "url": "https://phys.org/news/2026-05-ai-false-wrongful-convictions.html"
         },
         {
-            "title": "Alphabet, Amazon tap overseas debt markets to fund AI infrastructure push",
-            "description": "[THE ECONOMIC TIMES] As the race to dominate artificial intelligence heats up, major technology firms are escalating their borrowing. Alphabet plans to launch its debut bond sale in yen, while Amazon is eyeing its...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/alphabet-amazon-tap-overseas-debt-markets-to-fund-ai-infrastructure-push/articleshow/131020973.cms"
+            "title": "Apple shares recordings and research from recent privacy",
+            "description": "[9TO5MAC] Apple has published four recordings and a research recap from its 2026 Workshop on Privacy-Preserving Machine Learning & AI.",
+            "url": "https://9to5mac.com/2026/05/11/apple-shares-recordings-and-research-from-recent-privacy-focused-ai-and-ml-workshop/"
         },
         {
-            "title": "Telus and feds announce AI data cluster in B.C.",
-            "description": "[BNN BLOOMBERG] The federal government and Telus have announced plans for a large-scale AI data centre project in British Columbia they say will boost Canada\u2019s sovereign computing and artificial-intelligence...",
-            "url": "https://www.bnnbloomberg.ca/business/2026/05/11/telus-and-feds-announce-ai-data-cluster-in-bc-to-boost-sovereign-computing-power/"
+            "title": "Tech Up on AI Momentum, Memory Chip Bets -- Tech Roundup",
+            "description": "[MARKETSCREENER] Shares of technology companies rose as traders continued to chase gains in the memory chip makers that are the latest locus of artificial-intelligence bets. Micron shares rose sharply, and have...",
+            "url": "https://www.marketscreener.com/news/tech-up-on-ai-momentum-memory-chip-bets-tech-roundup-ce7f5bd9df8bf025"
         },
         {
-            "title": "Microsoft CEO Satya Nadella testifies in Musk-OpenAI trial:",
-            "description": "[NBC NEWS] Microsoft CEO Satya Nadella took the witness stand Monday in a trial about control of the artificial intelligence startup OpenAI.",
-            "url": "https://www.nbcnews.com/tech/elon-musk/microsoft-ceo-satya-nadella-testifies-musk-openai-trial-rcna344584"
+            "title": "Widow Sues ChatGPT Maker Over FSU Shooting",
+            "description": "[NEWSMAX] The widow of a man killed in last year's mass shooting at Florida State University has filed suit against ChatGPT maker OpenAI, blaming the company's artificial intelligence chatbot for giving advice...",
+            "url": "https://www.newsmax.com/newsfront/openai-chatgpt-lawsuit-mass-shooting/2026/05/11/id/1255909/"
         },
         {
-            "title": "Turkey's STM debuts new unmanned systems, is 'really open' to Gulf collaboration",
-            "description": "[BREAKING DEFENSE] \u201cWe are already using artificial intelligence, image processing, machine learning and things like that. But we are also going more deep and deep in those areas,\u201d the company\u2019s general manager told...",
-            "url": "https://breakingdefense.com/2026/05/turkeys-stm-debuts-new-unmanned-systems-is-really-open-to-gulf-collaboration/"
+            "title": "My homelab needed a lightweight dashboard, so I had Claude and a local LLM race to build it",
+            "description": "[XDA DEVELOPERS] The results were identical. The journeys were not.",
+            "url": "https://www.xda-developers.com/my-homelab-needed-a-lightweight-dashboard-so-i-had-claude-and-a-local-llm-race-to-build-it/"
         },
         {
-            "title": "A roadmap for safer, explainable protein-design AI",
-            "description": "[PHYS.ORG] Protein language models are artificial intelligence tools which help engineer proteins with useful properties, including completely new structures never seen before in nature.",
-            "url": "https://phys.org/news/2026-05-roadmap-safer-protein-ai.html"
+            "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company\u2019s digital defense",
+            "description": "[NBC NEWS] Google said Monday that it had disrupted a criminal group\u2019s attempt to use artificial intelligence to exploit another company\u2019s previously unknown digital vulnerability, adding to heightened worries...",
+            "url": "https://www.nbcnews.com/tech/security/google-disrupts-hackers-using-ai-exploit-unknown-weakness-companys-dig-rcna344624"
         }
     ]
 }
