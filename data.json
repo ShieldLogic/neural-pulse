@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-12 17:56:01 UTC",
+    "updated": "2026-05-12 19:48:41 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,19 +12,14 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
-        },
-        {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -32,9 +27,9 @@
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,24 +42,29 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+        },
+        {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,6 +77,46 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
+            "title": "8x Applications per Seat: Zenith School of AI Emerges as a Strong IIT Alternative",
+            "description": "[THE TRIBUNE] New Delhi [India], May 12: A decade ago, artificial intelligence was confined to research labs and experimental use cases. Today, it is infrastructure. Across healthcare, finance, logistics, retail,...",
+            "url": "https://www.tribuneindia.com/news/business/8x-applications-per-seat-zenith-school-of-ai-emerges-as-a-strong-iit-alternative/"
+        },
+        {
+            "title": "Digitally altered political mailers spur lawsuit over Montana AI law",
+            "description": "[KALISPELL INTER LAKE] Two state lawmakers running in Republican primary elections have said that hundreds of mailers sent out depicting them waving a pride flag and wearing a button with pronouns on it violate a Montana...",
+            "url": "https://dailyinterlake.com/news/2026/may/12/digitally-altered-political-mailers-spur-lawsuit-over-montana-ai-law/"
+        },
+        {
+            "title": "Alphabet poised to top the market",
+            "description": "[ARKANSAS ONLINE] Over the past year, Alphabet Inc. has gone from an artificial intelligence afterthought to the one firm in the market with dominant positions in nearly every aspect of the technology. Now it's on the...",
+            "url": "https://www.arkansasonline.com/news/2026/may/12/alphabet-poised-to-top-the-market/"
+        },
+        {
+            "title": "AI Leadership: What the shift really means",
+            "description": "[BANGKOK POST] Looking back on the advance of artificial intelligence over the past few years, one thing becomes clear: AI is not just a technology shift. It is a leadership shift.",
+            "url": "https://www.bangkokpost.com/business/general/3253839/ai-leadership-what-the-shift-really-means"
+        },
+        {
+            "title": "Lawsuit blames ChatGPT maker OpenAI for helping plan a school shooting",
+            "description": "[THE NEWS MINUTE] The widow of a man killed in last year's mass shooting at Florida State University is suing ChatGPT maker OpenAI, blaming the company's artificial intelligence",
+            "url": "https://www.thenewsminute.com/news/lawsuit-blames-chatgpt-maker-openai-for-helping-plan-a-school-shooting"
+        },
+        {
+            "title": "Australians scramble for Wall Street\u2019s AI boom despite crash fears",
+            "description": "[AUSTRALIAN FINANCIAL REVIEW] Major investors are increasingly worried about the hype around artificial intelligence stocks driving US markets to repeated records as war boosts inflation.",
+            "url": "https://www.afr.com/markets/equity-markets/australians-scramble-for-wall-street-s-ai-boom-despite-crash-fears-20260512-p5zvvj"
+        },
+        {
+            "title": "\u200bChip Rally: Wall Street bets big on AMD\u2019s AI growth story",
+            "description": "[THE ECONOMIC TIMES] Advanced Micro Devices (AMD) hit a new 52-week high as investor enthusiasm around artificial intelligence continued to lift semiconductor stocks. Analysts expect AMD to benefit from rising AI...",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/chip-rally-wall-street-bets-big-on-amds-ai-growth-story/slideshow/131030447.cms"
+        },
+        {
+            "title": "South Korea\u2019s radical 'AI dividend' proposal: A bold future or a market nightmare?",
+            "description": "[THE ECONOMIC TIMES] South Korea is discussing sharing the wealth generated by artificial intelligence. A government official suggested distributing AI profits, causing a stir in the stock market. Companies like Samsung...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-radical-ai-dividend-proposal-a-bold-future-or-a-market-nightmare/articleshow/131030253.cms"
+        },
+        {
             "title": "North Korean hackers using AI to find cybersecurity blind spots: Google",
             "description": "[ZEE NEWS] State-sponsored hackers from North Korea and China have demonstrated significant interest in leveraging artificial intelligence (AI) to detect previously unknown cybersecurity vulnerabilities,...",
             "url": "https://zeenews.india.com/technology/north-korean-hackers-using-ai-to-find-cybersecurity-blind-spots-google-3046701.html"
@@ -84,47 +124,7 @@
         {
             "title": "Trump and China's Xi set for talks spanning Iran, nuclear trade and AI",
             "description": "[JAPAN TODAY] U.S. President Donald Trump and Chinese President Xi Jinping are set to discuss Iran, Taiwan, artificial intelligence and nuclear weapons as they weigh extending a critical minerals deal, according...",
-            "url": "https://japantoday.com/category/world/trump-and-china's-xi-set-for-talks-spanning-iran-nuclear-trade-and-ai3"
-        },
-        {
-            "title": "Trump and China's Xi set for talks spanning Iran, nuclear trade and AI",
-            "description": "[JAPAN TODAY] U.S. President Donald Trump and Chinese President Xi Jinping are set to discuss Iran, Taiwan, artificial intelligence and nuclear weapons as they weigh extending a critical minerals deal, according...",
             "url": "https://japantoday.com/category/world/trump-and-china%27s-xi-set-for-talks-spanning-iran-nuclear-trade-and-ai3"
-        },
-        {
-            "title": "Australia watchdog says money launderers ramping up AI for scams",
-            "description": "[THE STAR] Australia's financial crimes watchdog warned of a heightened threat of money laundering linked to artificial intelligence that has been used by crooks to scale up activities, automate processes and...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/12/australia-watchdog-says-money-launderers-ramping-up-ai-for-scams"
-        },
-        {
-            "title": "'No reform complacency': Shaktikanta Das lays out seven point roadmap, tells India Inc to think boldly, invest now",
-            "description": "[BUSINESS TODAY] Das outlined the government's ongoing efforts to build strategic self-reliance across a range of sectors, from rare earths and permanent magnets to critical minerals, shipbuilding, cotton...",
-            "url": "https://www.businesstoday.in/latest/economy/story/no-reform-complacency-shaktikanta-das-lays-out-seven-point-roadmap-tells-india-inc-to-think-boldly-invest-now-530957-2026-05-12"
-        },
-        {
-            "title": "North Korean hackers using AI to find cybersecurity blind spots: Google",
-            "description": "[LOKMAT TIMES] North Korean hackers using AI to find cybersecurity blind spots: Google - Seoul, May 12 State-sponsored hackers from North Korea and China have demonstrated \"significant interest\" in leveraging...",
-            "url": "https://www.lokmattimes.com/business/north-korean-hackers-using-ai-to-find-cybersecurity-blind-spots-google/"
-        },
-        {
-            "title": "North Korean hackers using AI to find cybersecurity blind spots: Google",
-            "description": "[LOKMAT TIMES] North Korean hackers using AI to find cybersecurity blind spots: Google - Seoul, May 12 State-sponsored hackers from North Korea and China have demonstrated \"significant interest\" in leveraging...",
-            "url": "https://www.lokmattimes.com/technology/north-korean-hackers-using-ai-to-find-cybersecurity-blind-spots-google-1/"
-        },
-        {
-            "title": "Half of workers say they are expected to use new technology without adequate training",
-            "description": "[THE IRISH TIMES] But employees are adopting artificial intelligence faster than their organisations are, survey says",
-            "url": "https://www.irishtimes.com/business/2026/05/12/half-of-workers-say-they-are-expected-to-use-new-technology-without-adequate-training/"
-        },
-        {
-            "title": "Lawsuit blames ChatGPT maker OpenAI for helping plan a school shooting",
-            "description": "[THE STAR] The widow of a man killed in last year's mass shooting at Florida State University is suing ChatGPT maker OpenAI, blaming the company's artificial intelligence chatbot for giving advice on how to...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/12/lawsuit-blames-chatgpt-maker-openai-for-helping-plan-a-school-shooting"
-        },
-        {
-            "title": "Ready Talent with Master's Programs in Artificial Intelligence and Business Analytics",
-            "description": "[THE TRIBUNE] Bengaluru (Karnataka) [India], May 12: In response to the growing demand for data-driven and technology-led decision-making across industries, REVA Academy for Corporate Excellence (RACE), an...",
-            "url": "https://www.tribuneindia.com/news/business/reva-academy-for-corporate-excellence-strengthens-industry-ready-talent-with-masters-programs-in-artificial-intelligence-and-business-analytics/"
         }
     ]
 }
