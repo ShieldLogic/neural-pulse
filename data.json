@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-11 22:50:36 UTC",
+    "updated": "2026-05-12 02:39:16 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,19 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "A Hands-On Guide to Testing Agents with RAGAs and G-Eval",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://github.",
+            "url": "https://machinelearningmastery.com/a-hands-on-guide-to-testing-agents-with-ragas-and-g-eval/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -27,19 +22,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
-        },
-        {
-            "title": "Effective KV Compression with TurboQuant",
-            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
-            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "The Roadmap to Mastering Agentic AI Design Patterns",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-agentic-ai-design-patterns/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -57,14 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+            "title": "How to Implement Tool Calling with Gemma 4 and Python",
+            "description": "[MACHINELEARNINGMASTERY] The open-weights model ecosystem shifted recently with the release of the <a href=\"https://blog.",
+            "url": "https://machinelearningmastery.com/how-to-implement-tool-calling-with-gemma-4-and-python/"
+        },
+        {
+            "title": "Structured Outputs vs. Function Calling: Which Should Your Agent Use?",
+            "description": "[MACHINELEARNINGMASTERY] Language models (LMs), at their core, are text-in and text-out systems.",
+            "url": "https://machinelearningmastery.com/structured-outputs-vs-function-calling-which-should-your-agent-use/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Beyond Vector Search: Building a Deterministic 3-Tiered Graph-RAG System",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/beyond-vector-search-building-a-deterministic-3-tiered-graph-rag-system/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "EU Commission in talks with OpenAI and Anthropic over AI models",
-            "description": "[MARKETSCREENER] The European Commission is in ongoing discussions with U.S. artificial intelligence giants OpenAI and Anthropic, a spokesperson said on Monday. Spokesperson Thomas Regnier said the...",
-            "url": "https://www.marketscreener.com/news/eu-commission-in-talks-with-openai-and-anthropic-over-ai-models-ce7f5bd8d18af626"
+            "title": "Google says it found evidence of AI helping in cyberattack",
+            "description": "[CP24 TORONTO] Google said Monday that it had disrupted a criminal group\u2019s attempt to use artificial intelligence to exploit another company\u2019s previously unknown digital vulnerability, adding to heightened worries...",
+            "url": "https://www.cp24.com/news/world/2026/05/11/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-companys-digital-defence/"
         },
         {
-            "title": "A great code bloat is arising as AI turns managers into software programmers",
-            "description": "[LIVEMINT] Everyone can now use artificial intelligence (AI) to create software code, but ensuring that these systems actually work reliably is quite another matter. Indeed, this may become the next big role...",
-            "url": "https://www.livemint.com/opinion/online-views/code-bloat-vibe-coding-ai-it-services-managers-software-programmers-claude-anthropic-11778404325084.html"
+            "title": "Google says it found evidence of AI helping in cyberattack",
+            "description": "[BNN BLOOMBERG] Google said Monday that it had disrupted a criminal group\u2019s attempt to use artificial intelligence to exploit another company\u2019s previously unknown digital vulnerability, adding to heightened worries...",
+            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/05/11/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-companys-digital-defence/"
         },
         {
-            "title": "Machine learning algorithm predicts XRP price on May 31, 2026",
-            "description": "[FINBOLD] XRP price outlook appears more optimistic as regulatory progress, whale accumulation, and technical signals boost trader sentiment.",
-            "url": "https://finbold.com/machine-learning-algorithm-predicts-xrp-price-on-may-31-2026/"
+            "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company\u2019s digital defense",
+            "description": "[WTOP] Google said Monday that it had disrupted a criminal group's attempt to use artificial intelligence to exploit another company'",
+            "url": "https://wtop.com/national/2026/05/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-companys-digital-defense/"
         },
         {
-            "title": "Africa Faces GW-Scale Energy Challenge as AI Boom Drives Explosive Data Center Demand",
-            "description": "[DEVDISCOURSE] The rapid adoption of artificial intelligence technologies is driving one of the largest structural shifts in global electricity consumption in decades.",
-            "url": "https://www.devdiscourse.com/article/law-order/3903820-africa-faces-gw-scale-energy-challenge-as-ai-boom-drives-explosive-data-center-demand"
+            "title": "Brookfield to Invest $500 Million in Partnership With OpenAI",
+            "description": "[MARKETSCREENER] By Robb M. Stewart Brookfield Asset Management is investing $500 million a new artificial intelligence deployment platform set up by OpenAI and global investors. Brookfield Business Corp.,...",
+            "url": "https://www.marketscreener.com/news/brookfield-to-invest-500-million-in-partnership-with-openai-ce7f5bd9d981f624"
         },
         {
-            "title": "Adani calls for India to build, power, and own AI infrastructure on home soil",
-            "description": "[DAILY EXCELSIOR] NEW DELHI, May 11: Billionaire Gautam Adani said on Monday that energy security and digital infrastructure would define geopolitical power in the coming decades, as he called on India to build...",
-            "url": "https://www.dailyexcelsior.com/adani-calls-for-india-to-build-power-and-own-ai-infrastructure-on-home-soil/"
+            "title": "Google says it disrupted an AI-driven effort to exploit a software bug",
+            "description": "[THE ASSOCIATED PRESS] Google said Monday that it had disrupted a criminal group\u2019s attempt to use artificial intelligence to exploit another company\u2019s previously unknown digital vulnerability, adding to heightened worries...",
+            "url": "https://apnews.com/article/google-ai-cybersecurity-exploitation-mythos-926aea7f7dc5e0e61adce3273c55c6d4"
         },
         {
-            "title": "AI labs should pass safety review to get US government contracts, group says",
-            "description": "[MARKETSCREENER] The Trump administration should screen cutting-edge artificial intelligence models for security threats before they are publicly released and withhold lucrative government contracts from those that...",
-            "url": "https://www.marketscreener.com/news/ai-labs-should-pass-safety-review-to-get-us-government-contracts-group-says-ce7f5bd8de8ef124"
+            "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense",
+            "description": "[BARCHART] Google said Monday that it had disrupted a criminal group\u2019s attempt to use artificial intelligence to exploit another company\u2019s previously unknown digital vulnerability, adding to heightened worries...",
+            "url": "https://www.barchart.com/story/news/1850106/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-company-s-digital-defense"
         },
         {
-            "title": "A $400 AI Bet That\u2019s Actually a High-Stakes Wager on the Future of Work",
-            "description": "[BLOOMBERG] Two prominent economists differ on how quickly artificial intelligence will reshape the US job market.",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-11/ai-related-job-displacement-isn-t-being-planned-for-enough-economists-say"
+            "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense",
+            "description": "[WDIV CLICKONDETROIT] Google said Monday that it had disrupted a criminal group\u2019s attempt to use artificial intelligence to exploit another company\u2019s previously unknown digital vulnerability, adding to heightened worries...",
+            "url": "https://www.clickondetroit.com/business/2026/05/11/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-companys-digital-defense/"
         },
         {
-            "title": "How this \u2018underground market\u2019 is giving Chinese coders access to Claude and Gemini",
-            "description": "[TIMES OF INDIA] Tech News News: Chinese developers are increasingly turning to a sprawling underground network of \u201cshadow APIs\u201d to access leading US artificial intelligence models su.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-this-underground-market-is-giving-chinese-coders-access-to-claude-and-gemini/articleshow/131010385.cms"
+            "title": "Google Disrupts Hackers Using AI to Exploit an Unknown Weakness in a Company's Digital Defense",
+            "description": "[U.S. NEWS & WORLD REPORT] Google said Monday that it had disrupted a criminal group's attempt to use artificial intelligence to exploit another company's previously unknown digital vulnerability, adding to heightened worries...",
+            "url": "https://www.usnews.com/news/us/articles/2026-05-11/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-companys-digital-defense"
         },
         {
-            "title": "Scale Sense Launches AI First Growth Model for Indian Brands amid Rapid Shift in Digital Marketing",
-            "description": "[THE TRIBUNE] New Delhi [India], May 11: As Indian businesses struggle to keep pace with rising digital advertising costs, changing algorithms and the growing influence of artificial intelligence on consumer...",
-            "url": "https://www.tribuneindia.com/news/business/scale-sense-launches-ai-first-growth-model-for-indian-brands-amid-rapid-shift-in-digital-marketing/"
+            "title": "Is AI Inflationary or Deflationary?",
+            "description": "[MARKETSCREENER] Artificial intelligence promises a revolution in terms of productivity, leading to a wealthier, more efficient, and perhaps even more solvent economy. However, in the bond markets, this grand...",
+            "url": "https://www.marketscreener.com/news/is-ai-inflationary-or-deflationary-ce7f5bd8d08df321"
         },
         {
-            "title": "UPDATE 1-Deals and new partnerships on the menu at Africa-France summit",
-            "description": "[DEVDISCOURSE] The Africa Forward \u200cSummit is the first France has organised in an English-speaking nation and follows a series of setbacks in West Africa, where some Francophone leaders have cut back on security...",
-            "url": "https://www.devdiscourse.com/article/headlines/3903777-update-1-deals-and-new-partnerships-on-the-menu-at-africa-france-summit"
+            "title": "I asked ChatGPT to calculate the savings needed as a freelance artist, to live my old age in Pune",
+            "description": "[LIVEMINT] I asked ChatGPT to calculate the how much savings corpus I should build for my old age as a freelance artist with irregular income, living in Pune. Here is what artificial intelligence (AI) chatbot...",
+            "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-to-calculate-savings-needed-freelancer-artist-live-old-age-pune-retirement-corpus-investment-nps-ppf-sip-11778504617350.html"
         }
     ]
 }
