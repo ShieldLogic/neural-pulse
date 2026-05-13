@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-13 20:00:05 UTC",
+    "updated": "2026-05-13 21:41:13 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,9 +7,24 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
+        },
+        {
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+        },
+        {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -17,19 +32,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Building AI Agents with Local Small Language Models",
+            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,29 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Text Summarization with Scikit-LLM",
+            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "AI transcriber for use by Ontario doctors 'hallucinated,' generated errors, auditor finds",
-            "description": "[CBC.CA] Artificial intelligence note-taking tools intended for use by Ontario doctors provided incorrect and incomplete information or demonstrated \"hallucinations,\" and were not evaluated adequately, the...",
-            "url": "https://www.cbc.ca/news/canada/toronto/ai-scribe-system-hallucinations-9.7197049"
+            "title": "Anthropic\u2019s valuation nears $1 trillion as AI boom fuels record revenue growth",
+            "description": "[MONEYCONTROL] Claude maker sees explosive rise in private market value amid investor rush into artificial intelligence firms.",
+            "url": "https://www.moneycontrol.com/news/trends/anthropics-valuation-nears-1-trillion-as-ai-boom-fuels-record-revenue-growth-13917907.html"
         },
         {
-            "title": "Tech leaders join Trump\u2019s China delegation, spotlighting US AI ambitions and chip strategy",
-            "description": "[PORTAL MIX VALE] Tech leaders join Trump\u2019s China delegation, spotlighting US AI ambitions and chip strategy In a significant move underscoring the escalating importance of artificial intelligence and advanced...",
-            "url": "https://www.mixvale.com.br/2026/05/13/tech-leaders-join-trumps-china-delegation-spotlighting-us-ai-ambitions-and-chip-strategy/"
+            "title": "Amazon puts Alexa inside the shopping search bar in AI push",
+            "description": "[SPOKANE SPOKESMAN-REVIEW] Artificial intelligence algorithms are coming to some of the most valuable real estate in retail: the Amazon.com Inc. search bar.",
+            "url": "https://www.spokesman.com/stories/2026/may/13/amazon-puts-alexa-inside-the-shopping-search-bar-i/"
         },
         {
-            "title": "SK Hynix CEO to meet Bill Gates, Satya Nadella for discussions on AI chip partnerships",
-            "description": "[THE TRIBUNE] SK hynix CEO Kwak Noh-Jung will meet Microsoft co-founder Bill Gates and CEO Satya Nadella this week at the closed-door Microsoft CEO Summit 2026 in Redmond, Washington, to discuss strengthening ties...",
-            "url": "https://www.tribuneindia.com/news/business/sk-hynix-ceo-to-meet-bill-gates-satya-nadella-for-discussions-on-ai-chip-partnerships/"
+            "title": "Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I.",
+            "description": "[THE NEW YORK TIMES] Recursive Superintelligence, founded by former Google, Meta and OpenAI researchers, is part of a growing effort to automate the creation of artificial intelligence.",
+            "url": "https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html"
         },
         {
-            "title": "Why reassessment notices require human judgment, not faceless processing - CNBC TV18",
-            "description": "[CNBC TV18] While the faceless assessment and appeal system is intended to curb corruption and harassment, the Court observed that the decision to initiate reassessment cannot be made mechanically or left...",
-            "url": "https://www.cnbctv18.com/legal/legal-digest-income-tax-reassessment-notices-human-judgment-faceless-processing-sc-order-views-19904526.htm"
+            "title": "Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I.",
+            "description": "[THE NEW YORK TIMES] Recursive Superintelligence, founded by former Google, Meta and OpenAI researchers, is part of a growing effort to automate the creation of artificial intelligence.",
+            "url": "https://www.nytimes.com/2026/05/13/technology/notable-researchers-join-4-billion-effort-to-build-self-improving-ai.html"
         },
         {
-            "title": "Trump is set to meet with Xi in Beijing as war and inflation weigh on his presidency",
-            "description": "[PITTSBURGH TRIBUNE-REVIEW] BEIJING \u2014 President Donald Trump is set to arrive in Beijing on Wednesday for his highly anticipated summit with Chinese leader Xi Jinping at a restless moment for a world worried about war, trade...",
-            "url": "https://triblive.com/news/world/trump-is-set-to-meet-with-xi-in-beijing-as-war-and-inflation-weigh-on-his-presidency/"
+            "title": "20 Years After \u2018An Inconvenient Truth,\u2019 Al Gore Grapples With the (Big) Wrinkle of Artificial Intelligence",
+            "description": "[INSIDE CLIMATE NEWS] The former vice president sat down with Inside Climate News to discuss data centers, Trump, China and the future of American democracy.",
+            "url": "https://insideclimatenews.org/news/13052026/al-gore-discusses-artificial-intelligence-data-centers/"
         },
         {
-            "title": "Trump China Visit Live Updates: \u2018The Beast\u2019 Arrives In Beijing As China Ramps Up Security For Trump Visit",
-            "description": "[TIMES NOW] Donald Trump China Visit Live Updates: Follow real-time updates as US President Donald Trump arrives in Beijing for a high-stakes summit with Chinese President Xi Jinping, with global attention...",
-            "url": "https://www.timesnownews.com/world/donald-trump-china-visit-live-updates-donald-trump-beijing-xi-jinping-bilateral-meeting-trade-tariff-boeing-taiwan-latest-news-liveblog-154308430"
+            "title": "South Korea has room for active fiscal spending thanks to AI boom, Fitch says",
+            "description": "[MARKETSCREENER] South Korea has room to use fiscal policy to mitigate the economic impact of the Middle East conflict, thanks to an artificial intelligence boom, credit ratings agency Fitch said on Wednesday. ...",
+            "url": "https://www.marketscreener.com/news/south-korea-has-room-for-active-fiscal-spending-thanks-to-ai-boom-fitch-says-ce7f5bdfd189f520"
         },
         {
-            "title": "What to expect in the upcoming Android 17 and iOS 27",
-            "description": "[BANGKOK POST] Android 17 is starting to feel real. For expats in Thailand, that can only mean one thing: another round of looking into phone features promising to make daily life smarter, smoother and possibly a...",
-            "url": "https://www.bangkokpost.com/life/tech/3254428/what-to-expect-in-the-upcoming-android-17-and-ios-27"
+            "title": "Observing Earth from space can help companies make better decisions",
+            "description": "[SPACE.COM] Lithuanian earth observation companies are leveraging artificial intelligence to refine the way they deliver data solutions to clients.",
+            "url": "https://www.space.com/technology/observing-earth-from-space-can-help-companies-make-better-decisions"
         },
         {
-            "title": "An AI start up's attempt to save more whales",
-            "description": "[SBS AUSTRALIA] The beached humpback whale \u201cTimmy\u201d moved people far beyond Germany and made headlines all over the world. But a much larger crisis usually remains invisible: the increasing death of whales on the...",
-            "url": "https://www.sbs.com.au/language/german/en/podcast-episode/an-ai-start-ups-attempt-to-save-more-whales/pg5w6epua"
+            "title": "driven lending models can unlock USD 170 bn MSME credit gap in India: Govt",
+            "description": "[THE TRIBUNE] Artificial Intelligence (AI)-powered lending models could help unlock an estimated USD 130-170 billion credit gap for India's MSMEs by using digital payment trails, GST filings and utility bill data...",
+            "url": "https://www.tribuneindia.com/news/business/ai-driven-lending-models-can-unlock-usd-170-bn-msme-credit-gap-in-india-govt/"
         },
         {
-            "title": "How embedded systems enable AI in the real world | OPINION",
-            "description": "[THE WEEK] On-device artificial intelligence operates under strict constraints, prioritising safety and responsiveness in critical systems",
-            "url": "https://www.theweek.in/news/sci-tech/2026/05/13/guest-opinion-embedded-ai-real-world.html"
+            "title": "Trump-Xi Summit Puts AI Rivalry in Spotlight Amid Mythos Model Shockwaves",
+            "description": "[REPUBLIC WORLD] U.S. President Donald Trump and Chinese leader Xi Jinping are set to put artificial intelligence at the forefront of their Beijing summit amid rising mistrust and U.S. chip controls.",
+            "url": "https://www.republicworld.com/tech/trumpxi-summit-puts-ai-rivalry-in-spotlight-amid-mythos-model-shockwaves-2026-05-13-124052"
         },
         {
-            "title": "Google unveils new Android AI features ahead of Apple\u2019s Siri revamp",
-            "description": "[THE STAR] Alphabet Inc's Google announced a slew of upcoming features for its Android 17 operating system, showcasing its progress in artificial intelligence weeks before Apple Inc is set to announce major...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/13/google-unveils-new-android-ai-featuresahead-of-apples-siri-revamp"
+            "title": "Targeting 30 pc EV sales by 2030, Bihar govt nod to policy amendments",
+            "description": "[THE ECONOMIC TIMES] Bihar is boosting electric vehicle adoption. The state government aims for 30 percent of new vehicle sales to be electric by 2030. Incentives will be offered for electric commercial vehicles,...",
+            "url": "https://economictimes.indiatimes.com/industry/renewables/targeting-30-pc-ev-sales-by-2030-bihar-govt-nod-to-policy-amendments/articleshow/131060097.cms"
         }
     ]
 }
