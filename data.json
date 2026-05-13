@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-13 21:41:13 UTC",
+    "updated": "2026-05-13 23:02:49 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,24 +7,9 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
-        },
-        {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
-        },
-        {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -32,14 +17,19 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,19 +42,29 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+        },
+        {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Anthropic\u2019s valuation nears $1 trillion as AI boom fuels record revenue growth",
-            "description": "[MONEYCONTROL] Claude maker sees explosive rise in private market value amid investor rush into artificial intelligence firms.",
-            "url": "https://www.moneycontrol.com/news/trends/anthropics-valuation-nears-1-trillion-as-ai-boom-fuels-record-revenue-growth-13917907.html"
+            "title": "Tech Startup Advanced Impactor Reshaping Cricket Coaching Through AI",
+            "description": "[THE TRIBUNE] India, the world\u2019s largest cricket market, is witnessing the rise of artificial intelligence and sports-tech platforms that aim to make coaching more measurable, accessible, and data-driven. Mumbai...",
+            "url": "https://www.tribuneindia.com/news/business/indian-sports-tech-startup-advanced-impactor-reshaping-cricket-coaching-through-ai-2-2/"
         },
         {
-            "title": "Amazon puts Alexa inside the shopping search bar in AI push",
-            "description": "[SPOKANE SPOKESMAN-REVIEW] Artificial intelligence algorithms are coming to some of the most valuable real estate in retail: the Amazon.com Inc. search bar.",
-            "url": "https://www.spokesman.com/stories/2026/may/13/amazon-puts-alexa-inside-the-shopping-search-bar-i/"
+            "title": "The role of AI in the telecom sector is growing",
+            "description": "[CP24 TORONTO] Nearly half of all telecom customers say they won\u2019t use artificial intelligence for any of their phone and internet services needs, but others say they are open-minded as long as it involves a...",
+            "url": "https://www.cp24.com/news/money/2026/05/13/ais-role-in-telecom-sector-growing-but-customer-satisfaction-lagging/"
         },
         {
-            "title": "Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I.",
-            "description": "[THE NEW YORK TIMES] Recursive Superintelligence, founded by former Google, Meta and OpenAI researchers, is part of a growing effort to automate the creation of artificial intelligence.",
-            "url": "https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html"
+            "title": "The role of AI in the telecom sector is growing",
+            "description": "[BNN BLOOMBERG] Nearly half of all telecom customers say they won\u2019t use artificial intelligence for any of their phone and internet services needs, but others say they are open-minded as long as it involves a...",
+            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/05/13/ais-role-in-telecom-sector-growing-but-customer-satisfaction-lagging/"
         },
         {
-            "title": "Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I.",
-            "description": "[THE NEW YORK TIMES] Recursive Superintelligence, founded by former Google, Meta and OpenAI researchers, is part of a growing effort to automate the creation of artificial intelligence.",
-            "url": "https://www.nytimes.com/2026/05/13/technology/notable-researchers-join-4-billion-effort-to-build-self-improving-ai.html"
+            "title": "MKES Nagindas Khandwala College Opens Admissions for BBA in Artificial Intelligence, Fintech and BSc Fashion Design",
+            "description": "[THE TRIBUNE] Mumbai (Maharashtra) [India], May 13: For those who have cleared their Class XII exams, a wealth of specialized pathways towards exciting careers awaits at one of Mumbai's best colleges. MKES...",
+            "url": "https://www.tribuneindia.com/news/business/mkes-nagindas-khandwala-college-opens-admissions-for-bba-in-artificial-intelligence-fintech-and-bsc-fashion-design/"
         },
         {
-            "title": "20 Years After \u2018An Inconvenient Truth,\u2019 Al Gore Grapples With the (Big) Wrinkle of Artificial Intelligence",
-            "description": "[INSIDE CLIMATE NEWS] The former vice president sat down with Inside Climate News to discuss data centers, Trump, China and the future of American democracy.",
-            "url": "https://insideclimatenews.org/news/13052026/al-gore-discusses-artificial-intelligence-data-centers/"
+            "title": "Nvidia VP Bryan Catanzaro has a message for every company cutting jobs for AI: You will not save money by layoffs for AI as the cost of \u2026",
+            "description": "[TIMES OF INDIA] Tech News News: Nvidia senior executive Bryan Catanzaro believes that companies that are betting on artificial intelligence (AI) to reduce workforce costs may not be .",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-vp-bryan-catanzaro-has-a-message-for-every-company-cutting-jobs-for-ai-you-will-not-save-money-by-layoffs-for-ai-as-the-cost-of-/articleshow/131062682.cms"
         },
         {
-            "title": "South Korea has room for active fiscal spending thanks to AI boom, Fitch says",
-            "description": "[MARKETSCREENER] South Korea has room to use fiscal policy to mitigate the economic impact of the Middle East conflict, thanks to an artificial intelligence boom, credit ratings agency Fitch said on Wednesday. ...",
-            "url": "https://www.marketscreener.com/news/south-korea-has-room-for-active-fiscal-spending-thanks-to-ai-boom-fitch-says-ce7f5bdfd189f520"
+            "title": "Alibaba's Quarterly Profitability Still Under Pressure",
+            "description": "[MARKETSCREENER] By Tracy Qu Alibaba Group's profitability remained under pressure in the fiscal fourth quarter as the Chinese tech giant continues to invest heavily in artificial intelligence and fend off...",
+            "url": "https://www.marketscreener.com/news/alibaba-s-quarterly-profitability-still-under-pressure-ce7f5bdfd08afe22"
         },
         {
-            "title": "Observing Earth from space can help companies make better decisions",
-            "description": "[SPACE.COM] Lithuanian earth observation companies are leveraging artificial intelligence to refine the way they deliver data solutions to clients.",
-            "url": "https://www.space.com/technology/observing-earth-from-space-can-help-companies-make-better-decisions"
+            "title": "Donald Trump set to meet with China's Xi in Beijing",
+            "description": "[CP24 TORONTO] U.S. President Donald Trump is set to arrive in Beijing on Wednesday for his highly anticipated summit with Chinese leader Xi Jinping at a restless moment for a world worried about war, trade and...",
+            "url": "https://www.cp24.com/news/world/2026/05/13/trump-set-to-meet-with-xi-in-beijing-as-war-and-inflation-weigh-on-his-presidency/"
         },
         {
-            "title": "driven lending models can unlock USD 170 bn MSME credit gap in India: Govt",
-            "description": "[THE TRIBUNE] Artificial Intelligence (AI)-powered lending models could help unlock an estimated USD 130-170 billion credit gap for India's MSMEs by using digital payment trails, GST filings and utility bill data...",
-            "url": "https://www.tribuneindia.com/news/business/ai-driven-lending-models-can-unlock-usd-170-bn-msme-credit-gap-in-india-govt/"
+            "title": "Tech Titans and CEOs Join Trump on Critical China Visit: A High-Stakes Trade Mission",
+            "description": "[DEVDISCOURSE] High-profile U.S. executives from various industries accompany President Donald Trump on a crucial trip to China. The visit, aimed at discussing trade and artificial intelligence, includes...",
+            "url": "https://www.devdiscourse.com/article/business/3906565-tech-titans-and-ceos-join-trump-on-critical-china-visit-a-high-stakes-trade-mission"
         },
         {
-            "title": "Trump-Xi Summit Puts AI Rivalry in Spotlight Amid Mythos Model Shockwaves",
-            "description": "[REPUBLIC WORLD] U.S. President Donald Trump and Chinese leader Xi Jinping are set to put artificial intelligence at the forefront of their Beijing summit amid rising mistrust and U.S. chip controls.",
-            "url": "https://www.republicworld.com/tech/trumpxi-summit-puts-ai-rivalry-in-spotlight-amid-mythos-model-shockwaves-2026-05-13-124052"
+            "title": "San Francisco\u2019s Luxury Housing Boom Is a Warning",
+            "description": "[BLOOMBERG] San Francisco\u2019s luxury housing market is booming, fueled by the stunning wealth created by the nascent artificial intelligence industry and a record stock market. Sure, the California city has always...",
+            "url": "https://www.bloomberg.com/opinion/articles/2026-05-13/san-francisco-s-luxury-housing-boom-is-a-warning"
         },
         {
-            "title": "Targeting 30 pc EV sales by 2030, Bihar govt nod to policy amendments",
-            "description": "[THE ECONOMIC TIMES] Bihar is boosting electric vehicle adoption. The state government aims for 30 percent of new vehicle sales to be electric by 2030. Incentives will be offered for electric commercial vehicles,...",
-            "url": "https://economictimes.indiatimes.com/industry/renewables/targeting-30-pc-ev-sales-by-2030-bihar-govt-nod-to-policy-amendments/articleshow/131060097.cms"
+            "title": "Lake Tahoe Power Crunch Shows AI\u2019s Growing Energy Toll in West",
+            "description": "[BLOOMBERG] Lake Tahoe has long been a refuge for Silicon Valley\u2019s tech elite, from Mark Zuckerberg to Larry Ellison. Now the artificial intelligence boom behind much of that wealth is straining the region\u2019s...",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-13/lake-tahoe-power-crunch-shows-ai-s-growing-energy-toll-in-west"
         }
     ]
 }
