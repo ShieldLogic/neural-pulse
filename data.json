@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-14 19:41:18 UTC",
+    "updated": "2026-05-14 21:06:37 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,19 +7,9 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
-        },
-        {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -32,14 +22,14 @@
             "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
-            "title": "Effective KV Compression with TurboQuant",
-            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
-            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
-        },
-        {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -57,6 +47,11 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+        },
+        {
             "title": "Agentic RAG Explained in 3 Levels of Difficulty",
             "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
             "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
@@ -65,6 +60,11 @@
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Artificial Intelligence Threat To Crypto Underestimated, Says This Influential Analyst: Security Becoming",
-            "description": "[BENZINGA] Influential analyst Ali Martinez warned Wednesday of the growing threat artificial intelligence poses to the cryptocurrency industry, citing a surge in AI-driven fraud.",
-            "url": "https://www.benzinga.com/crypto/cryptocurrency/26/05/52551133/ai-threat-to-crypto-ai-vs-ai-arms-race"
+            "title": "AI model uses cloud type and cover to predict solar power swings",
+            "description": "[PV MAGAZINE] A machine learning model uses cloud type and cloud cover to predict rapid changes in surface solar irradiance, including short-term \u201cramp\u201d events that affect grid stability. When tested across 15...",
+            "url": "https://www.pv-magazine.com/2026/05/14/ai-model-uses-cloud-type-and-cover-to-predict-solar-power-swings/"
         },
         {
-            "title": "European Shares Climb Amid AI Optimism and Geopolitical Tensions",
-            "description": "[DEVDISCOURSE] European shares saw gains as optimism around artificial intelligence countered worries over U.S.-Iran peace talks and an impending U.S.-China summit. The STOXX 600 index rose by 0.4%, powered by...",
-            "url": "https://www.devdiscourse.com/article/headlines/3907818-european-shares-climb-amid-ai-optimism-and-geopolitical-tensions"
+            "title": "Trump arrives in Beijing for first China summit with Xi since 2017",
+            "description": "[FOX NEWS] The two-day visit marks Trump\u2019s first trip to China since 2017 and comes amid mounting tensions over trade, artificial intelligence, Taiwan and the fallout from the war with Iran.",
+            "url": "https://www.foxnews.com/world/what-xi-wants-from-trump-beijing-seeks-leverage-high-stakes-summit"
         },
         {
-            "title": "Who is Sanjay Mehrotra? the only Indian to join Trump\u2019s elite China delegation",
-            "description": "[THE TRIBUNE] American corporate executives attending meetings with Chinese President Xi Jinping. The two-day summit in Beijing comes at a critical time in US-China relations, particularly as tensions intensify...",
-            "url": "https://www.tribuneindia.com/news/china/who-is-sanjay-mehrotra-the-only-indian-to-join-trumps-elite-china-delegation/"
+            "title": "The AI War Hidden Inside The Trump-Xi Summit",
+            "description": "[TIMES NOW] As Donald Trump meets Xi Jinping in Beijing, the real battle may not be trade or Taiwan \u2014 but an escalating US-China artificial intelligence war involving chips, espionage, and technological...",
+            "url": "https://www.timesnownews.com/world/the-ai-war-hidden-inside-the-trump-xi-summit-article-154317466"
         },
         {
-            "title": "Cisco Announces Layoffs Of 4,000 Jobs To Accelerate AI Focus",
-            "description": "[FREE PRESS JOURNAL] Cisco has announced plans to eliminate fewer than 4,000 jobs globally, representing less than 5 percent of its workforce, as part of a restructuring to sharpen focus on artificial intelligence and...",
-            "url": "https://www.freepressjournal.in/tech/cisco-announces-layoffs-of-4000-jobs-to-accelerate-ai-focus"
+            "title": "Global Markets | Japan's Nikkei falls from record as inflation, interest rate concerns mount",
+            "description": "[THE ECONOMIC TIMES] Tech shares helped Wall Street indexes notch \u200brecord closing levels overnight, and gains by Japanese companies linked to the artificial intelligence boom \u200bwere enough to give the Nikkei an early...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-falls-from-record-as-inflation-interest-rate-concerns-mount/articleshow/131087995.cms"
         },
         {
-            "title": "Senior Congress Leader V.D. Satheesan Named Kerala Chief Minister: Take A Look At His Academic Journey",
-            "description": "[FREE PRESS JOURNAL] Senior Congress leader V. D. Satheesan has been appointed as the next Chief Minister of Kerala. Satheesan studied at Sacred Heart College and Rajagiri College before earning LLB and LLM degrees....",
-            "url": "https://www.freepressjournal.in/education/senior-congress-leader-vd-satheesan-named-kerala-chief-minister-take-a-look-at-his-academic-journey"
+            "title": "Foxconn logs record first-quarter net profit on AI demand",
+            "description": "[THE HINDU] Foxconn logged a record net profit for the first quarter as the booming market for artificial intelligence servers drives growth, despite geopolitical uncertainty.",
+            "url": "https://www.thehindu.com/sci-tech/technology/foxconn-logs-record-first-quarter-net-profit-on-ai-demand/article70977626.ece"
         },
         {
-            "title": "Adtek Is Said to Explore Hong Kong IPO at $4 Billion Valuation",
-            "description": "[BLOOMBERG] Shenzhen Adtek Technology Co. is considering an initial public offering in Hong Kong, according to people familiar with the matter, adding to a wave of Chinese listings by businesses related to data...",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-14/adtek-is-said-to-explore-hong-kong-ipo-at-4-billion-valuation"
+            "title": "Xero CEO on the SaaScopolypse, AI integration and impact on the economy",
+            "description": "[SBS AUSTRALIA] The ASX200 closed slightly higher after a late-session rebound, with mining giants BHP and Rio Tinto hitting fresh records while Coles fell after a landmark ACCC court ruling over misleading discount...",
+            "url": "https://www.sbs.com.au/news/podcast-episode/xero-ceo-on-the-saascopolypse-ai-integration-and-impact-on-the-economy/q832ie3uv"
         },
         {
-            "title": "Microsoft eyeing startup deals for life after OpenAI",
-            "description": "[THE HINDU] Microsoft is shopping for artificial-intelligence startups as \u200cthe software company prepares for a future independent of its once-vital partner OpenAI, five people familiar with \u200bthe matter said",
-            "url": "https://www.thehindu.com/sci-tech/technology/microsoft-eyeing-startup-deals-for-life-after-openai/article70976833.ece"
+            "title": "US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough",
+            "description": "[THE TRIBUNE] The United States has approved around 10 Chinese companies to purchase Nvidia's H200 artificial intelligence chips, but no deliveries have taken place so far, according to a Reuters report citing...",
+            "url": "https://www.tribuneindia.com/news/business/us-clears-h200-chip-sales-to-10-china-firms-as-nvidia-ceo-looks-for-breakthrough/"
         },
         {
-            "title": "Revolutionizing the Art Market: The Artprice Manifesto",
-            "description": "[DEVDISCOURSE] The Artprice Manifesto introduces 22 rules aiming to bring transparency and trust to the Art Market. It emphasizes the importance of qualified art data, documentation, and technological integration...",
-            "url": "https://www.devdiscourse.com/article/entertainment/3907752-revolutionizing-the-art-market-the-artprice-manifesto"
+            "title": "Amazon layoffs: More jobs slashed after 30,000 roles cut in recent months",
+            "description": "[THE ECONOMIC TIMES] Amazon has announced fresh job cuts in its Selling Partner Services division. This move follows a recent review aimed at improving efficiency. The company is also increasing its investments in...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/amazon-layoffs-more-jobs-slashed-after-30000-roles-cut-in-recent-months/articleshow/131087502.cms"
         },
         {
-            "title": "Anthropic overtakes OpenAI in enterprise artificial intelligence race",
-            "description": "[THE ECONOMIC TIMES] New data reveals Anthropic has surpassed OpenAI in enterprise AI spending, with 34.4% of surveyed companies paying for its products in April. This shift is largely driven by demand for Anthropic's AI...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-overtakes-openai-in-enterprise-artificial-intelligence-race/articleshow/131084628.cms"
+            "title": "Alibaba, JD.com Among Chinese Firms Cleared by US to Buy Nvidia H200 AI Chips But Deals Stall",
+            "description": "[MARKETSCREENER] Alibaba and JD.com are among the roughly 10 Chinese companies that have secured US clearance to purchase Nvidia's H200 artificial intelligence chip, though not a single delivery has been made so...",
+            "url": "https://www.marketscreener.com/news/alibaba-jd-com-among-chinese-firms-cleared-by-us-to-buy-nvidia-h200-ai-chips-but-deals-stall-ce7f5bddd88ef623"
         },
         {
-            "title": "Digital Guardrails: Greece Sets First Binding Rules for AI in Classrooms",
-            "description": "[IEFIMERIDA] Greece has enacted its first comprehensive regulatory framework for Artificial Intelligence (AI) in secondary education, establishing a binding set of rules to prevent data exploitation and preserve...",
-            "url": "https://www.iefimerida.gr/english/digital-guardrails-greece-sets-first-binding-rules-ai-classrooms"
+            "title": "Microsoft Explores AI Startup Deals as It Broadens Strategy Beyond OpenAI",
+            "description": "[MARKETSCREENER] Microsoft is evaluating potential acquisitions of artificial intelligence startups as the company positions itself for a future less dependent on OpenAI, Reuters reported Wednesday, citing unnamed...",
+            "url": "https://www.marketscreener.com/news/microsoft-explores-ai-startup-deals-as-it-broadens-strategy-beyond-openai-ce7f5bddd88cf622"
         }
     ]
 }
