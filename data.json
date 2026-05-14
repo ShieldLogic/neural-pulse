@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-14 21:06:37 UTC",
+    "updated": "2026-05-14 22:53:20 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,9 +7,24 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
+        },
+        {
+            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
+            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
+        },
+        {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -17,19 +32,14 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Building AI Agents with Local Small Language Models",
+            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,29 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Text Summarization with Scikit-LLM",
+            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "AI model uses cloud type and cover to predict solar power swings",
-            "description": "[PV MAGAZINE] A machine learning model uses cloud type and cloud cover to predict rapid changes in surface solar irradiance, including short-term \u201cramp\u201d events that affect grid stability. When tested across 15...",
-            "url": "https://www.pv-magazine.com/2026/05/14/ai-model-uses-cloud-type-and-cover-to-predict-solar-power-swings/"
+            "title": "AIKONS Is Quietly Building the Future of AI Entertainment in India",
+            "description": "[THE TRIBUNE] New Delhi [India], May 14: As artificial intelligence rapidly reshapes global entertainment, most companies are still experimenting with isolated AI-generated clips, visual tests, or short-form...",
+            "url": "https://www.tribuneindia.com/news/business/aikons-is-quietly-building-the-future-of-ai-entertainment-in-india/"
         },
         {
-            "title": "Trump arrives in Beijing for first China summit with Xi since 2017",
-            "description": "[FOX NEWS] The two-day visit marks Trump\u2019s first trip to China since 2017 and comes amid mounting tensions over trade, artificial intelligence, Taiwan and the fallout from the war with Iran.",
-            "url": "https://www.foxnews.com/world/what-xi-wants-from-trump-beijing-seeks-leverage-high-stakes-summit"
+            "title": "Machine learning algorithm sets Cisco stock price on May 31, 2026",
+            "description": "[FINBOLD] Cisco is up nearly 20% in pre-market , and analysts are getting more bullish in the long run. But what about machine learning algorithms?",
+            "url": "https://finbold.com/machine-learning-algorithm-sets-cisco-stock-price-on-may-31-2026/"
         },
         {
-            "title": "The AI War Hidden Inside The Trump-Xi Summit",
-            "description": "[TIMES NOW] As Donald Trump meets Xi Jinping in Beijing, the real battle may not be trade or Taiwan \u2014 but an escalating US-China artificial intelligence war involving chips, espionage, and technological...",
-            "url": "https://www.timesnownews.com/world/the-ai-war-hidden-inside-the-trump-xi-summit-article-154317466"
+            "title": "Musk, OpenAI lawyers begin closing arguments in landmark trial that could shape AI's future",
+            "description": "[BREITBART NEWS NETWORK] Lawyers for Elon Musk and OpenAI began closing arguments Thursday in the landmark trial whose outcome could shape the future of artificial intelligence",
+            "url": "https://www.breitbart.com/news/musk-openai-lawyers-begin-closing-arguments-in-landmark-trial-that-could-shape-ais-future/"
         },
         {
-            "title": "Global Markets | Japan's Nikkei falls from record as inflation, interest rate concerns mount",
-            "description": "[THE ECONOMIC TIMES] Tech shares helped Wall Street indexes notch \u200brecord closing levels overnight, and gains by Japanese companies linked to the artificial intelligence boom \u200bwere enough to give the Nikkei an early...",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-falls-from-record-as-inflation-interest-rate-concerns-mount/articleshow/131087995.cms"
+            "title": "Halupedia explained: Why AI Wikipedia clone is raising red flags",
+            "description": "[THE NEWS INTERNATIONAL] Artificial intelligence has never ceased to amaze the world. This time this surprise comes in the form of a new Wikipedia clone full of AI hallucinations. Named as Halupedia, the website uses an AI...",
+            "url": "https://www.thenews.com.pk/latest/1402527-halupedia-explained-why-ai-wikipedia-clone-is-raising-red-flags"
         },
         {
-            "title": "Foxconn logs record first-quarter net profit on AI demand",
-            "description": "[THE HINDU] Foxconn logged a record net profit for the first quarter as the booming market for artificial intelligence servers drives growth, despite geopolitical uncertainty.",
-            "url": "https://www.thehindu.com/sci-tech/technology/foxconn-logs-record-first-quarter-net-profit-on-ai-demand/article70977626.ece"
+            "title": "The red lines Trump must protect in China",
+            "description": "[WASHINGTON EXAMINER] President Donald Trump must not sacrifice critical U.S. interests on Taiwan, artificial intelligence, and more during his state visit to China.",
+            "url": "https://www.washingtonexaminer.com/in_focus/4563285/red-lines-trump-must-protect-ichina/"
         },
         {
-            "title": "Xero CEO on the SaaScopolypse, AI integration and impact on the economy",
-            "description": "[SBS AUSTRALIA] The ASX200 closed slightly higher after a late-session rebound, with mining giants BHP and Rio Tinto hitting fresh records while Coles fell after a landmark ACCC court ruling over misleading discount...",
-            "url": "https://www.sbs.com.au/news/podcast-episode/xero-ceo-on-the-saascopolypse-ai-integration-and-impact-on-the-economy/q832ie3uv"
+            "title": "Velda Launches Serverless GPU Job Platform That Eliminates Infrastructure Overhead for Machine Learning Teams",
+            "description": "[THE MANILA TIMES] Execute GPU jobs instantly from your terminal with zero setup. No manifests, no environment drift, and per-second billing. Velda eliminates infrastructure overhead, letting you focus entirely on your...",
+            "url": "https://www.manilatimes.net/2026/05/14/tmt-newswire/plentisoft/velda-launches-serverless-gpu-job-platform-that-eliminates-infrastructure-overhead-for-machine-learning-teams/2343683"
         },
         {
-            "title": "US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough",
-            "description": "[THE TRIBUNE] The United States has approved around 10 Chinese companies to purchase Nvidia's H200 artificial intelligence chips, but no deliveries have taken place so far, according to a Reuters report citing...",
-            "url": "https://www.tribuneindia.com/news/business/us-clears-h200-chip-sales-to-10-china-firms-as-nvidia-ceo-looks-for-breakthrough/"
+            "title": "Graduating students may \u2018boo\u2019 every mention of AI but still need timeless advice as jobs turn scarce",
+            "description": "[LIVEMINT] Commencement speakers at US graduation ceremonies have met with boos at the mention of artificial intelligence (AI). Fresh graduates are well aware of the job scare, don\u2019t need patronizing remarks...",
+            "url": "https://www.livemint.com/opinion/online-views/graduating-students-ai-timeless-advice-jobs-market-artificial-intelligence-graduates-unemployment-11778676164153.html"
         },
         {
-            "title": "Amazon layoffs: More jobs slashed after 30,000 roles cut in recent months",
-            "description": "[THE ECONOMIC TIMES] Amazon has announced fresh job cuts in its Selling Partner Services division. This move follows a recent review aimed at improving efficiency. The company is also increasing its investments in...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/amazon-layoffs-more-jobs-slashed-after-30000-roles-cut-in-recent-months/articleshow/131087502.cms"
+            "title": "Amazon Cuts More Jobs After Firing 30,000 Employees Earlier",
+            "description": "[FREE PRESS JOURNAL] Amazon has carried out another round of layoffs in its Selling Partner Services division after cutting nearly 30,000 jobs over the last six months. The company said only a small number of employees...",
+            "url": "https://www.freepressjournal.in/tech/amazon-cuts-more-jobs-after-firing-30000-employees-earlier"
         },
         {
-            "title": "Alibaba, JD.com Among Chinese Firms Cleared by US to Buy Nvidia H200 AI Chips But Deals Stall",
-            "description": "[MARKETSCREENER] Alibaba and JD.com are among the roughly 10 Chinese companies that have secured US clearance to purchase Nvidia's H200 artificial intelligence chip, though not a single delivery has been made so...",
-            "url": "https://www.marketscreener.com/news/alibaba-jd-com-among-chinese-firms-cleared-by-us-to-buy-nvidia-h200-ai-chips-but-deals-stall-ce7f5bddd88ef623"
+            "title": "Argonne researchers develop AI-powered robots aimed at creating scientific assistants",
+            "description": "[SCIENTIFIC COMPUTING WORLD] US national laboratory explores adaptive robotics and machine learning to support future autonomous laboratories",
+            "url": "https://www.scientific-computing.com/article/argonne-researchers-develop-ai-powered-robots-aimed-creating-scientific-assistants"
         },
         {
-            "title": "Microsoft Explores AI Startup Deals as It Broadens Strategy Beyond OpenAI",
-            "description": "[MARKETSCREENER] Microsoft is evaluating potential acquisitions of artificial intelligence startups as the company positions itself for a future less dependent on OpenAI, Reuters reported Wednesday, citing unnamed...",
-            "url": "https://www.marketscreener.com/news/microsoft-explores-ai-startup-deals-as-it-broadens-strategy-beyond-openai-ce7f5bddd88cf622"
+            "title": "Robo.ai Subsidiary Neurovia AI Launches NeuroStream\u2122 Technology Platform to Build Physical AI Visual Data Infrastructure",
+            "description": "[THE MANILA TIMES] **media[1056695]**DUBAI, UAE, May 14, 2026 /PRNewswire/ -- Robo.ai Inc. (Nasdaq: AIIO), announced today that its wholly-owned AI data processing and compression technology subsidiary, Neurovia AI,...",
+            "url": "https://www.manilatimes.net/2026/05/14/tmt-newswire/pr-newswire/roboai-subsidiary-neurovia-ai-launches-neurostream-technology-platform-to-build-physical-ai-visual-data-infrastructure/2343665"
         }
     ]
 }
