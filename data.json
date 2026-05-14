@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-14 14:01:12 UTC",
+    "updated": "2026-05-14 17:46:20 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,24 +7,9 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
-        },
-        {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
-        },
-        {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -32,14 +17,19 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,19 +42,29 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+        },
+        {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Looming AI risks dominate US-China summit as neither side seeks to cede technological edge",
-            "description": "[PORTAL MIX VALE] As high-level delegations from the United States and China prepare for an anticipated summit, discussions surrounding the burgeoning field of artificial intelligence are set to take center stage....",
-            "url": "https://www.mixvale.com.br/2026/05/13/looming-ai-risks-dominate-us-china-summit-as-neither-side-seeks-to-cede-technological-edge/"
+            "title": "Artificial Intelligence: Innovation\u2019s Triumph or Humanity\u2019s Test?",
+            "description": "[DAILY EXCELSIOR] Lalit Gargg lalitgarg11@gmail.com If we examine the history of human civilization, it becomes evident that every new technology arrives with a duality\u2014bringing both possibilities and perils. Our...",
+            "url": "https://www.dailyexcelsior.com/artificial-intelligence-innovations-triumph-or-humanitys-test/"
         },
         {
-            "title": "Blackstone\u2019s AirTrunk Seeks $2 Billion Loan for Malaysia Growth",
-            "description": "[BLOOMBERG] Blackstone Inc.-owned data center firm AirTrunk is marketing a $2.3 billion loan to fund a Malaysia project, according to people familiar with the matter, part of a slew of tech-linked financings in...",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-14/blackstone-s-airtrunk-seeks-2-billion-loan-for-malaysia-growth"
+            "title": "IKS Health Announces Acquisition of ARAI Solutions, an AI Management and Technology Company",
+            "description": "[THE TRIBUNE] Dallas (Texas) [US] / Mumbai (Maharashtra) [India], May 14: IKS Health, a global leader in care enablement solutions supporting clinicians, staff, and patients at every step of the care journey, is...",
+            "url": "https://www.tribuneindia.com/news/business/iks-health-announces-acquisition-of-arai-solutions-an-ai-management-and-technology-company/"
         },
         {
-            "title": "Cisco layoffs loom as company pivots deeper into AI after strong quarter",
-            "description": "[FOX BUSINESS] Cisco is planning to cut fewer than 4,000 jobs as it shifts resources toward artificial intelligence, after the tech giant posted stronger-than-expected earnings.",
-            "url": "https://www.foxbusiness.com/technology/cisco-cut-thousands-jobs-ai-push-accelerates-earnings-beat"
+            "title": "Best Career Options & Degree Courses After Class 12 in India (2026):8 Industries Hiring Right Now",
+            "description": "[THE TRIBUNE] For Class 12 graduates choosing a degree in India in 2026, eight industries are hiring faster than the rest: Artificial Intelligence, Fintech, Sports Management, Event Management, Tourism & Travel,...",
+            "url": "https://www.tribuneindia.com/news/business/best-career-options-degree-courses-after-class-12-in-india-20268-industries-hiring-right-now/"
         },
         {
-            "title": "Manitoba could have commissioner enforce planned social media ban for kids: Kinew",
-            "description": "[GLOBAL NEWS] Manitoba is looking at having a commissioner or regulator enforce its proposed ban on social media and artificial intelligence chatbots for children under 16.",
-            "url": "https://globalnews.ca/news/11848676/manitoba-could-have-commissioner-enforce-planned-social-media-ban-for-kids-kinew/"
+            "title": "Trump to Discuss AI Guardrails with China\u2019s Xi During Visit to Beijing",
+            "description": "[NATURAL NEWS] President Donald Trump is expected to discuss artificial intelligence (AI) guardrails with Chinese President Xi Jinping in Beijing this week, U.S. officials told reporters Sunday, May 10. The meeting...",
+            "url": "https://www.naturalnews.com/2026-05-14-trump-discuss-ai-guardrails-during-china-visit.html"
         },
         {
-            "title": "First responders testing AI for pediatric emergencies",
-            "description": "[NBC10 BOSTON] Boston researchers are testing whether artificial intelligence could one day help paramedics treat children during life-threatening emergencies.",
-            "url": "https://www.nbcboston.com/news/local/ai-pediatric-emergency-ems-research/3949592/"
+            "title": "Artmarket.com: The Artprice Manifesto: 22 Rules for a Regulated and Transparent Art Market in the Age of AI",
+            "description": "[THE TRIBUNE] Paris [France], May 14: We are living through one of those defining periods. Artificial intelligence is redistributing the value of information at an unprecedented pace. Synthetic data now makes up...",
+            "url": "https://www.tribuneindia.com/news/business/artmarket-com-the-artprice-manifesto-22-rules-for-a-regulated-and-transparent-art-market-in-the-age-of-ai/"
         },
         {
-            "title": "Spending on AI, New Businesses Eats Into Profits of China\u2019s Tech Giants",
-            "description": "[CAIXIN] Spending on AI, New Businesses Eats Into Profits of China\u2019s Tech Giants - Alibaba, Tencent and JD.com ramped up investments in artificial intelligence, cloud infrastructure and overseas expansion in...",
-            "url": "https://www.caixinglobal.com/2026-05-14/spending-on-ai-new-businesses-eats-into-profits-of-chinas-tech-giants-102444090.html"
+            "title": "Tech Layoffs 2026: 25,000 Jobs Lost In May As Companies Slash Workforce - Full List",
+            "description": "[NDTV PROFIT] PayPal, Cisco and Cloudflare are among the companies that decided to significantly slash workforce in May, mainly due to the boom in Artificial Intelligence.",
+            "url": "https://www.ndtvprofit.com/technology/tech-layoffs-2026-25-000-jobs-lost-in-may-as-companies-slash-workforce-full-list-11492668"
         },
         {
-            "title": "Gallery: Chinese Robot Seeks Religious Enlightenment",
-            "description": "[CAIXIN] Gallery: Chinese Robot Seeks Religious Enlightenment - A humanoid robot developed by China\u2019s Unitree Robotics has made headlines for becoming a Buddhist monk in Seoul. Last week, the robot named Gabi...",
-            "url": "https://www.caixinglobal.com/2026-05-14/gallery-chinese-robot-seeks-religious-enlightenment-102443995.html"
+            "title": "AI office space leases in London rise tenfold in a year",
+            "description": "[BBC NEWS] In April, more than 450,000 sq ft of office space was leased by artificial intelligence companies.",
+            "url": "https://www.bbc.com/news/articles/cdepdewljp1o"
         },
         {
-            "title": "From ChatGPT to deepfakes: Osceola schools confront AI challenges",
-            "description": "[AROUND OSCEOLA] The Osceola County School District is taking steps to keep up with the everchanging world of artificial intelligence. At a workshop last week, the School Board discussed the use and abuse of AI by...",
-            "url": "https://www.aroundosceola.com/news/chatgpt-deepfakes-osceola-schools-confront-ai-challenges"
+            "title": "Cisco buoyed by surge in AI-related orders",
+            "description": "[MARKETSCREENER] Cisco reported quarterly results and guidance that topped Wall Street expectations, driven by a sharp acceleration in orders for artificial intelligence infrastructure. The US group posted revenue...",
+            "url": "https://www.marketscreener.com/news/cisco-buoyed-by-surge-in-ai-related-orders-ce7f5bddd989fe2c"
         },
         {
-            "title": "AI IQ is here: a new site scores frontier AI models on the human IQ scale. The results are already dividing tech.",
-            "description": "[VENTUREBEAT] AI IQ ranks frontier AI models like ChatGPT, Claude and Gemini on the human IQ scale, sparking debate over how artificial intelligence should be measured.",
-            "url": "https://venturebeat.com/technology/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech"
+            "title": "Even Trump is worried AI will soon have humanity beaten",
+            "description": "[THE TELEGRAPH] Artificial intelligence industry claims looming \u2018singularity\u2019 will change everything",
+            "url": "https://www.telegraph.co.uk/business/2026/05/14/even-trump-worried-that-ai-will-soon-have-humanity-beaten/"
         },
         {
-            "title": "Trump's Economic Turbulence: Navigating Challenges with Xi",
-            "description": "[DEVDISCOURSE] U.S. President Donald Trump is heading into his summit with Chinese President Xi Jinping with diminished leverage. While artificial intelligence investments boost markets, Trump's tariffs face legal...",
-            "url": "https://www.devdiscourse.com/article/headlines/3907523-trumps-economic-turbulence-navigating-challenges-with-xi"
+            "title": "Artmarket.com: The Artprice Manifesto: 22 Rules for a Regulated and Transparent Art Market in the Age of AI",
+            "description": "[THE MANILA TIMES] Artificial intelligence is redistributing the value of information at an unprecedented pace",
+            "url": "https://www.manilatimes.net/2026/05/14/tmt-newswire/pr-newswire/artmarketcom-the-artprice-manifesto-22-rules-for-a-regulated-and-transparent-art-market-in-the-age-of-ai/2343572"
         }
     ]
 }
