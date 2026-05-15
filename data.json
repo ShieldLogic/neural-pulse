@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-15 02:47:15 UTC",
+    "updated": "2026-05-15 06:52:33 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,24 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
-            "description": "[MACHINELEARNINGMASTERY] FastAPI has become one of the most popular ways to serve machine learning models because it is lightweight, fast, and easy to use.",
-            "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/"
-        },
-        {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -32,14 +22,19 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Building AI Agents with Local Small Language Models",
-            "description": "[MACHINELEARNINGMASTERY] The idea of building your own AI agent used to feel like something only big tech companies could pull off.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-with-local-small-language-models/"
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
+        },
+        {
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,14 +47,19 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Text Summarization with Scikit-LLM",
-            "description": "[MACHINELEARNINGMASTERY] In a <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/text-summarization-with-scikit-llm/"
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
         },
         {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "AI predicts Bitcoin price for May 22, 2026",
-            "description": "[FINBOLD] Bitcoin is again under pressure, and thort-term outlook appears fragile, at least according to machine learning algorithms.",
-            "url": "https://finbold.com/ai-predicts-bitcoin-price-for-may-22-2026/"
+            "title": "AI model predicts 10-year stroke risk based on routine cardiology test",
+            "description": "[MEDICAL XPRESS] A research team co-led by investigators at Mass General Brigham and the Broad Institute of MIT and Harvard has developed and validated an artificial intelligence model, known as ECG2Stroke, that can...",
+            "url": "https://medicalxpress.com/news/2026-05-ai-year-based-routine-cardiology.html"
         },
         {
-            "title": "US, China discussing AI 'guardrails': Treasury secretary Bessent",
-            "description": "[THE ECONOMIC TIMES] The United States and China were discussing setting up \"guardrails\" for the use of artificial intelligence (AI), US Treasury Secretary Scott Bessent told CNBC on Thursday, with growing calls for...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-china-discussing-ai-guardrails-treasury-secretary-bessent/articleshow/131096290.cms"
+            "title": "Pope decries the rise of AI-directed warfare, saying it leads to a spiral of annihilation",
+            "description": "[THE MANILA TIMES] ROME \u2014 Pope Leo XIV on Thursday denounced how investments in artificial intelligence and high-tech weaponry were leading the world into a \u201cspiral of annihilation,\u201d as he called for peace in the...",
+            "url": "https://www.manilatimes.net/2026/05/15/news/world/pope-decries-the-rise-of-ai-directed-warfare-saying-it-leads-to-a-spiral-of-annihilation/2344353"
         },
         {
-            "title": "Maharashtra signs MoU worth Rs 1.14 lakh crore with AM Intelligence Labs; can create 8,000 jobs",
-            "description": "[THE ECONOMIC TIMES] Maharashtra is set to become a leader in artificial intelligence and digital infrastructure. The state government has partnered with AM Intelligence Labs for a massive Rs 1.14 lakh crore investment....",
-            "url": "https://economictimes.indiatimes.com/tech/information-tech/maharashtra-signs-mou-worth-rs-1-14-lakh-crore-with-am-intelligence-labs-can-create-8000-jobs/articleshow/131095843.cms"
+            "title": "Anthropic to donate $200 million to Bill Gates' Gates Foundation; says: Gates Foundation has decades of experience and track record of ...",
+            "description": "[TIMES OF INDIA] Tech News News: Anthropic and the Gates Foundation have pledged $200 million to back artificial intelligence-related public goods and areas including health and educa.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-to-donate-200-million-to-bill-gates-gates-foundation-says-gates-foundation-has-decades-of-experience-and-track-record-of-/articleshow/131101359.cms"
         },
         {
-            "title": "Cisco shares are surging double digits. Morgan Stanley thinks the stock is still cheap",
-            "description": "[CNBC] Cisco has room to run, adding to its double-digit gains this week, as the firm's product orders accelerate due to artificial intelligence, per Morgan Stanley.",
-            "url": "https://www.cnbc.com/2026/05/14/cisco-shares-are-surging-double-digits-morgan-stanley-thinks-the-stock-is-still-cheap-.html"
+            "title": "Elon Musk and OpenAI lawyers begin closing arguments in AI trial",
+            "description": "[CP24 TORONTO] Lawyers for Elon Musk and OpenAI began closing arguments Thursday in the landmark trial whose outcome could shape the future of artificial intelligence.",
+            "url": "https://www.cp24.com/news/2026/05/14/musk-openai-lawyers-begin-closing-arguments-in-landmark-trial-that-could-shape-ais-future/"
         },
         {
-            "title": "Saile raises $2.2M to use AI agents to fix healthcare staffing and cut physician credentialing from months to days",
-            "description": "[TECHSTARTUPS.COM] Hospitals across the U.S. are spending heavily to recruit temporary physicians, flying doctors across state lines to fill staffing gaps. At the same time, thousands of qualified physicians remain in...",
-            "url": "https://techstartups.com/2026/05/14/saile-raises-2-2m-to-use-ai-agents-to-fix-healthcare-staffing-and-cut-physician-credentialing-from-months-to-days/"
+            "title": "Elon Musk and OpenAI lawyers begin closing arguments in AI trial",
+            "description": "[BNN BLOOMBERG] Lawyers for Elon Musk and OpenAI began closing arguments Thursday in the landmark trial whose outcome could shape the future of artificial intelligence.",
+            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/05/14/musk-openai-lawyers-begin-closing-arguments-in-landmark-trial-that-could-shape-ais-future/"
         },
         {
-            "title": "KOSPI hits record high, edging closer to 8,000 on tech surge",
-            "description": "[BOL NEWS] South Korea\u2019s KOSPI, soared to another record ,fueled by a global tech over artificial intelligence (AI) growth.",
-            "url": "https://www.bolnews.com/latest-news/kospi-hits-record-high-edging-closer-to-8000-on-tech-surge/"
+            "title": "Newsom outlines his final budget proposal with no deficit, new major spending",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] California Gov. Gavin Newsom unveiled his final budget proposal Thursday. The plan includes no deficit for his last year of office and the next. It is a $350 billion spending plan that includes...",
+            "url": "https://www.ajc.com/news/2026/05/newsom-outlines-his-final-budget-proposal-with-no-deficit-new-major-spending/"
         },
         {
-            "title": "Machine learning algorithm predicts Tesla stock price on May 31, 2026",
-            "description": "[FINBOLD] Finbold AI Agent predicts if Tesla stock will retain its momentum by May 31, 2026, or if a major correction is imminent.",
-            "url": "https://finbold.com/machine-learning-algorithm-predicts-tesla-stock-price-on-may-31-2026/"
+            "title": "Gov. Jared Polis signs bill rewriting Colorado's AI regulations",
+            "description": "[BOULDER DAILY CAMERA] Colorado Gov. Jared Polis signed a new law Thursday that rewrites and softens the state's artificial intelligence regulations. The Justice Department and Elon Musk's xAI had challenged earlier rules.",
+            "url": "https://www.dailycamera.com/2026/05/14/colorado-artificial-intelligence-new-law-signed/"
         },
         {
-            "title": "directed warfare, saying it leads to a spiral of annihilation",
-            "description": "[WTOP] ROME (AP) \u2014 Pope Leo XIV on Thursday denounced how investments in artificial intelligence and high-tech weaponry were leading the world into a \u201cspiral of\u2026",
-            "url": "https://wtop.com/world/2026/05/pope-decries-the-rise-of-ai-directed-warfare-saying-it-leads-to-a-spiral-of-annihilation/"
+            "title": "Gov. Jared Polis signs bill rewriting Colorado's AI regulations",
+            "description": "[THE DENVER POST] Colorado Gov. Jared Polis signed a new law Thursday that rewrites and softens the state's artificial intelligence regulations. The Justice Department and Elon Musk's xAI had challenged earlier rules.",
+            "url": "https://www.denverpost.com/2026/05/14/colorado-artificial-intelligence-new-law-signed/"
         },
         {
-            "title": "Department of War Selects Applied Intuition to Build Enterprise Autonomy Pipeline",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Applied Intuition, Inc., the leading physical AI company, today announced it has been selected by the Chief Digital and Artificial Intelligence...",
-            "url": "https://www.prnewswire.co.uk/news-releases/department-of-war-selects-applied-intuition-to-build-enterprise-autonomy-pipeline-302771560.html"
+            "title": "Musk lawyer queries Altman credibility in OpenAI trial",
+            "description": "[PERTHNOW] Lawyers for Elon Musk and OpenAI have begun closing arguments in the landmark trial whose outcome could shape the future of artificial intelligence.",
+            "url": "https://www.perthnow.com.au/news/crime/musk-lawyer-queries-altman-credibility-in-openai-trial-c-22286460"
         },
         {
-            "title": "Newsom\u2019s California Budget Bolstered by Extra Cash from AI Boom",
-            "description": "[BLOOMBERG TAX NEWS] California Governor Gavin Newsom unveiled a revised budget that shows no deficit for this year and next, as the state draws another boost from the technology and artificial-intelligence boom.",
-            "url": "https://news.bloombergtax.com/daily-tax-report/newsoms-california-budget-bolstered-by-extra-cash-from-ai-boom"
+            "title": "University of Central Florida graduates boo speaker who praised AI as next industrial revolution",
+            "description": "[PORTAL MIX VALE] A commencement speaker faced an unexpected wave of disapproval from graduating students at the University of Central Florida during a recent ceremony. The speaker\u2019s declaration that artificial...",
+            "url": "https://www.mixvale.com.br/2026/05/14/university-of-central-florida-graduates-boo-speaker-who-praised-ai-as-next-industrial-revolution/"
         }
     ]
 }
