@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-15 06:52:33 UTC",
+    "updated": "2026-05-15 10:18:54 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,14 +7,19 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,19 +27,19 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+        },
+        {
+            "title": "Effective KV Compression with TurboQuant",
+            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
+            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,19 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "AI model predicts 10-year stroke risk based on routine cardiology test",
-            "description": "[MEDICAL XPRESS] A research team co-led by investigators at Mass General Brigham and the Broad Institute of MIT and Harvard has developed and validated an artificial intelligence model, known as ECG2Stroke, that can...",
-            "url": "https://medicalxpress.com/news/2026-05-ai-year-based-routine-cardiology.html"
+            "title": "Jack Antonoff Slams People Who Use AI to Make Music",
+            "description": "[BILLBOARD] Jack Antonoff slammed people who use AI, or artificial intelligence, to make music, calling them \"Godless whores.\"",
+            "url": "https://www.billboard.com/music/music-news/jack-antonoff-slams-ai-musicians-1236248638/"
         },
         {
-            "title": "Pope decries the rise of AI-directed warfare, saying it leads to a spiral of annihilation",
-            "description": "[THE MANILA TIMES] ROME \u2014 Pope Leo XIV on Thursday denounced how investments in artificial intelligence and high-tech weaponry were leading the world into a \u201cspiral of annihilation,\u201d as he called for peace in the...",
-            "url": "https://www.manilatimes.net/2026/05/15/news/world/pope-decries-the-rise-of-ai-directed-warfare-saying-it-leads-to-a-spiral-of-annihilation/2344353"
+            "title": "Frequent visits to Persian Gulf show Carney's ambition goes beyond seeking investment",
+            "description": "[SOOTODAY] OTTAWA \u2014 The Carney government is putting a new emphasis on diplomacy with Persian Gulf countries \u2014 one that goes beyond seeking investments in Canada to arrangements touching on defence and...",
+            "url": "https://www.sootoday.com/national-news/frequent-visits-to-persian-gulf-show-carneys-ambition-goes-beyond-seeking-investment-12285078"
         },
         {
-            "title": "Anthropic to donate $200 million to Bill Gates' Gates Foundation; says: Gates Foundation has decades of experience and track record of ...",
-            "description": "[TIMES OF INDIA] Tech News News: Anthropic and the Gates Foundation have pledged $200 million to back artificial intelligence-related public goods and areas including health and educa.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-to-donate-200-million-to-bill-gates-gates-foundation-says-gates-foundation-has-decades-of-experience-and-track-record-of-/articleshow/131101359.cms"
+            "title": "Frequent visits to Persian Gulf show Carney's ambition goes beyond seeking investment",
+            "description": "[BAYTODAY] OTTAWA \u2014 The Carney government is putting a new emphasis on diplomacy with Persian Gulf countries \u2014 one that goes beyond seeking investments in Canada to arrangements touching on defence and...",
+            "url": "https://www.baytoday.ca/national-news/frequent-visits-to-persian-gulf-show-carneys-ambition-goes-beyond-seeking-investment-12285078"
         },
         {
-            "title": "Elon Musk and OpenAI lawyers begin closing arguments in AI trial",
-            "description": "[CP24 TORONTO] Lawyers for Elon Musk and OpenAI began closing arguments Thursday in the landmark trial whose outcome could shape the future of artificial intelligence.",
-            "url": "https://www.cp24.com/news/2026/05/14/musk-openai-lawyers-begin-closing-arguments-in-landmark-trial-that-could-shape-ais-future/"
+            "title": "AI isn't killing office demand; in fact, it's fueling it in some cities",
+            "description": "[BALTIMORE NEWS] Investment in artificial intelligence is fueling office demand in a handful of top tech markets.",
+            "url": "https://foxbaltimore.com/news/nation-world/ai-isnt-killing-office-demand-in-fact-its-fueling-it-in-some-cities-cbre-2026-tech-gateway-office-markets"
         },
         {
-            "title": "Elon Musk and OpenAI lawyers begin closing arguments in AI trial",
-            "description": "[BNN BLOOMBERG] Lawyers for Elon Musk and OpenAI began closing arguments Thursday in the landmark trial whose outcome could shape the future of artificial intelligence.",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/05/14/musk-openai-lawyers-begin-closing-arguments-in-landmark-trial-that-could-shape-ais-future/"
+            "title": "AI isn't killing office demand; in fact, it's fueling it in some cities",
+            "description": "[WJLA] Investment in artificial intelligence is fueling office demand in a handful of top tech markets.",
+            "url": "https://wjla.com/news/nation-world/ai-isnt-killing-office-demand-in-fact-its-fueling-it-in-some-cities-cbre-2026-tech-gateway-office-markets"
         },
         {
-            "title": "Newsom outlines his final budget proposal with no deficit, new major spending",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] California Gov. Gavin Newsom unveiled his final budget proposal Thursday. The plan includes no deficit for his last year of office and the next. It is a $350 billion spending plan that includes...",
-            "url": "https://www.ajc.com/news/2026/05/newsom-outlines-his-final-budget-proposal-with-no-deficit-new-major-spending/"
+            "title": "Demi Moore sparks \u2018fascist propaganda\u2019 backlash at Cannes after telling Hollywood to stop fighting AI",
+            "description": "[NEWSBREAK] Demi Moore sparked outrage at Cannes by declaring Hollywood's fight against artificial intelligence is lost, urging the industry to embrace AI instead.",
+            "url": "https://www.newsbreak.com/fox-news-510075/4651303596934-demi-moore-sparks-fascist-propaganda-backlash-at-cannes-after-telling-hollywood-to-stop-fighting-ai"
         },
         {
-            "title": "Gov. Jared Polis signs bill rewriting Colorado's AI regulations",
-            "description": "[BOULDER DAILY CAMERA] Colorado Gov. Jared Polis signed a new law Thursday that rewrites and softens the state's artificial intelligence regulations. The Justice Department and Elon Musk's xAI had challenged earlier rules.",
-            "url": "https://www.dailycamera.com/2026/05/14/colorado-artificial-intelligence-new-law-signed/"
+            "title": "\u201cI told you in my opening statement you wouldn\u2019t hear very much from Microsoft, and you haven\u2019t\u201d",
+            "description": "[THE VERGE] God bless. We are in the Microsoft closing statements. \u201cMicrosoft never found a single page of a single document\u201d that referenced Musk\u2019s alleged restrictions on his donations during the due diligence...",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/930962/i-told-you-in-myu-opening-statement-you-wouldnt-hear-very-much-from-microsoft-and-you-havent"
         },
         {
-            "title": "Gov. Jared Polis signs bill rewriting Colorado's AI regulations",
-            "description": "[THE DENVER POST] Colorado Gov. Jared Polis signed a new law Thursday that rewrites and softens the state's artificial intelligence regulations. The Justice Department and Elon Musk's xAI had challenged earlier rules.",
-            "url": "https://www.denverpost.com/2026/05/14/colorado-artificial-intelligence-new-law-signed/"
+            "title": "NetraMark Provides Second Quarter Update and Highlights Continued Commercial, Scientific, Regulatory and Capital Markets Momentum",
+            "description": "[THE MANILA TIMES] TORONTO, May 14, 2026 (GLOBE NEWSWIRE) -- NetraMark Holdings Inc. (the 'Company\u201d or 'NetraMark\u201d) (TSX: AIAI) (OTCQB: AINMF) (Frankfurt: PF0) a premier artificial intelligence (AI) company that is...",
+            "url": "https://www.manilatimes.net/2026/05/15/tmt-newswire/globenewswire/netramark-provides-second-quarter-update-and-highlights-continued-commercial-scientific-regulatory-and-capital-markets-momentum/2344527"
         },
         {
-            "title": "Musk lawyer queries Altman credibility in OpenAI trial",
-            "description": "[PERTHNOW] Lawyers for Elon Musk and OpenAI have begun closing arguments in the landmark trial whose outcome could shape the future of artificial intelligence.",
-            "url": "https://www.perthnow.com.au/news/crime/musk-lawyer-queries-altman-credibility-in-openai-trial-c-22286460"
+            "title": "AI Chipmaker Cerebras Climbs 68% After Year's Biggest IPO",
+            "description": "[MARKETSCREENER] Cerebras Systems Inc. shares jumped 68% in its trading debut after raising $5.5 billion in the year's largest IPO, illustrating investors' surging appetite for artificial intelligence data centers......",
+            "url": "https://www.marketscreener.com/news/ai-chipmaker-cerebras-climbs-68-after-year-s-biggest-ipo-ce7f5bd2d98df42d"
         },
         {
-            "title": "University of Central Florida graduates boo speaker who praised AI as next industrial revolution",
-            "description": "[PORTAL MIX VALE] A commencement speaker faced an unexpected wave of disapproval from graduating students at the University of Central Florida during a recent ceremony. The speaker\u2019s declaration that artificial...",
-            "url": "https://www.mixvale.com.br/2026/05/14/university-of-central-florida-graduates-boo-speaker-who-praised-ai-as-next-industrial-revolution/"
+            "title": "Applied Materials Raises Outlook as Semiconductor Equipment Demand Grows -- Update",
+            "description": "[MARKETSCREENER] By Kelly Cloonan Applied Materials now expects stronger sales for its semiconductor equipment business this year than it previously forecast as demand for artificial intelligence computing...",
+            "url": "https://www.marketscreener.com/news/applied-materials-raises-outlook-as-semiconductor-equipment-demand-grows-update-ce7f5bd2d98bf224"
         }
     ]
 }
