@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-15 13:58:10 UTC",
+    "updated": "2026-05-15 16:04:19 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,14 +7,19 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,19 +27,19 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+        },
+        {
+            "title": "Effective KV Compression with TurboQuant",
+            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
+            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,19 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
+            "title": "Adtek Files for Hong Kong IPO, Adding to Chinese AI Listings",
+            "description": "[BLOOMBERG] Shenzhen Adtek Technology Co. has filed for an initial public offering in Hong Kong, adding to a wave of listings by Chinese companies related to data centers and artificial intelligence.",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-15/adtek-files-for-hong-kong-ipo-adding-to-chinese-ai-listings"
+        },
+        {
+            "title": "Elon Musk's xAI unveils first coding agent in bid to rival Anthropic",
+            "description": "[BUSINESS STANDARD] The artificial intelligence model, which is in early testing and only available for paying subscribers, is the startup's initial push into professional coding",
+            "url": "https://www.business-standard.com/technology/tech-news/elon-musk-s-xai-unveils-first-coding-agent-in-bid-to-rival-anthropic-126051500120_1.html"
+        },
+        {
+            "title": "AI arms race drives Pentagon overhaul",
+            "description": "[LOKMAT TIMES] AI arms race drives Pentagon overhaul - Washington, May 15 The Pentagon is aggressively restructuring its science and technology apparatus around artificial intelligence, autonomous systems ... Get...",
+            "url": "https://www.lokmattimes.com/international/ai-arms-race-drives-pentagon-overhaul/"
+        },
+        {
+            "title": "The federal government wants to use AI to speed up drug and housing approvals. Can we trust it?",
+            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] This week\u2019s budget revealed a number of ways the federal government is expected to use artificial intelligence to cut back on red tape. One expert says the benefits are \"mostly good\".",
+            "url": "https://www.abc.net.au/news/2026-05-15/artificial-intelligence-accelerator-budget/106678468"
+        },
+        {
+            "title": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future",
+            "description": "[THE MANILA TIMES] OAKLAND, California \u2014 Lawyers for Elon Musk and OpenAI made their final arguments Thursday in the landmark trial whose outcome could shape the future of artificial intelligence.",
+            "url": "https://www.manilatimes.net/2026/05/15/business/sunday-business-it/lawyers-for-elon-musk-and-openai-make-their-final-case-in-a-trial-that-could-shape-ais-future/2344612"
+        },
+        {
+            "title": "Foxconn projects 30% capex growth in 2026 amid robust AI demand",
+            "description": "[THE TRIBUNE] Taiwan-based manufacturing giant Hon Hai Precision Industry Co. announced on Thursday that it expects its capital expenditure to grow by more than 30 per cent in 2026. The company, known globally as...",
+            "url": "https://www.tribuneindia.com/news/business/foxconn-projects-30-capex-growth-in-2026-amid-robust-ai-demand/"
+        },
+        {
+            "title": "Lawyers for Elon Musk and OpenAI make their final case in a trial that could shape AI's future",
+            "description": "[THE STAR] Lawyers for Elon Musk and OpenAI made their final arguments Thursday in the landmark trial whose outcome could shape the future of artificial intelligence.",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/15/lawyers-for-elon-musk-and-openai-make-their-final-case-in-a-trial-that-could-shape-ai039s-future"
+        },
+        {
+            "title": "Fancy a chat with a 1920s footy legend? A unique AI exhibit allows you to do just that",
+            "description": "[AFL.COM.AU] Collingwood three-time premiership player Les Hughes has been brought back to life through artificial intelligence",
+            "url": "https://www.afl.com.au/news/1518804/fancy-a-chat-with-a-1920s-footy-legend-a-unique-ai-exhibit-allows-you-to-do-just-that"
+        },
+        {
+            "title": "AI, Money, Human Nature and the Problem with Problems",
+            "description": "[ACTIVIST POST] Delve into the nuanced world of Artificial Intelligence, questioning our definitions of problem and solution in AI.",
+            "url": "https://www.activistpost.com/ai-money-human-nature-and-the-problem-with-problems/"
+        },
+        {
             "title": "Macquarie says these two ASX 200 companies will benefit from AI, in very different ways",
             "description": "[THE MOTLEY FOOL AUSTRALIA] Macquarie has identified two companies that will benefit from artificial intelligence. See how much their shares could potentially lift.",
             "url": "https://www.fool.com.au/2026/05/15/macquarie-says-these-two-asx-200-companies-will-benefit-from-ai-in-very-different-ways/"
-        },
-        {
-            "title": "Bessent to CNBC: US, China discussing AI 'guardrails'",
-            "description": "[THE STAR] The United States and China were discussing setting up \"guardrails\" for the use of artificial intelligence (AI), US Treasury Secretary Scott Bessent told CNBC on Thursday, with growing calls for...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/15/bessent-to-cnbc-us-china-discussing-ai-039guardrails039"
-        },
-        {
-            "title": "AI stock boom pushes Seoul's Kospi index over 8,000 for the first time",
-            "description": "[CNA] South Korea's benchmark Kospi index topped 8,000 points for the first time Friday (May 15), buoyed by an artificial intelligence-driven boom in the country's semiconductor industry.The index briefly...",
-            "url": "https://www.channelnewsasia.com/east-asia/kospi-fresh-record-south-korea-ai-stock-boom-semiconductor-chips-6122771"
-        },
-        {
-            "title": "KR1 expands AI investment with VVV token purchases, Gensyn launch",
-            "description": "[MARKETSCREENER] KR1 PLC on Thursday announced the expansion of its investments in artificial intelligence and other decentralised technologies. The Douglas, Isle of Man-based digital asset investment company...",
-            "url": "https://www.marketscreener.com/news/kr1-expands-ai-investment-with-vvv-token-purchases-gensyn-launch-ce7f5bd2db88fe2d"
-        },
-        {
-            "title": "UPDATE - LPL Financial Wins Two Stevie Awards for Innovation in Artificial Intelligence Concepts",
-            "description": "[THE MANILA TIMES] SAN DIEGO, May 14, 2026 (GLOBE NEWSWIRE) -- CLARIFICATION: This updated press release clarifies that the AI tools are concepts in prototype. This version supersedes the release distributed at 8:05...",
-            "url": "https://www.manilatimes.net/2026/05/15/tmt-newswire/globenewswire/update-lpl-financial-wins-two-stevie-awards-for-innovation-in-artificial-intelligence-concepts/2344573"
-        },
-        {
-            "title": "US judge considers Anthropic's $1.5 billion settlement of authors' lawsuit",
-            "description": "[THE STAR] May 14 (Reuters) - A \u2060federal judge on Thursday pressed lawyers for more information on several points of \u2060artificial intelligence company Anthropic's proposed $1.5 billion settlement with authors...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/15/us-judge-considers-anthropic039s-15-billion-settlement-of-authors039-lawsuit"
-        },
-        {
-            "title": "I ran this bulky LLM on an SBC cluster, and it's the most unhinged setup I've ever built",
-            "description": "[XDA DEVELOPERS] My SBC cluster runs bigger models than a single Raspberry Pi, but the trade-offs are brutal",
-            "url": "https://www.xda-developers.com/i-ran-a-local-llm-on-a-cluster-of-sbcs/"
-        },
-        {
-            "title": "Gorakhpur: After bride\u2019s wedding day accident, groom marries her in ICU",
-            "description": "[HINDUSTAN TIMES] Pooja Yadav, 25, an LLM student, was seriously injured on Wednesday afternoon while returning to Gorakhpur from Khalilabad after an examination on her wedding day. She was travelling on a motorcycle...",
-            "url": "https://www.hindustantimes.com/cities/lucknow-news/gorakhpurafter-bride-s-wedding-day-accident-groom-marries-her-in-icu-101778785505302.html"
-        },
-        {
-            "title": "US judge considers Anthropic's $1.5 billion settlement of authors' lawsuit",
-            "description": "[MARKETSCREENER] A federal judge on Thursday pressed lawyers for more information on several points of artificial intelligence company Anthropic's proposed $1.5 billion settlement with authors who accused it of...",
-            "url": "https://www.marketscreener.com/news/us-judge-considers-anthropic-s-1-5-billion-settlement-of-authors-lawsuit-ce7f5bd2d88efe24"
-        },
-        {
-            "title": "Anthropic Spat With US Emerges as Risk Factor for Figma, Others",
-            "description": "[BLOOMBERG] Anthropic PBC\u2019s legal dispute with the US government over whether the company\u2019s artificial intelligence models will be banned from federal agencies has emerged as a financial threat to other...",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-14/anthropic-spat-with-us-emerges-as-risk-factor-for-figma-others"
         }
     ]
 }
