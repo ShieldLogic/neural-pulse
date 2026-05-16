@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-16 02:36:00 UTC",
+    "updated": "2026-05-16 06:19:05 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,9 +22,9 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -32,9 +32,9 @@
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,24 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "UK firms should take steps to limit risks from frontier AI models, UK says",
-            "description": "[MARKETSCREENER] British companies should take steps to plan for and mitigate risks from new artificial intelligence models, the country's finance ministry, the Bank of England and the Financial Conduct Authority......",
-            "url": "https://www.marketscreener.com/news/uk-firms-should-take-steps-to-limit-risks-from-frontier-ai-models-uk-says-ce7f5bd2d081fe23"
-        },
-        {
-            "title": "Shares drop as oil prices rattle",
-            "description": "[BNN BLOOMBERG] The U.S. stock market is falling from its records Friday and joining a worldwide drop for stocks, as higher oil prices send a shiver through the bond market. Stocks that had been caught up in the...",
-            "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/05/15/stock-markets-worldwide-drop-from-records-as-worries-about-oil-prices-rattle-the-bond-market/"
-        },
-        {
-            "title": "Shares drop as oil prices rattle",
-            "description": "[CP24 TORONTO] The U.S. stock market is falling from its records Friday and joining a worldwide drop for stocks, as higher oil prices send a shiver through the bond market. Stocks that had been caught up in the...",
-            "url": "https://www.cp24.com/news/money/2026/05/15/stock-markets-worldwide-drop-from-records-as-worries-about-oil-prices-rattle-the-bond-market/"
-        },
-        {
-            "title": "Karnataka to release AI guidelines for medical education",
-            "description": "[THE ECONOMIC TIMES] Karnataka is set to release guidelines for Artificial Intelligence in medical education. This initiative aims to ensure ethical AI use and explore its integration across affiliated colleges. An...",
-            "url": "https://economictimes.indiatimes.com/news/india/karnataka-to-release-ai-guidelines-for-medical-education/articleshow/131120562.cms"
-        },
-        {
-            "title": "US stock market today (May 15): Wall Street falls as AI stocks tumble, oil-driven inflation fears rattle markets",
-            "description": "[TIMES OF INDIA] International Business News: Wall Street retreated sharply on Friday as a sell-off in artificial intelligence-linked technology stocks and rising concerns over inflation triggered.",
-            "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-may-15-wall-street-falls-as-ai-stocks-tumble-oil-driven-inflation-fears-rattle-markets/articleshow/131120381.cms"
-        },
-        {
-            "title": "Sinking AI stocks knock Wall Street off records",
-            "description": "[BNN BLOOMBERG] The U.S. stock market is falling from its records Friday and joining a worldwide drop for stocks, as higher oil prices send a shiver through the bond market. Stocks that had been caught up in the...",
-            "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/05/15/sinking-ai-stocks-knock-wall-street-off-its-records-as-markets-drop-worldwide-on-inflation-worries/"
-        },
-        {
-            "title": "Sinking AI stocks knock Wall Street off records",
-            "description": "[CP24 TORONTO] The U.S. stock market is falling from its records Friday and joining a worldwide drop for stocks, as higher oil prices send a shiver through the bond market. Stocks that had been caught up in the...",
-            "url": "https://www.cp24.com/news/money/2026/05/15/sinking-ai-stocks-knock-wall-street-off-its-records-as-markets-drop-worldwide-on-inflation-worries/"
-        },
-        {
-            "title": "Cannes 2026: Artificial Intelligence, cinema, culture, future of storytelling- How Eros Innovation showcased Asia's sovereign vision",
-            "description": "[FIRSTPOST] The festival this year not only showcased films and filmmakers from all walks of life, but also discussions about the future of cinema and storytelling amid the growing reliance and threat of AI",
-            "url": "https://www.firstpost.com/entertainment/cannes-2026-artificial-intelligence-cinema-culture-future-of-storytelling-how-eros-innovation-showcased-asias-sovereign-vision-14011680.html"
-        },
-        {
             "title": "AI Revenue May Jump Fivefold to $200 Billion This Year as Spending Race Intensifies",
             "description": "[MARKETSCREENER] The world's largest artificial intelligence firms could earn $200 billion in revenue this year, more than five times the $37 billion they brought in last year, according to estimates from Menlo...",
-            "url": "https://www.marketscreener.com/news/ai-revenue-may-jump-fivefold-to-200-billion-this-year-as-spending-race-intensifies-ce7f5bd2d08df721"
+            "url": "https://www.marketscreener.com/news/ai-revenue-may-jump-fivefold-to-200-billion-this-year-as-spending-race-intensifies-ce7f5bd3d88ef425"
         },
         {
-            "title": "Motor vehicles, AI boost US manufacturing production; supply shortages from war loom",
-            "description": "[REUTERS] U.S. factory production posted its largest increase in 14 months in April, driven by motor vehicles and demand for technology goods amid an artificial intelligence spending boom, but supply...",
-            "url": "https://www.reuters.com/business/autos-transportation/us-manufacturing-output-accelerates-auto-production-april-2026-05-15/"
+            "title": "Who is Andrew Feldman? Stanford-raised entrepreneur who became AI billionaire after Cerebras IPO",
+            "description": "[THE FINANCIAL EXPRESS] Cerebras CEO Andrew Feldman joins the billionaire ranks after the AI chipmaker\u2019s record Nasdaq debut, fueled by soaring demand for advanced artificial intelligence processors.",
+            "url": "https://www.financialexpress.com/world-news/us-news/who-is-andrew-feldman-stanford-raised-entrepreneur-who-became-ai-billionaire-after-cerebras-ipo/4242208/"
+        },
+        {
+            "title": "Institutional investors boosted holdings of AI infrastructure plays during first quarter",
+            "description": "[MARKETSCREENER] Institutional investors were eager buyers of stocks in companies whose fate hinges on the rollout and adoption of artificial intelligence during the first quarter of 2026, according to a Reuters...",
+            "url": "https://www.marketscreener.com/news/institutional-investors-boosted-holdings-of-ai-infrastructure-plays-during-first-quarter-ce7f5bd3d88afe27"
+        },
+        {
+            "title": "Scientists find climate change is reducing oxygen in rivers worldwide",
+            "description": "[PITTSBURGH TRIBUNE-REVIEW] WASHINGTON \u2014 Global warming is causing rivers to slowly lose oxygen, threatening fish and other lives in the waterways, a new study shows. Researchers in China used satellites and artificial...",
+            "url": "https://triblive.com/news/world/scientists-find-climate-change-is-reducing-oxygen-in-rivers-worldwide/"
+        },
+        {
+            "title": "Hindustan Zinc to roll out AI-driven solutions across mining, manufacturing operations",
+            "description": "[THE ECONOMIC TIMES] Hindustan Zinc Limited is set to generate two thousand crore rupees in value. This will be achieved by implementing artificial intelligence solutions across its mining and manufacturing operations....",
+            "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/hindustan-zinc-to-roll-out-ai-driven-solutions-across-mining-manufacturing-operations/articleshow/131123502.cms"
+        },
+        {
+            "title": "AI chip bubble is now bigger than the Nasdaq during dot-com frenzy",
+            "description": "[CNBC] Historical parallels for the artificial intelligence bubble are in no short supply.",
+            "url": "https://www.cnbc.com/2026/05/15/ai-chip-bubble-is-now-bigger-than-the-nasdaq-during-dot-com-frenzy.html"
+        },
+        {
+            "title": "UK regulators warn firms to limit risks from frontier AI models",
+            "description": "[THE NEWS INTERNATIONAL] British regulators warn that firms should not rely on artificial intelligence blindly and should prepare to avoid potential risks. The UK's finance ministry, the Bank of England, and the Financial...",
+            "url": "https://www.thenews.com.pk/latest/1402687-uk-regulators-warn-firms-to-limit-risks-from-frontier-ai-models"
+        },
+        {
+            "title": "Scientists used AI and high-tech scans in Peru\u2019s Nazca Desert; the result was 303 hidden geoglyphs",
+            "description": "[TIMES OF INDIA] Rest of World News: Researchers have now used artificial intelligence to overcome the challenges faced by traditional human survey methods. The team from Yamagata Univers.",
+            "url": "https://timesofindia.indiatimes.com/world/rest-of-world/scientists-used-ai-and-high-tech-scans-in-perus-nazca-desert-the-result-was-303-hidden-geoglyphs/articleshow/131122660.cms"
+        },
+        {
+            "title": "Pope Leo XIV: Rise of AI-directed warfare leads to 'spiral of annihilation'",
+            "description": "[THE MANILA TIMES] ROME \u2014 Pope Leo XIV on Thursday denounced how investments in artificial intelligence (AI) and high-tech weaponry were leading the world into a \u201cspiral of annihilation,\u201d as he called for peace in the...",
+            "url": "https://www.manilatimes.net/2026/05/16/world/americas-emea/pope-leo-xiv-rise-of-ai-directed-warfare-leads-to-spiral-of-annihilation/2345020"
+        },
+        {
+            "title": "Artificial intelligence and the crisis of truth",
+            "description": "[THE MANILA TIMES] POPE Leo XIV\u2019s remarks to members of the board of the Vatican Observatory Foundation last May 11 addressed a growing concern shared by scientists, technologists and philosophers alike: modern...",
+            "url": "https://www.manilatimes.net/2026/05/16/business/science-technology/artificial-intelligence-and-the-crisis-of-truth/2345075"
         }
     ]
 }
