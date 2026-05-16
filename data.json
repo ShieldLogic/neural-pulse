@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-16 06:19:05 UTC",
+    "updated": "2026-05-16 09:26:54 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -22,9 +22,9 @@
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -32,9 +32,9 @@
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,24 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "AI Revenue May Jump Fivefold to $200 Billion This Year as Spending Race Intensifies",
-            "description": "[MARKETSCREENER] The world's largest artificial intelligence firms could earn $200 billion in revenue this year, more than five times the $37 billion they brought in last year, according to estimates from Menlo...",
-            "url": "https://www.marketscreener.com/news/ai-revenue-may-jump-fivefold-to-200-billion-this-year-as-spending-race-intensifies-ce7f5bd3d88ef425"
+            "title": "Proposed SC law would protect children from AI exploitation",
+            "description": "[CHARLESTON POST AND COURIER] Artificial intelligence can be used to generate realistic images in seconds, and predators no longer need physical access to a child to cause lasting harm.",
+            "url": "https://www.postandcourier.com/opinion/commentary/sc-proposed-law-ai-exploitation-protect-children/article_715590db-131e-44d4-9cd6-bf20cfb23778.html"
         },
         {
-            "title": "Who is Andrew Feldman? Stanford-raised entrepreneur who became AI billionaire after Cerebras IPO",
-            "description": "[THE FINANCIAL EXPRESS] Cerebras CEO Andrew Feldman joins the billionaire ranks after the AI chipmaker\u2019s record Nasdaq debut, fueled by soaring demand for advanced artificial intelligence processors.",
-            "url": "https://www.financialexpress.com/world-news/us-news/who-is-andrew-feldman-stanford-raised-entrepreneur-who-became-ai-billionaire-after-cerebras-ipo/4242208/"
+            "title": "Artificial intelligence and the future of jobs",
+            "description": "[THE STRAITS TIMES] Discover how artificial intelligence is reshaping jobs and explore strategies to adapt to the evolving future of work. Read more at straitstimes.com.",
+            "url": "https://www.straitstimes.com/tech/dont-let-the-ai-wave-leave-you-behind"
         },
         {
-            "title": "Institutional investors boosted holdings of AI infrastructure plays during first quarter",
-            "description": "[MARKETSCREENER] Institutional investors were eager buyers of stocks in companies whose fate hinges on the rollout and adoption of artificial intelligence during the first quarter of 2026, according to a Reuters...",
-            "url": "https://www.marketscreener.com/news/institutional-investors-boosted-holdings-of-ai-infrastructure-plays-during-first-quarter-ce7f5bd3d88afe27"
+            "title": "ArXiv will ban researchers who upload papers full of AI slop",
+            "description": "[THE VERGE] ArXiv will ban authors of papers that have \u201cincontrovertible evidence that the authors did not check the results of LLM generation\u201d for one year.",
+            "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers"
         },
         {
-            "title": "Scientists find climate change is reducing oxygen in rivers worldwide",
-            "description": "[PITTSBURGH TRIBUNE-REVIEW] WASHINGTON \u2014 Global warming is causing rivers to slowly lose oxygen, threatening fish and other lives in the waterways, a new study shows. Researchers in China used satellites and artificial...",
-            "url": "https://triblive.com/news/world/scientists-find-climate-change-is-reducing-oxygen-in-rivers-worldwide/"
+            "title": "The barista is human but an AI agent runs this experimental Swedish cafe",
+            "description": "[JAPAN TODAY] The coffee might be poured by a human hand, but behind the counter something far less traditional is calling the shots at an experimental cafe in Stockholm. San Francisco-based startup Andon Labs has...",
+            "url": "https://japantoday.com/category/tech/the-barista-is-human-but-an-ai-agent-runs-this-experimental-swedish-cafe"
         },
         {
-            "title": "Hindustan Zinc to roll out AI-driven solutions across mining, manufacturing operations",
-            "description": "[THE ECONOMIC TIMES] Hindustan Zinc Limited is set to generate two thousand crore rupees in value. This will be achieved by implementing artificial intelligence solutions across its mining and manufacturing operations....",
-            "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/hindustan-zinc-to-roll-out-ai-driven-solutions-across-mining-manufacturing-operations/articleshow/131123502.cms"
+            "title": "Chipmaker Kioxia expects April-June net profit to rise 47-fold on AI boom",
+            "description": "[JAPAN TODAY] Japanese chipmaker Kioxia Holdings Corp said Friday it expects its net profit for the April-June period to increase more than 47-fold from a year earlier to 869 billion yen ($5.7 billion) amid rising...",
+            "url": "https://japantoday.com/category/tech/update2-chipmaker-kioxia-expects-april-june-net-profit-to-rise-47-fold-amid-ai-boom"
         },
         {
-            "title": "AI chip bubble is now bigger than the Nasdaq during dot-com frenzy",
-            "description": "[CNBC] Historical parallels for the artificial intelligence bubble are in no short supply.",
-            "url": "https://www.cnbc.com/2026/05/15/ai-chip-bubble-is-now-bigger-than-the-nasdaq-during-dot-com-frenzy.html"
+            "title": "Quote of the day by Stephen Hawking: 'Success in creating AI would be the biggest event in human history. Unfortunately, it might also...' - lessons from the astrophysicist's warning on risks of artif",
+            "description": "[THE ECONOMIC TIMES] Quote of the day by Stephen Hawking: He warned that while creating artificial intelligence could be humanity's greatest achievement, it might also pose significant risks if not managed responsibly....",
+            "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-may-15-by-stephen-hawking-success-in-creating-ai-would-be-the-biggest-event-in-human-history-unfortunately-it-might-also-lessons-from-the-astrophysicists-warning-on-risks-of-artificial-intelligence-and-human-responsibility/articleshow/131127158.cms"
         },
         {
-            "title": "UK regulators warn firms to limit risks from frontier AI models",
-            "description": "[THE NEWS INTERNATIONAL] British regulators warn that firms should not rely on artificial intelligence blindly and should prepare to avoid potential risks. The UK's finance ministry, the Bank of England, and the Financial...",
-            "url": "https://www.thenews.com.pk/latest/1402687-uk-regulators-warn-firms-to-limit-risks-from-frontier-ai-models"
+            "title": "Why US earnings is good news for artificial intelligence ETFs: Expert",
+            "description": "[THE MOTLEY FOOL AUSTRALIA] A new report from Betashares has reinforced the growing case for targeted investment in artificial intelligence.",
+            "url": "https://www.fool.com.au/2026/05/16/why-us-earnings-is-good-news-for-artificial-intelligence-etfs-expert/"
         },
         {
-            "title": "Scientists used AI and high-tech scans in Peru\u2019s Nazca Desert; the result was 303 hidden geoglyphs",
-            "description": "[TIMES OF INDIA] Rest of World News: Researchers have now used artificial intelligence to overcome the challenges faced by traditional human survey methods. The team from Yamagata Univers.",
-            "url": "https://timesofindia.indiatimes.com/world/rest-of-world/scientists-used-ai-and-high-tech-scans-in-perus-nazca-desert-the-result-was-303-hidden-geoglyphs/articleshow/131122660.cms"
+            "title": "Trump-Xi Summit Leaves Nvidia's China Chip Deal Stuck in Limbo: Report",
+            "description": "[INTERNATIONAL BUSINESS TIMES] The fate of Nvidia's powerful H200 artificial intelligence chips in China remained unresolved Friday after Trump's visit to China ended without a breakthrough, according to a new report.",
+            "url": "https://www.ibtimes.com/trump-xi-summit-leaves-nvidias-china-chip-deal-stuck-limbo-report-3802881"
         },
         {
-            "title": "Pope Leo XIV: Rise of AI-directed warfare leads to 'spiral of annihilation'",
-            "description": "[THE MANILA TIMES] ROME \u2014 Pope Leo XIV on Thursday denounced how investments in artificial intelligence (AI) and high-tech weaponry were leading the world into a \u201cspiral of annihilation,\u201d as he called for peace in the...",
-            "url": "https://www.manilatimes.net/2026/05/16/world/americas-emea/pope-leo-xiv-rise-of-ai-directed-warfare-leads-to-spiral-of-annihilation/2345020"
+            "title": "US Is Starting to See Heavy Job Losses in Roles Exposed to AI",
+            "description": "[BLOOMBERG] Several US occupations expected to be impacted by artificial intelligence saw heavy job losses for a second year in 2025, led by customer service representatives and certain types of secretaries and...",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai"
         },
         {
-            "title": "Artificial intelligence and the crisis of truth",
-            "description": "[THE MANILA TIMES] POPE Leo XIV\u2019s remarks to members of the board of the Vatican Observatory Foundation last May 11 addressed a growing concern shared by scientists, technologists and philosophers alike: modern...",
-            "url": "https://www.manilatimes.net/2026/05/16/business/science-technology/artificial-intelligence-and-the-crisis-of-truth/2345075"
+            "title": "Wall Street and Main Street face off with Nvidia, consumer earnings",
+            "description": "[CNBC] Stocks have been ripping higher thanks to a revival in enthusiasm around artificial intelligence, but without much follow through in other parts of the market.",
+            "url": "https://www.cnbc.com/2026/05/15/whats-ahead-wall-street-and-main-street-face-off-with-nvidia-consumer-earnings.html"
         }
     ]
 }
