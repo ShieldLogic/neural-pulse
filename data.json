@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-17 16:54:13 UTC",
+    "updated": "2026-05-17 19:03:43 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,14 +12,19 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+        },
+        {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -27,9 +32,9 @@
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,29 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -75,6 +75,16 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "More than 100 drones on standby for wildfire season across Greece",
+            "description": "[PROTO THEMA] The Hellenic Fire Service and Civil Protection of Greece are deploying unmanned aerial vehicles equipped with thermal cameras and artificial intelligence for the immediate monitoring, detection, and...",
+            "url": "https://en.protothema.gr/2026/05/17/more-than-100-drones-on-standby-for-wildfire-season-across-greece/"
+        },
+        {
+            "title": "Modern technologies bringing revolutionary changes to healthcare systems: PA Speaker",
+            "description": "[THE NATION] LAHORE - Punjab Assembly Speaker Malik Muhammad Ahmad Khan has said that modern technologies such as artificial intelligence, telemedicine, genomic research,",
+            "url": "https://www.nation.com.pk/17-May-2026/modern-technologies-bringing-revolutionary-changes-healthcare-systems-pa-speaker"
         },
         {
             "title": "As electric bills rise, some states are focusing on the growing profits of utilities",
@@ -115,16 +125,6 @@
             "title": "Survey claims Americans don\u2019t want data centres that power AI near their homes but are \u2018okay\u2019 with \u2026",
             "description": "[TIMES OF INDIA] Tech News News: A Gallup survey found that most Americans oppose the construction of data centres powered by artificial intelligence near their homes, more than they .",
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/survey-claims-americans-dont-want-data-centres-that-power-ai-near-their-homes-but-are-okay-with-/articleshow/131145516.cms"
-        },
-        {
-            "title": "AI Will Create More Jobs, Not Destroy Them: Nvidia CEO Jensen Huang",
-            "description": "[TIMES NOW] The debate surrounding artificial intelligence often centres on fears of job loss and automation, but Nvidia CEO Jensen Huang argues that these concerns are overstated. , Technology & Science, Times...",
-            "url": "https://www.timesnownews.com/technology-science/ai-will-create-more-jobs-not-destroy-them-nvidia-ceo-jensen-huang-article-154333031"
-        },
-        {
-            "title": "From ChatGPT to deepfakes: Osceola schools confront AI challenges",
-            "description": "[AROUND OSCEOLA] The Osceola County School District is taking steps to keep up with the everchanging world of artificial intelligence. At a workshop last week, the School Board discussed the use and abuse of AI by...",
-            "url": "https://www.aroundosceola.com/index.php/news/chatgpt-deepfakes-osceola-schools-confront-ai-challenges"
         }
     ]
 }
