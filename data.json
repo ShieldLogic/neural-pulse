@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-18 19:44:33 UTC",
+    "updated": "2026-05-18 21:07:32 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,14 +12,19 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+        },
+        {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -27,9 +32,9 @@
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,29 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "The Mandalorian and Grogu's Jon Favreau has 'healthy concern' about AI in filmmaking",
-            "description": "[YARDBARKER] Jon Favreau has a \"healthy concern\" about artificial intelligence in filmmaking. The Mandalorian and Grogu director acknowledged that technical advances can be \"disruptive\", but he thinks people...",
-            "url": "https://www.yardbarker.com/entertainment/articles/the_mandalorian_and_grogus_jon_favreau_has_healthy_concern_about_ai_in_filmmaking/s1_17465_43855830"
+            "title": "Favreau has 'healthy concern' about AI in filmmaking",
+            "description": "[THE CANBERRA TIMES] The Mandalorian and Grogu director Jon Favreau thinks people should exercise caution when using artificial intelligence in filmmaking.",
+            "url": "https://www.canberratimes.com.au/story/9249128/favreau-has-healthy-concern-about-ai-in-filmmaking/"
         },
         {
-            "title": "\u2018American Leadership is Needed\u2019 on AI, \u2018Otherwise China\u2019s Gonna Lead the Way\u2019",
-            "description": "[BREITBART NEWS NETWORK] American leadership is needed on artificial intelligence (AI) to prevent China from taking the top position on that critical front, according to Build American AI executive director Nathan Leamer.",
-            "url": "https://www.breitbart.com/politics/2026/05/18/exclusive-build-american-ais-nathan-leamer-american-leadership-is-needed-on-ai-otherwise-chinas-gonna-lead-the-way/"
+            "title": "based trading amid growing cyber threats: Tuhin Kanta Pandey",
+            "description": "[THE TRIBUNE] Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey on Monday said the market regulator will soon come out with guidelines for AI-driven trading, while cautioning that...",
+            "url": "https://www.tribuneindia.com/news/business/sebi-working-on-framework-for-ai-based-trading-amid-growing-cyber-threats-tuhin-kanta-pandey/"
         },
         {
-            "title": "Anthropic says US must stay ahead of China as AGI nears in 2028",
-            "description": "[FIRSTPOST] AI company Anthropic has issued a stark warning about the global race for artificial intelligence, arguing that the United States must stay ahead of China as increasingly powerful systems approach....",
-            "url": "https://www.firstpost.com/tech/anthropic-says-us-must-stay-ahead-of-china-as-agi-nears-in-2028-14012366.html"
+            "title": "Samsung unveils AI-powered TV lineup with prices starting from RM6,399",
+            "description": "[THE STAR] Electronics giant Samsung unveiled its 2026 artificial intelligence (AI)-powered lineup of 4K smart TVs at a media event today (May 18).",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/18/samsung-unveils-ai-powered-tv-lineup-with-prices-starting-from-rm6399"
         },
         {
-            "title": "From reducing friction to building sovereign AI, India Innovation Day by TiE Delhi-NCR maps India\u2019s AI ambitions",
-            "description": "[ZEE NEWS] India is accelerating leadership in artificial intelligence, including the development of indigenous AI infrastructure, foundation and language models, and globally competitive AI-native companies....",
-            "url": "https://zeenews.india.com/india/from-reducing-friction-to-building-sovereign-ai-india-innovation-day-by-tie-delhi-ncr-maps-india-s-ai-ambitions-3048484.html"
+            "title": "State officials fight against spiking electricity bills",
+            "description": "[ARKANSAS ONLINE] HARRISBURG, Pa. -- The artificial intelligence boom is leading to fights in some states over growing utility profits, as governors, attorneys general and others protesting rising electricity bills...",
+            "url": "https://www.arkansasonline.com/news/2026/may/18/state-officials-fight-against-spiking-electricity/"
         },
         {
-            "title": "Ever LLM Advertising in India, South Asia & Southeast Asia Through Exclusive Thrad Network Partnership",
-            "description": "[THE TRIBUNE] Bangalore (Karnataka) [India], May 18: NeuGenM, the AI-native media and advertising platform, today announced the launch of LLM (Large Language Model) advertising across India, South Asia, and...",
-            "url": "https://www.tribuneindia.com/news/business/neugenm-launches-first-ever-llm-advertising-in-india-south-asia-southeast-asia-through-exclusive-thrad-network-partnership/"
+            "title": "Indian financial institutions see surge in Deepfake",
+            "description": "[LOKMAT TIMES] Indian financial institutions see surge in Deepfake-based fraud attempt: Report - New Delhi, May 18 Deepfake-enabled fraud, powered by artificial intelligence, is emerging as a new high\u2011impact attack...",
+            "url": "https://www.lokmattimes.com/business/indian-financial-institutions-see-surge-in-deepfake-based-fraud-attempt-report/"
         },
         {
-            "title": "Nvidia earnings in focus: Can the AI rally continue?",
-            "description": "[THE ECONOMIC TIMES] Nvidia has become the biggest symbol of the global artificial intelligence boom. Investors across the world are closely watching its quarterly earnings to understand whether AI-driven demand can...",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-earnings-in-focus-can-the-ai-rally-continue/slideshow/131167818.cms"
+            "title": "Indian financial institutions see surge in Deepfake",
+            "description": "[LOKMAT TIMES] Indian financial institutions see surge in Deepfake-based fraud attempt: Report - New Delhi, May 18 Deepfake-enabled fraud, powered by artificial intelligence, is emerging as a new high\u2011impact attack...",
+            "url": "https://www.lokmattimes.com/technology/indian-financial-institutions-see-surge-in-deepfake-based-fraud-attempt-report-1/"
         },
         {
-            "title": "Applications Closing Soon: Last Chance to Join India's Premier AI Institute for the 2026 Batch",
-            "description": "[THE TRIBUNE] Pune (Maharashtra) [India], May 18: With artificial intelligence rapidly reshaping industries, education choices are increasingly being guided by future employability and technological relevance. For...",
-            "url": "https://www.tribuneindia.com/news/business/applications-closing-soon-last-chance-to-join-indias-premier-ai-institute-for-the-2026-batch/"
+            "title": "Why AI Pilots Succeed, but Enterprise Deployments Fail: Two New Books from Venkat Chitturi Make the Case for Durable Product Engineering",
+            "description": "[THE TRIBUNE] Hyderabad (Telangana) [India], May 18: As enterprises accelerate investments in artificial intelligence, two newly released books by author and Technoidentity founder Venkat Chitturi, Durable Agents...",
+            "url": "https://www.tribuneindia.com/news/business/why-ai-pilots-succeed-but-enterprise-deployments-fail-two-new-books-from-venkat-chitturi-make-the-case-for-durable-product-engineering/"
         },
         {
-            "title": "Global markets this week: War, AI & rising economic risks",
-            "description": "[THE ECONOMIC TIMES] The Iran conflict is entering its 12th week with no visible resolution in sight. Rising oil prices, inflation worries and bond-market volatility are becoming major concerns for policymakers and...",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-this-week-war-ai-rising-economic-risks/slideshow/131167652.cms"
+            "title": "Chitkara University Hosts ICAN 2026 with Strong International Participation and Focus on AI",
+            "description": "[THE TRIBUNE] Chandigarh [India], May 18: Chitkara University successfully hosted the 6th International Conference on Artificial Intelligence-driven Computing, Analytics and Networks (ICAN 2026) on May 15 and 16,...",
+            "url": "https://www.tribuneindia.com/news/business/chitkara-university-hosts-ican-2026-with-strong-international-participation-and-focus-on-ai-led-research-and-innovation/"
         },
         {
-            "title": "America\u2019s business schools are dangling discounts to win back students as AI panic sets in",
-            "description": "[THE ECONOMIC TIMES] American business schools are slashing tuition fees and offering scholarships. This move comes as professionals reconsider the value of traditional MBA degrees due to artificial intelligence. Many...",
-            "url": "https://economictimes.indiatimes.com/nri/study/americas-business-schools-are-dangling-discounts-to-win-back-students-as-ai-panic-sets-in/articleshow/131167399.cms"
+            "title": "India must aim higher: cost optimization must not define the country\u2019s tryst with artificial intelligence",
+            "description": "[LIVEMINT] Indian firms have scant incentive to invest in foundational research for artificial intelligence (AI). But the cost of not doing so may be even higher. Indian firms should look beyond quarterly...",
+            "url": "https://www.livemint.com/opinion/online-views/india-artificial-intelligence-cost-optimization-ai-foundational-research-frontier-models-profits-11779021724652.html"
         },
         {
-            "title": "IIT Kanpur introduces 4 online M.Tech programs on AI, Machine Learning, Project Management and more",
-            "description": "[HINDUSTAN TIMES] IIT Kanpur has introduced 4 M.Tech programs on AI, Machine Learning, Project Management and more. Candidates can check the eligibility criteria here.",
-            "url": "https://www.hindustantimes.com/education/admissions/iit-kanpur-introduces-4-online-m-tech-programs-on-ai-machine-learning-project-management-and-more-101779081556021.html"
+            "title": "Reply: Stronger than ever, although trading at a rare discount",
+            "description": "[MARKETSCREENER] Much like its peers, the Italian IT consulting firm has faced market headwinds since the artificial intelligence juggernaut took center stage.",
+            "url": "https://www.marketscreener.com/news/reply-stronger-than-ever-although-trading-at-a-rare-discount-ce7f5adadb88f623"
         }
     ]
 }
