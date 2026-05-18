@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-18 21:07:32 UTC",
+    "updated": "2026-05-18 22:57:11 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,19 +12,14 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
-        },
-        {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -32,9 +27,9 @@
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,24 +42,29 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+        },
+        {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Favreau has 'healthy concern' about AI in filmmaking",
-            "description": "[THE CANBERRA TIMES] The Mandalorian and Grogu director Jon Favreau thinks people should exercise caution when using artificial intelligence in filmmaking.",
-            "url": "https://www.canberratimes.com.au/story/9249128/favreau-has-healthy-concern-about-ai-in-filmmaking/"
+            "title": "Pope Leo to Release Groundbreaking Encyclical 'Magnifica Humanitas'",
+            "description": "[DEVDISCOURSE] Pope Leo, the first U.S. pope, is set to release his first comprehensive encyclical titled 'Magnifica Humanitas' on May 25. The document will address the impact of artificial intelligence and the...",
+            "url": "https://www.devdiscourse.com/article/law-order/3912558-pope-leo-to-release-groundbreaking-encyclical-magnifica-humanitas"
         },
         {
-            "title": "based trading amid growing cyber threats: Tuhin Kanta Pandey",
-            "description": "[THE TRIBUNE] Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey on Monday said the market regulator will soon come out with guidelines for AI-driven trading, while cautioning that...",
-            "url": "https://www.tribuneindia.com/news/business/sebi-working-on-framework-for-ai-based-trading-amid-growing-cyber-threats-tuhin-kanta-pandey/"
+            "title": "NEET-UG paper leak case: parliamentary panel summons NTA Chief for review of exam reforms on Thursday",
+            "description": "[THE ECONOMIC TIMES] A Parliamentary panel is set to review the National Testing Agencys (NTA) reforms alongside the NEET-UG 2026 paper leak issue, with top education officials, including the NTA Chairperson, summoned...",
+            "url": "https://economictimes.indiatimes.com/news/india/neet-ug-paper-leak-case-parliamentary-panel-summons-nta-chief-for-review-of-exam-reforms-on-thursday/articleshow/131173872.cms"
         },
         {
-            "title": "Samsung unveils AI-powered TV lineup with prices starting from RM6,399",
-            "description": "[THE STAR] Electronics giant Samsung unveiled its 2026 artificial intelligence (AI)-powered lineup of 4K smart TVs at a media event today (May 18).",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/18/samsung-unveils-ai-powered-tv-lineup-with-prices-starting-from-rm6399"
+            "title": "Pope Leo XIV to launch his first encylical, a document on artificial intelligence, with Anthropic's co-founder",
+            "description": "[PBS NEWS] The presence of Anthropic's Christopher Olah at the Vatican is significant, and suggests that the U.S. pope's position on AI will become a new flashpoint with the Trump administration.",
+            "url": "https://www.pbs.org/newshour/world/pope-leo-xiv-to-launch-his-first-encylical-a-document-on-artificial-intelligence-with-anthropics-co-founder"
         },
         {
-            "title": "State officials fight against spiking electricity bills",
-            "description": "[ARKANSAS ONLINE] HARRISBURG, Pa. -- The artificial intelligence boom is leading to fights in some states over growing utility profits, as governors, attorneys general and others protesting rising electricity bills...",
-            "url": "https://www.arkansasonline.com/news/2026/may/18/state-officials-fight-against-spiking-electricity/"
+            "title": "AI Could Change Software Industry Forever, Says Anthropic CEO Dario Amodei",
+            "description": "[TIMES NOW] Dario Amodei, CEO of Anthropic, predicts that advancements in artificial intelligence could fundamentally alter the economics of the software industry. The conversation highlights the transformative...",
+            "url": "https://www.timesnownews.com/technology-science/ai-could-change-software-industry-forever-says-anthropic-ceo-dario-amodei-article-154343436"
         },
         {
-            "title": "Indian financial institutions see surge in Deepfake",
-            "description": "[LOKMAT TIMES] Indian financial institutions see surge in Deepfake-based fraud attempt: Report - New Delhi, May 18 Deepfake-enabled fraud, powered by artificial intelligence, is emerging as a new high\u2011impact attack...",
-            "url": "https://www.lokmattimes.com/business/indian-financial-institutions-see-surge-in-deepfake-based-fraud-attempt-report/"
+            "title": "India and Sweden Strengthen Strategic Partnership with Ambitious Roadmap",
+            "description": "[DEVDISCOURSE] India and Sweden have launched a roadmap aimed at enhancing ties in artificial intelligence, trade, and cultural exchanges. During Prime Minister Narendra Modi's visit, significant developments were...",
+            "url": "https://www.devdiscourse.com/article/politics/3912496-india-and-sweden-strengthen-strategic-partnership-with-ambitious-roadmap"
         },
         {
-            "title": "Indian financial institutions see surge in Deepfake",
-            "description": "[LOKMAT TIMES] Indian financial institutions see surge in Deepfake-based fraud attempt: Report - New Delhi, May 18 Deepfake-enabled fraud, powered by artificial intelligence, is emerging as a new high\u2011impact attack...",
-            "url": "https://www.lokmattimes.com/technology/indian-financial-institutions-see-surge-in-deepfake-based-fraud-attempt-report-1/"
+            "title": "Microsoft AI Chief Says White-Collar Jobs May Be Automated Soon",
+            "description": "[THE INDIAN EXPRESS] Microsoft AI chief Mustafa Suleyman has said artificial intelligence could automate most white-collar jobs within the next 12 to 18 months.",
+            "url": "https://indianexpress.com/article/trending/trending-globally/microsoft-ai-chief-mustafa-suleyman-warns-ai-could-replace-many-office-jobs-in-18-months-10695748/"
         },
         {
-            "title": "Why AI Pilots Succeed, but Enterprise Deployments Fail: Two New Books from Venkat Chitturi Make the Case for Durable Product Engineering",
-            "description": "[THE TRIBUNE] Hyderabad (Telangana) [India], May 18: As enterprises accelerate investments in artificial intelligence, two newly released books by author and Technoidentity founder Venkat Chitturi, Durable Agents...",
-            "url": "https://www.tribuneindia.com/news/business/why-ai-pilots-succeed-but-enterprise-deployments-fail-two-new-books-from-venkat-chitturi-make-the-case-for-durable-product-engineering/"
+            "title": "Nvidia CEO Jensen Huang Trashes Americans Who Believe We Shouldn't Sell AI Chips to China",
+            "description": "[BREITBART NEWS NETWORK] Nvidia CEO Jensen Huang has strongly criticized Americans who believe we shouldn't sell advanced artificial intelligence hardware to China, focusing especially on analogies comparing AI chips to...",
+            "url": "https://www.breitbart.com/tech/2026/05/18/stupid-nvidia-ceo-jensen-huang-trashes-americans-who-believe-we-shouldnt-sell-ai-chips-to-china/"
         },
         {
-            "title": "Chitkara University Hosts ICAN 2026 with Strong International Participation and Focus on AI",
-            "description": "[THE TRIBUNE] Chandigarh [India], May 18: Chitkara University successfully hosted the 6th International Conference on Artificial Intelligence-driven Computing, Analytics and Networks (ICAN 2026) on May 15 and 16,...",
-            "url": "https://www.tribuneindia.com/news/business/chitkara-university-hosts-ican-2026-with-strong-international-participation-and-focus-on-ai-led-research-and-innovation/"
+            "title": "AI has invaded the L.A. mayor's race. Some fear it's just the beginning",
+            "description": "[LOS ANGELES TIMES] Some see fan-generated election campaign videos as a harbinger of how artificial intelligence could reshape political messaging across the country.",
+            "url": "https://www.latimes.com/california/story/2026-05-18/ai-has-invaded-la-mayors-race-some-fear-its-just-beginning"
         },
         {
-            "title": "India must aim higher: cost optimization must not define the country\u2019s tryst with artificial intelligence",
-            "description": "[LIVEMINT] Indian firms have scant incentive to invest in foundational research for artificial intelligence (AI). But the cost of not doing so may be even higher. Indian firms should look beyond quarterly...",
-            "url": "https://www.livemint.com/opinion/online-views/india-artificial-intelligence-cost-optimization-ai-foundational-research-frontier-models-profits-11779021724652.html"
+            "title": "From AI Awareness to AI Leadership: The Outlook Tech Professionals Need in 2026",
+            "description": "[THE TRIBUNE] New Delhi [India], May 18: AI is no longer a niche capability. It is becoming a baseline expectation across roles, functions, and industries. If we look at today's highly competitive labor market, AI...",
+            "url": "https://www.tribuneindia.com/news/business/from-ai-awareness-to-ai-leadership-the-outlook-tech-professionals-need-in-2026/"
         },
         {
-            "title": "Reply: Stronger than ever, although trading at a rare discount",
-            "description": "[MARKETSCREENER] Much like its peers, the Italian IT consulting firm has faced market headwinds since the artificial intelligence juggernaut took center stage.",
-            "url": "https://www.marketscreener.com/news/reply-stronger-than-ever-although-trading-at-a-rare-discount-ce7f5adadb88f623"
+            "title": "How the industry that AI supposedly 'killed' has not stopped American companies from hiring abroad, and why it is only growing",
+            "description": "[TIMES OF INDIA] Tech News News: Artificial intelligence was expected to heavily disrupt customer service and call center jobs, especially overseas support roles handled for American .",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-the-industry-that-ai-supposedly-killed-has-not-stopped-american-companies-from-hiring-abroad-and-why-it-is-only-growing/articleshow/131172554.cms"
         }
     ]
 }
