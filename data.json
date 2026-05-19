@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-19 07:41:37 UTC",
+    "updated": "2026-05-19 10:58:39 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,14 +12,19 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+        },
+        {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles",
@@ -27,9 +32,9 @@
             "url": "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
         },
         {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,29 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Federal court rejects Elon Musk's claims against OpenAI, saying he filed his lawsuit too late",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] A federal court on Monday dismissed claims filed against OpenAI and its top executives by Elon Musk, who accused them of betraying a shared vision for it to remain a nonprofit dedicated to guiding...",
-            "url": "https://www.ajc.com/news/2026/05/federal-court-rejects-elon-musks-claims-against-openai-saying-he-filed-his-lawsuit-too-late/"
+            "title": "Jury throws out Musk's lawsuit against OpenAI and Sam Altman",
+            "description": "[PBS NEWS] A federal judge in California dismissed a lawsuit from Elon Musk against the maker of ChatGPT after a jury found that he exceeded the statute of limitations. Musk had claimed that OpenAI betrayed its...",
+            "url": "https://www.pbs.org/newshour/show/jury-throws-out-musks-lawsuit-against-openai-and-sam-altman"
         },
         {
-            "title": "Nvidia\u2019s CEO Says China Will Open Its Market to AI Chips From US",
-            "description": "[BLOOMBERG] Nvidia Corp. Chief Executive Officer Jensen Huang, speaking days after he joined President Donald Trump\u2019s summit in China, said he expects Chinese authorities will eventually allow the import of...",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-18/nvidia-s-ceo-says-china-will-open-its-market-to-ai-chips-from-us"
+            "title": "After Elon Musk\u2019s Court Loss Comes the Long Hot A.I. Summer",
+            "description": "[THE NEW YORK TIMES] Even as protests increase, the collapse of Mr. Musk\u2019s suit against OpenAI and Sam Altman will speed up the artificial intelligence juggernaut.",
+            "url": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html"
         },
         {
-            "title": "What to Know About Elon Musk\u2019s Trial Against OpenAI",
-            "description": "[THE NEW YORK TIMES] A jury in Oakland, Calif., reached a decision after a three-week long trial seen as pivotal for the future of OpenAI and the artificial intelligence race.",
-            "url": "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html"
+            "title": "New Mexico using AI to implement Medicaid work requirements under federal law",
+            "description": "[ALBUQUERQUE JOURNAL] New Mexico is one of only six states already using artificial intelligence to process Medicaid work requirement documentation ahead of the Jan. 1, 2027, federal deadline. State officials say AI will...",
+            "url": "https://www.abqjournal.com/news/nm-one-of-handful-of-states-using-ai-to-implement-new-federal-medicaid-work-requirements/3045224"
         },
         {
-            "title": "Data centre investment boom could end like dotcom bubble",
-            "description": "[AUSTRALIAN FINANCIAL REVIEW] I\u2019ll let you into a dirty secret. Artificial intelligence doesn\u2019t require millions of GPUs in thousands of data centres.",
-            "url": "https://www.afr.com/technology/data-centre-investment-boom-could-end-like-dotcom-bubble-20260517-p5zxwr"
+            "title": "Dover Unit to Debut RF, AI-Enabled Defense Products",
+            "description": "[MARKETSCREENER] Dover's Microwave Products Group unit said late Monday it will introduce three new radio frequency and artificial intelligence-enabled products for aerospace and defense customers at the AOC...",
+            "url": "https://www.marketscreener.com/news/dover-unit-to-debut-rf-ai-enabled-defense-products-ce7f5adbd98bf42d"
         },
         {
-            "title": "AI avatar doctor reduces stress for cancer patients before consultations",
-            "description": "[NEWS-MEDICAL.NET] Cancer patients who interact with an artificial intelligence (AI) avatar doctor before they meet their real-life consultant feel more knowledgeable and less stressed, according to research presented...",
-            "url": "https://www.news-medical.net/news/20260518/AI-avatar-doctor-reduces-stress-for-cancer-patients-before-consultations.aspx"
+            "title": "Speakers learn the hard way class of 2026 doesn't want to be lectured on embracing AI",
+            "description": "[BALTIMORE NEWS] For better or worse, artificial intelligence is poised to revolutionize our lives, and even an AI chatbot will say young people aren't thrilled about this.",
+            "url": "https://foxbaltimore.com/news/nation-world/speakers-learn-the-hard-way-class-of-2026-doesnt-want-to-be-lectured-on-embracing-ai-gen-z-university"
         },
         {
-            "title": "Federal court rejects Elon Musk's claims against Open AI, saying he filed his lawsuit too late",
-            "description": "[THE MANILA TIMES] OAKLAND, California \u2014 A federal court on Monday dismissed claims filed against OpenAI and its top executives by Elon Musk, who accused them of betraying a shared vision for it to remain a nonprofit...",
-            "url": "https://www.manilatimes.net/2026/05/19/news/world/federal-court-rejects-elon-musks-claims-against-open-ai-saying-he-filed-his-lawsuit-too-late/2346577"
+            "title": "Speakers learn the hard way class of 2026 doesn't want to be lectured on embracing AI",
+            "description": "[WJLA] For better or worse, artificial intelligence is poised to revolutionize our lives, and even an AI chatbot will say young people aren't thrilled about this.",
+            "url": "https://wjla.com/news/nation-world/speakers-learn-the-hard-way-class-of-2026-doesnt-want-to-be-lectured-on-embracing-ai-gen-z-university"
         },
         {
-            "title": "Federal court rejects Elon Musk's claims against OpenAI, saying he filed his lawsuit too late",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] A federal court on Monday dismissed claims filed against OpenAI and its top executives by Elon Musk, who accused them of betraying a shared vision for it to remain a nonprofit dedicated to guiding...",
-            "url": "https://www.ajc.com/news/2026/05/jury-rules-against-elon-musk-in-his-feud-with-openai-saying-he-filed-his-lawsuit-too-late/"
+            "title": "Tech Down as AI Euphoria Wanes -- Tech Roundup",
+            "description": "[MARKETSCREENER] Shares of technology companies slipped as artificial-intelligence euphoria waned. Nvidia shares slipped ahead of the AI bellwether's earnings report later in the week. With a market capitalization......",
+            "url": "https://www.marketscreener.com/news/tech-down-as-ai-euphoria-wanes-tech-roundup-ce7f5adbd988f22d"
         },
         {
-            "title": "Federal court rejects Elon Musk\u2019s claims against OpenAI, saying he filed his lawsuit too late",
-            "description": "[WTOP] A federal court on Monday dismissed claims filed against OpenAI and its top executives by Elon Musk, who accused them of betraying a shared vision for it to guide artificial intelligence\u2019s...",
-            "url": "https://wtop.com/national/2026/05/federal-jury-sides-with-openai-in-feud-with-elon-musk/"
+            "title": "Pope and co-founder of Anthropic to launch pontiff's AI encyclical on May 25",
+            "description": "[WJLA] Pope Leo XIV and the co-founder of artificial intelligence company Anthropic will launch the pontiff\u2019s first encyclical on May 25, a document on the care of hum",
+            "url": "https://wjla.com/news/nation-world/pope-and-co-founder-of-anthropic-to-launch-pontiffs-ai-encyclical-on-may-25-05-18-2026"
         },
         {
-            "title": "Federal court rejects Elon Musk's claims against OpenAI, saying he filed his lawsuit too late",
-            "description": "[BARCHART] A federal court on Monday dismissed claims filed against OpenAI and its top executives by Elon Musk, who accused them of betraying a shared vision for it to remain a nonprofit dedicated to guiding...",
-            "url": "https://www.barchart.com/story/news/1999006/federal-court-rejects-elon-musk-s-claims-against-openai-saying-he-filed-his-lawsuit-too-late"
+            "title": "Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman",
+            "description": "[THE NEW YORK TIMES] A nine-member jury found that Mr. Musk had waited too long to sue. The setback for the tech mogul frees OpenAI to continue in the artificial intelligence race.",
+            "url": "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html"
         },
         {
-            "title": "Jury rules against Elon Musk",
-            "description": "[BNN BLOOMBERG] A U.S. jury on Monday ruled against Elon Musk in his lawsuit against OpenAI, finding the artificial intelligence company not liable to the world\u2019s richest person for having allegedly strayed from its...",
-            "url": "https://www.bnnbloomberg.ca/business/company-news/2026/05/18/jury-rules-against-elon-musk-in-openai-lawsuit/"
+            "title": "AI Triggers Controversial Commencement Season",
+            "description": "[U.S. NEWS & WORLD REPORT] The mere mention of artificial intelligence or some other hot-button topics has led students to jeer speakers at graduation ceremonies across the country.",
+            "url": "https://www.usnews.com/news/national-news/articles/2026-05-18/ai-dei-the-middle-east-controversial-commencement-season-sees-students-rain-boos-on-speakers"
         }
     ]
 }
