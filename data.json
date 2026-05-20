@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-20 02:51:39 UTC",
+    "updated": "2026-05-20 07:39:48 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,19 +12,9 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "5 Techniques for Efficient Long-Context RAG",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
-        },
-        {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
-        },
-        {
-            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
-            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
@@ -32,9 +22,14 @@
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Python Decorators for Production Machine Learning Engineering",
-            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
-            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+        },
+        {
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,24 +42,29 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
-            "title": "Getting Started with Zero-Shot Text Classification",
-            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
-            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
-        },
-        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "The Complete Guide to Inference Caching in LLMs",
-            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
-            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+        },
+        {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "College Kids Don\u2019t Want Your AI",
-            "description": "[BLOOMBERG] The unique threat artificial intelligence poses to students\u2019 education and their hopes of someday landing a job has made the university a powerful crucible for anti-AI resistance.",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-19/ai-on-college-campuses-sparks-pushback-protests-booing-at-graduation"
+            "title": "Prime Ministers' Museum to launch interactive AI avatar of Mahatma Gandhi",
+            "description": "[THEPRINT] New Delhi, May 19 (PTI) Starting May 20, visitors to the Pradhanmantri Sanghralaya (Prime Ministers\u2019 Museum) in Delhi will be able to interact with an artificial intelligence-powered...",
+            "url": "https://theprint.in/india/prime-ministers-museum-to-launch-interactive-ai-avatar-of-mahatma-gandhi/2935930/"
         },
         {
-            "title": "Michael Burry\u2019s AI crash warning grows louder: Is Nvidia-driven hype and record venture capital funding pushing Wall Street toward another dot-com disaster?",
-            "description": "[THE ECONOMIC TIMES] Michael Burrys AI bubble warning is shaking Wall Street after fresh data showed 87% of venture capital funding now flows into artificial intelligence companies. The \u201cBig Short\u201d investor compared...",
-            "url": "https://economictimes.indiatimes.com/news/international/us/michael-burrys-ai-crash-warning-grows-louder-is-nvidia-driven-hype-and-record-venture-capital-funding-pushing-wall-street-toward-another-dot-com-disaster/articleshow/131203870.cms"
+            "title": "Google Announces Slew of AI Advances, Including a Personal AI Assistant Coming Soon",
+            "description": "[U.S. NEWS & WORLD REPORT] Google will soon unleash a wealth of new artificial intelligence-powered tools and systems, including an AI assistant that will help users by proactively performing tasks on their behalf.",
+            "url": "https://www.usnews.com/news/business/articles/2026-05-19/google-announces-slew-of-ai-advances-including-a-personal-ai-assistant-coming-soon"
         },
         {
-            "title": "Workday scales up presence in India to accelerate AI push",
-            "description": "[MARKETSCREENER] Workday plans to rapidly expand its Indian workforce to support growing investments in artificial intelligence and the opening of new offices across the country. The US-based HR and enterprise...",
-            "url": "https://www.marketscreener.com/news/workday-scales-up-presence-in-india-to-accelerate-ai-push-ce7f5adbd08bf626"
+            "title": "Anthropic hires OpenAI co-founder Andrej Karpathy",
+            "description": "[NEW YORK POST] Andrej Karpathy, an OpenAI co-founder and former director of AI at Elon Musk\u2019s Tesla, has joined Anthropic \u2013 adding to the artificial intelligence startup\u2019s surging momentum.",
+            "url": "https://nypost.com/2026/05/19/business/anthropic-hires-openai-co-founder-andrej-karpathy/"
         },
         {
-            "title": "China Wants A.I. to Flourish, but Not at the Expense of Jobs",
-            "description": "[THE NEW YORK TIMES] A series of precedent-setting rulings signals that Chinese courts are being enlisted to shield workers from displacement by artificial intelligence.",
-            "url": "https://www.nytimes.com/2026/05/19/business/china-ai-unemployment.html"
+            "title": "AI-driven cyberattacks now exceed ID theft, Verizon says",
+            "description": "[MARKETSCREENER] Security breaches exploited via artificial intelligence became the leading cause of data violations last year, overtaking ID theft, according to Verizon's annual cybersecurity report. The US...",
+            "url": "https://www.marketscreener.com/news/ai-driven-cyberattacks-now-exceed-id-theft-verizon-says-ce7f5ad8d880f023"
         },
         {
-            "title": "Microsoft bolsters India footprint with massive AI data center project",
-            "description": "[MARKETSCREENER] Microsoft plans to commission its largest data center in India by mid-2026 to meet surging demand for its artificial intelligence services. Puneet Chandok, President of Microsoft India & South...",
-            "url": "https://www.marketscreener.com/news/microsoft-bolsters-india-footprint-with-massive-ai-data-center-project-ce7f5adbd181f327"
+            "title": "Google I/O 2026: Watch Major announcements and updates live",
+            "description": "[THE NEWS INTERNATIONAL] Google I/O 2026 featured a comprehensive pivot toward agentic artificial intelligence. The latest update informs that Google I/O 2026 has officially kicked off today at 10AM PT / 1PM ET. During the...",
+            "url": "https://www.thenews.com.pk/latest/1403115-google-io-2026-major-announcements-and-updates"
         },
         {
-            "title": "Michael Burry adds to beaten-down stocks while warning of echoes of dot-com bubble",
-            "description": "[CNBC] The latest moves come as Burry has grown increasingly vocal about what he sees as speculative excesses tied to artificial intelligence.",
-            "url": "https://www.cnbc.com/2026/05/19/michael-burry-adds-to-beaten-down-stocks-while-warning-of-echoes-of-dot-com-bubble.html"
+            "title": "Harsh Singhal Built the AI Systems That Kept Millions of Users Safe Online. Now He Is Doing the Same for Enterprises",
+            "description": "[INTERNATIONAL BUSINESS TIMES] Singhal currently works as a Software Engineer at Glean, the enterprise AI company, where his focus is on data security, AI governance, and applying machine learning to the challenge of making",
+            "url": "https://www.ibtimes.com/harsh-singhal-built-ai-systems-that-kept-millions-users-safe-online-now-he-doing-same-3803056"
         },
         {
-            "title": "Palantir Faces a Bigger Threat Than Valuation: AI Labs Like Anthropic and OpenAI Are Disrupting the PLTR Stock Story",
-            "description": "[BARCHART] Palantir's artificial intelligence platform relies on foundational models like those from Anthropic and OpenAI, raising questions about who deserves a better valuation.",
-            "url": "https://www.barchart.com/story/news/2017534/palantir-faces-a-bigger-threat-than-valuation-ai-labs-like-anthropic-and-openai-are-disrupting-the-pltr-stock-story"
+            "title": "Anthropic Just Landed One Of AI's Biggest Names",
+            "description": "[BENZINGA] Anthropic hires OpenAI co-founder and former director of artificial intelligence and Autopilot Vision at Tesla, Andrej Karpathy.",
+            "url": "https://www.benzinga.com/markets/private-markets/26/05/52673816/anthropic-just-landed-one-of-ais-biggest-names"
         },
         {
-            "title": "Building Strong Digital Businesses In The Age Of The LLM",
-            "description": "[FORBES] Brands waiting for search intent signals may already be missing significant opportunities to influence purchase decisions.",
-            "url": "https://www.forbes.com/sites/garydrenik/2026/05/19/building-strong-digital-businesses-in-the-age-of-the-llm/"
+            "title": "Google I/O 2026: Google unveils Gemini 3.5 Flash and Antigravity 2.0 at major AI showcase",
+            "description": "[THE FINANCIAL EXPRESS] At Google I/O 2026, the company unveiled Gemini 3.5 Flash and Antigravity 2.0 as part of its latest AI showcase, highlighting major advancements across its artificial intelligence ecosystem.",
+            "url": "https://www.financialexpress.com/life/technology-google-io-2026-google-unveils-gemini-3-5-flash-and-antigravity-20-at-major-ai-showcase-4245321/"
         },
         {
-            "title": "Global AI spending expected to surge 47 pc to $2.59 trillion in 2026",
-            "description": "[LOKMAT TIMES] Global AI spending expected to surge 47 pc to $2.59 trillion in 2026 - New Delhi, May 19 Worldwide spending on artificial intelligence is projected to jump 47 per cent year-on-year to ... Get Latest...",
-            "url": "https://www.lokmattimes.com/business/global-ai-spending-expected-to-surge-47-pc-to-259-trillion-in-2026/"
+            "title": "Elon Musk vs Sam Altman: AI control, not courtroom clash, is the bigger battle",
+            "description": "[THE ECONOMIC TIMES] Elon Musklosing his case againstSam Altmanreignites debate over AI governance, safety and whether institutions can keep pace with rapid advances in artificial intelligence.",
+            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/elon-musk-vs-sam-altman-ai-control-not-courtroom-clash-is-the-bigger-battle/articleshow/131209291.cms"
         },
         {
-            "title": "Global AI spending expected to surge 47 pc to $2.59 trillion in 2026",
-            "description": "[LOKMAT TIMES] Global AI spending expected to surge 47 pc to $2.59 trillion in 2026 - New Delhi, May 19 Worldwide spending on artificial intelligence is projected to jump 47 per cent year-on-year to ... Get Latest...",
-            "url": "https://www.lokmattimes.com/technology/global-ai-spending-expected-to-surge-47-pc-to-259-trillion-in-2026-1/"
+            "title": "Gemini Spark can manage your Gmail, make purchases, more",
+            "description": "[GB NEWS] Gemini Spark is a brand-new Artificial Intelligence (AI) tool from Google that wants to be your personal assistant",
+            "url": "https://www.gbnews.com/tech/gemini-spark-release-date-features"
         }
     ]
 }
