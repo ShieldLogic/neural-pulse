@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-19 22:59:54 UTC",
+    "updated": "2026-05-20 02:51:39 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,9 +12,19 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
+            "title": "5 Techniques for Efficient Long-Context RAG",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/"
+        },
+        {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+        },
+        {
+            "title": "AI Agent Memory Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] A stateless AI agent has no memory of previous calls.",
+            "url": "https://machinelearningmastery.com/ai-agent-memory-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
@@ -22,14 +32,9 @@
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
+            "title": "Python Decorators for Production Machine Learning Engineering",
+            "description": "[MACHINELEARNINGMASTERY] You've probably written a decorator or two in your Python career.",
+            "url": "https://machinelearningmastery.com/python-decorators-for-production-machine-learning-engineering/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -42,29 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
         },
         {
+            "title": "Getting Started with Zero-Shot Text Classification",
+            "description": "[MACHINELEARNINGMASTERY] Zero-shot text classification is a way to label text without first training a classifier on your own task-specific dataset.",
+            "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/"
+        },
+        {
             "title": "Gradient-based Planning for World Models at Longer Horizons",
             "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+            "title": "The Complete Guide to Inference Caching in LLMs",
+            "description": "[MACHINELEARNINGMASTERY] Calling a large language model API at scale is expensive and slow.",
+            "url": "https://machinelearningmastery.com/the-complete-guide-to-inference-caching-in-llms/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "AI still falls short on programming language design, Bjarne Stroustrup says",
-            "description": "[THE NEWS INTERNATIONAL] In the realm of coding, artificial intelligence has reclaimed the authority. But there are some domains where cutting-edge AI tools are falling short of excellence. Bjarne Stroustrup, the creator...",
-            "url": "https://www.thenews.com.pk/latest/1403074-ai-still-falls-short-on-programming-language-design-bjarne-stroustrup-says"
+            "title": "College Kids Don\u2019t Want Your AI",
+            "description": "[BLOOMBERG] The unique threat artificial intelligence poses to students\u2019 education and their hopes of someday landing a job has made the university a powerful crucible for anti-AI resistance.",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-19/ai-on-college-campuses-sparks-pushback-protests-booing-at-graduation"
         },
         {
-            "title": "New Government Data Shows Which Jobs Are Starting To Disappear Due To AI",
-            "description": "[UBERGIZMO] Recent data from the Bureau of Labor Statistics (BLS) indicates that American occupations with high exposure to artificial intelligence are beginning...",
-            "url": "https://www.ubergizmo.com/2026/05/which-jobs-dissapear-due-to-ai/"
+            "title": "Michael Burry\u2019s AI crash warning grows louder: Is Nvidia-driven hype and record venture capital funding pushing Wall Street toward another dot-com disaster?",
+            "description": "[THE ECONOMIC TIMES] Michael Burrys AI bubble warning is shaking Wall Street after fresh data showed 87% of venture capital funding now flows into artificial intelligence companies. The \u201cBig Short\u201d investor compared...",
+            "url": "https://economictimes.indiatimes.com/news/international/us/michael-burrys-ai-crash-warning-grows-louder-is-nvidia-driven-hype-and-record-venture-capital-funding-pushing-wall-street-toward-another-dot-com-disaster/articleshow/131203870.cms"
         },
         {
-            "title": "Standard Chartered to cut more than 7,000 jobs as AI use accelerates: What you need to know",
-            "description": "[THE NEWS INTERNATIONAL] Standard Chartered released a major update to cut more than 7,000 jobs over the next four years, as it increasingly uses artificial intelligence. One of the prominent global banks has laid out...",
-            "url": "https://www.thenews.com.pk/latest/1403072-standard-chartered-to-cut-more-than-7000-jobs-as-ai-use-accelerates-what-you-need-to-know"
+            "title": "Workday scales up presence in India to accelerate AI push",
+            "description": "[MARKETSCREENER] Workday plans to rapidly expand its Indian workforce to support growing investments in artificial intelligence and the opening of new offices across the country. The US-based HR and enterprise...",
+            "url": "https://www.marketscreener.com/news/workday-scales-up-presence-in-india-to-accelerate-ai-push-ce7f5adbd08bf626"
         },
         {
-            "title": "India leads global workplace AI adoption with 41 pc daily users: Report",
-            "description": "[LOKMAT TIMES] India leads global workplace AI adoption with 41 pc daily users: Report - New Delhi, May 19 India emerged as a global leader in artificial intelligence adoption, with 41 per cent ... Get Latest News...",
-            "url": "https://www.lokmattimes.com/technology/india-leads-global-workplace-ai-adoption-with-41-pc-daily-users-report-1/"
+            "title": "China Wants A.I. to Flourish, but Not at the Expense of Jobs",
+            "description": "[THE NEW YORK TIMES] A series of precedent-setting rulings signals that Chinese courts are being enlisted to shield workers from displacement by artificial intelligence.",
+            "url": "https://www.nytimes.com/2026/05/19/business/china-ai-unemployment.html"
         },
         {
-            "title": "India leads global workplace AI adoption with 41 pc daily users: Report",
-            "description": "[LOKMAT TIMES] India leads global workplace AI adoption with 41 pc daily users: Report - New Delhi, May 19 India emerged as a global leader in artificial intelligence adoption, with 41 per cent ... Get Latest News...",
-            "url": "https://www.lokmattimes.com/business/india-leads-global-workplace-ai-adoption-with-41-pc-daily-users-report/"
+            "title": "Microsoft bolsters India footprint with massive AI data center project",
+            "description": "[MARKETSCREENER] Microsoft plans to commission its largest data center in India by mid-2026 to meet surging demand for its artificial intelligence services. Puneet Chandok, President of Microsoft India & South...",
+            "url": "https://www.marketscreener.com/news/microsoft-bolsters-india-footprint-with-massive-ai-data-center-project-ce7f5adbd181f327"
         },
         {
-            "title": "Workday to keep expanding Indian workforce, deepen AI investments, executive says",
-            "description": "[MARKETSCREENER] Workday would sustain the pace of workforce expansion in India, a top executive said on Tuesday, as the human resources and enterprise software maker deepens investments in artificial intelligence...",
-            "url": "https://www.marketscreener.com/news/workday-to-keep-expanding-indian-workforce-deepen-ai-investments-executive-says-ce7f5adbdc8ff72d"
+            "title": "Michael Burry adds to beaten-down stocks while warning of echoes of dot-com bubble",
+            "description": "[CNBC] The latest moves come as Burry has grown increasingly vocal about what he sees as speculative excesses tied to artificial intelligence.",
+            "url": "https://www.cnbc.com/2026/05/19/michael-burry-adds-to-beaten-down-stocks-while-warning-of-echoes-of-dot-com-bubble.html"
         },
         {
-            "title": "OpenAI avoided a costly court loss to Elon Musk, but neither side is unscathed",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Elon Musk lost his case against OpenAI and its top executives in a high-stakes trial that pitted billionaire against billionaires. But neither side emerged as too sympathetic. Americans\u2019 opinion...",
-            "url": "https://www.ajc.com/news/2026/05/openai-avoided-a-costly-court-loss-to-elon-musk-but-neither-side-is-unscathed/"
+            "title": "Palantir Faces a Bigger Threat Than Valuation: AI Labs Like Anthropic and OpenAI Are Disrupting the PLTR Stock Story",
+            "description": "[BARCHART] Palantir's artificial intelligence platform relies on foundational models like those from Anthropic and OpenAI, raising questions about who deserves a better valuation.",
+            "url": "https://www.barchart.com/story/news/2017534/palantir-faces-a-bigger-threat-than-valuation-ai-labs-like-anthropic-and-openai-are-disrupting-the-pltr-stock-story"
         },
         {
-            "title": "AI boom to spark $154 billion optical networking opportunity: Goldman Sachs",
-            "description": "[THE HINDU BUSINESS LINE] Optical networking is emerging as the next major trend in artificial intelligence (AI) infrastructure as growing AI computing demand drives the need for faster data exchange, lower latency and larger...",
-            "url": "https://www.thehindubusinessline.com/info-tech/ai-boom-to-spark-154-billion-optical-networking-opportunity-goldman-sachs/article70997282.ece"
+            "title": "Building Strong Digital Businesses In The Age Of The LLM",
+            "description": "[FORBES] Brands waiting for search intent signals may already be missing significant opportunities to influence purchase decisions.",
+            "url": "https://www.forbes.com/sites/garydrenik/2026/05/19/building-strong-digital-businesses-in-the-age-of-the-llm/"
         },
         {
-            "title": "French AI startup Mistral CEO Arthur Mensch gives Europe two years to 'fight' American companies; says: Once supply is monopolised by Americans, you will ...",
-            "description": "[TIMES OF INDIA] Tech News News: Mistral co-founder Arthur Mensch has a major US technology dependency warning for Europe. The CEO of the French artificial intelligence (AI) startup h.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/french-ai-startup-mistral-ceo-arthur-mensch-gives-europe-two-years-to-fight-american-companies-says-once-supply-is-monopolised-by-americans-you-will-/articleshow/131197765.cms"
+            "title": "Global AI spending expected to surge 47 pc to $2.59 trillion in 2026",
+            "description": "[LOKMAT TIMES] Global AI spending expected to surge 47 pc to $2.59 trillion in 2026 - New Delhi, May 19 Worldwide spending on artificial intelligence is projected to jump 47 per cent year-on-year to ... Get Latest...",
+            "url": "https://www.lokmattimes.com/business/global-ai-spending-expected-to-surge-47-pc-to-259-trillion-in-2026/"
         },
         {
-            "title": "Britons could face huge fines to fund AI cameras as certain drivers 'deserve a much higher penalty'",
-            "description": "[GB NEWS] Experts have called for stronger punishments from new artificial intelligence speed cameras to be handed to motorists in a bid to deter dangerous driving across the UK",
-            "url": "https://www.gbnews.com/lifestyle/cars/britons-fines-ai-road-cameras-higher-penalty"
+            "title": "Global AI spending expected to surge 47 pc to $2.59 trillion in 2026",
+            "description": "[LOKMAT TIMES] Global AI spending expected to surge 47 pc to $2.59 trillion in 2026 - New Delhi, May 19 Worldwide spending on artificial intelligence is projected to jump 47 per cent year-on-year to ... Get Latest...",
+            "url": "https://www.lokmattimes.com/technology/global-ai-spending-expected-to-surge-47-pc-to-259-trillion-in-2026-1/"
         }
     ]
 }
