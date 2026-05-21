@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-21 17:53:41 UTC",
+    "updated": "2026-05-21 19:48:39 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,19 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -32,14 +27,14 @@
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Prompt Engineering for Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
+            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
         },
         {
-            "title": "Effective KV Compression with TurboQuant",
-            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
-            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -57,9 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
+            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
+            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
+        },
+        {
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,6 +77,46 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
+            "title": "After Kerala, Tamil Nadu also gets dedicated Ministry for Artificial Intelligence",
+            "description": "[MONEYCONTROL] According to the latest list of the Council of Ministers, R Kumar has been assigned the portfolio of Minister for Artificial Intelligence, Information Technology & Digital Services.",
+            "url": "https://www.moneycontrol.com/news/india/after-kerala-tamil-nadu-also-gets-dedicated-ministry-for-artificial-intelligence-13926357.html"
+        },
+        {
+            "title": "Audiencerate: Riccardo Fabbri Joins as Chief Technology Officer. The AI-Driven Phase of the Platforms for SMEs and Media Agencies Begins",
+            "description": "[THE MANILA TIMES] The co-founder and former managing partner of Nohup (acquired by Havas Group in 2021) will lead the development of the artificial intelligence infrastructure that integrates first-party and...",
+            "url": "https://www.manilatimes.net/2026/05/21/tmt-newswire/globenewswire/audiencerate-riccardo-fabbri-joins-as-chief-technology-officer-the-ai-driven-phase-of-the-platforms-for-smes-and-media-agencies-begins/2348885"
+        },
+        {
+            "title": "Cancer treatment has a new frontier. AI is predicting drug cocktails",
+            "description": "[THEPRINT] A study published in Nature Communications in April explored whether machine learning models could predict the most effective drug combinations for pancreatic cancer \u2014 one of the deadliest and...",
+            "url": "https://theprint.in/science/cancer-treatment-artificial-intelligence-predicting-better-drug-cocktails/2936451/"
+        },
+        {
+            "title": "HSBC CEO Georges Elhedery to employees: AI will destroy some jobs, stop fighting with us and be ...",
+            "description": "[TIMES OF INDIA] Tech News News: HSBC CEO Georges Elhedery has urged employees to adapt to artificial intelligence instead of resisting it, even as the bank reportedly considers major.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/hsbc-ceo-georges-elhedery-to-employees-ai-will-destroy-some-jobs-stop-fighting-with-us-and-be-/articleshow/131241795.cms"
+        },
+        {
+            "title": "Trump administration working on AI safety rules for advanced models, may roll out executive order this week: Report",
+            "description": "[TIMES OF INDIA] Tech News News: The Trump administration is expected to release a new executive order focused on cybersecurity and artificial intelligence safety as early as this wee.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/trump-administration-working-on-ai-safety-rules-for-advanced-models-may-roll-out-executive-order-this-week-report/articleshow/131241554.cms"
+        },
+        {
+            "title": "AMD to Invest More Than $10 Billion in Taiwan's Chip Industry",
+            "description": "[MARKETSCREENER] By Sherry Qin Advanced Micro Devices plans to invest more than $10 billion across Taiwan's semiconductor sector to meet growing demand for artificial-intelligence infrastructure. The U.S....",
+            "url": "https://www.marketscreener.com/news/amd-to-invest-more-than-10-billion-in-taiwan-s-chip-industry-ce7f5aded988f72c"
+        },
+        {
+            "title": "Scapia raises $63 million led by General Catalyst, to expand travel lifestyle offerings",
+            "description": "[MONEYCONTROL] The travel fintech startup plans to deploy the fresh capital to grow its customer base and infuse products with artificial intelligence-led personalisation",
+            "url": "https://www.moneycontrol.com/technology/scapia-raises-63-million-led-by-general-catalyst-to-expand-travel-lifestyle-offerings-article-13926201.html"
+        },
+        {
+            "title": "Can SpaceX become the next Nvidia of Wall Street?",
+            "description": "[THE ECONOMIC TIMES] SpaceX is preparing for one of the biggest IPOs in financial history. The proposed listing combines some of the market\u2019s most powerful investment themes, including artificial intelligence, satellite...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-spacex-become-the-next-nvidia-of-wall-street/slideshow/131240965.cms"
+        },
+        {
             "title": "After admitting that Nvidia share in China has fallen to Zero, CEO Jensen Huang tells Chinese company Huawei: We have ...",
             "description": "[TIMES OF INDIA] Tech News News: Nvidia CEO Jensen Huang has now acknowledged that the company has \u2018largely conceded\u2019 China\u2019s artificial intelligence chip market to Huawei as US expor.",
             "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-admitting-that-nvidia-share-in-china-has-fallen-to-zero-ceo-jensen-huang-tells-chinese-company-huawei-we-have-/articleshow/131240420.cms"
@@ -85,46 +125,6 @@
             "title": "Letters: Are we hiring people or optimizing for algorithms?",
             "description": "[BATON ROUGE ADVOCATE] Organizations have been using applicant tracking systems to filter employment candidates, only to augment the process with artificial intelligence. Simultaneously, candidates are increasingly using...",
             "url": "https://www.theadvocate.com/baton_rouge/opinion/letters-are-we-hiring-people-or-optimizing-for-algorithms/article_77e3f78d-a7c0-5f76-beda-836b07041dc2.html"
-        },
-        {
-            "title": "ATOSS Opens AI Technology Hub in Bengaluru to Drive AI-Powered Workforce Management Solutions",
-            "description": "[DEVDISCOURSE] The new hub will play a key role in advancing artificial intelligence within ATOSS solutions and will strategically complement the existing development teams in Germany and Romania.Expansion...",
-            "url": "https://www.devdiscourse.com/article/technology/3916335-atoss-opens-ai-technology-hub-in-bengaluru-to-drive-ai-powered-workforce-management-solutions"
-        },
-        {
-            "title": "Bengaluru vegetable seller earning more than Rs 12 LPA? Man spots him wearing AI data-collection headgear, video stuns internet",
-            "description": "[THE ECONOMIC TIMES] A Bengaluru vegetable seller is making waves online after a video showed him wearing an iPhone on his head. He is reportedly collecting real-world data for artificial intelligence training. The...",
-            "url": "https://economictimes.indiatimes.com/news/new-updates/bengaluru-vegetable-seller-earning-more-than-rs-12-lpa-man-spots-him-wearing-ai-data-collection-headgear-video-stuns-internet/articleshow/131240045.cms"
-        },
-        {
-            "title": "Mark Zuckerberg says he feels 'weight' of Meta layoffs",
-            "description": "[THE ECONOMIC TIMES] Meta is laying off approximately 8,000 employees, about 10% of its global workforce, to redirect resources towards an ambitious artificial intelligence agenda. This significant restructuring follows...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/mark-zuckerberg-says-he-feels-weight-of-meta-layoffs/articleshow/131240219.cms"
-        },
-        {
-            "title": "AI must be shaped by ethical oversight, commitment to equity: Health Minister JP Nadda",
-            "description": "[THE ECONOMIC TIMES] India's Health Minister J P Nadda emphasized the need for strong regulation and ethical oversight for Artificial Intelligence in healthcare. He highlighted India's digital initiatives and strategies...",
-            "url": "https://economictimes.indiatimes.com/news/india/ai-must-be-shaped-by-ethical-oversight-commitment-to-equity-health-minister-jp-nadda/articleshow/131239985.cms"
-        },
-        {
-            "title": "Fears grow in Government over further tech job losses",
-            "description": "[THE IRISH TIMES] More cuts expected as roll-out of artificial intelligence technology takes its toll",
-            "url": "https://www.irishtimes.com/politics/2026/05/21/fears-grow-in-government-over-further-tech-job-losses/"
-        },
-        {
-            "title": "May 14-20 \u2022 The Austin Chronicle",
-            "description": "[THE AUSTIN CHRONICLE] Austin Musicians Against AI: Austin musicians gathered on Tuesday, May 19, to call for tighter regulations on artificial intelligence within the music industry, arguing that the technology is putting...",
-            "url": "https://www.austinchronicle.com/news/the-weeks-biggest-news-in-brief-may-14-20/"
-        },
-        {
-            "title": "Meta CEO Mark Zuckerberg Assures Employees Of No Further Company-Wide Layoffs This Year After 10% Workforce Cut Amid Major AI-Driven Restructuring",
-            "description": "[FREE PRESS JOURNAL] Meta CEO Mark Zuckerberg told employees there will be no more company-wide layoffs this year after the company cut nearly 10% of its workforce during a major restructuring. Meta plans to shift 7,000...",
-            "url": "https://www.freepressjournal.in/tech/meta-ceo-mark-zuckerberg-assures-employees-of-no-further-company-wide-layoffs-this-year-after-10-workforce-cut-amid-major-ai-driven-restructuring"
-        },
-        {
-            "title": "Bengaluru Vendor Uses AI Data Collection Gear While Selling Vegetables, Earns \"Rs 350/Hour\"",
-            "description": "[NDTV.COM] A viral post claims that the gear is used to collect real-world data for artificial intelligence training.",
-            "url": "https://www.ndtv.com/offbeat/watch-bengaluru-vendor-uses-ai-gear-while-selling-vegetables-earns-rs-350-hour-11526194"
         }
     ]
 }
