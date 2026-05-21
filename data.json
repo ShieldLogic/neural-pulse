@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-21 02:55:00 UTC",
+    "updated": "2026-05-21 07:45:11 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,6 +12,11 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+        },
+        {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
@@ -22,14 +27,14 @@
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Prompt Engineering for Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
+            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
         },
         {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,24 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
+            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
+            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
+        },
+        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "AI layoffs: Artificial Intelligence will destroy certain jobs says HSBC CEO, urges staff to \u2018not resist the change\u2019",
-            "description": "[LIVEMINT] Amid AI job cuts, HSBC's CEO Georges Elhedery encouraged staff to adapt and not resist technological changes. The bank may cut 20,000 roles, focusing on non-client-facing positions, while AI...",
-            "url": "https://www.livemint.com/companies/news/artificial-intelligence-will-destroy-certain-jobs-says-hsbc-ceo-urges-staff-to-not-resist-the-change-11779287451571.html"
+            "title": "Networks as the intelligent fabric of an AI-driven world",
+            "description": "[THE FINANCIAL EXPRESS] Writing for World Telecom Day, Ericsson India MD Nitin Bansal outlines why the true potential of artificial intelligence hinges on intelligent, high-performing 5G standalone networks.",
+            "url": "https://www.financialexpress.com/life/technology/networks-as-the-intelligent-fabric-of-an-ai-driven-world/4246696/"
         },
         {
-            "title": "US, India discuss expansion of cooperation in quantum, biotech, space and nuclear medicine",
-            "description": "[THE TRIBUNE] The United States Ambassador to India, Sergio Gor called on Union Minister Jitendra Singh on Wednesday and discussed expanding bilateral cooperation across key sectors including biotechnology,...",
-            "url": "https://www.tribuneindia.com/news/business/us-india-discuss-expansion-of-cooperation-in-quantum-biotech-space-and-nuclear-medicine/"
+            "title": "CCI to onboard analysts and data scientists",
+            "description": "[THE ECONOMIC TIMES] The Competition Commission of India is enhancing its capabilities to understand digital markets and artificial intelligence. The regulator is hiring data scientists and analysts with expertise in AI...",
+            "url": "https://economictimes.indiatimes.com/news/economy/policy/competition-commission-of-india-enhances-digital-market-insights-by-hiring-data-scientists-and-analysts/articleshow/131234958.cms"
         },
         {
-            "title": "US, India discuss expansion of cooperation in quantum, biotech, space and nuclear medicine",
-            "description": "[DEVDISCOURSE] The United States Ambassador to India, Sergio Gor called on Union Minister Jitendra Singh on Wednesday and discussed expanding bilateral cooperation across key sectors including biotechnology,...",
-            "url": "https://www.devdiscourse.com/article/business/3915712-us-india-discuss-expansion-of-cooperation-in-quantum-biotech-space-and-nuclear-medicine"
+            "title": "Shadow Treasurer Tim Wilson says AI will reshape public service",
+            "description": "[THE CANBERRA TIMES] Shadow Treasurer Tim Wilson says artificial intelligence can drive public spending efficiencies, while declining to say how big the APS should be",
+            "url": "https://www.canberratimes.com.au/story/9250694/shadow-treasurer-tim-wilson-says-ai-will-reshape-public-service/"
         },
         {
-            "title": "Raghav Chadha Moves Delhi High Court Against AI-Generated Deepfakes",
-            "description": "[REPUBLIC WORLD] Rajya Sabha MP Raghav Chadha has approached the Delhi High Court seeking protection of his personality rights against alleged misuse through artificial intelligence and digitally manipulated content....",
-            "url": "https://www.republicworld.com/india/raghav-chadha-moves-delhi-high-court-against-ai-generated-deepfakes-2026-05-20-125073"
+            "title": "Democrats mount new attempt to end Medicare AI prior authorization pilot",
+            "description": "[STAT] Democrats in Senate and House are mounting a fresh effort to end a Medicare pilot to use artificial intelligence to approve or deny care.",
+            "url": "https://www.statnews.com/2026/05/20/democrats-force-vote-to-end-medicare-ai-prior-authorization-pilot/"
         },
         {
-            "title": "Bank executives\u2019 AI talk takes frightening turn for workers",
-            "description": "[FINANCIAL POST] Wall Street leaders\u2019 rhetoric about the impact of artificial intelligence on their firms has taken a dystopian turn. Read more.",
-            "url": "https://financialpost.com/fp-work/bank-executives-ai-frightening-workers"
+            "title": "Professor alleges widespread",
+            "description": "[CP24 TORONTO] A Western University professor alleges most students in one of his classes used artificial intelligence to cheat on a final exam.",
+            "url": "https://www.cp24.com/news/canada/2026/05/20/professor-rejects-exam-results-amid-ai-cheating-allegations-at-western-university/"
         },
         {
-            "title": "Raghav Chadha moves Delhi High Court against AI",
-            "description": "[THE ECONOMIC TIMES] Rajya Sabha MP Raghav Chadha has approached the Delhi High Court. He seeks protection for his personality rights. This is against the misuse of artificial intelligence and digitally manipulated...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/raghav-chadha-moves-delhi-high-court-against-ai-generated-deepfakes/articleshow/131228750.cms"
+            "title": "Brace for bugmageddon: experts warn of AI crime wave",
+            "description": "[PERTHNOW] Attacks on Australian financial service firms are growing but artificial intelligence technology could raise the threat level even higher.",
+            "url": "https://www.perthnow.com.au/news/technology/brace-for-bugmageddon-experts-warn-of-ai-crime-wave-c-22314974"
         },
         {
-            "title": "Power Corp, Great-West Lifeco, IGM Financial Jointly Invest $150 Million in AI Fund",
-            "description": "[MARKETSCREENER] By Adriano Marchese Power Corp. of Canada, Great-West Lifeco and IGM Financial are jointly investing $150-million into in a newly created fund called artificial intelligence-focused Sagard AI...",
-            "url": "https://www.marketscreener.com/news/power-corp-great-west-lifeco-igm-financial-jointly-invest-150-million-in-ai-fund-ce7f5ad9da8af124"
+            "title": "Brace for bugmageddon: experts warn of AI crime wave",
+            "description": "[THE CANBERRA TIMES] Attacks on Australian financial service firms are growing but artificial intelligence technology could raise the threat level even...",
+            "url": "https://www.canberratimes.com.au/story/9250855/brace-for-bugmageddon-experts-warn-of-ai-crime-wave/"
         },
         {
-            "title": "Nvidia Q1 results surpass Wall Street expectations thanks to massive AI chip demand",
-            "description": "[BREITBART NEWS NETWORK] Artificial intelligence chipmaker Nvidia\u2019s quarterly results blew past Wall Street\u2019s expectations once again, fueled by massive demand for its",
-            "url": "https://www.breitbart.com/news/nvidia-q1-results-surpass-wall-street-expectations-thanks-to-massive-ai-chip-demand/"
+            "title": "Musk's SpaceX discloses filing for initial public offering",
+            "description": "[BREITBART NEWS NETWORK] May 20 (UPI) -- SpaceX, the American aerospace and artificial intelligence company founded by Elon Musk, on Wednesday confirmed plans to sell shares of",
+            "url": "https://www.breitbart.com/news/musks-spacex-discloses-filing-for-initial-public-offering/"
         },
         {
-            "title": "French consortium to bid for EU's AI datacentre fund",
-            "description": "[THE ECONOMIC TIMES] A French consortium named AION plans to build a massive data centre costing ten billion euros. This initiative aims to enhance Europe's artificial intelligence capabilities. The project seeks funding...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/french-consortium-to-bid-for-eus-ai-datacentre-fund/articleshow/131228715.cms"
+            "title": "OpenAI prepares for record-breaking IPO",
+            "description": "[MARKETSCREENER] OpenAI is preparing to confidentially file a draft registration statement for an initial public offering, according to reports confirmed by CNBC. The artificial intelligence specialist, valued at...",
+            "url": "https://www.marketscreener.com/news/openai-prepares-for-record-breaking-ipo-ce7f5ad9dc8cf420"
         },
         {
-            "title": "Meta kicks off bloodbath with 8,000 layoffs in shift to AI",
-            "description": "[NEW YORK POST] Mark Zuckerberg's Meta on Wednesday kicked off a bloodbath round of 8,000 layoffs \u2013 among the largest in the social media giant\u2019s history \u2013 amid a broader shift toward artificial intelligence.",
-            "url": "https://nypost.com/2026/05/20/business/meta-kicks-off-bloodbath-with-8000-layoffs-in-shift-to-ai/"
+            "title": "New AI framework maps systemic obesity damage at cellular resolution",
+            "description": "[NEWS-MEDICAL.NET] Researchers at Helmholtz Munich, the Ludwig Maximilians University Munich (LMU) and collaborating institutions have developed an artificial intelligence (AI) framework that maps disease-related...",
+            "url": "https://www.news-medical.net/news/20260520/New-AI-framework-maps-systemic-obesity-damage-at-cellular-resolution.aspx"
         }
     ]
 }
