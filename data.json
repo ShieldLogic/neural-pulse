@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-21 14:57:25 UTC",
+    "updated": "2026-05-21 17:53:41 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,14 +7,19 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -27,14 +32,14 @@
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
+            "title": "Effective KV Compression with TurboQuant",
+            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
+            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,19 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Elon Musk's SpaceX files for IPO: Inside revenue, losses, and future plans",
-            "description": "[BUSINESS STANDARD] The filing showed that SpaceX has been aggressively investing in artificial intelligence (AI), Starlink satellites and future space missions",
-            "url": "https://www.business-standard.com/world-news/elon-musk-spacex-ipo-filing-revenue-losses-starlink-ai-126052100133_1.html"
+            "title": "After admitting that Nvidia share in China has fallen to Zero, CEO Jensen Huang tells Chinese company Huawei: We have ...",
+            "description": "[TIMES OF INDIA] Tech News News: Nvidia CEO Jensen Huang has now acknowledged that the company has \u2018largely conceded\u2019 China\u2019s artificial intelligence chip market to Huawei as US expor.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-admitting-that-nvidia-share-in-china-has-fallen-to-zero-ceo-jensen-huang-tells-chinese-company-huawei-we-have-/articleshow/131240420.cms"
         },
         {
-            "title": "makers of ChatGPT, preparing to file for an IPO in coming weeks: Report",
-            "description": "[THE TRIBUNE] OpenAI is preparing to file confidentially for an initial public offering (IPO) in the coming weeks, according to The New York Times news report. The decision, by the maker of ChatGPT, lays the...",
-            "url": "https://www.tribuneindia.com/news/business/openai-makers-of-chatgpt-preparing-to-file-for-an-ipo-in-coming-weeks-report/"
+            "title": "Letters: Are we hiring people or optimizing for algorithms?",
+            "description": "[BATON ROUGE ADVOCATE] Organizations have been using applicant tracking systems to filter employment candidates, only to augment the process with artificial intelligence. Simultaneously, candidates are increasingly using...",
+            "url": "https://www.theadvocate.com/baton_rouge/opinion/letters-are-we-hiring-people-or-optimizing-for-algorithms/article_77e3f78d-a7c0-5f76-beda-836b07041dc2.html"
         },
         {
-            "title": "White House to issue an executive order on govt review of advanced AI models before launch",
-            "description": "[LIVEMINT] The White House is expected to issue an executive order as early as Thursday proposing a voluntary framework for government review of advanced artificial intelligence models before their public...",
-            "url": "https://www.livemint.com/technology/white-house-to-issue-an-executive-order-on-govt-review-of-advanced-ai-models-before-launch-11779330912164.html"
+            "title": "ATOSS Opens AI Technology Hub in Bengaluru to Drive AI-Powered Workforce Management Solutions",
+            "description": "[DEVDISCOURSE] The new hub will play a key role in advancing artificial intelligence within ATOSS solutions and will strategically complement the existing development teams in Germany and Romania.Expansion...",
+            "url": "https://www.devdiscourse.com/article/technology/3916335-atoss-opens-ai-technology-hub-in-bengaluru-to-drive-ai-powered-workforce-management-solutions"
         },
         {
-            "title": "White House to issue an executive order on govt review of advanced AI models before launch",
-            "description": "[THE TRIBUNE] The White House is expected to issue an executive order as early as Thursday proposing a voluntary framework for government review of advanced artificial intelligence models before their public...",
-            "url": "https://www.tribuneindia.com/news/business/white-house-to-issue-an-executive-order-on-govt-review-of-advanced-ai-models-before-launch/"
+            "title": "Bengaluru vegetable seller earning more than Rs 12 LPA? Man spots him wearing AI data-collection headgear, video stuns internet",
+            "description": "[THE ECONOMIC TIMES] A Bengaluru vegetable seller is making waves online after a video showed him wearing an iPhone on his head. He is reportedly collecting real-world data for artificial intelligence training. The...",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/bengaluru-vegetable-seller-earning-more-than-rs-12-lpa-man-spots-him-wearing-ai-data-collection-headgear-video-stuns-internet/articleshow/131240045.cms"
         },
         {
-            "title": "Beed police launch AI-powered \u2018DeepEye\u2019 pilot project",
-            "description": "[HINDUSTAN TIMES] Beed police have launched artificial intelligence (AI)-powered project named \u2018DeepEye\u2019 aimed at speeding up crime investigations and making them more accurate, transparent and result-oriented",
-            "url": "https://www.hindustantimes.com/cities/pune-news/beed-police-launch-ai-powered-deepeye-pilot-project-101779307170928.html"
+            "title": "Mark Zuckerberg says he feels 'weight' of Meta layoffs",
+            "description": "[THE ECONOMIC TIMES] Meta is laying off approximately 8,000 employees, about 10% of its global workforce, to redirect resources towards an ambitious artificial intelligence agenda. This significant restructuring follows...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/mark-zuckerberg-says-he-feels-weight-of-meta-layoffs/articleshow/131240219.cms"
         },
         {
-            "title": "Months after tie-up with OpenAI and Anthropic, Intuit to layoff 3,000 employees; CEO says in memo: Simplifying structure will help \u2026",
-            "description": "[TIMES OF INDIA] Tech News News: Intuit employees have become the latest to be affected by the wave of artificial intelligence (AI)-linked job cuts across the technology industry. The.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/months-after-tie-up-with-openai-and-anthropic-intuit-to-layoff-3000-employees-ceo-says-in-memo-simplifying-structure-will-help-/articleshow/131234290.cms"
+            "title": "AI must be shaped by ethical oversight, commitment to equity: Health Minister JP Nadda",
+            "description": "[THE ECONOMIC TIMES] India's Health Minister J P Nadda emphasized the need for strong regulation and ethical oversight for Artificial Intelligence in healthcare. He highlighted India's digital initiatives and strategies...",
+            "url": "https://economictimes.indiatimes.com/news/india/ai-must-be-shaped-by-ethical-oversight-commitment-to-equity-health-minister-jp-nadda/articleshow/131239985.cms"
         },
         {
-            "title": "Google starts testing new ad formats in AI Mode and Search: How are they different and what it means for users",
-            "description": "[TIMES OF INDIA] Tech News News: Google has begun public testing of several new artificial intelligence (AI)-driven ad formats within its traditional search results and its \u201cAI Mode\u201d .",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-starts-testing-new-ad-formats-in-ai-mode-and-search-how-are-they-different-and-what-it-means-for-users/articleshow/131235075.cms"
+            "title": "Fears grow in Government over further tech job losses",
+            "description": "[THE IRISH TIMES] More cuts expected as roll-out of artificial intelligence technology takes its toll",
+            "url": "https://www.irishtimes.com/politics/2026/05/21/fears-grow-in-government-over-further-tech-job-losses/"
         },
         {
-            "title": "Anthropic nears first quarterly profit, agrees to pay SpaceX $1.25 billion monthly for computing power",
-            "description": "[THE STAR] SAN FRANCISCO, May 20 (Reuters) - Anthropic \u2060is closing in on its first quarterly operating profit, a person \u2060familiar with the matter told Reuters, as its sales eclipse the enormous \u200ccosts to...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/21/anthropic-nears-first-quarterly-profit-agrees-to-pay-spacex-125-billion-monthly-for-computing-power"
+            "title": "May 14-20 \u2022 The Austin Chronicle",
+            "description": "[THE AUSTIN CHRONICLE] Austin Musicians Against AI: Austin musicians gathered on Tuesday, May 19, to call for tighter regulations on artificial intelligence within the music industry, arguing that the technology is putting...",
+            "url": "https://www.austinchronicle.com/news/the-weeks-biggest-news-in-brief-may-14-20/"
         },
         {
-            "title": "SpaceX IPO filing lays bare losses and Elon Musk control as it stakes future on AI",
-            "description": "[THE ECONOMIC TIMES] SpaceX has filed for its IPO, revealing substantial losses in its artificial intelligence division. The company's future hinges on unproven technologies like space data centers. Starlink, its...",
-            "url": "https://economictimes.indiatimes.com/tech/technology/spacex-ipo-filing-lays-bare-losses-and-elon-musk-control-as-it-stakes-future-on-ai/articleshow/131237990.cms"
+            "title": "Meta CEO Mark Zuckerberg Assures Employees Of No Further Company-Wide Layoffs This Year After 10% Workforce Cut Amid Major AI-Driven Restructuring",
+            "description": "[FREE PRESS JOURNAL] Meta CEO Mark Zuckerberg told employees there will be no more company-wide layoffs this year after the company cut nearly 10% of its workforce during a major restructuring. Meta plans to shift 7,000...",
+            "url": "https://www.freepressjournal.in/tech/meta-ceo-mark-zuckerberg-assures-employees-of-no-further-company-wide-layoffs-this-year-after-10-workforce-cut-amid-major-ai-driven-restructuring"
         },
         {
-            "title": "Nvidia says it has \u2018largely conceded\u2019 China\u2019s AI chip market to Huawei",
-            "description": "[CNBC] Nvidia CEO Jensen Huang said the company has \"largely conceded\" China's advanced artificial intelligence chip market to Huawei.",
-            "url": "https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html"
+            "title": "Bengaluru Vendor Uses AI Data Collection Gear While Selling Vegetables, Earns \"Rs 350/Hour\"",
+            "description": "[NDTV.COM] A viral post claims that the gear is used to collect real-world data for artificial intelligence training.",
+            "url": "https://www.ndtv.com/offbeat/watch-bengaluru-vendor-uses-ai-gear-while-selling-vegetables-earns-rs-350-hour-11526194"
         }
     ]
 }
