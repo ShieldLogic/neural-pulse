@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-22 19:39:20 UTC",
+    "updated": "2026-05-22 21:06:50 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -27,14 +27,14 @@
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Prompt Engineering for Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
-            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
-        },
-        {
             "title": "LLM Observability Tools for Reliable AI Applications",
             "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
             "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
+        },
+        {
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,11 +52,6 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
-            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
-            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
-        },
-        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
@@ -65,6 +60,11 @@
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
+            "title": "Thailand turns to AI and science to upgrade durian export quality",
+            "description": "[THE STAR] BANGKOK: Thailand's Ministry of Higher Education, Science, Research and Innovation (MHESI) is pushing the use of science, artificial intelligence and advanced technology to transform the country's...",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/22/thailand-turns-to-ai-and-science-to-upgrade-durian-export-quality"
+        },
+        {
+            "title": "Executives see opportunity, risk in artificial intelligence",
+            "description": "[KNOXVILLE NEWS-SENTINEL] A global survey reveals executives are optimistic about AI's growth but anxious about its risks and potential for mistakes.",
+            "url": "https://www.knoxnews.com/story/money/columnists/2026/05/22/french-executives-see-opportunity-risk-in-artificial-intelligence/90182944007/"
+        },
+        {
+            "title": "'More AI, fewer bankers': CEO of US' largest bank JP Morgan Jamie Dimon's remarks hint at a shift in Wall Street trend",
+            "description": "[THE ECONOMIC TIMES] JPMorgan Chase CEO Jamie Dimon suggests artificial intelligence will significantly reduce jobs at the bank. The company plans to hire more AI experts and fewer traditional bankers. This shift aims to...",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/more-ai-fewer-bankers-ceo-of-us-largest-bank-jp-morgan-jamie-dimons-remarks-hint-at-a-shift-in-wall-street-trend/articleshow/131260364.cms"
+        },
+        {
+            "title": "Brighton beach deaths: Family of London sisters say mother also died by drowning",
+            "description": "[EVENING STANDARD] Family also hit out at conspiracy theories were fuelled by an image of the sisters circulated by police that was created by artificial intelligence",
+            "url": "https://www.standard.co.uk/news/london/brighton-beach-deaths-family-london-sisters-conspiracy-theories-b1283265.html"
+        },
+        {
+            "title": "Can AI beats beat the official World Cup song?",
+            "description": "[AFRICANEWS] Football supporters and online creators are using artificial intelligence to produce viral World Cup anthems, reshaping fan culture and sparking debate over music rights and authenticity.",
+            "url": "https://www.africanews.com/2026/05/22/can-ai-beats-beat-the-official-world-cup-song/"
+        },
+        {
+            "title": "SoundExchange\u2019s CEO Michael Huppe Considers The Pros And Cons Of AI",
+            "description": "[FORBES] As artificial intelligence draws increased attention, a recording industry leader provides perspective.",
+            "url": "https://www.forbes.com/sites/mikealleyne/2026/05/22/soundexchanges-ceo-michael-huppe-considers-the-pros-and-cons-of-ai/"
+        },
+        {
+            "title": "Kawasaki Heavy Teaming With Up With Nvidia, Microsoft in AI -- Update",
+            "description": "[MARKETSCREENER] By Kosaku Narioka Kawasaki Heavy Industries is teaming with up with Nvidia, Microsoft and others to improve its robots with the power of artificial intelligence through a newly established center...",
+            "url": "https://www.marketscreener.com/news/kawasaki-heavy-teaming-with-up-with-nvidia-microsoft-in-ai-update-ce7f5adfdd88ff24"
+        },
+        {
+            "title": "Fans create AI-generated team songs ahead of World Cup",
+            "description": "[THE STAR] World Cup fans are wielding artificial intelligence to mass-produce viral songs supporting their teams ahead of next month's tournament.",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/22/fans-create-ai-generated-team-songs-ahead-of-world-cup"
+        },
+        {
+            "title": "Spotify wants to turn audio into an AI experience and India may be central to it",
+            "description": "[THE ECONOMIC TIMES] Spotify is embracing artificial intelligence to become a personalised audio platform. The company is developing AI playlists, conversational listening, and interactive audio experiences. This move...",
+            "url": "https://economictimes.indiatimes.com/industry/media/entertainment/spotify-wants-to-turn-audio-into-an-ai-experience-and-india-may-be-central-to-it/articleshow/131259338.cms"
+        },
+        {
             "title": "Protecting exam integrity: How India can future",
             "description": "[CNBC TV18] Emerging technologies like Blockchain and Artificial Intelligence can especially enable securing the examination process end-to-end and eliminating the possibilities of any leaks, writes Vikram R...",
             "url": "https://www.cnbctv18.com/education/neet-ug-examination-integrity-future-proof-testing-system-nta-india-view-19911458.htm"
-        },
-        {
-            "title": "Center of Policy Research and Governance and AI4India publish report on 'future of jobs' in the age of AI",
-            "description": "[DEVDISCOURSE] The Centre of Policy Research and Governance (CPRG) and AI4India have published the report Future of Jobs in the Age of AI, Emerging Roles, New Opportunities, a significant study on the impact of...",
-            "url": "https://www.devdiscourse.com/article/headlines/3917827-center-of-policy-research-and-governance-and-ai4india-publish-report-on-future-of-jobs-in-the-age-of-ai"
-        },
-        {
-            "title": "Monthly SIPs to blame for rupee's slide and not CAD; Jefferies explains why",
-            "description": "[BUSINESS STANDARD] A potential valuation correction, artificial intelligence trade (AI) trade unwinding and the Strait of Hormuz opening for business, the note said, could stem these outflows",
-            "url": "https://www.business-standard.com/markets/news/monthly-sips-to-blame-for-rupee-s-slide-and-not-cad-jefferies-explains-why-126052200688_1.html"
-        },
-        {
-            "title": "Japan gov't to get access to Anthropic's latest AI: finance minister",
-            "description": "[JAPAN TODAY] The Japanese government is set to be granted access to U.S. startup Anthropic's latest artificial intelligence model Claude Mythos later in the month, Finance Minister Satsuki Katayama said Friday,...",
-            "url": "https://japantoday.com/category/tech/japan-gov't-to-get-access-to-anthropic's-latest-ai-finance-minister"
-        },
-        {
-            "title": "Japan gov't to get access to Anthropic's latest AI: finance minister",
-            "description": "[JAPAN TODAY] The Japanese government is set to be granted access to U.S. startup Anthropic's latest artificial intelligence model Claude Mythos later in the month, Finance Minister Satsuki Katayama said Friday,...",
-            "url": "https://japantoday.com/category/tech/japan-gov%27t-to-get-access-to-anthropic%27s-latest-ai-finance-minister"
-        },
-        {
-            "title": "Trump cancels signing of Executive order on Artificial Intelligence regulation : Reports",
-            "description": "[DAILY EXCELSIOR] WASHINGTON, May 22: US President Donald Trump cancelled the signing ceremony of his executive order on artificial intelligence regulation, as it would reportedly slow the industry\u2019s development in...",
-            "url": "https://www.dailyexcelsior.com/trump-cancels-signing-of-executive-order-on-artificial-intelligence-regulation-reports/"
-        },
-        {
-            "title": "Trump cancels signing of AI order",
-            "description": "[ARKANSAS ONLINE] WASHINGTON -- President Donald Trump called off plans to sign a new executive order on artificial intelligence, hours before an expected White House ceremony Thursday, because he said he was worried...",
-            "url": "https://www.arkansasonline.com/news/2026/may/22/trump-cancels-signing-of-ai-order/"
-        },
-        {
-            "title": "Why Starbucks is shutting down its AI inventory system just months after launch",
-            "description": "[FIRSTPOST] Starbucks hoped artificial intelligence would help baristas spend less time counting milk cartons and more time making coffee. Instead, the system struggled to tell oat milk from regular milk,...",
-            "url": "https://www.firstpost.com/tech/why-starbucks-is-shutting-down-its-ai-inventory-system-just-months-after-launch-14013970.html"
-        },
-        {
-            "title": "California governor orders a plan to cope with AI job upheaval",
-            "description": "[THE STAR] California Governor Gavin Newsom on Thursday ordered officials to start work on a plan to mitigate the job-destroying impact of artificial intelligence, the first US state to do so.",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/22/california-governor-orders-a-plan-to-cope-with-ai-job-upheaval"
-        },
-        {
-            "title": "From Solvers to Neural Nets: How Machine Learning Is Unlocking New Poker Strategy",
-            "description": "[TECHBULLION] Chess players have Stockfish. Go players have AlphaZero. Poker players, it turns out, have something harder to build \u2014 and arguably more useful.",
-            "url": "https://techbullion.com/from-solvers-to-neural-nets-how-machine-learning-is-unlocking-new-poker-strategy/"
         }
     ]
 }
