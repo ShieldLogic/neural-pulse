@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-22 02:54:58 UTC",
+    "updated": "2026-05-22 07:40:19 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,9 +7,19 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
+        },
+        {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -27,9 +37,9 @@
             "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
+            "title": "Effective KV Compression with TurboQuant",
+            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
+            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,11 +57,6 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
             "title": "Agentic RAG Explained in 3 Levels of Difficulty",
             "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
             "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
@@ -60,11 +65,6 @@
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "The biggest IPO in history just filed: SpaceX's IPO docs are out. Moonbase Alpha, Mars missions, AI in space, and a $1.75 trillion price tag",
-            "description": "[THE ECONOMIC TIMES] SpaceX IPO filing explained: SpaceX has filed its IPO paperwork, targeting a potential valuation between $1.75 trillion and $2 trillion. This move could lead to the largest IPO in history, focusing...",
-            "url": "https://economictimes.indiatimes.com/news/international/us/the-biggest-ipo-in-history-just-filed-spacexs-ipo-docs-are-out-moonbase-alpha-mars-missions-ai-in-space-and-a-1-75-trillion-price-tag/articleshow/131248115.cms"
+            "title": "ET Power Table: Business leaders bullish on AI, say meaningful adoption is not far off",
+            "description": "[THE ECONOMIC TIMES] Indian businesses are gearing up for artificial intelligence to become central to their operations in the next four to five years. Leaders discussed AI's current role in design and repetitive tasks....",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/et-power-table-business-leaders-bullish-on-ai-say-meaningful-adoption-is-not-far-off/articleshow/131251476.cms"
         },
         {
-            "title": "Microsoft AI CEO predicts lawyers, accountants among jobs most at risk",
-            "description": "[THE NEWS INTERNATIONAL] As artificial intelligence rapidly reshapes workplaces, new warnings now suggest that some of the most common white-collar professions might be among the hardest hit. Like lawyers, accountants and...",
-            "url": "https://www.thenews.com.pk/latest/1403349-lawyers-accountants-marketers-among-roles-most-at-risk-says-microsoft-ai-ceo"
+            "title": "Trump calls off AI executive order over concern it could weaken US tech edge",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] President Donald Trump has called off plans to sign a new executive order on artificial intelligence hours before an expected White House ceremony. He says he's worried the measure could dull...",
+            "url": "https://www.ajc.com/news/2026/05/trump-calls-off-plan-to-sign-artificial-intelligence-order-due-to-concern-it-could-hurt-the-industry/"
         },
         {
-            "title": "Blackstone, Anthropic Joint Venture Acquires Fractional AI",
-            "description": "[MARKETSCREENER] By Elias Schisgall A new Blackstone- and Anthropic-backed artificial-intelligence enterprise-services firm has acquired Fractional AI, an AI-services startup that's set to become the founding...",
-            "url": "https://www.marketscreener.com/news/blackstone-anthropic-joint-venture-acquires-fractional-ai-ce7f5adedf8cf72c"
+            "title": "CVs losing value for hiring as use of artificial intelligence changes industry, recruiters say",
+            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] AI-perfected CVs are becoming the norm as more job applicants and employers use artificial intelligence, but recruiters say the technology could be making hiring trickier.",
+            "url": "https://www.abc.net.au/news/2026-05-22/cv-loses-value-artificial-intelligence-changes-recruitment/106690068"
         },
         {
-            "title": "ComEd rates are going up again this summer, and rising demand is largely to blame",
-            "description": "[SHAW LOCAL ENEWSPAPERS] The rate at which ComEd customers are charged for energy usage is increasing. Additionally, a temporary credit to Illinois customers is disappearing. Data centers for the artificial intelligence...",
-            "url": "https://www.shawlocal.com/news/2026/05/21/comed-rates-are-going-up-again-this-summer-and-rising-demand-is-largely-to-blame/"
+            "title": "GOP billionaire brags AI better than human workers because it never gets 'sick' or 'drunk'",
+            "description": "[RAW STORY] A leading billionaire right-wing donor and tech evangelist raised eyebrows during a podcast appearance this week with a blunt explanation for why he believes artificial intelligence is superior to...",
+            "url": "https://www.rawstory.com/billionaire-republican-brags-that-ai-is-better-the-human-workers-because-it-never/"
         },
         {
-            "title": "After Airbnb 'caught' using Chinese AI models for customers' tools, CEO Brian Chesky says that those worried do not understand how system works",
-            "description": "[TIMES OF INDIA] Tech News News: Airbnb CEO Brian Chesky has defended the company\u2019s use of Chinese artificial intelligence models. His remarks came after US lawmakers raised concerns .",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-airbnb-caught-using-chinese-ai-models-for-customers-tools-ceo-brian-chesky-says-that-those-worried-do-not-understand-how-system-works/articleshow/131248277.cms"
+            "title": "Provincial, federal governments leaning on AI to cut red tape",
+            "description": "[SOOTODAY] OTTAWA \u2014 The federal government and several provincial governments are turning to artificial intelligence to analyze laws and search for outdated regulations as they try to cut back on red tape.",
+            "url": "https://www.sootoday.com/national-news/provincial-federal-governments-leaning-on-ai-to-cut-red-tape-12312502"
         },
         {
-            "title": "AI firm Palantir locked in battle with Pentagon DIA over key intelligence deal: Details here",
-            "description": "[LIVEMINT] Artificial intelligence firm Palantir is challenging the Pentagon's DIA over a contract to modernise its data analytics system. The AI company has accused the agency of wasting taxpayers' money and...",
-            "url": "https://www.livemint.com/news/us-news/ai-firm-palantir-locked-in-battle-with-pentagon-dia-over-key-intelligence-deal-details-here-11779370971032.html"
+            "title": "Provincial, federal governments leaning on AI to cut red tape",
+            "description": "[BAYTODAY] OTTAWA \u2014 The federal government and several provincial governments are turning to artificial intelligence to analyze laws and search for outdated regulations as they try to cut back on red tape.",
+            "url": "https://www.baytoday.ca/national-news/provincial-federal-governments-leaning-on-ai-to-cut-red-tape-12312502"
         },
         {
-            "title": "Machine learning lifestyle coaching helps reduce major depressive symptoms",
-            "description": "[NEWS-MEDICAL.NET] More than 21% of U.S. adults experience depression, greatly impacting their quality of life. Many people with mild\u2011to\u2011moderate depression can improve their symptoms by adjusting daily habits like...",
-            "url": "https://www.news-medical.net/news/20260521/Machine-learning-lifestyle-coaching-helps-reduce-major-depressive-symptoms.aspx"
+            "title": "Motorola Solutions Opens AI and Resilience Software Hub in Boston",
+            "description": "[MARKETSCREENER] Motorola Solutions opened a new artificial intelligence and resilience software hub in Boston to develop AI-driven software and cloud-based solutions, the company said Thursday. The hub will focus...",
+            "url": "https://www.marketscreener.com/news/motorola-solutions-opens-ai-and-resilience-software-hub-in-boston-ce7f5aded181f523"
         },
         {
-            "title": "Gov. Gavin Newsom to Sign Executive Order Aimed at A.I. Job Loss",
-            "description": "[THE NEW YORK TIMES] Gov. Gavin Newsom will issue an executive order to explore an overhaul of labor policies to deal with potential mass job displacement from artificial intelligence.",
-            "url": "https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html"
+            "title": "Linda Perry says songwriters should \u2019embrace\u2019 artificial intelligence",
+            "description": "[KENT ONLINE] The 4 Non Blondes singer and guitarist received the special international award at the 2026 Ivor Novello Awards.",
+            "url": "https://www.kentonline.co.uk/news/national/linda-perry-says-songwriters-should-embrace-artificial-intelligence-167026/"
         },
         {
-            "title": "Everyone Has AI. Now What? Goafest Spotlights What Creates Real Value",
-            "description": "[FREE PRESS JOURNAL] The conversation is no longer about whether artificial intelligence will transform advertising. That debate is over. The sharper, more uncomfortable question dominating Day 2 was this: when everyone...",
-            "url": "https://www.freepressjournal.in/brandsutra/everyone-has-ai-now-what-goafest-spotlights-real-value"
+            "title": "Anthropic may tap Microsoft AI chips to curb Nvidia reliance",
+            "description": "[MARKETSCREENER] Anthropic is in talks with Microsoft to utilize the US tech giant's Maia 200 artificial intelligence chips, according to sources from The Information, later confirmed by CNBC. While no definitive...",
+            "url": "https://www.marketscreener.com/news/anthropic-may-tap-microsoft-ai-chips-to-curb-nvidia-reliance-ce7f5aded18efe2d"
         },
         {
-            "title": "How META Stock Can Climb To $1,000",
-            "description": "[FORBES] This growth is largely dependent on substantial capital expenditures in artificial intelligence and computing infrastructure.",
-            "url": "https://www.forbes.com/sites/greatspeculations/2026/05/21/how-meta-stock-can-climb-to-1000/"
+            "title": "The Trump administration expands its use of AI in the hunt for healthcare fraud",
+            "description": "[WTOP] NEW YORK (AP) \u2014 The U.S. Department of Health and Human Services on Thursday announced it is supercharging its use of artificial intelligence to police how\u2026",
+            "url": "https://wtop.com/national/2026/05/the-trump-administration-expands-its-use-of-ai-in-the-hunt-for-healthcare-fraud/"
         }
     ]
 }
