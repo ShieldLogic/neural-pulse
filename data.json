@@ -1,130 +1,85 @@
 {
-    "updated": "2026-05-22 10:46:35 UTC",
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-05-22 13:52 UTC",
     "news": [
         {
-            "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
-            "description": "[RESEARCH] Data Mining & Modeling",
-            "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "China\u2019s DeepSeek previews new AI model a year after jolting US rivals",
+            "description": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI. DeepSeek sa\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB320_DEEPSEEK_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-04-24T09:45:30Z",
+            "content": "<ul><li></li><li></li></ul>\r\nDeepSeek says the V4 model can compete toe-to-toe with leading American systems from Google, OpenAI, and Anthropic. \r\nDeepSeek says the V4 model can compete toe-to-toe wi\u2026 [+1787 chars]"
         },
         {
-            "title": "It's all about the angle: Your photos, re-composed",
-            "description": "[RESEARCH] Generative AI",
-            "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia \u2014 but not Anthropic",
+            "description": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense \u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2273115889.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-01T14:09:56Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe flurry of deals leaves out Anthropic, which the department previously used for handling classified information.\r\nThe flurry of deals leaves out Anthropic, wh\u2026 [+3824 chars]"
         },
         {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "The Start of OpenAI\u2019s Trial Against Elon Musk Wasn\u2019t the Worst Thing That Happened to Sam Altman Today",
+            "description": "A report claims that OpenAI missed its own user and revenue goals. That's bad news for the entire industry.",
+            "url": "https://gizmodo.com/the-start-of-openais-trial-against-elon-musk-wasnt-the-worst-thing-that-happened-to-sam-altman-today-2000751813",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2265992525-1200x675.jpg",
+            "publishedAt": "2026-04-28T21:58:32Z",
+            "content": "Elon Musk took the stand in a California courtroom today to ask for OpenAI CEO Sam Altman\u2019s ousting. Still, it wasn\u2019t the worst thing that happened to the executive on Tuesday.\r\nThat\u2019s because on Mon\u2026 [+5005 chars]"
         },
         {
-            "title": "ReasoningBank: Enabling agents to learn from experience",
-            "description": "[RESEARCH] Generative AI",
-            "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Siri\u2019s Total Chatbot Makeover Is Imminent With iOS 27",
+            "description": "Android isn't the only OS leaning into agentic AI.",
+            "url": "https://gizmodo.com/siri-total-chatbot-makeover-is-imminent-with-ios-27-2000757747",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/A1A9528-1200x675.jpg",
+            "publishedAt": "2026-05-12T22:15:29Z",
+            "content": "It\u2019s been nearly two years since Apple promised an AI-supercharged Siri, but if a new report is any indication, that transformation is finally upon us. According to Bloomberg\u2019s Mark Gurman, there are\u2026 [+2195 chars]"
         },
         {
-            "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
-            "description": "[RESEARCH] General Science",
-            "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Things Are Finally Looking Up for Intel and It Has CPUs to Thank for It",
+            "description": "Intel is slowly starting to enjoy the fruits of AI hype.",
+            "url": "https://gizmodo.com/things-are-finally-looking-up-for-intel-and-it-has-cpus-to-thank-for-it-2000750198",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2264783445-1200x675.jpg",
+            "publishedAt": "2026-04-24T01:36:06Z",
+            "content": "Things had not been looking good for Intel for the past few years.\r\nOnce the star American chipmaker, Intel fell behind competitors like AMD and Nvidia in the age of AI. But now, the chipmaker says a\u2026 [+3175 chars]"
         },
         {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
-        },
-        {
-            "title": "Information-Driven Design of Imaging Systems",
-            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
-            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
-        },
-        {
-            "title": "RL without TD learning",
-            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
-            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
-        },
-        {
-            "title": "Gradient-based Planning for World Models at Longer Horizons",
-            "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
-            "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
-            "title": "Identifying Interactions at Scale for LLMs",
-            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
-            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
-        },
-        {
-            "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
-            "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
-            "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
-        },
-        {
-            "title": "Catalyzing scientific impact through global partnerships and open resources",
-            "description": "[RESEARCH] Data Mining & Modeling",
-            "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
-        },
-        {
-            "title": "Two men charged with creating AI-generated porn under new law",
-            "description": "[CHICAGO TRIBUNE] Federal prosecutors have charged two men with using artificial intelligence to create nude videos and photos of female celebrities under a newly enacted law.",
-            "url": "https://www.chicagotribune.com/2026/05/21/ai-generated-porn-law/"
-        },
-        {
-            "title": "Machine learning personalizes depression treatment with the help of wearable technology",
-            "description": "[MEDICAL XPRESS] More than 21% of U.S. adults experience depression, greatly impacting their quality of life. Many people with mild-to-moderate depression can improve their symptoms by adjusting daily habits like...",
-            "url": "https://medicalxpress.com/news/2026-05-machine-personalizes-depression-treatment-wearable.html"
-        },
-        {
-            "title": "Provincial, federal governments leaning on AI to cut red tape",
-            "description": "[CHEK NEWS] The federal government and several provincial governments are turning to artificial intelligence to analyze laws and search for outdated regulations as they try to cut back on red tape.",
-            "url": "https://cheknews.ca/provincial-federal-governments-leaning-on-ai-to-cut-red-tape-1325752/"
-        },
-        {
-            "title": "Up 190%+ YTD, Let\u2019s Look at Who Owns Seagate Stock (STX)",
-            "description": "[MARKETS INSIDER] Seagate Technology (STX) has rallied more than 190% year-to-date, as the data storage provider is seeing strong artificial intelligence (AI)-dri...",
-            "url": "https://markets.businessinsider.com/news/stocks/up-190-ytd-let-s-look-at-who-owns-seagate-stock-stx-1036186107"
-        },
-        {
-            "title": "Widespread AI misuse forces higher education to rethink assessment",
-            "description": "[PHYS.ORG] Large numbers of college students are now using artificial intelligence to complete\u2014and cheat on\u2014their assignments, suggesting that colleges and universities need to change how they are evaluating...",
-            "url": "https://phys.org/news/2026-05-widespread-ai-misuse-higher-rethink.html"
-        },
-        {
-            "title": "What to Know About the SpaceX IPO",
-            "description": "[BLOOMBERG] Elon Musk gave the financial world a lot to ponder as SpaceX made public its plans for an initial public offering. The IPO is poised to be the largest stock-market debut in history, but as financial...",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-21/spacex-ipo-ai-plans-starlink-growth-and-risks"
-        },
-        {
-            "title": "OpenAI to provide Japan gov't with advanced cybersecurity AI model",
-            "description": "[JAPAN TODAY] OpenAI, the U.S. developer of the artificial intelligence chatbot ChatGPT, said Thursday it will provide the Japanese government and some companies with an AI model featuring advanced cybersecurity...",
-            "url": "https://japantoday.com/category/tech/openai-to-provide-japan-gov't-with-advanced-cybersecurity-ai-model"
-        },
-        {
-            "title": "OpenAI to provide Japan gov't with advanced cybersecurity AI model",
-            "description": "[JAPAN TODAY] OpenAI, the U.S. developer of the artificial intelligence chatbot ChatGPT, said Thursday it will provide the Japanese government and some companies with an AI model featuring advanced cybersecurity...",
-            "url": "https://japantoday.com/category/tech/openai-to-provide-japan-gov%27t-with-advanced-cybersecurity-ai-model"
-        },
-        {
-            "title": "If AI can translate instantly, why learn another language?",
-            "description": "[JAPAN TODAY] From live speech translation in video calls to auto-dubbing on TikTok, the technology to dissolve language barriers has arrived. Real-time translation powered by artificial intelligence (AI) is now...",
-            "url": "https://japantoday.com/category/features/lifestyle/If-AI-can-translate-instantly-why-learn-another-language-"
-        },
-        {
-            "title": "Cursor Hits $3 Billion Annual Sales Rate Ahead of SpaceX Deal",
-            "description": "[BLOOMBERG] Cursor\u2019s annualized revenue hit $3 billion in late April, according to a person familiar with the matter, indicating growing demand for the company\u2019s AI coding software ahead of an expected deal to...",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-21/cursor-hits-3-billion-annual-sales-rate-ahead-of-spacex-deal"
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Maxwell Zeff, Paresh Dave",
+            "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI's Models to Train Its Own",
+            "description": "While answering questions under oath, Musk argued it\u2019s standard practice for AI labs to use their competitors' models.",
+            "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+            "urlToImage": "https://media.wired.com/photos/69f3848c17e0528daa0ec80c/191:100/w_1280,c_limit/Musk-Admits-to-Partly-Distilling-OpenAI-Models-Business-2273133893.jpg",
+            "publishedAt": "2026-04-30T17:41:14Z",
+            "content": "While testifying on Thursday in federal court, Elon Musk seemed to indicate that his AI lab may have used OpenAIs models to train xAIs own. He touched upon the topic while sitting on the witness stan\u2026 [+2630 chars]"
         }
     ]
 }
