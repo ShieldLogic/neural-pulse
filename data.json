@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-23 06:31:21 UTC",
+    "updated": "2026-05-23 09:47:53 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,19 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -32,14 +27,14 @@
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Prompt Engineering for Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
+            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
         },
         {
-            "title": "Effective KV Compression with TurboQuant",
-            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
-            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -57,9 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
+            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
+            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
+        },
+        {
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,6 +77,46 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
+            "title": "Trump had \u2018many\u2019 concerns about AI draft policy order",
+            "description": "[POLITICO] The artificial intelligence order pulled Thursday could still be rewritten.",
+            "url": "https://www.politico.com/news/2026/05/22/trump-concerns-ai-policy-00934622"
+        },
+        {
+            "title": "I tried a new 8B local LLM, and its design might be the biggest shift since DeepSeek R1",
+            "description": "[XDA DEVELOPERS] Zaya1-8B is a huge shift in LLMs, and the results are impressive.",
+            "url": "https://www.xda-developers.com/tried-new-8b-local-llm-deepseek-r1-design/"
+        },
+        {
+            "title": "Kerry Bodine Champions Human Capability in the Age of AI",
+            "description": "[INTERNATIONAL BUSINESS TIMES] Kerry Bodine, founder of Bodine & Co., believes artificial intelligence is the latest and most consequential iteration of that pattern.",
+            "url": "https://www.ibtimes.com/kerry-bodine-champions-human-capability-age-ai-3803225"
+        },
+        {
+            "title": "Rising US Borrowing Costs Won't Slow Massive AI Data-Center Buildout as Potential Profit Outweighs Spending",
+            "description": "[MARKETSCREENER] Rising interest rates won't stop companies such as Alphabet's Google, Amazon and Microsoft from spending enormous amounts of money to build artificial intelligence data centers because the...",
+            "url": "https://www.marketscreener.com/news/rising-us-borrowing-costs-won-t-slow-massive-ai-data-center-buildout-as-potential-profit-outweighs-s-ce7f5adcd889f027"
+        },
+        {
+            "title": "SpaceX\u2019s Money-Losing Rockets Are Biggest Asset in AI Dream",
+            "description": "[LIVEMINT] SpaceX revealed eye-popping numbers in its IPO prospectus, including a $26.5 trillion potential market for an empire spanning artificial intelligence and telecommunications.",
+            "url": "https://www.livemint.com/companies/spacexs-money-losing-rockets-are-biggest-asset-in-ai-dream-11779477585360.html"
+        },
+        {
+            "title": "Sick paedo creates 13 AI images of kids - they looked real",
+            "description": "[DAILY EXPRESS] Warped Adam Evans used artificial intelligence to mock up degenerate sexualised photos of children.",
+            "url": "https://www.express.co.uk/news/uk/2208779/sick-paedo-creates-children-sex-images-AI"
+        },
+        {
+            "title": "What's with all the videos of college graduates booing AI?",
+            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] It's graduation season for universities across the US, which has bred an unexpected viral trend: graduates jeering at artificial intelligence.",
+            "url": "https://www.abc.net.au/news/2026-05-23/graduates-boo-ai-google-eric-schmidt-artificial-intelligence/106701510"
+        },
+        {
+            "title": "Vatican taps 'atheist' Anthropic cofounder to speak at AI event as tensions with Trump White House rise",
+            "description": "[NEW YORK POST] Pope Leo XIV\u2019s encyclical on artificial intelligence is slated for a Vatican event next week that will include Anthropic cofounder Christopher Olah \u2013 a self-described \u201catheist\u201d who has written snarky...",
+            "url": "https://nypost.com/2026/05/22/business/vatican-taps-atheist-anthropic-cofounder-to-speak-at-ai-event-as-tensions-with-trump-white-house-rise/"
+        },
+        {
             "title": "Tremendous potential for cooperation in semiconductors, space sectors between India, Cyprus: Prez",
             "description": "[THEPRINT] New Delhi, May 22 (PTI) President Droupadi Murmu on Friday said there is a tremendous potential for cooperation between India and Cyprus in new sectors such as semiconductors, space and Artificial...",
             "url": "https://theprint.in/india/tremendous-potential-for-cooperation-in-semiconductors-space-sectors-between-india-cyprus-prez/2939146/"
@@ -85,46 +125,6 @@
             "title": "OpenAI Crushed Anthropic in Q1 Revenue and Still Hemorrhaged Billions",
             "description": "[MARKETS INSIDER] OpenAI, the artificial intelligence (AI) firm behind ChatGPT, has surpassed rival Anthropic, the startup behind the Claude models, in quarterly ...",
             "url": "https://markets.businessinsider.com/news/stocks/openai-crushed-anthropic-in-q1-revenue-and-still-hemorrhaged-billions-1036189755"
-        },
-        {
-            "title": "Tremendous potential for cooperation in semiconductors, space sectors between India, Cyprus: Prez",
-            "description": "[DEVDISCOURSE] Indian President Droupadi Murmu highlighted potential for cooperation with Cyprus in emerging sectors such as semiconductors, space, and Artificial Intelligence, citing complementary innovation...",
-            "url": "https://www.devdiscourse.com/article/technology/3918823-tremendous-potential-for-cooperation-in-semiconductors-space-sectors-between-india-cyprus-prez"
-        },
-        {
-            "title": "Goldman Sachs CEO Says AI \u2018Job Apocalypse\u2019 Is \u2018Overblown\u2019",
-            "description": "[FORBES] David Solomon acknowledged advancements in artificial intelligence have eliminated jobs in some industries but \u201cmay lead to job growth in others.\u201d",
-            "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/05/22/goldman-sachs-ceo-says-fears-of-mass-unemployment-from-ai-are-overblown/"
-        },
-        {
-            "title": "Pennhurst Data Center Proposal Rejected, Labeled 'Insult To Humanity'",
-            "description": "[JOLIET, IL PATCH] One of the most notorious artificial intelligence data center proposals in the Philadelphia region has been defeated.",
-            "url": "https://patch.com/pennsylvania/limerick/pennhurst-data-center-proposal-rejected-labeled-insult-humanity"
-        },
-        {
-            "title": "Amazon Web Services CEO Matt Garman is not worried that AI is going to replace him as CEO; says: May be I would have been worried if \u2026",
-            "description": "[TIMES OF INDIA] Tech News News: Amazon Web Services (AWS) CEO Matt Garman has a clear message for anyone wondering if artificial intelligence (AI) is coming for the top office. In a .",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-web-services-ceo-matt-garman-is-not-worried-that-ai-is-going-to-replace-him-as-ceo-says-may-be-i-would-have-been-worried-if-/articleshow/131266596.cms"
-        },
-        {
-            "title": "Microsoft (MSFT) Is Losing the AI Coding War Thanks to GitHub\u2019s Unending Outages",
-            "description": "[MARKETS INSIDER] GitHub, Microsoft\u2019s (MSFT) developer platform, is facing a growing reliability crisis as demand for artificial intelligence (AI) coding pushes i...",
-            "url": "https://markets.businessinsider.com/news/stocks/microsoft-msft-is-losing-the-ai-coding-war-thanks-to-github-s-unending-outages-1036189727"
-        },
-        {
-            "title": "AI/R Launches Platform to Bring Visibility to Artificial Intelligence Spending Across Organizations",
-            "description": "[THE MANILA TIMES] AI/R Watch centralizes the monitoring, visualization, and governance of AI-related investments and spending in enterprise environments",
-            "url": "https://www.manilatimes.net/2026/05/23/tmt-newswire/globenewswire/air-launches-platform-to-bring-visibility-to-artificial-intelligence-spending-across-organizations/2350298"
-        },
-        {
-            "title": "AI to facilitate pollution-control, says CM as Delhi govt inks MoU for air quality forecast tech",
-            "description": "[THEPRINT] New Delhi, May 22 (PTI) Artificial intelligence and data analytics-led interventions will lead to improvement of Delhi\u2019s air quality, Chief Minister Rekha Gupta asserted on Friday, signing an MoU...",
-            "url": "https://theprint.in/india/ai-to-facilitate-pollution-control-says-cm-as-delhi-govt-inks-mou-for-air-quality-forecast-tech/2939124/"
-        },
-        {
-            "title": "AI controversy swirls around Trinidadian writer who won a prestigious prize",
-            "description": "[THE ASSOCIATED PRESS] A prize-winning Caribbean writer from Trinidad and Tobago is embroiled in the latest controversy involving a short story and allegations that artificial intelligence was used to write it.",
-            "url": "https://apnews.com/article/ai-short-story-jamir-nazir-commonwealth-prize-won-9c7441de907664136a7ae0c8af0912ad"
         }
     ]
 }
