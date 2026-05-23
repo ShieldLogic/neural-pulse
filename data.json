@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-23 13:16:35 UTC",
+    "updated": "2026-05-23 14:57:11 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -27,14 +27,14 @@
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
+            "title": "Prompt Engineering for Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
+            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
+        },
+        {
             "title": "LLM Observability Tools for Reliable AI Applications",
             "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
             "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,6 +52,11 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
+            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
+            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
+        },
+        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
@@ -62,11 +67,6 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
-        },
-        {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
             "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
             "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
@@ -75,6 +75,11 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Startup raises US$1.3bil for an AI \u2018grid\u2019",
+            "description": "[THE STAR] As tech giants dominate the hardware needed to build artificial intelligence, Amp hopes to create an alternative.",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/23/startup-raises-us13bil-for-an-ai-grid"
         },
         {
             "title": "Takaichi considering new quota for growth investment",
@@ -120,11 +125,6 @@
             "title": "Kerry Bodine Champions Human Capability in the Age of AI",
             "description": "[INTERNATIONAL BUSINESS TIMES] Kerry Bodine, founder of Bodine & Co., believes artificial intelligence is the latest and most consequential iteration of that pattern.",
             "url": "https://www.ibtimes.com/kerry-bodine-champions-human-capability-age-ai-3803225"
-        },
-        {
-            "title": "Rising US Borrowing Costs Won't Slow Massive AI Data-Center Buildout as Potential Profit Outweighs Spending",
-            "description": "[MARKETSCREENER] Rising interest rates won't stop companies such as Alphabet's Google, Amazon and Microsoft from spending enormous amounts of money to build artificial intelligence data centers because the...",
-            "url": "https://www.marketscreener.com/news/rising-us-borrowing-costs-won-t-slow-massive-ai-data-center-buildout-as-potential-profit-outweighs-s-ce7f5adcd889f027"
         }
     ]
 }
