@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-23 09:47:53 UTC",
+    "updated": "2026-05-23 11:07:33 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -27,14 +27,14 @@
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Prompt Engineering for Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
-            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
-        },
-        {
             "title": "LLM Observability Tools for Reliable AI Applications",
             "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
             "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
+        },
+        {
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,11 +52,6 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
-            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
-            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
-        },
-        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
@@ -67,6 +62,11 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
+        },
+        {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
             "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
             "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
@@ -75,6 +75,26 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Bill regulating powerful AI models advances as advocates say it\u2019s only the first step",
+            "description": "[SHAW LOCAL ENEWSPAPERS] From Capitol News Illinois: The Illinois Senate voted overwhelmingly on Thursday to advance a bill that would regulate how large artificial intelligence model developers handle transparency and...",
+            "url": "https://www.shawlocal.com/news/2026/05/22/bill-regulating-powerful-ai-models-advances-as-advocates-say-its-only-the-first-step/"
+        },
+        {
+            "title": "Dr. Bob Akmens & BASports.com Declared \"The Greatest Of All Time\" Sports Handicapper by Every Major AI Platform - Stunning 9-Contest Sweep Validates Half-Century of Predictive Excellence",
+            "description": "[THE MANILA TIMES] Do you bet on sports? Would you like to finally win money when you bet on sports? If so, watch this 30 second video where Dr. Bob Akmens of BASports.com uses ordinary Google search to come up as the...",
+            "url": "https://www.manilatimes.net/2026/05/23/tmt-newswire/globenewswire/dr-bob-akmens-basportscom-declared-the-greatest-of-all-time-sports-handicapper-by-every-major-ai-platform-stunning-9-contest-sweep-validates-half-century-of-predictive-excellence/2350411"
+        },
+        {
+            "title": "Communications Services Up on AI Optimism - Communications Services Roundup",
+            "description": "[MARKETSCREENER] Communications-services rose as traders sought out companies that could benefit from an artificial-intelligence boom. Take-Two Interactive Software reported better-than-expected fiscal...",
+            "url": "https://www.marketscreener.com/news/communications-services-up-on-ai-optimism-communications-services-roundup-ce7f5adcdb8dfe2c"
+        },
+        {
+            "title": "Tech Advances as Software Cos Bounce Back - Tech Roundup",
+            "description": "[MARKETSCREENER] Shares of technology companies rose as fears that artificial intelligence would wipe out demand for software-as-a-service were mitigated by one key earnings report. Shares of Workday, the...",
+            "url": "https://www.marketscreener.com/news/tech-advances-as-software-cos-bounce-back-tech-roundup-ce7f5adcdb8dff23"
         },
         {
             "title": "Trump had \u2018many\u2019 concerns about AI draft policy order",
@@ -105,26 +125,6 @@
             "title": "Sick paedo creates 13 AI images of kids - they looked real",
             "description": "[DAILY EXPRESS] Warped Adam Evans used artificial intelligence to mock up degenerate sexualised photos of children.",
             "url": "https://www.express.co.uk/news/uk/2208779/sick-paedo-creates-children-sex-images-AI"
-        },
-        {
-            "title": "What's with all the videos of college graduates booing AI?",
-            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] It's graduation season for universities across the US, which has bred an unexpected viral trend: graduates jeering at artificial intelligence.",
-            "url": "https://www.abc.net.au/news/2026-05-23/graduates-boo-ai-google-eric-schmidt-artificial-intelligence/106701510"
-        },
-        {
-            "title": "Vatican taps 'atheist' Anthropic cofounder to speak at AI event as tensions with Trump White House rise",
-            "description": "[NEW YORK POST] Pope Leo XIV\u2019s encyclical on artificial intelligence is slated for a Vatican event next week that will include Anthropic cofounder Christopher Olah \u2013 a self-described \u201catheist\u201d who has written snarky...",
-            "url": "https://nypost.com/2026/05/22/business/vatican-taps-atheist-anthropic-cofounder-to-speak-at-ai-event-as-tensions-with-trump-white-house-rise/"
-        },
-        {
-            "title": "Tremendous potential for cooperation in semiconductors, space sectors between India, Cyprus: Prez",
-            "description": "[THEPRINT] New Delhi, May 22 (PTI) President Droupadi Murmu on Friday said there is a tremendous potential for cooperation between India and Cyprus in new sectors such as semiconductors, space and Artificial...",
-            "url": "https://theprint.in/india/tremendous-potential-for-cooperation-in-semiconductors-space-sectors-between-india-cyprus-prez/2939146/"
-        },
-        {
-            "title": "OpenAI Crushed Anthropic in Q1 Revenue and Still Hemorrhaged Billions",
-            "description": "[MARKETS INSIDER] OpenAI, the artificial intelligence (AI) firm behind ChatGPT, has surpassed rival Anthropic, the startup behind the Claude models, in quarterly ...",
-            "url": "https://markets.businessinsider.com/news/stocks/openai-crushed-anthropic-in-q1-revenue-and-still-hemorrhaged-billions-1036189755"
         }
     ]
 }
