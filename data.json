@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-24 20:50:39 UTC",
+    "updated": "2026-05-24 22:54:21 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,11 +12,6 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
-        },
-        {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
@@ -27,14 +22,14 @@
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Prompt Engineering for Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
-            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,19 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
-            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
-            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
-        },
-        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -75,6 +75,36 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "South Korea\u2019s Bae Kyung-hoon calls for public share in \u2018AI wealth\u2019 amid Samsung labor dispute",
+            "description": "[THE NEWS INTERNATIONAL] Deputy Prime Minister Bae Kyung-hoon reportedly said that South Korea must ensure inclusive growth created by artificial intelligence benefits the wider community as the country navigates workforce...",
+            "url": "https://www.thenews.com.pk/latest/1403643-south-koreas-bae-kyung-hoon-calls-for-public-share-in-ai-wealth-amid-samsung-labor-dispute"
+        },
+        {
+            "title": "Convicted nurse turns fatal drug error into cautionary tale : NPR",
+            "description": "[NPR] RaDonda Vaught was convicted of negligent homicide after dispensing the wrong drug to a patient. She now gives speeches about hospital safety in an era of automation and artificial intelligence.",
+            "url": "https://www.npr.org/2026/05/24/nx-s1-5822519/radonda-vaught-nurse-convicted-vanderbilt-medical-error"
+        },
+        {
+            "title": "minute AI order switch exposes White House divides",
+            "description": "[NEWSBREAK] President Trump\u2019s abrupt decision to pull an executive order on artificial intelligence testing has exposed a deeper divide in the White House over how to",
+            "url": "https://www.newsbreak.com/the-hill-560476/4669201870889-trump-s-last-minute-ai-order-switch-exposes-white-house-divides"
+        },
+        {
+            "title": "Hedge funds double down on AI stocks; chipmakers emerge biggest Wall Street bet: Report",
+            "description": "[THE TRIBUNE] Global hedge funds sharply increased their bets on artificial intelligence-linked companies at the start of the second quarter of 2026, with semiconductor and AI infrastructure firms emerging as the...",
+            "url": "https://www.tribuneindia.com/news/business/hedge-funds-double-down-on-ai-stocks-chipmakers-emerge-biggest-wall-street-bet-report/"
+        },
+        {
+            "title": "One Job That Is Growing in the A.I. Era? Cybersecurity Experts.",
+            "description": "[THE NEW YORK TIMES] Demand for security engineers has surged as artificial intelligence generates a glut of new code and models like Anthropic\u2019s Mythos create new concerns.",
+            "url": "https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html"
+        },
+        {
+            "title": "AI gave this octogenarian a breakthrough",
+            "description": "[NEW YORK DAILY NEWS] Artificial intelligence has given this 83-year-old research scientist a new lease on life. I had been wanting to complete a computer program exploring my research findings about how hermit crabs get...",
+            "url": "https://www.nydailynews.com/2026/05/24/ai-gave-this-octogenarian-a-breakthrough/"
         },
         {
             "title": "OEd BS Artificial Intelligence program leads shift toward next-gen learning",
@@ -95,36 +125,6 @@
             "title": "Wanted: AI professionals to lean into China\u2019s surging demand for future tech",
             "description": "[SOUTH CHINA MORNING POST] Companies across all sectors are advertising positions linked to artificial intelligence, recruitment firms report.",
             "url": "https://www.scmp.com/economy/china-economy/article/3354669/wanted-ai-professionals-lean-chinas-surging-demand-future-tech"
-        },
-        {
-            "title": "Delhi Red Fort blast: NIA chargesheet reveals abuse of AI platform for 'terror engineering'",
-            "description": "[THE ECONOMIC TIMES] NIA investigation into the Red Fort car blast uncovers a disturbing use of artificial intelligence for terror engineering. Accused individuals allegedly developed and tested rocket Improvised...",
-            "url": "https://economictimes.indiatimes.com/news/india/delhi-red-fort-blast-nia-chargesheet-reveals-abuse-of-ai-platform-for-terror-engineering/articleshow/131290208.cms"
-        },
-        {
-            "title": "Opinion | This corporate jargon has spread so quickly but it is simply plagiarism",
-            "description": "[PEORIA JOURNAL STAR] A letter to the editor says that artificial intelligence is a misnomer for \"high-speed algorithmic plagiarism.\"",
-            "url": "https://www.pjstar.com/story/opinion/letters/2026/05/24/artificial-intelligence-is-a-parasite-and-data-centers-are-the-physical-manifestation/90185113007/"
-        },
-        {
-            "title": "AI-driven power demand revives global nuclear energy push: Report",
-            "description": "[DEVDISCOURSE] The rapid rise in electricity demand from artificial intelligence (AI) data centres is emerging as a major factor behind the global revival of nuclear energy, according to a thematic report by Deven...",
-            "url": "https://www.devdiscourse.com/article/business/3919919-ai-driven-power-demand-revives-global-nuclear-energy-push-report"
-        },
-        {
-            "title": "Delhi Red Fort blast: NIA chargesheet reveals abuse of AI platform for \u2018terror engineering\u2019",
-            "description": "[THE HINDU BUSINESS LINE] The National Investigation Agency (NIA) probe into the Red Fort area car blast case in Delhi has found that a chargesheeted accused, linked to an offshoot of global terrorist outfit Al-Qaida,...",
-            "url": "https://www.thehindubusinessline.com/news/delhi-red-fort-blast-nia-chargesheet-reveals-abuse-of-ai-platform-for-terror-engineering/article71017246.ece"
-        },
-        {
-            "title": "Talk To Your Furries Now! Chinese Startup Creates AI Pet Translator; Claims 95% Reading Accuracy",
-            "description": "[FREE PRESS JOURNAL] The Hangzhou-based company, Meng Xiaoyi, says its futuristic pet translator device is designed to help owners better understand what their cats and dogs are trying to communicate. Unlike novelty pet...",
-            "url": "https://www.freepressjournal.in/lifestyle/talk-to-your-furries-now-chinese-startup-creates-ai-pet-translator-claims-95-reading-accuracy"
-        },
-        {
-            "title": "driven power demand revives global nuclear energy push: Report",
-            "description": "[THE TRIBUNE] The rapid rise in electricity demand from artificial intelligence (AI) data centres is emerging as a major factor behind the global revival of nuclear energy, according to a thematic report by Deven...",
-            "url": "https://www.tribuneindia.com/news/business/ai-driven-power-demand-revives-global-nuclear-energy-push-report/"
         }
     ]
 }
