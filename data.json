@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-24 19:11:57 UTC",
+    "updated": "2026-05-24 20:50:39 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,6 +12,11 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+        },
+        {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
@@ -22,14 +27,14 @@
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Prompt Engineering for Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
+            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
         },
         {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,24 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
+            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
+            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
+        },
+        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "EaseMyTrip focused on long-term growth, strengthening business ecosystem: CEO",
-            "description": "[THE ECONOMIC TIMES] EaseMyTrip is focusing on long-term growth and strengthening its business. The company sees a strong appetite for domestic tourism in India. Recent acquisitions and investments in artificial...",
-            "url": "https://economictimes.indiatimes.com/industry/services/travel/easemytrip-focused-on-long-term-growth-strengthening-business-ecosystem-ceo/articleshow/131289435.cms"
+            "title": "OEd BS Artificial Intelligence program leads shift toward next-gen learning",
+            "description": "[THE MANILA TIMES] AS industries evolve at an unprecedented pace, education is no longer simply about earning a diploma.",
+            "url": "https://www.manilatimes.net/2026/05/24/tmt-newswire/oed-bs-artificial-intelligence-program-leads-shift-toward-next-gen-learning/2350663"
         },
         {
-            "title": "6 pharma stocks that Bernstein sees up to 40% upside potential. Do you own any?",
-            "description": "[THE ECONOMIC TIMES] Bernstein has initiated coverage on six pharma stocks, as the international brokerage holds a positive view on the Indian healthcare sector due to multiple tailwinds. Bernstein said that the...",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/6-pharma-stocks-that-bernstein-sees-up-to-40-upside-potential-do-you-own-any/slideshow/131289370.cms"
+            "title": "Roanoke lawyer runs afoul with AI-generated legal research",
+            "description": "[ROANOKE TIMES] A federal judge ruled that a Roanoke attorney relied on artificial intelligence to make inaccurate arguments and cite \"made up\" case law.",
+            "url": "https://roanoke.com/news/local/crime-courts/article_e49bd22f-7f04-4120-9c0f-a0b722571c30.html"
         },
         {
-            "title": "Half of elderly women in Japan prefer AI over humans for personal advice",
-            "description": "[BANGKOK POST] A recent survey in Japan found that almost half of elderly women living in the country prefer artificial intelligence over humans for advice on interpersonal conflict, a higher percentage than any...",
-            "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3260090/half-of-elderly-women-in-japan-prefer-ai-over-humans-for-personal-advice"
+            "title": "Delhi Red Fort blast: NIA chargesheet reveals abuse of AI platform for \u2018terror engineering\u2019",
+            "description": "[THE TRIBUNE] The National Investigation Agency (NIA) probe into the Red Fort area car blast case in Delhi has found that a chargesheeted accused, linked to an offshoot of global terrorist outfit Al-Qaida,...",
+            "url": "https://www.tribuneindia.com/news/india/delhi-red-fort-blast-nia-chargesheet-reveals-abuse-of-ai-platform-for-terror-engineering/"
         },
         {
-            "title": "\u2018AI washing\u2019: firms are scrambling to rebrand themselves as tech-focused",
-            "description": "[THE GUARDIAN] PR executives say UK companies are forcing them to present ordinary automation as artificial intelligence",
-            "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand"
+            "title": "Wanted: AI professionals to lean into China\u2019s surging demand for future tech",
+            "description": "[SOUTH CHINA MORNING POST] Companies across all sectors are advertising positions linked to artificial intelligence, recruitment firms report.",
+            "url": "https://www.scmp.com/economy/china-economy/article/3354669/wanted-ai-professionals-lean-chinas-surging-demand-future-tech"
         },
         {
-            "title": "Nearly 1 in 2 firms in India identify AI, digital, data skills as key workforce constraint",
-            "description": "[LOKMAT TIMES] Nearly 1 in 2 firms in India identify AI, digital, data skills as key workforce constraint - New Delhi, May 24 As artificial intelligence (AI) unfolds an exciting yet uncertain future at the global...",
-            "url": "https://www.lokmattimes.com/business/nearly-1-in-2-firms-in-india-identify-ai-digital-data-skills-as-key-workforce-constraint/"
+            "title": "Delhi Red Fort blast: NIA chargesheet reveals abuse of AI platform for 'terror engineering'",
+            "description": "[THE ECONOMIC TIMES] NIA investigation into the Red Fort car blast uncovers a disturbing use of artificial intelligence for terror engineering. Accused individuals allegedly developed and tested rocket Improvised...",
+            "url": "https://economictimes.indiatimes.com/news/india/delhi-red-fort-blast-nia-chargesheet-reveals-abuse-of-ai-platform-for-terror-engineering/articleshow/131290208.cms"
         },
         {
-            "title": "Nearly 1 in 2 firms in India identify AI, digital, data skills as key workforce constraint",
-            "description": "[LOKMAT TIMES] Nearly 1 in 2 firms in India identify AI, digital, data skills as key workforce constraint - New Delhi, May 24 As artificial intelligence (AI) unfolds an exciting yet uncertain future at the global...",
-            "url": "https://www.lokmattimes.com/technology/nearly-1-in-2-firms-in-india-identify-ai-digital-data-skills-as-key-workforce-constraint-1/"
+            "title": "Opinion | This corporate jargon has spread so quickly but it is simply plagiarism",
+            "description": "[PEORIA JOURNAL STAR] A letter to the editor says that artificial intelligence is a misnomer for \"high-speed algorithmic plagiarism.\"",
+            "url": "https://www.pjstar.com/story/opinion/letters/2026/05/24/artificial-intelligence-is-a-parasite-and-data-centers-are-the-physical-manifestation/90185113007/"
         },
         {
-            "title": "Could anything but profit steer AI? The OpenAI trial offered clues but no verdict",
-            "description": "[WTOP] The trial pitting Elon Musk against OpenAI CEO Sam Altman made clear the two billionaires agreed on one thing: building artificial intelligence would require\u2026",
-            "url": "https://wtop.com/national/2026/05/could-anything-but-profit-steer-ai-the-openai-trial-offered-clues-but-no-verdict/"
+            "title": "AI-driven power demand revives global nuclear energy push: Report",
+            "description": "[DEVDISCOURSE] The rapid rise in electricity demand from artificial intelligence (AI) data centres is emerging as a major factor behind the global revival of nuclear energy, according to a thematic report by Deven...",
+            "url": "https://www.devdiscourse.com/article/business/3919919-ai-driven-power-demand-revives-global-nuclear-energy-push-report"
         },
         {
-            "title": "The OpenAI trial raised questions about what's driving AI's development",
-            "description": "[THE ASSOCIATED PRESS] The trial pitting Elon Musk against OpenAI CEO Sam Altman made clear the two billionaires agreed on one thing: building artificial intelligence would require significant resources \u2014 and enormous...",
-            "url": "https://apnews.com/article/openai-trial-musk-altman-ipo-776743f032d8e5ac4faf85088db8bfc0"
+            "title": "Delhi Red Fort blast: NIA chargesheet reveals abuse of AI platform for \u2018terror engineering\u2019",
+            "description": "[THE HINDU BUSINESS LINE] The National Investigation Agency (NIA) probe into the Red Fort area car blast case in Delhi has found that a chargesheeted accused, linked to an offshoot of global terrorist outfit Al-Qaida,...",
+            "url": "https://www.thehindubusinessline.com/news/delhi-red-fort-blast-nia-chargesheet-reveals-abuse-of-ai-platform-for-terror-engineering/article71017246.ece"
         },
         {
-            "title": "Airbnb wants you to find your next holiday home with the help of AI",
-            "description": "[THE STAR] Airbnb wants to make its accommodation platform more personalised for individual users \u2013 and is turning to artificial intelligence to do so, co-founder Nathan Blecharczyk told dpa.",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/24/airbnb-wants-you-to-find-your-next-holiday-home-with-the-help-of-ai"
+            "title": "Talk To Your Furries Now! Chinese Startup Creates AI Pet Translator; Claims 95% Reading Accuracy",
+            "description": "[FREE PRESS JOURNAL] The Hangzhou-based company, Meng Xiaoyi, says its futuristic pet translator device is designed to help owners better understand what their cats and dogs are trying to communicate. Unlike novelty pet...",
+            "url": "https://www.freepressjournal.in/lifestyle/talk-to-your-furries-now-chinese-startup-creates-ai-pet-translator-claims-95-reading-accuracy"
         },
         {
-            "title": "Palo Networks CEO Nikesh Arora: It is mistake to believe that AI productivity gains automatically means fewer employees, in fact for engineers ...",
-            "description": "[TIMES OF INDIA] Tech News News: Nikesh Arora the CEO of cybersecurity giant Palo Alto Networks, has pushed back against the widespread belief that artificial intelligence will automa.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/palo-networks-ceo-nikesh-arora-it-is-mistake-to-believe-that-ai-productivity-gains-automatically-means-fewer-employees-in-fact-for-engineers-/articleshow/131288380.cms"
+            "title": "driven power demand revives global nuclear energy push: Report",
+            "description": "[THE TRIBUNE] The rapid rise in electricity demand from artificial intelligence (AI) data centres is emerging as a major factor behind the global revival of nuclear energy, according to a thematic report by Deven...",
+            "url": "https://www.tribuneindia.com/news/business/ai-driven-power-demand-revives-global-nuclear-energy-push-report/"
         }
     ]
 }
