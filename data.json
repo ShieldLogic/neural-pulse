@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-24 06:56:12 UTC",
+    "updated": "2026-05-24 09:50:53 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,11 +12,6 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
-        },
-        {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
@@ -27,14 +22,14 @@
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Prompt Engineering for Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
-            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,19 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
-            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
-            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
-        },
-        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -75,6 +75,16 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Fans create AI-generated team songs ahead of World Cup",
+            "description": "[JAPAN TODAY] World Cup fans are wielding artificial intelligence to mass-produce viral songs supporting their teams ahead of next month's tournament. As the fan-made football anthems are raking in millions of...",
+            "url": "https://japantoday.com/category/2026-fifa-world-cup/fans-create-ai-generated-team-songs-ahead-of-world-cup"
+        },
+        {
+            "title": "Dearborn Truck Plant Changes Prompt Huge Surge in Ford Stock (NYSE:F)",
+            "description": "[MARKETS INSIDER] The idea of bringing artificial intelligence (AI) into the workday is the kind of thing that comes with some clear concerns. While much of the t...",
+            "url": "https://markets.businessinsider.com/news/stocks/dearborn-truck-plant-changes-prompt-huge-surge-in-ford-stock-nyse-f-1036189793"
         },
         {
             "title": "This is a serious violation of privacy: Rukmini Vasanth on deepfake",
@@ -115,16 +125,6 @@
             "title": "I added these MCP servers to my local LLM stack, and one of them replaces a $249 paid tool",
             "description": "[XDA DEVELOPERS] These MCP servers make my local LLM even better.",
             "url": "https://www.xda-developers.com/added-these-mcp-servers-local-llm-stack-one-replaces-paid-tool/"
-        },
-        {
-            "title": "How AI is fast-tracking search for drugs to treat brain conditions",
-            "description": "[THE NEWS INTERNATIONAL] In the rapidly evolving age of artificial intelligence, scientists are using it to expedite drug development, uncovering treatments for neurological conditions that may be hiding in plain sight....",
-            "url": "https://www.thenews.com.pk/latest/1403572-how-ai-is-fast-tracking-search-for-drugs-to-treat-brain-conditions"
-        },
-        {
-            "title": "powered campaign song ahead of 2027 polls",
-            "description": "[THE TRIBUNE] The track, developed using artificial intelligence to blend traditional Punjabi folk rhythms with modern beats, quickly gained traction across social media",
-            "url": "https://www.tribuneindia.com/news/punjab/modi-da-punjab-bjp-releases-ai-powered-campaign-song-ahead-of-2027-polls/"
         }
     ]
 }
