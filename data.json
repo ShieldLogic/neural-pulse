@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-24 02:51:58 UTC",
+    "updated": "2026-05-24 06:56:12 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,6 +12,11 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+        },
+        {
             "title": "ReasoningBank: Enabling agents to learn from experience",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
@@ -22,14 +27,14 @@
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Prompt Engineering for Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
+            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
         },
         {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,24 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
+            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
+            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
+        },
+        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -75,6 +75,41 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "This is a serious violation of privacy: Rukmini Vasanth on deepfake",
+            "description": "[TIMES OF INDIA] Artificial Intelligence has claimed another celebrity victim. Kantara Chapter 1 actor Rukmini Vasanth became the latest target of a deepfake scam af t.",
+            "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/this-is-a-serious-violation-of-privacy-rukmini-vasanth-on-deepfake/articleshow/131278246.cms"
+        },
+        {
+            "title": "Pi Network Price Eyes All-Time Low Despite Pivoting to AI, Smart Contracts",
+            "description": "[BENZINGA] Pi Network (CRYPTO: PI) price remained on edge Saturday, and was at risk of falling to a record low despite its pivot to the artificial intelligence industry and completing an",
+            "url": "https://www.benzinga.com/crypto/26/05/52762677/pi-network-price-eyes-all-time-low-despite-pivoting-to-ai-smart-contracts"
+        },
+        {
+            "title": "Bot busters: NYC Council bill would protect New Yorkers from rogue AI",
+            "description": "[NEW YORK POST] The NYC Council is reviewing new legislation aimed at protecting New Yorkers from being screwed over by artificial intelligence.",
+            "url": "https://nypost.com/2026/05/23/us-news/nyc-bill-would-protect-new-yorkers-from-rogue-artificial-intelligence/"
+        },
+        {
+            "title": "The financial cost of endless distraction",
+            "description": "[THE MANILA TIMES] MANY Filipinos today live in a far more competitive economic environment than previous generations. Housing costs have risen. Transportation expenses continue increasing. Inflation erodes purchasing...",
+            "url": "https://www.manilatimes.net/2026/05/24/business/top-business/the-financial-cost-of-endless-distraction/2350490"
+        },
+        {
+            "title": "AI, insider threats reshape global cyber risks: Microsoft report",
+            "description": "[THE MANILA TIMES] ORGANIZATIONS worldwide face a rapidly evolving cyberthreat landscape shaped by artificial intelligence, insider risks and increasingly sophisticated attacks, according to the \u201cMicrosoft Digital...",
+            "url": "https://www.manilatimes.net/2026/05/24/business/sunday-business-it/ai-insider-threats-reshape-global-cyber-risks-microsoft-report/2350484"
+        },
+        {
+            "title": "Global AI Expert Tim Santos leads Strategic AI Masterclass for Philippine business leaders",
+            "description": "[THE MANILA TIMES] AS businesses worldwide pivot toward artificial intelligence (AI), a critical gap remains between strategic interest and operational execution. To address this, Geeks on a Beach (GOAB) and Symph.co...",
+            "url": "https://www.manilatimes.net/2026/05/24/tmt-newswire/global-ai-expert-tim-santos-leads-strategic-ai-masterclass-for-philippine-business-leaders/2350495"
+        },
+        {
+            "title": "Banking in the AI age needs more than speed",
+            "description": "[THE STAR] ARTIFICIAL intelligence (AI) has made scams more convincing, quicker and harder to detect.",
+            "url": "https://www.thestar.com.my/opinion/columnists/the-star-says/2026/05/24/banking-in-the-ai-age-needs-more-than-speed"
         },
         {
             "title": "I added these MCP servers to my local LLM stack, and one of them replaces a $249 paid tool",
@@ -90,41 +125,6 @@
             "title": "powered campaign song ahead of 2027 polls",
             "description": "[THE TRIBUNE] The track, developed using artificial intelligence to blend traditional Punjabi folk rhythms with modern beats, quickly gained traction across social media",
             "url": "https://www.tribuneindia.com/news/punjab/modi-da-punjab-bjp-releases-ai-powered-campaign-song-ahead-of-2027-polls/"
-        },
-        {
-            "title": "Chartered accountants should see AI, machine learning and other tech developments as an opportunity: G Ramaswamy",
-            "description": "[TIMES OF INDIA] ICAI holds first Coimbatore convocation as membership hits 4.1 lakh and 10 lakh students; 110 new CAs awarded; tech and advisory roles highlighted.",
-            "url": "https://timesofindia.indiatimes.com/city/coimbatore/chartered-accountants-should-see-ai-machine-learning-and-other-tech-developments-as-an-opportunity-g-ramaswamy/articleshow/131281045.cms"
-        },
-        {
-            "title": "Emerging Roles In Ai: Unlocking the Future: AI's Impact on Jobs and Workforce Transformation in India",
-            "description": "[TIMES OF INDIA] India News: Explore the groundbreaking report by CPRG and AI4India on how artificial intelligence is transforming job roles and creating new opportunities in the workforce. Discover India's unique...",
-            "url": "https://timesofindia.indiatimes.com/india/center-of-policy-research-and-governance-and-ai4india-publish-report-on-future-of-jobs-in-the-age-of-ai/articleshow/131280835.cms"
-        },
-        {
-            "title": "China's DeepSeek to make permanent 75% price cut on flagship V4\u2011Pro AI model",
-            "description": "[REUTERS] Chinese artificial intelligence startup DeepSeek will \u200bmake permanent a 75% price cut on \u200cits flagship V4\u2011Pro artificial intelligence model, keeping prices at a quarter of their original level, the...",
-            "url": "https://www.reuters.com/world/china/chinas-deepseek-make-permanent-75-price-cut-flagship-v4pro-ai-model-2026-05-23/"
-        },
-        {
-            "title": "AI is a digital East India Company. India needs to use \u2018juggad\u2019 to protect itself",
-            "description": "[THE INDIAN EXPRESS] As artificial intelligence turns transparency into a tool of economic extraction, India faces a new colonial challenge: how to protect sovereignty in a world driven by predictive algorithms, data...",
-            "url": "https://indianexpress.com/article/opinion/columns/ai-digital-east-india-company-jugaad-sovereignty-satyagraha-10704582/"
-        },
-        {
-            "title": "Patna Hosts Bihar\u2019s First-Ever AI Summit",
-            "description": "[OUTLOOK INDIA] The two-day event in Patna\u2019s Urja Auditorium is expected to feature around eight panel discussions on the interface of Artificial Intelligence with various sectors.",
-            "url": "https://www.outlookindia.com/national/patna-hosts-bihars-first-ever-ai-summit"
-        },
-        {
-            "title": "\u2018F*** this guy\u2019: Graduation speakers keep getting booed for talking about artificial intelligence",
-            "description": "[THE INDEPENDENT] Commencement speakers want new graduates to feel optimistic about artificial intelligence \u2014 instead students are booing. New grads tell Josh Marcus that their fury about doddering policymakers and...",
-            "url": "https://www.independent.co.uk/news/world/americas/ai-college-graduation-eric-schmidt-google-b2981383.html"
-        },
-        {
-            "title": "Bihar to roll out AI policy soon: Samrat",
-            "description": "[THEPRINT] Patna, May 23 (PTI) Chief Minister Samrat Choudhary on Saturday said his government would soon roll out an artificial intelligence (AI) policy as part of its plan to develop Bihar as a major AI hub....",
-            "url": "https://theprint.in/india/bihar-to-roll-out-ai-policy-soon-samrat/2939629/"
         }
     ]
 }
