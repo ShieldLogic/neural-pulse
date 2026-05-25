@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-25 08:17:04 UTC",
+    "updated": "2026-05-25 12:57:54 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,9 +7,19 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "It's all about the angle: Your photos, re-composed",
             "description": "[RESEARCH] Generative AI",
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
+        },
+        {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "ReasoningBank: Enabling agents to learn from experience",
@@ -27,9 +37,9 @@
             "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
+            "title": "Effective KV Compression with TurboQuant",
+            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
+            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,11 +57,6 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
             "title": "Agentic RAG Explained in 3 Levels of Difficulty",
             "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
             "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
@@ -62,11 +67,6 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
-        },
-        {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
             "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
             "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
@@ -75,6 +75,21 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Sebi weighs revamp of margin rules to reflect new-age market risks",
+            "description": "[LIVEMINT] Sebi, in an advisory issued on 5 May, warned that fast-evolving artificial intelligence (AI) tools could amplify cyber vulnerabilities across the securities ecosystem.",
+            "url": "https://www.livemint.com/market/stock-market-news/sebi-weighs-revamp-of-margin-rules-to-reflect-new-age-market-risks-11779600894667.html"
+        },
+        {
+            "title": "Pope's first encyclical, Magnifica Humanitas, presented in Vatican",
+            "description": "[AGENZIA ANSA] Pope Leo XIV presented his first encyclical since being elected the leader of the Catholic Church a year ago, Magnifica Humanitas (Magnificent Humanity) On Safeguarding the Human Person in the Time...",
+            "url": "https://www.ansa.it/english/news/vatican/2026/05/25/popes-first-encyclical-magnifica-humanitas-presented-in-vatican_54cfc96f-f4d1-4339-a1ad-b05477b4e04d.html"
+        },
+        {
+            "title": "Half of elderly women in Japan prefer AI over humans for personal advice",
+            "description": "[JAPAN TODAY] A recent survey in Japan found that almost half of elderly women living in the country prefer artificial intelligence over humans for advice on interpersonal conflict, a higher percentage than any...",
+            "url": "https://japantoday.com/category/tech/half-of-elderly-women-in-japan-prefer-ai-over-humans-for-personal-advice"
         },
         {
             "title": "Could anything but profit steer AI? The OpenAI trial offered clues but no verdict",
@@ -110,21 +125,6 @@
             "title": "Hotels strive to be found as AI models conduct travel search",
             "description": "[THE ECONOMIC TIMES] With people increasingly adopting AI to help plan their vacations, hotels are working to make sure that you check them out -- and check in. \"What a hotel needs to do to get well referenced by search...",
             "url": "https://economictimes.indiatimes.com/tech/technology/hotels-strive-to-be-found-as-ai-models-conduct-travel-search/articleshow/131294998.cms"
-        },
-        {
-            "title": "Mathematicians solve decades-old mystery about the hidden order in high-dimensional randomness",
-            "description": "[PHYS.ORG] Three mathematicians have laid out proof that solves a long-standing problem in mathematics. Even the mathematician\u2014an Abel prize winner\u2014that first posed the problem didn't believe it would ever be...",
-            "url": "https://phys.org/news/2026-05-mathematicians-decades-mystery-hidden-high.html"
-        },
-        {
-            "title": "Hotels strive to be found as AI models conduct travel search",
-            "description": "[THE MANILA TIMES] PARIS \u2014 With people increasingly adopting artificial intelligence (AI) to help plan their vacations, hotels are working to make sure that you check them out \u2014 and check in.",
-            "url": "https://www.manilatimes.net/2026/05/25/business/foreign-business/hotels-strive-to-be-found-as-ai-models-conduct-travel-search/2350763"
-        },
-        {
-            "title": "Hotels strive to be found as AI models conduct travel search",
-            "description": "[THE MANILA TIMES] PARIS \u2014 With people increasingly adopting artificial intelligence (AI) to help plan their vacations, hotels are working to make sure that you check them out \u2014 and check in.",
-            "url": "https://www.manilatimes.net/2026/05/25/business/foreign-business/hotels-strive-to-be-found-as-ai-models-conduct-travel-search/2350777"
         }
     ]
 }
