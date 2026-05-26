@@ -1,98 +1,130 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-05-26 14:12 UTC",
+    "updated": "2026-05-26 14:59:07 UTC",
     "news": [
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia \u2014 but not Anthropic",
-            "description": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2273115889.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-01T14:09:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe flurry of deals leaves out Anthropic, which the department previously used for handling classified information.\r\nThe flurry of deals leaves out Anthropic, wh\u2026 [+3824 chars]"
+            "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
+            "description": "[RESEARCH] Data Mining & Modeling",
+            "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "The Start of OpenAI\u2019s Trial Against Elon Musk Wasn\u2019t the Worst Thing That Happened to Sam Altman Today",
-            "description": "A report claims that OpenAI missed its own user and revenue goals. That's bad news for the entire industry.",
-            "url": "https://gizmodo.com/the-start-of-openais-trial-against-elon-musk-wasnt-the-worst-thing-that-happened-to-sam-altman-today-2000751813",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2265992525-1200x675.jpg",
-            "publishedAt": "2026-04-28T21:58:32Z",
-            "content": "Elon Musk took the stand in a California courtroom today to ask for OpenAI CEO Sam Altman\u2019s ousting. Still, it wasn\u2019t the worst thing that happened to the executive on Tuesday.\r\nThat\u2019s because on Mon\u2026 [+5005 chars]"
+            "title": "It's all about the angle: Your photos, re-composed",
+            "description": "[RESEARCH] Generative AI",
+            "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Siri\u2019s Total Chatbot Makeover Is Imminent With iOS 27",
-            "description": "Android isn't the only OS leaning into agentic AI.",
-            "url": "https://gizmodo.com/siri-total-chatbot-makeover-is-imminent-with-ios-27-2000757747",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/A1A9528-1200x675.jpg",
-            "publishedAt": "2026-05-12T22:15:29Z",
-            "content": "It\u2019s been nearly two years since Apple promised an AI-supercharged Siri, but if a new report is any indication, that transformation is finally upon us. According to Bloomberg\u2019s Mark Gurman, there are\u2026 [+2195 chars]"
+            "title": "ReasoningBank: Enabling agents to learn from experience",
+            "description": "[RESEARCH] Generative AI",
+            "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
         },
         {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff, Paresh Dave",
-            "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI's Models to Train Its Own",
-            "description": "While answering questions under oath, Musk argued it\u2019s standard practice for AI labs to use their competitors' models.",
-            "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
-            "urlToImage": "https://media.wired.com/photos/69f3848c17e0528daa0ec80c/191:100/w_1280,c_limit/Musk-Admits-to-Partly-Distilling-OpenAI-Models-Business-2273133893.jpg",
-            "publishedAt": "2026-04-30T17:41:14Z",
-            "content": "While testifying on Thursday in federal court, Elon Musk seemed to indicate that his AI lab may have used OpenAIs models to train xAIs own. He touched upon the topic while sitting on the witness stan\u2026 [+2630 chars]"
+            "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
+            "description": "[RESEARCH] General Science",
+            "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
-            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
-            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
-            "publishedAt": "2026-05-20T19:02:47Z",
-            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "What an AI-designed car looks like",
-            "description": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change. That's one reason \u2026",
-            "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0405_Site.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-05T13:42:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: driving an LLM, Claude Code vs. Codex, RIP AGI, and more.\r\nOn The Vergecast: driving an LLM, Claude Code vs. Codex, RIP AGI, and more.\r\nby\r\nDav\u2026 [+3278 chars]"
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
-            "description": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near future isn't a complete disaster.",
-            "url": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
-            "urlToImage": "https://media.wired.com/photos/69ef5ffea87ec1fab4d8a468/191:100/w_1280,c_limit/GettyImages-1223459427.jpg",
-            "publishedAt": "2026-04-28T13:00:00Z",
-            "content": "Between malware, online impersonation, and account takeovers, there are enough digital security problems out there as it is. And with the rise of agentic AI, more activity is being carried out by age\u2026 [+3869 chars]"
+            "title": "Information-Driven Design of Imaging Systems",
+            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
+            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
+        },
+        {
+            "title": "RL without TD learning",
+            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
+            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
+        },
+        {
+            "title": "Gradient-based Planning for World Models at Longer Horizons",
+            "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
+            "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+        },
+        {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+        },
+        {
+            "title": "Identifying Interactions at Scale for LLMs",
+            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
+            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
+        },
+        {
+            "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
+            "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
+            "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
+        },
+        {
+            "title": "Catalyzing scientific impact through global partnerships and open resources",
+            "description": "[RESEARCH] Data Mining & Modeling",
+            "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "\u2018Fake\u2019: PIB flags AI-generated video of Jaishankar urging US to hand over Cockroach Janta Party handlers",
+            "description": "[HINDUSTAN TIMES] According to PIB Fact Check, the original footage was from a joint press conference and was manipulated using artificial intelligence. | India News",
+            "url": "https://www.hindustantimes.com/india-news/fake-pib-flags-ai-generated-video-of-jaishankar-urging-us-to-hand-over-cockroach-janta-party-handlers-101779759852773.html"
+        },
+        {
+            "title": "Taiwan overtakes India as world's fifth-largest stock market",
+            "description": "[THE ECONOMIC TIMES] Taiwan's stock market has now surpassed India's in value. This shift is largely due to a strong performance by Taiwan Semiconductor Manufacturing Co. The island's market capitalization reached $4.95...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/taiwan-overtakes-india-as-worlds-fifth-largest-stock-market/articleshow/131320332.cms"
+        },
+        {
+            "title": "What Happens When AI Flies A Plane?",
+            "description": "[TIMES NOW] AI is entering the cockpit. A new test flight by Merlin Labs shows how artificial intelligence could support pilots and reshape the future of air travel., Technology & Science, Times Now",
+            "url": "https://www.timesnownews.com/technology-science/what-happens-when-ai-flies-a-plane-article-154398343"
+        },
+        {
+            "title": "Vatican tech flop: Pope Leo\u2019s AI crusade needs Trump - not the UN",
+            "description": "[NEW YORK POST] Pope Leo XIV is right about the need to make AI answer to the human good \u2014 artificial intelligence has to be subject to human moral responsibility.",
+            "url": "https://nypost.com/2026/05/25/opinion/vatican-tech-flop-pope-leos-ai-crusade-needs-trump-not-the-un/"
+        },
+        {
+            "title": "Commonwealth Bank of Australia's AI-Powered 'CommBank Companion' Enters Application Testing",
+            "description": "[MARKETSCREENER] Commonwealth Bank of Australia has started trialing CommBank Companion, a generative artificial intelligence tool embedded in its mobile banking app that lets retail and business customers ask...",
+            "url": "https://www.marketscreener.com/news/commonwealth-bank-of-australia-s-ai-powered-commbank-companion-enters-application-testing-ce7f5addda8ef622"
+        },
+        {
+            "title": "Artificial Intelligence in governance:Haryana to roll out pilots in public grievances, roads, schools, healthcare",
+            "description": "[HINDUSTAN TIMES] An AI Sandbox is a secure, time-bound environment where competitively selected teams develop and pilot AI solutions to address specific challenges.",
+            "url": "https://www.hindustantimes.com/cities/chandigarh-news/artificial-intelligence-in-governance-haryana-to-roll-out-pilots-in-public-grievances-roads-schools-healthcare-101779739141903.html"
+        },
+        {
+            "title": "\u2018AI must be disarmed\u2019: Pope Leo issues powerful warning in first Encyclical",
+            "description": "[THE FINANCIAL EXPRESS] Pope Leo XIV has released the first major teaching document of his papacy, sending a strong warning to the world that artificial intelligence must be \u201cdisarmed\u201d before it causes deeper harm to...",
+            "url": "https://www.financialexpress.com/shorts/us-news/ai-must-be-disarmed-pope-leo-issues-powerful-warning-in-first-encyclical-says-no-algorithm-can-make-war-moral-4251124/"
+        },
+        {
+            "title": "Anthropic co-founder joins Pope Leo to warn against leaving AI in Big Tech\u2019s hands",
+            "description": "[FIRSTPOST] At a rare Vatican gathering on artificial intelligence, Anthropic co-founder Chris Olah warned that AI\u2019s rapid rise could trigger mass job losses and deepen global inequality if left unchecked....",
+            "url": "https://www.firstpost.com/tech/anthropic-co-founder-joins-pope-leo-to-warn-against-leaving-ai-in-big-techs-hands-14015150.html"
+        },
+        {
+            "title": "Tech Investor Wants Americans to Accept More Migration AND More AI",
+            "description": "[BREITBART NEWS NETWORK] The U.S. should supercharge immigration as millions of voters lose their jobs to artificial intelligence, says a Silicon Valley investor.",
+            "url": "https://www.breitbart.com/tech/2026/05/26/silicon-valley-investor-wants-more-migration-and-more-job-shrinking-ai/"
+        },
+        {
+            "title": "Anthropic co-founder warns of AI job losses, says oversight needed from outside Big Tech",
+            "description": "[INDIA TODAY] At the launch of Pope Leo XIV\u2019s AI encyclical Magnifica Humanitas, Anthropic co-founder Christopher Olah warned that artificial intelligence could replace human labour at a massive scale.",
+            "url": "https://www.indiatoday.in/technology/news/story/anthropic-co-founder-warns-of-massive-job-losses-at-pope-leos-historic-vatican-event-2917035-2026-05-26"
         }
     ]
 }
