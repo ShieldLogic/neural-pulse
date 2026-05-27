@@ -1,130 +1,98 @@
 {
-    "updated": "2026-05-27 07:58:51 UTC",
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-05-27 14:39 UTC",
     "news": [
         {
-            "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
-            "description": "[RESEARCH] Data Mining & Modeling",
-            "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia \u2014 but not Anthropic",
+            "description": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense \u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2273115889.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-01T14:09:56Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe flurry of deals leaves out Anthropic, which the department previously used for handling classified information.\r\nThe flurry of deals leaves out Anthropic, wh\u2026 [+3824 chars]"
         },
         {
-            "title": "It's all about the angle: Your photos, re-composed",
-            "description": "[RESEARCH] Generative AI",
-            "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "The Start of OpenAI\u2019s Trial Against Elon Musk Wasn\u2019t the Worst Thing That Happened to Sam Altman Today",
+            "description": "A report claims that OpenAI missed its own user and revenue goals. That's bad news for the entire industry.",
+            "url": "https://gizmodo.com/the-start-of-openais-trial-against-elon-musk-wasnt-the-worst-thing-that-happened-to-sam-altman-today-2000751813",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/GettyImages-2265992525-1200x675.jpg",
+            "publishedAt": "2026-04-28T21:58:32Z",
+            "content": "Elon Musk took the stand in a California courtroom today to ask for OpenAI CEO Sam Altman\u2019s ousting. Still, it wasn\u2019t the worst thing that happened to the executive on Tuesday.\r\nThat\u2019s because on Mon\u2026 [+5005 chars]"
         },
         {
-            "title": "ReasoningBank: Enabling agents to learn from experience",
-            "description": "[RESEARCH] Generative AI",
-            "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Siri\u2019s Total Chatbot Makeover Is Imminent With iOS 27",
+            "description": "Android isn't the only OS leaning into agentic AI.",
+            "url": "https://gizmodo.com/siri-total-chatbot-makeover-is-imminent-with-ios-27-2000757747",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/A1A9528-1200x675.jpg",
+            "publishedAt": "2026-05-12T22:15:29Z",
+            "content": "It\u2019s been nearly two years since Apple promised an AI-supercharged Siri, but if a new report is any indication, that transformation is finally upon us. According to Bloomberg\u2019s Mark Gurman, there are\u2026 [+2195 chars]"
         },
         {
-            "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
-            "description": "[RESEARCH] General Science",
-            "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Maxwell Zeff, Paresh Dave",
+            "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI's Models to Train Its Own",
+            "description": "While answering questions under oath, Musk argued it\u2019s standard practice for AI labs to use their competitors' models.",
+            "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+            "urlToImage": "https://media.wired.com/photos/69f3848c17e0528daa0ec80c/191:100/w_1280,c_limit/Musk-Admits-to-Partly-Distilling-OpenAI-Models-Business-2273133893.jpg",
+            "publishedAt": "2026-04-30T17:41:14Z",
+            "content": "While testifying on Thursday in federal court, Elon Musk seemed to indicate that his AI lab may have used OpenAIs models to train xAIs own. He touched upon the topic while sitting on the witness stan\u2026 [+2630 chars]"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
+            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
+            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
+            "publishedAt": "2026-05-20T19:02:47Z",
+            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
         },
         {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "What an AI-designed car looks like",
+            "description": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change. That's one reason \u2026",
+            "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0405_Site.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-05T13:42:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: driving an LLM, Claude Code vs. Codex, RIP AGI, and more.\r\nOn The Vergecast: driving an LLM, Claude Code vs. Codex, RIP AGI, and more.\r\nby\r\nDav\u2026 [+3278 chars]"
         },
         {
-            "title": "Information-Driven Design of Imaging Systems",
-            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
-            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
-        },
-        {
-            "title": "RL without TD learning",
-            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
-            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
-        },
-        {
-            "title": "Gradient-based Planning for World Models at Longer Horizons",
-            "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
-            "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
-        },
-        {
-            "title": "Identifying Interactions at Scale for LLMs",
-            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
-            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
-        },
-        {
-            "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
-            "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
-            "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
-        },
-        {
-            "title": "Catalyzing scientific impact through global partnerships and open resources",
-            "description": "[RESEARCH] Data Mining & Modeling",
-            "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
-        },
-        {
-            "title": "\u2018In the Age of Artificial Intelligence, We Are Nurturing Absolute Intelligence\u2019: Gurudev Sri Sri Ravi Shankar at Massive Art of Living Intuition Event in Bengaluru",
-            "description": "[REPUBLIC WORLD] The Art of Living's Intuition Fest Creates a Landmark Moment in Human Potential; 11,000 children and parents assemble for the historic Intuition Fest; including 50 who have recieved national and...",
-            "url": "https://www.republicworld.com/india/in-the-age-of-artificial-intelligence-we-are-nurturing-absolute-intelligence-gurudev-sri-sri-ravi-shankar-at-massive-art-of-living-intuition-event-in-bengaluru-2026-05-26-125805"
-        },
-        {
-            "title": "Tech titans mostly silent after Pope Leo\u2019s warning on risks of AI",
-            "description": "[NBC NEWS] Pope Leo XIV\u2019s sweeping warning about the dangers of artificial intelligence drew a largely muted response across the American technology world.",
-            "url": "https://www.nbcnews.com/tech/innovation/tech-titans-mostly-silent-pope-leos-warning-risks-ai-rcna346903"
-        },
-        {
-            "title": "At the A.I. Epicenter, Technologists Dismiss Pope Leo\u2019s Warnings About the New Technology",
-            "description": "[THE NEW YORK TIMES] Pope Leo XIV\u2019s spiritual message on artificial intelligence arrived as Silicon Valley\u2019s A.I. enthusiasts pursue their own spirituality through technology.",
-            "url": "https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html"
-        },
-        {
-            "title": "Two Springdale students set to represent Arkansas at national artificial intelligence summit this summer",
-            "description": "[ARKANSAS ONLINE] SPRINGDALE -- Two high school students will represent Arkansas in helping create a \"K-12 National AI Policy\" this summer.",
-            "url": "https://www.arkansasonline.com/news/2026/may/26/two-springdale-students-set-to-represent-arkansas/"
-        },
-        {
-            "title": "Sony to launch Xperia smartphone with AI-assisted photography",
-            "description": "[JAPAN TODAY] Sony will release its new flagship smartphone, the Xperia 1 VIII, on June 11. The phone features enhanced camera performance, including an AI (artificial intelligence) camera assistant function that...",
-            "url": "https://japantoday.com/category/features/new-products/sony-to-launch-xperia-smartphone-with-ai-assisted-photography"
-        },
-        {
-            "title": "'Can no longer be considered neutral and cannot be trusted'",
-            "description": "[NEW YORK POST] Artificial intelligence chatbots are relying on left-wing media and politically charged sources, making it difficult for the average American to trust them as a news source, critics say.",
-            "url": "https://nypost.com/2026/05/26/tech/ai-chatbots-face-major-backlash-over-left-wing-bias-can-no-longer-be-considered-neutral-and-cannot-be-trusted/"
-        },
-        {
-            "title": "Computer science major Siddhartha Pullannagari to pursue master\u2019s at Columbia University",
-            "description": "[ST. LOUIS POST-DISPATCH] UMSL computer science graduate Siddhartha Pullannagari leveraged research and hackathons to prepare for Columbia University\u2019s new master\u2019s in artificial intelligence.",
-            "url": "https://www.stltoday.com/news/community/article_8b75668a-dd20-5b55-aa14-47daf4f52980.html"
-        },
-        {
-            "title": "How Italy\u2019s SIAE Is Shaping the Future of Copyright Protection",
-            "description": "[BILLBOARD] How the Italian Society of Authors and Publishers is shaping the future of copyright protection amid the age of artificial intelligence.",
-            "url": "https://www.billboard.com/pro/how-italys-siae-shapes-the-future-of-copyright-protection/"
-        },
-        {
-            "title": "Mom out thousands after scammers use AI to mimic daughter's voice in fake kidnapping",
-            "description": "[KABC-TV] Thousands of dollars were stolen from a Bay Area woman after scammers used artificial intelligence to mimic her daughter's voice.",
-            "url": "https://abc7.com/post/california-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19175361/"
-        },
-        {
-            "title": "Emerging currencies slide as Iran war 'confusion\u2019 jolts market",
-            "description": "[CNBC TV18] Emerging-market currencies weakened on Tuesday after clashes near the Strait of Hormuz renewed geopolitical concerns despite ongoing US-Iran ceasefire negotiations. While most developing-nation...",
-            "url": "https://www.cnbctv18.com/market/emerging-currencies-slide-as-iran-war-confusion-jolts-market-ws-l-19913978.htm"
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lily Hay Newman",
+            "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
+            "description": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near future isn't a complete disaster.",
+            "url": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
+            "urlToImage": "https://media.wired.com/photos/69ef5ffea87ec1fab4d8a468/191:100/w_1280,c_limit/GettyImages-1223459427.jpg",
+            "publishedAt": "2026-04-28T13:00:00Z",
+            "content": "Between malware, online impersonation, and account takeovers, there are enough digital security problems out there as it is. And with the rise of agentic AI, more activity is being carried out by age\u2026 [+3869 chars]"
         }
     ]
 }
