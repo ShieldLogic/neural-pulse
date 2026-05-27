@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-27 18:23:22 UTC",
+    "updated": "2026-05-27 21:50:03 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -17,24 +17,19 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
-        },
-        {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Prompt Engineering for Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
-            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,19 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
-            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
-            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
-        },
-        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Right on the trillion mark",
-            "description": "[MARKETSCREENER] The stock market frenzy around artificial intelligence rolls on. Records keep falling, the sums involved are becoming dizzying and the obvious, or supposedly obvious, winners are taking all the......",
-            "url": "https://www.marketscreener.com/news/right-on-the-trillion-mark-ce7f5ad2de89f220"
+            "title": "PDS scheme with Rs 25,530 cr outlay to modernise food distribution system",
+            "description": "[THE TRIBUNE] The Central government on Wednesday announced the SARTHAK-PDS scheme with a total outlay of Rs 25,530 crore aimed at modernising the Public Distribution System (PDS), improving logistics and...",
+            "url": "https://www.tribuneindia.com/news/business/govt-announces-sarthak-pds-scheme-with-rs-25530-cr-outlay-to-modernise-food-distribution-system/"
         },
         {
-            "title": "Hackers are using AI to find security flaws no scanner can catch, Google warns",
-            "description": "[EURONEWS] For the first time, hackers have used artificial intelligence to find and exploit a security flaw that no automated scanner would have caught \u2013 and Google says only its own active monitoring stopped...",
-            "url": "https://www.euronews.com/next/2026/05/27/hackers-are-using-ai-to-find-security-flaws-no-scanner-can-catch-google-warns"
+            "title": "Kozhikode BTech student's death: Family struggles to believe suicide theory ahead of shooting championship",
+            "description": "[MALAYALA MANORAMA] A 19-year-old engineering student, preparing for a national shooting championship, was found dead with a gunshot wound at home. Police are.student death Kozhikode, engineering student shooting,...",
+            "url": "https://www.onmanorama.com/news/kerala/2026/05/27/kozhikode-btech-student-s-death-family-struggles-to-believe-suicide-theory-ahead-of-shooting-championship.html"
         },
         {
-            "title": "AEO for Crypto",
-            "description": "[COINGAPE] Get in touch with CoinGape today to make your Web3 projects Visible across AI search tools, voice assistants, and LLM-powered platforms.",
-            "url": "https://coingape.com/aeo-for-crypto-web3-projects/"
+            "title": "Canadians may ask AI for medical advice but don't want it replacing humans, poll suggests",
+            "description": "[CBC.CA] A new poll on artificial intelligence and health care suggests that while some Canadians may be turning to chatbots for medical advice, they're far less comfortable with the technology being used to...",
+            "url": "https://www.cbc.ca/news/health/ai-healthcare-canadians-poll-9.7213138"
         },
         {
-            "title": "Pam Bondi to join White House advisory panel on AI policy, reports say",
-            "description": "[WLTX.COM] Pam Bondi is reportedly returning to the White House as an adviser on an artificial intelligence policy committee. Here's we know about her new role. (AP Photo)",
-            "url": "https://www.wltx.com/article/news/nation-world/pam-bondi-white-house-artificial-intelligence/507-54e5fdc7-fb48-48cf-8280-2cc0983753fc"
+            "title": "Nurse Convicted in Patient\u2019s Death Turns Fatal Drug Error Into a Cautionary Tale",
+            "description": "[KFF HEALTH NEWS] RaDonda Vaught was convicted of negligent homicide for accidentally dispensing a deadly drug to a patient. She now gives speeches about hospital safety in an era of automation and artificial...",
+            "url": "https://kffhealthnews.org/syndicate/nurse-drug-errors-hospital-safety-radonda-vought-tennessee/"
         },
         {
-            "title": "No essays, no homework: ChatGPT transforms how students are assessed in Spain",
-            "description": "[EURONEWS] Artificial intelligence has changed the way people study and is now forcing exams to be redesigned. Universities and schools are seeking new ways to test what students really know.",
-            "url": "https://www.euronews.com/next/2026/05/27/no-essays-no-homework-chatgpt-transforms-how-students-are-assessed-in-spain"
+            "title": "The $1 trillion club gets new members: SK Hynix and Micron, thanks to AI boom",
+            "description": "[THE INDIAN EXPRESS] The market caps of chipmakers SK Hynix and Micron have risen above the $1 trillion mark, for the first time, driven by a boom in artificial intelligence (AI) data centres.",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/the-1-trillion-club-gets-new-members-sk-hynix-and-micron-thanks-to-ai-boom-10710399/"
         },
         {
-            "title": "Pam Bondi returns to White House with new role on Trump administration\u2019s high-profile AI advisory panel while recovering from cancer",
-            "description": "[THE ECONOMIC TIMES] Pam Bondi returns to the Trump administration as an advisor. She joins the Presidential Council of Advisors on Science and Technology. This group focuses on artificial intelligence and competition...",
-            "url": "https://economictimes.indiatimes.com/us/news/pam-bondi-returns-to-trump-administrations-high-profile-ai-advisory-panel-while-recovering-from-cancer/articleshow/131342676.cms"
+            "title": "Data centers: Will AI blow the electric fuse?",
+            "description": "[MARKETSCREENER] Digital technology was once thought to be weightless. A click, a query, a video, an image generated by artificial intelligence: it all floats somewhere in the cloud, that convenient metaphor that...",
+            "url": "https://www.marketscreener.com/news/data-centers-will-ai-blow-the-electric-fuse-ce7f5ad2d18df320"
         },
         {
-            "title": "Nokia\u2019s 140% Rally: AI infrastructure powers a historic comeback",
-            "description": "[THE ECONOMIC TIMES] Nokia has emerged as one of the strongest-performing technology stocks of 2026, with its share price rising more than 140% year-to-date. The rally has surprised many investors because the company was...",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/nokias-140-rally-ai-infrastructure-powers-a-historic-comeback/slideshow/131342659.cms"
+            "title": "Meta India Reduces Roles in Ad Sales & Marketing as AI Focus Expands Globally",
+            "description": "[OUTLOOK BUSINESS] Meta India has cut a limited number of roles across teams amid global restructuring. The company is also shifting focus towards artificial intelligence driven operations and efficiency.",
+            "url": "https://www.outlookbusiness.com/corporate/meta-india-reduces-roles-in-ad-sales-marketing-as-ai-focus-expands-globally"
         },
         {
-            "title": "Base Launches Wallet AI Bridge to Link Crypto Wallets and AI Agents",
-            "description": "[CRYPTO BREAKING NEWS] Base, the Ethereum layer-2 developed by Coinbase, has unveiled a tool that ties Base accounts to artificial intelligence agents for on-chain operations.",
-            "url": "https://www.cryptobreaking.com/base-launches-wallet-ai-bridge/"
+            "title": "BI mother-daughter duo launches new AI tool to help organizations",
+            "description": "[BAINBRIDGE REVIEW] Seattle area-based Convexus, co-founded by mother-daughter duo Merrill and Do\u00f1a Keating of Bainbridge Island, has launched a collaborative civic tech platform that aims to use Artificial Intelligence...",
+            "url": "https://www.bainbridgereview.com/2026/05/27/bi-mother-daughter-duo-launches-new-ai-tool-to-help-organizations/"
         },
         {
-            "title": "Chatter grows around SpaceX, Tesla merger: Report",
-            "description": "[THE HINDU BUSINESS LINE] SpaceX, which makes rockets, offers a satellite internet service called Starlink, and also has the artificial intelligence (AI) unit xAI, shares resources with Tesla",
-            "url": "https://www.thehindubusinessline.com/companies/chatter-grows-around-spacex-tesla-merger-report/article71027809.ece"
+            "title": "Rising bond yields and inflation remain key risks for markets: Candace Browning",
+            "description": "[THE ECONOMIC TIMES] Global investors are focusing on artificial intelligence driven earnings growth, overshadowing geopolitical concerns. Strong US corporate profits and expectations of easy monetary policy are...",
+            "url": "https://economictimes.indiatimes.com/markets/expert-view/rising-bond-yields-and-inflation-remain-key-risks-for-markets-candace-browning/articleshow/131344996.cms"
         },
         {
-            "title": "SK hynix enters the USD 1 trillion market cap club to join Samsung and Micron",
-            "description": "[THE TRIBUNE] SK hynix joined Samsung Electronics and Micron Technology in the USD 1 trillion market capitalization club on Wednesday, as the artificial intelligence-driven rally pushed all three global memory...",
-            "url": "https://www.tribuneindia.com/news/business/sk-hynix-enters-the-usd-1-trillion-market-cap-club-to-join-samsung-and-micron/"
+            "title": "Rising bond yields and inflation remain key risks for markets: Candace Browning",
+            "description": "[THE ECONOMIC TIMES] Global investors are focusing on artificial intelligence driven earnings growth, overshadowing geopolitical concerns. Strong US corporate profits and expectations of easy monetary policy are...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/rising-bond-yields-and-inflation-remain-key-risks-for-markets-candace-browning/articleshow/131344930.cms"
         }
     ]
 }
