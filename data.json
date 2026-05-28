@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-28 15:42:02 UTC",
+    "updated": "2026-05-28 18:33:39 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -17,24 +17,19 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
-        },
-        {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Prompt Engineering for Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
-            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,19 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
-            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
-            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
-        },
-        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "ABC managing director Hugh Marks defends AI radio news trial",
-            "description": "[PERTHNOW] The ABC trialled using artificial intelligence to rewrite radio news bulletins for online, a Senate estimates hearing has been told.",
-            "url": "https://www.perthnow.com.au/news/abc-managing-director-hugh-marks-defends-ai-radio-news-trial-c-22350018"
+            "title": "NBA to introduce AI-powered automated systems to increase game efficiency",
+            "description": "[THE NEWS INTERNATIONAL] The National Basketball Association has decided to go all digital with artificial intelligence for efficient game management. Top professional basketball league in North America\u2014NBA's...",
+            "url": "https://www.thenews.com.pk/latest/1403972-nba-to-introduce-ai-powered-automated-systems-to-increase-game-efficiency"
         },
         {
-            "title": "generated shows for children",
-            "description": "[THE ECONOMIC TIMES] Amazon MGM Studios announced Wednesday it has greenlit the first three children's shows that were created under a new initiative to use artificial intelligence (AI) in content development. AI Studios...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amazon-greenlights-ai-generated-shows-for-children/articleshow/131361817.cms"
+            "title": "Salesforce beats expectations on AI strength, but still cautious on outlook",
+            "description": "[MARKETSCREENER] Salesforce reported quarterly results that topped Wall Street expectations, bolstered by robust growth in its artificial intelligence operations. The American cloud software giant posted adjusted...",
+            "url": "https://www.marketscreener.com/news/salesforce-beats-expectations-on-ai-strength-but-still-cautious-on-outlook-ce7f5ad3d18ff62d"
         },
         {
-            "title": "AI's role in medicine and how much we can rely on it",
-            "description": "[SBS AUSTRALIA] Artificial intelligence, or AI, has long been used in the medical field to read imaging results such as X-rays and CT scans. This form of AI differs from AI-based large language models (LLMs) like...",
-            "url": "https://www.sbs.com.au/language/indonesian/en/podcast-episode/ais-role-in-medicine-and-how-much-we-can-rely-on-it/nc2ekf1ei"
+            "title": "Immigration Department: AI-generated or edited passport photos prohibited",
+            "description": "[THE STAR] The Immigration Department of Malaysia has reminded the public not to use artificial intelligence (AI) tools to generate or edit passport photos.",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/28/immigration-department-ai-generated-or-edited-passport-photos-prohibited"
+        },
+        {
+            "title": "Sam Altman\u2019s AI job apocalypse REVERSAL looks like a calculated pivot as people fight for their livelihoods",
+            "description": "[NATURAL NEWS] OpenAI CEO Sam Altman stood before a Sydney conference audience on Tuesday and declared he was \u201cdelighted to be wrong\u201d about artificial intelligence eliminating entry-level white-collar jobs, a...",
+            "url": "https://www.naturalnews.com/2026-05-28-sam-altman-ai-job-apocalypse-reversal-calculated-pivot.html"
+        },
+        {
+            "title": "Steven Spielberg on AI: Don\u2019t believe there is any substitute for the soul",
+            "description": "[LOKMAT TIMES] Steven Spielberg on AI: Don\u2019t believe there is any substitute for the soul - Los Angeles, May 28 Legendary filmmaker Steven Spielberg has spoken out against the use of Artificial Intelligence in ......",
+            "url": "https://www.lokmattimes.com/entertainment/steven-spielberg-on-ai-dont-believe-there-is-any-substitute-for-the-soul/"
+        },
+        {
+            "title": "May Mayhem 2026: Nearly 30,000 tech jobs were wiped out",
+            "description": "[BUSINESS TODAY] Majority of layoffs were driven by artificial intelligence (AI) as companies revamp business operations and investment plans, and even for cost-cutting measures.",
+            "url": "https://www.businesstoday.in/technology/news/story/may-mayhem-2026-nearly-30000-tech-jobs-were-wiped-out-533404-2026-05-28"
+        },
+        {
+            "title": "Carson Block Is Rethinking Indian Fund Plan With Focus on AI",
+            "description": "[BLOOMBERG] Carson Block said artificial intelligence is a key reason Muddy Waters Capital LLC is rethinking plans for a long-short fund in India, saying his firm is \u201cgoing back to the lab\u201d on the idea.",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-28/carson-block-is-rethinking-indian-fund-plan-with-focus-on-ai"
+        },
+        {
+            "title": "Pope Leo XIV Calls for Global Treaty to Restrict Autonomous Weapons in New Encyclical",
+            "description": "[NATURAL NEWS] Pope Leo XIV on Monday released his first encyclical, titled \u201cMagnifica Humanitas,\u201d calling for a global treaty to restrict the use of artificial intelligence in warfare. The 42,000-word document...",
+            "url": "https://www.naturalnews.com/2026-05-28-pope-leo-calls-for-global-treaty-weapons.html"
         },
         {
             "title": "AI chiefs walk back job apocalypse warnings",
-            "description": "[THE ECONOMIC TIMES] Leading AI figures like Nvidia's Jensen Huang and OpenAI's Sam Altman are now downplaying fears of mass job losses due to artificial intelligence. They argue that recent layoffs are not AI-driven and...",
-            "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/ai-job-losses-layoffs-artificial-intelligence-chiefs-jensen-huang-sam-altman-walk-back-job-apocalypse-warnings/articleshow/131361712.cms"
+            "description": "[THE HINDU] The most prominent figures in artificial intelligence are stepping back from dire predictions about mass unemployment, as the industry faces growing public hostility over AI's promised transformation...",
+            "url": "https://www.thehindu.com/sci-tech/technology/ai-chiefs-walk-back-job-apocalypse-warnings/article71031858.ece"
         },
         {
-            "title": "Steven Spielberg On \"Where I Draw The Line\" With AI",
-            "description": "[DEADLINE] As the discourse around artificial intelligence (AI) in Hollywood continues to buzz, Steven Spielberg recently shared his two cents.",
-            "url": "https://deadline.com/2026/05/steven-spielberg-where-draw-the-line-ai-1236928790/"
-        },
-        {
-            "title": "positioned to become global leader in multilingual, multimodal AI solutions: Google Cloud India MD",
-            "description": "[THE TRIBUNE] India is well-positioned to become a global leader in Artificial Intelligence (AI) innovation, particularly in multilingual and multimodal AI solutions with worldwide relevance, according to...",
-            "url": "https://www.tribuneindia.com/news/business/india-well-positioned-to-become-global-leader-in-multilingual-multimodal-ai-solutions-google-cloud-india-md/"
-        },
-        {
-            "title": "How LLMs are changing 'Chinese Firewall' in a country where Facebook, WhatsApp and other social media platforms are banned",
-            "description": "[TIMES OF INDIA] Tech News News: China is upgrading its nationwide surveillance infrastructure with artificial intelligence (AI) and large language model (LLM)-powered systems. This w.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-llms-are-changing-chinese-firewall-in-a-country-where-facebook-whatsapp-and-other-social-media-platforms-are-banned/articleshow/131359109.cms"
-        },
-        {
-            "title": "NC AI Wins National Defense Physical AI Project with Hyundai Rotem, to Lead 'World Model' Development",
-            "description": "[INVENGLOBAL] Source: NC NC AI, a company specializing in industry-specific artificial intelligence, has partnered with Hyundai Rotem, a leader in South Korea's defense and robotics sectors, to ...",
-            "url": "https://www.invenglobal.com/lol/articles/22273/nc-ai-wins-national-defense-physical-ai-project-with-hyundai-rotem-to-lead-world-model-development"
-        },
-        {
-            "title": "NC AI Wins National Defense Physical AI Project with Hyundai Rotem, to Lead 'World Model' Development",
-            "description": "[INVENGLOBAL] Source: NC NC AI, a company specializing in industry-specific artificial intelligence, has partnered with Hyundai Rotem, a leader in South Korea's defense and robotics sectors, to ...",
-            "url": "https://www.invenglobal.com/valorant/articles/22273/nc-ai-wins-national-defense-physical-ai-project-with-hyundai-rotem-to-lead-world-model-development"
-        },
-        {
-            "title": "NC AI Wins National Defense Physical AI Project with Hyundai Rotem, to Lead 'World Model' Development",
-            "description": "[INVENGLOBAL] Source: NC NC AI, a company specializing in industry-specific artificial intelligence, has partnered with Hyundai Rotem, a leader in South Korea's defense and robotics sectors, to ...",
-            "url": "https://www.invenglobal.com/articles/22273/nc-ai-wins-national-defense-physical-ai-project-with-hyundai-rotem-to-lead-world-model-development"
+            "title": "UK cyberspying chief calls AI 'an unstoppable force' and warns about Russia",
+            "description": "[THE STAR] Artificial intelligence is \"an unstoppable force\" that is being weaponised in ways that fall just short of traditional warfare, the UK cyberspying chief warned Wednesday.",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/28/uk-cyberspying-chief-calls-ai-039an-unstoppable-force039-and-warns-about-russia"
         }
     ]
 }
