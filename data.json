@@ -1,15 +1,10 @@
 {
-    "updated": "2026-05-28 07:53:45 UTC",
+    "updated": "2026-05-28 11:35:02 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
-        },
-        {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
         },
         {
             "title": "Private analytics via zero-trust aggregation",
@@ -22,9 +17,9 @@
             "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/"
         },
         {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
         },
         {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
@@ -32,14 +27,14 @@
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Prompt Engineering for Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
+            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
         },
         {
-            "title": "Effective KV Compression with TurboQuant",
-            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
-            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -57,9 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
+            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
+            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
+        },
+        {
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "AI chiefs walk back job apocalypse warnings",
-            "description": "[BNN BLOOMBERG] The most prominent figures in artificial intelligence are stepping back from dire predictions about mass unemployment, as the industry faces growing public hostility over AI\u2019s promised transformation...",
-            "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/05/27/ai-chiefs-walk-back-job-apocalypse-warnings/"
+            "title": "Anthropic\u2019s Revenue Surpasses OpenAI as Companies Race Toward IPOs",
+            "description": "[MARKETS INSIDER] Anthropic\u2019s revenue has surpassed that of rival OpenAI as the two artificial intelligence (AI) startups race towards initial public offerings (I...",
+            "url": "https://markets.businessinsider.com/news/stocks/anthropic-s-revenue-surpasses-openai-as-companies-race-toward-ipos-1036201572"
         },
         {
-            "title": "Machine learning can help close pregnancy drug safety gaps",
-            "description": "[NEWS-MEDICAL.NET] JMIR Publications today released a report on developments in the evidence gap in drug safety during pregnancy in its News and Perspectives section.",
-            "url": "https://www.news-medical.net/news/20260527/Machine-learning-can-help-close-pregnancy-drug-safety-gaps.aspx"
+            "title": "London Reclaims Crown as Europe's Technology Hub",
+            "description": "[DEVDISCOURSE] London has surpassed Paris to become Europe's leading technology center once again, driven by strong investments in artificial intelligence and deep tech. The city raised $17.7 billion last year,...",
+            "url": "https://www.devdiscourse.com/article/technology/3924127-london-reclaims-crown-as-europes-technology-hub"
         },
         {
-            "title": "Area Catholic leaders, experts praise Pope Leo's AI encyclical",
-            "description": "[CHICAGO TRIBUNE] Local Catholic leaders and cybersecurity experts praised Pope Leo XIV\u2019s first major writing addressing artificial intelligence and humanity.",
-            "url": "https://www.chicagotribune.com/2026/05/27/area-catholic-leaders-experts-praise-pope-leos-ai-encyclical/"
+            "title": "How AI is helping researchers develop antibiotics to fight drug-resistant infections",
+            "description": "[PBS NEWS] Drug-resistant infections are a major public health threat around the world. To fight them, scientists are constantly trying to find and develop new antibiotics. Now, researchers say artificial...",
+            "url": "https://www.pbs.org/newshour/show/how-ai-is-helping-researchers-develop-antibiotics-to-fight-drug-resistant-infections"
         },
         {
-            "title": "AI chiefs walk back job apocalypse warnings",
-            "description": "[BANGKOK POST] WASHINGTON (UNITED STATES) - The most prominent figures in artificial intelligence are stepping back from dire predictions about mass unemployment, as the industry faces growing public hostility over...",
-            "url": "https://www.bangkokpost.com/world/3262203/ai-chiefs-walk-back-job-apocalypse-warnings"
+            "title": "North Korea conducts test-fire of new missile launcher",
+            "description": "[DAILY EXCELSIOR] MOSCOW, May 27 : North Korea tested a new missile launcher, North Korean state-run news agency KCNA reported on Wednesday. The North Korean Missile Administration and the Academy of Defence Sciences...",
+            "url": "https://www.dailyexcelsior.com/north-korea-conducts-test-fire-of-new-missile-launcher/"
         },
         {
-            "title": "Value of South Korean chip giant SK hynix tops $1 tril",
-            "description": "[JAPAN TODAY] The market value of South Korean memory chip maker SK hynix soared past $1 trillion on Wednesday thanks to frenzied global demand for the computing hardware that powers artificial intelligence tools....",
-            "url": "https://japantoday.com/category/tech/value-of-south-korean-chip-giant-sk-hynix-tops-1-tn"
+            "title": "Your personal data has a dollar value, but you're not the one who will profit",
+            "description": "[BALTIMORE NEWS] WASHINGTON (TNND)\u2014 In the age of artificial intelligence, the saying \"Know your worth\" has taken on a whole new level of meaning.",
+            "url": "https://foxbaltimore.com/news/nation-world/your-personal-data-has-a-dollar-value-but-youre-not-the-one-who-will-profit-ai-companies-american-broadcast"
         },
         {
-            "title": "Meta Platforms to Sell Consumer Subscriptions to its AI Chatbot for First Time",
-            "description": "[MARKETSCREENER] Meta Platforms plans to sell Meta AI chatbot consumer subscriptions for the first time, as the company looks to offset its billions of dollars of investments in artificial intelligence, Bloomberg...",
-            "url": "https://www.marketscreener.com/news/meta-platforms-to-sell-consumer-subscriptions-to-its-ai-chatbot-for-first-time-ce7f5ad3dd8ff427"
+            "title": "Your personal data has a dollar value, but you're not the one who will profit",
+            "description": "[WJLA] WASHINGTON (TNND)\u2014 In the age of artificial intelligence, the saying \"Know your worth\" has taken on a whole new level of meaning.",
+            "url": "https://wjla.com/news/nation-world/your-personal-data-has-a-dollar-value-but-youre-not-the-one-who-will-profit-ai-companies-american-broadcast"
         },
         {
-            "title": "Base Unveils AI Wallet Tool As Crypto Firms Expand Agent-Based Trading Infrastructure",
-            "description": "[INTERNATIONAL BUSINESS TIMES] Base, the Ethereum layer-2 network backed by Coinbase, has launched a new infrastructure tool that connects cryptocurrency wallets directly to artificial intelligence agents.",
-            "url": "https://www.ibtimes.com/base-unveils-ai-wallet-tool-crypto-firms-expand-agent-based-trading-infrastructure-3803381"
+            "title": "Meta launches paid subscriptions for Instagram, Facebook, WhatsApp",
+            "description": "[MONEYCONTROL] Meta head of product Naomi Gleit announced the move in a video posted to Instagram, saying she was rolling out Facebook Plus, Instagram Plus and WhatsApp Plus globally, with more plans in the works...",
+            "url": "https://www.moneycontrol.com/news/business/companies/meta-launches-paid-subscriptions-for-instagram-facebook-whatsapp-13933394.html"
         },
         {
-            "title": "Bondi named to Trump's AI committee; diagnosed with cancer",
-            "description": "[UPI NEWS] President Donald Trump appointed former Attorney General Pam Bondi to his artificial intelligence advisory committee.",
-            "url": "https://www.upi.com/Top_News/US/2026/05/27/pam-bondi-cancer-job/2081779900052/"
+            "title": "AI and simulations cut advanced brain MRI time by up to 90%",
+            "description": "[MEDICAL XPRESS] Two researchers at the Institute for Neurosciences (IN), a joint center of the Spanish National Research Council (CSIC) and the Miguel Hern\u00e1ndez University of Elche (UMH), have developed a new...",
+            "url": "https://medicalxpress.com/news/2026-05-ai-simulations-advanced-brain-mri.html"
         },
         {
-            "title": "\u2018Big sucking sound\u2019: IFM Investors says AI is changing capital markets",
-            "description": "[AUSTRALIAN FINANCIAL REVIEW] The $270 billion infrastructure giant\u2019s CEO reckons artificial intelligence\u2019s huge pull is creating risks for investors \u2013 but opportunities for his firm.",
-            "url": "https://www.afr.com/chanticleer/big-sucking-sound-ifm-investors-says-ai-is-changing-capital-markets-20260526-p600xo"
+            "title": "Tech Down as AI Euphoria Cools - Tech Roundup",
+            "description": "[MARKETSCREENER] Shares of technology companies gave back some of their recent gains as artificial-intelligence euphoria cooled. Amazon signed up cloud storage company Snowflake as its latest chips customer, as...",
+            "url": "https://www.marketscreener.com/news/tech-down-as-ai-euphoria-cools-tech-roundup-ce7f5ad3df88f623"
         },
         {
-            "title": "Kodiak Gas started Outperform at Wells Fargo as play on Permian natural gas supply growth",
-            "description": "[SEEKING ALPHA] Kodiak Gas initiated by Wells Fargo with an Overweight rating, citing growing demand for US natural gas and behind-the-meter power fueled by artificial intelligence and liquefied natural gas",
-            "url": "https://seekingalpha.com/news/4597573-kodiak-gas-started-outperform-at-wells-fargo-as-play-on-permian-natural-gas-supply-growth"
+            "title": "AI ads are almost indistinguishable from human-made work-they just don't perform as well",
+            "description": "[PHYS.ORG] Ads generated by artificial intelligence are nearly indistinguishable from human-made ones, but new research shows they consistently underperform compared to human-made work when it comes to...",
+            "url": "https://phys.org/news/2026-05-ai-ads-indistinguishable-human-dont.html"
         }
     ]
 }
