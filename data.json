@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-29 02:50:17 UTC",
+    "updated": "2026-05-29 07:51:36 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,24 +12,29 @@
             "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
         },
         {
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+        },
+        {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Prompt Engineering for Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
+            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
+        },
+        {
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
         },
         {
             "title": "A New Era of Innovation: Google Research at I/O 2026",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,24 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
+            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
+            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
+        },
+        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Airbus and BMW strike deals with France\u2019s Mistral to bring AI to defence and safety systems",
-            "description": "[EURONEWS] As European companies look for alternatives to US tech giants in the race for artificial intelligence, Airbus and BMW have both partnered with French startup Mistral AI to develop systems ranging...",
-            "url": "https://www.euronews.com/business/2026/05/28/airbus-and-bmw-strike-deals-with-frances-mistral-to-bring-ai-to-defence-and-safety-systems"
+            "title": "Anthropic vaults to a $965 billion valuation with new funding as Claude demand surges",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Artificial intelligence company Anthropic said Thursday it raised $65 billion in private funding that will push its valuation to $965 billion, a whopping number that makes the 5-year-old research...",
+            "url": "https://www.ajc.com/news/2026/05/anthropic-vaults-to-a-965-billion-valuation-with-new-funding-as-claude-demand-surges/"
         },
         {
-            "title": "Illinois set to OK regulatory framework for big AI companies",
-            "description": "[CHICAGO TRIBUNE] Illinois would become the first state to require independent, third-party audits of the safety practices of large frontier artificial intelligence developers.",
-            "url": "https://www.chicagotribune.com/2026/05/28/illinois-artificial-intelligence-audit-bill/"
+            "title": "Anthropic vaults to a $965 billion valuation with new funding as Claude demand surges",
+            "description": "[WTOP] Artificial intelligence company Anthropic said Thursday it raised $65 billion in private funding that will push its valuation to $965 billion\u2026",
+            "url": "https://wtop.com/business-finance/2026/05/anthropic-vaults-to-a-965-billion-valuation-with-new-funding-as-claude-demand-surges/"
         },
         {
-            "title": "Fed's Musalem says it's risky to bet that AI will ease inflation",
-            "description": "[THE STAR] May 28 (Reuters) - St. Louis Federal \u2060Reserve President Alberto Musalem on Thursday offered a skeptical view of the \u2060expectation that artificial intelligence will reduce inflation by fueling a surge...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/05/28/fed039s-musalem-says-it039s-risky-to-bet-that-ai-will-ease-inflation"
+            "title": "Anthropic vaults to a $965 billion valuation with new funding as Claude demand surges",
+            "description": "[BARCHART] Artificial intelligence company Anthropic said Thursday it raised $65 billion in private funding that will push its valuation to $965 billion, a whopping number that makes the 5-year-old research...",
+            "url": "https://www.barchart.com/story/news/2184363/anthropic-vaults-to-a-965-billion-valuation-with-new-funding-as-claude-demand-surges"
         },
         {
-            "title": "Fed's Musalem says it's risky to bet that AI will ease inflation",
-            "description": "[MARKETSCREENER] St. Louis Federal Reserve President Alberto Musalem on Thursday offered a skeptical view of the expectation that artificial intelligence will reduce inflation by fueling a surge in productivity,......",
-            "url": "https://www.marketscreener.com/news/fed-s-musalem-says-it-s-risky-to-bet-that-ai-will-ease-inflation-ce7f5ddadd8fff2d"
+            "title": "Anthropic vaults to a $965 billion valuation as Claude demand surges",
+            "description": "[THE ASSOCIATED PRESS] Artificial intelligence company Anthropic said Thursday it raised $65 billion in private funding that will push its valuation to $965 billion, a whopping number that makes the 5-year-old research...",
+            "url": "https://apnews.com/article/anthropic-ai-claude-openai-valuation-86c432fa375548fd4f111f8164d6ffc1"
         },
         {
-            "title": "Fed's Musalem says it's risky to bet that AI will ease inflation",
-            "description": "[REUTERS] St. Louis Federal Reserve President Alberto Musalem on Thursday offered a skeptical view of the expectation that artificial intelligence will reduce inflation by fueling \u200ba surge in productivity,...",
-            "url": "https://www.reuters.com/markets/us/feds-musalem-says-its-risky-bet-that-ai-will-ease-inflation-2026-05-28/"
+            "title": "Anthropic vaults to a $965 billion valuation with new funding as Claude demand surges",
+            "description": "[WDIV CLICKONDETROIT] Artificial intelligence company Anthropic said Thursday it raised $65 billion in private funding that will push its valuation to $965 billion, a whopping number that makes the 5-year-old research...",
+            "url": "https://www.clickondetroit.com/business/2026/05/28/anthropic-vaults-to-a-965-billion-valuation-with-new-funding-as-claude-demand-surges/"
         },
         {
-            "title": "The Great Pivot: Bitcoin Miners Shift Towards Artificial Intelligence",
-            "description": "[MARKETSCREENER] Inside bitcoin mining farms, the deafening roar remains unchanged: fans, transformers, rows of machines and megawatts consumed without respite. However, the destination of this power is shifting....",
-            "url": "https://www.marketscreener.com/news/the-great-pivot-bitcoin-miners-shift-towards-artificial-intelligence-ce7f5ddadd8ff020"
+            "title": "Anthropic Vaults to a $965 Billion Valuation With New Funding as Claude Demand Surges",
+            "description": "[U.S. NEWS & WORLD REPORT] Artificial intelligence company Anthropic said Thursday it raised $65 billion in private funding that will push its valuation to $965 billion, a whopping number that makes the five-year-old maker of...",
+            "url": "https://www.usnews.com/news/technology/articles/2026-05-28/anthropic-vaults-to-a-965-billion-valuation-with-new-funding-as-claude-demand-surges"
         },
         {
-            "title": "Linda McMahon to Newsmax: US Schools Need to 'Embrace AI'",
-            "description": "[NEWSMAX] Education Secretary Linda McMahon defended the use of artificial intelligence in classrooms Thursday on Newsmax's National Report, saying schools should embrace AI",
-            "url": "https://www.newsmax.com/us/linda-mcmahon-education-ai/2026/05/28/id/1257790/"
+            "title": "Fallout grows for former law partner sanctioned over AI 'hallucination'",
+            "description": "[REUTERS] A former law firm partner who was sanctioned by an Alabama federal judge last year over artificial intelligence-generated errors in court filings has been reprimanded again by the Oklahoma Supreme...",
+            "url": "https://www.reuters.com/legal/government/fallout-grows-former-law-partner-sanctioned-over-ai-hallucination-2026-05-28/"
         },
         {
-            "title": "AI as your Doctor? Dos and Don\u2019ts for Using AI as Healthcare",
-            "description": "[ACTIVIST POST] Understand the significance of artificial intelligence in healthcare decision-making and its influence on patient care and interactions.",
-            "url": "https://www.activistpost.com/ai-as-your-doctor-dos-and-donts-for-using-ai-as-healthcare/"
+            "title": "Ohio suspends tax break for data centers needed to power AI",
+            "description": "[THE ASSOCIATED PRESS] Ohio is suspending a tax break that has been critical to its competition with other states to attract the massive new facilities that power and train artificial intelligence chatbots.",
+            "url": "https://apnews.com/article/artificial-intelligence-data-centers-taxes-tech-ohio-4d56561a14f9b0d00553001e8c2757a3"
         },
         {
-            "title": "AI chiefs walk back job apocalypse warnings",
-            "description": "[THE MANILA TIMES] WASHINGTON \u2014 The most prominent figures in artificial intelligence are stepping back from dire predictions about mass unemployment, as the industry faces growing public hostility over AI's promised...",
-            "url": "https://www.manilatimes.net/2026/05/28/news/world/ai-chiefs-walk-back-job-apocalypse-warnings/2353882"
+            "title": "Ohio suspends data center tax break as tech firms face pressure to pay the cost to power AI",
+            "description": "[WDIV CLICKONDETROIT] Ohio is suspending a tax break that has been critical to its competition with other states to attract the massive new facilities that power and train artificial intelligence chatbots.",
+            "url": "https://www.clickondetroit.com/tech/2026/05/28/ohio-suspends-data-center-tax-break-as-tech-firms-face-pressure-to-pay-the-cost-to-power-ai/"
         },
         {
-            "title": "AI won't lead to long-term structural unemployment - New York Fed's John Williams",
-            "description": "[SEEKING ALPHA] The underlying U.S. labor market is pretty balanced, and long-term structural unemployment can't be seen from artificial intelligence, according to John Williams, president of the Federal Reserve...",
-            "url": "https://seekingalpha.com/news/4597900-ai-wont-lead-to-long-term-structural-unemployment---new-york-feds-john-williams"
+            "title": "Ohio Suspends Data Center Tax Break as Tech Firms Face Pressure to Pay the Cost to Power AI",
+            "description": "[U.S. NEWS & WORLD REPORT] Ohio, one of the nation\u2019s data center destination hot spots, is suspending a tax break that has been critical to its competition with other states to attract the massive new facilities that power and...",
+            "url": "https://www.usnews.com/news/best-states/ohio/articles/2026-05-28/ohio-suspends-data-center-tax-break-as-tech-firms-face-pressure-to-pay-the-cost-to-power-ai"
         }
     ]
 }
