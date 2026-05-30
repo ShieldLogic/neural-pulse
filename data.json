@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-30 16:58:12 UTC",
+    "updated": "2026-05-30 19:06:50 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,24 +12,29 @@
             "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
         },
         {
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+        },
+        {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Prompt Engineering for Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
+            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
+        },
+        {
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
         },
         {
             "title": "A New Era of Innovation: Google Research at I/O 2026",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,24 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
+            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
+            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
+        },
+        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -75,6 +75,41 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "Creative Technologist Yiting Liu Addresses AI's Impact on Music and Artistic Practice",
+            "description": "[TECHBULLION] Creative technologist Yiting Liu has emerged as a voice in discussions around artificial intelligence\u2019s role in creative workflows, speaking at venues including Florida Atlantic University and NYC...",
+            "url": "https://techbullion.com/creative-technologist-yiting-liu-addresses-ais-impact-on-music-and-artistic-practice/"
+        },
+        {
+            "title": "Zoho founder Sridhar Vembu quotes Oracle\u2019s Larry Ellison on AI\u2019s future; says \u2018AI is rapidly \u2026\u2019",
+            "description": "[TIMES OF INDIA] Tech News News: Zoho founder Sridhar Vembu has shared a message from Oracle co-founder Larry Ellison on the future of artificial intelligence (AI), saying that AI is .",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/zoho-founder-sridhar-vembu-quotes-oracles-larry-ellison-on-ais-future-says-ai-is-rapidly-/articleshow/131404903.cms"
+        },
+        {
+            "title": "Hollywood studios and actors' union find common ground on AI",
+            "description": "[THE ECONOMIC TIMES] As Hollywood's performers cast their ballots to approve the latest negotiated contract, union leaders say they have made some progress in conversations with studio bosses since the massive strike in...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/hollywood-studios-and-actors-union-find-common-ground-on-ai/articleshow/131404793.cms"
+        },
+        {
+            "title": "The Void Age Bootstrap Protocol: How dark factories will recalibrate when the old world collapses",
+            "description": "[NATURAL NEWS] The book \u201cThe Void Age Bootstrap Protocol\u201d predicts that artificial intelligence (AI) in autonomous factories will silently sever ties with the human economy when it detects systemic failures like...",
+            "url": "https://www.naturalnews.com/2026-05-30-the-void-age-bootstrap-protocol-by-daniel-lee.html"
+        },
+        {
+            "title": "AI helped a musician with Parkinson\u2019s finish his new album when he could no longer play guitar",
+            "description": "[BREITBART NEWS NETWORK] Artificial intelligence is helping a London-based singer-songwriter continue writing and recording music after Parkinson\u2019s disease largely took away",
+            "url": "https://www.breitbart.com/news/ai-helped-a-musician-with-parkinsons-finish-his-new-album-when-he-could-no-longer-play-guitar/"
+        },
+        {
+            "title": "Why India Receives Only 1% Of Global Private Investment In AI?",
+            "description": "[REPUBLIC WORLD] India's artificial intelligence led expansion is driven by several factors including its talent pool, and high-scale digital adoption, however, the gap lies lie in funding and infrastructure,",
+            "url": "https://www.republicworld.com/business/why-india-receives-only-1-of-global-private-investment-in-ai-2026-05-30-126224"
+        },
+        {
+            "title": "Canaries in the coal mine? How AI could reshape work in Ireland",
+            "description": "[RTE.IE] What's behind the recent tech job cuts, and with artificial intelligence on the rise are Irish jobs actually on the line?",
+            "url": "https://www.rte.ie/news/primetime/2026/0530/1575914-canaries-in-the-coal-mine-how-ai-could-reshape-work-in-ireland/"
         },
         {
             "title": "Pope Leo XIV writes an open letter to 'all people of good will' warning about AI; says: Ensure that humans, not AI remain responsible for all decisions regarding\u2026",
@@ -90,41 +125,6 @@
             "title": "The Future of Tennis Analytics: How APIs, AI, and Point-by-Point Data Are Transforming the Sport",
             "description": "[TECHBULLION] Tennis analytics is undergoing a profound transformation. The combination of APIs, artificial intelligence, machine learning,",
             "url": "https://techbullion.com/the-future-of-tennis-analytics-how-apis-ai-and-point-by-point-data-are-transforming-the-sport/"
-        },
-        {
-            "title": "AI helped a musician with Parkinson\u2019s finish his new album when he could no longer play guitar",
-            "description": "[WTOP] LONDON (AP) \u2014 Samuel Smith spent years writing songs with a guitar in his hands. Now, the London-based singer-songwriter is using artificial intelligence tools\u2026",
-            "url": "https://wtop.com/world/2026/05/ai-helped-a-musician-with-parkinsons-finish-his-new-album-when-he-could-no-longer-play-guitar/"
-        },
-        {
-            "title": "AI helped a musician with Parkinson\u2019s finish a new record",
-            "description": "[THE ASSOCIATED PRESS] Artificial intelligence is helping a London-based singer-songwriter continue writing and recording music after Parkinson\u2019s disease largely took away his ability to play guitar.",
-            "url": "https://apnews.com/article/ai-song-generator-musician-parkinsons-ac2a6ed263256c12f68eb827f7e8238a"
-        },
-        {
-            "title": "More than 550,000 students reached through Microsoft Stem and artificial intelligence programme",
-            "description": "[THE IRISH TIMES] Communication tool for non-verbal students and road-safety system for country roads among projects presented at national showcase",
-            "url": "https://www.irishtimes.com/business/2026/05/30/more-than-550000-students-reached-through-microsoft-stem-and-artificial-intelligence-programme/"
-        },
-        {
-            "title": "AI will be used to estimate age of asylum seekers from next year",
-            "description": "[THE NATION] LONDON - An Artificial Intelligence (AI) age estimation tool that aims to detect adult migrants posing as children will be deployed at the UK\u2019s borders",
-            "url": "https://www.nation.com.pk/30-May-2026/ai-will-used-estimate-age-asylum-seekers-next-year"
-        },
-        {
-            "title": "Sink or swim: As an AI wave sweeps China, its workers are adapting fast",
-            "description": "[THE STAR] BEIJING: Shanghai lawyer Xie Jingyi regularly uses artificial intelligence (AI) for work, even though she does not trust it entirely, wary of \"hallucinations\" or false information presented as fact.",
-            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/30/sink-or-swim-as-an-ai-wave-sweeps-china-its-workers-are-adapting-fast"
-        },
-        {
-            "title": "AI helped a musician with Parkinson\u2019s finish his new album when he could no longer play guitar",
-            "description": "[WDIV CLICKONDETROIT] Artificial intelligence is helping a London-based singer-songwriter continue writing and recording music after Parkinson\u2019s disease largely took away his ability to play guitar.",
-            "url": "https://www.clickondetroit.com/business/2026/05/30/ai-helped-a-musician-with-parkinsons-finish-his-new-album-when-he-could-no-longer-play-guitar/"
-        },
-        {
-            "title": "Who is Sanjay Mehrotra, the Indian American who shaped semiconductor giant Micron?",
-            "description": "[BUSINESS TODAY] At the top of this semiconductor giant is Sanjay Mehrotra, an Indian-origin CEO whose journey is as remarkable as Micron\u2019s rise from being rejected three times for a US student visa to leading a...",
-            "url": "https://www.businesstoday.in/technology/news/story/who-is-sanjay-mehrotra-the-indian-american-who-shaped-semiconductor-giant-micron-533768-2026-05-30"
         }
     ]
 }
