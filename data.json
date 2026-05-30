@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-30 09:55:57 UTC",
+    "updated": "2026-05-30 11:18:19 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,29 +12,24 @@
             "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
         },
         {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
-        },
-        {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Prompt Engineering for Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
-            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
-        },
-        {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
             "title": "A New Era of Innovation: Google Research at I/O 2026",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
+        },
+        {
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,19 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
-            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
-            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
-        },
-        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -75,6 +75,16 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "I replaced cloud LLMs with local models running off a Proxmox LXC, and the performance trade-off was worth it",
+            "description": "[XDA DEVELOPERS] Turning my old GPU into an LLM-hosting behemoth was the best decision ever",
+            "url": "https://www.xda-developers.com/i-replaced-cloud-llms-with-local-models-running-off-a-proxmox-lxc/"
+        },
+        {
+            "title": "SpaceX said to cut IPO value goal to at least $1.8 trillion",
+            "description": "[SANTA ANA ORANGE COUNTY REGISTER] SpaceX is currently targeting a valuation of at least $1.8 trillion in its initial public offering, according to people familiar with the matter, as Elon Musk's rocket and artificial intelligence...",
+            "url": "https://www.ocregister.com/2026/05/29/spacex-said-to-cut-ipo-value-goal-to-at-least-1-8-trillion/"
         },
         {
             "title": "Truist Lifts Alphabet (GOOGL) Stock Price Target; What\u2019s Driving the Optimism?",
@@ -115,16 +125,6 @@
             "title": "Dell in 'Strong' Position to Continue to Outperform Amid AI Infrastructure Buildout, Wedbush Says",
             "description": "[MARKETSCREENER] Dell Technologies is in a strong position to continue to outperform amid the ongoing artificial intelligence infrastructure buildout, Wedbush Securities said in a note. Late Thursday, the computer...",
             "url": "https://www.marketscreener.com/news/dell-in-strong-position-to-continue-to-outperform-amid-ai-infrastructure-buildout-wedbush-says-ce7f5ddbd18ffe25"
-        },
-        {
-            "title": "OpenAI has discussed adding Citigroup, JPMorgan to bank lineup for IPO",
-            "description": "[MONEYCONTROL] The IPO would follow the listing of Elon Musk\u2019s SpaceX, expected to be the largest of all time at $75 billion, but would put it out in front of rival artificial intelligence company Anthropic PBC,...",
-            "url": "https://www.moneycontrol.com/news/business/companies/openai-has-discussed-adding-citigroup-jpmorgan-to-bank-lineup-for-ipo-13936085.html"
-        },
-        {
-            "title": "Researchers develop open source framework for health AI research",
-            "description": "[NEWS-MEDICAL.NET] A research team led by Columbia University has developed an open-source framework designed to streamline and accelerate artificial intelligence research using health data, addressing longstanding...",
-            "url": "https://www.news-medical.net/news/20260529/Researchers-develop-open-source-framework-for-health-AI-research.aspx"
         }
     ]
 }
