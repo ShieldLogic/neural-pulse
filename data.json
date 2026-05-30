@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-30 19:06:50 UTC",
+    "updated": "2026-05-30 20:51:30 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,29 +12,24 @@
             "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
         },
         {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
-        },
-        {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Prompt Engineering for Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
-            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
-        },
-        {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
             "title": "A New Era of Innovation: Google Research at I/O 2026",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
+        },
+        {
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,19 +47,24 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
-            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
-            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
-        },
-        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -75,6 +75,31 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "No IIT, no mentor: Techie who survived on 1-2 samosas a day & started with just Rs 20,000 a month reveals how he rose to become one of youngest VPs",
+            "description": "[THE ECONOMIC TIMES] IIT failure success story: A tech professional's story of overcoming IIT exam failures and financial struggles is inspiring many. He failed the IIT entrance exam twice but pursued engineering in a...",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/no-iit-no-mentor-techie-who-survived-on-12-samosas-a-day-started-with-just-rs-20000-a-month-reveals-how-he-rose-to-become-one-of-youngest-vps/articleshow/131406303.cms"
+        },
+        {
+            "title": "From Data Analytics to Generative AI: Why LeoSkill Is Emerging as a Fast",
+            "description": "[THE TRIBUNE] New Delhi [India], May 30: The way India learns and works is changing faster than ever before. A few years ago, earning a degree was often enough to secure a promising career. Today, with Artificial...",
+            "url": "https://www.tribuneindia.com/news/business/from-data-analytics-to-generative-ai-why-leoskill-is-emerging-as-a-fast-growing-edtech-brand/"
+        },
+        {
+            "title": "Pope Leo praised for AI intervention: \u2018Silicon Valley is having a meltdown'",
+            "description": "[INDY100] Pope Leo XIV has been praised on X/Twitter, after he shared an excerpt from his first major text - Magnifica Humanitas - criticising the rise of artificial intelligence. The quote from the document,...",
+            "url": "https://www.indy100.com/politics/pope-leo-xiv-artificial-intelligence"
+        },
+        {
+            "title": "AI plays pivotal role in taking faster decisions, managing complex battlefields, says Army Chief",
+            "description": "[LOKMAT TIMES] AI plays pivotal role in taking faster decisions, managing complex battlefields, says Army Chief - Pune, May 30 Indian Army chief General Upendra Dwivedi on Saturday emphasised the increasing...",
+            "url": "https://www.lokmattimes.com/national/ai-plays-pivotal-role-in-taking-faster-decisions-managing-complex-battlefields-says-army-chief/"
+        },
+        {
+            "title": "India's Equity Slump Is Teaching SIP Investors A Lesson. Here's Why PGIM MF Thinks It's Not A Bad Thing",
+            "description": "[NDTV PROFIT] Paharia said PGIM has remained meaningfully underweight information technology stocks over the past year, citing artificial intelligence as a genuine long-term disruptor to traditional IT services...",
+            "url": "https://www.ndtvprofit.com/personal-finance/indias-equity-slump-is-teaching-sip-investors-a-lesson-heres-why-pgim-mf-thinks-its-not-a-bad-thing-11563698"
         },
         {
             "title": "Creative Technologist Yiting Liu Addresses AI's Impact on Music and Artistic Practice",
@@ -100,31 +125,6 @@
             "title": "AI helped a musician with Parkinson\u2019s finish his new album when he could no longer play guitar",
             "description": "[BREITBART NEWS NETWORK] Artificial intelligence is helping a London-based singer-songwriter continue writing and recording music after Parkinson\u2019s disease largely took away",
             "url": "https://www.breitbart.com/news/ai-helped-a-musician-with-parkinsons-finish-his-new-album-when-he-could-no-longer-play-guitar/"
-        },
-        {
-            "title": "Why India Receives Only 1% Of Global Private Investment In AI?",
-            "description": "[REPUBLIC WORLD] India's artificial intelligence led expansion is driven by several factors including its talent pool, and high-scale digital adoption, however, the gap lies lie in funding and infrastructure,",
-            "url": "https://www.republicworld.com/business/why-india-receives-only-1-of-global-private-investment-in-ai-2026-05-30-126224"
-        },
-        {
-            "title": "Canaries in the coal mine? How AI could reshape work in Ireland",
-            "description": "[RTE.IE] What's behind the recent tech job cuts, and with artificial intelligence on the rise are Irish jobs actually on the line?",
-            "url": "https://www.rte.ie/news/primetime/2026/0530/1575914-canaries-in-the-coal-mine-how-ai-could-reshape-work-in-ireland/"
-        },
-        {
-            "title": "Pope Leo XIV writes an open letter to 'all people of good will' warning about AI; says: Ensure that humans, not AI remain responsible for all decisions regarding\u2026",
-            "description": "[TIMES OF INDIA] Tech News News: Pope Leo XIV has issued the first major teaching document of his papacy, and he spent it on artificial intelligence. The 42,300-word encyclical, title.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/pope-leo-xiv-writes-an-open-letter-to-all-people-of-good-will-warning-about-ai-says-ensure-that-humans-not-ai-remain-responsible-for-all-decisions-regarding/articleshow/131403149.cms"
-        },
-        {
-            "title": "Nvidia chief executive Jensen Huang expected to visit South Korea",
-            "description": "[CNA] Huang's visit comes as a global artificial intelligence boom drives strong demand for Samsung Electronics and SK hynix memory chips, helping support South Korea's economic growth and stock market...",
-            "url": "https://www.channelnewsasia.com/east-asia/nvidia-chief-executive-jensen-huang-expected-visit-south-korea-6151131"
-        },
-        {
-            "title": "The Future of Tennis Analytics: How APIs, AI, and Point-by-Point Data Are Transforming the Sport",
-            "description": "[TECHBULLION] Tennis analytics is undergoing a profound transformation. The combination of APIs, artificial intelligence, machine learning,",
-            "url": "https://techbullion.com/the-future-of-tennis-analytics-how-apis-ai-and-point-by-point-data-are-transforming-the-sport/"
         }
     ]
 }
