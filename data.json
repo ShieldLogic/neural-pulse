@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-30 13:20:50 UTC",
+    "updated": "2026-05-30 15:02:59 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -22,11 +22,6 @@
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Prompt Engineering for Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
-            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
-        },
-        {
             "title": "LLM Observability Tools for Reliable AI Applications",
             "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
             "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
@@ -35,6 +30,11 @@
             "title": "A New Era of Innovation: Google Research at I/O 2026",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
+        },
+        {
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,11 +52,6 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
-            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
-            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
-        },
-        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
@@ -67,6 +62,11 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
+        },
+        {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
             "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
             "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
@@ -75,6 +75,21 @@
             "title": "Catalyzing scientific impact through global partnerships and open resources",
             "description": "[RESEARCH] Data Mining & Modeling",
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
+        },
+        {
+            "title": "AI helped a musician with Parkinson\u2019s finish his new album when he could no longer play guitar",
+            "description": "[WDIV CLICKONDETROIT] Artificial intelligence is helping a London-based singer-songwriter continue writing and recording music after Parkinson\u2019s disease largely took away his ability to play guitar.",
+            "url": "https://www.clickondetroit.com/business/2026/05/30/ai-helped-a-musician-with-parkinsons-finish-his-new-album-when-he-could-no-longer-play-guitar/"
+        },
+        {
+            "title": "Who is Sanjay Mehrotra, the Indian American who shaped semiconductor giant Micron?",
+            "description": "[BUSINESS TODAY] At the top of this semiconductor giant is Sanjay Mehrotra, an Indian-origin CEO whose journey is as remarkable as Micron\u2019s rise from being rejected three times for a US student visa to leading a...",
+            "url": "https://www.businesstoday.in/technology/news/story/who-is-sanjay-mehrotra-the-indian-american-who-shaped-semiconductor-giant-micron-533768-2026-05-30"
+        },
+        {
+            "title": "AI as your Doctor? Dos and Don\u2019ts for Using AI as Healthcare",
+            "description": "[ACTIVIST POST] Understand the significance of artificial intelligence in healthcare decision-making and its influence on patient care and interactions.",
+            "url": "https://www.activistpost.com/ai-as-your-doctor-dos-and-donts-for-using-ai-as-healthcare/"
         },
         {
             "title": "Silicon Valley wants to control the economy",
@@ -110,21 +125,6 @@
             "title": "SpaceX said to cut IPO value goal to at least $1.8 trillion",
             "description": "[SANTA ANA ORANGE COUNTY REGISTER] SpaceX is currently targeting a valuation of at least $1.8 trillion in its initial public offering, according to people familiar with the matter, as Elon Musk's rocket and artificial intelligence...",
             "url": "https://www.ocregister.com/2026/05/29/spacex-said-to-cut-ipo-value-goal-to-at-least-1-8-trillion/"
-        },
-        {
-            "title": "Truist Lifts Alphabet (GOOGL) Stock Price Target; What\u2019s Driving the Optimism?",
-            "description": "[MARKETS INSIDER] Alphabet (GOOGL) stock has risen about 22% year-to-date and nearly 122% over the past year. Artificial intelligence (AI)-led demand for Google C...",
-            "url": "https://markets.businessinsider.com/news/stocks/truist-lifts-alphabet-googl-stock-price-target-what-s-driving-the-optimism-1036209425"
-        },
-        {
-            "title": "Carney speaks to Pope Leo about artificial intelligence",
-            "description": "[NATIONAL POST] Carney spoke to Pope Leo XIV about the importance of protecting humanity when it comes to artificial intelligence, according to his office.",
-            "url": "https://nationalpost.com/news/politics/carney-speaks-to-pope-leo-about-artificial-intelligence-as-government-prepares-ai-strategy"
-        },
-        {
-            "title": "Carney, Pope Leo discuss responsible AI after pontiff warns world to slow development",
-            "description": "[CBC.CA] Prime Minister Mark Carney spoke with Pope Leo about artificial intelligence and the \"imperative that AI must serve humanity\" \u2014 a conversation that comes days after the Pope urged governments to slow...",
-            "url": "https://www.cbc.ca/news/politics/carney-pope-leo-ai-encyclical-fears-war-vatican-9.7217138"
         }
     ]
 }
