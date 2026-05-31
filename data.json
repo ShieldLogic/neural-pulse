@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-30 22:55:11 UTC",
+    "updated": "2026-05-31 03:25:29 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,9 +7,19 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
+        {
             "title": "Private analytics via zero-trust aggregation",
             "description": "[RESEARCH] Security, Privacy and Abuse Prevention",
             "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
+        },
+        {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
@@ -22,14 +32,14 @@
             "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
+            "title": "Effective KV Compression with TurboQuant",
+            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
+            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
+        },
+        {
             "title": "A New Era of Innovation: Google Research at I/O 2026",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,11 +57,6 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
             "title": "Agentic RAG Explained in 3 Levels of Difficulty",
             "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
             "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
@@ -60,11 +65,6 @@
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Chief scientist and co-founder of Europe\u2019s most prominent AI startup warns region cannot afford to rely on US for Superintelligence: \u2018Very soon in \u2026\u2019",
-            "description": "[TIMES OF INDIA] Tech News News: The chief scientist and co-founder of Mistral AI, Europe\u2019s leading artificial intelligence (AI) startup, has issued a stark warning: Europe must urgen.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/chief-scientist-and-co-founder-of-europes-most-prominent-ai-startup-warns-region-cannot-afford-to-rely-on-us-for-superintelligence-very-soon-in-/articleshow/131407642.cms"
+            "title": "Calling Doctor GPT: AI responses to health care queries are nearly 76% accurate",
+            "description": "[MEDICAL XPRESS] Artificial intelligence (AI)-powered chatbots respond to everyday health-related questions from general users with nearly 76% accuracy, which raises concerns about their trustworthiness in real-world...",
+            "url": "https://medicalxpress.com/news/2026-05-doctor-gpt-ai-responses-health.html"
         },
         {
-            "title": "2026: Invertis University Hosts Conversations on AI, Data Science, and the Future of Computing",
-            "description": "[THE TRIBUNE] Bareilly (Uttar Pradesh) [India], May 30: The 5th International Conference on Computational Techniques: Recent Trends and Issues (ICCT-2026), organised by the Department of Computer Science and...",
-            "url": "https://www.tribuneindia.com/news/business/icct-2026-invertis-university-hosts-conversations-on-ai-data-science-and-the-future-of-computing/"
+            "title": "Will AI put economists out of business? Fed\u2019s John Williams says 'I\u2019m not a believer that...'",
+            "description": "[LIVEMINT] The implications of artificial intelligence gripped global central bankers in Iceland this week, with one Federal Reserve official joking that it won\u2019t put economists out of business.",
+            "url": "https://www.livemint.com/economy/will-ai-put-economists-out-of-business-fed-s-john-williams-says-i-m-not-a-believer-that-11780150488966.html"
         },
         {
-            "title": "Emily Blunt Chooses Personal Touch Over AI for 'Disclosure Day' Sound Effects",
-            "description": "[DEVDISCOURSE] In the upcoming film 'Disclosure Day,' Emily Blunt decided to create unique extraterrestrial sound effects herself, rather than using Artificial Intelligence, which she finds daunting. The film,...",
-            "url": "https://www.devdiscourse.com/article/entertainment/3926837-emily-blunt-chooses-personal-touch-over-ai-for-disclosure-day-sound-effects"
+            "title": "Samsung, SK Hynix back Anthropic, valuation goes up to $965 Billion after Series H funding",
+            "description": "[THE TRIBUNE] Samsung Electronics and SK hynix have taken strategic stakes in Anthropic, the developer of the Claude artificial intelligence models, joining a funding round that valued the US startup at $965...",
+            "url": "https://www.tribuneindia.com/news/business/samsung-sk-hynix-back-anthropic-valuation-goes-up-to-965-billion-after-series-h-funding/"
         },
         {
-            "title": "AUKUS Allies Innovate Unmanned Undersea Vehicles",
-            "description": "[DEVDISCOURSE] The United States, Britain, and Australia are collaborating on developing unmanned undersea vehicles within the AUKUS defence pact, aiming to counter China's influence in the Indo-Pacific. The...",
-            "url": "https://www.devdiscourse.com/article/technology/3926833-aukus-allies-innovate-unmanned-undersea-vehicles"
+            "title": "AI to shape future of higher education, universities told",
+            "description": "[THE HINDU] JSS Science and Technology University (JSS STU), Mysuru, in association with the Forum of Former Vice Chancellors of Karnataka (FVCK), Bengaluru, successfully organised a one-day national seminar on...",
+            "url": "https://www.thehindu.com/news/national/karnataka/ai-to-shape-future-of-higher-education-universities-told/article71041171.ece"
         },
         {
-            "title": "Immigration lawyers say automation is partly driving a massive Federal Court backlog",
-            "description": "[BAYTODAY] OTTAWA \u2014 The number of immigration cases being brought to Federal Court has more than quadrupled since 2020 \u2014 and some immigration lawyers are linking the surge in part to the federal government's...",
-            "url": "https://www.baytoday.ca/national-news/immigration-lawyers-say-automation-is-partly-driving-a-massive-federal-court-backlog-12352130"
+            "title": "AI predicts Ethereum price for June 1, 2026",
+            "description": "[FINBOLD] An artificial intelligence model predicts that Ethereum could trade around $2,140 on June 1, as the cryptocurrency attempts to stabilize",
+            "url": "https://finbold.com/ai-predicts-ethereum-price-for-june-1-2026/"
         },
         {
-            "title": "Immigration lawyers say automation is partly driving a massive Federal Court backlog",
-            "description": "[SOOTODAY] OTTAWA \u2014 The number of immigration cases being brought to Federal Court has more than quadrupled since 2020 \u2014 and some immigration lawyers are linking the surge in part to the federal government's...",
-            "url": "https://www.sootoday.com/national-news/immigration-lawyers-say-automation-is-partly-driving-a-massive-federal-court-backlog-12352130"
+            "title": "\u2018Dinosaur\u2019 Tech Stocks Reborn as AI Fuels $1.7 Trillion Rally",
+            "description": "[BLOOMBERG] They were all stars of the dot-com era before fading into the background as the bubble burst and a new generation of tech darlings rose to the forefront. But Dell Technologies Inc., Nokia Oyj and...",
+            "url": "https://www.bloomberg.com/news/articles/2026-05-30/-dinosaur-tech-stocks-reborn-as-ai-fuels-1-7-trillion-rally"
         },
         {
-            "title": "The church and AI meet at last. Who should you believe?",
-            "description": "[LIVEMINT] In an age of artificial intelligence, which voice of authority carries more weight? A priest who\u2019s advised the Vatican weighs in.",
-            "url": "https://www.livemint.com/ai/the-church-and-ai-meet-at-last-who-should-you-believe-11780134384638.html"
+            "title": "AI helped a musician with Parkinson\u2019s finish his new album when he could no longer play guitar",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Artificial intelligence is helping a London-based singer-songwriter continue writing and recording music after Parkinson\u2019s disease largely took away his ability to play guitar. Samuel Smith relied on...",
+            "url": "https://www.ajc.com/news/2026/05/ai-helped-a-musician-with-parkinsons-finish-his-new-album-when-he-could-no-longer-play-guitar/"
         },
         {
-            "title": "Koji: World\u2019s first AI tutor that teaches kids how to think, not memorize",
-            "description": "[THE NEWS INTERNATIONAL] In today\u2019s digital world, artificial intelligence models have been blamed for making people dumber as a result of cognitive offloading. Various research studies have proven the harmful impacts...",
-            "url": "https://www.thenews.com.pk/latest/1404161-koji-worlds-first-ai-tutor-that-teaches-kids-how-to-think-not-memorize"
+            "title": "Powered Drone Swarms: 'Find and kill them all': China unveils AI",
+            "description": "[TIMES OF INDIA] International News: A Chinese research team has unveiled a new artificial intelligence algorithm that it claims could significantly advance autonomous drone warfare, enab.",
+            "url": "https://timesofindia.indiatimes.com/defence/international/find-and-kill-them-all-china-unveils-ai-powered-drone-swarms-that-can-hunt-targets-autonomously/articleshow/131409113.cms"
         },
         {
-            "title": "Robinhood unveiled tools allowing AI agents to trade stocks and make purchases for users",
-            "description": "[THE NEWS INTERNATIONAL] Robinhood has officially opened its platform to third-party artificial intelligence tools by launching cutting-edge features like Agentic Trading and the Agentic Credit Card. These tools now let AI...",
-            "url": "https://www.thenews.com.pk/latest/1404160-robinhood-unveiled-tools-allowing-ai-agents-to-trade-stocks-and-make-purchases-for-users"
+            "title": "Why Gen Z Prefers Multifunctional Gadgets Over Traditional Devices",
+            "description": "[THE TRIBUNE] New Delhi [India], May 30: Digital natives, or Generation Z or Gen Z, are tech-savvy humans who grew up in a world where the use of technology is a necessity rather than an option. Those born before...",
+            "url": "https://www.tribuneindia.com/news/business/why-gen-z-prefers-multifunctional-gadgets-over-traditional-devices/"
         },
         {
-            "title": "The Star tried something with AI we had never done before",
-            "description": "[TORONTO STAR] This was our first major foray into artificial-intelligence-assisted investigative reporting. Doing it right was crucial",
-            "url": "https://www.thestar.com/opinion/the-star-tried-something-with-ai-it-had-never-done-before-then-we-pumped-the-brakes-heres-why/article_329b1a76-476c-4261-8a37-c2806a0a6f31.html"
+            "title": "Canada immigration lawyers say automation driving backlog",
+            "description": "[CP24 TORONTO] The number of immigration cases being brought to Federal Court has more than quadrupled since 2020 \u2014 and some immigration lawyers are linking the surge in part to the federal government\u2019s use of...",
+            "url": "https://www.cp24.com/news/canada/2026/05/30/immigration-lawyers-say-automation-is-partly-driving-a-massive-federal-court-backlog/"
         }
     ]
 }
