@@ -1,130 +1,85 @@
 {
-    "updated": "2026-05-31 10:11:17 UTC",
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-05-31 12:56 UTC",
     "news": [
         {
-            "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
-            "description": "[RESEARCH] Data Mining & Modeling",
-            "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia \u2014 but not Anthropic",
+            "description": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense \u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2273115889.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-01T14:09:56Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe flurry of deals leaves out Anthropic, which the department previously used for handling classified information.\r\nThe flurry of deals leaves out Anthropic, wh\u2026 [+3824 chars]"
         },
         {
-            "title": "Private analytics via zero-trust aggregation",
-            "description": "[RESEARCH] Security, Privacy and Abuse Prevention",
-            "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Siri\u2019s Total Chatbot Makeover Is Imminent With iOS 27",
+            "description": "Android isn't the only OS leaning into agentic AI.",
+            "url": "https://gizmodo.com/siri-total-chatbot-makeover-is-imminent-with-ios-27-2000757747",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/A1A9528-1200x675.jpg",
+            "publishedAt": "2026-05-12T22:15:29Z",
+            "content": "It\u2019s been nearly two years since Apple promised an AI-supercharged Siri, but if a new report is any indication, that transformation is finally upon us. According to Bloomberg\u2019s Mark Gurman, there are\u2026 [+2195 chars]"
         },
         {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Maxwell Zeff, Paresh Dave",
+            "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI's Models to Train Its Own",
+            "description": "While answering questions under oath, Musk argued it\u2019s standard practice for AI labs to use their competitors' models.",
+            "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+            "urlToImage": "https://media.wired.com/photos/69f3848c17e0528daa0ec80c/191:100/w_1280,c_limit/Musk-Admits-to-Partly-Distilling-OpenAI-Models-Business-2273133893.jpg",
+            "publishedAt": "2026-04-30T17:41:14Z",
+            "content": "While testifying on Thursday in federal court, Elon Musk seemed to indicate that his AI lab may have used OpenAIs models to train xAIs own. He touched upon the topic while sitting on the witness stan\u2026 [+2630 chars]"
         },
         {
-            "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
-            "description": "[RESEARCH] General Science",
-            "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
+            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
+            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
+            "publishedAt": "2026-05-20T19:02:47Z",
+            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
         },
         {
-            "title": "Prompt Engineering for Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
-            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "What an AI-designed car looks like",
+            "description": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change. That's one reason \u2026",
+            "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0405_Site.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-05T13:42:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: driving an LLM, Claude Code vs. Codex, RIP AGI, and more.\r\nOn The Vergecast: driving an LLM, Claude Code vs. Codex, RIP AGI, and more.\r\nby\r\nDav\u2026 [+3278 chars]"
         },
         {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
-        },
-        {
-            "title": "A New Era of Innovation: Google Research at I/O 2026",
-            "description": "[RESEARCH] General Science",
-            "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
-        },
-        {
-            "title": "Information-Driven Design of Imaging Systems",
-            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
-            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
-        },
-        {
-            "title": "RL without TD learning",
-            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
-            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
-        },
-        {
-            "title": "Gradient-based Planning for World Models at Longer Horizons",
-            "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
-            "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
-            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
-            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
-        },
-        {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
-            "title": "Identifying Interactions at Scale for LLMs",
-            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
-            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
-            "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
-            "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
-        },
-        {
-            "title": "Catalyzing scientific impact through global partnerships and open resources",
-            "description": "[RESEARCH] Data Mining & Modeling",
-            "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
-        },
-        {
-            "title": "New AI approach aims to predict radiation dose before therapy in advanced prostate cancer",
-            "description": "[MEDICAL XPRESS] A new machine-learning approach for prostate-specific membrane antigen (PSMA) treatment of metastatic castration-resistant prostate cancer (mCRPC) could estimate radiation dose to tumors and healthy...",
-            "url": "https://medicalxpress.com/news/2026-05-ai-approach-aims-dose-therapy.html"
-        },
-        {
-            "title": "India & US Drive AI, Semicon Ties",
-            "description": "[THE ECONOMIC TIMES] India and the US will be encouraging businesses from both countries dealing with artificial intelligence and semiconductors to collaborate more, officials said.",
-            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/may/31/sunet-front/india-us-drive-ai-semicon-ties/articleshow/131415580.cms"
-        },
-        {
-            "title": "India & US Drive AI, Semicon Ties",
-            "description": "[THE ECONOMIC TIMES] India and the US will be encouraging businesses from both countries dealing with artificial intelligence and semiconductors to collaborate more, officials said.",
-            "url": "https://economictimes.indiatimes.com/sunet-front/india-us-drive-ai-semicon-ties/articleshow/131415580.cms"
-        },
-        {
-            "title": "SoftBank to spend $87.5 bil on AI centers in France: Son",
-            "description": "[JAPAN TODAY] Japanese tech investor SoftBank will spend 75 billion euros ($87.5 billion) on artificial intelligence infrastructure in France, its founder Masayoshi Son told a French newspaper in an interview...",
-            "url": "https://japantoday.com/category/tech/softbank-to-spend-87.5bn-on-ai-centres-in-france-son"
-        },
-        {
-            "title": "Emily Blunt says she didn't use AI in Steven Spielberg\u2019s Disclosure Day: \u2018I\u2019m terrified of it'",
-            "description": "[LIVEMINT] Emily Blunt has revealed she rejected the use of artificial intelligence for a crucial scene in Steven Spielberg\u2019s upcoming sci-fi film Disclosure Day, opting instead to create the sounds herself.",
-            "url": "https://www.livemint.com/entertainment/emily-blunt-says-she-didnt-use-ai-in-steven-spielberg-s-disclosure-day-i-m-terrified-of-it-11780171989169.html"
-        },
-        {
-            "title": "SoftBank to spend $87.5 billion on AI centres in France: Son",
-            "description": "[THE ECONOMIC TIMES] Japanese tech investor SoftBank will spend 75 billion euros ($87.5 billion) on artificial intelligence infrastructure in France, its founder Masayoshi Son told a French newspaper in an interview...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-to-spend-87-5-billion-on-ai-centres-in-france-son/articleshow/131415427.cms"
-        },
-        {
-            "title": "SoftBank to Invest Some \u20ac75 Billion in AI in France, Reports Say",
-            "description": "[LIVEMINT] SoftBank Group Corp. plans to invest as much as \u20ac75 billion ($87 billion) to build artificial intelligence data centers in France, La Tribune and the Financial Times reported.",
-            "url": "https://www.livemint.com/companies/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say-11780168512112.html"
-        },
-        {
-            "title": "The schools in Asia embracing artificial intelligence in classrooms",
-            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Countries in Asia are emerging as the world's early adopters of AI in education, as the global race to lead in the technology accelerates.",
-            "url": "https://www.abc.net.au/news/2026-05-31/schools-in-asia-embracing-ai/106703054"
-        },
-        {
-            "title": "SoftBank to build up AI data centres in France with major investment",
-            "description": "[MARKETSCREENER] Japan's SoftBank Group will invest EUR45 billion over the next five years in a push to build up artificial intelligence infrastructure in France, founder Masayoshi Son told the paper La Tribune...",
-            "url": "https://www.marketscreener.com/news/softbank-to-build-up-ai-data-centres-in-france-with-major-investment-ce7f5dd8da8ef425"
-        },
-        {
-            "title": "SoftBank to build up AI data centres in France with major investment",
-            "description": "[REUTERS] Japan's SoftBank Group will invest \u20ac45 billion over the next five years in a push \u200bto build up artificial intelligence infrastructure in France, \u200cfounder Masayoshi Son told the paper La Tribune...",
-            "url": "https://www.reuters.com/business/media-telecom/softbank-build-up-ai-data-centres-france-with-major-investment-2026-05-30/"
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paresh Dave, Maxwell Zeff",
+            "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+            "description": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
+            "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+            "urlToImage": "https://media.wired.com/photos/6a07b49c3e66727feabf05fc/191:100/w_1280,c_limit/Model-Behavior-Altman-v-Musk-Verdict-Business.jpg",
+            "publishedAt": "2026-05-18T17:40:30Z",
+            "content": "Elon Musk suffered the worst defeat possible in his legal battle against OpenAI as a federal jury and a judge ruled he waited too long to bring his claims against the AI startup and its top executive\u2026 [+2873 chars]"
         }
     ]
 }
