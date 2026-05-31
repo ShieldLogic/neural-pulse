@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-31 13:27:50 UTC",
+    "updated": "2026-05-31 15:15:28 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,19 +12,14 @@
             "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
         },
         {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
-        },
-        {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
             "title": "A New Era of Innovation: Google Research at I/O 2026",
@@ -57,6 +52,11 @@
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+        },
+        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
@@ -77,6 +77,41 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
+            "title": "Firms spent heavily on AI. Now rising costs are outpacing its value",
+            "description": "[SOUTH CHINA MORNING POST] All this artificial intelligence spending was showing no noticeable increase in productivity, Uber\u2019s chief operating officer says.",
+            "url": "https://www.scmp.com/news/world/united-states-canada/article/3355439/firms-spent-heavily-ai-now-rising-costs-are-outpacing-its-value"
+        },
+        {
+            "title": "\u2018India\u2019s digital payments, mobile economy poised for strong expansion as AI fuels growth\u2019: Paytm CEO Vijay Sharma",
+            "description": "[THE FINANCIAL EXPRESS] Vijay Sharma made a case for artificial intelligence as a transformational enabler across businesses, saying it can increase scale, improve operational efficiency and deepen customer engagement.",
+            "url": "https://www.financialexpress.com/business/news-india-digital-payments-mobile-economy-poised-for-strong-expansion-artificial-intelligence-ai-fuels-growth-smartphones-to-power-next-wave-paytm-ceo-founder-vijay-sharma-4255347/"
+        },
+        {
+            "title": "Quote of the Day by Elon Musk: 'Why do you want to live? What's the point?...'",
+            "description": "[BUSINESS TODAY] Elon Musk is a prominent billionaire entrepreneur, engineer, and tech mogul best known for founding and leading groundbreaking companies in space exploration, electric vehicles, and artificial...",
+            "url": "https://www.businesstoday.in/latest/trends/story/quote-of-the-day-by-elon-musk-why-do-you-want-to-live-whats-the-point-533741-2026-05-31"
+        },
+        {
+            "title": "Nvidia CFO Colette Kress at company's earnings call: AI is no longer nice-to-have as ...",
+            "description": "[TIMES OF INDIA] Tech News News: Nvidia\u2019s Chief Financial Officer (CFO) Colette Kress has revealed that artificial intelligence (AI) is no longer a \u201cnice-to-have\u201d technology. She admi.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-cfo-colette-kress-at-companys-earnings-call-ai-is-no-longer-nice-to-have-as-/articleshow/131415488.cms"
+        },
+        {
+            "title": "After the AI binge, companies balk at soaring bills",
+            "description": "[THE ECONOMIC TIMES] Artificial intelligence is becoming more expensive as companies rethink their initial embrace. The era of \"subsidized intelligence\" is ending, with rising costs for AI agents and computing power....",
+            "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/after-the-ai-binge-companies-balk-at-soaring-bills/articleshow/131417781.cms"
+        },
+        {
+            "title": "AI as your Doctor? Dos and Don\u2019ts for Using AI as Healthcare",
+            "description": "[ACTIVIST POST] Understand the significance of artificial intelligence in healthcare decision-making and its influence on patient care and interactions.",
+            "url": "https://www.activistpost.com/ai-as-your-doctor-dos-and-donts-for-using-ai-as-healthcare/"
+        },
+        {
+            "title": "Big Tech's AI Agent Dream Could Come At The Expense Of Millions Of Jobs",
+            "description": "[TIMES NOW] Artificial intelligence has evolved beyond simple interactions, focusing now on AI agents\u2014autonomous software capable of decision-making and executing complex tasks without constant human oversight....",
+            "url": "https://www.timesnownews.com/technology-science/big-techs-ai-agent-dream-could-come-at-the-expense-of-millions-of-jobs-article-154432517"
+        },
+        {
             "title": "Pope Leo\u2019s encyclical on AI is a striking manifesto of Christian humanism",
             "description": "[THE IRISH TIMES] Rite and Reason: Magnifica Humanitas considers what it might mean to safeguard the best parts of being human in the time of artificial intelligence",
             "url": "https://www.irishtimes.com/opinion/2026/05/31/pope-leos-encyclical-on-ai-is-a-striking-manifesto-of-christian-humanism/"
@@ -90,41 +125,6 @@
             "title": "Centre unveils AI-enabled chatbot to help citizens launch grievances online",
             "description": "[DAILY EXCELSIOR] NEW DELHI, May 30: The Centre today unveiled an Artificial Intelligence (AI)-enabled chatbot to help citizens raise grievances against Government Departments online. Launching the chatbot named...",
             "url": "https://www.dailyexcelsior.com/centre-unveils-ai-enabled-chatbot-to-help-citizens-launch-grievances-online/"
-        },
-        {
-            "title": "Immigration lawyers say automation is partly driving a massive Federal Court backlog",
-            "description": "[SOOTODAY] OTTAWA \u2014 The number of immigration cases being brought to Federal Court has more than quadrupled since 2020 \u2014 and some immigration lawyers are linking the surge in part to the federal government's...",
-            "url": "https://www.sootoday.com/national-news/immigration-lawyers-say-automation-is-partly-driving-a-massive-federal-court-backlog-12352130"
-        },
-        {
-            "title": "New AI approach aims to predict radiation dose before therapy in advanced prostate cancer",
-            "description": "[MEDICAL XPRESS] A new machine-learning approach for prostate-specific membrane antigen (PSMA) treatment of metastatic castration-resistant prostate cancer (mCRPC) could estimate radiation dose to tumors and healthy...",
-            "url": "https://medicalxpress.com/news/2026-05-ai-approach-aims-dose-therapy.html"
-        },
-        {
-            "title": "India & US Drive AI, Semicon Ties",
-            "description": "[THE ECONOMIC TIMES] India and the US will be encouraging businesses from both countries dealing with artificial intelligence and semiconductors to collaborate more, officials said.",
-            "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/may/31/sunet-front/india-us-drive-ai-semicon-ties/articleshow/131415580.cms"
-        },
-        {
-            "title": "India & US Drive AI, Semicon Ties",
-            "description": "[THE ECONOMIC TIMES] India and the US will be encouraging businesses from both countries dealing with artificial intelligence and semiconductors to collaborate more, officials said.",
-            "url": "https://economictimes.indiatimes.com/sunet-front/india-us-drive-ai-semicon-ties/articleshow/131415580.cms"
-        },
-        {
-            "title": "SoftBank to spend $87.5 bil on AI centers in France: Son",
-            "description": "[JAPAN TODAY] Japanese tech investor SoftBank will spend 75 billion euros ($87.5 billion) on artificial intelligence infrastructure in France, its founder Masayoshi Son told a French newspaper in an interview...",
-            "url": "https://japantoday.com/category/tech/softbank-to-spend-87.5bn-on-ai-centres-in-france-son"
-        },
-        {
-            "title": "Emily Blunt says she didn't use AI in Steven Spielberg\u2019s Disclosure Day: \u2018I\u2019m terrified of it'",
-            "description": "[LIVEMINT] Emily Blunt has revealed she rejected the use of artificial intelligence for a crucial scene in Steven Spielberg\u2019s upcoming sci-fi film Disclosure Day, opting instead to create the sounds herself.",
-            "url": "https://www.livemint.com/entertainment/emily-blunt-says-she-didnt-use-ai-in-steven-spielberg-s-disclosure-day-i-m-terrified-of-it-11780171989169.html"
-        },
-        {
-            "title": "SoftBank to spend $87.5 billion on AI centres in France: Son",
-            "description": "[THE ECONOMIC TIMES] Japanese tech investor SoftBank will spend 75 billion euros ($87.5 billion) on artificial intelligence infrastructure in France, its founder Masayoshi Son told a French newspaper in an interview...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-to-spend-87-5-billion-on-ai-centres-in-france-son/articleshow/131415427.cms"
         }
     ]
 }
