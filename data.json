@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-31 03:25:29 UTC",
+    "updated": "2026-05-31 07:41:46 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -7,19 +7,14 @@
             "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
         },
         {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
-        {
             "title": "Private analytics via zero-trust aggregation",
             "description": "[RESEARCH] Security, Privacy and Abuse Prevention",
             "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
         },
         {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
         },
         {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
@@ -27,19 +22,19 @@
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
-        },
-        {
-            "title": "Effective KV Compression with TurboQuant",
-            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
-            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
         },
         {
             "title": "A New Era of Innovation: Google Research at I/O 2026",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
+        },
+        {
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -57,14 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "Calling Doctor GPT: AI responses to health care queries are nearly 76% accurate",
-            "description": "[MEDICAL XPRESS] Artificial intelligence (AI)-powered chatbots respond to everyday health-related questions from general users with nearly 76% accuracy, which raises concerns about their trustworthiness in real-world...",
-            "url": "https://medicalxpress.com/news/2026-05-doctor-gpt-ai-responses-health.html"
+            "title": "SoftBank to Invest Some \u20ac75 Billion in AI in France, Reports Say",
+            "description": "[LIVEMINT] SoftBank Group Corp. plans to invest as much as \u20ac75 billion ($87 billion) to build artificial intelligence data centers in France, La Tribune and the Financial Times reported.",
+            "url": "https://www.livemint.com/companies/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say-11780168512112.html"
         },
         {
-            "title": "Will AI put economists out of business? Fed\u2019s John Williams says 'I\u2019m not a believer that...'",
-            "description": "[LIVEMINT] The implications of artificial intelligence gripped global central bankers in Iceland this week, with one Federal Reserve official joking that it won\u2019t put economists out of business.",
-            "url": "https://www.livemint.com/economy/will-ai-put-economists-out-of-business-fed-s-john-williams-says-i-m-not-a-believer-that-11780150488966.html"
+            "title": "The schools in Asia embracing artificial intelligence in classrooms",
+            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Countries in Asia are emerging as the world's early adopters of AI in education, as the global race to lead in the technology accelerates.",
+            "url": "https://www.abc.net.au/news/2026-05-31/schools-in-asia-embracing-ai/106703054"
         },
         {
-            "title": "Samsung, SK Hynix back Anthropic, valuation goes up to $965 Billion after Series H funding",
-            "description": "[THE TRIBUNE] Samsung Electronics and SK hynix have taken strategic stakes in Anthropic, the developer of the Claude artificial intelligence models, joining a funding round that valued the US startup at $965...",
-            "url": "https://www.tribuneindia.com/news/business/samsung-sk-hynix-back-anthropic-valuation-goes-up-to-965-billion-after-series-h-funding/"
+            "title": "SoftBank to build up AI data centres in France with major investment",
+            "description": "[MARKETSCREENER] Japan's SoftBank Group will invest EUR45 billion over the next five years in a push to build up artificial intelligence infrastructure in France, founder Masayoshi Son told the paper La Tribune...",
+            "url": "https://www.marketscreener.com/news/softbank-to-build-up-ai-data-centres-in-france-with-major-investment-ce7f5dd8da8ef425"
         },
         {
-            "title": "AI to shape future of higher education, universities told",
-            "description": "[THE HINDU] JSS Science and Technology University (JSS STU), Mysuru, in association with the Forum of Former Vice Chancellors of Karnataka (FVCK), Bengaluru, successfully organised a one-day national seminar on...",
-            "url": "https://www.thehindu.com/news/national/karnataka/ai-to-shape-future-of-higher-education-universities-told/article71041171.ece"
-        },
-        {
-            "title": "AI predicts Ethereum price for June 1, 2026",
-            "description": "[FINBOLD] An artificial intelligence model predicts that Ethereum could trade around $2,140 on June 1, as the cryptocurrency attempts to stabilize",
-            "url": "https://finbold.com/ai-predicts-ethereum-price-for-june-1-2026/"
-        },
-        {
-            "title": "\u2018Dinosaur\u2019 Tech Stocks Reborn as AI Fuels $1.7 Trillion Rally",
-            "description": "[BLOOMBERG] They were all stars of the dot-com era before fading into the background as the bubble burst and a new generation of tech darlings rose to the forefront. But Dell Technologies Inc., Nokia Oyj and...",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-30/-dinosaur-tech-stocks-reborn-as-ai-fuels-1-7-trillion-rally"
+            "title": "SoftBank to build up AI data centres in France with major investment",
+            "description": "[REUTERS] Japan's SoftBank Group will invest \u20ac45 billion over the next five years in a push \u200bto build up artificial intelligence infrastructure in France, \u200cfounder Masayoshi Son told the paper La Tribune...",
+            "url": "https://www.reuters.com/business/media-telecom/softbank-build-up-ai-data-centres-france-with-major-investment-2026-05-30/"
         },
         {
             "title": "AI helped a musician with Parkinson\u2019s finish his new album when he could no longer play guitar",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Artificial intelligence is helping a London-based singer-songwriter continue writing and recording music after Parkinson\u2019s disease largely took away his ability to play guitar. Samuel Smith relied on...",
-            "url": "https://www.ajc.com/news/2026/05/ai-helped-a-musician-with-parkinsons-finish-his-new-album-when-he-could-no-longer-play-guitar/"
+            "description": "[THE BOSTON GLOBE] Artificial intelligence is helping a London-based singer-songwriter continue writing and recording music after Parkinson\u2019s disease largely took away his ability to play guitar.",
+            "url": "https://www.bostonglobe.com/2026/05/30/world/ai-helped-musician-with-parkinsons-finish-his-new-album-when-he-could-no-longer-play-guitar/"
         },
         {
-            "title": "Powered Drone Swarms: 'Find and kill them all': China unveils AI",
-            "description": "[TIMES OF INDIA] International News: A Chinese research team has unveiled a new artificial intelligence algorithm that it claims could significantly advance autonomous drone warfare, enab.",
-            "url": "https://timesofindia.indiatimes.com/defence/international/find-and-kill-them-all-china-unveils-ai-powered-drone-swarms-that-can-hunt-targets-autonomously/articleshow/131409113.cms"
+            "title": "Putting the Bekaart before AI's racehorse: How widespread adoption of the tech can fill the nation with Kantian roaches",
+            "description": "[THE ECONOMIC TIMES] Artificial intelligence adoption threatens widespread job losses, wihch could devalue human work and necessitate government income support. India, aiming to be an AI hub, faces risks as its...",
+            "url": "https://economictimes.indiatimes.com/opinion/et-commentary/putting-the-bekaart-before-ais-racehorse-how-widespread-adoption-of-the-tech-can-fill-the-nation-with-kantian-roaches/articleshow/131412890.cms"
         },
         {
-            "title": "Why Gen Z Prefers Multifunctional Gadgets Over Traditional Devices",
-            "description": "[THE TRIBUNE] New Delhi [India], May 30: Digital natives, or Generation Z or Gen Z, are tech-savvy humans who grew up in a world where the use of technology is a necessity rather than an option. Those born before...",
-            "url": "https://www.tribuneindia.com/news/business/why-gen-z-prefers-multifunctional-gadgets-over-traditional-devices/"
+            "title": "Dell shares surge 33% after AI server demand drives blockbuster revenue forecast",
+            "description": "[LIVEMINT] Dell Technologies Inc. shares surged the most since the company returned to the public markets in December 2018, lifted by an outlook for annual sales that far surpassed expectations on demand for...",
+            "url": "https://www.livemint.com/companies/news/dell-shares-surge-33-after-ai-server-demand-drives-blockbuster-revenue-forecast-11780161897945.html"
         },
         {
-            "title": "Canada immigration lawyers say automation driving backlog",
-            "description": "[CP24 TORONTO] The number of immigration cases being brought to Federal Court has more than quadrupled since 2020 \u2014 and some immigration lawyers are linking the surge in part to the federal government\u2019s use of...",
-            "url": "https://www.cp24.com/news/canada/2026/05/30/immigration-lawyers-say-automation-is-partly-driving-a-massive-federal-court-backlog/"
+            "title": "AI helped a musician with Parkinson\u2019s finish his new album when he could no longer play guitar",
+            "description": "[WTOP] LONDON (AP) \u2014 Samuel Smith spent years writing songs with a guitar in his hands. Now, the London-based singer-songwriter is using artificial intelligence tools\u2026",
+            "url": "https://wtop.com/world/2026/05/ai-helped-a-musician-with-parkinsons-finish-his-new-album-when-he-could-no-longer-play-guitar/"
+        },
+        {
+            "title": "In era of AI, deepfake, credibility crisis looms largest: Scindia on challenges for journalism",
+            "description": "[THEPRINT] New Delhi, May 30 (PTI) Union Minister Jyotiraditya Scindia on Saturday said press faced censorship and scarce resources during the colonial era, but challenges for journalism are different in...",
+            "url": "https://theprint.in/india/in-era-of-ai-deepfake-credibility-crisis-looms-largest-scindia-on-challenges-for-journalism/2946206/"
+        },
+        {
+            "title": "AUKUS\u2019s 'Aquaman Tech' For Deep-Sea Deterrence: How Underwater Drones Will Take On China\u2019s Naval Expansion",
+            "description": "[NEWS18] This fusion of artificial intelligence and deep-sea striking power ensures that the Indo-Pacific's most critical sea lanes remain resilient against unilateral revisionism",
+            "url": "https://www.news18.com/world/aukuss-aquaman-tech-for-deep-sea-deterrence-how-underwater-drones-will-take-on-chinas-naval-expansion-10121933.html"
         }
     ]
 }
