@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-01 03:38:19 UTC",
+    "updated": "2026-06-01 09:21:51 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,24 +12,29 @@
             "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
         },
         {
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+        },
+        {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Prompt Engineering for Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
+            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
+        },
+        {
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
         },
         {
             "title": "A New Era of Innovation: Google Research at I/O 2026",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,24 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
+            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
+            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
+        },
+        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "As the Pentagon pushes for battlefield AI, some military leaders urge caution",
-            "description": "[CNBC TV18] The Trump administration is pushing to unleash the power of artificial intelligence for the U.S. military while facing calls to put up guardrails around the rapidly developing technology from some...",
-            "url": "https://www.cnbctv18.com/world/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution-ws-l-19916477.htm"
+            "title": "After the AI binge, companies balk at soaring bills",
+            "description": "[JAPAN TODAY] Artificial intelligence is getting expensive -- and companies are starting to rethink their embrace of the disruptive technology. Playing by a well-worn Silicon Valley playbook, AI companies charged...",
+            "url": "https://japantoday.com/category/tech/after-the-ai-binge-companies-balk-at-soaring-bills"
         },
         {
-            "title": "AI vs humans in battlefield: Pentagon divided over use of artificial intelligence in war",
-            "description": "[HINDUSTAN TIMES] The increasing push of AI by the US government has also come under scrutiny after its implementation in mass deportation campaigns. | World News",
-            "url": "https://www.hindustantimes.com/world-news/ai-vs-humans-in-battlefield-pentagon-divided-over-use-of-artificial-intelligence-in-war-101780235855726.html"
+            "title": "As Pentagon pushes for battlefield AI, some military leaders urge caution",
+            "description": "[JAPAN TODAY] The Trump administration is pushing to unleash the power of artificial intelligence for the U.S. military while facing calls to put up guardrails around the rapidly developing technology from some...",
+            "url": "https://japantoday.com/category/world/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution"
         },
         {
-            "title": "Study highlights major gaps in online info for patients about AI and cancer",
-            "description": "[MEDICAL XPRESS] Online information about artificial intelligence (AI) and its impact on cancer research and treatment for both the patient and general-public audiences is limited, and the available webpages and...",
-            "url": "https://medicalxpress.com/news/2026-05-highlights-major-gaps-online-info.html"
+            "title": "At Big 4 firms, AI is starting to reshape the tax profession",
+            "description": "[THE ECONOMIC TIMES] Major accounting firms in India are embracing artificial intelligence for tax services. AI is automating routine tasks, research, and drafting, allowing consultants to focus on complex...",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/at-big-4-firms-ai-is-starting-to-reshape-the-tax-profession/articleshow/131429076.cms"
         },
         {
-            "title": "Canadian billionaire Kevin O\u2019Leary chooses side \u2018in the great AI debate\u2019; says I am in camp \u2026",
-            "description": "[TIMES OF INDIA] Tech News News: Famous investor and Shark Tank star Kevin O\u2019Leary has officially picked a side in the global debate over the future of artificial intelligence (AI), d.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/canadian-billionaire-kevin-oleary-chooses-side-in-the-great-ai-debate-says-i-am-in-camp-/articleshow/131423648.cms"
+            "title": "Adani Group now focused on building assets at scale: Gautam Adani",
+            "description": "[THE ECONOMIC TIMES] Adani Group chairman Gautam Adani announced the company's focus has shifted from funding to project execution. Significant investments are planned across airports, energy, data centres, and...",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/adani-group-now-focused-on-building-assets-at-scale-gautam-adani/articleshow/131428903.cms"
         },
         {
-            "title": "Military Leaders Seek Balanced Approach to AI on Battlefield",
-            "description": "[DEVDISCOURSE] As the Pentagon aims to expand artificial intelligence use within the military, some officials urge caution to ensure ethical deployment. Balancing cutting-edge technology with responsible measures...",
-            "url": "https://www.devdiscourse.com/article/technology/3927677-military-leaders-seek-balanced-approach-to-ai-on-battlefield"
+            "title": "AI helped a musician with Parkinson\u2019s finish his new album when he could no longer play guitar",
+            "description": "[JAPAN TODAY] Samuel Smith spent years writing songs with a guitar in his hands. Now, the London-based singer-songwriter is using artificial intelligence tools to help him continue making Americana music after...",
+            "url": "https://japantoday.com/category/tech/ai-helped-a-musician-with-parkinson%E2%80%99s-finish-his-new-album-when-he-could-no-longer-play-guitar"
         },
         {
-            "title": "My local LLM finally understands my house better than Google ever did",
-            "description": "[XDA DEVELOPERS] I'm surprised how good the setup turned out to be.",
-            "url": "https://www.xda-developers.com/local-llm-understands-house-better-google/"
+            "title": "Pope should have gone further on AI technology",
+            "description": "[BANGKOK POST] Artificial intelligence is reshaping how we communicate, access information and work, how income and status are distributed and even how we wage war. Yet the public conversation remains narrowly...",
+            "url": "https://www.bangkokpost.com/opinion/opinion/3263774/pope-should-have-gone-further-on-ai-technology"
         },
         {
-            "title": "As the Pentagon pushes for battlefield AI, some military leaders urge caution",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] The Trump administration is pushing to use artificial intelligence in the U.S. military even as it faces calls for caution from some companies and military leaders. Adm. Frank Bradley of U.S. Special...",
-            "url": "https://www.ajc.com/news/2026/05/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/"
+            "title": "Best AEO Agency for Ecom in 2026: Who Actually Moves the Needle in AI Search",
+            "description": "[TECHBULLION] Looking for the best AEO agency for eCommerce? See our 2026 rankings and learn why NorthQuery leads for AI search visibility, LLM citations, and catalog-scale execution.",
+            "url": "https://techbullion.com/best-aeo-agency-for-ecom-in-2026-who-actually-moves-the-needle-in-ai-search/"
         },
         {
-            "title": "Rs 28 Crore Luxury Home In San Francisco Lists OpenAI, Anthropic Shares As Payment Option",
-            "description": "[NDTV.COM] The unusual payment option reflects the growing influence of artificial intelligence companies in the Bay Area and highlights how valuable private AI equity has become before public listings.",
-            "url": "https://www.ndtv.com/feature/rs-28-crore-luxury-home-in-san-francisco-lists-openai-anthropic-shares-as-payment-option-11572007"
+            "title": "Are social platforms going to charge all users for access?",
+            "description": "[SOCIAL MEDIA TODAY] Elon Musk and Mark Zuckerberg have historically disagreed about this, but rising artificial intelligence expenses may result in costly new subscription options.",
+            "url": "https://www.socialmediatoday.com/news/are-social-platforms-going-to-charge-all-users-for-access/821565/"
         },
         {
-            "title": "AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic",
-            "description": "[BLOOMBERG] Chipmakers are by far the hottest stocks in the market, but their recent surge is lending urgency to the debate over whether investors are buying into an artificial-intelligence bubble that\u2019s due to...",
-            "url": "https://www.bloomberg.com/news/articles/2026-05-31/ai-bubble-debate-gets-real-as-chip-stocks-rally-turns-historic"
+            "title": "Quebec moves ahead with AI cultural databank project",
+            "description": "[BAYTODAY] MONTREAL \u2014 Quebec's national library is moving ahead with plans to create a database of cultural and government content that could be used to train artificial intelligence systems and improve their...",
+            "url": "https://www.baytoday.ca/national-news/quebec-moves-ahead-with-ai-cultural-databank-project-12354345"
         },
         {
-            "title": "Leo Shows He\u2019s the Planet\u2019s Pope by Taking on AI",
-            "description": "[ROLLING STONE] Pope Leo XIV called artificial intelligence a threat to humanity in his first encyclical, showing that he's serious about taking on climate change.",
-            "url": "https://www.rollingstone.com/politics/political-commentary/pope-leo-xiv-encyclical-ai-planet-1235569872/"
+            "title": "Quebec moves ahead with AI cultural databank project",
+            "description": "[SOOTODAY] MONTREAL \u2014 Quebec's national library is moving ahead with plans to create a database of cultural and government content that could be used to train artificial intelligence systems and improve their...",
+            "url": "https://www.sootoday.com/national-news/quebec-moves-ahead-with-ai-cultural-databank-project-12354345"
         }
     ]
 }
