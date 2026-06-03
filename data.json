@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-02 22:20:21 UTC",
+    "updated": "2026-06-03 03:41:41 UTC",
     "news": [
         {
             "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
@@ -12,24 +12,29 @@
             "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
         },
         {
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+        },
+        {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Prompt Engineering for Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
+            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
+        },
+        {
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
         },
         {
             "title": "A New Era of Discovery: Google Research at I/O 2026",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,24 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
+            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
+            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
+        },
+        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "AI revival infuses life in Indian IT shares: Nifty IT jumps 8% in 3 days, Infosys up 10% as demand fears ease",
-            "description": "[MONEYCONTROL] The Nifty IT index has surged nearly 8 percent in 3 sessions as investors realise that the artificial intelligence (AI) boom could prove to be an opportunity rather than a threat. Concerns that AI...",
-            "url": "https://www.moneycontrol.com/news/business/stocks/ai-revival-infuses-life-in-indian-it-shares-nifty-it-jumps-8-in-3-days-infosys-up-10-as-demand-fears-ease-13938646.html"
+            "title": "Trump signed order to promote advanced AI innovation and security, White House says",
+            "description": "[DEVDISCOURSE] US President Donald Trump signed an executive order to promote advanced artificial intelligence innovation and security, as announced by the White House on Tuesday.",
+            "url": "https://www.devdiscourse.com/article/politics/3929067-trump-signed-order-to-promoteadvanced-ai-innovation-and-security-white-house-says"
         },
         {
-            "title": "After Taiwan, South Korea now surpasses India to become the 6th largest stock market globally",
-            "description": "[THE TRIBUNE] South Korea has reportedly surpassed India to become the sixth-largest stock market in the world by market capitalisation, due to a significant increase in semiconductor companies associated with the...",
-            "url": "https://www.tribuneindia.com/news/business/after-taiwan-south-korea-now-surpasses-india-to-become-the-6th-largest-stock-market-globally/"
+            "title": "Google Parent Alphabet Plans $80 Billion Stock Sale to Fund AI Expansion",
+            "description": "[INTERNATIONAL BUSINESS TIMES] Google parent Alphabet is asking investors for an extraordinary $80 billion to help finance one of the most ambitious artificial intelligence expansion plans ever undertaken by a technology company.",
+            "url": "https://www.ibtimes.com/google-parent-alphabet-plans-80-billion-stock-sale-fund-ai-expansion-3803629"
         },
         {
-            "title": "Claude outage: Anthropic says working on fix, and other details",
-            "description": "[TIMES OF INDIA] Tech News News: Anthropic\u2019s flagship artificial intelligence (AI) chatbot, Claude, has suffered a service disruption on June 2, leaving hundreds of users worldwide un.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/claude-outage-anthropic-says-working-on-fix-and-other-details/articleshow/131460959.cms"
+            "title": "Godrej to bet on brand trust, tech leverage as it enters crowded wealth management space",
+            "description": "[MONEYCONTROL] Godrej Wealth would seek to break the pattern of offering generic solutions to customers, and would look to leverage artificial intelligence (AI) alongside human advisors to provide customised...",
+            "url": "https://www.moneycontrol.com/news/business/banks/godrej-to-bet-on-brand-trust-tech-leverage-as-it-enters-crowded-wealth-management-space-13938961.html"
         },
         {
-            "title": "Mathematicians sign declaration to rein in AI use",
-            "description": "[SCIENTIFIC AMERICAN] A group of researchers have proposed rules to prevent artificial intelligence from overpowering humans in math",
-            "url": "https://www.scientificamerican.com/article/mathematicians-sign-declaration-to-rein-in-ai-use/"
+            "title": "Why is Nvidia adding hundreds of H-1B workers when other tech giants are slowing down?",
+            "description": "[THE FINANCIAL EXPRESS] Nvidia is increasing H-1B hiring despite a slowdown across Big Tech, betting on global talent to power its rapid growth in artificial intelligence.",
+            "url": "https://www.financialexpress.com/world-news/us-news/why-is-nvidia-adding-hundreds-of-h-1b-workers-when-other-tech-giants-are-slowing-down/4257368/"
         },
         {
-            "title": "AI\u2019s trillion-dollar IPO moment: OpenAI, SpaceX and Anthropic test investor appetite",
-            "description": "[FIRSTPOST] With SpaceX eyeing a $1.75 trillion valuation, OpenAI preparing for a potential $1 trillion debut and Anthropic racing toward public markets, Wall Street is preparing for the biggest test yet of the...",
-            "url": "https://www.firstpost.com/business/ais-trillion-dollar-ipo-moment-openai-spacex-and-anthropic-test-investor-appetite-14017973.html"
+            "title": "'It's a wake up call': Uday Kotak's message to India Inc after Google's $80 bn raise",
+            "description": "[BUSINESS TODAY] Alphabet has announced plans to raise up to $80 billion in equity to fund its artificial intelligence expansion, a move analysts have described as the largest equity fundraising exercise ever...",
+            "url": "https://www.businesstoday.in/latest/corporate/story/its-a-wake-up-call-uday-kotaks-message-to-india-inc-after-googles-80-bn-raise-534564-2026-06-02"
         },
         {
-            "title": "The White House\u2019s Missing AI Rule Book Is a Growing Liability",
-            "description": "[BLOOMBERG] Exactly how to regulate artificial intelligence is a fraught question. (Just ask the pope.) So the White House\u2019s equivocation on the topic \u2014 with a high-profile executive order withdrawn at the 11th...",
-            "url": "https://www.bloomberg.com/opinion/articles/2026-06-02/ai-needs-rules-and-liability-grows-as-white-house-delays-action"
+            "title": "Trump signs executive order seeking oversight of AI models",
+            "description": "[SPOKANE SPOKESMAN-REVIEW] SAN FRANCISCO \u2014 President Donald Trump signed an executive order Tuesday that asked technology companies to voluntarily give the government oversight of new artificial intelligence models before...",
+            "url": "https://www.spokesman.com/stories/2026/jun/02/trump-signs-executive-order-seeking-oversight-of-a/"
         },
         {
-            "title": "Arm Holdings CEO says US would have difficulty banning AI CPU chip exports to China",
-            "description": "[MARKETSCREENER] Arm Holdings CEO Rene Haas said on Tuesday that it would be challenging to block the export to China of central processing units that are useful for artificial intelligence because of their...",
-            "url": "https://www.marketscreener.com/news/arm-holdings-ceo-says-us-would-have-difficulty-banning-ai-cpu-chip-exports-to-china-ce7f5dded98bfe27"
+            "title": "TN\u2019s minister for Artificial Intelligence, IT and Digital Services visits IIT-Madras Research Park",
+            "description": "[THE HINDU BUSINESS LINE] R Kumar explores deep-tech innovations in lab-grown diamonds, healthcare, space and AI at the facility",
+            "url": "https://www.thehindubusinessline.com/news/national/tns-minister-for-artificial-intelligence-it-and-digital-services-visits-iit-madras-research-park/article71052776.ece"
         },
         {
-            "title": "Intel Lays Out Strategy for Full-Stack AI",
-            "description": "[MARKETSCREENER] By Yang Jie and Sherry Qin Intel laid out a strategy to capitalize on the latest shifts in artificial intelligence on Tuesday, reiterating its focus on the full-stack ecosystem as it looks to...",
-            "url": "https://www.marketscreener.com/news/intel-lays-out-strategy-for-full-stack-ai-ce7f5dded98bf021"
+            "title": "Uday Kotak Says Google's $80-Billion Fundraise Is 'Wake Up Call' For Indian Listed Companies",
+            "description": "[NDTV PROFIT] Alphabet announced a $80 billion stock sale earlier in the day, including an investment deal with Berkshire Hathaway Inc., to fund its ambitious artificial intelligence spending plans.",
+            "url": "https://www.ndtvprofit.com/business/uday-kotak-says-googles-80-billion-fundraise-is-wake-up-call-for-indian-listed-companies-11581708"
         },
         {
-            "title": "New WHO discussion paper sets out opportunities and risks of AI in evidence-informed health policy",
-            "description": "[WORLD HEALTH ORGANIZATION (WHO)] The World Health Organization has published Artificial intelligence and evidence-informed policy \u2013 emerging challenges and opportunities, a discussion paper examining how AI is reshaping the way...",
-            "url": "https://www.who.int/news/item/02-06-2026-new-who-discussion-paper-sets-out-opportunities-and-risks-of-ai-in-evidence-informed-health-policy"
+            "title": "Bernie Sanders to Americans: AI companies stole your data, you should own 50% of their stocks",
+            "description": "[TIMES OF INDIA] Tech News News: Senator Bernie Sanders has announced a new legislation aimed at taking half of the control of the artificial intelligence (AI) boom away from Silicon .",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/bernie-sanders-to-americans-ai-companies-stole-your-data-you-should-own-50-of-their-stocks/articleshow/131466333.cms"
         },
         {
-            "title": "One in five young adults to be out of work by next year under Labour as Chancellor\u2019s brutal tax raids hit hiring",
-            "description": "[THE SUN] ALMOST one in five young people will be out of work by next year as Labour's tax raids on businesses hammer hiring and artificial intelligence...",
-            "url": "https://www.thesun.co.uk/money/39282770/young-adults-out-work-labour-tax-raids-hit-hiring/"
+            "title": "Trump signs voluntary executive order on artificial intelligence",
+            "description": "[BREITBART NEWS NETWORK] June 2 (UPI) -- President Donald Trump signed an executive order Tuesday requesting that artificial intelligence companies provide AI models to the",
+            "url": "https://www.breitbart.com/news/trump-signs-voluntary-executive-order-on-artificial-intelligence/"
         }
     ]
 }
