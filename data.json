@@ -1,15 +1,15 @@
 {
-    "updated": "2026-06-03 19:44:52 UTC",
+    "updated": "2026-06-03 22:26:22 UTC",
     "news": [
+        {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
         {
             "title": "Private analytics via zero-trust aggregation",
             "description": "[RESEARCH] Security, Privacy and Abuse Prevention",
             "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
-        },
-        {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
         },
         {
             "title": "The next chapter in flood resilience: Open sourcing Google\u2019s hydrology framework",
@@ -17,19 +17,24 @@
             "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
         },
         {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
+        },
+        {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Prompt Engineering for Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
-            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
+            "title": "Effective KV Compression with TurboQuant",
+            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
+            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
         },
         {
             "title": "A New Era of Discovery: Google Research at I/O 2026",
@@ -52,14 +57,9 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
-            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
-            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
-        },
-        {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
         },
         {
-            "title": "AI is splitting Dalal Street on IT stocks - and nobody knows who wins yet",
-            "description": "[MONEYCONTROL] Bulls see a new technology spending cycle led by artificial intelligence, while bears fear automation could erode the very business model that built India's software giants.",
-            "url": "https://www.moneycontrol.com/news/business/markets/ai-is-splitting-dalal-street-on-it-stocks-and-nobody-knows-who-wins-yet-13939810.html"
+            "title": "UK orders Google to allow publishers to opt out of AI scraping for search summaries",
+            "description": "[WTOP] LONDON (AP) \u2014 Google must allow news sites to opt out of having their online content scraped to feed AI overviews and other artificial intelligence services and\u2026",
+            "url": "https://wtop.com/business-finance/2026/06/uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scraping-for-search-summaries/"
         },
         {
-            "title": "Sam Altman Softens AI Warning, Says Companies Using AI Are Hiring More",
-            "description": "[OUTLOOK BUSINESS] Sam Altman revises his earlier warning on AI job losses, saying firms adopting artificial intelligence are hiring more and large scale layoffs may not follow.",
-            "url": "https://www.outlookbusiness.com/deeptech/sam-altman-softens-ai-warning-says-companies-using-ai-are-hiring-more"
+            "title": "AI most influential office innovation in 300 years - IWG",
+            "description": "[RTE.IE] A new reports reveals that artificial intelligence has been named as the most influential office innovation by global CEOs with 36% of bosses ranking it in top spot.",
+            "url": "https://www.rte.ie/news/business/2026/0603/1576549-international-workplace-group-report/"
         },
         {
-            "title": "Beyond GPUs: Why Marvell is capturing Wall Street's attention",
-            "description": "[THE ECONOMIC TIMES] Nvidia CEO Jensen Huang has sparked excitement across the technology sector after suggesting that Marvell Technology could one day become a trillion-dollar company. The comments have brought renewed...",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/beyond-gpus-why-marvell-is-capturing-wall-streets-attention/slideshow/131478665.cms"
+            "title": "UK Orders Google to Allow Publishers to Opt Out of AI Scraping for Search Summaries",
+            "description": "[U.S. NEWS & WORLD REPORT] LONDON (AP) \u2014 Google must allow news sites to opt out of having their online content scraped to feed AI overviews and other artificial intelligence services and features for British users, regulators...",
+            "url": "https://www.usnews.com/news/business/articles/2026-06-03/uk-orders-google-to-allow-publishers-to-opt-out-of-ai-scraping-for-search-summaries"
         },
         {
-            "title": "Gov't, banks given access to latest Anthropic AI model for security",
-            "description": "[JAPAN TODAY] Japan's government and some banks have been given access to U.S. startup Anthropic's new Claude Mythos artificial intelligence model with advanced cybersecurity capabilities, the government said...",
-            "url": "https://japantoday.com/category/tech/japan-gov%27t-banks-given-access-to-latest-anthropic-ai-model-for-security"
+            "title": "AI building boom ripples through inflation-hit Treasury market",
+            "description": "[REUTERS] The artificial-intelligence boom already has fueled a record stock-market surge. Now it's driving up \u200blong-term Treasury yields too.",
+            "url": "https://www.reuters.com/legal/transactional/ai-building-boom-ripples-through-inflation-hit-treasury-market-2026-06-03/"
         },
         {
-            "title": "Gov't, banks given access to latest Anthropic AI model for security",
-            "description": "[JAPAN TODAY] Japan's government and some banks have been given access to U.S. startup Anthropic's new Claude Mythos artificial intelligence model with advanced cybersecurity capabilities, the government said...",
-            "url": "https://japantoday.com/category/tech/japan-gov't-banks-given-access-to-latest-anthropic-ai-model-for-security"
+            "title": "Young Canadians use AI for financial advice and it could be a problem",
+            "description": "[FINANCIAL POST] \u2018Unregulated and uncontrolled\u2019 artificial intelligence comes with risks, from poor investment decisions to personalized fraud. Read on",
+            "url": "https://financialpost.com/personal-finance/younger-canadians-are-turning-to-ai-for-financial-advice-in-part-to-not-feel-judged-and-it-could-be-a-problem"
         },
         {
-            "title": "Mathematicians say 'don't believe hype' on AI capabilities",
-            "description": "[THE STAR] Dozens of mathematicians signed a declaration Tuesday calling for the discipline to resist beating the drum for artificial intelligence developers.",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/03/mathematicians-say-039don039t-believe-hype039-on-ai-capabilities"
+            "title": "ECB to ask banks for targeted measures to counter AI risk",
+            "description": "[REUTERS] The European Central Bank met commercial lenders last week to discuss the potential threat from the newest \u200bartificial intelligence models and will follow up with demands \u200cfor practical defence...",
+            "url": "https://www.reuters.com/legal/transactional/ecb-ask-banks-targeted-measures-counter-ai-risk-2026-06-03/"
         },
         {
-            "title": "Wall Street inches to more records due to AI boom",
-            "description": "[ARKANSAS ONLINE] NEW YORK -- The U.S. stock market inched to more records Tuesday as winners of the artificial intelligence boom kept driving higher.",
-            "url": "https://www.arkansasonline.com/news/2026/jun/03/wall-street-inches-to-more-records-due-to-ai-boom/"
+            "title": "Human Resources Ministry will continue strengthening TVET ecosystem to meet global challenges, says Ramanan",
+            "description": "[THE STAR] PUTRAJAYA: The Human Resources Ministry will continue strengthening the Technical and Vocational Education and Training (TVET) ecosystem to ensure the country has a highly skilled workforce capable...",
+            "url": "https://www.thestar.com.my/news/nation/2026/06/03/human-resources-ministry-will-continue-strengthening-tvet-ecosystem-to-meet-global-challenges-says-ramanan"
         },
         {
-            "title": "Walmart, Uber, Amazon: Rising AI costs are forcing companies to put limits on employee usage",
-            "description": "[FIRSTPOST] After spending months encouraging workers to embrace artificial intelligence, some of the world's biggest companies are beginning to hit the brakes. Walmart, Uber, Amazon and Microsoft are all taking...",
-            "url": "https://www.firstpost.com/tech/walmart-uber-amazon-rising-ai-costs-are-forcing-companies-to-put-limits-on-employee-usage-14018296.html"
+            "title": "AI solutions should be harnessed to address challenges in farm, health, education: NITI Aayog's Roy",
+            "description": "[THE TRIBUNE] Artificial Intelligence (AI) solutions should be developed to address challenges in sectors such as agriculture, healthcare and education, as enterprises solving real-world problems will find a...",
+            "url": "https://www.tribuneindia.com/news/business/ai-solutions-should-be-harnessed-to-address-challenges-in-farm-health-education-niti-aayogs-roy/"
         },
         {
-            "title": "India's IT stocks head for worst day in 4 months on AI disruption worries; TCS plunges 9%",
-            "description": "[REUTERS] India's information technology stocks were headed for their worst day in four months on \u200bWednesday as renewed concerns that artificial intelligence could disrupt traditional \u200csoftware services...",
-            "url": "https://www.reuters.com/world/india/indias-it-stocks-head-worst-day-four-months-tcs-plunges-9-2026-06-03/"
+            "title": "Google makes biggest-ever equity capital markets transaction of all time, company can now sell stock without public announcements",
+            "description": "[TIMES OF INDIA] Tech News News: Google is planning to sell $80 billion to fund spending on artificial intelligence (AI) infrastructure. With this sale, the Alphabet-owned tech giant .",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-makes-biggest-ever-equity-capital-markets-transaction-of-all-time-company-can-now-sell-stock-without-public-announcements/articleshow/131480412.cms"
         },
         {
-            "title": "OpenAI, Anthropic respond to Trump\u2019s AI security sharing executive order",
-            "description": "[THE NEWS INTERNATIONAL] The Trump administration on Tuesday signed an executive order to promote AI-powered innovation and address the security risks posed by artificial intelligence. According to a new executive order,...",
-            "url": "https://www.thenews.com.pk/latest/1404602-openai-anthropic-respond-to-trumps-ai-security-sharing-executive-order"
+            "title": "At a Tennessee Hospital, a Nurse Stole Fentanyl and AI Missed It, State Records Say",
+            "description": "[KFF HEALTH NEWS] Sentri7, drug diversion software powered by artificial intelligence and used at hundreds of U.S. hospitals, did not catch a months-long string of fentanyl thefts in Tennessee in 2025, according to a...",
+            "url": "https://kffhealthnews.org/health-industry/ai-drug-diversion-theft-artificial-intelligence-hospitals-sentri7-software-tennessee/"
         }
     ]
 }
