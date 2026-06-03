@@ -1,130 +1,59 @@
 {
-    "updated": "2026-06-03 14:24:51 UTC",
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-06-03 16:00 UTC",
     "news": [
         {
-            "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
-            "description": "[RESEARCH] Data Mining & Modeling",
-            "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Siri\u2019s Total Chatbot Makeover Is Imminent With iOS 27",
+            "description": "Android isn't the only OS leaning into agentic AI.",
+            "url": "https://gizmodo.com/siri-total-chatbot-makeover-is-imminent-with-ios-27-2000757747",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/A1A9528-1200x675.jpg",
+            "publishedAt": "2026-05-12T22:15:29Z",
+            "content": "It\u2019s been nearly two years since Apple promised an AI-supercharged Siri, but if a new report is any indication, that transformation is finally upon us. According to Bloomberg\u2019s Mark Gurman, there are\u2026 [+2195 chars]"
         },
         {
-            "title": "Private analytics via zero-trust aggregation",
-            "description": "[RESEARCH] Security, Privacy and Abuse Prevention",
-            "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
+            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
+            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
+            "publishedAt": "2026-05-20T19:02:47Z",
+            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
         },
         {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "What an AI-designed car looks like",
+            "description": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change. That's one reason \u2026",
+            "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0405_Site.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-05T13:42:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: driving an LLM, Claude Code vs. Codex, RIP AGI, and more.\r\nOn The Vergecast: driving an LLM, Claude Code vs. Codex, RIP AGI, and more.\r\nby\r\nDav\u2026 [+3278 chars]"
         },
         {
-            "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
-            "description": "[RESEARCH] General Science",
-            "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
-        },
-        {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
-        },
-        {
-            "title": "A New Era of Discovery: Google Research at I/O 2026",
-            "description": "[RESEARCH] General Science",
-            "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
-        },
-        {
-            "title": "Information-Driven Design of Imaging Systems",
-            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
-            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
-        },
-        {
-            "title": "RL without TD learning",
-            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
-            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
-        },
-        {
-            "title": "Gradient-based Planning for World Models at Longer Horizons",
-            "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
-            "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
-            "title": "Identifying Interactions at Scale for LLMs",
-            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
-            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
-        },
-        {
-            "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
-            "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
-            "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
-        },
-        {
-            "title": "Catalyzing scientific impact through global partnerships and open resources",
-            "description": "[RESEARCH] Data Mining & Modeling",
-            "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/"
-        },
-        {
-            "title": "OutSystems Unveils Open Agentic Systems Platform for Enterprise AI",
-            "description": "[THE MANILA TIMES] **media[1083122]**Open platform insulates enterprise customers from LLM lock-in with a governed, secure platform for Agentic innovation",
-            "url": "https://www.manilatimes.net/2026/06/03/tmt-newswire/pr-newswire/outsystems-unveils-open-agentic-systems-platform-for-enterprise-ai/2357421"
-        },
-        {
-            "title": "Oil jumps on Mideast missiles, AI bulls carry stocks",
-            "description": "[PERTHNOW] The artificial intelligence theme seems impervious to war worries and Wall Street stock indexes have eked small gains overnight, led by AI.",
-            "url": "https://www.perthnow.com.au/news/business/oil-jumps-on-mideast-missiles-ai-bulls-carry-stocks-c-22376482"
-        },
-        {
-            "title": "Megaport to Raise $594 Million in Australia to Fund AI Expansion",
-            "description": "[BLOOMBERG] Australia\u2019s Megaport Ltd. is seeking to raise A$827.3 million ($594 million) to support the creation of an artificial intelligence inference cloud and execute new contracts, one of the country\u2019s...",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-03/megaport-to-raise-594-million-in-australia-to-fund-ai-expansion"
-        },
-        {
-            "title": "Nvidia bets on AI personal computers with new 'superchip' powering Windows laptops",
-            "description": "[THE STAR] Nvidia on Monday unveiled new powerful chips that would bring advanced artificial intelligence functions into laptops and desktop computers, with the new personal computer models from brands...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/03/nvidia-bets-on-ai-personal-computers-with-new-039superchip039-powering-windows-laptops"
-        },
-        {
-            "title": "EXCLUSIVE-SpaceX plans to price record-setting IPO at $135 per share, source says",
-            "description": "[DEVDISCOURSE] Reuters reported earlier on Tuesday that the rocket and satellite communications company hoped to raise at least $75 billion, at a valuation of $1.75 trillion. The listing leads a wave of...",
-            "url": "https://www.devdiscourse.com/article/business/3929249-exclusive-spacex-plans-to-price-record-setting-ipo-at-135-per-share-source-says"
-        },
-        {
-            "title": "How AI could improve economic policymaking",
-            "description": "[LIVEMINT] With so much data at its fingertips, artificial intelligence will allow more-informed interest-rate decisions and better economic modeling.",
-            "url": "https://www.livemint.com/ai/how-ai-could-improve-economic-policymaking-11780449497812.html"
-        },
-        {
-            "title": "EXCLUSIVE-SpaceX plans to raise $75 billion in IPO at $135 per share, source says",
-            "description": "[DEVDISCOURSE] Reuters reported earlier on Tuesday that the rocket and satellite communications company hoped to raise at least $75 billion, at a valuation of $1.75 trillion. The listing leads a wave of...",
-            "url": "https://www.devdiscourse.com/article/business/3929240-exclusive-spacex-plans-to-raise-75-billion-in-ipo-at-135-per-share-source-says"
-        },
-        {
-            "title": "Scientists Find Way to Supercharge Dangerous Computer \u2018Worms\u2019 With A.I.",
-            "description": "[THE NEW YORK TIMES] Researchers at the University of Toronto showed how hackers could use artificial intelligence to create a program that could target any known flaw in the world\u2019s computers.",
-            "url": "https://www.nytimes.com/2026/06/02/technology/scientists-find-way-to-supercharge-dangerous-computer-worms-with-ai.html"
-        },
-        {
-            "title": "South Korea rides AI wave, also overtakes India on m-cap chart",
-            "description": "[THE ECONOMIC TIMES] South Korea has surpassed India to become the world's sixth-largest equity market. This shift is attributed to strong performance from South Korean semiconductor companies. These firms are benefiting...",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korea-rides-ai-wave-also-overtakes-india-on-m-cap-chart/articleshow/131473573.cms"
-        },
-        {
-            "title": "Commentary: Why Silicon Valley Is Suddenly Hiring Philosophy Majors",
-            "description": "[CAIXIN] Commentary: Why Silicon Valley Is Suddenly Hiring Philosophy Majors - Artificial intelligence is commoditizing technical skills. To truly harness its power, humans must master the art of asking the...",
-            "url": "https://www.caixinglobal.com/2026-06-03/commentary-why-silicon-valley-is-suddenly-hiring-philosophy-majors-102450413.html"
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paresh Dave, Maxwell Zeff",
+            "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+            "description": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
+            "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+            "urlToImage": "https://media.wired.com/photos/6a07b49c3e66727feabf05fc/191:100/w_1280,c_limit/Model-Behavior-Altman-v-Musk-Verdict-Business.jpg",
+            "publishedAt": "2026-05-18T17:40:30Z",
+            "content": "Elon Musk suffered the worst defeat possible in his legal battle against OpenAI as a federal jury and a judge ruled he waited too long to bring his claims against the AI startup and its top executive\u2026 [+2873 chars]"
         }
     ]
 }
