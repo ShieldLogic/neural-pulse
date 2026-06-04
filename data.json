@@ -1,6 +1,11 @@
 {
-    "updated": "2026-06-04 21:48:57 UTC",
+    "updated": "2026-06-04 23:06:04 UTC",
     "news": [
+        {
+            "title": "Building AI Agents in Python with Pydantic AI",
+            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
+            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
+        },
         {
             "title": "Private analytics via zero-trust aggregation",
             "description": "[RESEARCH] Security, Privacy and Abuse Prevention",
@@ -10,6 +15,11 @@
             "title": "The next chapter in flood resilience: Open sourcing Google\u2019s hydrology framework",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
+        },
+        {
+            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
+            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
         },
         {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
@@ -22,14 +32,14 @@
             "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
+            "title": "Effective KV Compression with TurboQuant",
+            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
+            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
+        },
+        {
             "title": "A New Era of Discovery: Google Research at I/O 2026",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Towards passive heart health monitoring via smartphone camera",
@@ -52,11 +62,6 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
             "title": "Agentic RAG Explained in 3 Levels of Difficulty",
             "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
             "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
@@ -67,14 +72,39 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
-        },
-        {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
             "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
             "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
+        },
+        {
+            "title": "Meta Delays AI Model API Launch as It Seeks Returns on Massive AI Spending",
+            "description": "[MARKETSCREENER] Meta Platforms Inc has repeatedly delayed the release of an application programming interface for its latest artificial intelligence model, Muse Spark, according to a Wall Street Journal report...",
+            "url": "https://www.marketscreener.com/news/meta-delays-ai-model-api-launch-as-it-seeks-returns-on-massive-ai-spending-ce7f5ddcdf8af32c"
+        },
+        {
+            "title": "Ramp Notches $44 Billion Valuation in New Funding Round",
+            "description": "[BLOOMBERG] Ramp, a corporate spending management platform, has raised $750 million in a new funding round at a $44 billion valuation, a sign of investor enthusiasm for using artificial intelligence to help...",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-04/ramp-notches-44-billion-valuation-in-new-funding-round"
+        },
+        {
+            "title": "Sourcefit named winner in the Artificial Intelligence category at the Fortress Cybersecurity Awards 2026",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Sourcefit, a global BPO operating across the Philippines, South Africa, the Dominican Republic, Madagascar, Armenia, and the United Kingdom,...",
+            "url": "https://www.prnewswire.co.uk/news-releases/sourcefit-named-winner-in-the-artificial-intelligence-category-at-the-fortress-cybersecurity-awards-2026-302791517.html"
+        },
+        {
+            "title": "Foxconn, Intel team up to develop AI infrastructure",
+            "description": "[LIVEMINT] Foxconn Technology Group and Intel are partnering to develop artificial-intelligence infrastructure, aiming to address critical bottlenecks in modern data centers.",
+            "url": "https://www.livemint.com/global/foxconn-intel-team-up-to-develop-ai-infrastructure-11780565724687.html"
+        },
+        {
+            "title": "Top AI CEOs Call for Law Protecting Against Biological Weapons",
+            "description": "[LIVEMINT] Artificial intelligence is magnifying concern that criminals could unleash new pathogens.",
+            "url": "https://www.livemint.com/global/top-ai-ceos-call-for-law-protecting-against-biological-weapons-11780566665673.html"
+        },
+        {
+            "title": "Thailand\u2019s Richest Man Plans $4.3 Billion Expansion Amid AI Boom",
+            "description": "[BLOOMBERG] Thailand\u2019s richest man, Sarath Ratanavadi, plans to spend as much as 140 billion baht ($4.3 billion) through Gulf Development Pcl over the next five years to expand data centers and other...",
+            "url": "https://www.bloomberg.com/news/articles/2026-06-04/thailand-s-richest-man-plans-4-3-billion-expansion-amid-ai-boom"
         },
         {
             "title": "Foxconn, Intel Team Up to Develop AI Infrastructure",
@@ -95,36 +125,6 @@
             "title": "US tech sector announces most job cuts in nearly two years",
             "description": "[SPOKANE SPOKESMAN-REVIEW] US technology companies in May announced the most job cuts in nearly two years as they ramp up spending on artificial intelligence.",
             "url": "https://www.spokesman.com/stories/2026/jun/04/us-tech-sector-announces-most-job-cuts-in-nearly-t/"
-        },
-        {
-            "title": "India to use artificial intelligence for machine-readable standards, says Consumer Affairs Secretary Khare",
-            "description": "[THE ECONOMIC TIMES] India's Consumer Affairs Ministry is set to develop advanced, machine-readable standards using AI. This initiative aims to simplify compliance for industries. The Bureau of Indian Standards is...",
-            "url": "https://economictimes.indiatimes.com/news/economy/policy/india-to-use-artificial-intelligence-for-machine-readable-standards-says-consumer-affairs-secretary-khare/articleshow/131501723.cms"
-        },
-        {
-            "title": "European Midday Briefing : Shares Up After Israel-Lebanon Ceasefire -2-",
-            "description": "[MARKETSCREENER] WASHINGTON-Top artificial-intelligence executives are joining security experts in calling for Congress to protect against biological threats posed by AI, adding to growing pressure on lawmakers to...",
-            "url": "https://www.marketscreener.com/news/european-midday-briefing-shares-up-after-israel-lebanon-ceasefire-2-ce7f5ddcdc8af022"
-        },
-        {
-            "title": "How and when PA schools are letting AI into the classroom",
-            "description": "[ERIE TIMES-NEWS] Some of Pa.'s largest school districts have adopted formal policies about the use of artificial intelligence in the classroom.",
-            "url": "https://www.goerie.com/story/news/politics/state/2026/06/04/pa-schools-ai-guardrails/90385034007/"
-        },
-        {
-            "title": "TSMC Upbeat on AI-Powered Growth as Chip, AI Adoption Surges",
-            "description": "[MARKETSCREENER] Taiwan Semiconductor Manufacturing or TSMC is confident of sustained growth in the coming years, driven by rising demand for computing power and advanced semiconductors as artificial intelligence...",
-            "url": "https://www.marketscreener.com/news/tsmc-upbeat-on-ai-powered-growth-as-chip-ai-adoption-surges-ce7f5ddcdc8af72d"
-        },
-        {
-            "title": "NOAA Bets on AI to Translate Weather Warnings\u2014But Can Machines Reliably Convey Life",
-            "description": "[WATTS UP WITH THAT] weather warnings have long been issued almost exclusively in English. English at home, yet weather warnings have long been issued almost exclusively in English. A new study documents how the National...",
-            "url": "https://wattsupwiththat.com/2026/06/04/noaa-bets-on-ai-to-translate-weather-warnings-but-can-machines-reliably-convey-life-and-death-messages/"
-        },
-        {
-            "title": "Congo Eurobonds Defy Ebola as Investors Chase Rare Yield, AI Exposure",
-            "description": "[BLOOMBERG] The Democratic Republic of Congo\u2019s Eurobonds have remained resilient even as it grapples with an Ebola outbreak, buoyed by high yields and the nation\u2019s exposure to metals that underpin the global...",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-04/congo-eurobonds-defy-ebola-as-investors-chase-rare-yield-ai-exposure"
         }
     ]
 }
