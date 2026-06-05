@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-05 16:27:51 UTC",
+    "updated": "2026-06-05 19:48:55 UTC",
     "news": [
         {
             "title": "Private analytics via zero-trust aggregation",
@@ -7,34 +7,24 @@
             "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
         },
         {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
-        },
-        {
             "title": "The next chapter in flood resilience: Open sourcing Google\u2019s hydrology framework",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
         },
         {
-            "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
-            "description": "[RESEARCH] General Science",
-            "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
-        },
-        {
-            "title": "Prompt Engineering for Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
-            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
-        },
-        {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
             "title": "A New Era of Discovery: Google Research at I/O 2026",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
+        },
+        {
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Towards passive heart health monitoring via smartphone camera",
@@ -57,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
-            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
-            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
-        },
-        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+        },
+        {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -72,59 +62,69 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
+        },
+        {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
             "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
             "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
         },
         {
-            "title": "UN report warns AI could soon use 3pc of world's electricity, more water than we need to drink",
-            "description": "[THE TRIBUNE] One argument often used to quell concerns about the rising energy and resource demand of data centres is that artificial intelligence (AI) models will need less in the future as they improve and...",
-            "url": "https://www.tribuneindia.com/news/science-technology/un-report-warns-ai-could-soon-use-3pc-of-worlds-electricity-more-water-than-we-need-to-drink/"
+            "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform\u2019s Agentic RAG",
+            "description": "[RESEARCH] Data Management",
+            "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/"
         },
         {
-            "title": "Global Market: Fed's Daly dismisses AI as near-term inflation risk amid rising prices",
-            "description": "[THE ECONOMIC TIMES] San Francisco Fed President Mary Daly stated that while Artificial Intelligence may lower prices long-term, it's not a current concern for monetary policy. She believes AI's economic impact will...",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-feds-daly-dismisses-ai-as-near-term-inflation-risk-amid-rising-prices/articleshow/131521296.cms"
+            "title": "Anthropic warns about fully recursive self-improvement in AI: 'Humans may lose control'",
+            "description": "[TIMES OF INDIA] Tech News News: Artificial intelligence (AI) may not be building better versions of itself yet, but Anthropic says the world is moving closer to that possibility than.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-warns-about-fully-recursive-self-improvement-in-ai-humans-may-lose-control/articleshow/131525506.cms"
         },
         {
-            "title": "Chatbot mechanics: Aussies are turning to AI for fixes",
-            "description": "[PERTHNOW] More motorists are turning to artificial intelligence for advice on how to fix their car and one in three trust the technology more than a human.",
-            "url": "https://www.perthnow.com.au/news/technology/chatbot-mechanics-aussies-are-turning-to-ai-for-fixes-c-22389485"
+            "title": "'Ghost of state emblem': Youtuber roasts Odisha Higher Education Department over AI-generated logo",
+            "description": "[TIMES OF INDIA] News News: Odisha\u2019s Higher Education Department has come under attack online after a content creator accused it of using artificial intelligence tools to prepare.",
+            "url": "https://timesofindia.indiatimes.com/education/news/ghost-of-state-emblem-youtuber-roasts-odisha-higher-education-department-over-ai-generated-logo/articleshow/131524979.cms"
         },
         {
-            "title": "C2C Advanced Systems signs MoU with IIT Ropar and AazelTech for AI research",
-            "description": "[SCANX.TRADE] C2C Advanced Systems Limited executed a three-party Memorandum of Understanding with Indian Institute of Technology Ropar and Aazel International Technologies Private Limited on June 1, 2026. The...",
-            "url": "https://scanx.trade/stock-market-news/companies/c2c-advanced-systems-signs-mou-with-iit-ropar-and-aazeltech-for-ai-research/42177765"
+            "title": "Solidion Technology's 30+ Patents for Space-Based Artificial Intelligence Batteries Include the Highest-Performing Patented Lithium Anode Protection Technology",
+            "description": "[THE MANILA TIMES] **media[1086767]**Game-Changing Anode Protection Platform Enabling All Ultra-High Energy Lithium Metal Batteries for Space and Commercial Applications",
+            "url": "https://www.manilatimes.net/2026/06/05/tmt-newswire/pr-newswire/solidion-technologys-30-patents-for-space-based-artificial-intelligence-batteries-include-the-highest-performing-patented-lithium-anode-protection-technology/2359366"
         },
         {
-            "title": "Anthropic Co-Founder Warns AI Needs A Brake Pedal As Race Accelerates",
-            "description": "[TIMES NOW] Artificial intelligence is advancing rapidly, raising concerns about safety and oversight. Jack Clark, co-founder of Anthropic, compares this situation to the early oil industry, which required a...",
-            "url": "https://www.timesnownews.com/technology-science/anthropic-co-founder-warns-ai-needs-a-brake-pedal-as-race-accelerates-article-154462202"
+            "title": "Blackstone-backed AirTrunk to invest $30 billion in India, develop 5 GW data centre capacity by 2030",
+            "description": "[THE ECONOMIC TIMES] AirTrunk plans a massive investment of over 3 lakh crore rupees in India by 2030. This will develop more than 5 gigawatts of digital infrastructure capacity. The investment, backed by Blackstone and...",
+            "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/blackstone-backed-airtrunk-to-invest-30-billion-in-india-develop-5-gw-data-centre-capacity-by-2030/articleshow/131524644.cms"
         },
         {
-            "title": "SpaceX IPO | Rockets, AI losses and Elon Musk in control",
-            "description": "[THE HINDU] The real money, in SpaceX's telling, is in internet connectivity through its Starlink satellite service and above all artificial intelligence, provided by data centres rocketed into space",
-            "url": "https://www.thehindu.com/sci-tech/technology/spacex-ipo-rockets-ai-losses-and-elon-musk-in-control/article71063813.ece"
+            "title": "Fangzhou Showcases AI-Powered Chronic Disease Management Solution With Tencent Health at Tencent Cloud Conference",
+            "description": "[THE MANILA TIMES] BEIJING, June 05, 2026 (GLOBE NEWSWIRE) -- Fangzhou Inc. ('Fangzhou\u201d or the 'Company\u201d) (HKEX: 06086), a leading provider of AI\u2011driven Internet healthcare solutions, attended the 2026 Tencent Cloud AI...",
+            "url": "https://www.manilatimes.net/2026/06/05/tmt-newswire/globenewswire/fangzhou-showcases-ai-powered-chronic-disease-management-solution-with-tencent-health-at-tencent-cloud-conference/2359357"
         },
         {
-            "title": "2,50,000 AI Jobs, Stronger Laws, Business Boost And More: Inside Canada's New Artificial Intelligence Strategy",
-            "description": "[NDTV PROFIT] The Canadian government shared that the strategy aims to add $200 billion in economic growth, create 2,50,000 AI-related jobs, and increase AI adoption.",
-            "url": "https://www.ndtvprofit.com/technology/2-50-000-ai-jobs-business-boost-and-more-inside-canada-s-new-artificial-intelligence-strategy-11593651"
+            "title": "Golf equipment is already a multibillion-dollar market. AI could be about to supercharge it",
+            "description": "[CABLE NEWS NETWORK] Golf is experiencing something of a boom, with a new wave of casual players driving demand for golf gadgets. And where there are gadgets, there is artificial intelligence.",
+            "url": "https://edition.cnn.com/2026/06/05/business/golf-equipment-multibillion-dollar-market-ai-could-supercharge-it-spc"
         },
         {
-            "title": "Canada launches \u2018AI for All\u2019 plan, says strategy could create up to 90,000 jobs",
-            "description": "[FIRSTPOST] Prime Minister Mark Carney has launched a sweeping national AI strategy aimed at creating jobs, expanding access to artificial intelligence and strengthening Canada's domestic technology...",
-            "url": "https://www.firstpost.com/tech/canada-launches-ai-for-all-plan-says-strategy-could-create-up-to-90000-jobs-14019046.html"
+            "title": "New York City's rules for AI in schools spark fury",
+            "description": "[THE STAR] New York City's first set of rules for the use of artificial intelligence in public schools is being called weak by many parents who favour a stricter approach.",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/05/new-york-city039s-rules-for-ai-in-schools-spark-fury"
         },
         {
-            "title": "The Dow leaps to a record as oil prices ease and US stocks outside of AI rally",
-            "description": "[THE MANILA TIMES] NEW YORK \u2014 Wall Street rallied Thursday after falling oil prices and yields in the bond market eased the pressure on U.S. stocks. Banks, small companies and other stocks that had earlier been left...",
-            "url": "https://www.manilatimes.net/2026/06/05/business/foreign-business/the-dow-leaps-to-a-record-as-oil-prices-ease-and-us-stocks-outside-of-ai-rally/2359298"
+            "title": "Solidion Technology's 30+ Patents for Space-Based Artificial Intelligence Batteries Include the Highest-Performing Patented Lithium Anode Protection Technology",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Solidion Technology Inc. (\"Solidion\" or the \"Company\") (NASDAQ: STI), an advanced battery technology solutions provider, today announced a...",
+            "url": "https://www.prnewswire.co.uk/news-releases/solidion-technologys-30-patents-for-space-based-artificial-intelligence-batteries-include-the-highest-performing-patented-lithium-anode-protection-technology-302792387.html"
         },
         {
-            "title": "Billionaire Ray Dalio tells Americans from stage at a New York event: The problem with AI companies in the US vs China is \u2026",
-            "description": "[TIMES OF INDIA] Tech News News: Billionaire investor Ray Dalio who predicted the 2008 recession has now cautioned America\u2019s biggest artificial intelligence companies risk falling beh.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/billionaire-ray-dalio-tells-americans-from-stage-at-a-new-york-event-the-problem-with-ai-companies-in-the-us-vs-china-is-/articleshow/131520253.cms"
+            "title": "Subhash Ghai on the Future: AI vs Human Creativity",
+            "description": "[TIMES OF INDIA] Veteran filmmaker Subhash Ghai emphasizes the importance of human creativity and emotional intelligence over artificial intelligence in shaping the future, highlighting the need for connection to art...",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/subhash-ghai-says-ai-can-help-but-human-nobility-will-win-tomorrow/articleshow/131524411.cms"
+        },
+        {
+            "title": "Actors\u2019 union approves 4-year contract with studios and streamers",
+            "description": "[PITTSBURGH TRIBUNE-REVIEW] LOS ANGELES \u2014 Television and movie actors on Thursday voted overwhelmingly to ratify a four-year contract with studios and streaming services, a month after their union leaders negotiated a deal they...",
+            "url": "https://triblive.com/aande/movies-tv/actors-union-approves-4-year-contract-with-studios-and-streamers/"
         }
     ]
 }
