@@ -1,59 +1,130 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-05 14:06 UTC",
+    "updated": "2026-06-05 16:27:51 UTC",
     "news": [
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Siri\u2019s Total Chatbot Makeover Is Imminent With iOS 27",
-            "description": "Android isn't the only OS leaning into agentic AI.",
-            "url": "https://gizmodo.com/siri-total-chatbot-makeover-is-imminent-with-ios-27-2000757747",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/A1A9528-1200x675.jpg",
-            "publishedAt": "2026-05-12T22:15:29Z",
-            "content": "It\u2019s been nearly two years since Apple promised an AI-supercharged Siri, but if a new report is any indication, that transformation is finally upon us. According to Bloomberg\u2019s Mark Gurman, there are\u2026 [+2195 chars]"
+            "title": "Private analytics via zero-trust aggregation",
+            "description": "[RESEARCH] Security, Privacy and Abuse Prevention",
+            "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
-            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
-            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
-            "publishedAt": "2026-05-20T19:02:47Z",
-            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
         },
         {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "What an AI-designed car looks like",
-            "description": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change. That's one reason \u2026",
-            "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0405_Site.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-05-05T13:42:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: driving an LLM, Claude Code vs. Codex, RIP AGI, and more.\r\nOn The Vergecast: driving an LLM, Claude Code vs. Codex, RIP AGI, and more.\r\nby\r\nDav\u2026 [+3278 chars]"
+            "title": "The next chapter in flood resilience: Open sourcing Google\u2019s hydrology framework",
+            "description": "[RESEARCH] Climate & Sustainability",
+            "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
         },
         {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Paresh Dave, Maxwell Zeff",
-            "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-            "description": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
-            "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
-            "urlToImage": "https://media.wired.com/photos/6a07b49c3e66727feabf05fc/191:100/w_1280,c_limit/Model-Behavior-Altman-v-Musk-Verdict-Business.jpg",
-            "publishedAt": "2026-05-18T17:40:30Z",
-            "content": "Elon Musk suffered the worst defeat possible in his legal battle against OpenAI as a federal jury and a judge ruled he waited too long to bring his claims against the AI startup and its top executive\u2026 [+2873 chars]"
+            "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
+            "description": "[RESEARCH] General Science",
+            "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
+        },
+        {
+            "title": "Prompt Engineering for Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
+            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
+        },
+        {
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
+        },
+        {
+            "title": "A New Era of Discovery: Google Research at I/O 2026",
+            "description": "[RESEARCH] General Science",
+            "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
+        },
+        {
+            "title": "Towards passive heart health monitoring via smartphone camera",
+            "description": "[RESEARCH] Health & Bioscience",
+            "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/"
+        },
+        {
+            "title": "Information-Driven Design of Imaging Systems",
+            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
+            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
+        },
+        {
+            "title": "RL without TD learning",
+            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
+            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
+        },
+        {
+            "title": "Gradient-based Planning for World Models at Longer Horizons",
+            "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
+            "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
+            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
+            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
+        },
+        {
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+        },
+        {
+            "title": "Identifying Interactions at Scale for LLMs",
+            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
+            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
+            "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
+            "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
+        },
+        {
+            "title": "UN report warns AI could soon use 3pc of world's electricity, more water than we need to drink",
+            "description": "[THE TRIBUNE] One argument often used to quell concerns about the rising energy and resource demand of data centres is that artificial intelligence (AI) models will need less in the future as they improve and...",
+            "url": "https://www.tribuneindia.com/news/science-technology/un-report-warns-ai-could-soon-use-3pc-of-worlds-electricity-more-water-than-we-need-to-drink/"
+        },
+        {
+            "title": "Global Market: Fed's Daly dismisses AI as near-term inflation risk amid rising prices",
+            "description": "[THE ECONOMIC TIMES] San Francisco Fed President Mary Daly stated that while Artificial Intelligence may lower prices long-term, it's not a current concern for monetary policy. She believes AI's economic impact will...",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-feds-daly-dismisses-ai-as-near-term-inflation-risk-amid-rising-prices/articleshow/131521296.cms"
+        },
+        {
+            "title": "Chatbot mechanics: Aussies are turning to AI for fixes",
+            "description": "[PERTHNOW] More motorists are turning to artificial intelligence for advice on how to fix their car and one in three trust the technology more than a human.",
+            "url": "https://www.perthnow.com.au/news/technology/chatbot-mechanics-aussies-are-turning-to-ai-for-fixes-c-22389485"
+        },
+        {
+            "title": "C2C Advanced Systems signs MoU with IIT Ropar and AazelTech for AI research",
+            "description": "[SCANX.TRADE] C2C Advanced Systems Limited executed a three-party Memorandum of Understanding with Indian Institute of Technology Ropar and Aazel International Technologies Private Limited on June 1, 2026. The...",
+            "url": "https://scanx.trade/stock-market-news/companies/c2c-advanced-systems-signs-mou-with-iit-ropar-and-aazeltech-for-ai-research/42177765"
+        },
+        {
+            "title": "Anthropic Co-Founder Warns AI Needs A Brake Pedal As Race Accelerates",
+            "description": "[TIMES NOW] Artificial intelligence is advancing rapidly, raising concerns about safety and oversight. Jack Clark, co-founder of Anthropic, compares this situation to the early oil industry, which required a...",
+            "url": "https://www.timesnownews.com/technology-science/anthropic-co-founder-warns-ai-needs-a-brake-pedal-as-race-accelerates-article-154462202"
+        },
+        {
+            "title": "SpaceX IPO | Rockets, AI losses and Elon Musk in control",
+            "description": "[THE HINDU] The real money, in SpaceX's telling, is in internet connectivity through its Starlink satellite service and above all artificial intelligence, provided by data centres rocketed into space",
+            "url": "https://www.thehindu.com/sci-tech/technology/spacex-ipo-rockets-ai-losses-and-elon-musk-in-control/article71063813.ece"
+        },
+        {
+            "title": "2,50,000 AI Jobs, Stronger Laws, Business Boost And More: Inside Canada's New Artificial Intelligence Strategy",
+            "description": "[NDTV PROFIT] The Canadian government shared that the strategy aims to add $200 billion in economic growth, create 2,50,000 AI-related jobs, and increase AI adoption.",
+            "url": "https://www.ndtvprofit.com/technology/2-50-000-ai-jobs-business-boost-and-more-inside-canada-s-new-artificial-intelligence-strategy-11593651"
+        },
+        {
+            "title": "Canada launches \u2018AI for All\u2019 plan, says strategy could create up to 90,000 jobs",
+            "description": "[FIRSTPOST] Prime Minister Mark Carney has launched a sweeping national AI strategy aimed at creating jobs, expanding access to artificial intelligence and strengthening Canada's domestic technology...",
+            "url": "https://www.firstpost.com/tech/canada-launches-ai-for-all-plan-says-strategy-could-create-up-to-90000-jobs-14019046.html"
+        },
+        {
+            "title": "The Dow leaps to a record as oil prices ease and US stocks outside of AI rally",
+            "description": "[THE MANILA TIMES] NEW YORK \u2014 Wall Street rallied Thursday after falling oil prices and yields in the bond market eased the pressure on U.S. stocks. Banks, small companies and other stocks that had earlier been left...",
+            "url": "https://www.manilatimes.net/2026/06/05/business/foreign-business/the-dow-leaps-to-a-record-as-oil-prices-ease-and-us-stocks-outside-of-ai-rally/2359298"
+        },
+        {
+            "title": "Billionaire Ray Dalio tells Americans from stage at a New York event: The problem with AI companies in the US vs China is \u2026",
+            "description": "[TIMES OF INDIA] Tech News News: Billionaire investor Ray Dalio who predicted the 2008 recession has now cautioned America\u2019s biggest artificial intelligence companies risk falling beh.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/billionaire-ray-dalio-tells-americans-from-stage-at-a-new-york-event-the-problem-with-ai-companies-in-the-us-vs-china-is-/articleshow/131520253.cms"
         }
     ]
 }
