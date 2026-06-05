@@ -1,130 +1,59 @@
 {
-    "updated": "2026-06-05 12:33:13 UTC",
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-06-05 14:06 UTC",
     "news": [
         {
-            "title": "Private analytics via zero-trust aggregation",
-            "description": "[RESEARCH] Security, Privacy and Abuse Prevention",
-            "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Siri\u2019s Total Chatbot Makeover Is Imminent With iOS 27",
+            "description": "Android isn't the only OS leaning into agentic AI.",
+            "url": "https://gizmodo.com/siri-total-chatbot-makeover-is-imminent-with-ios-27-2000757747",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/A1A9528-1200x675.jpg",
+            "publishedAt": "2026-05-12T22:15:29Z",
+            "content": "It\u2019s been nearly two years since Apple promised an AI-supercharged Siri, but if a new report is any indication, that transformation is finally upon us. According to Bloomberg\u2019s Mark Gurman, there are\u2026 [+2195 chars]"
         },
         {
-            "title": "The next chapter in flood resilience: Open sourcing Google\u2019s hydrology framework",
-            "description": "[RESEARCH] Climate & Sustainability",
-            "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
+            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
+            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
+            "publishedAt": "2026-05-20T19:02:47Z",
+            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
         },
         {
-            "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
-            "description": "[RESEARCH] General Science",
-            "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "What an AI-designed car looks like",
+            "description": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change. That's one reason \u2026",
+            "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0405_Site.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-05T13:42:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: driving an LLM, Claude Code vs. Codex, RIP AGI, and more.\r\nOn The Vergecast: driving an LLM, Claude Code vs. Codex, RIP AGI, and more.\r\nby\r\nDav\u2026 [+3278 chars]"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
-        },
-        {
-            "title": "A New Era of Discovery: Google Research at I/O 2026",
-            "description": "[RESEARCH] General Science",
-            "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
-        },
-        {
-            "title": "Towards passive heart health monitoring via smartphone camera",
-            "description": "[RESEARCH] Health & Bioscience",
-            "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/"
-        },
-        {
-            "title": "Information-Driven Design of Imaging Systems",
-            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
-            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
-        },
-        {
-            "title": "RL without TD learning",
-            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
-            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
-        },
-        {
-            "title": "Gradient-based Planning for World Models at Longer Horizons",
-            "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
-            "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
-        },
-        {
-            "title": "Identifying Interactions at Scale for LLMs",
-            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
-            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
-        },
-        {
-            "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
-            "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
-            "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
-        },
-        {
-            "title": "Minority affairs ministry plans major AI rollout",
-            "description": "[THE ECONOMIC TIMES] The minority affairs ministry is integrating artificial intelligence into its services. AI chatbots and voice solutions will soon support citizens in multiple languages. These advancements aim to...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/minority-affairs-ministry-plans-major-ai-rollout/articleshow/131515696.cms"
-        },
-        {
-            "title": "Schiavo\u2019s AI workforce protection bill passes Assembly",
-            "description": "[SANTA CLARITA VALLEY SIGNAL] News release As California continues to see artificial intelligence-driven layoffs from major corporations like Meta, Oracle and UPS, Assemblywoman Pilar Schiavo, D-Chatsworth, announced that her...",
-            "url": "https://signalscv.com/2026/06/schiavos-ai-workforce-protection-bill-passes-assembly/"
-        },
-        {
-            "title": "Anthropic calls for global AI slowdown after $965B valuation. Critics claim it's just to hobble competition.",
-            "description": "[NEW YORK POST] Anthropic said artificial intelligence is advancing so rapidly that an industry-wide pause is needed to slow the pace of development while companies get a handle on potential societal risks.",
-            "url": "https://nypost.com/2026/06/04/business/anthropic-calls-for-global-ai-slowdown-after-965b-valuation-critics-claim-its-just-to-hobble-competition/"
-        },
-        {
-            "title": "Emerging-Market Stocks Sink as Broadcom Miss Revives AI Concerns",
-            "description": "[LIVEMINT] Emerging-market equities notched their worst day in roughly three weeks as Asian technology heavyweights retreated after a disappointing outlook from Broadcom Inc. raised concerns about the scale of...",
-            "url": "https://www.livemint.com/market/emergingmarket-stocks-sink-as-broadcom-miss-revives-ai-concerns-11780617909949.html"
-        },
-        {
-            "title": "Driven Capex Cycle Lifts Undervalued Indian Industrial Stocks",
-            "description": "[BLOOMBERG] The overarching narrative is that Indian equity markets missed out on the global artificial intelligence boom. But a look under the hood reveals a slew of smaller firms winning from trillions of...",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-05/a-little-known-indian-stock-s-530-rally-shows-hidden-ai-winners"
-        },
-        {
-            "title": "Nominate Your Company for the 2026 AI Excellence in Supply Chain Award",
-            "description": "[FREIGHTWAVES] Artificial intelligence has moved from the edges of the supply chain to its center. What began as experimental pilots and proof-of-concept projects has",
-            "url": "https://www.freightwaves.com/news/nominate-your-company-for-the-2026-ai-excellence-in-supply-chain-award"
-        },
-        {
-            "title": "'World-first' vaccine designed by Artificial Intelligence",
-            "description": "[BBC NEWS] Cambridge scientists say they have, for the first time, tested a vaccine designed by AI.",
-            "url": "https://www.bbc.com/news/articles/crrpggegwe0o"
-        },
-        {
-            "title": "Canada says AI strategy will help create 250,000 jobs, boost GDP by 3%",
-            "description": "[THE STAR] TORONTO, June 4 (Reuters) - Canada \u2060unveiled a new artificial intelligence strategy on Thursday that it \u2060says will help create 250,000 jobs by 2031 and includes a \u200cnew C$500 million ($360.05 million)...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/05/canada-says-ai-strategy-will-help-create-250000-jobs-boost-gdp-by-3"
-        },
-        {
-            "title": "US House lawmakers release draft bill to prohibit state AI rules",
-            "description": "[THE STAR] WASHINGTON, June \u20604 (Reuters) - A bipartisan pair of U.S. House lawmakers released draft legislation on Thursday that would prohibit states \u2060from regulating the development of artificial intelligence...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/05/us-house-lawmakers-release-draft-bill-to-regulate-ai"
-        },
-        {
-            "title": "'Universal' vaccine to prevent future pandemics developed by British scientists in major breakthrough",
-            "description": "[THE MIRROR] Scientists have invented a \u2018game-changing\u2019 vaccine, developed using artificial intelligence, against whole families of viruses - hopefully preventing future pandemics before they even begin",
-            "url": "https://www.mirror.co.uk/news/health/universal-vaccine-future-pandemic-virus-37248514"
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paresh Dave, Maxwell Zeff",
+            "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+            "description": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
+            "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+            "urlToImage": "https://media.wired.com/photos/6a07b49c3e66727feabf05fc/191:100/w_1280,c_limit/Model-Behavior-Altman-v-Musk-Verdict-Business.jpg",
+            "publishedAt": "2026-05-18T17:40:30Z",
+            "content": "Elon Musk suffered the worst defeat possible in his legal battle against OpenAI as a federal jury and a judge ruled he waited too long to bring his claims against the AI startup and its top executive\u2026 [+2873 chars]"
         }
     ]
 }
