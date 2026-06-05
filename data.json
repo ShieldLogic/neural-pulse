@@ -1,15 +1,15 @@
 {
-    "updated": "2026-06-04 23:06:04 UTC",
+    "updated": "2026-06-05 03:24:42 UTC",
     "news": [
-        {
-            "title": "Building AI Agents in Python with Pydantic AI",
-            "description": "[MACHINELEARNINGMASTERY] <a href=\"https://machinelearningmastery.",
-            "url": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/"
-        },
         {
             "title": "Private analytics via zero-trust aggregation",
             "description": "[RESEARCH] Security, Privacy and Abuse Prevention",
             "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
+        },
+        {
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
         },
         {
             "title": "The next chapter in flood resilience: Open sourcing Google\u2019s hydrology framework",
@@ -17,24 +17,19 @@
             "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
         },
         {
-            "title": "Effective Context Engineering for AI Agents: A Developer\u2019s Guide",
-            "description": "[MACHINELEARNINGMASTERY] When <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/effective-context-engineering-for-ai-agents-a-developers-guide/"
-        },
-        {
             "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Prompt Engineering for Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
+            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
         },
         {
-            "title": "Effective KV Compression with TurboQuant",
-            "description": "[MACHINELEARNINGMASTERY] TurboQuant has recently been launched by Google as a novel algorithmic suite and library for applying advanced quantization and compression to large language models (LLMs) and vector search engines...",
-            "url": "https://machinelearningmastery.com/effective-kv-compression-with-turboquant/"
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
         },
         {
             "title": "A New Era of Discovery: Google Research at I/O 2026",
@@ -62,9 +57,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
+            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
+            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
+        },
+        {
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -77,54 +77,54 @@
             "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
         },
         {
-            "title": "Meta Delays AI Model API Launch as It Seeks Returns on Massive AI Spending",
-            "description": "[MARKETSCREENER] Meta Platforms Inc has repeatedly delayed the release of an application programming interface for its latest artificial intelligence model, Muse Spark, according to a Wall Street Journal report...",
-            "url": "https://www.marketscreener.com/news/meta-delays-ai-model-api-launch-as-it-seeks-returns-on-massive-ai-spending-ce7f5ddcdf8af32c"
+            "title": "Canada says AI strategy will help create 250,000 jobs, boost GDP by 3%",
+            "description": "[MARKETSCREENER] Canada unveiled a new artificial intelligence strategy on Thursday that it says will help create 250,000 jobs by 2031 and includes a new C$500 million tech fund to help homegrown AI firms. ... -June...",
+            "url": "https://www.marketscreener.com/news/canada-says-ai-strategy-will-help-create-250-000-jobs-boost-gdp-by-3-ce7f5ddcd08df32d"
         },
         {
-            "title": "Ramp Notches $44 Billion Valuation in New Funding Round",
-            "description": "[BLOOMBERG] Ramp, a corporate spending management platform, has raised $750 million in a new funding round at a $44 billion valuation, a sign of investor enthusiasm for using artificial intelligence to help...",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-04/ramp-notches-44-billion-valuation-in-new-funding-round"
+            "title": "Broadcom's Fiscal Q2 Shows Continued AI Strength, Guidance Appears Conservative, Morgan Stanley Says",
+            "description": "[MARKETSCREENER] Broadcom delivered very strong fiscal Q2 results, and its outlook is likely to remain conservative despite continued strength in artificial intelligence-driven growth, Morgan Stanley said in a...",
+            "url": "https://www.marketscreener.com/news/broadcom-s-fiscal-q2-shows-continued-ai-strength-guidance-appears-conservative-morgan-stanley-says-ce7f5ddcd08df325"
         },
         {
-            "title": "Sourcefit named winner in the Artificial Intelligence category at the Fortress Cybersecurity Awards 2026",
-            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Sourcefit, a global BPO operating across the Philippines, South Africa, the Dominican Republic, Madagascar, Armenia, and the United Kingdom,...",
-            "url": "https://www.prnewswire.co.uk/news-releases/sourcefit-named-winner-in-the-artificial-intelligence-category-at-the-fortress-cybersecurity-awards-2026-302791517.html"
+            "title": "Apple stands out as AI trade grows crowded",
+            "description": "[BNN BLOOMBERG] Broadcom's selloff is fuelling concerns that AI stock valuations have become stretched despite strong long-term demand for artificial intelligence.",
+            "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/06/04/market-outlook-broadcom-selloff-exposes-risks-in-ai-stock-surge/"
         },
         {
-            "title": "Foxconn, Intel team up to develop AI infrastructure",
-            "description": "[LIVEMINT] Foxconn Technology Group and Intel are partnering to develop artificial-intelligence infrastructure, aiming to address critical bottlenecks in modern data centers.",
-            "url": "https://www.livemint.com/global/foxconn-intel-team-up-to-develop-ai-infrastructure-11780565724687.html"
+            "title": "From Haj Pilgrims To Waqf Properties: How AI Is Reshaping Minority Welfare",
+            "description": "[NDTV.COM] Artificial intelligence is set to become a key pillar of the Minority Affairs Ministry's functioning as the government moves to bring everything from welfare projects and skill development programmes...",
+            "url": "https://www.ndtv.com/india-news/from-haj-pilgrims-to-waqf-properties-how-ai-is-reshaping-minority-welfare-delivery-11592110"
         },
         {
-            "title": "Top AI CEOs Call for Law Protecting Against Biological Weapons",
-            "description": "[LIVEMINT] Artificial intelligence is magnifying concern that criminals could unleash new pathogens.",
-            "url": "https://www.livemint.com/global/top-ai-ceos-call-for-law-protecting-against-biological-weapons-11780566665673.html"
+            "title": "Research claims AI could eventually lead to humans communicating directly with animals as it has decoded communication patterns in ...",
+            "description": "[TIMES OF INDIA] Tech News News: Scientists are making strides in decoding animal communication, and artificial intelligence (AI) is at the heart of it. And this success may raise the.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/research-claims-ai-could-eventually-lead-to-humans-communicating-directly-with-animals-as-it-has-decoded-communication-patterns-in-/articleshow/131509665.cms"
         },
         {
-            "title": "Thailand\u2019s Richest Man Plans $4.3 Billion Expansion Amid AI Boom",
-            "description": "[BLOOMBERG] Thailand\u2019s richest man, Sarath Ratanavadi, plans to spend as much as 140 billion baht ($4.3 billion) through Gulf Development Pcl over the next five years to expand data centers and other...",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-04/thailand-s-richest-man-plans-4-3-billion-expansion-amid-ai-boom"
+            "title": "Smart Lights, Long Queues: AI Traffic Trial Sparks Chaos at Punta Prima Roundabout",
+            "description": "[THE LEADER NEWSPAPER] Smart Lights, Long Queues: AI Traffic Trial Sparks Chaos at Punta Prima Roundabout - Spain\u2019s first artificial intelligence-controlled roundabout has been launched on the N-332 between Torrevieja and...",
+            "url": "https://theleader.info/2026/06/04/smart-lights-long-queues-ai-traffic-trial-sparks-chaos-at-punta-prima-roundabout/"
         },
         {
-            "title": "Foxconn, Intel Team Up to Develop AI Infrastructure",
-            "description": "[HINDUSTAN TIMES] Foxconn Technology Group & Intel are partnering to develop artificial-intelligence infrastructure, aiming to address critical bottlenecks in modern data centers | Business News",
-            "url": "https://www.hindustantimes.com/business/foxconn-intel-team-up-to-develop-ai-infrastructure-101780565794842.html"
+            "title": "US stocks today: Wall Street opens mixed as AI stocks fall and oil prices ease",
+            "description": "[TIMES OF INDIA] India Business News: The US stock market began trading on a mixed note on Thursday, as a pullback in several artificial-intelligence-linked stocks offset broader gains acr.",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/us-stocks-today-wall-street-opens-mixed-as-ai-stocks-fall-and-oil-prices-ease/articleshow/131510149.cms"
         },
         {
-            "title": "Carney to announce federal artificial intelligence strategy",
-            "description": "[CP24 TORONTO] Prime Minister Mark Carney is expected to announce the federal government\u2019s strategy on artificial intelligence in Toronto today.",
-            "url": "https://www.cp24.com/news/canada/2026/06/04/pm-carney-to-announce-federal-artificial-intelligence-strategy-in-toronto-today/"
+            "title": "Pinterest deepens Amazon partnership with $4 billion cloud deal",
+            "description": "[THE ECONOMIC TIMES] Pinterest is investing heavily in its future with Amazon Web Services. The social media company will spend four billion dollars on cloud services until 2031. This deal will help Pinterest boost its...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/pinterest-deepens-amazon-partnership-with-4-billion-cloud-deal/articleshow/131510331.cms"
         },
         {
-            "title": "Uber's AI Doubts Are Just Normal Growing Pains",
-            "description": "[BLOOMBERG] Uber Technologies Inc. President Andrew Macdonald said on the Rapid Response podcast a few days ago that the company could not connect increased use of artificial intelligence coding tools to a...",
-            "url": "https://www.bloomberg.com/opinion/articles/2026-06-04/uber-s-ai-doubts-are-just-normal-growing-pains"
+            "title": "SC\u2019s draft rules allows AI in courts, bar it in decision-making",
+            "description": "[THE ECONOMIC TIMES] The Supreme Court has proposed new rules for artificial intelligence in courts. These rules allow AI for tasks like legal research and drafting. However, AI will not be used to decide court cases....",
+            "url": "https://economictimes.indiatimes.com/news/india/scs-draft-rules-allows-ai-in-courts-bar-it-in-decision-making/articleshow/131510222.cms"
         },
         {
-            "title": "US tech sector announces most job cuts in nearly two years",
-            "description": "[SPOKANE SPOKESMAN-REVIEW] US technology companies in May announced the most job cuts in nearly two years as they ramp up spending on artificial intelligence.",
-            "url": "https://www.spokesman.com/stories/2026/jun/04/us-tech-sector-announces-most-job-cuts-in-nearly-t/"
+            "title": "Nikkei hits record high",
+            "description": "[MARKETSCREENER] The Nikkei has never been higher. Driven by artificial intelligence, the Japanese index crossed the 67,000-point mark for the first time on June 1. However, behind this surge, the rally is much...",
+            "url": "https://www.marketscreener.com/news/nikkei-hits-record-high-ce7f5ddcd089f223"
         }
     ]
 }
