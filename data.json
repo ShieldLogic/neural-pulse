@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-06 19:15:41 UTC",
+    "updated": "2026-06-06 20:59:55 UTC",
     "news": [
         {
             "title": "Private analytics via zero-trust aggregation",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
         },
         {
-            "title": "Scikit-LLM vs. Traditional Text Classifiers: When Should You Use an LLM?",
-            "description": "[MACHINELEARNINGMASTERY] In recent years, generative AI models like LLMs (large language models) have gradually taken over classical machine learning ones for addressing certain tasks, for instance, text classification .",
-            "url": "https://machinelearningmastery.com/scikit-llm-vs-traditional-text-classifiers-when-should-you-use-an-llm/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
             "title": "A New Era of Discovery: Google Research at I/O 2026",
@@ -22,19 +22,14 @@
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
         },
         {
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
+        },
+        {
             "title": "Towards passive heart health monitoring via smartphone camera",
             "description": "[RESEARCH] Health & Bioscience",
             "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/"
-        },
-        {
-            "title": "Using Scikit-LLM with Open-Source LLMs",
-            "description": "[MACHINELEARNINGMASTERY] This article will teach you how to perform a language task like text classification by integrating locally hosted large language models (LLMs) of manageable size, like Mistral, Gemma, and Llama 3:...",
-            "url": "https://machinelearningmastery.com/using-scikit-llm-with-open-source-llms/"
-        },
-        {
-            "title": "Serving Multiple Users at Once: How Continuous Batching Keeps LLM Inference Efficient",
-            "description": "[MACHINELEARNINGMASTERY] This article is divided into four parts; they are: \u2022 The Problem with Static Batching \u2022 Code Example of Static Batching \u2022 Continuous Batching: Dynamic Scheduling and Ragged Batching \u2022 Full...",
-            "url": "https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,9 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "The Roadmap for Mastering LLMOps in 2026",
-            "description": "[MACHINELEARNINGMASTERY] The LLMOps market is projected to grow from <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-for-mastering-llmops-in-2026/"
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+        },
+        {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -62,14 +62,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
+        },
+        {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
             "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
             "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
-        },
-        {
-            "title": "Building Semantic Search with Transformers.js and Sentence Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You've probably shipped this bug before, where a user types \" affordable laptop \" into your search bar and gets zero results.",
-            "url": "https://machinelearningmastery.com/building-semantic-search-with-transformers-js-and-sentence-embeddings/"
         },
         {
             "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform\u2019s Agentic RAG",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/"
         },
         {
-            "title": "David Sacks Rips Bernie Sanders' 50% AI Ownership Plan, Warns It Could Lead To China's 'CCP-Style' Social",
-            "description": "[BENZINGA] David Sacks said Bernie Sanders' AI ownership plan could lead to dangerous government-controlled artificial intelligence systems.",
-            "url": "https://www.benzinga.com/markets/tech/26/06/53046277/david-sacks-rips-bernie-sanders-50-ai-ownership-plan-warns-it-could-lead-to-chinas-ccp-style-social-credit-system-i-can-see-why"
+            "title": "As AI is changing job market, American billionaire Mark Cuban to college graduates: Start your job search with ...",
+            "description": "[TIMES OF INDIA] Tech News News: There\u2019s no doubt that artificial intelligence is transforming the job market. American billionaire Mark Cuban is urging recent college graduates to lo.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-ai-is-changing-job-market-american-billionaire-mark-cuban-to-college-graduates-start-your-job-search-with-/articleshow/131548158.cms"
         },
         {
-            "title": "'Unacceptable': India condemns 'indecorous behaviour' at CJI Surya Kant's lecture at London University",
-            "description": "[MONEYCONTROL] Chief Justice of India Suryakant went to the University of London to deliver a lecture on \u201cArtificial Intelligence and International Law",
-            "url": "https://www.moneycontrol.com/news/india/unacceptable-india-condemns-indecorous-behaviour-at-cji-surya-kant-s-lecture-at-london-university-13942614.html"
+            "title": "AI Could Soon Use More Water Than Humanity Drinks, UN Warns",
+            "description": "[NDTV.COM] A new United Nations University report warns that AI-powered data centres could consume enough water to meet the annual domestic needs of 1.3 billion people by 2030, highlighting the hidden...",
+            "url": "https://www.ndtv.com/artificial-intelligence/ai-could-soon-use-more-water-than-humanity-drinks-un-warns-11599524"
         },
         {
-            "title": "Meta AI Boss Drops \"Health-First' Bombshell In Battle With OpenAI, Google And Anthropic",
-            "description": "[NDTV.COM] Meta's top AI leader Alexandr Wang has said the company's future AI models will stand out by focusing strongly on health-related capabilities. The move signals a strategic shift as Meta competes with...",
-            "url": "https://www.ndtv.com/feature/alexandr-wang-meta-ai-boss-drops-health-first-bombshell-in-battle-with-openai-google-and-anthropic-11598960"
+            "title": "AI is making cyberattacks more autonomous, harder to assess",
+            "description": "[LOKMAT TIMES] AI is making cyberattacks more autonomous, harder to assess - New Delhi, June 6 Artificial intelligence (AI) is increasingly making cyberattacks more autonomous, enabling threat actors to carry ......",
+            "url": "https://www.lokmattimes.com/technology/ai-is-making-cyberattacks-more-autonomous-harder-to-assess-1/"
         },
         {
-            "title": "Microsoft CEO Satya Nadella Reveals He Uses 100 AI Agents, Says They Need Rules And Oversight",
-            "description": "[TIMES NOW] Artificial intelligence is evolving from basic chatbots to essential tools in various workplaces, handling tasks like coding and data analysis., Technology & Science, Times Now",
-            "url": "https://www.timesnownews.com/technology-science/microsoft-ceo-satya-nadella-reveals-he-uses-100-ai-agents-says-they-need-rules-and-oversight-article-154473740"
+            "title": "AI is making cyberattacks more autonomous, harder to assess",
+            "description": "[LOKMAT TIMES] AI is making cyberattacks more autonomous, harder to assess - New Delhi, June 6 Artificial intelligence (AI) is increasingly making cyberattacks more autonomous, enabling threat actors to carry ......",
+            "url": "https://www.lokmattimes.com/business/ai-is-making-cyberattacks-more-autonomous-harder-to-assess/"
         },
         {
-            "title": "Trump says to meet AI firms on government stake",
-            "description": "[THE HINDU] U.S. President Donald Trump said Friday he would meet top artificial intelligence firms to discuss the possibility of the government taking a stake in their companies",
-            "url": "https://www.thehindu.com/sci-tech/technology/trump-says-to-meet-ai-firms-on-government-stake/article71068451.ece"
+            "title": "AI will never replace us, but we must use it wisely | Letter",
+            "description": "[PORTLAND PRESS HERALD] I was pleased to read of Pope Leo\u2019s call for better regulation of artificial intelligence so that it will better serve humankind and not just the few. I believe that AI will always require close...",
+            "url": "https://www.pressherald.com/2026/06/06/ai-will-never-replace-us-but-we-must-use-it-wisely-letter/"
         },
         {
-            "title": "Indian High Commission in UK slams \u2018indecorous audience behaviour\u2019 during CJI Surya Kant\u2019s event",
-            "description": "[TELEGRAPH INDIA] The video from the event that later went viral showed an audience member referring to the Chief Justice's remarks on India's democratic credentials in the context of artificial intelligence; Citing...",
-            "url": "https://www.telegraphindia.com/india/indian-high-commission-in-uk-slams-indecorous-audience-behaviour-during-cji-surya-kants-event/cid/2164250"
+            "title": "Can Mark Carney get Canadians to trust AI?",
+            "description": "[CBC.CA] Mark Carney's Liberal government wants Canada to embrace artificial intelligence technology. It apparently believes that, for the country's economic sake, Canada needs to embrace AI. But it...",
+            "url": "https://www.cbc.ca/news/politics/artificial-intelligence-mark-carney-analysis-9.7225476"
         },
         {
-            "title": "Indian states are appointing AI Ministers. But do they matter?",
-            "description": "[MONEYCONTROL] Artificial Intelligence is becoming a must-have portfolio in government cabinets, but experts question whether the trend reflects policy depth or mere signalling.",
-            "url": "https://www.moneycontrol.com/artificial-intelligence/indian-states-are-appointing-ai-ministers-but-do-they-matter-article-13942600.html"
+            "title": "Scientists use AI to predict when burnt plant waste will help or harm farm soil phosphorus levels",
+            "description": "[TIMES OF INDIA] Science News: Researchers have developed an artificial intelligence model that can predict, before anything goes into the ground, whether biochar, a charcoal-like m.",
+            "url": "https://timesofindia.indiatimes.com/science/scientists-use-ai-to-predict-when-burnt-plant-waste-will-help-or-harm-farm-soil-phosphorus-levels/articleshow/131547213.cms"
         },
         {
-            "title": "SpaceX Inks $30 Billion Computing Power Deal With Google",
-            "description": "[NDTV PROFIT] Earlier this year, SpaceX disclosed that Google LLC owned a 6.11% stake in the company at the end of 2025. Following the February merger of SpaceX with xAI, Musk's artificial intelligence and social...",
-            "url": "https://www.ndtvprofit.com/business/spacex-inks-30-billion-computing-power-deal-with-google-11598717"
+            "title": "Humanity still has choice in frontier AI\u2019s future, says Ex-OpenAI CTO",
+            "description": "[THE NEWS INTERNATIONAL] The artificial intelligence landscape is grappling with alarming concerns and pessimism related to unprecedented \u201cself-evolving\u201d capabilities of frontier AI models. Of all tech giants,...",
+            "url": "https://www.thenews.com.pk/latest/1404952-humanity-still-has-choice-in-frontier-ais-future-says-ex-openai-cto"
         },
         {
-            "title": "I wrote that, right? People forget using AI for help, research shows",
-            "description": "[THE STAR] People cannot reliably recall whether or not they used artificial intelligence to create a text after as little as one week, according to a new study.",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/06/i-wrote-that-right-people-forget-using-aifor-help-research-shows"
+            "title": "'Indecorous audience behaviour': Indian mission in UK after CJI Surya Kant's speech interrupted at London event",
+            "description": "[ZEE NEWS] CJI Surya Kant delivered a lecture on 'Artificial Intelligence and International Law' at Birkbeck College, London, on June 4.",
+            "url": "https://zeenews.india.com/world/indecorous-audience-behaviour-indian-mission-in-uk-after-cji-surya-kants-speech-interrupted-at-london-event-3053208.html"
         },
         {
-            "title": "Researchers identify hidden self-harm histories using machine learning",
-            "description": "[NEWS-MEDICAL.NET] Important mental health history is often present in medical records but hard to find, especially when it is missing from the diagnosis codes that clinicians, researchers and health systems use to...",
-            "url": "https://www.news-medical.net/news/20260605/Researchers-identify-hidden-self-harm-histories-using-machine-learning.aspx"
+            "title": "Pope\u2019s encyclical on AI echoes earlier one from Leo XIII in 1891",
+            "description": "[ARKANSAS ONLINE] It seemed inevitable that the first encyclical from the first American pope, the forward-looking and worldly-wise Leo XIV, would focus on the growing furor over artificial intelligence.",
+            "url": "https://www.arkansasonline.com/news/2026/jun/06/popes-encyclical-on-ai-echoes-earlier-one-from/"
         }
     ]
 }
