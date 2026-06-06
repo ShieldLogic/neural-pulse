@@ -1,130 +1,59 @@
 {
-    "updated": "2026-06-06 11:40:00 UTC",
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-06-06 12:50 UTC",
     "news": [
         {
-            "title": "Private analytics via zero-trust aggregation",
-            "description": "[RESEARCH] Security, Privacy and Abuse Prevention",
-            "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Siri\u2019s Total Chatbot Makeover Is Imminent With iOS 27",
+            "description": "Android isn't the only OS leaning into agentic AI.",
+            "url": "https://gizmodo.com/siri-total-chatbot-makeover-is-imminent-with-ios-27-2000757747",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/A1A9528-1200x675.jpg",
+            "publishedAt": "2026-05-12T22:15:29Z",
+            "content": "It\u2019s been nearly two years since Apple promised an AI-supercharged Siri, but if a new report is any indication, that transformation is finally upon us. According to Bloomberg\u2019s Mark Gurman, there are\u2026 [+2195 chars]"
         },
         {
-            "title": "The next chapter in flood resilience: Open sourcing Google\u2019s hydrology framework",
-            "description": "[RESEARCH] Climate & Sustainability",
-            "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
+            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
+            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
+            "publishedAt": "2026-05-20T19:02:47Z",
+            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "What an AI-designed car looks like",
+            "description": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change. That's one reason \u2026",
+            "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_VST_0405_Site.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-05-05T13:42:18Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: driving an LLM, Claude Code vs. Codex, RIP AGI, and more.\r\nOn The Vergecast: driving an LLM, Claude Code vs. Codex, RIP AGI, and more.\r\nby\r\nDav\u2026 [+3278 chars]"
         },
         {
-            "title": "A New Era of Discovery: Google Research at I/O 2026",
-            "description": "[RESEARCH] General Science",
-            "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
-        },
-        {
-            "title": "Towards passive heart health monitoring via smartphone camera",
-            "description": "[RESEARCH] Health & Bioscience",
-            "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/"
-        },
-        {
-            "title": "Information-Driven Design of Imaging Systems",
-            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
-            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
-        },
-        {
-            "title": "RL without TD learning",
-            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
-            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
-        },
-        {
-            "title": "Gradient-based Planning for World Models at Longer Horizons",
-            "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
-            "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
-        },
-        {
-            "title": "Identifying Interactions at Scale for LLMs",
-            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
-            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
-        },
-        {
-            "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
-            "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
-            "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
-        },
-        {
-            "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform\u2019s Agentic RAG",
-            "description": "[RESEARCH] Data Management",
-            "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/"
-        },
-        {
-            "title": "AI Industry Faces New Debate as Experts Call for Stronger Regulations and Safety Measures",
-            "description": "[NEWSX] As artificial intelligence advances at an unprecedented pace, experts and policymakers are calling for stronger regulations to address concerns about safety, privacy and job displacement. The debate...",
-            "url": "https://www.newsx.com/tech-and-auto/ai-industry-faces-new-debate-as-experts-call-for-stronger-regulations-and-safety-measures-230938/"
-        },
-        {
-            "title": "2 ASX ETFs I'd buy for the AI decade",
-            "description": "[THE MOTLEY FOOL AUSTRALIA] The Global X Artificial Intelligence ETF (ASX: GXAI) is one ASX ETF I would consider buying for the AI decade.",
-            "url": "https://www.fool.com.au/2026/06/06/2-asx-etfs-id-buy-for-the-ai-decade/"
-        },
-        {
-            "title": "Why hiring surged in May despite economic strain from the Iran war",
-            "description": "[PBS NEWS] There was surprising strength in the latest U.S. jobs report. Employers added 172,000 jobs in May, the third straight month of job gains. Overall, the labor market appears strong despite concerns...",
-            "url": "https://www.pbs.org/newshour/show/why-hiring-surged-in-may-despite-economic-strain-from-the-iran-war"
-        },
-        {
-            "title": "Trump Calls for Military to Accelerate Use of AI",
-            "description": "[NEWSMAX] While acknowledging the need to protect civil liberties and maintain oversight over autonomous weapon systems, President Donald Trump issued a memo Friday that calls for the U.S. military and...",
-            "url": "https://www.newsmax.com/politics/artificial-intelligence-donald-trump-pete-hegseth/2026/06/05/id/1258722/"
-        },
-        {
-            "title": "OpenAI in talks to give U.S. government an equity stake in $850 billion AI startup as IPO nears",
-            "description": "[TECHSTARTUPS.COM] Just a day after Senator Bernie Sanders proposed that Americans should share directly in the wealth created by artificial intelligence, OpenAI is reportedly discussing an unprecedented idea with the...",
-            "url": "https://techstartups.com/2026/06/05/openai-in-talks-to-give-u-s-government-an-equity-stake-in-850-billion-ai-startup-as-ipo-nears/"
-        },
-        {
-            "title": "White House to accelerate development of AI for 'war fighting' and national security",
-            "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] As a major AI company warns of an increased risk of \"humans losing control over AI systems\", the Trump administration says it will accelerate the development and use of artificial intelligence for...",
-            "url": "https://www.abc.net.au/news/2026-06-06/trump-to-accelerate-development-of-ai-for-war/106767300"
-        },
-        {
-            "title": "Actors\u2019 union approves 4-year contract with studios and streamers",
-            "description": "[BALTIMORE SUN] Television and movie actors on Thursday voted overwhelmingly to ratify a four-year contract with studios and streaming services, a month after their union leaders negotiated a deal they say provides...",
-            "url": "https://www.baltimoresun.com/2026/06/05/actors-union-approves-4-year-contract-with-studios-and-streamers/"
-        },
-        {
-            "title": "Military speed up AI us while protecting Americans",
-            "description": "[CP24 TORONTO] U.S. President Donald Trump issued a memo Friday that calls for the U.S. military and national security agencies to accelerate their use of artificial intelligence, while acknowledging the need to...",
-            "url": "https://www.cp24.com/news/world/2026/06/05/trump-calls-for-military-to-accelerate-use-of-ai-while-protecting-americans/"
-        },
-        {
-            "title": "Trump explores federal government acquiring shares in AI companies",
-            "description": "[NEWSBREAK] WASHINGTON \u2014 President Donald Trump said he's exploring having the federal government acquire shares in artificial intelligence companies, likening the con",
-            "url": "https://www.newsbreak.com/usa-today-560565/4694363155692-trump-explores-federal-government-acquiring-shares-in-ai-companies"
-        },
-        {
-            "title": "Trump calls for military to accelerate use of AI while protecting Americans",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] President Donald Trump is calling for the U.S. military and national security agencies to accelerate their use of artificial intelligence. But the president is also acknowledging the need to protect...",
-            "url": "https://www.ajc.com/news/2026/06/trump-calls-for-military-to-accelerate-use-of-ai-while-protecting-americans/"
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paresh Dave, Maxwell Zeff",
+            "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+            "description": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
+            "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+            "urlToImage": "https://media.wired.com/photos/6a07b49c3e66727feabf05fc/191:100/w_1280,c_limit/Model-Behavior-Altman-v-Musk-Verdict-Business.jpg",
+            "publishedAt": "2026-05-18T17:40:30Z",
+            "content": "Elon Musk suffered the worst defeat possible in his legal battle against OpenAI as a federal jury and a judge ruled he waited too long to bring his claims against the AI startup and its top executive\u2026 [+2873 chars]"
         }
     ]
 }
