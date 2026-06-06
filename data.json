@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-06 17:07:43 UTC",
+    "updated": "2026-06-06 19:15:41 UTC",
     "news": [
         {
             "title": "Private analytics via zero-trust aggregation",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Scikit-LLM vs. Traditional Text Classifiers: When Should You Use an LLM?",
+            "description": "[MACHINELEARNINGMASTERY] In recent years, generative AI models like LLMs (large language models) have gradually taken over classical machine learning ones for addressing certain tasks, for instance, text classification .",
+            "url": "https://machinelearningmastery.com/scikit-llm-vs-traditional-text-classifiers-when-should-you-use-an-llm/"
         },
         {
             "title": "A New Era of Discovery: Google Research at I/O 2026",
@@ -22,14 +22,19 @@
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
         },
         {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
-        },
-        {
             "title": "Towards passive heart health monitoring via smartphone camera",
             "description": "[RESEARCH] Health & Bioscience",
             "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/"
+        },
+        {
+            "title": "Using Scikit-LLM with Open-Source LLMs",
+            "description": "[MACHINELEARNINGMASTERY] This article will teach you how to perform a language task like text classification by integrating locally hosted large language models (LLMs) of manageable size, like Mistral, Gemma, and Llama 3:...",
+            "url": "https://machinelearningmastery.com/using-scikit-llm-with-open-source-llms/"
+        },
+        {
+            "title": "Serving Multiple Users at Once: How Continuous Batching Keeps LLM Inference Efficient",
+            "description": "[MACHINELEARNINGMASTERY] This article is divided into four parts; they are: \u2022 The Problem with Static Batching \u2022 Code Example of Static Batching \u2022 Continuous Batching: Dynamic Scheduling and Ragged Batching \u2022 Full...",
+            "url": "https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,14 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+            "title": "The Roadmap for Mastering LLMOps in 2026",
+            "description": "[MACHINELEARNINGMASTERY] The LLMOps market is projected to grow from <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-for-mastering-llmops-in-2026/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -62,19 +62,39 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
-        },
-        {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
             "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
             "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
         },
         {
+            "title": "Building Semantic Search with Transformers.js and Sentence Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You've probably shipped this bug before, where a user types \" affordable laptop \" into your search bar and gets zero results.",
+            "url": "https://machinelearningmastery.com/building-semantic-search-with-transformers-js-and-sentence-embeddings/"
+        },
+        {
             "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform\u2019s Agentic RAG",
             "description": "[RESEARCH] Data Management",
             "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/"
+        },
+        {
+            "title": "David Sacks Rips Bernie Sanders' 50% AI Ownership Plan, Warns It Could Lead To China's 'CCP-Style' Social",
+            "description": "[BENZINGA] David Sacks said Bernie Sanders' AI ownership plan could lead to dangerous government-controlled artificial intelligence systems.",
+            "url": "https://www.benzinga.com/markets/tech/26/06/53046277/david-sacks-rips-bernie-sanders-50-ai-ownership-plan-warns-it-could-lead-to-chinas-ccp-style-social-credit-system-i-can-see-why"
+        },
+        {
+            "title": "'Unacceptable': India condemns 'indecorous behaviour' at CJI Surya Kant's lecture at London University",
+            "description": "[MONEYCONTROL] Chief Justice of India Suryakant went to the University of London to deliver a lecture on \u201cArtificial Intelligence and International Law",
+            "url": "https://www.moneycontrol.com/news/india/unacceptable-india-condemns-indecorous-behaviour-at-cji-surya-kant-s-lecture-at-london-university-13942614.html"
+        },
+        {
+            "title": "Meta AI Boss Drops \"Health-First' Bombshell In Battle With OpenAI, Google And Anthropic",
+            "description": "[NDTV.COM] Meta's top AI leader Alexandr Wang has said the company's future AI models will stand out by focusing strongly on health-related capabilities. The move signals a strategic shift as Meta competes with...",
+            "url": "https://www.ndtv.com/feature/alexandr-wang-meta-ai-boss-drops-health-first-bombshell-in-battle-with-openai-google-and-anthropic-11598960"
+        },
+        {
+            "title": "Microsoft CEO Satya Nadella Reveals He Uses 100 AI Agents, Says They Need Rules And Oversight",
+            "description": "[TIMES NOW] Artificial intelligence is evolving from basic chatbots to essential tools in various workplaces, handling tasks like coding and data analysis., Technology & Science, Times Now",
+            "url": "https://www.timesnownews.com/technology-science/microsoft-ceo-satya-nadella-reveals-he-uses-100-ai-agents-says-they-need-rules-and-oversight-article-154473740"
         },
         {
             "title": "Trump says to meet AI firms on government stake",
@@ -105,26 +125,6 @@
             "title": "Researchers identify hidden self-harm histories using machine learning",
             "description": "[NEWS-MEDICAL.NET] Important mental health history is often present in medical records but hard to find, especially when it is missing from the diagnosis codes that clinicians, researchers and health systems use to...",
             "url": "https://www.news-medical.net/news/20260605/Researchers-identify-hidden-self-harm-histories-using-machine-learning.aspx"
-        },
-        {
-            "title": "As US-China tech race moves to talent, change in America's immigration policy may make it 'troubling' for Apple, Google, OpenAI, Microsoft and other top tech companies",
-            "description": "[TIMES OF INDIA] Tech News News: The AI race between the US and China has entered a new phase, shifting from a battle over microchips to a war for top artificial intelligence (AI) tal.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-us-china-tech-race-moves-to-talent-change-in-americas-immigration-policy-may-make-it-troubling-for-apple-google-openai-microsoft-and-other-top-tech-companies/articleshow/131543621.cms"
-        },
-        {
-            "title": "TVET students to undergo training in emerging sectors, says PM",
-            "description": "[THE STAR] PUTRAJAYA: Technical and Vocational Education and Training (TVET) students will undergo additional training in emerging sectors such as Artificial Intelligence (AI) and energy transition, Prime...",
-            "url": "https://www.thestar.com.my/news/nation/2026/06/06/tvet-students-to-undergo-training-in-emerging-sectors-says-pm"
-        },
-        {
-            "title": "Scientists map more than 200 years of nature's progress",
-            "description": "[PHYS.ORG] Armed with trail cameras, artificial intelligence, and a powerful national research network, scientists are revisiting Lewis and Clark's legendary journey to see how America's wildlife has changed...",
-            "url": "https://phys.org/news/2026-06-scientists-years-nature.html"
-        },
-        {
-            "title": "Companies push employees to use AI - just not too much",
-            "description": "[THE STAR] Big companies are goading workers to start using AI. Or they're gatekeeping access to it. The stance is evolving as corporate employers waffle between justifying their investments in artificial...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/06/companies-push-employees-to-use-ai--just-not-too-much"
         }
     ]
 }
