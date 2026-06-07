@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-07 07:51:14 UTC",
+    "updated": "2026-06-07 10:25:11 UTC",
     "news": [
         {
             "title": "Private analytics via zero-trust aggregation",
@@ -7,14 +7,24 @@
             "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
         },
         {
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+        },
+        {
             "title": "The next chapter in flood resilience: Open sourcing Google\u2019s hydrology framework",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
         },
         {
-            "title": "Scikit-LLM vs. Traditional Text Classifiers: When Should You Use an LLM?",
-            "description": "[MACHINELEARNINGMASTERY] In recent years, generative AI models like LLMs (large language models) have gradually taken over classical machine learning ones for addressing certain tasks, for instance, text classification .",
-            "url": "https://machinelearningmastery.com/scikit-llm-vs-traditional-text-classifiers-when-should-you-use-an-llm/"
+            "title": "Prompt Engineering for Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
+            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
+        },
+        {
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
         },
         {
             "title": "A New Era of Discovery: Google Research at I/O 2026",
@@ -25,16 +35,6 @@
             "title": "Towards passive heart health monitoring via smartphone camera",
             "description": "[RESEARCH] Health & Bioscience",
             "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/"
-        },
-        {
-            "title": "Using Scikit-LLM with Open-Source LLMs",
-            "description": "[MACHINELEARNINGMASTERY] This article will teach you how to perform a language task like text classification by integrating locally hosted large language models (LLMs) of manageable size, like Mistral, Gemma, and Llama 3:...",
-            "url": "https://machinelearningmastery.com/using-scikit-llm-with-open-source-llms/"
-        },
-        {
-            "title": "Serving Multiple Users at Once: How Continuous Batching Keeps LLM Inference Efficient",
-            "description": "[MACHINELEARNINGMASTERY] This article is divided into four parts; they are: \u2022 The Problem with Static Batching \u2022 Code Example of Static Batching \u2022 Continuous Batching: Dynamic Scheduling and Ragged Batching \u2022 Full...",
-            "url": "https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,9 +52,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "The Roadmap for Mastering LLMOps in 2026",
-            "description": "[MACHINELEARNINGMASTERY] The LLMOps market is projected to grow from <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-for-mastering-llmops-in-2026/"
+            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
+            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
+            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
+        },
+        {
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -67,14 +72,44 @@
             "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
         },
         {
-            "title": "Building Semantic Search with Transformers.js and Sentence Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You've probably shipped this bug before, where a user types \" affordable laptop \" into your search bar and gets zero results.",
-            "url": "https://machinelearningmastery.com/building-semantic-search-with-transformers-js-and-sentence-embeddings/"
-        },
-        {
             "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform\u2019s Agentic RAG",
             "description": "[RESEARCH] Data Management",
             "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/"
+        },
+        {
+            "title": "Who Is Sriram Krishnan? Donald Trump\u2019s AI Advisor To Quit Key White House Post",
+            "description": "[NEWSX] Sriram Krishnan will step down as a senior White House AI policy adviser at the end of June. His departure comes as the Trump administration advances new artificial intelligence policies and...",
+            "url": "https://www.newsx.com/world/who-is-sriram-krishnan-donald-trumps-ai-advisor-to-quit-key-white-house-post-231238/"
+        },
+        {
+            "title": "'This is herculean:' How Alberta, B.C. Mounties are using AI to write reports",
+            "description": "[CHEK NEWS] Mounties are testing a program that could eventually see criminal defendants battle a new opponent in court \u2014 artificial intelligence.",
+            "url": "https://cheknews.ca/this-is-herculean-how-alberta-b-c-mounties-are-using-ai-to-write-reports-1329140/"
+        },
+        {
+            "title": "Researchers develop world's first AI for objective pain assessment",
+            "description": "[MEDICAL XPRESS] A research team has developed technology that uses artificial intelligence to analyze electroencephalogram signals triggered by thermal stimuli and objectively classify pain intensity. The study is...",
+            "url": "https://medicalxpress.com/news/2026-06-world-ai-pain.html"
+        },
+        {
+            "title": "AI fever spreads, but are markets masking economic cracks?",
+            "description": "[JAPAN TODAY] SpaceX's record-smashing IPO plan shows investors are eager to keep pouring money into all things AI, even as alarm bells ring for the wider economy. And that has analysts wondering: Where will the...",
+            "url": "https://japantoday.com/category/business/ai-fever-spreads-but-are-markets-masking-economic-cracks"
+        },
+        {
+            "title": "Energy, water use and pollution of AI and data centers rival most countries",
+            "description": "[JAPAN TODAY] The environmental footprint of data centers already rivals some of the world's largest countries, according to a United Nations University report, which also predicts their water and energy use and...",
+            "url": "https://japantoday.com/category/tech/un-calculates-nation-sized-environmental-footprints-for-ai-and-data-centers"
+        },
+        {
+            "title": "Never Do These 12 Things On Your Gaming PC",
+            "description": "[BGR] With the artificial intelligence boom pushing component costs sky-high, keeping your PC at peak performance for longer is more important than ever.",
+            "url": "https://www.bgr.com/2184585/things-you-should-never-do-gaming-pc/"
+        },
+        {
+            "title": "'Complete hypocrite:' Mamdani-backed Congress candidate slams billionaires and AI industry while raking in their cash",
+            "description": "[NEW YORK POST] A Queens pol running for Congress backed by NYC Mayor Zohran Mamdani and the rest of the Democratic Socialists of America has railed against billionaires and the artificial intelligence industry \u2013...",
+            "url": "https://nypost.com/2026/06/06/us-news/complete-hypocrite-mamdani-backed-congress-candidate-slams-billionaires-and-ai-industry-while-raking-in-their-cash/"
         },
         {
             "title": "How Alberta, B.C. Mounties are using AI to write reports",
@@ -90,41 +125,6 @@
             "title": "Gen Z mentors flip the corporate learning script",
             "description": "[THE ECONOMIC TIMES] Indian companies are embracing reverse mentoring and cross-generational learning. This trend helps employees adapt to artificial intelligence. Younger colleagues teach seniors about AI tools like...",
             "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms"
-        },
-        {
-            "title": "Elon Musk To Attend ASML's Private Tech Event To Discuss Terafab Project",
-            "description": "[NDTV PROFIT] ASML invited Musk to speak to employees about Terafab, a SpaceX-Tesla joint venture to produce cutting-edge chips for robotics, artificial intelligence and space data centers.",
-            "url": "https://www.ndtvprofit.com/technology/elon-musk-to-attend-asmls-private-tech-event-to-discuss-terafab-project-11601368"
-        },
-        {
-            "title": "White House AI policy adviser Krishnan to leave position",
-            "description": "[MARKETSCREENER] White House artificial intelligence policy adviser Sriram Krishnan on Saturday said he will leave his position at the end of June, marking the exit of a leading figure helping craft policies for......",
-            "url": "https://www.marketscreener.com/news/white-house-ai-policy-adviser-krishnan-to-leave-position-ce7f5dd2dd89f023"
-        },
-        {
-            "title": "No AI used to prepare White Paper, only 'human intelligence': Kerala minister Joseph",
-            "description": "[THE ECONOMIC TIMES] Kerala Electricity Minister Sunny Joseph has refuted claims that Artificial Intelligence was used to create the state's financial White Paper. He stated the document was prepared using human...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/no-ai-used-to-prepare-white-paper-only-human-intelligence-kerala-minister-joseph/articleshow/131556140.cms"
-        },
-        {
-            "title": "Trump Signs Order for Government Reviews of Advanced AI Models Before Release",
-            "description": "[NATURAL NEWS] President Donald Trump signed an executive order on June 2 requiring certain artificial intelligence (AI) companies to voluntarily submit their most advanced frontier models to the federal government...",
-            "url": "https://www.naturalnews.com/2026-06-06-trump-signs-order-government-reviews-ai-models.html"
-        },
-        {
-            "title": "White House AI policy adviser Krishnan to leave position",
-            "description": "[REUTERS] White House artificial intelligence policy adviser \u200bSriram Krishnan on Saturday said he will leave \u200chis position at the end of June, marking the exit of a leading figure \u200bhelping craft policies for...",
-            "url": "https://www.reuters.com/world/us/white-house-ai-policy-adviser-krishnan-leave-position-information-reports-2026-06-06/"
-        },
-        {
-            "title": "Synology unveils private AI, cyber-resilience roadmap at Computex 2026",
-            "description": "[THE MANILA TIMES] TAIWANESE technology company Synology unveiled a roadmap for private artificial intelligence infrastructure and AI-powered cyber-resilience tools at Computex 2026, positioning the company beyond its...",
-            "url": "https://www.manilatimes.net/2026/06/07/business/sunday-business-it/synology-unveils-private-ai-cyber-resilience-roadmap-at-computex-2026/2360054"
-        },
-        {
-            "title": "The pope\u2019s AI vision and its limits",
-            "description": "[THE MANILA TIMES] MELBOURNE, Australia \u2014 Pope Leo XIV deserves great credit for making artificial intelligence (AI) the topic of his first encyclical, \u201cMagnifica Humanitas\u201d (Magnificent Humanity). The world is...",
-            "url": "https://www.manilatimes.net/2026/06/07/opinion/contributors/the-popes-ai-vision-and-its-limits/2360009"
         }
     ]
 }
