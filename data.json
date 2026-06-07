@@ -1,130 +1,46 @@
 {
-    "updated": "2026-06-07 10:25:11 UTC",
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-06-07 13:03 UTC",
     "news": [
         {
-            "title": "Private analytics via zero-trust aggregation",
-            "description": "[RESEARCH] Security, Privacy and Abuse Prevention",
-            "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Siri\u2019s Total Chatbot Makeover Is Imminent With iOS 27",
+            "description": "Android isn't the only OS leaning into agentic AI.",
+            "url": "https://gizmodo.com/siri-total-chatbot-makeover-is-imminent-with-ios-27-2000757747",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/A1A9528-1200x675.jpg",
+            "publishedAt": "2026-05-12T22:15:29Z",
+            "content": "It\u2019s been nearly two years since Apple promised an AI-supercharged Siri, but if a new report is any indication, that transformation is finally upon us. According to Bloomberg\u2019s Mark Gurman, there are\u2026 [+2195 chars]"
         },
         {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
+            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
+            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
+            "publishedAt": "2026-05-20T19:02:47Z",
+            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
         },
         {
-            "title": "The next chapter in flood resilience: Open sourcing Google\u2019s hydrology framework",
-            "description": "[RESEARCH] Climate & Sustainability",
-            "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
-        },
-        {
-            "title": "Prompt Engineering for Agentic AI",
-            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
-            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
-        },
-        {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
-        },
-        {
-            "title": "A New Era of Discovery: Google Research at I/O 2026",
-            "description": "[RESEARCH] General Science",
-            "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
-        },
-        {
-            "title": "Towards passive heart health monitoring via smartphone camera",
-            "description": "[RESEARCH] Health & Bioscience",
-            "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/"
-        },
-        {
-            "title": "Information-Driven Design of Imaging Systems",
-            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
-            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
-        },
-        {
-            "title": "RL without TD learning",
-            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
-            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
-        },
-        {
-            "title": "Gradient-based Planning for World Models at Longer Horizons",
-            "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
-            "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
-            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
-            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
-        },
-        {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
-            "title": "Identifying Interactions at Scale for LLMs",
-            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
-            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
-            "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
-            "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
-        },
-        {
-            "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform\u2019s Agentic RAG",
-            "description": "[RESEARCH] Data Management",
-            "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/"
-        },
-        {
-            "title": "Who Is Sriram Krishnan? Donald Trump\u2019s AI Advisor To Quit Key White House Post",
-            "description": "[NEWSX] Sriram Krishnan will step down as a senior White House AI policy adviser at the end of June. His departure comes as the Trump administration advances new artificial intelligence policies and...",
-            "url": "https://www.newsx.com/world/who-is-sriram-krishnan-donald-trumps-ai-advisor-to-quit-key-white-house-post-231238/"
-        },
-        {
-            "title": "'This is herculean:' How Alberta, B.C. Mounties are using AI to write reports",
-            "description": "[CHEK NEWS] Mounties are testing a program that could eventually see criminal defendants battle a new opponent in court \u2014 artificial intelligence.",
-            "url": "https://cheknews.ca/this-is-herculean-how-alberta-b-c-mounties-are-using-ai-to-write-reports-1329140/"
-        },
-        {
-            "title": "Researchers develop world's first AI for objective pain assessment",
-            "description": "[MEDICAL XPRESS] A research team has developed technology that uses artificial intelligence to analyze electroencephalogram signals triggered by thermal stimuli and objectively classify pain intensity. The study is...",
-            "url": "https://medicalxpress.com/news/2026-06-world-ai-pain.html"
-        },
-        {
-            "title": "AI fever spreads, but are markets masking economic cracks?",
-            "description": "[JAPAN TODAY] SpaceX's record-smashing IPO plan shows investors are eager to keep pouring money into all things AI, even as alarm bells ring for the wider economy. And that has analysts wondering: Where will the...",
-            "url": "https://japantoday.com/category/business/ai-fever-spreads-but-are-markets-masking-economic-cracks"
-        },
-        {
-            "title": "Energy, water use and pollution of AI and data centers rival most countries",
-            "description": "[JAPAN TODAY] The environmental footprint of data centers already rivals some of the world's largest countries, according to a United Nations University report, which also predicts their water and energy use and...",
-            "url": "https://japantoday.com/category/tech/un-calculates-nation-sized-environmental-footprints-for-ai-and-data-centers"
-        },
-        {
-            "title": "Never Do These 12 Things On Your Gaming PC",
-            "description": "[BGR] With the artificial intelligence boom pushing component costs sky-high, keeping your PC at peak performance for longer is more important than ever.",
-            "url": "https://www.bgr.com/2184585/things-you-should-never-do-gaming-pc/"
-        },
-        {
-            "title": "'Complete hypocrite:' Mamdani-backed Congress candidate slams billionaires and AI industry while raking in their cash",
-            "description": "[NEW YORK POST] A Queens pol running for Congress backed by NYC Mayor Zohran Mamdani and the rest of the Democratic Socialists of America has railed against billionaires and the artificial intelligence industry \u2013...",
-            "url": "https://nypost.com/2026/06/06/us-news/complete-hypocrite-mamdani-backed-congress-candidate-slams-billionaires-and-ai-industry-while-raking-in-their-cash/"
-        },
-        {
-            "title": "How Alberta, B.C. Mounties are using AI to write reports",
-            "description": "[CP24 TORONTO] Mounties are testing a program that could eventually see criminal defendants battle a new opponent in court \u2014 artificial intelligence.",
-            "url": "https://www.cp24.com/news/canada/2026/06/06/this-is-herculean-how-alberta-bc-mounties-are-using-ai-to-write-reports/"
-        },
-        {
-            "title": "Trump's AI policy adviser Sriram Krishnan to step down",
-            "description": "[INDIA TODAY] Sriram Krishnan said he will leave his White House artificial intelligence policy role at the end of June. His departure comes as Washington pushes a national AI framework and voluntary cybersecurity...",
-            "url": "https://www.indiatoday.in/world/us-news/story/sriram-krishnan-white-house-ai-adviser-leaves-june-us-ai-security-testing-2923049-2026-06-06"
-        },
-        {
-            "title": "Gen Z mentors flip the corporate learning script",
-            "description": "[THE ECONOMIC TIMES] Indian companies are embracing reverse mentoring and cross-generational learning. This trend helps employees adapt to artificial intelligence. Younger colleagues teach seniors about AI tools like...",
-            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms"
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paresh Dave, Maxwell Zeff",
+            "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+            "description": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
+            "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+            "urlToImage": "https://media.wired.com/photos/6a07b49c3e66727feabf05fc/191:100/w_1280,c_limit/Model-Behavior-Altman-v-Musk-Verdict-Business.jpg",
+            "publishedAt": "2026-05-18T17:40:30Z",
+            "content": "Elon Musk suffered the worst defeat possible in his legal battle against OpenAI as a federal jury and a judge ruled he waited too long to bring his claims against the AI startup and its top executive\u2026 [+2873 chars]"
         }
     ]
 }
