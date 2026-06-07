@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-07 03:30:10 UTC",
+    "updated": "2026-06-07 07:51:14 UTC",
     "news": [
         {
             "title": "Private analytics via zero-trust aggregation",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Scikit-LLM vs. Traditional Text Classifiers: When Should You Use an LLM?",
+            "description": "[MACHINELEARNINGMASTERY] In recent years, generative AI models like LLMs (large language models) have gradually taken over classical machine learning ones for addressing certain tasks, for instance, text classification .",
+            "url": "https://machinelearningmastery.com/scikit-llm-vs-traditional-text-classifiers-when-should-you-use-an-llm/"
         },
         {
             "title": "A New Era of Discovery: Google Research at I/O 2026",
@@ -22,14 +22,19 @@
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
         },
         {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
-        },
-        {
             "title": "Towards passive heart health monitoring via smartphone camera",
             "description": "[RESEARCH] Health & Bioscience",
             "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/"
+        },
+        {
+            "title": "Using Scikit-LLM with Open-Source LLMs",
+            "description": "[MACHINELEARNINGMASTERY] This article will teach you how to perform a language task like text classification by integrating locally hosted large language models (LLMs) of manageable size, like Mistral, Gemma, and Llama 3:...",
+            "url": "https://machinelearningmastery.com/using-scikit-llm-with-open-source-llms/"
+        },
+        {
+            "title": "Serving Multiple Users at Once: How Continuous Batching Keeps LLM Inference Efficient",
+            "description": "[MACHINELEARNINGMASTERY] This article is divided into four parts; they are: \u2022 The Problem with Static Batching \u2022 Code Example of Static Batching \u2022 Continuous Batching: Dynamic Scheduling and Ragged Batching \u2022 Full...",
+            "url": "https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,14 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+            "title": "The Roadmap for Mastering LLMOps in 2026",
+            "description": "[MACHINELEARNINGMASTERY] The LLMOps market is projected to grow from <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-for-mastering-llmops-in-2026/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -62,14 +62,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
-        },
-        {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
             "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
             "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
+        },
+        {
+            "title": "Building Semantic Search with Transformers.js and Sentence Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You've probably shipped this bug before, where a user types \" affordable laptop \" into your search bar and gets zero results.",
+            "url": "https://machinelearningmastery.com/building-semantic-search-with-transformers-js-and-sentence-embeddings/"
         },
         {
             "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform\u2019s Agentic RAG",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/"
         },
         {
-            "title": "Where The \u201cBoring\u201d Asset Class Crowd Meets AI In 2026",
-            "description": "[FORBES] A guide to the 2026 conferences where investors in fixed income, securitized credit, municipal bonds, private credit and cash are working out what artificial intelligence actually changes.",
-            "url": "https://www.forbes.com/sites/daraabasiita/2026/06/06/where-the-boring-asset-class-crowd-meets-ai-in-2026/"
+            "title": "How Alberta, B.C. Mounties are using AI to write reports",
+            "description": "[CP24 TORONTO] Mounties are testing a program that could eventually see criminal defendants battle a new opponent in court \u2014 artificial intelligence.",
+            "url": "https://www.cp24.com/news/canada/2026/06/06/this-is-herculean-how-alberta-bc-mounties-are-using-ai-to-write-reports/"
         },
         {
-            "title": "Biocon Academy introduces three new programmes",
-            "description": "[THE HINDU] Biocon Academy, a Centre of Excellence for Advanced Learning in Applied Biosciences, hosted its 10th graduation ceremony at its Bengaluru campus, with 156 students graduating this year. Seven...",
-            "url": "https://www.thehindu.com/news/national/karnataka/biocon-academy-introduces-three-new-programmes/article71070144.ece"
+            "title": "Trump's AI policy adviser Sriram Krishnan to step down",
+            "description": "[INDIA TODAY] Sriram Krishnan said he will leave his White House artificial intelligence policy role at the end of June. His departure comes as Washington pushes a national AI framework and voluntary cybersecurity...",
+            "url": "https://www.indiatoday.in/world/us-news/story/sriram-krishnan-white-house-ai-adviser-leaves-june-us-ai-security-testing-2923049-2026-06-06"
         },
         {
-            "title": "AI predicts Ethereum price for end of June",
-            "description": "[FINBOLD] Ethereum (ETH) could finish June 2026 at around $2,225, according to an analysis by an artificial intelligence model.",
-            "url": "https://finbold.com/ai-predicts-ethereum-price-for-end-of-june/"
+            "title": "Gen Z mentors flip the corporate learning script",
+            "description": "[THE ECONOMIC TIMES] Indian companies are embracing reverse mentoring and cross-generational learning. This trend helps employees adapt to artificial intelligence. Younger colleagues teach seniors about AI tools like...",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms"
         },
         {
-            "title": "World Cup poses an unprecedented security challenge at a fraught moment",
-            "description": "[TSN (THE SPORTS NETWORK)] The World Cup comes against the backdrop of the U.S. and Israel\u2019s war with Iran, mounting political violence in President Donald Trump\u2019s orbit and growing fears of artificial intelligence-fueled...",
-            "url": "https://www.tsn.ca/soccer/fifa-world-cup/article/world-cup-poses-an-unprecedented-security-challenge-at-a-fraught-moment/"
+            "title": "Elon Musk To Attend ASML's Private Tech Event To Discuss Terafab Project",
+            "description": "[NDTV PROFIT] ASML invited Musk to speak to employees about Terafab, a SpaceX-Tesla joint venture to produce cutting-edge chips for robotics, artificial intelligence and space data centers.",
+            "url": "https://www.ndtvprofit.com/technology/elon-musk-to-attend-asmls-private-tech-event-to-discuss-terafab-project-11601368"
         },
         {
-            "title": "Adopting artificial intelligence, machine learning become a necessity in health sciences: V-C of BLDE Deemed University",
-            "description": "[THE HINDU] BLDE Deemed University's Vice-Chancellor emphasizes the necessity of AI and machine learning in health sciences for students' futures.",
-            "url": "https://www.thehindu.com/news/national/karnataka/adopting-artificial-intelligence-machine-learning-become-a-necessity-in-health-sciences-v-c-of-blde-deemed-university/article71069740.ece"
+            "title": "White House AI policy adviser Krishnan to leave position",
+            "description": "[MARKETSCREENER] White House artificial intelligence policy adviser Sriram Krishnan on Saturday said he will leave his position at the end of June, marking the exit of a leading figure helping craft policies for......",
+            "url": "https://www.marketscreener.com/news/white-house-ai-policy-adviser-krishnan-to-leave-position-ce7f5dd2dd89f023"
         },
         {
-            "title": "Trump Orders Faster Military AI Adoption, Stresses Human Oversight and Civil Liberties",
-            "description": "[TIMES NOW] President Trump has mandated an accelerated integration of artificial intelligence (AI) within U.S. military and national security agencies, while emphasizing the importance of civil liberties and...",
-            "url": "https://www.timesnownews.com/world/us/us-news/trump-orders-faster-military-ai-adoption-stresses-human-oversight-and-civil-liberties-article-154480300"
+            "title": "No AI used to prepare White Paper, only 'human intelligence': Kerala minister Joseph",
+            "description": "[THE ECONOMIC TIMES] Kerala Electricity Minister Sunny Joseph has refuted claims that Artificial Intelligence was used to create the state's financial White Paper. He stated the document was prepared using human...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/no-ai-used-to-prepare-white-paper-only-human-intelligence-kerala-minister-joseph/articleshow/131556140.cms"
         },
         {
-            "title": "The World Cup poses an unprecedented security challenge at a fraught moment. Is the US ready?",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] The upcoming World Cup will feature 48 teams and 104 matches across the United, Mexico, and Canada. It also presents a massive security challenge. The World Cup involves more countries and games than...",
-            "url": "https://www.ajc.com/news/2026/06/the-world-cup-poses-an-unprecedented-security-challenge-at-a-fraught-moment-is-the-us-ready/"
+            "title": "Trump Signs Order for Government Reviews of Advanced AI Models Before Release",
+            "description": "[NATURAL NEWS] President Donald Trump signed an executive order on June 2 requiring certain artificial intelligence (AI) companies to voluntarily submit their most advanced frontier models to the federal government...",
+            "url": "https://www.naturalnews.com/2026-06-06-trump-signs-order-government-reviews-ai-models.html"
         },
         {
-            "title": "Trump signs AI memo addressing issues in Anthropic",
-            "description": "[THE ECONOMIC TIMES] US national security agencies are now required to work with multiple artificial intelligence providers. This directive follows a dispute with Anthropic PBC. Agencies must avoid companies that...",
-            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-signs-ai-memo-addressing-issues-in-anthropic-pentagon-feud/articleshow/131552573.cms"
+            "title": "White House AI policy adviser Krishnan to leave position",
+            "description": "[REUTERS] White House artificial intelligence policy adviser \u200bSriram Krishnan on Saturday said he will leave \u200chis position at the end of June, marking the exit of a leading figure \u200bhelping craft policies for...",
+            "url": "https://www.reuters.com/world/us/white-house-ai-policy-adviser-krishnan-leave-position-information-reports-2026-06-06/"
         },
         {
-            "title": "'Using Too Much AI Is Like A Porn Addiction,' Says Palantir CEO Alex Karp",
-            "description": "[TIMES NOW] Artificial intelligence has gained immense popularity in the corporate sector, with companies investing heavily in AI tools and tracking employee usage. , Technology & Science, Times Now",
-            "url": "https://www.timesnownews.com/technology-science/using-too-much-ai-is-like-a-porn-addiction-says-palantir-ceo-alex-karp-article-154479872"
+            "title": "Synology unveils private AI, cyber-resilience roadmap at Computex 2026",
+            "description": "[THE MANILA TIMES] TAIWANESE technology company Synology unveiled a roadmap for private artificial intelligence infrastructure and AI-powered cyber-resilience tools at Computex 2026, positioning the company beyond its...",
+            "url": "https://www.manilatimes.net/2026/06/07/business/sunday-business-it/synology-unveils-private-ai-cyber-resilience-roadmap-at-computex-2026/2360054"
         },
         {
-            "title": "New AI road cameras rolled out in England with drivers handed 6 points",
-            "description": "[BIRMINGHAM LIVE] D rivers have shown support for using artificial intelligence cameras to catch road offences.",
-            "url": "https://www.birminghammail.co.uk/motoring/motoring-news/new-ai-road-cameras-rolled-34050756"
+            "title": "The pope\u2019s AI vision and its limits",
+            "description": "[THE MANILA TIMES] MELBOURNE, Australia \u2014 Pope Leo XIV deserves great credit for making artificial intelligence (AI) the topic of his first encyclical, \u201cMagnifica Humanitas\u201d (Magnificent Humanity). The world is...",
+            "url": "https://www.manilatimes.net/2026/06/07/opinion/contributors/the-popes-ai-vision-and-its-limits/2360009"
         }
     ]
 }
