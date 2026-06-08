@@ -1,130 +1,59 @@
 {
-    "updated": "2026-06-08 14:02:51 UTC",
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-06-08 14:55 UTC",
     "news": [
         {
-            "title": "Private analytics via zero-trust aggregation",
-            "description": "[RESEARCH] Security, Privacy and Abuse Prevention",
-            "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Siri\u2019s Total Chatbot Makeover Is Imminent With iOS 27",
+            "description": "Android isn't the only OS leaning into agentic AI.",
+            "url": "https://gizmodo.com/siri-total-chatbot-makeover-is-imminent-with-ios-27-2000757747",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/A1A9528-1200x675.jpg",
+            "publishedAt": "2026-05-12T22:15:29Z",
+            "content": "It\u2019s been nearly two years since Apple promised an AI-supercharged Siri, but if a new report is any indication, that transformation is finally upon us. According to Bloomberg\u2019s Mark Gurman, there are\u2026 [+2195 chars]"
         },
         {
-            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
+            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
+            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
+            "publishedAt": "2026-06-07T09:00:33Z",
+            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
         },
         {
-            "title": "The next chapter in flood resilience: Open sourcing Google\u2019s hydrology framework",
-            "description": "[RESEARCH] Climate & Sustainability",
-            "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
+            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
+            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
+            "publishedAt": "2026-05-20T19:02:47Z",
+            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
         },
         {
-            "title": "LLM Observability Tools for Reliable AI Applications",
-            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
-            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
-        },
-        {
-            "title": "A New Era of Discovery: Google Research at I/O 2026",
-            "description": "[RESEARCH] General Science",
-            "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
-        },
-        {
-            "title": "Towards passive heart health monitoring via smartphone camera",
-            "description": "[RESEARCH] Health & Bioscience",
-            "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/"
-        },
-        {
-            "title": "Information-Driven Design of Imaging Systems",
-            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
-            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
-        },
-        {
-            "title": "RL without TD learning",
-            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
-            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
-        },
-        {
-            "title": "Gradient-based Planning for World Models at Longer Horizons",
-            "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
-            "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
-        },
-        {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
-        },
-        {
-            "title": "Identifying Interactions at Scale for LLMs",
-            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
-            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
-        },
-        {
-            "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
-            "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
-            "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
-        },
-        {
-            "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform\u2019s Agentic RAG",
-            "description": "[RESEARCH] Data Management",
-            "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/"
-        },
-        {
-            "title": "Spencer Pratt falls behind Nithya Raman in LA mayoral race after latest update",
-            "description": "[WASHINGTON EXAMINER] Pratt rose to prominence by running advertisements generated by artificial intelligence and blaming Karen Bass for \u201cburning my house.\u201d",
-            "url": "https://www.washingtonexaminer.com/news/4598565/spencer-pratt-falls-behind-nithya-raman-la-mayoral-race/"
-        },
-        {
-            "title": "The AI dividend: Advancing shared prosperity in Malaysia and China",
-            "description": "[THE STAR] Artificial intelligence (AI) is no longer a distant concept confined to science fiction or research laboratories. Today, it is actively reshaping the global economy, driving productivity, innovation,...",
-            "url": "https://www.thestar.com.my/opinion/columnists/search-scholar-series/2026/06/08/the-ai-dividend-advancing-shared-prosperity-in-malaysia-and-china"
-        },
-        {
-            "title": "AI detects thousands of microquakes outlining subduction zone off Alaska",
-            "description": "[INTERESTING ENGINEERING] A machine-learning analysis has identified around 1,750 previously undetected earthquakes along a 155-mile boundary in southern Alaska.",
-            "url": "https://interestingengineering.com/science/ai-detects-thousands-of-microquakes-alaska"
-        },
-        {
-            "title": "Accenture touts advance of enterprise AI in the region",
-            "description": "[BANGKOK POST] Enterprise artificial intelligence (AI) is leaving the sandbox, shifting from back-end pilots to large-scale, customer-facing deployments.",
-            "url": "https://www.bangkokpost.com/business/general/3267533/accenture-touts-advance-of-enterprise-ai-in-the-region"
-        },
-        {
-            "title": "Asian stocks drop as tech selloff extends, oil up",
-            "description": "[MONEYCONTROL] The Kospi Index in South Korea, the world\u2019s best-performing gauge this year on the back of a rally in artificial-intelligence shares, slumped over 8%.",
-            "url": "https://www.moneycontrol.com/news/business/markets/asian-stocks-drop-as-tech-selloff-extends-oil-up-13943240.html"
-        },
-        {
-            "title": "Here\u2019s how long it will take for AI to reach its potential",
-            "description": "[LIVEMINT] There are plenty of reasons to believe that artificial intelligence will be slower than its biggest boosters believe, but faster than the skeptics say.",
-            "url": "https://www.livemint.com/ai/heres-how-long-it-will-take-for-ai-to-reach-its-potential-11780880207813.html"
-        },
-        {
-            "title": "Korean Stocks Tumble as Investors Rush to Offload Tech Shares",
-            "description": "[LIVEMINT] South Korean stocks dropped, led by steep losses in chipmaker shares on an intensifying rotation out of artificial intelligence beneficiaries.",
-            "url": "https://www.livemint.com/market/korean-stocks-tumble-as-investors-rush-to-offload-tech-shares-11780879175302.html"
-        },
-        {
-            "title": "Korean Stocks Tumble as Investors Rush to Offload Tech Shares",
-            "description": "[FINANCIAL POST] South Korean stocks dropped, led by steep losses in chipmaker shares on an intensifying rotation out of artificial intelligence beneficiaries.",
-            "url": "https://financialpost.com/pmn/business-pmn/korean-stocks-tumble-as-investors-rush-to-offload-tech-shares"
-        },
-        {
-            "title": "Artificial intelligence token bill shock has only just begun",
-            "description": "[AUSTRALIAN FINANCIAL REVIEW] Consumption costs versus changes passed onto customers is a significant problem for all vendors. At some point, each will have to pass on the full expense.",
-            "url": "https://www.afr.com/technology/artificial-intelligence-token-bill-shock-has-only-just-begun-20260607-p604k0"
-        },
-        {
-            "title": "Korean Stocks Plunge as Tech Selloff Triggers Circuit Breaker on Kospi",
-            "description": "[BLOOMBERG] South Korean stocks plunged, imperiling the world\u2019s biggest rally, as investors pulled back from artificial intelligence bets that have fueled the global bull market in equities.",
-            "url": "https://www.bloomberg.com/news/articles/2026-06-08/korean-stocks-tumble-as-investors-rush-to-offload-tech-shares"
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paresh Dave, Maxwell Zeff",
+            "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+            "description": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
+            "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+            "urlToImage": "https://media.wired.com/photos/6a07b49c3e66727feabf05fc/191:100/w_1280,c_limit/Model-Behavior-Altman-v-Musk-Verdict-Business.jpg",
+            "publishedAt": "2026-05-18T17:40:30Z",
+            "content": "Elon Musk suffered the worst defeat possible in his legal battle against OpenAI as a federal jury and a judge ruled he waited too long to bring his claims against the AI startup and its top executive\u2026 [+2873 chars]"
         }
     ]
 }
