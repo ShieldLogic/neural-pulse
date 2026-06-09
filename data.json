@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-09 02:45:39 UTC",
+    "updated": "2026-06-09 07:42:46 UTC",
     "news": [
         {
             "title": "Private analytics via zero-trust aggregation",
@@ -17,6 +17,16 @@
             "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
         },
         {
+            "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
+            "description": "[RESEARCH] General Science",
+            "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/"
+        },
+        {
+            "title": "Prompt Engineering for Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
+            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
+        },
+        {
             "title": "LLM Observability Tools for Reliable AI Applications",
             "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
             "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
@@ -25,16 +35,6 @@
             "title": "A New Era of Discovery: Google Research at I/O 2026",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
-        },
-        {
-            "title": "Towards passive heart health monitoring via smartphone camera",
-            "description": "[RESEARCH] Health & Bioscience",
-            "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -52,6 +52,11 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
+            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
+            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
+        },
+        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
@@ -60,11 +65,6 @@
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/"
         },
         {
-            "title": "Kerala Police Uses Viral AI VIDEO Of Rishabh Pant Knocking Down Drone Camera To Spread 'Privacy' Awareness",
-            "description": "[FREE PRESS JOURNAL] The Kerala Police have used a viral Artificial Intelligence (AI) generated video of Indian wicket-keeper batsman Rishabh Pant to spread awareness about privacy. The viral video shows that Rishabh...",
-            "url": "https://www.freepressjournal.in/sports/kerala-police-uses-viral-ai-video-of-rishabh-pant-knocking-down-drone-camera-to-spread-privacy-awareness"
+            "title": "Apple shares reverse lower after big Siri news. Why we're not bothered",
+            "description": "[CNBC] Apple delivered on what Wall Street was expecting: a complete artificial intelligence overhaul.",
+            "url": "https://www.cnbc.com/2026/06/08/apple-shares-reverse-lower-after-big-siri-news-why-were-not-bothered.html"
         },
         {
-            "title": "Brad Paisley Rips 'Nightmare' Proposed A.I. Data Center Near Nashville Zoo",
-            "description": "[TMZ] Brad Paisley is super pissed about a plan to build an artificial intelligence data center near the Nashville Zoo ... and he's hoping to stop the development.",
-            "url": "https://www.tmz.com/2026/06/08/brad-paisley-protests-proposed-data-center-near-nashville-zoo/"
+            "title": "Instagram hack impacted more than 20,000 users",
+            "description": "[SOCIAL MEDIA TODAY] Meta sent out notifications to the affected users, according to This Week in Security, but the incident highlights larger artificial intelligence vulnerabilities.",
+            "url": "https://www.socialmediatoday.com/news/instagram-hack-impacted-more-than-20000-users/822315/"
         },
         {
-            "title": "Is a new version about to be revealed?",
-            "description": "[CP24 TORONTO] For one of his final major public moments as Apple\u2019s CEO, Tim Cook may give Wall Street something it\u2019s long been waiting for: answers about the company\u2019s artificial intelligence strategy.",
-            "url": "https://www.cp24.com/news/world/2026/06/08/apple-knows-it-has-a-siri-problem-its-about-to-fix-it/"
+            "title": "Apple unveils expanded child safety features ahead of Keir Starmer's 3-month deadline",
+            "description": "[GB NEWS] Apple has just announced an expansion of its child-safety features during WWDC26, the tech firm's annual developer event where it showcases its latest software, Artificial Intelligence (AI) features,...",
+            "url": "https://www.gbnews.com/tech/apple-unveils-child-safety-features-keir-starmer-deadline"
         },
         {
-            "title": "Technology sector\u2019s \u2018hottest companies' lost $1.3 trillion in less than 24 hours: What wiped hundreds of billion dollars from market cap of Nvidia, Micron, Broadcom and other chip stocks",
-            "description": "[TIMES OF INDIA] Tech News News: The artificial intelligence (AI) boom suffered a massive blow as the technology sector\u2019s hottest chip companies saw a staggering $1.3 trillion in mark.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/technology-sectors-hottest-companies-lost-1-3-trillion-in-less-than-24-hours-what-wiped-hundreds-of-billion-dollars-from-market-cap-of-nvidia-micron-broadcom-and-other-chip-stocks/articleshow/131590305.cms"
+            "title": "Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI",
+            "description": "[JAPAN TODAY] It was perhaps a surprising private overture from OpenAI CEO Sam Altman to Sen. Bernie Sanders. The meeting between the two had come just after the Vermont senator announced a plan for the public to...",
+            "url": "https://japantoday.com/category/tech/donald-trump-bernie-sanders-and-sam-altman-are-all-talking-about-public-ownership-in-ai"
         },
         {
-            "title": "Comparing India with Taiwan and South Korea on semiconductors not very accurate: Ashwini Vaishnaw",
-            "description": "[THE TRIBUNE] India may be a relatively new entrant in semiconductor manufacturing compared to Taiwan and South Korea, but widespread adoption of artificial intelligence (AI) across sectors and the next phase of...",
-            "url": "https://www.tribuneindia.com/news/business/comparing-india-with-taiwan-and-south-korea-on-semiconductors-not-very-accurate-ashwini-vaishnaw/"
+            "title": "Apple unveils new AI features with privacy focus at last developers conference with CEO Tim Cook",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Apple unveiled new artificial intelligence features at its annual developers conference beginning Monday, the last one featuring CEO Tim Cook before he turns his post over to John Ternus in...",
+            "url": "https://www.ajc.com/news/2026/06/apple-unveil-new-ai-features-with-privacy-focus-at-last-developers-conference-with-ceo-tim-cook/"
         },
         {
-            "title": "US stock markets today (June 8, 2026): AI stocks rebound push Wall Street into recovery mode, oil prices retreat from overnight highs",
-            "description": "[TIMES OF INDIA] International Business News: Wall Street recovered some ground on Monday as technology and semiconductor stocks linked to the artificial intelligence (AI) boom bounced back from F.",
-            "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-markets-today-june-8-2026-ai-stocks-rebound-push-wall-street-into-recovery-mode-oil-prices-retreat-from-overnight-highs/articleshow/131590246.cms"
+            "title": "Apple Investors Give Lukewarm Reaction to New Siri, AI Platform",
+            "description": "[LIVEMINT] Apple Inc. investors gave a tepid reception to the next generation of its artificial intelligence platform, which is key to the company\u2019s bid to catch up with Silicon Valley peers in a critical...",
+            "url": "https://www.livemint.com/companies/apple-investors-give-lukewarm-reaction-to-new-siri-ai-platform-11780944922524.html"
         },
         {
-            "title": "Schiff Unveils Bill to Restrict Pentagon's Use of AI",
-            "description": "[NEWSMAX] The California Democrat's bill would require meaningful human involvement in decisions involving AI-powered weapons systems and prohibit the use of artificial intelligence for domestic surveillance...",
-            "url": "https://www.newsmax.com/politics/adam-schiff-artificial-intelligence-oversight/2026/06/08/id/1258908/"
+            "title": "Apple unveils new AI features with privacy focus at last developers conference with CEO Tim Cook",
+            "description": "[BARCHART] Apple unveiled new artificial intelligence features at its annual developers conference beginning Monday, the last one featuring CEO Tim Cook before he turns his post over to John Ternus in September",
+            "url": "https://www.barchart.com/story/news/2354916/apple-unveils-new-ai-features-with-privacy-focus-at-last-developers-conference-with-ceo-tim-cook"
         },
         {
-            "title": "Mitratech Legal Sweeps 2026 AI Recognition, Leading in Enterprise-Grade Legal Innovation",
-            "description": "[THE MANILA TIMES] Three Back-to-Back Awards for Artificial Intelligence highlight leadership in agentic AI innovation for legal workflows through ARIES\u2122",
-            "url": "https://www.manilatimes.net/2026/06/08/tmt-newswire/globenewswire/mitratech-legal-sweeps-2026-ai-recognition-leading-in-enterprise-grade-legal-innovation/2360932"
+            "title": "Apple\u2019s iPhone Camera App Is Getting an AI Upgrade in iOS 27",
+            "description": "[WIRED] Siri is now directly embedded into the camera app, and there are more artificial intelligence tools in the Photos app to alter your images.",
+            "url": "https://www.wired.com/story/apples-iphone-camera-app-is-getting-an-ai-upgrade-in-ios-27/"
         },
         {
-            "title": "Ray Dalio sees AI bubble bursting as wealth is converted into money",
-            "description": "[THE ECONOMIC TIMES] Billionaire investor Ray Dalio said the artificial intelligence market is displaying characteristics of a bubble, despite its transformative potential. He noted that major technological revolutions...",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ray-dalio-sees-ai-bubble-bursting-as-wealth-is-converted-into-money/articleshow/131589831.cms"
+            "title": "Apple expected to unveil new AI features at last developers conference with CEO Tim Cook",
+            "description": "[CHICAGO TRIBUNE] Apple is expected to unveil new artificial intelligence features at its annual developers conference beginning Monday, which will be the last one featuring CEO Tim Cook before he turns his post over...",
+            "url": "https://www.chicagotribune.com/2026/06/08/apple-ai-features/"
         },
         {
-            "title": "US stocks claw back some of the ground they lost on Friday",
-            "description": "[BARCHART] Wall Street is recovering a bit from its beat-down from Friday, as stocks swept up in the artificial-intelligence boom bounce back",
-            "url": "https://www.barchart.com/story/news/2349994/us-stocks-claw-back-some-of-the-ground-they-lost-on-friday"
+            "title": "Apple unveils next generation of AI platform",
+            "description": "[FINANCIAL POST] Apple Inc. unveiled the next generation of its artificial intelligence platform, including an update to its Siri digital assistant. Read now",
+            "url": "https://financialpost.com/technology/tech-news/apple-unveils-next-ai-platform-new-siri"
         }
     ]
 }
