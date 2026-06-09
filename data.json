@@ -1,59 +1,130 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-09 13:58 UTC",
+    "updated": "2026-06-09 14:40:55 UTC",
     "news": [
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Siri\u2019s Total Chatbot Makeover Is Imminent With iOS 27",
-            "description": "Android isn't the only OS leaning into agentic AI.",
-            "url": "https://gizmodo.com/siri-total-chatbot-makeover-is-imminent-with-ios-27-2000757747",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/A1A9528-1200x675.jpg",
-            "publishedAt": "2026-05-12T22:15:29Z",
-            "content": "It\u2019s been nearly two years since Apple promised an AI-supercharged Siri, but if a new report is any indication, that transformation is finally upon us. According to Bloomberg\u2019s Mark Gurman, there are\u2026 [+2195 chars]"
+            "title": "Private analytics via zero-trust aggregation",
+            "description": "[RESEARCH] Security, Privacy and Abuse Prevention",
+            "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
+            "title": "The next chapter in flood resilience: Open sourcing Google\u2019s hydrology framework",
+            "description": "[RESEARCH] Climate & Sustainability",
+            "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
-            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
-            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
-            "publishedAt": "2026-05-20T19:02:47Z",
-            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
+            "title": "Scikit-LLM vs. Traditional Text Classifiers: When Should You Use an LLM?",
+            "description": "[MACHINELEARNINGMASTERY] In recent years, generative AI models like LLMs (large language models) have gradually taken over classical machine learning ones for addressing certain tasks, for instance, text classification .",
+            "url": "https://machinelearningmastery.com/scikit-llm-vs-traditional-text-classifiers-when-should-you-use-an-llm/"
         },
         {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Paresh Dave, Maxwell Zeff",
-            "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-            "description": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
-            "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
-            "urlToImage": "https://media.wired.com/photos/6a07b49c3e66727feabf05fc/191:100/w_1280,c_limit/Model-Behavior-Altman-v-Musk-Verdict-Business.jpg",
-            "publishedAt": "2026-05-18T17:40:30Z",
-            "content": "Elon Musk suffered the worst defeat possible in his legal battle against OpenAI as a federal jury and a judge ruled he waited too long to bring his claims against the AI startup and its top executive\u2026 [+2873 chars]"
+            "title": "A New Era of Discovery: Google Research at I/O 2026",
+            "description": "[RESEARCH] General Science",
+            "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
+        },
+        {
+            "title": "Towards passive heart health monitoring via smartphone camera",
+            "description": "[RESEARCH] Health & Bioscience",
+            "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/"
+        },
+        {
+            "title": "Using Scikit-LLM with Open-Source LLMs",
+            "description": "[MACHINELEARNINGMASTERY] This article will teach you how to perform a language task like text classification by integrating locally hosted large language models (LLMs) of manageable size, like Mistral, Gemma, and Llama 3:...",
+            "url": "https://machinelearningmastery.com/using-scikit-llm-with-open-source-llms/"
+        },
+        {
+            "title": "Serving Multiple Users at Once: How Continuous Batching Keeps LLM Inference Efficient",
+            "description": "[MACHINELEARNINGMASTERY] This article is divided into four parts; they are: \u2022 The Problem with Static Batching \u2022 Code Example of Static Batching \u2022 Continuous Batching: Dynamic Scheduling and Ragged Batching \u2022 Full...",
+            "url": "https://machinelearningmastery.com/serving-multiple-users-at-once-how-continuous-batching-keeps-llm-inference-efficient/"
+        },
+        {
+            "title": "Information-Driven Design of Imaging Systems",
+            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
+            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
+        },
+        {
+            "title": "RL without TD learning",
+            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
+            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
+        },
+        {
+            "title": "Gradient-based Planning for World Models at Longer Horizons",
+            "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
+            "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "The Roadmap for Mastering LLMOps in 2026",
+            "description": "[MACHINELEARNINGMASTERY] The LLMOps market is projected to grow from <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-for-mastering-llmops-in-2026/"
+        },
+        {
+            "title": "Identifying Interactions at Scale for LLMs",
+            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
+            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
+            "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
+            "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
+        },
+        {
+            "title": "Building Semantic Search with Transformers.js and Sentence Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You've probably shipped this bug before, where a user types \" affordable laptop \" into your search bar and gets zero results.",
+            "url": "https://machinelearningmastery.com/building-semantic-search-with-transformers-js-and-sentence-embeddings/"
+        },
+        {
+            "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform\u2019s Agentic RAG",
+            "description": "[RESEARCH] Data Management",
+            "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/"
+        },
+        {
+            "title": "OpenAI Files For IPO After Anthropic As AI Giants Head To Public Markets",
+            "description": "[REPUBLIC WORLD] OpenAI confidentially filed for a U.S. initial public offering recently, the company said on Monday, joining rival Anthropic in a push toward the stock market as investors seek exposure to the...",
+            "url": "https://www.republicworld.com/business/openai-files-for-ipo-after-anthropic-as-ai-giants-head-to-public-markets-2026-06-09-127468"
+        },
+        {
+            "title": "Apple expected to unveil new AI features at last developers conference with Tim Cook",
+            "description": "[THE STAR] Apple is expected to unveil new artificial intelligence features at its annual developers conference beginning Monday, which will be the last one featuring Tim Cook before he turns his post over to...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/09/apple-expected-to-unveil-new-ai-features-at-last-developers-conference-with-tim-cook"
+        },
+        {
+            "title": "Perplexity CEO Keeps 2028 IPO Target Intact Ahead Of OpenAI, Anthropic Listings",
+            "description": "[NDTV PROFIT] Perplexity CEO Srinivas said the company's IPO plans remain unchanged even as some of the biggest names in artificial intelligence prepare to test public market appetite.",
+            "url": "https://www.ndtvprofit.com/markets/perplexity-ceo-keeps-2028-ipo-target-intact-ahead-of-openai-anthropic-listings-11610063"
+        },
+        {
+            "title": "Singapore PM on population, AI-enabled disinformation and whether a Cabinet reshuffle is coming",
+            "description": "[THE STAR] SINGAPORE: Artificial intelligence and other technologies are enabling the creation of more misinformation and disinformation, and when content crosses the line Singapore will take action, said Prime...",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/09/singapore-pm-on-population-ai-enabled-disinformation-and-whether-a-cabinet-reshuffle-is-coming"
+        },
+        {
+            "title": "Sony to Launch New Xperia with AI Camera Features",
+            "description": "[MARKETSCREENER] Sony will release a new flagship Xperia smartphone on Thursday, equipped with artificial intelligence camera capabilities, as the company seeks to recover from power issues that affected its...",
+            "url": "https://www.marketscreener.com/news/sony-to-launch-new-xperia-with-ai-camera-features-ce7f5dd3dc8af523"
+        },
+        {
+            "title": "OpenAI files for US IPO after Anthropic as AI giants head to public markets",
+            "description": "[THE ECONOMIC TIMES] AI giant OpenAI has confidentially filed for a US initial public offering. This move follows rival Anthropic's similar filing. Investors are keenly watching these developments for exposure to the...",
+            "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/openai-files-for-us-ipo-after-anthropic-as-ai-giants-head-to-public-markets/articleshow/131599339.cms"
+        },
+        {
+            "title": "Starmer to roll out UK job centre tools to beat AI work threat",
+            "description": "[THE STAR] UK Prime Minister Keir Starmer will promise to prevent any community from being left behind in the \"tech revolution\" by using artificial intelligence tools to help people find work.",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/09/starmer-to-roll-out-uk-job-centre-tools-to-beat-ai-work-threat"
+        },
+        {
+            "title": "Apple to upgrade Siri with new AI features",
+            "description": "[NBC10 BOSTON] Apple unveiled new artificial intelligence advances, including upgrades to Siri, as the iPhone maker tries to catch up with rivals in AI.",
+            "url": "https://www.nbcboston.com/news/tech/apple-siri-upgrade-new-ai-features/3961984/"
+        },
+        {
+            "title": "Apple to upgrade Siri with new AI features",
+            "description": "[NBC 5 CHICAGO] Apple unveiled new artificial intelligence advances, including upgrades to Siri, as the iPhone maker tries to catch up with rivals in AI.",
+            "url": "https://www.nbcchicago.com/news/tech/apple-siri-upgrade-new-ai-features/3945689/"
+        },
+        {
+            "title": "Asian stocks rebound on Iran optimism, AI trade",
+            "description": "[THE ECONOMIC TIMES] Asian stocks rebounded, led by South Korea's Kospi, as Middle East tensions eased and artificial intelligence shares recovered. Wall Street also saw gains, with chipmakers like Nvidia climbing....",
+            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/asian-stocks-rebound-on-iran-optimism-ai-trade/articleshow/131599220.cms"
         }
     ]
 }
