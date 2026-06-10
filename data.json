@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-09 23:15:05 UTC",
+    "updated": "2026-06-10 02:58:33 UTC",
     "news": [
         {
             "title": "Private analytics via zero-trust aggregation",
@@ -7,14 +7,19 @@
             "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
         },
         {
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+        },
+        {
             "title": "The next chapter in flood resilience: Open sourcing Google\u2019s hydrology framework",
             "description": "[RESEARCH] Climate & Sustainability",
             "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
         },
         {
-            "title": "Scikit-LLM vs. Traditional Text Classifiers: When Should You Use an LLM?",
-            "description": "[MACHINELEARNINGMASTERY] In recent years, generative AI models like LLMs (large language models) have gradually taken over classical machine learning ones for addressing certain tasks, for instance, text classification .",
-            "url": "https://machinelearningmastery.com/scikit-llm-vs-traditional-text-classifiers-when-should-you-use-an-llm/"
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
         },
         {
             "title": "A New Era of Discovery: Google Research at I/O 2026",
@@ -22,14 +27,14 @@
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
         },
         {
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
+        },
+        {
             "title": "Towards passive heart health monitoring via smartphone camera",
             "description": "[RESEARCH] Health & Bioscience",
             "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/"
-        },
-        {
-            "title": "Using Scikit-LLM with Open-Source LLMs",
-            "description": "[MACHINELEARNINGMASTERY] This article will teach you how to perform a language task like text classification by integrating locally hosted large language models (LLMs) of manageable size, like Mistral, Gemma, and Llama 3:...",
-            "url": "https://machinelearningmastery.com/using-scikit-llm-with-open-source-llms/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,14 +52,9 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "The Practitioner\u2019s Guide to AgentOps",
-            "description": "[MACHINELEARNINGMASTERY] According to Futurum Research's 2025 market overview of agentic AI platforms, <a href=\"https://zbrain.",
-            "url": "https://machinelearningmastery.com/the-practitioners-guide-to-agentops/"
-        },
-        {
-            "title": "The Roadmap for Mastering LLMOps in 2026",
-            "description": "[MACHINELEARNINGMASTERY] The LLMOps market is projected to grow from <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-for-mastering-llmops-in-2026/"
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -62,14 +62,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
+        },
+        {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
             "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
             "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
-        },
-        {
-            "title": "Building Semantic Search with Transformers.js and Sentence Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You've probably shipped this bug before, where a user types \" affordable laptop \" into your search bar and gets zero results.",
-            "url": "https://machinelearningmastery.com/building-semantic-search-with-transformers-js-and-sentence-embeddings/"
         },
         {
             "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform\u2019s Agentic RAG",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/"
         },
         {
-            "title": "Booming AI Demand Fuels Jump in China\u2019s Exports: Supply Lines",
-            "description": "[BLOOMBERG TAX NEWS] China\u2019s exports jumped more than 19% from a year earlier as booming demand for artificial intelligence hardware offsets disruptions from the war in Iran.",
-            "url": "https://news.bloombergtax.com/daily-tax-report/booming-ai-demand-fuels-jump-in-chinas-exports-supply-lines"
+            "title": "AI world vastly different from IT Act era, believe new law is needed: Union minister Vaishnaw",
+            "description": "[THE ECONOMIC TIMES] India's IT Minister Ashwini Vaishnaw believes a new law is needed for Artificial Intelligence. The current IT Act, enacted in 2000, predates AI's rapid growth. Discussions are underway with the...",
+            "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-world-vastly-different-from-it-act-era-believe-new-law-is-needed-union-minister-vaishnaw/articleshow/131614112.cms"
         },
         {
-            "title": "Public sector banks geared up to leapfrog into AI era: Salesforce\u2019s Arundhati Bhattacharya",
-            "description": "[LOKMAT TIMES] Public sector banks geared up to leapfrog into AI era: Salesforce\u2019s Arundhati Bhattacharya - New Delhi, June 9 Public sector banks (PSBs) are increasingly embracing artificial intelligence (AI) and...",
-            "url": "https://www.lokmattimes.com/technology/public-sector-banks-geared-up-to-leapfrog-into-ai-era-salesforces-arundhati-bhattacharya-1/"
+            "title": "Hu + AI: The Equation For Superhuman Capabilities",
+            "description": "[FORBES] Hu + AI = superhuman. This equation represents a symbiotic relationship in which artificial intelligence does not replace humanity but acts as a powerful enhancer of it.",
+            "url": "https://www.forbes.com/sites/forbesbooksauthors/2026/06/09/hu--ai-the-equation-for-superhuman-capabilities/"
         },
         {
-            "title": "Public sector banks geared up to leapfrog into AI era: Salesforce\u2019s Arundhati Bhattacharya",
-            "description": "[LOKMAT TIMES] Public sector banks geared up to leapfrog into AI era: Salesforce\u2019s Arundhati Bhattacharya - New Delhi, June 9 Public sector banks (PSBs) are increasingly embracing artificial intelligence (AI) and...",
-            "url": "https://www.lokmattimes.com/business/public-sector-banks-geared-up-to-leapfrog-into-ai-era-salesforces-arundhati-bhattacharya/"
+            "title": "Wall Street ticks higher as AI stocks recover more losses and oil prices ease",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] The U.S. stock market is ticking higher as artificial-intelligence stocks regain more of their sudden and sharp losses from last week, while oil prices ease. The S&P 500 rose 0.2% Tuesday and pulled...",
+            "url": "https://www.ajc.com/news/2026/06/wall-street-rises-as-ai-stocks-recover-more-of-their-losses-and-oil-prices-ease/"
         },
         {
-            "title": "5 things to know for June 9: Elections, NBA Finals, Iran war, artificial intelligence, LA mayoral race",
-            "description": "[CABLE NEWS NETWORK] CNN\u2019s 5 Things AM brings you the news you need to know every morning.",
-            "url": "https://edition.cnn.com/2026/06/09/us/5-things-to-know-for-june-9-elections-nba-finals-iran-war-artificial-intelligence-la-mayoral-race"
+            "title": "World weather forecasting 'completely upended' by AI",
+            "description": "[RTE.IE] World weather forecasting has been \"completely upended\" by artificial intelligence over the past three to four years, an Oireachtas committee has heard.",
+            "url": "https://www.rte.ie/news/politics/2026/0609/1577577-oireachtas-committee-artificial-intelligence/"
         },
         {
-            "title": "5 things to know for June 9: Elections, NBA Finals, Iran war, artificial intelligence, LA mayoral race",
-            "description": "[ABC17NEWS.COM] By Alexandra Banner, CNN A flesh-eating parasite that once wreaked havoc on cattle in the US has resurfaced after decades. The notorious screwworm has been detected on a handful of Texas farms, and...",
-            "url": "https://abc17news.com/news/national-world/cnn-national/2026/06/09/5-things-to-know-for-june-9-elections-nba-finals-iran-war-artificial-intelligence-la-mayoral-race/"
+            "title": "Wall Street ticks higher as AI stocks recover more losses and oil prices ease",
+            "description": "[BARCHART] The U.S. stock market is ticking higher as artificial-intelligence stocks regain more of their sudden and sharp losses from last week, while oil prices ease",
+            "url": "https://www.barchart.com/story/news/2368607/wall-street-ticks-higher-as-ai-stocks-recover-more-losses-and-oil-prices-ease"
         },
         {
-            "title": "5 things to know for June 9: Elections, NBA Finals, Iran war, artificial intelligence, LA mayoral race",
-            "description": "[KRDO] By Alexandra Banner, CNN A flesh-eating parasite that once wreaked havoc on cattle in the US has resurfaced after decades. The notorious screwworm has",
-            "url": "https://krdo.com/news/2026/06/09/5-things-to-know-for-june-9-elections-nba-finals-iran-war-artificial-intelligence-la-mayoral-race/"
+            "title": "Who will win the World Cup 2026? This algorithm has a clear favorite",
+            "description": "[THE INDEPENDENT] The machine learning algorithm and subsequent simulations are fueled by data, expert knowledge and statistical models",
+            "url": "https://www.independent.co.uk/sport/football/world-cup/world-cup-2026-winner-prediction-algorithm-b2992507.html"
         },
         {
-            "title": "Uber\u2019s secret \u2018AI job\u2019 pays up to $150 an hour but workers are reportedly \u2018unhappy\u2019",
-            "description": "[TIMES OF INDIA] Tech News News: Tech giant Uber has expanded into the artificial intelligence (AI) space and is reportedly paying data trainers hourly rates of up to $150. However, c.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/ubers-secret-ai-job-pays-up-to-150-an-hour-but-workers-are-reportedly-unhappy/articleshow/131608829.cms"
+            "title": "IIT Roorkee Opens Admissions For The 11th Batch Of Its Post Graduate Certificate In Data Science, Machine Learning & Generative AI",
+            "description": "[OUTLOOK BUSINESS] IIT Roorkee has opened admissions for the 11th batch of its Post Graduate Certificate in Data Science, Machine Learning & Generative AI. The 8-month programme covers Python, deep learning, MLOps,...",
+            "url": "https://www.outlookbusiness.com/spotlight/news-wire/iit-roorkee-opens-admissions-for-the-11th-batch-of-its-post-graduate-certificate-in-data-science-machine-learning-generative-ai"
         },
         {
-            "title": "CEO of $95 billion AI chip company Cerebras sends a request from stage, says: We are working with every major hardware maker other than Nvidia",
-            "description": "[TIMES OF INDIA] Tech News News: Nvidia may dominate the artificial intelligence (AI) hardware market, but Cerebras Systems doesn\u2019t want to work with the chip giant. The $95 billion A.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/ceo-of-95-billion-ai-chip-company-cerebras-sends-a-request-from-stage-says-we-are-working-with-every-major-hardware-maker-other-than-nvidia/articleshow/131608366.cms"
+            "title": "TCS will have as many AI agents as human employees in 3 years: Chairman",
+            "description": "[THE HINDU] At the pace Artificial Intelligence (AI) is replacing human beings at workplaces, Tata Consultancy Services Ltd (TCS) will have as many AI agent as human employees in three years, it\u2019s Chairman &...",
+            "url": "https://www.thehindu.com/business/tcs-will-have-as-many-ai-agents-as-human-employees-in-3-years-chairman/article71081273.ece"
         },
         {
-            "title": "OneAdvanced builds a sovereign NHS triage AI with Nvidia",
-            "description": "[TNW] OneAdvanced has launched Care Navigator, a UK-hosted NHS triage LLM built with Nvidia that it says rivals Claude at up to 150x lower inference cost.",
-            "url": "https://thenextweb.com/news/oneadvanced-care-navigator-sovereign-nhs-llm"
+            "title": "Are you a new stock market investor in June 2026? Here's Warren Buffett's advice.",
+            "description": "[FOX BUSINESS] The top five holdings of the Vanguard S&P 500 ETF are Nvidia, Apple, Microsoft, Amazon, and Alphabet, exposing investors to all things related to artificial intelligence.",
+            "url": "https://www.foxbusiness.com/markets/you-new-stock-market-investor-june-2026-heres-warren-buffetts-advice"
         },
         {
-            "title": "AI Earnings Durability Is in Focus for BlackRock's Wei Li",
-            "description": "[MARKETSCREENER] Wei Li, chief global investment strategist at BlackRock , says there is a healthy debate to be had about the durability of Artificial Intelligence earnings and sees the AI trade as a space to be...",
-            "url": "https://www.marketscreener.com/news/ai-earnings-durability-is-in-focus-for-blackrock-s-wei-li-ce7f5dd3d18efe22"
+            "title": "US stock markets today (June 9, 2026): AI stocks rebound, easing oil prices lift Wall Street",
+            "description": "[TIMES OF INDIA] International Business News: US stocks advanced on Tuesday as technology shares tied to the artificial intelligence (AI) boom extended their recovery from last week's sharp sell-o.",
+            "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-markets-today-june-9-2026-ai-stocks-rebound-easing-oil-prices-lift-wall-street/articleshow/131613145.cms"
         }
     ]
 }
