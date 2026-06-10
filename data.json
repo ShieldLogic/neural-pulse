@@ -1,59 +1,130 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-10 14:36 UTC",
+    "updated": "2026-06-10 16:55:31 UTC",
     "news": [
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Siri\u2019s Total Chatbot Makeover Is Imminent With iOS 27",
-            "description": "Android isn't the only OS leaning into agentic AI.",
-            "url": "https://gizmodo.com/siri-total-chatbot-makeover-is-imminent-with-ios-27-2000757747",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/A1A9528-1200x675.jpg",
-            "publishedAt": "2026-05-12T22:15:29Z",
-            "content": "It\u2019s been nearly two years since Apple promised an AI-supercharged Siri, but if a new report is any indication, that transformation is finally upon us. According to Bloomberg\u2019s Mark Gurman, there are\u2026 [+2195 chars]"
+            "title": "Private analytics via zero-trust aggregation",
+            "description": "[RESEARCH] Security, Privacy and Abuse Prevention",
+            "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
+            "title": "The next chapter in flood resilience: Open sourcing Google\u2019s hydrology framework",
+            "description": "[RESEARCH] Climate & Sustainability",
+            "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
         },
         {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
-            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
-            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
-            "publishedAt": "2026-05-20T19:02:47Z",
-            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Paresh Dave, Maxwell Zeff",
-            "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-            "description": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
-            "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
-            "urlToImage": "https://media.wired.com/photos/6a07b49c3e66727feabf05fc/191:100/w_1280,c_limit/Model-Behavior-Altman-v-Musk-Verdict-Business.jpg",
-            "publishedAt": "2026-05-18T17:40:30Z",
-            "content": "Elon Musk suffered the worst defeat possible in his legal battle against OpenAI as a federal jury and a judge ruled he waited too long to bring his claims against the AI startup and its top executive\u2026 [+2873 chars]"
+            "title": "A New Era of Discovery: Google Research at I/O 2026",
+            "description": "[RESEARCH] General Science",
+            "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
+        },
+        {
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
+        },
+        {
+            "title": "Towards passive heart health monitoring via smartphone camera",
+            "description": "[RESEARCH] Health & Bioscience",
+            "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/"
+        },
+        {
+            "title": "Information-Driven Design of Imaging Systems",
+            "description": "[BAIR] An encoder (optical system) maps objects to noiseless images, which noise corrupts into measurements. Our information estimator uses only these noisy measurements and a noise model to quantify how...",
+            "url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/"
+        },
+        {
+            "title": "RL without TD learning",
+            "description": "[BAIR] In this post, I\u2019ll introduce a reinforcement learning (RL) algorithm based on an \u201calternative\u201d paradigm: divide and conquer. Unlike traditional methods, this algorithm is not based on temporal...",
+            "url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/"
+        },
+        {
+            "title": "Gradient-based Planning for World Models at Longer Horizons",
+            "description": "[BAIR] GRASP is a new gradient-based planner for learned dynamics (a \u201cworld model\u201d) that makes long-horizon planning practical by (1) lifting the trajectory into virtual states so optimization is parallel...",
+            "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
+        },
+        {
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+        },
+        {
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+        },
+        {
+            "title": "Identifying Interactions at Scale for LLMs",
+            "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
+            "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
+        },
+        {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
+        },
+        {
+            "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
+            "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
+            "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
+        },
+        {
+            "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform\u2019s Agentic RAG",
+            "description": "[RESEARCH] Data Management",
+            "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/"
+        },
+        {
+            "title": "Anthropic releases a version of AI model that has scared governments and banks across the world; says \u2018To release the model \u2026\u2019",
+            "description": "[TIMES OF INDIA] Tech News News: Anthropic has released a public version of its powerful Mythos-class artificial intelligence model, making the technology available to a much wider au.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-releases-a-version-of-ai-model-that-has-scared-governments-and-banks-across-the-world-says-to-release-the-model-/articleshow/131625325.cms"
+        },
+        {
+            "title": "Reliance Industries to build Meta's first AI-enabled data centre in India",
+            "description": "[BUSINESS STANDARD] Reliance Industries will develop a 168 MW AI-enabled data centre in Jamnagar for Meta, strengthening a long-standing partnership spanning connectivity, commerce and artificial intelligence",
+            "url": "https://www.business-standard.com/technology/artificial-intelligence/reliance-to-build-meta-first-ai-enabled-data-centre-in-india-126061000285_1.html"
+        },
+        {
+            "title": "Meta, Reliance to Partner on AI Data Center Expansion in India",
+            "description": "[MARKETSCREENER] By Fabiana Negrin Ochoa and Jason Chau Facebook parent Meta is expanding its partnership with India's Reliance Industries into artificial-intelligence infrastructure as it invests aggressively to...",
+            "url": "https://www.marketscreener.com/news/meta-reliance-to-partner-on-ai-data-center-expansion-in-india-ce7f5cdade8df726"
+        },
+        {
+            "title": "Anthropic releases Mythos-like model without cyber capabilities",
+            "description": "[THE STAR] Anthropic PBC is widely releasing a version of Mythos that will be blocked from carrying out cybersecurity tasks, months after warning that the powerful artificial intelligence model could spot and...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/10/anthropic-releases-mythos-like-model-without-cyber-capabilities"
+        },
+        {
+            "title": "Reliance Industries stocks gain over 2% after Meta partnership for AI data centre in Gujarat",
+            "description": "[MONEYCONTROL] Under the agreement, Reliance will build a 168-megawatt data centre in Jamnagar, Gujarat, which Meta will lease for its artificial intelligence and computing requirements",
+            "url": "https://www.moneycontrol.com/news/business/stocks/reliance-industries-stocks-gain-over-2-after-meta-partnership-for-ai-data-centre-in-gujarat-13945640.html"
+        },
+        {
+            "title": "The latest entrant to China\u2019s companionship economy: AI Toys",
+            "description": "[CNA] Artificial intelligence companion toys today analyse preferences, intentions and emotions to be more attuned to each user over time.",
+            "url": "https://www.channelnewsasia.com/east-asia/china-emotional-economy-artificial-intelligence-companion-toys-fuzozo-6172926"
+        },
+        {
+            "title": "A Paris Basement Gives a Glimpse of Future Drone Warfare",
+            "description": "[BLOOMBERG] In a Paris basement office that could belong to any number of trendy software startups, entrepreneur Hadrien Canter opens a crate containing a critical ingredient of modern warfare: a drone...",
+            "url": "https://www.bloomberg.com/opinion/articles/2026-06-10/future-warfare-paris-drone-is-a-glimpse-of-hope-for-european-defense"
+        },
+        {
+            "title": "New era of AI in political ads raises concerns over deepfakes",
+            "description": "[FOX 9] Artificial intelligence (AI) is a tool used in many functions as part of everyday life and is also becoming a tool used in politics. One campaign ad stirring up controversy is what some view as an...",
+            "url": "https://www.fox9.com/news/new-era-ai-political-ads-raises-concerns-over-deepfakes"
+        },
+        {
+            "title": "Anthropic opens Fable 5, restricted version of Claude Mythos 5, to public",
+            "description": "[THE HINDU] Anthropic, maker of the Claude artificial intelligence (AI) models, made the most powerful version of its technology available to the general public",
+            "url": "https://www.thehindu.com/sci-tech/technology/anthropic-opens-fable-5-restricted-version-of-claude-mythos-5-to-public/article71083357.ece"
+        },
+        {
+            "title": "China to Overtake US as World's Nuclear Power Leader Within 5 Years - Report",
+            "description": "[SPUTNIK NEWS] China is on track to surpass the United States as the world\u2019s leading nuclear power generator within the next five years, driven by surging electricity demand from artificial intelligence and the...",
+            "url": "https://sputnikglobe.com/20260610/china-to-overtake-us-as-worlds-nuclear-power-leader-within-5-years--report-1124291317.html"
         }
     ]
 }
