@@ -1,10 +1,10 @@
 {
-    "updated": "2026-06-10 16:55:31 UTC",
+    "updated": "2026-06-10 20:24:15 UTC",
     "news": [
         {
-            "title": "Private analytics via zero-trust aggregation",
-            "description": "[RESEARCH] Security, Privacy and Abuse Prevention",
-            "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/"
+            "title": "New framework for auditing machine unlearning",
+            "description": "[RESEARCH] Algorithms & Theory",
+            "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning/"
         },
         {
             "title": "The next chapter in flood resilience: Open sourcing Google\u2019s hydrology framework",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Scikit-LLM vs. Traditional Text Classifiers: When Should You Use an LLM?",
+            "description": "[MACHINELEARNINGMASTERY] In recent years, generative AI models like LLMs (large language models) have gradually taken over classical machine learning ones for addressing certain tasks, for instance, text classification .",
+            "url": "https://machinelearningmastery.com/scikit-llm-vs-traditional-text-classifiers-when-should-you-use-an-llm/"
         },
         {
             "title": "A New Era of Discovery: Google Research at I/O 2026",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
         },
         {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
-        },
-        {
             "title": "Towards passive heart health monitoring via smartphone camera",
             "description": "[RESEARCH] Health & Bioscience",
             "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/"
+        },
+        {
+            "title": "Using Scikit-LLM with Open-Source LLMs",
+            "description": "[MACHINELEARNINGMASTERY] This article will teach you how to perform a language task like text classification by integrating locally hosted large language models (LLMs) of manageable size, like Mistral, Gemma, and Llama 3:...",
+            "url": "https://machinelearningmastery.com/using-scikit-llm-with-open-source-llms/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
-            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
+            "title": "The Practitioner\u2019s Guide to AgentOps",
+            "description": "[MACHINELEARNINGMASTERY] According to Futurum Research's 2025 market overview of agentic AI platforms, <a href=\"https://zbrain.",
+            "url": "https://machinelearningmastery.com/the-practitioners-guide-to-agentops/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
+            "title": "The Roadmap for Mastering LLMOps in 2026",
+            "description": "[MACHINELEARNINGMASTERY] The LLMOps market is projected to grow from <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-for-mastering-llmops-in-2026/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -62,14 +62,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
-        },
-        {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
             "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
             "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
+        },
+        {
+            "title": "Building Semantic Search with Transformers.js and Sentence Embeddings",
+            "description": "[MACHINELEARNINGMASTERY] You've probably shipped this bug before, where a user types \" affordable laptop \" into your search bar and gets zero results.",
+            "url": "https://machinelearningmastery.com/building-semantic-search-with-transformers-js-and-sentence-embeddings/"
         },
         {
             "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform\u2019s Agentic RAG",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/"
         },
         {
-            "title": "Anthropic releases a version of AI model that has scared governments and banks across the world; says \u2018To release the model \u2026\u2019",
-            "description": "[TIMES OF INDIA] Tech News News: Anthropic has released a public version of its powerful Mythos-class artificial intelligence model, making the technology available to a much wider au.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-releases-a-version-of-ai-model-that-has-scared-governments-and-banks-across-the-world-says-to-release-the-model-/articleshow/131625325.cms"
+            "title": "From finance to leadership: How technology is shaping smarter decisions",
+            "description": "[THE ECONOMIC TIMES] Artificial intelligence is transforming finance and leadership. AI tools now help analyse risks, detect fraud, and automate tasks. Leaders must combine technology insights with human values for...",
+            "url": "https://economictimes.indiatimes.com/jobs/c-suite/from-finance-to-leadership-how-technology-is-shaping-smarter-decisions/articleshow/131628960.cms"
         },
         {
-            "title": "Reliance Industries to build Meta's first AI-enabled data centre in India",
-            "description": "[BUSINESS STANDARD] Reliance Industries will develop a 168 MW AI-enabled data centre in Jamnagar for Meta, strengthening a long-standing partnership spanning connectivity, commerce and artificial intelligence",
-            "url": "https://www.business-standard.com/technology/artificial-intelligence/reliance-to-build-meta-first-ai-enabled-data-centre-in-india-126061000285_1.html"
+            "title": "Seoul shares again dip over 4 pct amid U.S.",
+            "description": "[UPI NEWS] South Korean stocks plummeted more than 4 percent Wednesday amid escalating tensions between the United States and Iran and a tech slump fueled by concerns over the valuation of stocks related to...",
+            "url": "https://www.upi.com/Top_News/World-News/2026/06/10/kprea-KOSPI-Korea-Stock-Index-fall-four-percent-US-Iran-tensions-tech-sell-off/7121781078954/"
         },
         {
-            "title": "Meta, Reliance to Partner on AI Data Center Expansion in India",
-            "description": "[MARKETSCREENER] By Fabiana Negrin Ochoa and Jason Chau Facebook parent Meta is expanding its partnership with India's Reliance Industries into artificial-intelligence infrastructure as it invests aggressively to...",
-            "url": "https://www.marketscreener.com/news/meta-reliance-to-partner-on-ai-data-center-expansion-in-india-ce7f5cdade8df726"
+            "title": "CameraMatics raises up to \u20ac49 million of new funding and partial realisation of investment in CameraMatics",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Mindflair plc, the AIM-quoted company focused on investing in Artificial Intelligence (\"AI\") related technology, is pleased to announce that...",
+            "url": "https://www.prnewswire.co.uk/news-releases/cameramatics-raises-up-to-49-million-of-new-funding-and-partial-realisation-of-investment-in-cameramatics-302795722.html"
         },
         {
-            "title": "Anthropic releases Mythos-like model without cyber capabilities",
-            "description": "[THE STAR] Anthropic PBC is widely releasing a version of Mythos that will be blocked from carrying out cybersecurity tasks, months after warning that the powerful artificial intelligence model could spot and...",
-            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/10/anthropic-releases-mythos-like-model-without-cyber-capabilities"
+            "title": "More swings for AI stocks pull Wall Street back",
+            "description": "[ARKANSAS ONLINE] NEW YORK -- Another sudden reversal for high-flying artificial intelligence stocks sent Wall Street reeling on Tuesday.",
+            "url": "https://www.arkansasonline.com/news/2026/jun/10/more-swings-for-ai-stocks-pull-wall-street-back/"
         },
         {
-            "title": "Reliance Industries stocks gain over 2% after Meta partnership for AI data centre in Gujarat",
-            "description": "[MONEYCONTROL] Under the agreement, Reliance will build a 168-megawatt data centre in Jamnagar, Gujarat, which Meta will lease for its artificial intelligence and computing requirements",
-            "url": "https://www.moneycontrol.com/news/business/stocks/reliance-industries-stocks-gain-over-2-after-meta-partnership-for-ai-data-centre-in-gujarat-13945640.html"
+            "title": "TeamSystem completes its $250 Million AI Investment Plan a year ahead of schedule: further acceleration expected by 2030",
+            "description": "[PR NEWSWIRE UK] /PRNewswire/ -- TeamSystem has completed its 2027 plan - announced in 2024 - to invest 250 million in artificial intelligence, a year ahead of schedule....",
+            "url": "https://www.prnewswire.co.uk/news-releases/teamsystem-completes-its-250-million-ai-investment-plan-a-year-ahead-of-schedule-further-acceleration-expected-by-2030-302795695.html"
         },
         {
-            "title": "The latest entrant to China\u2019s companionship economy: AI Toys",
-            "description": "[CNA] Artificial intelligence companion toys today analyse preferences, intentions and emotions to be more attuned to each user over time.",
-            "url": "https://www.channelnewsasia.com/east-asia/china-emotional-economy-artificial-intelligence-companion-toys-fuzozo-6172926"
+            "title": "Hiring slows as AI skills demand stays strong",
+            "description": "[BANGKOK POST] Hiring demand across Asia Pacific and the Middle East is easing in the third quarter of 2026, but employers continue to prioritise skills, particularly in artificial intelligence and communication,...",
+            "url": "https://www.bangkokpost.com/business/general/3268883/hiring-slows-as-ai-skills-demand-stays-strong"
         },
         {
-            "title": "A Paris Basement Gives a Glimpse of Future Drone Warfare",
-            "description": "[BLOOMBERG] In a Paris basement office that could belong to any number of trendy software startups, entrepreneur Hadrien Canter opens a crate containing a critical ingredient of modern warfare: a drone...",
-            "url": "https://www.bloomberg.com/opinion/articles/2026-06-10/future-warfare-paris-drone-is-a-glimpse-of-hope-for-european-defense"
+            "title": "India 'bright spot' in global economy despite uncertainties: Chandrasekaran",
+            "description": "[BUSINESS STANDARD] Chandrasekaran said the world today is being reshaped by geopolitical shifts, supply chain disruptions and realignments, energy transition and rapid advancements in Artificial Intelligence",
+            "url": "https://www.business-standard.com/economy/news/india-bright-spot-in-global-economy-despite-uncertainties-chandrasekaran-126061000430_1.html"
         },
         {
-            "title": "New era of AI in political ads raises concerns over deepfakes",
-            "description": "[FOX 9] Artificial intelligence (AI) is a tool used in many functions as part of everyday life and is also becoming a tool used in politics. One campaign ad stirring up controversy is what some view as an...",
-            "url": "https://www.fox9.com/news/new-era-ai-political-ads-raises-concerns-over-deepfakes"
+            "title": "Applied Materials Expands Singapore Manufacturing Operations With $500 Million New Facility",
+            "description": "[MARKETSCREENER] By Megan Cheah SINGAPORE--Applied Materials is expanding its manufacturing and research-and-development operations in Singapore as it seeks to support demand for artificial-intelligence chips. ...",
+            "url": "https://www.marketscreener.com/news/applied-materials-expands-singapore-manufacturing-operations-with-500-million-new-facility-ce7f5cdad188fe22"
         },
         {
-            "title": "Anthropic opens Fable 5, restricted version of Claude Mythos 5, to public",
-            "description": "[THE HINDU] Anthropic, maker of the Claude artificial intelligence (AI) models, made the most powerful version of its technology available to the general public",
-            "url": "https://www.thehindu.com/sci-tech/technology/anthropic-opens-fable-5-restricted-version-of-claude-mythos-5-to-public/article71083357.ece"
+            "title": "Pakistan Petroleum, Folio3 team up to bring AI to Pakistan's upstream energy sector",
+            "description": "[BOL NEWS] Pakistan Petroleum Limited signed a memorandum of understanding with Folio3, a U.S.-headquartered artificial intelligence company, to deploy AI technology across its upstream oil and gas operations.",
+            "url": "https://www.bolnews.com/business/pakistan-petroleum-folio3-team-up-to-bring-ai-to-pakistans-upstream-energy-sector/"
         },
         {
-            "title": "China to Overtake US as World's Nuclear Power Leader Within 5 Years - Report",
-            "description": "[SPUTNIK NEWS] China is on track to surpass the United States as the world\u2019s leading nuclear power generator within the next five years, driven by surging electricity demand from artificial intelligence and the...",
-            "url": "https://sputnikglobe.com/20260610/china-to-overtake-us-as-worlds-nuclear-power-leader-within-5-years--report-1124291317.html"
+            "title": "We are in Sankat Kaal, and in this Sagar Manthan, our job is to look for the next generation of winners: Saurabh Mukherjea",
+            "description": "[THE ECONOMIC TIMES] India's economic future lies with manufacturing exporters, not consumer companies. Saurabh Mukherjea predicts this shift will drive earnings growth. Artificial intelligence is reshaping jobs,...",
+            "url": "https://economictimes.indiatimes.com/markets/expert-view/we-are-in-sankat-kaal-and-in-this-sagar-manthan-our-job-is-to-look-for-the-next-generation-of-winners-saurabh-mukherjea/articleshow/131626872.cms"
         }
     ]
 }
