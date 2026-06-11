@@ -1,179 +1,904 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neural Pulse | ShieldLogic</title>
-    <style>
-        :root {
-            --accent: #2563eb;
-            --bg: #ffffff;
-            --text: #0f172a;
-            --subtext: #64748b;
-            --border: #f1f5f9;
-        }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Neural Pulse | ShieldLogic</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --cyan: #00d4ff;
+      --cyan-dim: #0099bb;
+      --purple: #a855f7;
+      --orange: #f97316;
+      --bg: #06080a;
+      --surface: #0d1117;
+      --surface-2: #161b22;
+      --border: #1e2433;
+      --border-bright: #2d3748;
+      --text: #c0c8d4;
+      --text-muted: #5a6478;
+      --text-bright: #e8edf5;
+      --accent: var(--cyan);
+    }
 
-        body {
-            background-color: var(--bg);
-            color: var(--text);
-            font-family: 'Inter', -apple-system, sans-serif;
-            margin: 0;
-            padding: 40px 20px;
-            line-height: 1.6;
-        }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
 
-        .container { max-width: 800px; margin: 0 auto; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
 
-        header { margin-bottom: 60px; text-align: center; }
+    /* ── NAV ── */
+    nav {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .nav-brand {
+      font-family: 'IBM Plex Mono', monospace;
+      font-weight: 600;
+      font-size: 13px;
+      color: var(--cyan);
+      letter-spacing: 2px;
+      text-decoration: none;
+    }
+    .nav-brand span { color: var(--text-muted); }
+    .nav-links { display: flex; gap: 4px; align-items: center; }
+    .nav-links a {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 13px;
+      padding: 6px 12px;
+      border-radius: 4px;
+      transition: color 0.2s, background 0.2s;
+    }
+    .nav-links a:hover { color: var(--text-bright); background: var(--surface-2); }
+    .nav-links a.active { color: var(--cyan); }
+    .nav-pill {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: #fff;
+      background: #0a66c2;
+      padding: 4px 10px;
+      border-radius: 3px;
+      letter-spacing: 1px;
+      font-weight: 600;
+    }
 
-        /* THE PULSE ANIMATION */
-        h1 {
-            font-weight: 900;
-            font-size: 3.5rem;
-            letter-spacing: -0.05em;
-            margin: 0;
-            background: linear-gradient(135deg, #2563eb, #7c3aed);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            animation: pulse-glow 4s ease-in-out infinite;
-        }
+    /* ── HERO ── */
+    .hero {
+      border-bottom: 1px solid var(--border);
+      padding: 40px 24px 32px;
+      max-width: 1100px;
+      margin: 0 auto;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero-bg {
+      position: absolute;
+      top: 0; right: 0;
+      width: 300px; height: 100%;
+      background: radial-gradient(ellipse at right center, rgba(0,212,255,0.04) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .hero-eyebrow {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: var(--cyan);
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+    .hero h1 {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: clamp(22px, 3vw, 32px);
+      font-weight: 600;
+      color: var(--text-bright);
+      letter-spacing: 1px;
+      margin-bottom: 10px;
+    }
+    .hero h1 .cursor {
+      display: inline-block;
+      width: 3px;
+      height: 1em;
+      background: var(--cyan);
+      margin-left: 4px;
+      vertical-align: middle;
+      animation: blink 1s step-end infinite;
+    }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+    .hero-sub {
+      color: var(--text-muted);
+      font-size: 14px;
+      max-width: 620px;
+    }
 
-        @keyframes pulse-glow {
-            0%, 100% { opacity: 1; filter: drop-shadow(0 0 0px rgba(37, 99, 235, 0)); }
-            50% { opacity: 0.8; filter: drop-shadow(0 0 15px rgba(37, 99, 235, 0.2)); }
-        }
+    /* ── STATUS BAR ── */
+    .status-bar {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+    .status-inner {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 16px;
+      margin: 16px 0;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+    }
+    .pulse-dot {
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: var(--cyan);
+      flex-shrink: 0;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+    .status-label { color: var(--text-muted); }
+    .status-value { color: var(--cyan); font-weight: 600; letter-spacing: 1px; }
+    .status-sync { color: var(--text-muted); margin-left: auto; font-size: 10px; }
 
-        .tagline { color: var(--subtext); font-size: 1.1rem; margin-top: 10px; }
+    /* ── CONTROLS ── */
+    .controls {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 24px 20px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .search-box {
+      flex: 1;
+      min-width: 200px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 8px 14px;
+      color: var(--text);
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 12px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .search-box:focus { border-color: var(--cyan); }
+    .search-box::placeholder { color: var(--text-muted); }
+    .filter-btn {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 8px 14px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-family: 'IBM Plex Mono', monospace;
+      cursor: pointer;
+      transition: all 0.2s;
+      letter-spacing: 0.5px;
+    }
+    .filter-btn:hover, .filter-btn.active {
+      border-color: var(--cyan);
+      color: var(--cyan);
+      background: rgba(0,212,255,0.05);
+    }
+    #article-count {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-left: auto;
+    }
 
-        #sync-meta {
-            font-size: 0.7rem;
-            font-weight: 800;
-            text-transform: uppercase;
-            letter-spacing: 0.15em;
-            color: var(--accent);
-            margin-top: 25px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 10px;
-        }
+    /* ── MAIN LAYOUT ── */
+    .main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 24px 60px;
+      display: grid;
+      grid-template-columns: 1fr 280px;
+      gap: 24px;
+    }
 
-        /* Signal Strength Dot */
-        .dot {
-            height: 6px;
-            width: 6px;
-            background-color: var(--accent);
-            border-radius: 50%;
-            display: inline-block;
-            animation: blink 1.5s infinite;
-        }
+    /* ── DATE GROUP ── */
+    .date-group { margin-bottom: 32px; }
+    .date-heading {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: var(--text-muted);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      padding: 6px 0;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 12px;
+    }
+    .date-heading .date-today { color: var(--cyan); }
 
-        @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+    /* ── ARTICLE CARD ── */
+    .article {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 16px 20px;
+      margin-bottom: 8px;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 12px;
+      align-items: start;
+      transition: border-color 0.15s, background 0.15s;
+      position: relative;
+      overflow: hidden;
+    }
+    .article::before {
+      content: '';
+      position: absolute;
+      left: 0; top: 0; bottom: 0;
+      width: 3px;
+      background: var(--border-bright);
+      transition: background 0.2s;
+    }
+    .article:hover { border-color: var(--border-bright); background: var(--surface-2); }
+    .article:hover::before { background: var(--cyan); }
 
-        .article {
-            border-bottom: 1px solid var(--border);
-            padding: 35px 0;
-            transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
-        }
+    .article-body { min-width: 0; }
+    .article-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 6px;
+      flex-wrap: wrap;
+    }
+    .source-badge {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 10px;
+      font-weight: 600;
+      color: #06080a;
+      background: var(--cyan-dim);
+      padding: 2px 7px;
+      border-radius: 2px;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+    .source-badge.model { background: var(--purple); color: #fff; }
+    .source-badge.policy { background: var(--orange); color: #fff; }
+    .tag-badge {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 10px;
+      color: var(--text-muted);
+      border: 1px solid var(--border-bright);
+      padding: 1px 6px;
+      border-radius: 2px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
 
-        .article:hover { transform: translateY(-2px); border-bottom-color: var(--accent); }
+    .article h3 {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-bright);
+      line-height: 1.4;
+      margin-bottom: 6px;
+    }
+    .article p {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.55;
+      margin-bottom: 0;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
 
-        .article h3 { font-size: 1.5rem; margin: 0 0 10px 0; font-weight: 700; color: #000; }
-        .article p { font-size: 1rem; color: var(--subtext); margin-bottom: 20px; }
-        .article a { color: var(--accent); text-decoration: none; font-weight: 600; font-size: 0.9rem; }
+    .article-actions {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      flex-shrink: 0;
+    }
+    .btn-read {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: var(--cyan);
+      border: 1px solid var(--cyan);
+      background: transparent;
+      padding: 5px 10px;
+      border-radius: 3px;
+      text-decoration: none;
+      letter-spacing: 0.5px;
+      white-space: nowrap;
+      transition: all 0.15s;
+      text-align: center;
+    }
+    .btn-read:hover { background: rgba(0,212,255,0.08); }
+    .btn-draft {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: var(--text-muted);
+      border: 1px solid var(--border-bright);
+      background: transparent;
+      padding: 5px 10px;
+      border-radius: 3px;
+      letter-spacing: 0.5px;
+      white-space: nowrap;
+      cursor: pointer;
+      transition: all 0.15s;
+      text-align: center;
+    }
+    .btn-draft:hover { color: #0a66c2; border-color: #0a66c2; background: rgba(10,102,194,0.06); }
 
-        .status-msg { padding: 60px; text-align: center; color: var(--subtext); font-style: italic; }
-    </style>
+    /* ── SIDEBAR ── */
+    .sidebar { display: flex; flex-direction: column; gap: 20px; }
+    .sidebar-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 16px;
+    }
+    .sidebar-label {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 10px;
+      color: var(--cyan);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+      display: block;
+    }
+    .stat-row {
+      display: flex;
+      justify-content: space-between;
+      padding: 7px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 12px;
+    }
+    .stat-row:last-child { border-bottom: none; }
+    .stat-row .label { color: var(--text-muted); }
+    .stat-row .val { font-family: 'IBM Plex Mono', monospace; color: var(--text-bright); font-weight: 600; }
+    .stat-row .val.cyan { color: var(--cyan); }
+    .stat-row .val.purple { color: var(--purple); }
+
+    .nav-links-sidebar a {
+      display: block;
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 13px;
+      padding: 6px 0;
+      border-bottom: 1px solid var(--border);
+      transition: color 0.15s;
+    }
+    .nav-links-sidebar a:last-child { border-bottom: none; }
+    .nav-links-sidebar a:hover { color: var(--cyan); }
+
+    .linkedin-cta {
+      background: linear-gradient(135deg, rgba(10,102,194,0.12), rgba(10,102,194,0.04));
+      border-color: rgba(10,102,194,0.25);
+    }
+    .linkedin-cta .sidebar-label { color: #4a9fd4; }
+    .linkedin-cta p { font-size: 12px; color: var(--text-muted); line-height: 1.5; margin-bottom: 12px; }
+    .linkedin-cta .cta-btn {
+      display: block;
+      background: #0a66c2;
+      color: #fff;
+      text-align: center;
+      padding: 8px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 600;
+      text-decoration: none;
+      transition: background 0.2s;
+    }
+    .linkedin-cta .cta-btn:hover { background: #004182; }
+
+    /* ── TOPICS ── */
+    .topic-list { display: flex; flex-wrap: wrap; gap: 6px; }
+    .topic-chip {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 10px;
+      color: var(--cyan);
+      border: 1px solid rgba(0,212,255,0.25);
+      padding: 3px 8px;
+      border-radius: 2px;
+      cursor: pointer;
+      transition: all 0.15s;
+      background: rgba(0,212,255,0.04);
+    }
+    .topic-chip:hover { background: rgba(0,212,255,0.12); border-color: var(--cyan); }
+
+    /* ── STATUS ── */
+    .status-msg {
+      padding: 40px;
+      border: 1px dashed var(--border-bright);
+      text-align: center;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 12px;
+      color: var(--text-muted);
+      border-radius: 4px;
+    }
+
+    /* ── MODAL ── */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.88);
+      z-index: 999;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .modal-overlay.open { display: flex; }
+    .modal {
+      background: var(--surface);
+      border: 1px solid var(--border-bright);
+      border-radius: 6px;
+      width: 100%;
+      max-width: 620px;
+      padding: 24px;
+    }
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+    }
+    .modal-title {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 12px;
+      color: var(--cyan);
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+    }
+    .modal-close {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 18px;
+      cursor: pointer;
+    }
+    .modal-source {
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+      font-style: italic;
+    }
+    .modal textarea {
+      width: 100%;
+      background: var(--bg);
+      border: 1px solid var(--border-bright);
+      color: var(--text-bright);
+      font-family: 'Inter', sans-serif;
+      font-size: 13px;
+      line-height: 1.6;
+      padding: 14px;
+      border-radius: 4px;
+      resize: vertical;
+      min-height: 220px;
+      outline: none;
+    }
+    .modal textarea:focus { border-color: #0a66c2; }
+    .modal-actions {
+      display: flex;
+      gap: 10px;
+      margin-top: 12px;
+      justify-content: flex-end;
+    }
+    .modal-actions button {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      padding: 8px 16px;
+      border-radius: 3px;
+      cursor: pointer;
+      letter-spacing: 0.5px;
+      border: 1px solid;
+    }
+    .btn-copy { background: #0a66c2; color: #fff; border-color: #0a66c2; }
+    .btn-cancel { background: transparent; color: var(--text-muted); border-color: var(--border-bright); }
+    .generating-msg {
+      text-align: center;
+      padding: 30px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 12px;
+      color: var(--cyan);
+    }
+    .dots::after {
+      content: '';
+      animation: dots 1.2s steps(4,end) infinite;
+    }
+    @keyframes dots { 0%{content:''} 25%{content:'.'} 50%{content:'..'} 75%{content:'...'} 100%{content:''} }
+
+    /* ── FOOTER ── */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 20px 24px;
+      text-align: center;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      color: var(--text-muted);
+    }
+    footer a { color: var(--cyan); text-decoration: none; }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 768px) {
+      .main { grid-template-columns: 1fr; }
+      .sidebar { display: none; }
+      nav { padding: 0 16px; }
+      .hero, .controls, .status-bar { padding-left: 16px; padding-right: 16px; }
+      .main { padding: 0 16px 40px; }
+      .article { grid-template-columns: 1fr; }
+      .article-actions { flex-direction: row; }
+    }
+  </style>
 </head>
 <body>
 
-    <div class="container">
-        <header>
-            <h1>Neural Pulse</h1>
-            <p id="tagline" class="tagline">Tracking the heartbeat of the AI frontier.</p>
-            <div id="sync-meta">
-                <span class="dot"></span>
-                <span id="update-text">NEURAL_LINK: INITIALIZING</span>
-            </div>
-        </header>
+  <!-- NAV -->
+  <nav>
+    <a class="nav-brand" href="https://kennethlaroche.tech">SHIELD<span>LOGIC</span></a>
+    <div class="nav-links">
+      <a href="https://sentinel.kennethlaroche.tech">SENTINEL</a>
+      <a href="https://pulse.kennethlaroche.tech" class="active">NEURAL PULSE</a>
+      <a href="https://www.linkedin.com/in/kennethlaroche" target="_blank" class="nav-pill">LINKEDIN</a>
+    </div>
+  </nav>
 
-        <div id="news-container">
-            <div class="status-msg">Aligning neural weights...</div>
-        </div>
+  <!-- HERO -->
+  <div class="hero">
+    <div class="hero-bg"></div>
+    <div class="hero-eyebrow">// SHIELDLOGIC INTELLIGENCE NETWORK</div>
+    <h1>NEURAL_PULSE<span class="cursor"></span></h1>
+    <p class="hero-sub">Frontier AI intelligence. LLMs, agentic workflows, governance, and the infrastructure race — updated automatically every 6 hours.</p>
+  </div>
+
+  <!-- STATUS BAR -->
+  <div class="status-bar">
+    <div class="status-inner">
+      <div class="pulse-dot"></div>
+      <span class="status-label">NEURAL LINK:</span>
+      <span class="status-value" id="status-value">INITIALIZING</span>
+      <span class="status-sync" id="status-sync">—</span>
+    </div>
+  </div>
+
+  <!-- CONTROLS -->
+  <div class="controls">
+    <input class="search-box" id="search-input" type="text" placeholder="// search frontier signals..." autocomplete="off">
+    <button class="filter-btn active" data-filter="all">ALL</button>
+    <button class="filter-btn" data-filter="models">MODELS</button>
+    <button class="filter-btn" data-filter="governance">GOVERNANCE</button>
+    <button class="filter-btn" data-filter="agentic">AGENTIC</button>
+    <button class="filter-btn" data-filter="policy">POLICY</button>
+    <span id="article-count"></span>
+  </div>
+
+  <!-- MAIN -->
+  <div class="main">
+    <div id="feed-container">
+      <div class="status-msg">[ ALIGNING NEURAL WEIGHTS<span class="dots"></span> ]</div>
     </div>
 
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+      <!-- Stats -->
+      <div class="sidebar-card">
+        <span class="sidebar-label">// SIGNAL STATS</span>
+        <div class="stat-row">
+          <span class="label">Total Signals</span>
+          <span class="val cyan" id="stat-total">—</span>
+        </div>
+        <div class="stat-row">
+          <span class="label">Model Releases</span>
+          <span class="val purple" id="stat-models">—</span>
+        </div>
+        <div class="stat-row">
+          <span class="label">Policy/Gov</span>
+          <span class="val" id="stat-policy">—</span>
+        </div>
+        <div class="stat-row">
+          <span class="label">Last Sync</span>
+          <span class="val" id="stat-sync" style="font-size:10px;">—</span>
+        </div>
+      </div>
+
+      <!-- Topics -->
+      <div class="sidebar-card">
+        <span class="sidebar-label">// HOT TOPICS</span>
+        <div class="topic-list" id="topic-list">
+          <span class="topic-chip" data-topic="llm">LLM</span>
+          <span class="topic-chip" data-topic="agent">AGENTS</span>
+          <span class="topic-chip" data-topic="govern">GOVERNANCE</span>
+          <span class="topic-chip" data-topic="open">OPEN SOURCE</span>
+          <span class="topic-chip" data-topic="safety">AI SAFETY</span>
+          <span class="topic-chip" data-topic="regulation">REGULATION</span>
+          <span class="topic-chip" data-topic="multimodal">MULTIMODAL</span>
+        </div>
+      </div>
+
+      <!-- LinkedIn CTA -->
+      <div class="sidebar-card linkedin-cta">
+        <span class="sidebar-label">// LINKEDIN INTEL</span>
+        <p>Turn any AI signal into a thought leadership post. Click "Draft Post" on any article to generate a ready-to-edit LinkedIn post from your perspective as an AI governance & cybersecurity leader.</p>
+        <a class="cta-btn" href="https://www.linkedin.com/in/kennethlaroche" target="_blank">View Profile →</a>
+      </div>
+
+      <!-- Nav -->
+      <div class="sidebar-card">
+        <span class="sidebar-label">// NETWORK NODES</span>
+        <div class="nav-links-sidebar">
+          <a href="https://kennethlaroche.tech">⬡ ShieldLogic Gateway</a>
+          <a href="https://sentinel.kennethlaroche.tech">⬡ Sentinel Protocol</a>
+          <a href="https://pulse.kennethlaroche.tech">⬡ Neural Pulse</a>
+          <a href="https://www.linkedin.com/in/kennethlaroche" target="_blank">⬡ LinkedIn</a>
+        </div>
+      </div>
+    </aside>
+  </div>
+
+  <!-- FOOTER -->
+  <footer>
+    <a href="https://kennethlaroche.tech">SHIELDLOGIC</a> &nbsp;·&nbsp; NEURAL_PULSE &nbsp;·&nbsp; AUTO-SYNC EVERY 6H VIA GITHUB ACTIONS
+  </footer>
+
+  <!-- LINKEDIN DRAFT MODAL -->
+  <div class="modal-overlay" id="modal">
+    <div class="modal">
+      <div class="modal-header">
+        <span class="modal-title">// DRAFT LINKEDIN POST</span>
+        <button class="modal-close" id="modal-close">✕</button>
+      </div>
+      <div id="modal-source" class="modal-source"></div>
+      <div id="modal-body"></div>
+      <div class="modal-actions">
+        <button class="btn-cancel" id="modal-cancel">CANCEL</button>
+        <button class="btn-copy" id="modal-copy">COPY TO CLIPBOARD</button>
+      </div>
+    </div>
+  </div>
+
 <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            const container = document.getElementById('news-container');
-            const updateText = document.getElementById('update-text');
+// ── CONFIG ───────────────────────────────────────────────────────────────────
+const TAGS = {
+  models:     ['gpt','claude','gemini','llama','mistral','model','llm','release','launch','benchmark'],
+  governance: ['governance','regulation','compliance','policy','audit','risk','safety','responsible','trustworthy','nist'],
+  agentic:    ['agent','agentic','autonomous','workflow','multi-agent','tool use','orchestrat'],
+  policy:     ['congress','legislation','executive order','eu ai act','senate','white house','federal','government'],
+};
 
-            fetch('./data.json')
-                .then(res => {
-                    if (!res.ok) throw new Error('OFFLINE');
-                    return res.json();
-                })
-                .then(data => {
-                    container.innerHTML = ''; 
+// ── HELPERS ──────────────────────────────────────────────────────────────────
+function detectTags(text) {
+  const lower = text.toLowerCase();
+  return Object.entries(TAGS)
+    .filter(([, words]) => words.some(w => lower.includes(w)))
+    .map(([tag]) => tag);
+}
 
-                    // --- AI IMPACT ANALYSIS ENGINE ---
-                    const headlines = data.news.map(n => (n.title + n.description).toLowerCase());
-                    const impactTerms = ['agi', 'breakthrough', 'regulation', 'deepfake', 'lawsuit', 'hallucination', 'vulnerability', 'openai', 'open-source', 'sued', 'banned'];
-                    
-                    let impactScore = 0;
-                    headlines.forEach(text => {
-                        impactTerms.forEach(word => { if (text.includes(word)) impactScore++; });
-                    });
+function groupByDate(articles) {
+  const groups = {};
+  articles.forEach(a => {
+    const d = a.date ? new Date(a.date).toDateString() : 'Unknown Date';
+    if (!groups[d]) groups[d] = [];
+    groups[d].push(a);
+  });
+  return groups;
+}
 
-                    // Define the dynamic Pulse colors
-                    let state = { 
-                        level: 'NOMINAL_VELOCITY', 
-                        gradient: 'linear-gradient(135deg, #2563eb, #7c3aed)', // Blue/Purple
-                        dot: '#2563eb' 
-                    }; 
-                    
-                    if (impactScore > 5) {
-                        state = { 
-                            level: 'DISRUPTIVE_EVENT', 
-                            gradient: 'linear-gradient(135deg, #e11d48, #ea580c)', // Magenta/Orange
-                            dot: '#e11d48' 
-                        };
-                    } else if (impactScore > 1) {
-                        state = { 
-                            level: 'ELEVATED_ACTIVITY', 
-                            gradient: 'linear-gradient(135deg, #0d9488, #2dd4bf)', // Teal/Cyan
-                            dot: '#0d9488' 
-                        };
-                    }
+function formatDateLabel(dateStr) {
+  if (dateStr === 'Unknown Date') return dateStr;
+  const d = new Date(dateStr);
+  const today = new Date().toDateString();
+  const yesterday = new Date(Date.now() - 86400000).toDateString();
+  if (d.toDateString() === today) return `<span class="date-today">TODAY — </span>${d.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'}).toUpperCase()}`;
+  if (d.toDateString() === yesterday) return `YESTERDAY — ${d.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'}).toUpperCase()}`;
+  return d.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'}).toUpperCase();
+}
 
-                    // Apply the Impact to the UI dynamically
-                    document.querySelector('h1').style.background = state.gradient;
-                    document.querySelector('h1').style.webkitBackgroundClip = 'text';
-                    document.querySelector('.dot').style.backgroundColor = state.dot;
-                    updateText.style.color = state.dot;
-                    updateText.innerText = `NEURAL_LINK: ${state.level} | SYNC: ${data.updated}`;
+function extractSource(description) {
+  const m = description && description.match(/^\[([^\]]+)\]/);
+  return m ? m[1] : 'INTEL';
+}
 
-                    // --- RENDER CONTENT ---
-                    data.news.forEach(art => {
-                        const div = document.createElement('div');
-                        div.className = 'article';
-                        
-                        // Mild XSS Mitigation for Pulse
-                        const title = art.title.replace(/</g, "&lt;");
-                        const desc = (art.description || "Synthesizing briefing...").replace(/</g, "&lt;");
+function isModelRelated(text) {
+  return /gpt|claude|gemini|llama|mistral|model release|new model/i.test(text);
+}
+function isPolicyRelated(text) {
+  return /governance|regulation|policy|congress|eu ai act|executive order|safety framework/i.test(text);
+}
 
-                        div.innerHTML = `
-                            <h3>${title}</h3>
-                            <p>${desc}</p>
-                            <a href="${art.url}" target="_blank" rel="noopener noreferrer">View Intel Report →</a>
-                        `;
-                        container.appendChild(div);
-                    });
-                })
-                .catch(err => {
-                    updateText.innerText = "NEURAL_LINK: DISCONNECTED";
-                    container.innerHTML = `<div class="status-msg">Establish manual link via GitHub Actions.</div>`;
-                });
-        });
-    </script>
+// ── RENDER ───────────────────────────────────────────────────────────────────
+function renderFeed(articles) {
+  const container = document.getElementById('feed-container');
+  if (!articles.length) {
+    container.innerHTML = '<div class="status-msg">[ NO SIGNALS MATCH CURRENT FILTER ]</div>';
+    return;
+  }
+
+  const groups = groupByDate(articles);
+  container.innerHTML = '';
+
+  Object.entries(groups).forEach(([dateKey, arts]) => {
+    const group = document.createElement('div');
+    group.className = 'date-group';
+    group.innerHTML = `<div class="date-heading">${formatDateLabel(dateKey)}</div>`;
+
+    arts.forEach(art => {
+      const tags = detectTags(art.title + ' ' + art.description);
+      const source = extractSource(art.description);
+      const isModel = isModelRelated(art.title + art.description);
+      const isPolicy = isPolicyRelated(art.title + art.description);
+      const badgeClass = isModel ? 'model' : isPolicy ? 'policy' : '';
+
+      const card = document.createElement('div');
+      card.className = 'article';
+      card.dataset.title = art.title.toLowerCase();
+      card.dataset.desc = (art.description||'').toLowerCase();
+      card.dataset.tags = tags.join(',');
+
+      const tagBadges = tags.map(t => `<span class="tag-badge">${t}</span>`).join('');
+
+      card.innerHTML = `
+        <div class="article-body">
+          <div class="article-meta">
+            <span class="source-badge ${badgeClass}">${source}</span>
+            ${tagBadges}
+          </div>
+          <h3>${art.title.replace(/</g,'&lt;')}</h3>
+          <p>${(art.description||'No summary available.').replace(/^\[[^\]]+\]\s*/,'').replace(/</g,'&lt;')}</p>
+        </div>
+        <div class="article-actions">
+          <a class="btn-read" href="${art.url}" target="_blank" rel="noopener noreferrer">&gt; READ</a>
+          <button class="btn-draft" data-title="${art.title.replace(/"/g,'&quot;')}" data-desc="${(art.description||'').replace(/"/g,'&quot;')}">⬡ DRAFT POST</button>
+        </div>
+      `;
+      group.appendChild(card);
+    });
+
+    container.appendChild(group);
+  });
+
+  container.querySelectorAll('.btn-draft').forEach(btn => {
+    btn.addEventListener('click', () => openDraftModal(btn.dataset.title, btn.dataset.desc));
+  });
+}
+
+// ── LINKEDIN DRAFT MODAL ─────────────────────────────────────────────────────
+function openDraftModal(title, desc) {
+  const modal = document.getElementById('modal');
+  const body = document.getElementById('modal-body');
+  document.getElementById('modal-source').textContent = `Source: ${title}`;
+  body.innerHTML = `<div class="generating-msg">GENERATING LINKEDIN DRAFT<span class="dots"></span></div>`;
+  modal.classList.add('open');
+
+  const cleanDesc = desc.replace(/^\[[^\]]+\]\s*/,'');
+  const draft = generateAIDraft(title, cleanDesc);
+  setTimeout(() => {
+    body.innerHTML = `<textarea id="draft-text">${draft}</textarea>`;
+  }, 900);
+}
+
+function generateAIDraft(title, desc) {
+  return `🤖 ${title}
+
+${desc ? desc + '\n\n' : ''}Here's the governance angle nobody's talking about:
+
+This isn't just a technical development — it has direct implications for organizations trying to build responsible AI frameworks. As someone working at the intersection of cybersecurity, GRC, and AI governance, this is exactly the kind of signal I'm tracking.
+
+The questions organizations need to be asking right now:
+→ Does your AI use policy account for this capability shift?
+→ Are your procurement and vendor risk frameworks current?
+→ Who in your org owns the governance layer for AI tools?
+
+The organizations getting this right aren't waiting for regulation to catch up. They're building AI governance frameworks now — using NIST AI RMF, ISO/IEC 42001, and internal controls that actually reflect how AI is being deployed in their environment.
+
+The gap between AI advancement and governance readiness is widening. That gap is both a risk and an opportunity.
+
+#AIGovernance #ArtificialIntelligence #GRC #ResponsibleAI #NIST #CloudSecurity #CyberLeadership`;
+}
+
+function copyToClipboard() {
+  const ta = document.getElementById('draft-text');
+  if (!ta) return;
+  navigator.clipboard.writeText(ta.value).then(() => {
+    const btn = document.getElementById('modal-copy');
+    btn.textContent = 'COPIED ✓';
+    setTimeout(() => btn.textContent = 'COPY TO CLIPBOARD', 2000);
+  });
+}
+
+document.getElementById('modal-close').addEventListener('click', () => document.getElementById('modal').classList.remove('open'));
+document.getElementById('modal-cancel').addEventListener('click', () => document.getElementById('modal').classList.remove('open'));
+document.getElementById('modal-copy').addEventListener('click', copyToClipboard);
+document.getElementById('modal').addEventListener('click', e => { if (e.target === e.currentTarget) e.currentTarget.classList.remove('open'); });
+
+// ── FILTERS & SEARCH ─────────────────────────────────────────────────────────
+let allArticles = [];
+let activeFilter = 'all';
+let activeSearch = '';
+
+function applyFilters() {
+  let filtered = allArticles;
+
+  if (activeFilter !== 'all') {
+    filtered = filtered.filter(a => {
+      const tags = detectTags(a.title + ' ' + a.description);
+      return tags.includes(activeFilter);
+    });
+  }
+
+  if (activeSearch) {
+    filtered = filtered.filter(a =>
+      a.title.toLowerCase().includes(activeSearch) ||
+      (a.description||'').toLowerCase().includes(activeSearch)
+    );
+  }
+
+  document.getElementById('article-count').textContent = `${filtered.length} SIGNALS`;
+  renderFeed(filtered);
+}
+
+document.getElementById('search-input').addEventListener('input', e => {
+  activeSearch = e.target.value.toLowerCase().trim();
+  applyFilters();
+});
+
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activeFilter = btn.dataset.filter;
+    applyFilters();
+  });
+});
+
+// Topic chips act as search shortcuts
+document.querySelectorAll('.topic-chip').forEach(chip => {
+  chip.addEventListener('click', () => {
+    const q = chip.dataset.topic;
+    document.getElementById('search-input').value = q;
+    activeSearch = q;
+    applyFilters();
+  });
+});
+
+// ── INIT ─────────────────────────────────────────────────────────────────────
+document.addEventListener('DOMContentLoaded', () => {
+  fetch('./data.json')
+    .then(r => { if (!r.ok) throw new Error(); return r.json(); })
+    .then(data => {
+      allArticles = data.news || [];
+
+      const modelCount = allArticles.filter(a => isModelRelated(a.title + a.description)).length;
+      const policyCount = allArticles.filter(a => isPolicyRelated(a.title + a.description)).length;
+
+      document.getElementById('status-value').textContent = 'SYNCED';
+      document.getElementById('status-sync').textContent = `LAST SYNC: ${data.updated || '—'}`;
+      document.getElementById('stat-total').textContent = allArticles.length;
+      document.getElementById('stat-models').textContent = modelCount;
+      document.getElementById('stat-policy').textContent = policyCount;
+      document.getElementById('stat-sync').textContent = data.updated || '—';
+
+      document.getElementById('article-count').textContent = `${allArticles.length} SIGNALS`;
+      renderFeed(allArticles);
+    })
+    .catch(() => {
+      document.getElementById('status-value').textContent = 'SIGNAL_LOST';
+      document.getElementById('feed-container').innerHTML =
+        '<div class="status-msg" style="color:#ff4444;border-color:#ff4444;">[ ERROR: DATA_UNREACHABLE — CHECK GITHUB ACTIONS ]</div>';
+    });
+});
+</script>
 </body>
 </html>
