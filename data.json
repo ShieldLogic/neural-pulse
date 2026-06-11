@@ -1,59 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-11 17:47 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Siri\u2019s Total Chatbot Makeover Is Imminent With iOS 27",
-            "description": "Android isn't the only OS leaning into agentic AI.",
-            "url": "https://gizmodo.com/siri-total-chatbot-makeover-is-imminent-with-ios-27-2000757747",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/A1A9528-1200x675.jpg",
-            "publishedAt": "2026-05-12T22:15:29Z",
-            "content": "It\u2019s been nearly two years since Apple promised an AI-supercharged Siri, but if a new report is any indication, that transformation is finally upon us. According to Bloomberg\u2019s Mark Gurman, there are\u2026 [+2195 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
-            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
-            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
-            "publishedAt": "2026-05-20T19:02:47Z",
-            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Paresh Dave, Maxwell Zeff",
-            "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-            "description": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
-            "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
-            "urlToImage": "https://media.wired.com/photos/6a07b49c3e66727feabf05fc/191:100/w_1280,c_limit/Model-Behavior-Altman-v-Musk-Verdict-Business.jpg",
-            "publishedAt": "2026-05-18T17:40:30Z",
-            "content": "Elon Musk suffered the worst defeat possible in his legal battle against OpenAI as a federal jury and a judge ruled he waited too long to bring his claims against the AI startup and its top executive\u2026 [+2873 chars]"
-        }
-    ]
+  "updated": "2026-06-11 18:04:56 UTC",
+  "news": [
+    {
+      "title": "Deezer\u2019s new tool can identify AI music from Spotify, Apple Music, and others",
+      "description": "[TECHCRUNCH] Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "date": "2026-06-11T16:36:20Z"
+    },
+    {
+      "title": "Pool\u2019s new app turns your screenshots into something useful",
+      "description": "[TECHCRUNCH] Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
+      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+      "date": "2026-06-11T15:30:00Z"
+    },
+    {
+      "title": "DoorDash\u2019s new AI chatbot lets you order with prompts and photos",
+      "description": "[TECHCRUNCH] The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "date": "2026-06-11T14:23:43Z"
+    },
+    {
+      "title": "Visa ChatGPT integration enables AI agent retail purchasing",
+      "description": "[AI-NEWS] Visa has linked its payment infrastructure to ChatGPT, enabling AI agents to recommend retail products and execute financial transactions. The deployment removes human intervention from the final stages of the retail funnel. Autonomous agents will...",
+      "url": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/",
+      "date": "2026-06-11T11:08:17Z"
+    },
+    {
+      "title": "Xebia: Why AI agents fail without the right data foundation",
+      "description": "[AI-NEWS] If your remit is to help your organisation add AI agents to accelerate its processes, you have to start at the foundation \u2013 and that means making your data available for AI consumption. Agentic AI scales on data strength, as Niels Zeilemaker, global...",
+      "url": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
+      "date": "2026-06-11T10:42:38Z"
+    },
+    {
+      "title": "A home that washes, cools and thinks for you: Inside LG's 'Zero Labor Home' vision for India",
+      "description": "[THE ECONOMIC TIMES] LG Electronics is building a future home powered by artificial intelligence. Intelligent appliances, connected platforms, and robots will work together to automate chores. This \"Zero Labor Home\" vision aims for ultimate convenience. India is a key...",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/durables/a-home-that-washes-cools-and-thinks-for-you-inside-lgs-zero-labor-home-vision-for-india/articleshow/131649682.cms",
+      "date": "2026-06-11T05:55:00Z"
+    },
+    {
+      "title": "'AI will kill us all anyway': Days before SpaceX IPO, former xAI engineer says he was fired after warning about Grok's safety risks",
+      "description": "[TIMES OF INDIA] Tech News News: Just as investors prepare for what could become the largest IPO in history, a lawsuit from inside Elon Musk's artificial intelligence empire has pulle.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-will-kill-us-all-anyway-days-before-spacex-ipo-former-xai-engineer-says-he-was-fired-after-warning-about-groks-safety-risks/articleshow/131650040.cms",
+      "date": "2026-06-11T05:32:00Z"
+    },
+    {
+      "title": "LSEG slowly sheds 'AI risk' tag with drive to show growth",
+      "description": "[THE ECONOMIC TIMES] LSEG shares tumbled nearly 13% in one day in February as worries about the threat posed by large language artificial intelligence models like Anthropic's Claude triggered a sharp selloff in software stocks.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/lseg-slowly-sheds-ai-risk-tag-with-drive-to-show-growth/articleshow/131650086.cms",
+      "date": "2026-06-11T05:30:22Z"
+    },
+    {
+      "title": "SpaceX IPO is said to be more than four times oversubscribed",
+      "description": "[THE HINDU BUSINESS LINE] SpaceX\u2019s initial public offering has attracted demand for more than four times the available shares, according to people familiar with the matter, ahead of the Elon Musk-led rocket, satellite and artificial intelligence firm stopping taking orders.",
+      "url": "https://www.thehindubusinessline.com/info-tech/spacex-ipo-is-said-to-be-more-than-four-times-oversubscribed/article71087485.ece",
+      "date": "2026-06-11T05:27:12Z"
+    },
+    {
+      "title": "Weis Markets rolls out Instacart's AI-powered caper carts to reinvent in-store shopping",
+      "description": "[THE ECONOMIC TIMES] Weis Markets has partnered with Instacart to launch AI-powered Caper Carts, bringing smart shopping cart technology to select grocery stores. Featuring computer vision, digital coupons, loyalty rewards and real-time spending updates, the initiative...",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/weis-markets-rolls-out-instacarts-ai-powered-caper-carts-to-reinvent-in-store-shopping/articleshow/131649883.cms",
+      "date": "2026-06-11T05:18:00Z"
+    },
+    {
+      "title": "What Is MANGOS? The New Tech Acronym Replacing FAANG in the AI Era",
+      "description": "[MASHABLE INDIA] As artificial intelligence reshapes the technology landscape, a new acronym called MANGOS is gaining traction as the potential successor to FAANG among investors, developers, and tech enthusiasts.",
+      "url": "https://in.mashable.com/tech/110765/what-is-mangos-the-new-tech-acronym-replacing-faang-in-the-ai-era",
+      "date": "2026-06-11T05:16:47Z"
+    },
+    {
+      "title": "AI risks are here, time for tough rules: Anthropic CEO Dario Amodei",
+      "description": "[THE ECONOMIC TIMES] As artificial intelligence grows more powerful, governments must move beyond transparency measures and introduce stronger regulations to address emerging risks, according to Anthropic CEO Dario Amodei.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-risks-are-here-time-for-tough-rules-anthropic-ceo-dario-amodei/articleshow/131649696.cms",
+      "date": "2026-06-11T05:06:12Z"
+    },
+    {
+      "title": "Prepare for \u2018know your agent\u2019 AI checks, says FCA",
+      "description": "[THE BANKER] The UK regulator wants to get ahead of the issue of agentic AI in the banking sector",
+      "url": "https://www.thebanker.com/content/b131a443-d09b-4c9f-883a-a00dd173fedd",
+      "date": "2026-06-11T05:00:05Z"
+    },
+    {
+      "title": "BofA Lifts STMicroelectronics Rating, Price Objective Amid Optical Interconnects Upside Potential",
+      "description": "[MARKETSCREENER] BofA Global Research upgraded its rating and price objective for STMicroelectronics , citing earnings catalysts, including the company's exposure to the artificial intelligence infrastructure cycle...",
+      "url": "https://www.marketscreener.com/news/bofa-lifts-stmicroelectronics-rating-price-objective-amid-optical-interconnects-upside-potential-ce7f5cdbde81f022",
+      "date": "2026-06-11T04:46:28Z"
+    },
+    {
+      "title": "Elon Musk's xAI accused of illegally firing engineer who raised safety concerns",
+      "description": "[THE HINDU] A former engineer at Elon \u200cMusk\u2019s xAI who now heads a think tank focused on AI \u200bsafety filed a lawsuit claiming he was fired from the SpaceX \u2060subsidiary for raising concerns about the risks artificial intelligence poses",
+      "url": "https://www.thehindu.com/sci-tech/technology/elon-musks-xai-accused-of-illegally-firing-engineer-who-raised-safety-concerns/article71087522.ece",
+      "date": "2026-06-11T04:40:40Z"
+    },
+    {
+      "title": "Opendoor\u2019s India exit is fueling a bigger conversation about AI and outsourcing",
+      "description": "[TECHCRUNCH] The decision comes as India emerges as the world\u2019s largest GCC market.",
+      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "date": "2026-06-11T04:02:19Z"
+    },
+    {
+      "title": "Anthropic\u2019s Dario Amodei has just one direct report",
+      "description": "[TECHCRUNCH] If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
+      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "date": "2026-06-11T03:53:06Z"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "date": "2026-06-11T00:00:00Z"
+    },
+    {
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "description": "[TECHCRUNCH] A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "date": "2026-06-10T22:31:19Z"
+    },
+    {
+      "title": "Siri AI arrives with Google inside, and much of the world is locked out",
+      "description": "[AI-NEWS] &#8220;We&#8217;ve all had that moment where you search for something you know is there, but it just won&#8217;t show up.&#8221; Apple&#8217;s Stacey Ford, vice president of OS Program Management, was talking about Spotlight at WWDC 2026, but she...",
+      "url": "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/",
+      "date": "2026-06-10T11:00:00Z"
+    },
+    {
+      "title": "McDonald\u2019s tests Google-backed AI drive-thru ordering system",
+      "description": "[AI-NEWS] McDonald\u2019s is testing a new AI system that can take drive-thru orders and support restaurant operations. The system, called ArchIQ and nicknamed \u201cArchy,\u201d was introduced during the company\u2019s Worldwide convention, according to Restaurant Business. It...",
+      "url": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/",
+      "date": "2026-06-10T10:00:00Z"
+    },
+    {
+      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "date": "2026-06-09T19:38:28Z"
+    },
+    {
+      "title": "Introducing North Mini Code: Cohere\u2019s First Model For Developers",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "date": "2026-06-09T15:56:23Z"
+    },
+    {
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "date": "2026-06-09T10:46:19Z"
+    },
+    {
+      "title": "How to sign PDFs easily online with a PDF signer",
+      "description": "[AI-NEWS] Signing PDFs has become an important task for businesses and individuals alike. Whether you&#8217;re handling contracts, legal agreements, or forms, the ability to quickly and securely sign PDFs online is essential. Fortunately, with the rise of...",
+      "url": "https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/",
+      "date": "2026-06-09T09:01:51Z"
+    },
+    {
+      "title": "Autonomous AI Data Loss in DevOps: Building Efficient Defenses",
+      "description": "[AI-NEWS] Autonomous AI agents are altering the speed at which software is shipped. Unfortunately, they are also shrinking the time it takes for a mistake to become a catastrophe, creating a dangerous blind spot in many security strategies. The threat no...",
+      "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops/",
+      "date": "2026-06-09T08:50:39Z"
+    },
+    {
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "date": "2026-06-09T00:00:00Z"
+    },
+    {
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "date": "2026-06-08T00:00:00Z"
+    }
+  ]
 }
