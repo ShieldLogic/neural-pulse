@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-11 03:33:42 UTC",
+    "updated": "2026-06-11 08:41:46 UTC",
     "news": [
         {
             "title": "New framework for auditing machine unlearning",
@@ -12,9 +12,9 @@
             "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
         },
         {
-            "title": "Scikit-LLM vs. Traditional Text Classifiers: When Should You Use an LLM?",
-            "description": "[MACHINELEARNINGMASTERY] In recent years, generative AI models like LLMs (large language models) have gradually taken over classical machine learning ones for addressing certain tasks, for instance, text classification .",
-            "url": "https://machinelearningmastery.com/scikit-llm-vs-traditional-text-classifiers-when-should-you-use-an-llm/"
+            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
+            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
+            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
         },
         {
             "title": "A New Era of Discovery: Google Research at I/O 2026",
@@ -22,14 +22,14 @@
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
         },
         {
+            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
+        },
+        {
             "title": "Towards passive heart health monitoring via smartphone camera",
             "description": "[RESEARCH] Health & Bioscience",
             "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/"
-        },
-        {
-            "title": "Using Scikit-LLM with Open-Source LLMs",
-            "description": "[MACHINELEARNINGMASTERY] This article will teach you how to perform a language task like text classification by integrating locally hosted large language models (LLMs) of manageable size, like Mistral, Gemma, and Llama 3:...",
-            "url": "https://machinelearningmastery.com/using-scikit-llm-with-open-source-llms/"
         },
         {
             "title": "Information-Driven Design of Imaging Systems",
@@ -47,14 +47,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
-            "title": "The Practitioner\u2019s Guide to AgentOps",
-            "description": "[MACHINELEARNINGMASTERY] According to Futurum Research's 2025 market overview of agentic AI platforms, <a href=\"https://zbrain.",
-            "url": "https://machinelearningmastery.com/the-practitioners-guide-to-agentops/"
+            "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
+            "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
+            "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
-            "title": "The Roadmap for Mastering LLMOps in 2026",
-            "description": "[MACHINELEARNINGMASTERY] The LLMOps market is projected to grow from <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-for-mastering-llmops-in-2026/"
+            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
+            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
+            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
         },
         {
             "title": "Identifying Interactions at Scale for LLMs",
@@ -62,14 +62,14 @@
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
         },
         {
+            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
+            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
+            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
+        },
+        {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
             "description": "[BAIR] Overview of adaptive parallel reasoning. What if a reasoning model could decide for itself when to decompose and parallelize independent subtasks, how many concurrent threads to spawn, and how to...",
             "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/"
-        },
-        {
-            "title": "Building Semantic Search with Transformers.js and Sentence Embeddings",
-            "description": "[MACHINELEARNINGMASTERY] You've probably shipped this bug before, where a user types \" affordable laptop \" into your search bar and gets zero results.",
-            "url": "https://machinelearningmastery.com/building-semantic-search-with-transformers-js-and-sentence-embeddings/"
         },
         {
             "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform\u2019s Agentic RAG",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/"
         },
         {
-            "title": "How OpenClaw that Sam Altman spent billions on is 'helping' companies in China do what the Chinese government has strictly banned them from doing",
-            "description": "[TIMES OF INDIA] Tech News News: Artificial intelligence (AI) tools such as OpenClaw are transforming workplaces across China, helping companies boost productivity but also quietly re.",
-            "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-openclaw-that-sam-altman-spent-billions-on-is-helping-companies-in-china-do-what-the-chinese-government-has-strictly-banned-them-from-doing/articleshow/131638881.cms"
+            "title": "Another sell-off for AI stocks knocks Wall Street back to where it was 5 weeks ago",
+            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Another sell-off for artificial-intelligence stocks dragged the U.S. market sharply lower. The S&P 500 dropped 1.6% Wednesday for its first back-to-back drop in three weeks and is back to where it...",
+            "url": "https://www.ajc.com/news/2026/06/another-sell-off-for-ai-stocks-drags-wall-street-to-its-first-back-to-back-drop-in-weeks/"
         },
         {
-            "title": "Datadog's Rapid Pace of AI Product Development is Acting as Positive Trend, RBC Says",
-            "description": "[MARKETSCREENER] Datadog's rapid advancement of its artificial intelligence-influenced product strategy is acting as a durable and positive trend for the company, RBC Capital Markets said in a research report...",
-            "url": "https://www.marketscreener.com/news/datadog-s-rapid-pace-of-ai-product-development-is-acting-as-positive-trend-rbc-says-ce7f5cdbda8cf720"
+            "title": "Another sell-off for AI stocks knocks Wall Street back to where it was 5 weeks ago",
+            "description": "[BARCHART] Another sell-off for artificial-intelligence stocks dragged the U.S. market sharply lower",
+            "url": "https://www.barchart.com/story/news/2391621/another-sell-off-for-ai-stocks-knocks-wall-street-back-to-where-it-was-5-weeks-ago"
         },
         {
-            "title": "Global media lays out pitfalls of no sovereign AI model",
-            "description": "[THEPRINT] Financial Times writes India 'appears' to have largely given up ambition to build sovereign AI model. 'The only promising option is Sarvam, which is building a foundational LLM for Indian languages'.",
-            "url": "https://theprint.in/global-pulse/indias-ai-report-card-global-media-lays-out-pitfalls-of-no-sovereign-model-but-also-some-pros/2956290/"
+            "title": "Avoid Next Energy Crisis: Throttle Overdone Climate Restraints",
+            "description": "[NEWSMAX] Surging demand for more power to fuel Artificial Intelligence (AI) is on a collision course with, let's call them Greentifa, regulations aimed at reducing carbon emissions and forcing a switch to...",
+            "url": "https://www.newsmax.com/denniskneale/gas-hyperscalers-oil/2026/06/10/id/1259234/"
         },
         {
-            "title": "USC football hiring director of AI, a first-of-its-kind move",
-            "description": "[USA TODAY] Southern California received a $200 million gift to assist with artificial Intelligence research. Now, it's football program is naming a head of AI.",
-            "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2026/06/10/usc-football-director-ai-lincoln-riley/90489398007/"
+            "title": "NMC To Scientifically Assess Health of 5,000 Trees Using Ai-lidar Technology",
+            "description": "[TIMES OF INDIA] Nagpur: Nearly 5,000 trees across Nagpur will soon undergo scientific health and risk assessment using artificial intelligence (AI) and light detectio.",
+            "url": "https://timesofindia.indiatimes.com/city/nagpur/nmc-to-scientifically-assess-health-of-5000-trees-using-ai-lidar-technology/articleshow/131644125.cms"
         },
         {
-            "title": "Investors Feed A.I. Firms\u2019 Voracious Appetite for New Money",
-            "description": "[THE NEW YORK TIMES] In the race to dominate the artificial intelligence industry, companies like SpaceX and Alphabet are borrowing cash and raising equity from investors at the fastest pace in decades.",
-            "url": "https://www.nytimes.com/2026/06/10/business/investors-artificial-intelligence.html"
+            "title": "Another sell-off for AI stocks drags Wall Street to its first back-to-back drop in weeks",
+            "description": "[BARCHART] Another sell-off for artificial-intelligence stocks dragged the U.S. market sharply lower",
+            "url": "https://www.barchart.com/story/news/2391621/another-sell-off-for-ai-stocks-drags-wall-street-to-its-first-back-to-back-drop-in-weeks"
         },
         {
-            "title": "Michigan Senate candidate agrees with Sanders on public ownership of AI firms",
-            "description": "[WASHINGTON EXAMINER] Abdul el Sayed said artificial intelligence could \"fundamentally change the nature of the social contract, or cause human demise.\"",
-            "url": "https://www.washingtonexaminer.com/policy/technology/4602280/michigan-senate-candidate-agree-sanders-public-ownership-ai-firm/"
+            "title": "WATCH LIVE: Senate Banking Committee holds hearing on artificial intelligence",
+            "description": "[PBS NEWS] The Senate Banking, Housing and Urban Affairs Committee is holding a hearing Thursday on artificial intelligence, titled \"AI and the American Dream: Promoting Innovation, Affordability, and American...",
+            "url": "https://www.pbs.org/newshour/politics/watch-live-senate-banking-committee-holds-hearing-on-artificial-intelligence"
         },
         {
-            "title": "World Cup 2026 winner forecast: The algorithm\u2019s predicted champion",
-            "description": "[THE INDEPENDENT] The machine learning algorithm and subsequent simulations are fueled by data, expert knowledge and statistical models",
-            "url": "https://www.independent.co.uk/sport/football/world-cup/world-cup-winner-odds-prediction-forecast-b2993323.html"
+            "title": "Anthropic pledges $200 million to research AI\u2019s economic impact as CEO suggests job loss solutions",
+            "description": "[PITTSBURGH TRIBUNE-REVIEW] Anthropic on Wednesday joined growing calls for the artificial intelligence industry to find ways to cushion people from the technology\u2019s disruptions, announcing an initial $200 million investment to...",
+            "url": "https://triblive.com/news/world/anthropic-pledges-200-million-to-research-ais-economic-impact-as-ceo-suggests-job-loss-solutions/"
         },
         {
-            "title": "UK's Prince William says AI can help to tackle homelessness",
-            "description": "[DEVDISCOURSE] Britain's Prince William has launched a data lab to use artificial intelligence and analyse data to predict and prevent homelessness, a cause he has long supported.",
-            "url": "https://www.devdiscourse.com/article/technology/3933189-uks-prince-william-says-ai-can-help-to-tackle-homelessness"
+            "title": "WSJ: WH Reins In AI-Testing Unit as Security Concerns Grow",
+            "description": "[NEWSMAX] Due to national security concerns as increasingly powerful systems enter the marketplace, the Trump administration has directed a key federal artificial intelligence testing unit to stop publishing...",
+            "url": "https://www.newsmax.com/scitech/donald-trump-commerce-caisi/2026/06/10/id/1259229/"
         },
         {
-            "title": "Karnataka to deploy AI-ready indigenously developed PCs across state",
-            "description": "[THEPRINT] Bengaluru, Jun 10 (PTI) Karnataka is set to deploy the first batch of 2,000 AI-ready KEO PCs across the state. KEO is the indigenously developed AI-ready personal computers and is priced at Rs...",
-            "url": "https://theprint.in/india/karnataka-to-deploy-ai-ready-indigenously-developed-pcs-across-state/2956333/"
+            "title": "off of AI stocks on Wall St, while oil prices rise",
+            "description": "[BREITBART NEWS NETWORK] Shares are mostly lower in Asia following another sell-off of artificial-intelligence stocks that dragged the U.S. market sharply lower. Shares are mostly",
+            "url": "https://www.breitbart.com/news/asian-shares-slip-after-another-sell-off-of-ai-stocks-on-wall-st-while-oil-prices-rise/"
         },
         {
-            "title": "AI boom set to drive global debt issuance to nearly $570 billion in 2026: Morgan Stanley",
-            "description": "[THE FINANCIAL EXPRESS] Artificial intelligence is fueling a surge in corporate borrowing as technology giants seek funding for massive infrastructure investments.",
-            "url": "https://www.financialexpress.com/market/global-markets/ai-boom-set-to-drive-global-debt-issuance-to-nearly-570-billion-in-2026-morgan-stanley/4264038/"
+            "title": "Seattle officially enacted an emergency one-year moratorium on new data centers.",
+            "description": "[THE VERGE] Among the moratorium\u2019s fiercest supporters were Amazon employees, who joined others to testify in support of the policy in multiple Seattle city council hearings. [Link: Amazon employees ask Seattle...",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/948031/seattle-officially-enacted-an-emergency-one-year-moratorium-on-new-data-centers"
         }
     ]
 }
