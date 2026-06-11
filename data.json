@@ -1,6 +1,11 @@
 {
-    "updated": "2026-06-11 08:41:46 UTC",
+    "updated": "2026-06-11 13:55:32 UTC",
     "news": [
+        {
+            "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
+            "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/"
+        },
         {
             "title": "New framework for auditing machine unlearning",
             "description": "[RESEARCH] Algorithms & Theory",
@@ -12,19 +17,19 @@
             "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/"
         },
         {
-            "title": "Implementing Statistical Guardrails for Non-Deterministic Agents",
-            "description": "[MACHINELEARNINGMASTERY] Non-deterministic agents are those where the same input can lead to distinct outputs across multiple runs.",
-            "url": "https://machinelearningmastery.com/implementing-statistical-guardrails-for-non-deterministic-agents/"
+            "title": "Prompt Engineering for Agentic AI",
+            "description": "[MACHINELEARNINGMASTERY] You have probably spent time learning how to prompt AI well.",
+            "url": "https://machinelearningmastery.com/prompt-engineering-for-agentic-ai/"
+        },
+        {
+            "title": "LLM Observability Tools for Reliable AI Applications",
+            "description": "[MACHINELEARNINGMASTERY] Large language models (LLMs) now power everything from customer service bots to autonomous coding agents.",
+            "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/"
         },
         {
             "title": "A New Era of Discovery: Google Research at I/O 2026",
             "description": "[RESEARCH] General Science",
             "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/"
-        },
-        {
-            "title": "The Roadmap to Mastering Tool Calling in AI Agents",
-            "description": "[MACHINELEARNINGMASTERY] Most <a href=\"https://www.",
-            "url": "https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/"
         },
         {
             "title": "Towards passive heart health monitoring via smartphone camera",
@@ -47,24 +52,19 @@
             "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/"
         },
         {
+            "title": "Building Vector Similarity Search in PostgreSQL with pgvector",
+            "description": "[MACHINELEARNINGMASTERY] Search works well when users know exactly what they are looking for, but it breaks down when intent is described in natural language.",
+            "url": "https://machinelearningmastery.com/building-vector-similarity-search-in-postgresql-with-pgvector/"
+        },
+        {
             "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
             "description": "[MACHINELEARNINGMASTERY] Agentic loops in production can be synonymous with high costs, especially when it comes to both LLM and external application usage via APIs, where billing is often closely related to token usage.",
             "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/"
         },
         {
-            "title": "Agentic RAG Explained in 3 Levels of Difficulty",
-            "description": "[MACHINELEARNINGMASTERY] Traditional <a href=\"https://aws.",
-            "url": "https://machinelearningmastery.com/agentic-rag-explained-in-3-levels-of-difficulty/"
-        },
-        {
             "title": "Identifying Interactions at Scale for LLMs",
             "description": "[BAIR] --> Understanding the behavior of complex machine learning systems, particularly Large Language Models (LLMs), is a critical challenge in modern artificial intelligence. Interpretability research...",
             "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/"
-        },
-        {
-            "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-            "description": "[MACHINELEARNINGMASTERY] AI agents have evolved beyond passive chatbots.",
-            "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/"
         },
         {
             "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
@@ -77,54 +77,54 @@
             "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/"
         },
         {
-            "title": "Another sell-off for AI stocks knocks Wall Street back to where it was 5 weeks ago",
-            "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Another sell-off for artificial-intelligence stocks dragged the U.S. market sharply lower. The S&P 500 dropped 1.6% Wednesday for its first back-to-back drop in three weeks and is back to where it...",
-            "url": "https://www.ajc.com/news/2026/06/another-sell-off-for-ai-stocks-drags-wall-street-to-its-first-back-to-back-drop-in-weeks/"
+            "title": "AI gold rush upends San Francisco housing market",
+            "description": "[BREITBART NEWS NETWORK] In San Francisco, the longtime hub of the US tech sector, fortunes tied to artificial intelligence startups are inflating home prices and fueling a spike",
+            "url": "https://www.breitbart.com/news/ai-gold-rush-upends-san-francisco-housing-market/"
         },
         {
-            "title": "Another sell-off for AI stocks knocks Wall Street back to where it was 5 weeks ago",
-            "description": "[BARCHART] Another sell-off for artificial-intelligence stocks dragged the U.S. market sharply lower",
-            "url": "https://www.barchart.com/story/news/2391621/another-sell-off-for-ai-stocks-knocks-wall-street-back-to-where-it-was-5-weeks-ago"
+            "title": "Apple WWDC 2026 recap: What\u2019s coming to iPhone, Mac and other devices",
+            "description": "[THE STAR] Apple Inc unveiled a new artificial intelligence strategy on Monday at its annual Worldwide Developers Conference, aiming to provide practical improvements and features that the company believes...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/11/apple-wwdc-2026-recap-whatscoming-toiphone-mac-andother-devices"
         },
         {
-            "title": "Avoid Next Energy Crisis: Throttle Overdone Climate Restraints",
-            "description": "[NEWSMAX] Surging demand for more power to fuel Artificial Intelligence (AI) is on a collision course with, let's call them Greentifa, regulations aimed at reducing carbon emissions and forcing a switch to...",
-            "url": "https://www.newsmax.com/denniskneale/gas-hyperscalers-oil/2026/06/10/id/1259234/"
+            "title": "Pope Leo XIV Reiterates AI Warning In Spain Visit",
+            "description": "[INTERNATIONAL BUSINESS TIMES] Pope Leo XIV again warned about the dangers of artificial intelligence, saying during a visit to Spain that it cannot replace human beings.",
+            "url": "https://www.ibtimes.com/pope-leo-xiv-reiterates-ai-warning-spain-visit-3803941"
         },
         {
-            "title": "NMC To Scientifically Assess Health of 5,000 Trees Using Ai-lidar Technology",
-            "description": "[TIMES OF INDIA] Nagpur: Nearly 5,000 trees across Nagpur will soon undergo scientific health and risk assessment using artificial intelligence (AI) and light detectio.",
-            "url": "https://timesofindia.indiatimes.com/city/nagpur/nmc-to-scientifically-assess-health-of-5000-trees-using-ai-lidar-technology/articleshow/131644125.cms"
+            "title": "Customer service no longer a cost centre in AI era: HGS CEO Venkatesh Korla",
+            "description": "[THE ECONOMIC TIMES] Artificial intelligence is transforming the business process management sector. Companies are now prioritizing customer experience, moving away from cost-centric approaches. AI enables personalized...",
+            "url": "https://economictimes.indiatimes.com/tech/technology/customer-service-no-longer-a-cost-centre-in-ai-era-hgs-ceo-venkatesh-korla/articleshow/131640672.cms"
         },
         {
-            "title": "Another sell-off for AI stocks drags Wall Street to its first back-to-back drop in weeks",
-            "description": "[BARCHART] Another sell-off for artificial-intelligence stocks dragged the U.S. market sharply lower",
-            "url": "https://www.barchart.com/story/news/2391621/another-sell-off-for-ai-stocks-drags-wall-street-to-its-first-back-to-back-drop-in-weeks"
+            "title": "Commentary: The Hidden Forces Driving China\u2019s Inflation Surge",
+            "description": "[CAIXIN] Commentary: The Hidden Forces Driving China\u2019s Inflation Surge - May\u2019s unexpected 3.9% spike in producer prices isn't a sign of broad macroeconomic overheating. Instead, a brutal supply clearing and...",
+            "url": "https://www.caixinglobal.com/2026-06-11/commentary-the-hidden-forces-driving-chinas-inflation-surge-102452995.html"
         },
         {
-            "title": "WATCH LIVE: Senate Banking Committee holds hearing on artificial intelligence",
-            "description": "[PBS NEWS] The Senate Banking, Housing and Urban Affairs Committee is holding a hearing Thursday on artificial intelligence, titled \"AI and the American Dream: Promoting Innovation, Affordability, and American...",
-            "url": "https://www.pbs.org/newshour/politics/watch-live-senate-banking-committee-holds-hearing-on-artificial-intelligence"
+            "title": "AI Won't Replace College Counselors-But It May Bring Their Best Skill To Millions Of Students",
+            "description": "[FORBES] Artificial intelligence won't replace college counselors, but it may democratize their most valuable skill: helping students uncover what truly matters to them and find colleges that fit their...",
+            "url": "https://www.forbes.com/sites/scottwhite/2026/06/10/ai-wont-replace-college-counselors-but-it-may-bring-their-best-skill-to-millions-of-students/"
         },
         {
-            "title": "Anthropic pledges $200 million to research AI\u2019s economic impact as CEO suggests job loss solutions",
-            "description": "[PITTSBURGH TRIBUNE-REVIEW] Anthropic on Wednesday joined growing calls for the artificial intelligence industry to find ways to cushion people from the technology\u2019s disruptions, announcing an initial $200 million investment to...",
-            "url": "https://triblive.com/news/world/anthropic-pledges-200-million-to-research-ais-economic-impact-as-ceo-suggests-job-loss-solutions/"
+            "title": "Trump says he thinks AI companies will agree to 'giving back' to the public",
+            "description": "[THE STAR] WASHINGTON, June 10 (Reuters) - U.S. President Donald Trump said \u2060on Wednesday that he expects top artificial intelligence companies to \u200cagree to \"giving back\" to the public, an apparent reference to...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/11/trump-says-he-thinks-ai-companies-will-agree-to-039giving-back039-to-the-public"
         },
         {
-            "title": "WSJ: WH Reins In AI-Testing Unit as Security Concerns Grow",
-            "description": "[NEWSMAX] Due to national security concerns as increasingly powerful systems enter the marketplace, the Trump administration has directed a key federal artificial intelligence testing unit to stop publishing...",
-            "url": "https://www.newsmax.com/scitech/donald-trump-commerce-caisi/2026/06/10/id/1259229/"
+            "title": "Musk's xAI accused of illegally firing engineer who raised safety concerns",
+            "description": "[THE STAR] June 10 (Reuters) - A former engineer \u2060at Elon Musk's xAI who now heads a think tank focused on AI safety filed a \u2060lawsuit claiming he was fired from the SpaceX subsidiary for raising concerns about...",
+            "url": "https://www.thestar.com.my/tech/tech-news/2026/06/11/musk039s-xai-accused-of-illegally-firing-engineer-who-raised-safety-concerns"
         },
         {
-            "title": "off of AI stocks on Wall St, while oil prices rise",
-            "description": "[BREITBART NEWS NETWORK] Shares are mostly lower in Asia following another sell-off of artificial-intelligence stocks that dragged the U.S. market sharply lower. Shares are mostly",
-            "url": "https://www.breitbart.com/news/asian-shares-slip-after-another-sell-off-of-ai-stocks-on-wall-st-while-oil-prices-rise/"
+            "title": "AI rollout in NHS to increase in bid to speed up cancer diagnosis and clear backlogs",
+            "description": "[LBC] Artificial intelligence (AI) will be used more widely to speed up cancer diagnosis for millions of NHS patients, the Government has said.",
+            "url": "https://www.lbc.co.uk/article/ai-cancer-diagnosis-nhs-5HjdbRN_2/"
         },
         {
-            "title": "Seattle officially enacted an emergency one-year moratorium on new data centers.",
-            "description": "[THE VERGE] Among the moratorium\u2019s fiercest supporters were Amazon employees, who joined others to testify in support of the policy in multiple Seattle city council hearings. [Link: Amazon employees ask Seattle...",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/948031/seattle-officially-enacted-an-emergency-one-year-moratorium-on-new-data-centers"
+            "title": "Cook County's Tax Algorithm Worked As Designed. That Was The Problem",
+            "description": "[FORBES] Cook County's machine-learning tax model made assessments fairer, yet homeowner bills soared. The appeals system, not the algorithm, is the culprit.",
+            "url": "https://www.forbes.com/sites/daraabasiita/2026/06/10/cook-countys-tax-algorithm-worked-as-designed-that-was-the-problem/"
         }
     ]
 }
