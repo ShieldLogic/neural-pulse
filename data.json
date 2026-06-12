@@ -1,46 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-12 14:19 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "James Pero",
-            "title": "Siri\u2019s Total Chatbot Makeover Is Imminent With iOS 27",
-            "description": "Android isn't the only OS leaning into agentic AI.",
-            "url": "https://gizmodo.com/siri-total-chatbot-makeover-is-imminent-with-ios-27-2000757747",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/A1A9528-1200x675.jpg",
-            "publishedAt": "2026-05-12T22:15:29Z",
-            "content": "It\u2019s been nearly two years since Apple promised an AI-supercharged Siri, but if a new report is any indication, that transformation is finally upon us. According to Bloomberg\u2019s Mark Gurman, there are\u2026 [+2195 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
-            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
-            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
-            "publishedAt": "2026-05-20T19:02:47Z",
-            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
-        }
-    ]
+  "updated": "2026-06-12 16:41:15 UTC",
+  "news": [
+    {
+      "title": "SpaceX, Anthropic, and OpenAI\u2019s hot IPO summer",
+      "description": "[TECHCRUNCH] The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;\u2014 Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia,...",
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "date": "2026-06-12T16:23:25Z"
+    },
+    {
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "date": "2026-06-12T15:56:10Z"
+    },
+    {
+      "title": "It\u2019s\u00a0hot IPO summer, and the MANGOS are ripe",
+      "description": "[TECHCRUNCH] The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;\u2014 Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia,...",
+      "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+      "date": "2026-06-12T15:50:52Z"
+    },
+    {
+      "title": "Coinbase for Agents: Automating portfolio trading with AI",
+      "description": "[AI-NEWS] Coinbase for Agents connects AI to financial execution channels to automate trading and payments directly from user portfolios. Large language models process vast quantities of data but lack direct integration with active financial portfolios....",
+      "url": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
+      "date": "2026-06-12T15:34:23Z"
+    },
+    {
+      "title": "SpaceX IPO: Everything you need to know",
+      "description": "[TECHCRUNCH] TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's...",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+      "date": "2026-06-12T14:08:54Z"
+    },
+    {
+      "title": "G7 Summit in France: Geopolitical crises, economic cooperation, AI to be key focus areas",
+      "description": "[THE HINDU BUSINESS LINE] The G7 Summit in France will address geopolitical crises, economic cooperation, and artificial intelligence through international collaboration and concrete measures.",
+      "url": "https://www.thehindubusinessline.com/news/world/g7-summit-in-france-geopolitical-crises-economic-cooperation-ai-to-be-key-focus-areas/article71092154.ece",
+      "date": "2026-06-12T04:37:17Z"
+    },
+    {
+      "title": "Cheaper, faster, and culturally aware, Avataar\u2019s video AI is built for India\u2019s scale",
+      "description": "[TECHCRUNCH] Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "date": "2026-06-12T04:30:00Z"
+    },
+    {
+      "title": "Former xAI staffer says he was fired for questioning Grok safety",
+      "description": "[THE STAR] A former artificial intelligence engineer at Elon Musk's xAI is suing the company, alleging that he was wrongfully fired for raising concerns about the safety of the firm's Grok chatbot.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/12/former-xai-staffer-says-he-was-fired-for-questioning-grok-safety",
+      "date": "2026-06-12T04:30:00Z"
+    },
+    {
+      "title": "Asian Chip Stocks Rebound After Roller Coaster Week",
+      "description": "[MARKETSCREENER] By Sherry Qin Asian chip stocks rebounded, capping a roller coaster week amid geopolitical volatility, concerns over inflation and worries over a bubble in artificial-intelligence-related stocks....",
+      "url": "https://www.marketscreener.com/news/asian-chip-stocks-rebound-after-roller-coaster-week-ce7f5cd8d188ff21",
+      "date": "2026-06-12T04:26:16Z"
+    },
+    {
+      "title": "Samsung Electronics in Talks to Manufacture Google's Next-Gen AI Chips; Samsung Shares Jump 12%",
+      "description": "[MARKETSCREENER] Samsung Electronics is currently in discussions with Alphabet's Google to manufacture a part of its \u200bnext-generation artificial intelligence processor, Reuters reported Thursday, citing people...",
+      "url": "https://www.marketscreener.com/news/samsung-electronics-in-talks-to-manufacture-google-s-next-gen-ai-chips-samsung-shares-jump-12-ce7f5cd8d189fe2c",
+      "date": "2026-06-12T03:58:15Z"
+    },
+    {
+      "title": "India's AI talent can earn \u20b960 lakh a year. Here's which skills pay the most",
+      "description": "[BUSINESS TODAY] Artificial intelligence skills are commanding some of the highest salaries in India's technology sector, with experienced Generative AI engineers earning an average of \u20b960 lakh a year. A new 1 Finance report shows that GCCs are driving demand for...",
+      "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/indias-ai-talent-can-earn-rs60-lakh-a-year-heres-which-skills-pay-the-most-536404-2026-06-12",
+      "date": "2026-06-12T03:40:02Z"
+    },
+    {
+      "title": "Geopolitical crises, economic cooperation, artificial intelligence to be key focus areas of G7 meet in France: Sources",
+      "description": "[THE ECONOMIC TIMES] The 52nd G7 Summit in Evian, France, will focus on geopolitical crises, economic cooperation, AI, and developmental partnerships. Discussions will include Ukraine, Middle Eastern countries, and global imbalances with invited nations like India. Key...",
+      "url": "https://economictimes.indiatimes.com/news/india/geopolitical-crises-economic-cooperation-artificial-intelligence-to-be-key-focus-areas-of-g7-meet-in-france-sources/articleshow/131673019.cms",
+      "date": "2026-06-12T03:36:00Z"
+    },
+    {
+      "title": "Former xAI engineer sues company over AI safety concerns, claims he was laid off for speaking up",
+      "description": "[FIRSTPOST] A former xAI engineer has accused Elon Musk's artificial intelligence company of dismissing him after he repeatedly warned about the risks posed by Grok. The lawsuit paints a picture of internal clashes over AI safety, allegations of regulatory...",
+      "url": "https://www.firstpost.com/tech/former-xai-engineer-sues-company-over-ai-safety-concerns-claims-he-was-laid-off-for-speaking-up-14021591.html",
+      "date": "2026-06-12T03:29:25Z"
+    },
+    {
+      "title": "Geopolitical crises, economic cooperation, artificial intelligence to be key focus areas of G7 meet in France: Sources",
+      "description": "[THE TRIBUNE] The G7 Summit, to be held under the French presidency, is expected to focus on geopolitical crises, economic cooperation, artificial intelligence, and developmental partnerships.",
+      "url": "https://www.tribuneindia.com/news/world/geopolitical-crises-economic-cooperation-artificial-intelligence-to-be-key-focus-areas-of-g7-meet-in-france-sources/",
+      "date": "2026-06-12T03:03:00Z"
+    },
+    {
+      "title": "Satya Nadella says AI backlash is real but predicts higher wages and broader prosperity",
+      "description": "[THE INDIAN EXPRESS] Microsoft CEO Satya Nadella sees the backlash against artificial intelligence in the US, but believes it will ultimately have a positive impact on society and wages. He acknowledges job displacement but supports sharing in the wealth created by AI...",
+      "url": "https://indianexpress.com/shorts/technology/artificial-intelligence/satya-nadella-ai-backlash-wealth-10735701-2/",
+      "date": "2026-06-12T02:51:46Z"
+    },
+    {
+      "title": "Kyndryl Launches AI Orchestration for Business to Accelerate Agent-Driven Transformation",
+      "description": "[ITWIRE] New Kyndryl Agentic AI Framework capability designed to fuel more responsive supply chains and personalised customer experiences across retail, CPG, travel and transportation...",
+      "url": "https://itwire.com/business-it-news/business-intelligence/kyndryl-launches-ai-orchestration-for-business-to-accelerate-agent-driven-transformation",
+      "date": "2026-06-12T02:49:20Z"
+    },
+    {
+      "title": "Theker just raised $85M to build the factory robot that doesn\u2019t specialize in anything",
+      "description": "[TECHCRUNCH] Unlike humanoid robots designed around a fixed form \u2014 think Boston Dynamics \u2014 Theker's machines are built to be reconfigured.",
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "date": "2026-06-12T01:48:07Z"
+    },
+    {
+      "title": "Jeff Bezos\u2019s Prometheus raises $12B to build an \u2018artificial general engineer\u2019 for the physical world",
+      "description": "[TECHCRUNCH] The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "date": "2026-06-12T01:04:38Z"
+    },
+    {
+      "title": "Visa ChatGPT integration enables AI agent retail purchasing",
+      "description": "[AI-NEWS] Visa has linked its payment infrastructure to ChatGPT, enabling AI agents to recommend retail products and execute financial transactions. The deployment removes human intervention from the final stages of the retail funnel. Autonomous agents will...",
+      "url": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/",
+      "date": "2026-06-11T11:08:17Z"
+    },
+    {
+      "title": "Xebia: Why AI agents fail without the right data foundation",
+      "description": "[AI-NEWS] If your remit is to help your organisation add AI agents to accelerate its processes, you have to start at the foundation \u2013 and that means making your data available for AI consumption. Agentic AI scales on data strength, as Niels Zeilemaker, global...",
+      "url": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
+      "date": "2026-06-11T10:42:38Z"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "date": "2026-06-11T00:00:00Z"
+    },
+    {
+      "title": "Siri AI arrives with Google inside, and much of the world is locked out",
+      "description": "[AI-NEWS] &#8220;We&#8217;ve all had that moment where you search for something you know is there, but it just won&#8217;t show up.&#8221; Apple&#8217;s Stacey Ford, vice president of OS Program Management, was talking about Spotlight at WWDC 2026, but she...",
+      "url": "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/",
+      "date": "2026-06-10T11:00:00Z"
+    },
+    {
+      "title": "McDonald\u2019s tests Google-backed AI drive-thru ordering system",
+      "description": "[AI-NEWS] McDonald\u2019s is testing a new AI system that can take drive-thru orders and support restaurant operations. The system, called ArchIQ and nicknamed \u201cArchy,\u201d was introduced during the company\u2019s Worldwide convention, according to Restaurant Business. It...",
+      "url": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/",
+      "date": "2026-06-10T10:00:00Z"
+    },
+    {
+      "title": "Introducing North Mini Code: Cohere\u2019s First Model For Developers",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "date": "2026-06-09T15:56:23Z"
+    },
+    {
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "date": "2026-06-09T10:46:19Z"
+    },
+    {
+      "title": "How to sign PDFs easily online with a PDF signer",
+      "description": "[AI-NEWS] Signing PDFs has become an important task for businesses and individuals alike. Whether you&#8217;re handling contracts, legal agreements, or forms, the ability to quickly and securely sign PDFs online is essential. Fortunately, with the rise of...",
+      "url": "https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/",
+      "date": "2026-06-09T09:01:51Z"
+    },
+    {
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "date": "2026-06-09T00:00:00Z"
+    },
+    {
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "date": "2026-06-08T00:00:00Z"
+    }
+  ]
 }
