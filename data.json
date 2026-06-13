@@ -1,101 +1,46 @@
 {
-  "updated": "2026-06-13 10:26:52 UTC",
-  "news": [
-    {
-      "title": "CXApp Inc. Invites Shareholders to attend 2026 Annual Meeting of Shareholders",
-      "description": "[FINANZNACHRICHTEN] Meeting to be held Tuesday, June 16, at 2 p.m. Pacific Time PALO ALTO, CA / ACCESS Newswire / June 12, 2026 / CXApp Inc. (NASDAQ:CXAI), an enterprise agentic AI platform company, announced it will host",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-06/68757398-cxapp-inc-invites-shareholders-to-attend-2026-annual-meeting-of-shareholders-200.htm",
-      "date": "2026-06-12T22:26:00Z"
-    },
-    {
-      "title": "SpaceX goes public and is now worth trillions. What happens now?",
-      "description": "[NPR] SpaceX is now publicly traded, and it\u2019s leaning heavily into space and AI. What does that mean for us humans here on earth?Today, Elon Musk\u2019s company SpaceX had a banner day in the stock market. The company is now valued at more than $2...",
-      "url": "https://www.npr.org/2026/06/12/nx-s1-5856424/spacex-goes-public-and-is-now-worth-trillions-what-happens-now",
-      "date": "2026-06-12T22:04:46Z"
-    },
-    {
-      "title": "Why teachers are creating AI-powered classroom helpers",
-      "description": "[PERTHNOW] An Australian made artificial intelligence platform is letting educators create their own teaching aides, some of whom simulate scenarios from the real world.",
-      "url": "https://www.perthnow.com.au/news/education/why-teachers-are-creating-ai-powered-classroom-helpers-c-22425354",
-      "date": "2026-06-12T22:04:32Z"
-    },
-    {
-      "title": "Why teachers are creating AI-powered classroom helpers",
-      "description": "[THE CANBERRA TIMES] An Australian made artificial intelligence platform is letting educators create their own teaching aides, some of whom simulate...",
-      "url": "https://www.canberratimes.com.au/story/9291463/why-teachers-are-creating-ai-powered-classroom-helpers/",
-      "date": "2026-06-12T22:00:26Z"
-    },
-    {
-      "title": "I gave a local LLM access to my Docker containers, and it replaced my monitoring scripts",
-      "description": "[XDA DEVELOPERS] Less hunting. More answers. Same homelab.",
-      "url": "https://www.xda-developers.com/gave-local-llm-access-to-docker-containers-replaced-monitoring-scripts/",
-      "date": "2026-06-12T22:00:23Z"
-    },
-    {
-      "title": "Tech Up, Paring Weekly Losses - Tech Roundup",
-      "description": "[MARKETSCREENER] Shares of technology companies rose, further paring losses for a volatile week, after an auspicious market debut for SpaceX. Shares of the rocketry and artificial-intelligence company rose by roughly... -June 12, 2026 at 05:42 pm EDT - MarketScreener",
-      "url": "https://www.marketscreener.com/news/tech-up-paring-weekly-losses-tech-roundup-ce7f5cd9dc81f622",
-      "date": "2026-06-12T21:42:16Z"
-    },
-    {
-      "title": "The skills people still perform better than AI, according to workplace experts",
-      "description": "[THE MANILA TIMES] NEW YORK \u2014 Many workers fear machines will supplant them as adoption of artificial intelligence accelerates.",
-      "url": "https://www.manilatimes.net/2026/06/13/entertainment-lifestyle/the-skills-people-still-perform-better-than-ai-according-to-workplace-experts/2364720",
-      "date": "2026-06-12T20:42:00Z"
-    },
-    {
-      "title": "Anthropic says it has taken its latest AI models offline to comply with new export controls",
-      "description": "[BREITBART NEWS NETWORK] AI giant Anthropic says it has taken its latest artificial intelligence models, known as Fable 5 and Mythos 5, offline to comply with a directive from the",
-      "url": "https://www.breitbart.com/news/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/",
-      "date": "2026-06-12T20:19:08Z"
-    },
-    {
-      "title": "DIAGNOS Announces Grant of Stock Options and Adoption of Semi-Annual Reporting",
-      "description": "[THE MANILA TIMES] BROSSARD, Quebec, June 12, 2026 (GLOBE NEWSWIRE) -- Diagnos Inc. ('DIAGNOS\u201d or the 'Corporation\u201d) (TSX Venture: ADK, OTCQB: DGNOF, FWB: 4D4A), a Corporation dedicated to the early detection of eye-related health using Artificial Intelligence (AI)...",
-      "url": "https://www.manilatimes.net/2026/06/13/tmt-newswire/globenewswire/diagnos-announces-grant-of-stock-options-and-adoption-of-semi-annual-reporting/2364701",
-      "date": "2026-06-12T20:11:41Z"
-    },
-    {
-      "title": "SpaceX's massive bets on Starlink, AI fuel excitement and anxiety across Wall Street",
-      "description": "[NEW YORK POST] SpaceX isn't just a rocket company anymore -- and its wide-ranging bets on everything from satellites to artificial intelligence have sparked a mixture of enthusiasm and anxiety across Wall Street.",
-      "url": "https://nypost.com/2026/06/12/business/spacexs-massive-bets-on-starlink-ai-fuel-excitement-and-anxiety-across-wall-street/",
-      "date": "2026-06-12T19:19:30Z"
-    },
-    {
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "date": "2026-06-12T15:56:10Z"
-    },
-    {
-      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/torch-mlp-fusion",
-      "date": "2026-06-11T00:00:00Z"
-    },
-    {
-      "title": "Introducing North Mini Code: Cohere\u2019s First Model For Developers",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-      "date": "2026-06-09T15:56:23Z"
-    },
-    {
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "date": "2026-06-09T10:46:19Z"
-    },
-    {
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "date": "2026-06-09T00:00:00Z"
-    },
-    {
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "date": "2026-06-08T00:00:00Z"
-    }
-  ]
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-06-13 13:05 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Pero",
+            "title": "Siri\u2019s Total Chatbot Makeover Is Imminent With iOS 27",
+            "description": "Android isn't the only OS leaning into agentic AI.",
+            "url": "https://gizmodo.com/siri-total-chatbot-makeover-is-imminent-with-ios-27-2000757747",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/06/A1A9528-1200x675.jpg",
+            "publishedAt": "2026-05-12T22:15:29Z",
+            "content": "It\u2019s been nearly two years since Apple promised an AI-supercharged Siri, but if a new report is any indication, that transformation is finally upon us. According to Bloomberg\u2019s Mark Gurman, there are\u2026 [+2195 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
+            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
+            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
+            "publishedAt": "2026-06-07T09:00:33Z",
+            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
+            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
+            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
+            "publishedAt": "2026-05-20T19:02:47Z",
+            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
+        }
+    ]
 }
