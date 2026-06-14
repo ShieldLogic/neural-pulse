@@ -1,46 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-14 13:13 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
-            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
-            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
-            "publishedAt": "2026-05-20T19:02:47Z",
-            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
-        }
-    ]
+  "updated": "2026-06-14 13:53:46 UTC",
+  "news": [
+    {
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "description": "[TECHCRUNCH] Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions.",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "date": "2026-06-14T03:00:00Z"
+    },
+    {
+      "title": "South Korea's world-beating stock market eyes long-awaited MSCI moment",
+      "description": "[BUSINESS STANDARD] The Kospi has become the world's best-performing major equity benchmark this year, surging more than 90% as investors piled into artificial-intelligence winners",
+      "url": "https://www.business-standard.com/markets/news/south-korea-s-world-beating-stock-market-eyes-long-awaited-msci-moment-126061400076_1.html",
+      "date": "2026-06-14T01:45:19Z"
+    },
+    {
+      "title": "Big Tech's Hunger For Data To Train AI Could Affect Every Internet User",
+      "description": "[TIMES NOW] Recent developments in artificial intelligence have been tumultuous, with major companies like Google, Microsoft, and Meta facing legal challenges while advanced models like Mythos 5 were halted. , Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/big-techs-hunger-for-data-to-train-ai-could-affect-every-internet-user-article-154596970",
+      "date": "2026-06-14T01:30:00Z"
+    },
+    {
+      "title": "South Korea\u2019s world-beating stock market eyes its MSCI moment",
+      "description": "[MONEYCONTROL] The Kospi has become the world\u2019s best-performing major equity benchmark this year, surging more than 90% as investors piled into artificial-intelligence winners.",
+      "url": "https://www.moneycontrol.com/news/business/south-korea-s-world-beating-stock-market-eyes-its-msci-moment-13948919.html",
+      "date": "2026-06-14T01:21:28Z"
+    },
+    {
+      "title": "Court finds Google liable for false AI answers in landmark case",
+      "description": "[THE STAR] Google can be held directly liable for false answers generated by its in-house artificial intelligence (AI), a German court ruled, in a case that could have major implications for tech companies.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/14/court-finds-google-liable-for-false-ai-answers-in-landmark-case",
+      "date": "2026-06-14T01:00:00Z"
+    },
+    {
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand",
+      "description": "[TECHCRUNCH] Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "date": "2026-06-14T00:03:49Z"
+    },
+    {
+      "title": "Months after Govt directive, most deptts yet to identify AI projects for governance reforms",
+      "description": "[DAILY EXCELSIOR] *Steering committee to review progress shortly Mohinder Verma JAMMU, June 13: Jammu and Kashmir's ambitious plan to harness Artificial Intelligence (AI) for governance and public service delivery has made limited progress as months after the...",
+      "url": "https://www.dailyexcelsior.com/months-after-govt-directive-most-deptts-yet-to-identify-ai-projects-for-governance-reforms/",
+      "date": "2026-06-13T22:57:25Z"
+    },
+    {
+      "title": "KPMG pulled its AI report after UBS, the NHS, and others said its claims about them were made up",
+      "description": "[TNW] KPMG withdrew a report on agentic AI after multiple organisations said its claims about their AI usage were untrue. GPTZero says the errors were AI hallucinations.",
+      "url": "https://thenextweb.com/news/kpmg-ai-report-hallucinations-pulled",
+      "date": "2026-06-13T22:55:42Z"
+    },
+    {
+      "title": "Anthropic Closed Doors a Glitch in Competitiveness",
+      "description": "[THE ECONOMIC TIMES] The US governments decision to prohibit foreign nationals from accessing Anthropics Mythos and Fable 5 artificial intelligence (AI) models could spell a significant competitive disadvantage for Indian enterprises and IT services providers, said...",
+      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jun/14/sunet-front/anthropic-closed-doors-a-glitch-in-competitiveness/articleshow/131712406.cms",
+      "date": "2026-06-13T21:33:00Z"
+    },
+    {
+      "title": "For MetaComp\u2019s Bo Bai, \u2018Know Your Agent\u2019 is the mantra in the age of agentic AI",
+      "description": "[THE STRAITS TIMES] The fintech firm aims to revolutionise cross-border foreign exchange transactions. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/opinion/for-metacomps-bo-bai-know-your-agent-is-the-mantra-in-the-age-of-agentic-ai",
+      "date": "2026-06-13T21:00:00Z"
+    },
+    {
+      "title": "Anthropic says it has taken its latest AI models offline to comply with new export controls",
+      "description": "[JAPAN TODAY] AI giant Anthropic says it has taken its latest artificial intelligence models, known as Fable 5 and Mythos 5, offline to comply with a directive from the Trump administration to prevent their use by foreign nationals. The export controls mark the...",
+      "url": "https://japantoday.com/category/tech/anthropic-says-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls",
+      "date": "2026-06-13T21:00:00Z"
+    },
+    {
+      "title": "The skills people still perform better than AI, according to workplace experts",
+      "description": "[JAPAN TODAY] Many workers fear machines will supplant them as adoption of artificial intelligence accelerates. But what if people have qualities both unmistakably human and essential to career success that AI could not easily replace them? Some workplace experts...",
+      "url": "https://japantoday.com/category/business/the-skills-people-still-perform-better-than-ai-according-to-workplace-experts",
+      "date": "2026-06-13T20:50:00Z"
+    },
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "description": "[TECHCRUNCH] Once again, AI proves to be an unreliable source of information about AI.",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "date": "2026-06-13T20:42:31Z"
+    },
+    {
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "description": "[TECHCRUNCH] Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "date": "2026-06-13T19:11:41Z"
+    },
+    {
+      "title": "OpenAI faces investigation from state attorneys general",
+      "description": "[TECHCRUNCH] It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "date": "2026-06-13T16:47:18Z"
+    },
+    {
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "description": "[TECHCRUNCH] Andrew Yang made a list of everything Americans overpay for \u2014 housing, food, wireless \u2014 and thinks the next startup gold rush is giving that money back.",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "date": "2026-06-13T04:14:19Z"
+    },
+    {
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "date": "2026-06-12T15:56:10Z"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "date": "2026-06-11T00:00:00Z"
+    },
+    {
+      "title": "Introducing North Mini Code: Cohere\u2019s First Model For Developers",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "date": "2026-06-09T15:56:23Z"
+    },
+    {
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "date": "2026-06-09T10:46:19Z"
+    },
+    {
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "date": "2026-06-09T00:00:00Z"
+    },
+    {
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "date": "2026-06-08T00:00:00Z"
+    }
+  ]
 }
