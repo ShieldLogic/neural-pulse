@@ -1,71 +1,89 @@
 {
-  "updated": "2026-06-15 03:51:16 UTC",
+  "updated": "2026-06-15 10:19:50 UTC",
   "news": [
+    {
+      "title": "Accenture: Consumers show growing trust in AI shopping agents",
+      "description": "[AI-NEWS] Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture. The company\u2019s 2026 Consumer Pulse Research, based on a survey of 25,590 consumers across 16 countries, found that 74%...",
+      "url": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
+      "date": "2026-06-15T10:00:00Z"
+    },
+    {
+      "title": "The AI off switch: How Anthropic\u2019s export controls sparked a global AI sovereignty scramble",
+      "description": "[AI-NEWS] Anthropic export controls turned an abstract policy fear into a live one last week: as of June 13, 2026, one US government directive took the company&#8217;s two most powerful AI models offline for users everywhere, including, briefly,...",
+      "url": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/",
+      "date": "2026-06-15T08:00:00Z"
+    },
+    {
+      "title": "The AI layoff wave is becoming a powder keg",
+      "description": "[TECHCRUNCH] What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "date": "2026-06-15T07:25:41Z"
+    },
+    {
+      "title": "The rise of the AI \u2018token economy\u2019 and China\u2019s big bet on scale",
+      "description": "[CNA] In the first of a two-part series, CNA looks at the rise of AI tokens and how China\u2019s rapidly expanding token economy is reshaping the costs, scale and security risks of the next era of artificial intelligence.",
+      "url": "https://www.channelnewsasia.com/east-asia/ai-tokens-token-economy-china-6159196",
+      "date": "2026-06-14T22:00:00Z"
+    },
+    {
+      "title": "India Looking to Scale Up Local AI Infra; Niti to Review",
+      "description": "[THE ECONOMIC TIMES] The government is working on a strategy to develop domestically controlled artificial intelligence (AI) infrastructure to boost the use of AI in governance and create a pool of skilled talent through targeted fiscal incentives and policy...",
+      "url": "https://economictimes.indiatimes.com/et-front/india-looking-to-scale-up-local-ai-infra-niti-to-review/articleshow/131728951.cms",
+      "date": "2026-06-14T21:35:00Z"
+    },
+    {
+      "title": "India Looking to Scale Up Local AI Infra; Niti to Review",
+      "description": "[THE ECONOMIC TIMES] The government is working on a strategy to develop domestically controlled artificial intelligence (AI) infrastructure to boost the use of AI in governance and create a pool of skilled talent through targeted fiscal incentives and policy...",
+      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jun/15/et-front/india-looking-to-scale-up-local-ai-infra-niti-to-review/articleshow/131728951.cms",
+      "date": "2026-06-14T21:35:00Z"
+    },
+    {
+      "title": "Japan startup develops system to tell human writing from AI-generated text",
+      "description": "[JAPAN TODAY] An artificial intelligence startup recently developed a system that analyzes academic papers to determine whether they were human-written or AI-generated, hoping for broader adoption by academic institutions. Developed by Valar Intelligence, an...",
+      "url": "https://japantoday.com/category/tech/japan-startup-develops-system-to-tell-human-writing-from-ai-generated-text",
+      "date": "2026-06-14T21:28:00Z"
+    },
+    {
+      "title": "Trump tried to block state AI regulations, but some states are forging ahead",
+      "description": "[THE BOSTON GLOBE] Six months after President Trump warned states not to regulate artificial intelligence, they are increasingly doing just that.",
+      "url": "https://www.bostonglobe.com/2026/06/14/nation/trump-tried-block-state-ai-regulations-some-states-are-forging-ahead/",
+      "date": "2026-06-14T21:04:45Z"
+    },
+    {
+      "title": "U.S. order cutting access to Anthropic's AI models sparks criticism",
+      "description": "[JAPAN TODAY] The U.S. government's order for Anthropic to withdraw its most powerful artificial intelligence models has sparked a wave of criticism from both advocates and opponents of AI regulation. On Friday evening, the San Francisco-based company announced...",
+      "url": "https://japantoday.com/category/tech/us-order-cutting-access-to-anthropic%27s-ai-models-sparks-criticism",
+      "date": "2026-06-14T21:00:00Z"
+    },
+    {
+      "title": "U.S. order cutting access to Anthropic's AI models sparks criticism",
+      "description": "[JAPAN TODAY] The U.S. government's order for Anthropic to withdraw its most powerful artificial intelligence models has sparked a wave of criticism from both advocates and opponents of AI regulation. On Friday evening, the San Francisco-based company announced...",
+      "url": "https://japantoday.com/category/tech/us-order-cutting-access-to-anthropic's-ai-models-sparks-criticism",
+      "date": "2026-06-14T21:00:00Z"
+    },
+    {
+      "title": "5 ways data centers endanger their local communities",
+      "description": "[JAPAN TODAY] Every internet search, streamed video and AI-generated response depends on a data center somewhere. Driven by rapid growth in artificial intelligence, cloud computing and cryptocurrency, data centers have become the backbone of the modern digital...",
+      "url": "https://japantoday.com/category/features/environment/5-ways-data-centers-endanger-their-local-communities-and-the-country-as-a-whole",
+      "date": "2026-06-14T20:10:00Z"
+    },
+    {
+      "title": "Hidden cost of AI? Researchers warn of a slow erosion of human thinking",
+      "description": "[TIMES OF INDIA] Science News: BENGALURU: Artificial intelligence (AI) is changing how people work, learn and make decisions. But a group of researchers warns that the technology\u2019s .",
+      "url": "https://timesofindia.indiatimes.com/science/hidden-cost-of-ai-researchers-warn-of-a-slow-erosion-of-human-thinking/articleshow/131728332.cms",
+      "date": "2026-06-14T19:17:00Z"
+    },
+    {
+      "title": "AI company Firmus to become Tasmania's biggest power user if three planned sites come to fruition",
+      "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Artificial intelligence company Firmus Technologies will become Tasmania's biggest power user if its ambitions to establish three \"AI factories\" in the state come to fruition.",
+      "url": "https://www.abc.net.au/news/2026-06-15/firmus-ai-company-tasmania-biggest-power-user-three-sites/106783142",
+      "date": "2026-06-14T19:09:45Z"
+    },
     {
       "title": "As AI companies race to go public, who else is along for the ride?",
       "description": "[TECHCRUNCH] Startups are trying to \"ride that SpaceX IPO wave.\"",
       "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
       "date": "2026-06-14T16:38:09Z"
-    },
-    {
-      "title": "PM Modi at Bharat Innovates 2026 in Nice, France",
-      "description": "[INDIA.COM] PM Modi identified artificial intelligence, quantum computing, biotechnology, space technologies and advanced materials as key technologies that will shape humanity's future. - 'India's priority is technology for humanity and human-centric...",
-      "url": "https://www.india.com/business/indias-priority-is-technology-for-humanity-and-human-centric-innovation-pm-modi-at-bharat-innovates-2026-in-nice-france-artificial-intelligence-quantum-computing-biotechnology-emmanuel-macron-8446634/",
-      "date": "2026-06-14T15:44:54Z"
-    },
-    {
-      "title": "AI can disrupt both cognitive and skilled jobs, but fear still outweighs facts: CEA Nageswaran",
-      "description": "[THE FINANCIAL EXPRESS] Artificial intelligence is reshaping the job market by impacting both cognitive and skill-based roles, prompting companies to cut jobs and transform hiring practices, while raising the need for new skills and workforce adaptation.",
-      "url": "https://www.financialexpress.com/business/news/ai-can-disrupt-both-cognitive-and-skilled-jobs-but-fear-still-outweighs-facts-cea-nageswaran/4267253/",
-      "date": "2026-06-14T15:12:18Z"
-    },
-    {
-      "title": "Small IT centres to morph into AI governance hubs",
-      "description": "[THE HINDU BUSINESS LINE] Analysts view this as a possible repositioning of the satellite offices to take up AI governance especially for mission critical tasks that cannot be left in the hands of AI agents",
-      "url": "https://www.thehindubusinessline.com/info-tech/small-it-centres-to-morph-into-ai-governance-hubs/article71101139.ece",
-      "date": "2026-06-14T14:14:17Z"
-    },
-    {
-      "title": "EU Commission looking at practical consequences of Anthropic decision, spokesperson says",
-      "description": "[THE STAR] BRUSSELS, June 14 (Reuters) - \u2060The European Commission said on Sunday \u2060that it is assessing the practical \u200cimplications of a U.S. export control directive impacting artificial intelligence company Anthropic and that measures should not be...",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/14/eu-commission-looking-at-practical-consequences-of-anthropic-decision-spokesperson-says",
-      "date": "2026-06-14T13:49:00Z"
-    },
-    {
-      "title": "Which 5 Jobs Could Disappear In The Next 10 Years As AI Reshapes Workplaces Worldwide?",
-      "description": "[NEWSX] Advances in artificial intelligence and automation could significantly reduce demand for data entry clerks, cashiers, telemarketers, bank tellers and travel agents over the next decade",
-      "url": "https://www.newsx.com/lifestyle/which-5-jobs-could-disappear-in-the-next-10-years-as-ai-reshapes-workplaces-worldwide-234175/",
-      "date": "2026-06-14T13:48:09Z"
-    },
-    {
-      "title": "EU Commission looking at practical consequences of Anthropic decision, spokesperson says",
-      "description": "[REUTERS] The European Commission said on Sunday that it is assessing the \u200bpractical implications of a U.S. export \u200ccontrol directive impacting artificial intelligence company Anthropic and that measures should not be discriminatory \u200bagainst partners.",
-      "url": "https://www.reuters.com/legal/litigation/eu-commission-looking-practical-consequences-anthropic-decision-spokesperson-2026-06-14/",
-      "date": "2026-06-14T13:46:17Z"
-    },
-    {
-      "title": "Jio Platforms Breaks Into Global Top 20 For Patent Filings After Skyrocketing 320 Places",
-      "description": "[DECCAN CHRONICLE] Jio's patent portfolio focuses sharply on next-generation digital technologies, including 5G, 5G advanced, 6G, artificial intelligence, AI-native networks, cloud-native platforms, intelligent automation, radio access, core network software, edge...",
-      "url": "https://www.deccanchronicle.com/business/companies/jio-platforms-breaks-into-global-top-20-for-patent-filings-after-skyrocketing-320-places-1963525",
-      "date": "2026-06-14T13:45:40Z"
-    },
-    {
-      "title": "EU Commission looking at practical consequences of Anthropic decision, spokesperson says",
-      "description": "[MARKETSCREENER] The European Commission said on Sunday that it is assessing the practical implications of a U.S. export control directive impacting artificial intelligence company Anthropic and that measures should... -June 14, 2026 at 09:41 am EDT - MarketScreener",
-      "url": "https://www.marketscreener.com/news/eu-commission-looking-at-practical-consequences-of-anthropic-decision-spokesperson-says-ce7f5cd9d089f120",
-      "date": "2026-06-14T13:41:14Z"
-    },
-    {
-      "title": "Turning to AI for Spiritual Guidance? Here's What It Can And Can't Do",
-      "description": "[TIMES NOW] As artificial intelligence becomes part of daily life, many people are asking spiritual questions to chatbots. Here\u2019s a closer look at where AI can offer guidance and where human wisdom remains irreplaceable., Spirituality, Times Now",
-      "url": "https://www.timesnownews.com/spiritual/turning-to-ai-for-spiritual-guidance-heres-what-it-can-and-cant-do-article-154614838",
-      "date": "2026-06-14T13:31:00Z"
-    },
-    {
-      "title": "NVIDIA GB300 Dominates Agentic AI Workloads With 20x Performance Leap Over Hopper As Rubin Nears Launch",
-      "description": "[WCCFTECH] NVIDIA's Blackwell GB300 has posted record performance in AA-AgentPerf, a new benchmark that measures Agentic AI workflows.",
-      "url": "https://wccftech.com/nvidia-gb300-dominates-agentic-ai-workloads-20x-performance-leap-over-hopper/",
-      "date": "2026-06-14T12:25:04Z"
     },
     {
       "title": "As Anthropic suspends access to new models, India debates its AI future",
@@ -90,12 +108,6 @@
       "description": "[TECHCRUNCH] Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
       "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
       "date": "2026-06-13T19:11:41Z"
-    },
-    {
-      "title": "OpenAI faces investigation from state attorneys general",
-      "description": "[TECHCRUNCH] It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
-      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "date": "2026-06-13T16:47:18Z"
     },
     {
       "title": "olmo-eval: An evaluation workbench for the model development loop",
@@ -134,22 +146,10 @@
       "date": "2026-06-10T11:00:00Z"
     },
     {
-      "title": "McDonald\u2019s tests Google-backed AI drive-thru ordering system",
-      "description": "[AI-NEWS] McDonald\u2019s is testing a new AI system that can take drive-thru orders and support restaurant operations. The system, called ArchIQ and nicknamed \u201cArchy,\u201d was introduced during the company\u2019s Worldwide convention, according to Restaurant Business. It...",
-      "url": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/",
-      "date": "2026-06-10T10:00:00Z"
-    },
-    {
       "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
       "date": "2026-06-09T10:46:19Z"
-    },
-    {
-      "title": "How to sign PDFs easily online with a PDF signer",
-      "description": "[AI-NEWS] Signing PDFs has become an important task for businesses and individuals alike. Whether you&#8217;re handling contracts, legal agreements, or forms, the ability to quickly and securely sign PDFs online is essential. Fortunately, with the rise of...",
-      "url": "https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/",
-      "date": "2026-06-09T09:01:51Z"
     },
     {
       "title": "Migrating Your GitHub CI to Hugging Face Jobs",
