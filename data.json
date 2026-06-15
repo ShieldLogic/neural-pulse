@@ -1,46 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-15 16:26 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
-            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
-            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
-            "publishedAt": "2026-05-20T19:02:47Z",
-            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
-        }
-    ]
+  "updated": "2026-06-15 17:09:20 UTC",
+  "news": [
+    {
+      "title": "Cybersecurity vets protest \u2018dangerous\u2019 US government ban on Anthropic\u2019s most powerful models",
+      "description": "[TECHCRUNCH] A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic\u2019s models Fable and Mythos, arguing that the order is going to limit the ability of cybersecurity defenders to secure their...",
+      "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "date": "2026-06-15T15:29:51Z"
+    },
+    {
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "description": "[TECHCRUNCH] Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "date": "2026-06-15T14:34:45Z"
+    },
+    {
+      "title": "Sarvam becomes India\u2019s newest AI unicorn with $234 million funding round led by HCLTech",
+      "description": "[TECHCRUNCH] Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "date": "2026-06-15T13:46:08Z"
+    },
+    {
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "description": "[TECHCRUNCH] NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "date": "2026-06-15T13:00:00Z"
+    },
+    {
+      "title": "A satellite just learned to find things on its own \u2014 here\u2019s what that means",
+      "description": "[TECHCRUNCH] In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "date": "2026-06-15T12:00:00Z"
+    },
+    {
+      "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
+      "description": "[AI-NEWS] Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei has moved into with an architecture built...",
+      "url": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
+      "date": "2026-06-15T11:00:00Z"
+    },
+    {
+      "title": "Accenture: Consumers show growing trust in AI shopping agents",
+      "description": "[AI-NEWS] Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture. The company\u2019s 2026 Consumer Pulse Research, based on a survey of 25,590 consumers across 16 countries, found that 74%...",
+      "url": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
+      "date": "2026-06-15T10:00:00Z"
+    },
+    {
+      "title": "The AI off switch: How Anthropic\u2019s export controls sparked a global AI sovereignty scramble",
+      "description": "[AI-NEWS] Anthropic export controls turned an abstract policy fear into a live one last week: as of June 13, 2026, one US government directive took the company&#8217;s two most powerful AI models offline for users everywhere, including, briefly,...",
+      "url": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/",
+      "date": "2026-06-15T08:00:00Z"
+    },
+    {
+      "title": "The AI layoff wave is becoming a powder keg",
+      "description": "[TECHCRUNCH] What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "date": "2026-06-15T07:25:41Z"
+    },
+    {
+      "title": "Schneider Electric, Foxconn partner on AI data center infrastructure",
+      "description": "[THE ECONOMIC TIMES] Schneider Electric and Taiwan's Hon Hai Technology Group, known as Foxconn, are joining forces. They will develop and scale infrastructure for advanced artificial intelligence data centers. Production is set to start later this year. This...",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/schneider-electric-foxconn-partner-on-ai-data-center-infrastructure/articleshow/131734058.cms",
+      "date": "2026-06-15T05:08:27Z"
+    },
+    {
+      "title": "Keep the final decision-making and sensitive data in human hands.",
+      "description": "[THE STAR] Artificial Intelligence (AI) has experienced rapid growth over the past few years, and is quickly becoming a convenient assistant for simple everyday tasks such as drafting emails, online shopping and generating recipe ideas.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/15/keep-the-final-decision-making-and-sensitive-data-in-human-hands",
+      "date": "2026-06-15T05:00:00Z"
+    },
+    {
+      "title": "How I Manage My Money: Medical expert, on \u00a36,000 a month, has \u00a3150,000 in cash ISAs",
+      "description": "[THE I PAPER] Lorna Luo quit GP training in the NHS for a new job that helps medics diagnose and treat patients with the aid of Artificial Intelligence",
+      "url": "https://inews.co.uk/inews-lifestyle/money/saving-and-banking/how-manage-money-medical-editor-month-cash-isas-4465362",
+      "date": "2026-06-15T05:00:00Z"
+    },
+    {
+      "title": "EU Commission looking at practical consequences of Anthropic decision, spokesperson says",
+      "description": "[THE HINDU] The European Commission said on Sunday \u200bthat it is assessing the \u200cpractical implications of a U.S. \u200bexport control directive \u2060impacting artificial intelligence company Anthropic",
+      "url": "https://www.thehindu.com/sci-tech/technology/eu-commission-looking-at-practical-consequences-of-anthropic-decision-spokesperson-says/article71103318.ece",
+      "date": "2026-06-15T04:38:50Z"
+    },
+    {
+      "title": "India, France Expand Cooperation Across Sectors, Set Goal To Double Trade To $32 Billion In 5 Years",
+      "description": "[NEWS18] India and France also announced the creation of a Joint Artificial Intelligence Working Group to cooperate on AI governance, research and development.",
+      "url": "https://www.news18.com/world/india-france-expand-cooperation-across-sectors-set-goal-to-double-trade-to-32-billion-ws-l-10149773.html",
+      "date": "2026-06-15T04:20:08Z"
+    },
+    {
+      "title": "G7 Summit in Evian-les-Bains: Addressing Global Challenges from Ukraine to AI",
+      "description": "[DEVDISCOURSE] The G7 Summit in Evian-les-Bains, France, will focus on key issues such as the wars in Ukraine and Iran, global economic imbalances, the rise of artificial intelligence, and the debt burden of developing nations. Leaders will also address China's...",
+      "url": "https://www.devdiscourse.com/article/politics/3934881-g7-summit-in-evian-les-bains-addressing-global-challenges-from-ukraine-to-ai",
+      "date": "2026-06-15T04:00:48Z"
+    },
+    {
+      "title": "US order cutting access to Anthropic's AI models sparks criticism",
+      "description": "[THE STAR] The US government's order for Anthropic to withdraw its most powerful artificial intelligence models has sparked a wave of criticism from both advocates and opponents of AI regulation.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/15/us-order-cutting-access-to-anthropic039s-ai-models-sparks-criticism",
+      "date": "2026-06-15T04:00:00Z"
+    },
+    {
+      "title": "U.S. order cutting access to Anthropic's AI models sparks criticism",
+      "description": "[THE HINDU] The U.S. government's order for Anthropic to withdraw its most powerful artificial intelligence models has sparked a wave of criticism from both advocates and opponents of AI regulation.",
+      "url": "https://www.thehindu.com/sci-tech/technology/us-order-cutting-access-to-anthropics-ai-models-sparks-criticism/article71103342.ece",
+      "date": "2026-06-15T03:59:12Z"
+    },
+    {
+      "title": "Agentic AI adoption drives stronger governance oversight, risk controls",
+      "description": "[THE ECONOMIC TIMES] Indian companies are prioritising local AI rules over international ones. They are focusing on ethics, identity, and privacy as AI adoption grows. While global standards align, domestic regulations like DPDP are the immediate focus. Firms are...",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/agentic-ai-adoption-drives-stronger-governance-oversight-risk-controls/articleshow/131732629.cms",
+      "date": "2026-06-15T03:58:45Z"
+    },
+    {
+      "title": "Indian AI startups pitch for funds from venture capitalists in US: Anirudh Arun",
+      "description": "[THE ECONOMIC TIMES] Indian artificial intelligence companies are increasingly securing funding from the United States. Investors are drawn to promising returns and India's government initiatives promoting advanced technology. Anirudh Arun, CEO of Agentic Universe,...",
+      "url": "https://economictimes.indiatimes.com/tech/startups/indian-ai-startups-pitch-for-funds-from-venture-capitalists-in-us-anirudh-arun/articleshow/131732446.cms",
+      "date": "2026-06-15T03:43:10Z"
+    },
+    {
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "date": "2026-06-12T15:56:10Z"
+    },
+    {
+      "title": "Coinbase for Agents: Automating portfolio trading with AI",
+      "description": "[AI-NEWS] Coinbase for Agents connects AI to financial execution channels to automate trading and payments directly from user portfolios. Large language models process vast quantities of data but lack direct integration with active financial portfolios....",
+      "url": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
+      "date": "2026-06-12T15:34:23Z"
+    },
+    {
+      "title": "Visa ChatGPT integration enables AI agent retail purchasing",
+      "description": "[AI-NEWS] Visa has linked its payment infrastructure to ChatGPT, enabling AI agents to recommend retail products and execute financial transactions. The deployment removes human intervention from the final stages of the retail funnel. Autonomous agents will...",
+      "url": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/",
+      "date": "2026-06-11T11:08:17Z"
+    },
+    {
+      "title": "Xebia: Why AI agents fail without the right data foundation",
+      "description": "[AI-NEWS] If your remit is to help your organisation add AI agents to accelerate its processes, you have to start at the foundation \u2013 and that means making your data available for AI consumption. Agentic AI scales on data strength, as Niels Zeilemaker, global...",
+      "url": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
+      "date": "2026-06-11T10:42:38Z"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "date": "2026-06-11T00:00:00Z"
+    },
+    {
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "date": "2026-06-09T10:46:19Z"
+    },
+    {
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "date": "2026-06-09T00:00:00Z"
+    },
+    {
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "date": "2026-06-08T00:00:00Z"
+    },
+    {
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "date": "2026-06-04T18:57:45Z"
+    }
+  ]
 }
