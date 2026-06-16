@@ -1,46 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-16 16:09 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
-            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
-            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
-            "publishedAt": "2026-05-20T19:02:47Z",
-            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
-        }
-    ]
+  "updated": "2026-06-16 19:30:23 UTC",
+  "news": [
+    {
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "description": "[TECHCRUNCH] Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google\u2019s latest AI models to its devices.",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "date": "2026-06-16T18:00:00Z"
+    },
+    {
+      "title": "Sixty percent of US consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds",
+      "description": "[TECHCRUNCH] WordPress VIP\u2019s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
+      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "date": "2026-06-16T16:49:44Z"
+    },
+    {
+      "title": "Insurers pivot AI strategy toward core risk underwriting",
+      "description": "[AI-NEWS] AI investments by insurers are now expected to generate tangible business value beyond mere efficiency. According to findings in the 2026 Evident AI Index, insurers are now embedding AI technologies into workflows that directly influence...",
+      "url": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/",
+      "date": "2026-06-16T15:55:02Z"
+    },
+    {
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "description": "[TECHCRUNCH] TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's...",
+      "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "date": "2026-06-16T15:53:12Z"
+    },
+    {
+      "title": "DOJ claims xAI\u2019s unpermitted gas turbines are a matter of \u2018national, economic, and energy security\u2019",
+      "description": "[TECHCRUNCH] The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.",
+      "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "date": "2026-06-16T15:05:03Z"
+    },
+    {
+      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "description": "[TECHCRUNCH] Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
+      "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+      "date": "2026-06-16T15:00:00Z"
+    },
+    {
+      "title": "Robinhood\u2019s note on 10% layoffs shows blaming AI isn\u2019t cutting it",
+      "description": "[TECHCRUNCH] Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.",
+      "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+      "date": "2026-06-16T14:50:09Z"
+    },
+    {
+      "title": "EU publishes its AI content labelling playbook ahead of the AI Act\u2019s August deadline",
+      "description": "[AI-NEWS] The European Union has&#160;published&#160;its AI content labelling playbook, a voluntary Code of Practice meant to help companies meet transparency rules that become law across the bloc on August 2 onwards. The European Commission released the...",
+      "url": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+      "date": "2026-06-16T10:00:00Z"
+    },
+    {
+      "title": "AI Red Teaming Explained: What It Is and Why You Need It",
+      "description": "[AI-NEWS] With AI adoption accelerating, testing systems under adversarial conditions has become increasingly important. It enables organisations to identify vulnerabilities before deployment and strengthen overall system safety. Explore what AI red teaming...",
+      "url": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/",
+      "date": "2026-06-16T08:06:43Z"
+    },
+    {
+      "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
+      "description": "[AI-NEWS] For years, enterprise content management was largely a publication tool. How do you get the right content, in the right format, to the right channel, without breaking workflows that span dozens of markets and hundreds of contributors? The answer was...",
+      "url": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/",
+      "date": "2026-06-16T07:49:07Z"
+    },
+    {
+      "title": "King Faisal Specialist Hospital Showcases Applied AI Ecosystem in Radiology at HLTH Europe 2026",
+      "description": "[THE MANILA TIMES] AMSTERDAM, June 16, 2026 (GLOBE NEWSWIRE) -- Professor Ahmad AbuSalah, PhD, Director of the Digital Innovation Hub at King Faisal Specialist Hospital & Research Centre (KFSH), is presenting the hospital's model for building an applied artificial...",
+      "url": "https://www.manilatimes.net/2026/06/16/tmt-newswire/globenewswire/king-faisal-specialist-hospital-showcases-applied-ai-ecosystem-in-radiology-at-hlth-europe-2026/2366202",
+      "date": "2026-06-16T07:23:58Z"
+    },
+    {
+      "title": "France to invest \u20ac655 million in AI, set up common chatbot for all state services",
+      "description": "[THE STAR] PARIS, June \u206016 (Reuters) - French Prime Minister Sebastien Lecornu \u2060said on Tuesday the government \u200cwill invest \u20ac655 million ($758.29 million) in artificial intelligence and will set up a common chatbot \u200bfor all the state \u2060services.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/16/france-to-invest-655-million-in-ai-set-up-common-chatbot-for-all-state-services",
+      "date": "2026-06-16T07:21:00Z"
+    },
+    {
+      "title": "Cerillion to Showcase Agentic AI and Product-Led BSS/OSS Innovation at DTW Ignite 2026",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Cerillion (AIM: CER), a leading provider of composable BSS/OSS solutions to the telecoms industry, today announced that it will showcase how...",
+      "url": "https://www.prnewswire.co.uk/news-releases/cerillion-to-showcase-agentic-ai-and-product-led-bssoss-innovation-at-dtw-ignite-2026-302800642.html",
+      "date": "2026-06-16T07:15:00Z"
+    },
+    {
+      "title": "As Traditional SDE Hiring Slows, These 3 AI Programmes are best for a Career Switch to AI/ML Roles",
+      "description": "[THE TRIBUNE] New Delhi [India], June 16: For years, software development was one of the most reliable career pathways for engineering graduates and technology professionals. Today, however, the technology job market is undergoing a significant transformation as...",
+      "url": "https://www.tribuneindia.com/news/business/as-traditional-sde-hiring-slows-these-3-ai-programmes-are-best-for-a-career-switch-to-ai-ml-roles/",
+      "date": "2026-06-16T07:03:26Z"
+    },
+    {
+      "title": "Readers sound off on integrating AI, Knicks history and Bill Ritter's Alzheimer's",
+      "description": "[NEW YORK DAILY NEWS] Stamford, Conn.: Much has been written about the promise of artificial intelligence, but far less attention has been paid to its impact on recent college graduates entering the workforce. For many young people, obtaining that crucial first...",
+      "url": "https://www.nydailynews.com/2026/06/16/readers-sound-off-on-integrating-ai-knicks-history-and-bill-ritters-alzheimers/",
+      "date": "2026-06-16T07:00:39Z"
+    },
+    {
+      "title": "France Bets Big on AI: \u20ac655 Million Investment Announced",
+      "description": "[DEVDISCOURSE] French Prime Minister Sebastien Lecornu has announced a government investment of \u20ac655 million in artificial intelligence. This move includes plans to establish a unified chatbot for state services, emphasizing France's commitment to advancing its AI...",
+      "url": "https://www.devdiscourse.com/article/technology/3935653-france-bets-big-on-ai-655-million-investment-announced",
+      "date": "2026-06-16T06:57:29Z"
+    },
+    {
+      "title": "AI Investor Rush: Sandisk gains as investors chase AI winners",
+      "description": "[THE ECONOMIC TIMES] Sandisk shares jumped sharply as investors continued pouring money into companies tied to the expanding artificial intelligence ecosystem. The stock gained momentum alongside other memory and storage firms as markets focused on the enormous...",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-investor-rush-sandisk-gains-as-investors-chase-ai-winners/slideshow/131762428.cms",
+      "date": "2026-06-16T06:52:00Z"
+    },
+    {
+      "title": "Nvidia's Huang pledges AI will boost manufacturing jobs. A test will come in Texas",
+      "description": "[BREITBART NEWS NETWORK] Nvidia is betting on artificial intelligence to revive U.S. manufacturing. SHERMAN, Texas (AP) \u2014 Jensen Huang\u2019s company Nvidia makes the",
+      "url": "https://www.breitbart.com/news/nvidias-huang-pledges-ai-will-boost-manufacturing-jobs-a-test-will-come-in-texas/",
+      "date": "2026-06-16T06:33:48Z"
+    },
+    {
+      "title": "powered coastal safety system is helping detect dangerous rip currents in real time",
+      "description": "[THE ECONOMIC TIMES] ISRO is leveraging artificial intelligence, satellite imagery, weather data, and ocean monitoring to detect dangerous rip currents and improve coastal safety through real-time alerts and early warning systems.",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/how-isros-ai-powered-coastal-safety-systems-are-helping-detect-dangerous-rip-currents-in-real-time/articleshow/131761483.cms",
+      "date": "2026-06-16T06:18:00Z"
+    },
+    {
+      "title": "Why Gen Z is falling in love with DIY cyberdecks, AI-free search engines and distraction-free gadgets?",
+      "description": "[INDIATIMES] As artificial intelligence becomes a bigger part of everyday life, a growing number of Gen Z users are embracing simpler, more intentional technology. From DIY cyberdecks and refurbished iPods to AI-free search engines, many young people are seeking...",
+      "url": "https://www.indiatimes.com/trending/why-gen-z-is-falling-in-love-with-diy-cyberdecks-ai-free-search-engines-and-distraction-free-gadgets/articleshow/131761373.html",
+      "date": "2026-06-16T06:10:58Z"
+    },
+    {
+      "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
+      "description": "[AI-NEWS] Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei has moved into with an architecture built...",
+      "url": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
+      "date": "2026-06-15T11:00:00Z"
+    },
+    {
+      "title": "Accenture: Consumers show growing trust in AI shopping agents",
+      "description": "[AI-NEWS] Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture. The company\u2019s 2026 Consumer Pulse Research, based on a survey of 25,590 consumers across 16 countries, found that 74%...",
+      "url": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
+      "date": "2026-06-15T10:00:00Z"
+    }
+  ]
 }
