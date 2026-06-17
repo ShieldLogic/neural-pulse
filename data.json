@@ -1,46 +1,101 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-17 14:36 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
-            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
-            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
-            "publishedAt": "2026-05-20T19:02:47Z",
-            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
-        }
-    ]
+  "updated": "2026-06-17 16:53:04 UTC",
+  "news": [
+    {
+      "title": "Google bets on Gemini to reinvent the smart home speaker",
+      "description": "[TECHCRUNCH] Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
+      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+      "date": "2026-06-17T16:30:09Z"
+    },
+    {
+      "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+      "description": "[TECHCRUNCH] \u201cPeople just really want to take back control of their time, their lives, their attention... They\u2019re down for whatever helps them do that.\u201d",
+      "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+      "date": "2026-06-17T15:24:41Z"
+    },
+    {
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+      "description": "[TECHCRUNCH] If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+      "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "date": "2026-06-17T15:00:00Z"
+    },
+    {
+      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "description": "[TECHCRUNCH] Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation \u2014 where errors can be costly and reliability is at a premium.",
+      "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "date": "2026-06-17T14:15:22Z"
+    },
+    {
+      "title": "Canadian pension giant joins race to fund India\u2019s AI-fueled data center boom",
+      "description": "[TECHCRUNCH] The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
+      "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "date": "2026-06-17T12:38:09Z"
+    },
+    {
+      "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+      "description": "[TECHCRUNCH] With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
+      "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+      "date": "2026-06-17T12:14:44Z"
+    },
+    {
+      "title": "Indian workers training AI robots to take their jobs",
+      "description": "[BANGKOK POST] KARUR \u2014 With a smartphone strapped to her head, Nagireddy Sriramyachandra films herself slicing mangoes in her kitchen in India to train robots powered by artificial intelligence (AI) to take on household jobs in the future.",
+      "url": "https://www.bangkokpost.com/life/tech/3272221/indian-workers-training-ai-robots-to-take-their-jobs",
+      "date": "2026-06-17T04:44:00Z"
+    },
+    {
+      "title": "HSBC enters AI partnership with Alphabet - Bloomberg",
+      "description": "[MARKETSCREENER] HSBC Holdings PLC has entered into a multi-year partnership with Alphabet Inc to deploy artificial intelligence across the bank, Bloomberg reported Wednesday. According to the Bloomberg report, HSBC...",
+      "url": "https://www.marketscreener.com/news/hsbc-enters-ai-partnership-with-alphabet-bloomberg-ce7f5cdcdb8bf126",
+      "date": "2026-06-17T04:34:14Z"
+    },
+    {
+      "title": "Who is Aman Sanger, the 25-year-old desi selling his company, Cursor, to SpaceX for $60 billion?",
+      "description": "[FIRSTPOST] SpaceX's acquisition of AI coding platform Cursor for $60 billion has sparked interest in the four people behind the firm \u2014 Indian-American Aman Sanger, Michael Truell, Sualeh Asif, and Arvid Lunnemark. Sanger\u2019s journey began at the age of 14 with a...",
+      "url": "https://www.firstpost.com/explainers/aman-sanger-indian-american-ai-coding-cursor-spacex-14023342.html",
+      "date": "2026-06-17T04:20:05Z"
+    },
+    {
+      "title": "Google rolls out Android 17; major AI features to follow this summer",
+      "description": "[THE STAR] Alphabet Inc's Google has begun rolling out Android 17, the latest major update to its popular mobile operating system, though some of its marquee artificial intelligence features will not arrive for another few months.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/17/google-rolls-out-android-17-major-ai-features-to-follow-this-summer",
+      "date": "2026-06-17T04:00:00Z"
+    },
+    {
+      "title": "Coforge shares jump over 2% as firm eyes $5 billion revenue by FY30. Why Nomura, others see up to 50% upside?",
+      "description": "[THE ECONOMIC TIMES] Coforge shares saw a rise after the company projected $5 billion in revenue by FY30. This ambitious target is fueled by strong organic growth and the strategic integration of artificial intelligence. Analysts are optimistic, with several maintaining...",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-shares-in-focus-as-firm-eyes-5-billion-revenue-by-fy30-why-nomura-others-see-up-to-50-upside/articleshow/131785930.cms",
+      "date": "2026-06-17T03:59:00Z"
+    },
+    {
+      "title": "S. Korea 4th country to forge AI security alliance with OpenAI",
+      "description": "[LOKMAT TIMES] S. Korea 4th country to forge AI security alliance with OpenAI - Seoul, June 17 South Korea became the fourth country to forge a security partnership in artificial intelligence (AI) ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/s-korea-4th-country-to-forge-ai-security-alliance-with-openai-1/",
+      "date": "2026-06-17T03:55:17Z"
+    },
+    {
+      "title": "S. Korea 4th country to forge AI security alliance with OpenAI",
+      "description": "[LOKMAT TIMES] S. Korea 4th country to forge AI security alliance with OpenAI - Seoul, June 17 South Korea became the fourth country to forge a security partnership in artificial intelligence (AI) ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/s-korea-4th-country-to-forge-ai-security-alliance-with-openai/",
+      "date": "2026-06-17T03:55:17Z"
+    },
+    {
+      "title": "Elon Musk's AI tool Grok was used in strikes against Iran, says U.S. government",
+      "description": "[THE HINDU] Elon Musk's artificial intelligence tool Grok was used in strikes against Iran, the United States government revealed in a legal briefing seen Tuesday by AFP.",
+      "url": "https://www.thehindu.com/sci-tech/technology/elon-musks-ai-tool-grok-was-used-in-strikes-against-iran-says-us-government/article71111925.ece",
+      "date": "2026-06-17T03:36:47Z"
+    },
+    {
+      "title": "Great Learning co-founder says management control shielded it from Byju\u2019s downfall hit",
+      "description": "[LIVEMINT] Founded in 2013, Great Learning offers courses in technology, data science, artificial intelligence and related professional skills.",
+      "url": "https://www.livemint.com/companies/great-learning-co-founder-byju-s-downfall-edtech-learning-courses-acquisitions-upskilling-ai-11781614628891.html",
+      "date": "2026-06-17T03:30:40Z"
+    },
+    {
+      "title": "Lao media reforms planned to align with digital development",
+      "description": "[THE STAR] VIENTIANE: The government is planning major reforms to strengthen media management, revise legislation governing the media and accelerate the use of artificial intelligence (AI) as the industry adapts to rapid technological changes and challenges in...",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/17/lao-media-reforms-planned-to-align-with-digital-development",
+      "date": "2026-06-17T03:19:00Z"
+    }
+  ]
 }
