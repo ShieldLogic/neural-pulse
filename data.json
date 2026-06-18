@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-18 14:27 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
-            "description": "Don't see this going over well.",
-            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
-            "publishedAt": "2026-06-16T21:33:52Z",
-            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
-            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
-            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
-            "publishedAt": "2026-05-20T19:02:47Z",
-            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
-        }
-    ]
+  "updated": "2026-06-18 16:54:04 UTC",
+  "news": [
+    {
+      "title": "General Intuition in talks to raise $300M at around $2B valuation",
+      "description": "[TECHCRUNCH] The startup trains embodied AI and world models using Medal\u2019s dataset of 2 billion videos per year from 10 million monthly active users.",
+      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+      "date": "2026-06-18T15:20:37Z"
+    },
+    {
+      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech\u2019s $100M gunfight",
+      "description": "[TECHCRUNCH] Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
+      "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+      "date": "2026-06-18T15:13:21Z"
+    },
+    {
+      "title": "Pixi\u2019s new iOS app turns text messages into interactive AR experiences",
+      "description": "[TECHCRUNCH] Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
+      "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+      "date": "2026-06-18T12:00:00Z"
+    },
+    {
+      "title": "What is the real test of Artificial Intelligence: Powerful machines or empowering people? PM Modi weighs in at G7 summit",
+      "description": "[LIVEMINT] During the G7 Summit, PM Modi discussed AI's transformative potential, emphasising its role in empowering society. He advocated for a people-centric approach and inclusivity in AI development.",
+      "url": "https://www.livemint.com/ai/artificial-intelligence/what-is-the-real-test-of-artificial-intelligence-ai-powerful-machines-or-empowering-people-pm-modi-g7-summit-speech-11781754479647.html",
+      "date": "2026-06-18T04:48:03Z"
+    },
+    {
+      "title": "OpenAI chief tells G7 to 'not cede responsibilities' to AI giants",
+      "description": "[THE HINDU] OpenAI chief executive Sam Altman urged world leaders at the G7 summit on Wednesday not to surrender control over artificial intelligence to the companies building it",
+      "url": "https://www.thehindu.com/sci-tech/technology/openai-chief-tells-g7-to-not-cede-responsibilities-to-ai-giants/article71116323.ece",
+      "date": "2026-06-18T04:31:30Z"
+    },
+    {
+      "title": "\"AI must empower people\": PM Modi at G7 Summit",
+      "description": "[DEVDISCOURSE] Prime Minister highlighted that while Artificial Intelligence was a transformative force with the potential to redefine the direction of human civilization, it must also empower people. He elaborated that it was with this larger thought that India...",
+      "url": "https://www.devdiscourse.com/article/international/3936515-ai-must-empower-people-pm-modi-at-g7-summit",
+      "date": "2026-06-18T04:30:22Z"
+    },
+    {
+      "title": "Malaysian born actor Christopher Lee stars in Singapore\u2019s first AI-hybrid drama, 'Crooks'",
+      "description": "[THE STAR] The nine-episode series, which has begun production, uses artificial intelligence-assisted environments to expand the scale of its cinematic world that cannot be built physically.",
+      "url": "https://www.thestar.com.my/lifestyle/entertainment/2026/06/16/malaysian-born-actor-christopher-lee-stars-in-singapores-first-ai-hybrid-drama-039crooks039",
+      "date": "2026-06-18T04:05:00Z"
+    },
+    {
+      "title": "AI will lead to labour shortages, Amazon\u2019s Jeff Bezos says in optimistic talk",
+      "description": "[THE HINDU] Artificial Intelligence will lead to labour \u2060shortages, not the replacement of humans, Amazon founder Jeff Bezos predicted",
+      "url": "https://www.thehindu.com/sci-tech/technology/ai-will-lead-to-labour-shortages-amazons-jeff-bezos-says-in-optimistic-talk/article71116329.ece",
+      "date": "2026-06-18T03:37:11Z"
+    },
+    {
+      "title": "AI must empower people: PM Modi at G7 Summit",
+      "description": "[THE ECONOMIC TIMES] Prime Minister Narendra Modi spoke at the G7 Summit in France about Artificial Intelligence. He stressed AI must empower people and be inclusive. Modi also met US President Donald Trump. They reviewed progress in defense, technology, and trade. Both...",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-must-empower-people-pm-modi-at-g7-summit/articleshow/131816479.cms",
+      "date": "2026-06-18T03:30:36Z"
+    },
+    {
+      "title": "\"AI must empower people\": PM Modi at G7 Summit",
+      "description": "[THE TRIBUNE] Prime Minister highlighted that while Artificial Intelligence was a transformative force with the potential to redefine the direction of human civilization, it must also empower people. He elaborated that it was with this larger thought that India...",
+      "url": "https://www.tribuneindia.com/news/world/ai-must-empower-people-pm-modi-at-g7-summit/",
+      "date": "2026-06-18T03:28:03Z"
+    },
+    {
+      "title": "Apple CEO Tim Cook says AI boom makes price increases 'unavoidable'",
+      "description": "[THE ECONOMIC TIMES] Outgoing Apple CEO Tim Cook warned that demand for memory chips from the artificial intelligence boom will force the tech giant to increase the prices of its products, according to an interview with the Wall Street Journal published Wednesday.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/apple-ceo-tim-cook-says-ai-boom-makes-price-increases-unavoidable/articleshow/131816188.cms",
+      "date": "2026-06-18T03:03:45Z"
+    },
+    {
+      "title": "President Donald Trump sits down with Sam Altman, Dario Amodei and other AI CEOs at G7: 'We have to be very careful with ...'",
+      "description": "[TIMES OF INDIA] Tech News News: US President Donald Trump and top administration officials met with the world\u2019s leading artificial intelligence (AI) executives at the G7 summit in Fr.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/president-donald-trump-sits-down-with-sam-altman-dario-amodei-and-other-ai-ceos-at-g7-we-have-to-be-very-careful-with-/articleshow/131812042.cms",
+      "date": "2026-06-18T03:01:00Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang does not agree with Trump admin's idea of taking stake in AI companies; says: Remember that these are American companies, and \u201cAmericans have ...",
+      "description": "[TIMES OF INDIA] Tech News News: Nvidia CEO Jensen Huang isn't in favour of the US government taking a stake in artificial intelligence (AI) companies. In a recent interview, the chie.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-does-not-agree-with-trump-admins-idea-of-taking-stake-in-ai-companies-says-remember-that-these-are-american-companies-and-americans-have-/articleshow/131812430.cms",
+      "date": "2026-06-18T02:34:00Z"
+    },
+    {
+      "title": "How to turn off AI in your Google Docs",
+      "description": "[TECHCRUNCH] Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "date": "2026-06-18T01:23:51Z"
+    },
+    {
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "date": "2026-06-18T00:00:00Z"
+    },
+    {
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "date": "2026-06-18T00:00:00Z"
+    },
+    {
+      "title": "Roelof Botha joins SpaceX\u2019s board of directors",
+      "description": "[TECHCRUNCH] The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+      "date": "2026-06-17T20:32:52Z"
+    },
+    {
+      "title": "After unveiling ridiculously expensive AR glasses, Snap\u2019s stock takes a dive",
+      "description": "[TECHCRUNCH] Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+      "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "date": "2026-06-17T20:24:28Z"
+    },
+    {
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "date": "2026-06-17T15:26:44Z"
+    },
+    {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "date": "2026-06-17T10:18:05Z"
+    },
+    {
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "date": "2026-06-17T09:01:25Z"
+    },
+    {
+      "title": "Agentic Resource Discovery: Let agents search",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "date": "2026-06-17T00:00:00Z"
+    }
+  ]
 }
