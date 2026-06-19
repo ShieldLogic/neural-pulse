@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-19 14:25 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
-            "description": "Don't see this going over well.",
-            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
-            "publishedAt": "2026-06-16T21:33:52Z",
-            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "OpenAI\u2019s IPO Filing Might Be Just Days Away: Report",
-            "description": "With its trial wrapped up, the company behind ChatGPT is ready to let things rip.",
-            "url": "https://gizmodo.com/openais-ipo-filing-might-be-just-days-away-report-2000761464",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2672751937-1200x675.jpg",
-            "publishedAt": "2026-05-20T19:02:47Z",
-            "content": "OpenAI, one of the companies most responsible for pushing generative AI into the mainstream with its popular ChatGPT LLM, could file for an initial public offering (IPO) by the end of this week.\r\nThe\u2026 [+2280 chars]"
-        }
-    ]
+  "updated": "2026-06-19 16:30:05 UTC",
+  "news": [
+    {
+      "title": "Is the US government\u2019s Anthropic ban accidentally helping the brand?",
+      "description": "[TECHCRUNCH] Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s...",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "date": "2026-06-19T16:08:17Z"
+    },
+    {
+      "title": "The US banned Anthropic\u2019s Fable 5 release, but the numbers don\u2019t seem to care",
+      "description": "[TECHCRUNCH] Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s...",
+      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "date": "2026-06-19T16:01:03Z"
+    },
+    {
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "description": "[TECHCRUNCH] Reliance is weaving AI into telecom services used by more than 500 million people.",
+      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "date": "2026-06-19T15:23:28Z"
+    },
+    {
+      "title": "The CEO of Allbirds\u2019 new AI biz has a plan, but no employees",
+      "description": "[TECHCRUNCH] Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "date": "2026-06-19T13:00:00Z"
+    },
+    {
+      "title": "The US says ASML\u2019s top chip tool may be in China. ASML says it isn\u2019t",
+      "description": "[TECHCRUNCH] There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "date": "2026-06-19T07:59:12Z"
+    },
+    {
+      "title": "How to make agentic AI dependable at scale",
+      "description": "[TIMES OF INDIA] Times Techies News: The conversation around AI in enterprises has moved decisively beyond experimentation. The new challenge is no longer how to build an impressive proof.",
+      "url": "https://timesofindia.indiatimes.com/technology/times-techies/how-to-make-agentic-ai-dependable-at-scale/articleshow/131847012.cms",
+      "date": "2026-06-19T04:24:00Z"
+    },
+    {
+      "title": "Anthropic Has the Template for Fixing Its Mythos Nightmare",
+      "description": "[BLOOMBERG] Dario Amodei arrived at the G7 summit this week with a problem few tech bosses have faced: The US government had just treated his newest artificial-intelligence models as too dangerous to export. The Anthropic chief executive officer, long admired...",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-06-19/anthropic-has-nvidia-template-for-fixing-its-mythos-fable-nightmare",
+      "date": "2026-06-19T04:00:15Z"
+    },
+    {
+      "title": "Apple CEO says AI boom makes price increases 'unavoidable'",
+      "description": "[THE STAR] Outgoing Apple CEO Tim Cook warned that demand for memory chips from the artificial intelligence boom will force the tech giant to increase the prices of its products, according to an interview with the Wall Street Journal published on June 17.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/19/apple-ceo-says-ai-boom-makes-price-increases-039unavoidable039",
+      "date": "2026-06-19T03:00:00Z"
+    },
+    {
+      "title": "Man vs machine: Who will walk on Mars first?",
+      "description": "[FOX WEATHER] As advances in artificial intelligence and robotics accelerate, humanoid robots could be capable of exploring other worlds within the next decade. So who will walk on Mars first?",
+      "url": "https://www.foxweather.com/earth-space/man-vs-machine-who-walk-mars-first-kalshi",
+      "date": "2026-06-19T02:39:46Z"
+    },
+    {
+      "title": "Your Social Feed Is About To Change Forever. Here's How",
+      "description": "[NDTV.COM] Industry leaders such as Threads, Instagram, and TikTok are introducing tools that allow users to actively choose, filter, and adjust content topics using artificial intelligence.",
+      "url": "https://www.ndtv.com/feature/instagram-threads-tiktok-your-social-feed-is-about-to-change-forever-heres-how-11657488",
+      "date": "2026-06-19T02:38:38Z"
+    },
+    {
+      "title": "John Waters Would Use AI To \"Cure Cancer\" But \"Not To Help Me Write\"",
+      "description": "[DEADLINE] The Pope of Trash has weighed in on the future of artificial intelligence as many remain divided on its place in Hollywood.",
+      "url": "https://deadline.com/2026/06/john-waters-would-not-use-ai-help-me-write-1236962505/",
+      "date": "2026-06-19T01:52:47Z"
+    },
+    {
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "description": "[TECHCRUNCH] DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "date": "2026-06-19T00:51:11Z"
+    },
+    {
+      "title": "Analysis: China\u2019s New Jobs Plan Zeros In on AI, Youth Employment",
+      "description": "[CAIXIN] Analysis: China\u2019s New Jobs Plan Zeros In on AI, Youth Employment - The roadmap aims to harness artificial intelligence to create new work opportunities while focusing more on college graduates, as the country grapples with shifting labor demand and...",
+      "url": "https://www.caixinglobal.com/2026-06-19/analysis-chinas-new-jobs-plan-zeros-in-on-ai-youth-employment-102455779.html",
+      "date": "2026-06-19T00:00:00Z"
+    },
+    {
+      "title": "In Depth: How AI Is Rewiring White",
+      "description": "[CAIXIN] In Depth: How AI Is Rewiring White-Collar Work in China - As companies race to cut costs, artificial intelligence is merging roles, raising output expectations and leaving workers scrambling to keep up",
+      "url": "https://www.caixinglobal.com/2026-06-19/in-depth-how-ai-is-rewiring-white-collar-work-in-china-102455431.html",
+      "date": "2026-06-19T00:00:00Z"
+    },
+    {
+      "title": "Reliance Industries AGM 2026: Five key things investors will watch for",
+      "description": "[MONEYCONTROL] Investors and market participants will keenly be awaiting fresh details on the listing of the telecom arm, progress on the new energy firm, and watch for any update on the company\u2019s plans in the area of artificial intelligence (AI).",
+      "url": "https://www.moneycontrol.com/news/business/markets/reliance-industries-agm-2026-five-key-things-investors-will-watch-for-13953316.html",
+      "date": "2026-06-18T23:30:06Z"
+    },
+    {
+      "title": "At VivaTech 2026, Modi bats for democratisation of tech; says for India AI means 'All Inclusive'",
+      "description": "[DAILY EXCELSIOR] PARIS, Jun 18 : Prime Minister Narendra Modi on Thursday made a strong pitch for democratisation of technology, asserting that AI means 'all inclusive' for India, days after the US imposed curbs on access to certain artificial intelligence models....",
+      "url": "https://www.dailyexcelsior.com/at-vivatech-2026-modi-bats-for-democratisation-of-tech-says-for-india-ai-means-all-inclusive/",
+      "date": "2026-06-18T23:00:19Z"
+    },
+    {
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "date": "2026-06-18T18:13:13Z"
+    },
+    {
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "date": "2026-06-18T00:00:00Z"
+    },
+    {
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "date": "2026-06-18T00:00:00Z"
+    },
+    {
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "date": "2026-06-17T15:26:44Z"
+    },
+    {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "date": "2026-06-17T10:18:05Z"
+    },
+    {
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "date": "2026-06-17T09:01:25Z"
+    }
+  ]
 }
