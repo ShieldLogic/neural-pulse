@@ -1,46 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-20 13:04 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
-            "description": "Don't see this going over well.",
-            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
-            "publishedAt": "2026-06-16T21:33:52Z",
-            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        }
-    ]
+  "updated": "2026-06-20 13:52:49 UTC",
+  "news": [
+    {
+      "title": "Trump tells Axios he doesn\u2019t see Anthropic as U.S. security threat",
+      "description": "[LOS ANGELES TIMES] President Trump said he doesn\u2019t view Anthropic PBC as a national-security threat, days after his administration took steps to cut off foreign access to the tech company\u2019s most advanced artificial intelligence models.",
+      "url": "https://www.latimes.com/business/story/2026-06-19/trump-tells-axios-he-doesnt-see-anthropic-as-u-s-security-threat",
+      "date": "2026-06-20T01:08:41Z"
+    },
+    {
+      "title": "Jeff Bezos rejects AI is wiping away millions of jobs argument; repeats his 'labour scarcity' statement; says: AI is going to ...",
+      "description": "[TIMES OF INDIA] Tech News News: Amazon founder Jeff Bezos has once again dismissed concerns about artificial intelligence (AI) taking away human jobs. Speaking at the VivaTech confer.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-rejects-ai-is-wiping-away-millions-of-jobs-argument-repeats-his-labour-scarcity-statement-says-ai-is-going-to-/articleshow/131866548.cms",
+      "date": "2026-06-20T00:46:00Z"
+    },
+    {
+      "title": "AI Didn\u2019t Kill Coding Jobs. It Created a New Industry",
+      "description": "[TECHSTARTUPS.COM] The rise of AI slop refactoring is creating new demand for experienced engineers to turn AI-generated prototypes into production-ready software. For nearly four years, the tech industry has been flooded with predictions that artificial intelligence...",
+      "url": "https://techstartups.com/2026/06/19/ai-didnt-kill-coding-jobs-it-created-a-new-industry/",
+      "date": "2026-06-20T00:34:21Z"
+    },
+    {
+      "title": "Automakers and workers face existential fight over robots, future",
+      "description": "[SPOKANE SPOKESMAN-REVIEW] Automakers and workers are teed up for what each side views as a fight for existence \u2014 with cobots in the middle and already operating inside General Motors Co's Factory ZERO in Detroit. Artificial intelligence, robots and automation took center...",
+      "url": "https://www.spokesman.com/stories/2026/jun/20/automakers-and-workers-face-existential-fight-over/",
+      "date": "2026-06-20T00:15:00Z"
+    },
+    {
+      "title": "Amazon\u2019s Movie Arm Abandons Film About OpenAI",
+      "description": "[THE NEW YORK TIMES] The company, which invested $50 billion in the artificial intelligence start-up this year, will let the team behind the film, \u201cArtificial,\u201d try to sell the project to another studio.",
+      "url": "https://www.nytimes.com/2026/06/19/business/media/amazon-openai-artificial-movie-sam-altman.html",
+      "date": "2026-06-20T00:11:02Z"
+    },
+    {
+      "title": "Provincial AI strategy could protect residents, scale Sask. workforce: advocates",
+      "description": "[GLOBAL NEWS] Advocates in Saskatchewan say a provincial artificial intelligence strategy could help protect residents and strengthen the workforce.",
+      "url": "https://globalnews.ca/news/11914167/provincial-ai-strategy-residents-sask-workforce-advocates/",
+      "date": "2026-06-20T00:02:40Z"
+    },
+    {
+      "title": "Trump tells Axios he no longer views Anthropic as national security threat",
+      "description": "[THE STAR] June 19 (Reuters) - U.S. President \u2060Donald Trump said he might have viewed artificial intelligence company \u2060Anthropic as a national security threat last week, but he \u200cno longer does, according to an interview with \"The Axios Show\" published on...",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/20/trump-tells-axios-he-no-longer-views-anthropic-as-national-security-threat",
+      "date": "2026-06-19T23:15:00Z"
+    },
+    {
+      "title": "From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone",
+      "description": "[TECHCRUNCH] For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic\u2019s cybersecurity model Mythos.",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "date": "2026-06-19T22:40:14Z"
+    },
+    {
+      "title": "This LLM in a box is powered by a hand crank.",
+      "description": "[THE VERGE] As spotted earlier by The Register, CrankGPT is a concept project from a two-person team at Squeez Labs that runs private, local AI models without needing a power-hungry data center. Instead, you have to literally crank out your own power for each...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953083/this-llm-in-a-box-is-powered-by-a-hand-crank",
+      "date": "2026-06-19T22:08:01Z"
+    },
+    {
+      "title": "Maharashtra Signs Pact With Google To Train Over 4 Lakh Teachers In AI And Digital Skills Free Of Cost",
+      "description": "[FREE PRESS JOURNAL] In Mumbai, the Maharashtra School Education Department has signed a Letter of Intent with Google for Education to train over four lakh teachers in Artificial Intelligence and digital skills through the \u2018Google AI Educator Series\u2019. The 18-month...",
+      "url": "https://www.freepressjournal.in/education/maharashtra-signs-pact-with-google-to-train-over-4-lakh-teachers-in-ai-and-digital-skills-free-of-cost",
+      "date": "2026-06-19T21:58:40Z"
+    },
+    {
+      "title": "winning AI researcher John Jumper leaves Google DeepMind for Anthropic",
+      "description": "[TECHSTARTUPS.COM] The battle for elite AI talent just claimed another major name. John Jumper, the Nobel Prize-winning researcher behind AlphaFold, announced Friday that he is leaving Google DeepMind after nearly nine years to join AI startup Anthropic. His departure...",
+      "url": "https://techstartups.com/2026/06/19/nobel-prize-winning-ai-researcher-john-jumper-leaves-google-deepmind-for-anthropic/",
+      "date": "2026-06-19T21:44:09Z"
+    },
+    {
+      "title": "Is the US government\u2019s Anthropic ban accidentally helping the brand?",
+      "description": "[TECHCRUNCH] Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s...",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "date": "2026-06-19T16:08:17Z"
+    },
+    {
+      "title": "The US banned Anthropic\u2019s Fable 5 release, but the numbers don\u2019t seem to care",
+      "description": "[TECHCRUNCH] Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s...",
+      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "date": "2026-06-19T16:01:03Z"
+    },
+    {
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "description": "[TECHCRUNCH] Reliance is weaving AI into telecom services used by more than 500 million people.",
+      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "date": "2026-06-19T15:23:28Z"
+    },
+    {
+      "title": "SAP and Google Cloud deploy agentic commerce architecture",
+      "description": "[AI-NEWS] SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026....",
+      "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+      "date": "2026-06-19T14:02:20Z"
+    },
+    {
+      "title": "The CEO of Allbirds\u2019 new AI biz has a plan, but no team",
+      "description": "[TECHCRUNCH] Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "date": "2026-06-19T13:00:00Z"
+    },
+    {
+      "title": "e2e-assure introduces Cumulo, the U.K.\u2019s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+      "description": "[AI-NEWS] Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, \u2013...",
+      "url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+      "date": "2026-06-19T09:57:55Z"
+    },
+    {
+      "title": "The US says ASML\u2019s top chip tool may be in China, but how?",
+      "description": "[TECHCRUNCH] There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "date": "2026-06-19T07:59:12Z"
+    },
+    {
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "date": "2026-06-18T18:13:13Z"
+    },
+    {
+      "title": "Computer vision deployments drive retail productivity gains",
+      "description": "[AI-NEWS] Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent in-store execution failures currently costing the...",
+      "url": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+      "date": "2026-06-18T15:57:46Z"
+    },
+    {
+      "title": "HSBC expands AI banking partnership with Google Cloud",
+      "description": "[AI-NEWS] HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wealth management, financial...",
+      "url": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
+      "date": "2026-06-18T10:00:00Z"
+    },
+    {
+      "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won\u2019t.",
+      "description": "[AI-NEWS] Microsoft has quietly become the main supplier of OpenAI models in China, selling the technology to the country&#8217;s largest internet companies even as OpenAI and Anthropic keep their own models out of the market on intellectual-property and...",
+      "url": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
+      "date": "2026-06-18T09:00:00Z"
+    },
+    {
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "date": "2026-06-18T00:00:00Z"
+    },
+    {
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "date": "2026-06-18T00:00:00Z"
+    },
+    {
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "date": "2026-06-17T15:26:44Z"
+    },
+    {
+      "title": "Google Cloud generative AI automates council planning operations",
+      "description": "[AI-NEWS] Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations. Public sector administration handles vast volumes of unstructured data that delay infrastructure development. The UK...",
+      "url": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
+      "date": "2026-06-17T10:59:42Z"
+    },
+    {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "date": "2026-06-17T10:18:05Z"
+    },
+    {
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "date": "2026-06-17T09:01:25Z"
+    }
+  ]
 }
