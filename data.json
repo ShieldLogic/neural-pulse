@@ -1,59 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-22 16:10 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
-            "description": "Don't see this going over well.",
-            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
-            "publishedAt": "2026-06-16T21:33:52Z",
-            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "For the First Time, ChatGPT Reportedly Has Less Than Half of the AI Assistant Market",
-            "description": "ChatGPT is still the top-ranked AI assistant app, but it's reportedly no longer dominant.",
-            "url": "https://gizmodo.com/for-the-first-time-chatgpt-reportedly-has-less-than-half-of-the-ai-assistant-market-2000772791",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-1534546942-e1722865082345.jpg",
-            "publishedAt": "2026-06-17T01:10:26Z",
-            "content": "OpenAI reportedly no longer dominates the AI assistant market. A report from Sensor Tower (reported on by TechCrunch) says that although OpenAIs ChatGPT is still the number one-ranked AI assistant pr\u2026 [+2730 chars]"
-        }
-    ]
+  "updated": "2026-06-22 19:21:45 UTC",
+  "news": [
+    {
+      "title": "Google DeepMind bets $75M on AI\u2019s future in Hollywood with A24 deal",
+      "description": "[TECHCRUNCH] Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "date": "2026-06-22T18:49:44Z"
+    },
+    {
+      "title": "Amazon is testing Alexa+ in India with Hindi support",
+      "description": "[TECHCRUNCH] Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+      "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "date": "2026-06-22T17:31:29Z"
+    },
+    {
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "description": "[TECHCRUNCH] Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "date": "2026-06-22T16:51:29Z"
+    },
+    {
+      "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
+      "description": "[AI-NEWS] Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs. Japanese AI firm Sakana AI...",
+      "url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
+      "date": "2026-06-22T16:11:21Z"
+    },
+    {
+      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+      "description": "[TECHCRUNCH] Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
+      "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+      "date": "2026-06-22T14:00:00Z"
+    },
+    {
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "date": "2026-06-22T13:18:56Z"
+    },
+    {
+      "title": "L\u2019Or\u00e9al brings Maybelline virtual try-on to ChatGPT",
+      "description": "[AI-NEWS] L\u2019Or\u00e9al has announced a collaboration with OpenAI that will bring Maybelline New York\u2019s virtual makeup try-on feature into ChatGPT. The announcement was made at VivaTech 2026. The partnership covers consumer-facing shopping tools, product discovery,...",
+      "url": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
+      "date": "2026-06-22T10:00:00Z"
+    },
+    {
+      "title": "AI boom to fuel India\u2019s data centre surge, Goldman Sachs highlights key growth drivers",
+      "description": "[FIRSTPOST] India is emerging as one of Asia\u2019s fastest-growing data centre markets, powered by rising artificial intelligence (AI) demand, favourable demographics, a large engineering talent base and its strategic location close to the Middle East, according to...",
+      "url": "https://www.firstpost.com/business/ai-boom-to-fuel-indias-data-centre-surge-goldman-sachs-highlights-key-growth-drivers-14024942.html",
+      "date": "2026-06-22T07:12:15Z"
+    },
+    {
+      "title": "Elon Musk Warns AI May Outperform Humanity's Collective Intelligence in Just 5 Years",
+      "description": "[MASHABLE INDIA] Elon Musk predicts AI could surpass the combined intelligence of humanity within five years, accelerating the path toward a future shaped by advanced artificial intelligence.",
+      "url": "https://in.mashable.com/tech/111185/elon-musk-warns-ai-may-outperform-humanitys-collective-intelligence-in-just-5-years",
+      "date": "2026-06-22T07:08:03Z"
+    },
+    {
+      "title": "Tony Leung: 'AI in Hollywood is a double-edged sword'",
+      "description": "[PERTHNOW] Tony Leung reflected on the impact artificial intelligence is having on Hollywood, and said that while it saves money, it also takes away the \u201csoul\u201d of projects.",
+      "url": "https://www.perthnow.com.au/entertainment/movies/tony-leung-ai-in-hollywood-is-a-double-edged-sword-c-22467619",
+      "date": "2026-06-22T07:02:28Z"
+    },
+    {
+      "title": "New cameras switched on as drivers face six points on licence",
+      "description": "[BIRMINGHAM LIVE] Artificial intelligence will help new cameras detect more drivers",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/new-cameras-switched-drivers-face-34130499",
+      "date": "2026-06-22T06:55:17Z"
+    },
+    {
+      "title": "Samsung sharpens HBM strategy; Pursues long-term AI customer supply accords at Global Strategy Meeting",
+      "description": "[DEVDISCOURSE] Samsung Electronics sharpened its high-bandwidth memory (HBM) strategy at its biannual global strategy meeting last week, reviewing plans to expand shipments and secure long-term supply agreements with major artificial intelligence customers. The...",
+      "url": "https://www.devdiscourse.com/article/business/3938541-samsung-sharpens-hbm-strategy-pursues-long-term-ai-customer-supply-accords-at-global-strategy-meeting",
+      "date": "2026-06-22T06:50:16Z"
+    },
+    {
+      "title": "term AI customer supply accords at Global Strategy Meeting",
+      "description": "[THE TRIBUNE] Samsung Electronics sharpened its high-bandwidth memory (HBM) strategy at its biannual global strategy meeting last week, reviewing plans to expand shipments and secure long-term supply agreements with major artificial intelligence customers. The...",
+      "url": "https://www.tribuneindia.com/news/business/samsung-sharpens-hbm-strategy-pursues-long-term-ai-customer-supply-accords-at-global-strategy-meeting/",
+      "date": "2026-06-22T06:48:19Z"
+    },
+    {
+      "title": "Kirloskar Oil Engines Stock Jumps 20% To Hit Upper Circuit On Back Of 196 MW Power Generation Deal For AI Data Centres",
+      "description": "[FREE PRESS JOURNAL] The stock of Kirloskar Oil Engines surged 20 percent on Monday to hit upper circuit as it secured a major power generation order for artificial intelligence infrastructure. The stock opened 5.4 percent higher at Rs 2,100 apiece compared to the...",
+      "url": "https://www.freepressjournal.in/business/kirloskar-oil-engines-stock-jumps-20-to-hit-upper-circuit-on-back-of-196-mw-power-generation-deal-for-ai-data-centres",
+      "date": "2026-06-22T06:41:55Z"
+    },
+    {
+      "title": "Elon Musk says AI will probably become smarter than all humans in 4 years",
+      "description": "[INDIA TODAY] Elon Musk believes artificial intelligence will probably exceed the combined intelligence of all humans within the next four to five years.",
+      "url": "https://www.indiatoday.in/technology/news/story/elon-musk-says-ai-will-probably-become-smarter-than-all-humans-in-4-years-2931507-2026-06-22",
+      "date": "2026-06-22T06:36:33Z"
+    },
+    {
+      "title": "Anthropic\u2019s astonishing commercial success makes it a target",
+      "description": "[LIVEMINT] Anthropic's rapid rise has sparked a power struggle with the Trump administration over AI regulation, national security and control of advanced models. The clash threatens its IPO, highlights gaps in AI governance, and raises a bigger question: who...",
+      "url": "https://www.livemint.com/ai/anthropic-astonishing-commercial-success-makes-it-a-target-11782108353846.html",
+      "date": "2026-06-22T06:22:46Z"
+    },
+    {
+      "title": "The Reverse Centaur\u2019s Guide to Life After AI by Cory Doctorow review - the real price of artificial intelligence",
+      "description": "[THE GUARDIAN] A vivid and entertaining polemnic on the economics of the tech revolution, filled with righteous ire",
+      "url": "https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence",
+      "date": "2026-06-22T06:00:52Z"
+    },
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "description": "[TECHCRUNCH] On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "date": "2026-06-21T15:28:17Z"
+    },
+    {
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "description": "[TECHCRUNCH] Siri\u2019s AI overhaul may have grabbed the headlines at WWDC, but some of Apple\u2019s most useful AI features are arriving elsewhere in iOS 27.",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "date": "2026-06-21T14:40:28Z"
+    },
+    {
+      "title": "SAP and Google Cloud deploy agentic commerce architecture",
+      "description": "[AI-NEWS] SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026....",
+      "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+      "date": "2026-06-19T14:02:20Z"
+    },
+    {
+      "title": "e2e-assure introduces Cumulo, the U.K.\u2019s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+      "description": "[AI-NEWS] Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, \u2013...",
+      "url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+      "date": "2026-06-19T09:57:55Z"
+    },
+    {
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "date": "2026-06-18T18:13:13Z"
+    },
+    {
+      "title": "Computer vision deployments drive retail productivity gains",
+      "description": "[AI-NEWS] Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent in-store execution failures currently costing the...",
+      "url": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+      "date": "2026-06-18T15:57:46Z"
+    },
+    {
+      "title": "HSBC expands AI banking partnership with Google Cloud",
+      "description": "[AI-NEWS] HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wealth management, financial...",
+      "url": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
+      "date": "2026-06-18T10:00:00Z"
+    },
+    {
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "date": "2026-06-18T00:00:00Z"
+    },
+    {
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "date": "2026-06-18T00:00:00Z"
+    },
+    {
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "date": "2026-06-17T15:26:44Z"
+    },
+    {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "date": "2026-06-17T10:18:05Z"
+    }
+  ]
 }
