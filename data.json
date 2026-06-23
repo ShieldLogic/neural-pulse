@@ -1,59 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-23 13:58 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
-            "description": "Don't see this going over well.",
-            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
-            "publishedAt": "2026-06-16T21:33:52Z",
-            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "For the First Time, ChatGPT Reportedly Has Less Than Half of the AI Assistant Market",
-            "description": "ChatGPT is still the top-ranked AI assistant app, but it's reportedly no longer dominant.",
-            "url": "https://gizmodo.com/for-the-first-time-chatgpt-reportedly-has-less-than-half-of-the-ai-assistant-market-2000772791",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-1534546942-e1722865082345.jpg",
-            "publishedAt": "2026-06-17T01:10:26Z",
-            "content": "OpenAI reportedly no longer dominates the AI assistant market. A report from Sensor Tower (reported on by TechCrunch) says that although OpenAIs ChatGPT is still the number one-ranked AI assistant pr\u2026 [+2730 chars]"
-        }
-    ]
+  "updated": "2026-06-23 14:39:59 UTC",
+  "news": [
+    {
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "description": "[TECHCRUNCH] Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+      "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "date": "2026-06-23T14:00:00Z"
+    },
+    {
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "description": "[TECHCRUNCH] Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "date": "2026-06-23T13:00:00Z"
+    },
+    {
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "date": "2026-06-23T12:51:55Z"
+    },
+    {
+      "title": "Top spy agencies say AI cyber threats will impact you within months.\u00a0Here\u2019s\u00a0why",
+      "description": "[AI-NEWS] The global surge in AI cyber threats is no longer a distant problem for corporate data centres, according to an urgent public warning from the&#160;world&#8217;s&#160;most powerful intelligence alliance. On June 22, 2026, the cybersecurity chiefs of...",
+      "url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
+      "date": "2026-06-23T08:00:00Z"
+    },
+    {
+      "title": "More Than 40% of Australian Small, Medium Businesses Using AI Tools, NAB Says",
+      "description": "[MARKETSCREENER] More than four in 10 Australian small and medium businesses are using artificial intelligence tools, and a further 14% are planning to adopt them, with property services, finance and insurance, and...",
+      "url": "https://www.marketscreener.com/news/more-than-40-of-australian-small-medium-businesses-using-ai-tools-nab-says-ce7f5fdad88bf324",
+      "date": "2026-06-23T02:31:12Z"
+    },
+    {
+      "title": "Oracle has fired 21,000 employees this year, cites AI replacements in annual filing",
+      "description": "[FIRSTPOST] Oracle has disclosed that its workforce shrank by 21,000 employees over the past year, with the company acknowledging that artificial intelligence has contributed to some job reductions. The cuts come as Oracle pours billions into AI infrastructure,...",
+      "url": "https://www.firstpost.com/tech/oracle-has-fired-21000-employees-this-year-cites-ai-replacements-in-annual-filing-14025176.html",
+      "date": "2026-06-23T02:21:26Z"
+    },
+    {
+      "title": "AI companies should release environmental impact, commit to clean energy, says UN chief",
+      "description": "[BREITBART NEWS NETWORK] United Nations Secretary-General Ant\u00f3nio Guterres is calling on artificial intelligence companies to release information about the carbon, water",
+      "url": "https://www.breitbart.com/news/ai-companies-should-release-environmental-impact-commit-to-clean-energy-says-un-chief/",
+      "date": "2026-06-23T02:19:15Z"
+    },
+    {
+      "title": "AI startup Baseten hits $13 billion valuation as Australia's Blackbird makes record bet",
+      "description": "[THE STAR] SYDNEY, June \u206023 (Reuters) - Baseten, a California-based artificial intelligence startup co-founded by \u2060Australians, said it raised $1.5 billion in a funding round \u200cthat valued the company at $13 billion, underscoring the surge of capital flowing...",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/23/ai-startup-baseten-hits-13-billion-valuation-as-australia039s-blackbird-makes-record-bet",
+      "date": "2026-06-23T02:16:00Z"
+    },
+    {
+      "title": "AI startup Baseten hits $13 billion valuation as Australia's Blackbird makes record bet",
+      "description": "[REUTERS] Baseten, a California-based artificial intelligence startup co-founded by Australians, said it raised $1.5 billion in a \u200bfunding round that valued the company at $13 billion, underscoring \u200cthe surge of capital flowing into AI firms.",
+      "url": "https://www.reuters.com/world/asia-pacific/ai-startup-baseten-hits-13-billion-valuation-australias-blackbird-makes-record-2026-06-23/",
+      "date": "2026-06-23T02:06:39Z"
+    },
+    {
+      "title": "AI startup Baseten hits $13 billion valuation as Australia's Blackbird makes record bet",
+      "description": "[MARKETSCREENER] Baseten, a California-based artificial intelligence startup co-founded by Australians, said it raised $1.5 billion in a funding round that valued the company at $13 billion, underscoring the surge of...",
+      "url": "https://www.marketscreener.com/news/ai-startup-baseten-hits-13-billion-valuation-as-australia-s-blackbird-makes-record-bet-ce7f5fdad888ff25",
+      "date": "2026-06-23T01:58:28Z"
+    },
+    {
+      "title": "Qualcomm Reportedly Eyeing $4 Billion Acquisition of AI chip Startup Modular",
+      "description": "[GIZCHINA.COM] Qualcomm is reportedly negotiating a $4 billion acquisition of AI chip startup Modular as it expands into artificial intelligence, data centers, and autonomous driving.",
+      "url": "https://www.gizchina.com/xiaomi-tablets-tech/qualcomm-reportedly-eyeing-4-billion-acquisition-of-ai-chip-startup-modular",
+      "date": "2026-06-23T01:47:00Z"
+    },
+    {
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "description": "[TECHCRUNCH] A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "date": "2026-06-23T01:27:55Z"
+    },
+    {
+      "title": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk",
+      "description": "[THE STAR] WASHINGTON, June \u206022 (Reuters) - Cutting-edge artificial intelligence technology is poised to \u2060supercharge offensive hacking capabilities and urgent action is needed \u200cto face up to the threat, U.S., British, Canadian, Australian and New Zealand...",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/23/039five-eyes039-intelligence-alliance-warns-that-new-ai-models-pose-urgent-cyber-risk",
+      "date": "2026-06-23T01:07:00Z"
+    },
+    {
+      "title": "SpaceX falls for third day, erases $600 billion in market value",
+      "description": "[THE ECONOMIC TIMES] SpaceX shares have seen a significant drop, losing hundreds of billions in value over three days. This decline follows the company's announcement of its first investment-grade bond sale, signaling a major borrowing effort to fuel its artificial...",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-falls-for-third-day-erases-600-billion-in-market-value/articleshow/131922678.cms",
+      "date": "2026-06-23T01:00:00Z"
+    },
+    {
+      "title": "The Big Tech Investment Cycle is Shifting, and Chevron Just Wrote the Blueprint for the AI Power Trade.",
+      "description": "[BARCHART] The new partnership between energy giant Chevron and hyperscaler Microsoft highlights that the next phase of the artificial intelligence trade is plugging directly into the power grid.",
+      "url": "https://www.barchart.com/story/news/2593506/the-big-tech-investment-cycle-is-shifting-and-chevron-just-wrote-the-blueprint-for-the-ai-power-trade",
+      "date": "2026-06-23T00:52:35Z"
+    },
+    {
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
+      "description": "[TECHCRUNCH] OpenAI is using AI to help the open source community better protect itself.",
+      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "date": "2026-06-23T00:11:31Z"
+    },
+    {
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "date": "2026-06-23T00:00:00Z"
+    },
+    {
+      "title": "The AI world is getting \u2018loopy\u2019",
+      "description": "[TECHCRUNCH] The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "date": "2026-06-22T20:53:11Z"
+    },
+    {
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia\u2019s $20B not-acqui-hire deal",
+      "description": "[TECHCRUNCH] What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "date": "2026-06-22T20:13:58Z"
+    },
+    {
+      "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
+      "description": "[AI-NEWS] Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs. Japanese AI firm Sakana AI...",
+      "url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
+      "date": "2026-06-22T16:11:21Z"
+    },
+    {
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "date": "2026-06-22T13:18:56Z"
+    },
+    {
+      "title": "L\u2019Or\u00e9al brings Maybelline virtual try-on to ChatGPT",
+      "description": "[AI-NEWS] L\u2019Or\u00e9al has announced a collaboration with OpenAI that will bring Maybelline New York\u2019s virtual makeup try-on feature into ChatGPT. The announcement was made at VivaTech 2026. The partnership covers consumer-facing shopping tools, product discovery,...",
+      "url": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
+      "date": "2026-06-22T10:00:00Z"
+    },
+    {
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "date": "2026-06-22T00:00:00Z"
+    },
+    {
+      "title": "SAP and Google Cloud deploy agentic commerce architecture",
+      "description": "[AI-NEWS] SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026....",
+      "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+      "date": "2026-06-19T14:02:20Z"
+    },
+    {
+      "title": "e2e-assure introduces Cumulo, the U.K.\u2019s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+      "description": "[AI-NEWS] Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, \u2013...",
+      "url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+      "date": "2026-06-19T09:57:55Z"
+    },
+    {
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "date": "2026-06-18T18:13:13Z"
+    },
+    {
+      "title": "Computer vision deployments drive retail productivity gains",
+      "description": "[AI-NEWS] Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent in-store execution failures currently costing the...",
+      "url": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+      "date": "2026-06-18T15:57:46Z"
+    },
+    {
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "date": "2026-06-18T00:00:00Z"
+    }
+  ]
 }
