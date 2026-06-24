@@ -1,59 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-24 13:35 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
-            "description": "Don't see this going over well.",
-            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
-            "publishedAt": "2026-06-16T21:33:52Z",
-            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "For the First Time, ChatGPT Reportedly Has Less Than Half of the AI Assistant Market",
-            "description": "ChatGPT is still the top-ranked AI assistant app, but it's reportedly no longer dominant.",
-            "url": "https://gizmodo.com/for-the-first-time-chatgpt-reportedly-has-less-than-half-of-the-ai-assistant-market-2000772791",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-1534546942-e1722865082345.jpg",
-            "publishedAt": "2026-06-17T01:10:26Z",
-            "content": "OpenAI reportedly no longer dominates the AI assistant market. A report from Sensor Tower (reported on by TechCrunch) says that although OpenAIs ChatGPT is still the number one-ranked AI assistant pr\u2026 [+2730 chars]"
-        }
-    ]
+  "updated": "2026-06-24 14:22:08 UTC",
+  "news": [
+    {
+      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+      "description": "[TECHCRUNCH] You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+      "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "date": "2026-06-24T14:00:00Z"
+    },
+    {
+      "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
+      "description": "[AI-NEWS] Samsung Electronics is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work. According to OpenAI, the deployment covers all Samsung Electronics employees in Korea and all...",
+      "url": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
+      "date": "2026-06-24T10:00:00Z"
+    },
+    {
+      "title": "Anthropic\u00a0drops \u2018workplace AI\u00a0agents\u2019\u00a0directly inside Slack",
+      "description": "[AI-NEWS] Anthropic&#160;launched&#160;a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels. Moving away from traditional isolated chat boxes, users pull the artificial intelligence model...",
+      "url": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
+      "date": "2026-06-24T09:00:00Z"
+    },
+    {
+      "title": "'Ghostbusters' director Paul Feig strongly criticizes AI launch as he achieves milestone",
+      "description": "[THE NEWS INTERNATIONAL] Paul Feig, the director of The Housemaid, has spoken out against artificial intelligence at a recent event.On Saturday, June 20, the 63-year-old American filmmaker and actor attended the 2026...",
+      "url": "https://www.thenews.com.pk/latest/1407001-ghostbusters-director-paul-feig-strongly-criticizes-ai-launch-as-he-achieves-milestone",
+      "date": "2026-06-24T02:07:00Z"
+    },
+    {
+      "title": "Bitcoin Hits Two-Week Low As Tech Selloff Sparks Risk-Off Mood",
+      "description": "[NDTV PROFIT] Bitcoin's decline mirrors the drop in technology stocks that started Monday in the US, as concerns over artificial intelligence firms' massive spending re-emerged.",
+      "url": "https://www.ndtvprofit.com/markets/bitcoin-hits-two-week-low-as-tech-selloff-sparks-risk-off-mood-11678865",
+      "date": "2026-06-24T01:53:00Z"
+    },
+    {
+      "title": "Study finds AI-OCT-based system noninferior for secondary diabetic macular edema detection",
+      "description": "[MEDICAL XPRESS] Incorporation of an artificial intelligence-based-optical coherence tomography (AI-OCT) system as a secondary screening tool is noninferior to standard practice and can reduce unnecessary diabetic macular edema (DME) referrals, according to a study...",
+      "url": "https://medicalxpress.com/news/2026-06-ai-oct-based-noninferior-secondary.html",
+      "date": "2026-06-24T01:40:03Z"
+    },
+    {
+      "title": "Infosys AI services growth",
+      "description": "[TELEGRAPH INDIA] The company says enterprise demand for deploying artificial intelligence at scale is creating new growth avenues and workforce opportunities",
+      "url": "https://www.telegraphindia.com/business/nilekani-shrugs-off-ai-doubts-sees-usd-400-billion-opportunity-for-infosys-growth-prnt/cid/2166937",
+      "date": "2026-06-24T01:39:21Z"
+    },
+    {
+      "title": "Omnichat Launches Annual Product OmniClaw, the New Agentic AI Strategist",
+      "description": "[THE MANILA TIMES] TAIPEI, June 24, 2026 /PRNewswire/ -- Omnichat, the omnichannel customer experience platform, hosted its annual product launch on June 9th. Under the theme 'The New Era of Agentic AI: Driving the Future of Retail and Omnichannel Revenue Growth,' the...",
+      "url": "https://www.manilatimes.net/2026/06/24/tmt-newswire/pr-newswire/omnichat-launches-annual-product-omniclaw-the-new-agentic-ai-strategist/2371551",
+      "date": "2026-06-24T01:04:04Z"
+    },
+    {
+      "title": "Anthropic\u2019s Mythos model found vulnerabilities in classified U.S. government systems, official says: AP",
+      "description": "[CNBC] A U.S. official told The Associated Press on Tuesday that one of Anthropic's artificial intelligence models had identified vulnerabilities in highly sensitive and secure U.S. government computer systems during a testing exercise.",
+      "url": "https://www.cnbc.com/2026/06/23/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says.html",
+      "date": "2026-06-24T00:47:57Z"
+    },
+    {
+      "title": "HP builds edge AI device structure",
+      "description": "[BANGKOK POST] HP is capitalising the rise of edge artificial intelligence (AI) to redefine the enterprise PC as a local hub for automation, security and IT management.",
+      "url": "https://www.bangkokpost.com/business/general/3275764/hp-builds-edge-ai-device-structure",
+      "date": "2026-06-24T00:46:00Z"
+    },
+    {
+      "title": "UN chief says AI companies should share impacts, commit to clean energy",
+      "description": "[LOS ANGELES TIMES] United Nations Secretary-General Ant\u00f3nio Guterres is calling on artificial intelligence companies to release information about the carbon, water and land used to power their systems.",
+      "url": "https://www.latimes.com/environment/story/2026-06-23/un-chief-says-ai-companies-should-share-impacts-commit-to-clean-energy",
+      "date": "2026-06-24T00:36:54Z"
+    },
+    {
+      "title": "MoEngage acquires AI startup Aampe in first acquisition; eyes more deals in US, Europe",
+      "description": "[THE ECONOMIC TIMES] Customer engagement platform MoEngage has acquired AI startup Aampe, bolstering its artificial intelligence capabilities. MoEngage cofounder and chief executive Raviteja Dodda said the company is evaluating more inorganic growth opportunities,...",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/moengage-acquires-ai-startup-aampe-in-first-acquisition-eyes-more-deals-in-us-europe/articleshow/131949688.cms",
+      "date": "2026-06-24T00:30:00Z"
+    },
+    {
+      "title": "MoEngage acquires AI startup Aampe in first acquisition; eyes more deals in US, Europe",
+      "description": "[THE ECONOMIC TIMES] Customer engagement platform MoEngage has acquired AI startup Aampe, bolstering its artificial intelligence capabilities. MoEngage cofounder and chief executive Raviteja Dodda said the company is evaluating more inorganic growth opportunities,...",
+      "url": "https://economictimes.indiatimes.com/tech/startups/moengage-acquires-ai-startup-aampe-in-first-acquisition-eyes-more-deals-in-us-europe/articleshow/131949697.cms",
+      "date": "2026-06-24T00:30:00Z"
+    },
+    {
+      "title": "India\u2019s MoEngage bets that the future of marketing is millions of AI agents",
+      "description": "[TECHCRUNCH] The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "date": "2026-06-23T23:30:00Z"
+    },
+    {
+      "title": "Anthropic\u2019s Claude Tag is learning your company, one Slack message at a time",
+      "description": "[TECHCRUNCH] Anthropic\u2019s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "date": "2026-06-23T17:00:00Z"
+    },
+    {
+      "title": "Omio scales travel product development using OpenAI models",
+      "description": "[AI-NEWS] Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces. The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47...",
+      "url": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
+      "date": "2026-06-23T16:32:28Z"
+    },
+    {
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "description": "[TECHCRUNCH] Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 \u2014 the ultimate founder bootcamp \u2014 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+      "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "date": "2026-06-23T14:00:00Z"
+    },
+    {
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "description": "[TECHCRUNCH] Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "date": "2026-06-23T13:00:00Z"
+    },
+    {
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "date": "2026-06-23T12:51:55Z"
+    },
+    {
+      "title": "Top spy agencies say AI cyber threats will impact you within months.\u00a0Here\u2019s\u00a0why",
+      "description": "[AI-NEWS] The global surge in AI cyber threats is no longer a distant problem for corporate data centres, according to an urgent public warning from the&#160;world&#8217;s&#160;most powerful intelligence alliance. On June 22, 2026, the cybersecurity chiefs of...",
+      "url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
+      "date": "2026-06-23T08:00:00Z"
+    },
+    {
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "description": "[TECHCRUNCH] A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "date": "2026-06-23T01:27:55Z"
+    },
+    {
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "date": "2026-06-23T00:00:00Z"
+    },
+    {
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "date": "2026-06-23T00:00:00Z"
+    },
+    {
+      "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
+      "description": "[AI-NEWS] Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs. Japanese AI firm Sakana AI...",
+      "url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
+      "date": "2026-06-22T16:11:21Z"
+    },
+    {
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "date": "2026-06-22T13:18:56Z"
+    },
+    {
+      "title": "L\u2019Or\u00e9al brings Maybelline virtual try-on to ChatGPT",
+      "description": "[AI-NEWS] L\u2019Or\u00e9al has announced a collaboration with OpenAI that will bring Maybelline New York\u2019s virtual makeup try-on feature into ChatGPT. The announcement was made at VivaTech 2026. The partnership covers consumer-facing shopping tools, product discovery,...",
+      "url": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
+      "date": "2026-06-22T10:00:00Z"
+    },
+    {
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "date": "2026-06-22T00:00:00Z"
+    },
+    {
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "date": "2026-06-18T18:13:13Z"
+    }
+  ]
 }
