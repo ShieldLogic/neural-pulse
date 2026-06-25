@@ -1,173 +1,59 @@
 {
-  "updated": "2026-06-25 10:38:39 UTC",
-  "news": [
-    {
-      "title": "The math behind the OpenAI Jalape\u00f1o chip",
-      "description": "[AI-NEWS] OpenAI\u2019s financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalape\u00f1o chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC)...",
-      "url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
-      "date": "2026-06-25T06:00:00Z"
-    },
-    {
-      "title": "Europe is pushing back on Washington\u2019s chip war",
-      "description": "[TECHCRUNCH] As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools \u2014 gear first shipped about a decade ago \u2014 the same machines the MATCH Act would now put off-limits.",
-      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-      "date": "2026-06-25T00:08:36Z"
-    },
-    {
-      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-      "description": "[TECHCRUNCH] Backed by Mayfield and Aramco Ventures, Vishal Sikka\u2019s new venture brings together veterans from SAP, Infosys, and VianAI.",
-      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "date": "2026-06-24T23:26:52Z"
-    },
-    {
-      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "description": "[TECHCRUNCH] In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
-      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "date": "2026-06-24T22:41:41Z"
-    },
-    {
-      "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
-      "description": "[ARS TECHNICA] The silicon race is heating up amid the struggle to keep up with demand.",
-      "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
-      "date": "2026-06-24T22:28:18Z"
-    },
-    {
-      "title": "Stock Market Today: Dow, S&P Live Updates for June 25",
-      "description": "[BLOOMBERG] Asian stocks were poised to gain, tracking a rally in US equity futures after Micron Technology Inc. delivered an upbeat forecast that reignited confidence in the artificial-intelligence trade.",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/us-stock-futures-surge-on-micron-s-strong-forecast-markets-wrap",
-      "date": "2026-06-24T22:04:22Z"
-    },
-    {
-      "title": "AI was supposed to kill engineering jobs, but new data suggests they\u2019re the most resilient",
-      "description": "[TECHCRUNCH] While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "date": "2026-06-24T21:56:41Z"
-    },
-    {
-      "title": "Elastic to Slash 7% of Workforce; Chief Product Officer to Step Down",
-      "description": "[MARKETSCREENER] Elastic plans to lay off 7% of its workforce amid the rising adoption of artificial intelligence in the workplace, while Chief Product Officer Ken Exner will step down on July 17, the company said...",
-      "url": "https://www.marketscreener.com/news/elastic-to-slash-7-of-workforce-chief-product-officer-to-step-down-ce7f5fd8d980f12c",
-      "date": "2026-06-24T21:53:41Z"
-    },
-    {
-      "title": "Adobe's Fahad Mattoo on agentic AI in ANZ: start small, get the data right, and move from experiments to outcomes",
-      "description": "[ITWIRE] The two Adobe Summit Sydney 2026 keynotes did the showing off, with a trillion-dollar agentic pitch and a Qantas executive who quietly took the whole premise apart. The...",
-      "url": "https://itwire.com/business-it-news/data/adobes-fahad-mattoo-on-agentic-ai-in-anz-start-small-get-the-data-right-and-move-from-experiments-to-outcomes",
-      "date": "2026-06-24T21:53:00Z"
-    },
-    {
-      "title": "AI researchers continue to leave Google for its rivals",
-      "description": "[TECHCRUNCH] Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "date": "2026-06-24T21:42:07Z"
-    },
-    {
-      "title": "Qualcomm Accelerates Push to Be Bigger than Smartphone Chips",
-      "description": "[MARKETSCREENER] By Dean Seal Qualcomm is revving up a plan to outgrow its persona as a chipmaker for smartphones and become an all-around technology and artificial intelligence platform. The semiconductor...",
-      "url": "https://www.marketscreener.com/news/qualcomm-accelerates-push-to-be-bigger-than-smartphone-chips-ce7f5fd8d981f424",
-      "date": "2026-06-24T21:39:22Z"
-    },
-    {
-      "title": "The memory chip crunch is paying off for this US company",
-      "description": "[TECHCRUNCH] Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
-      "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
-      "date": "2026-06-24T21:30:55Z"
-    },
-    {
-      "title": "C-DOT, IIT Hyderabad Launch Telecom Research Centre For 6G, AI and Quantum Technologies",
-      "description": "[DECCAN CHRONICLE] The collaboration is intended to accelerate research, innovation and skill development in advanced communication technologies, including 5G Advanced and 6G networks, quantum communications, cybersecurity and artificial intelligence-driven telecom...",
-      "url": "https://www.deccanchronicle.com/southern-states/telangana/c-dot-iit-hyderabad-launch-telecom-research-centre-for-6g-ai-and-quantum-technologies-1966067",
-      "date": "2026-06-24T21:28:07Z"
-    },
-    {
-      "title": "WaPo: Most AI Chatbots Lean Left on Politics",
-      "description": "[NEWSMAX] According to a Washington Post analysis that examined some of the industry's most widely used AI models, several widely used artificial intelligence chatbots were more likely to produce responses categorized as left-leaning than right-leaning when...",
-      "url": "https://www.newsmax.com/politics/politics-ai-chatbots/2026/06/24/id/1260774/",
-      "date": "2026-06-24T20:23:50Z"
-    },
-    {
-      "title": "Eli Lilly dives into hair loss treatments with investment in AI startup Absci",
-      "description": "[STAT] The deal is centered around Absci's early-stage hair loss drug ABS-201, which it designed using artificial intelligence tools.",
-      "url": "https://www.statnews.com/2026/06/24/eli-lilly-absci-hair-loss-treatments/",
-      "date": "2026-06-24T20:01:00Z"
-    },
-    {
-      "title": "Are algorithms unfairly screening out immigrant job applications?",
-      "description": "[PHYS.ORG] Canada's new artificial intelligence strategy, AI for All, presents an ambitious vision for the country's future. Artificial intelligence, the federal government argues, can boost productivity, strengthen competitiveness and create opportunity...",
-      "url": "https://phys.org/news/2026-06-algorithms-unfairly-screening-immigrant-job.html",
-      "date": "2026-06-24T20:00:08Z"
-    },
-    {
-      "title": "The Physical AI Era Has Arrived. The Real Question Is Who's Steering It?",
-      "description": "[INTERNATIONAL BUSINESS TIMES] According to Monty McCoy, owner of McCoy Ventures LLC, many people still view artificial intelligence through the lens of chatbots and digital assistants, even as a far more tangible transformation",
-      "url": "https://www.ibtimes.com/physical-ai-era-has-arrived-real-question-whos-steering-it-3804526",
-      "date": "2026-06-24T19:52:48Z"
-    },
-    {
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "date": "2026-06-24T16:00:13Z"
-    },
-    {
-      "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
-      "description": "[AI-NEWS] Samsung Electronics is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work. According to OpenAI, the deployment covers all Samsung Electronics employees in Korea and all...",
-      "url": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
-      "date": "2026-06-24T10:00:00Z"
-    },
-    {
-      "title": "Anthropic\u00a0drops \u2018workplace AI\u00a0agents\u2019\u00a0directly inside Slack",
-      "description": "[AI-NEWS] Anthropic&#160;launched&#160;a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels. Moving away from traditional isolated chat boxes, users pull the artificial intelligence model...",
-      "url": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
-      "date": "2026-06-24T09:00:00Z"
-    },
-    {
-      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/ffasr-leaderboard",
-      "date": "2026-06-24T00:00:00Z"
-    },
-    {
-      "title": "Omio scales travel product development using OpenAI models",
-      "description": "[AI-NEWS] Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces. The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47...",
-      "url": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
-      "date": "2026-06-23T16:32:28Z"
-    },
-    {
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "date": "2026-06-23T12:51:55Z"
-    },
-    {
-      "title": "Top spy agencies say AI cyber threats will impact you within months.\u00a0Here\u2019s\u00a0why",
-      "description": "[AI-NEWS] The global surge in AI cyber threats is no longer a distant problem for corporate data centres, according to an urgent public warning from the&#160;world&#8217;s&#160;most powerful intelligence alliance. On June 22, 2026, the cybersecurity chiefs of...",
-      "url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
-      "date": "2026-06-23T08:00:00Z"
-    },
-    {
-      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-      "date": "2026-06-23T00:00:00Z"
-    },
-    {
-      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/cross-origin-storage",
-      "date": "2026-06-23T00:00:00Z"
-    },
-    {
-      "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
-      "description": "[AI-NEWS] Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs. Japanese AI firm Sakana AI...",
-      "url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
-      "date": "2026-06-22T16:11:21Z"
-    },
-    {
-      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-      "date": "2026-06-22T13:18:56Z"
-    }
-  ]
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-06-25 13:36 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
+            "description": "Don't see this going over well.",
+            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
+            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
+            "publishedAt": "2026-06-16T21:33:52Z",
+            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
+            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
+            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
+            "publishedAt": "2026-06-07T09:00:33Z",
+            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Webb Wright",
+            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
+            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
+            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
+            "publishedAt": "2026-06-12T20:10:40Z",
+            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "For the First Time, ChatGPT Reportedly Has Less Than Half of the AI Assistant Market",
+            "description": "ChatGPT is still the top-ranked AI assistant app, but it's reportedly no longer dominant.",
+            "url": "https://gizmodo.com/for-the-first-time-chatgpt-reportedly-has-less-than-half-of-the-ai-assistant-market-2000772791",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-1534546942-e1722865082345.jpg",
+            "publishedAt": "2026-06-17T01:10:26Z",
+            "content": "OpenAI reportedly no longer dominates the AI assistant market. A report from Sensor Tower (reported on by TechCrunch) says that although OpenAIs ChatGPT is still the number one-ranked AI assistant pr\u2026 [+2730 chars]"
+        }
+    ]
 }
