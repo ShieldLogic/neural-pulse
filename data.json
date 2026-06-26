@@ -1,137 +1,59 @@
 {
-  "updated": "2026-06-26 10:47:05 UTC",
-  "news": [
-    {
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "date": "2026-06-26T00:00:00Z"
-    },
-    {
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "description": "[TECHCRUNCH] OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "date": "2026-06-25T23:34:39Z"
-    },
-    {
-      "title": "How AI-based system is expected to make AQI forecast sharper in Delhi",
-      "description": "[THE INDIAN EXPRESS] Drawing on a constant stream of live pollution data, the new AI-based DSS will use artificial intelligence (AI) to spot the first signs of a worsening episode early, so that action can be taken before conditions worsen, sources said.",
-      "url": "https://indianexpress.com/article/cities/delhi/how-ai-based-system-is-expected-to-make-aqi-forecast-sharper-in-delhi-10757938/",
-      "date": "2026-06-25T22:35:33Z"
-    },
-    {
-      "title": "Apple increases Macs, iPads prices, blames memory chips shortage",
-      "description": "[BNN BLOOMBERG] Apple on Thursday announced an increase in prices for Macs and iPads, citing a memory chip shortage brought on by the artificial intelligence boom.",
-      "url": "https://www.bnnbloomberg.ca/business/company-news/2026/06/25/apple-increases-prices-for-macs-and-ipads-blaming-a-shortage-of-memory-chips/",
-      "date": "2026-06-25T22:07:01Z"
-    },
-    {
-      "title": "Upstart Publishes May 2026 UMI",
-      "description": "[WALLSTREET ONLINE] 26.06.2026 - Upstart Holdings, Inc. (NASDAQ: UPST), the leading artificial intelligence (AI) lending marketplace, today updated the Upstart Macro Index (UMI) to include May 2026 data. For historical data and information about how the index is...",
-      "url": "https://www.wallstreet-online.de/nachricht/21043899-upstart-publishes-may-2026-umi",
-      "date": "2026-06-25T22:05:06Z"
-    },
-    {
-      "title": "US won't abruptly deny AI access to India: Govt",
-      "description": "[TIMES OF INDIA] India Business News: NEW DELHI: The US has assured India that access to critical artificial intelligence technologies will not become a challenge for trusted partners, IT .",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/us-wont-abruptly-deny-ai-access-to-india-govt/articleshow/132003273.cms",
-      "date": "2026-06-25T21:58:00Z"
-    },
-    {
-      "title": "AI in policing: Safeguards can't keep up, new research warns",
-      "description": "[PHYS.ORG] Artificial intelligence is being adopted across policing and the wider criminal justice system of England and Wales faster than the rules designed to govern it, according to major new research published by Northumbria University.",
-      "url": "https://phys.org/news/2026-06-ai-policing-safeguards.html",
-      "date": "2026-06-25T21:40:05Z"
-    },
-    {
-      "title": "Integrating AI on the Factory Floor Without Disruption with Insights from Nishkam Batta, GrayCyan, and HonestAI Magazine",
-      "description": "[ITWIRE] Artificial intelligence AI is moving out of controlled environments and into live production systems, where operational constraints determine whether automation holds up in...",
-      "url": "https://itwire.com/guest-articles/guest-opinion/integrating-ai-on-the-factory-floor-without-disruption-with-insights-from-nishkam-batta-graycyan-and-honestai-magazine",
-      "date": "2026-06-25T21:18:39Z"
-    },
-    {
-      "title": "Leveraging AI can reduce time and resources in how physicians approach sepsis care",
-      "description": "[MEDICAL XPRESS] In a new clinical study from the University of California San Diego School of Medicine, researchers and physicians at UC San Diego Health have found that by utilizing artificial intelligence (AI), they could develop more timely and efficient...",
-      "url": "https://medicalxpress.com/news/2026-06-leveraging-ai-resources-physicians-approach.html",
-      "date": "2026-06-25T21:00:05Z"
-    },
-    {
-      "title": "Apple increases prices for Macs and iPads, blaming shortage of memory chips",
-      "description": "[JAPAN TODAY] Apple on Thursday announced an increase in prices for Macs and iPads, citing a memory chip shortage brought on by the artificial intelligence boom. The Cupertino, California-based company called the demand spike an \u201cunprecedented challenge\u201d for the...",
-      "url": "https://japantoday.com/category/tech/apple-increases-prices-for-macs-and-ipads-blaming-a-shortage-of-memory-chips",
-      "date": "2026-06-25T20:55:00Z"
-    },
-    {
-      "title": "SpaceX is moving data centres to space, signalling a new era for space-based computing",
-      "description": "[TIMES OF INDIA] Science News: SpaceX is reportedly preparing an orbital artificial intelligence satellite constellation, according to trademark filings and industry reports. While .",
-      "url": "https://timesofindia.indiatimes.com/science/spacex-is-moving-data-centres-to-space-signalling-a-new-era-for-space-based-computing/articleshow/132003047.cms",
-      "date": "2026-06-25T20:52:00Z"
-    },
-    {
-      "title": "Ticker: Apple hikes prices on Macs, iPads; Jobless claims decline",
-      "description": "[THE BOSTON HERALD] Apple on Thursday announced an increase in prices for Macs and iPads, citing a memory chip shortage brought on by the artificial intelligence boom.",
-      "url": "https://www.bostonherald.com/2026/06/25/ticker-apple-hikes-prices-on-macs-ipads-jobless-claims-decline/",
-      "date": "2026-06-25T20:51:37Z"
-    },
-    {
-      "title": "Patronus AI lands $50M to build \u2018digital worlds\u2019 that stress-test AI agents",
-      "description": "[TECHCRUNCH] Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "date": "2026-06-25T20:19:25Z"
-    },
-    {
-      "title": "Anthropic\u2019s Claude is winning over paid consumers, a market owned by ChatGPT",
-      "description": "[TECHCRUNCH] Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "date": "2026-06-25T17:38:27Z"
-    },
-    {
-      "title": "General Intuition\u2019s $2.3B bet that video games can train AI agents for the real world",
-      "description": "[TECHCRUNCH] General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "date": "2026-06-25T16:55:00Z"
-    },
-    {
-      "title": "Databricks\u2019 former AI chief thinks he can cut AI\u2019s power bill by 1,000x",
-      "description": "[TECHCRUNCH] Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-      "date": "2026-06-25T16:48:11Z"
-    },
-    {
-      "title": "Which tokens does a hybrid model predict better?",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-      "date": "2026-06-25T16:11:42Z"
-    },
-    {
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "description": "[TECHCRUNCH] Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "date": "2026-06-25T14:55:38Z"
-    },
-    {
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "date": "2026-06-24T16:00:13Z"
-    },
-    {
-      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/ffasr-leaderboard",
-      "date": "2026-06-24T00:00:00Z"
-    },
-    {
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "date": "2026-06-23T12:51:55Z"
-    },
-    {
-      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-      "date": "2026-06-23T00:00:00Z"
-    }
-  ]
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-06-26 13:28 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
+            "description": "Don't see this going over well.",
+            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
+            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
+            "publishedAt": "2026-06-16T21:33:52Z",
+            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
+            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
+            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
+            "publishedAt": "2026-06-07T09:00:33Z",
+            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Webb Wright",
+            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
+            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
+            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
+            "publishedAt": "2026-06-12T20:10:40Z",
+            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "For the First Time, ChatGPT Reportedly Has Less Than Half of the AI Assistant Market",
+            "description": "ChatGPT is still the top-ranked AI assistant app, but it's reportedly no longer dominant.",
+            "url": "https://gizmodo.com/for-the-first-time-chatgpt-reportedly-has-less-than-half-of-the-ai-assistant-market-2000772791",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-1534546942-e1722865082345.jpg",
+            "publishedAt": "2026-06-17T01:10:26Z",
+            "content": "OpenAI reportedly no longer dominates the AI assistant market. A report from Sensor Tower (reported on by TechCrunch) says that although OpenAIs ChatGPT is still the number one-ranked AI assistant pr\u2026 [+2730 chars]"
+        }
+    ]
 }
