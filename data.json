@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-26 13:28 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
-            "description": "Don't see this going over well.",
-            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
-            "publishedAt": "2026-06-16T21:33:52Z",
-            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "For the First Time, ChatGPT Reportedly Has Less Than Half of the AI Assistant Market",
-            "description": "ChatGPT is still the top-ranked AI assistant app, but it's reportedly no longer dominant.",
-            "url": "https://gizmodo.com/for-the-first-time-chatgpt-reportedly-has-less-than-half-of-the-ai-assistant-market-2000772791",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-1534546942-e1722865082345.jpg",
-            "publishedAt": "2026-06-17T01:10:26Z",
-            "content": "OpenAI reportedly no longer dominates the AI assistant market. A report from Sensor Tower (reported on by TechCrunch) says that although OpenAIs ChatGPT is still the number one-ranked AI assistant pr\u2026 [+2730 chars]"
-        }
-    ]
+  "updated": "2026-06-26 14:14:48 UTC",
+  "news": [
+    {
+      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+      "description": "[TECHCRUNCH] Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+      "date": "2026-06-26T13:00:00Z"
+    },
+    {
+      "title": "Global Market: US revises 2026 first-quarter GDP growth up to 2.1%",
+      "description": "[THE ECONOMIC TIMES] The US economy showed stronger growth than initially thought in the first quarter, reaching an annual rate of 2.1 percent. This upward revision was largely due to a decrease in imports, which positively impacts GDP calculations. Key drivers of this...",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-revises-2026-first-quarter-gdp-growth-up-to-2-1/articleshow/132005799.cms",
+      "date": "2026-06-26T02:12:00Z"
+    },
+    {
+      "title": "Apple raises prices for MacBooks and iPads, as costs soar over AI",
+      "description": "[THE STAR] Apple said on June 25 it was raising prices for its MacBook computers, iPad tablets and other products, citing spiralling memory and storage costs sparked by the rise of artificial intelligence.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/26/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai",
+      "date": "2026-06-26T02:00:00Z"
+    },
+    {
+      "title": "Two Decades of Precision: Lingyi iTech Marks 20th Anniversary with Landmark Hong Kong Listing (1688.HK) to Anchor Its Global AI Leadership",
+      "description": "[THE MANILA TIMES] SHENZHEN, China, June 26, 2026 /PRNewswire/ -- The global technology landscape is undergoing a monumental structural shift. As the consumer electronics market matures, the epicenter of high-tech manufacturing is rapidly pivoting toward artificial...",
+      "url": "https://www.manilatimes.net/2026/06/26/tmt-newswire/pr-newswire/two-decades-of-precision-lingyi-itech-marks-20th-anniversary-with-landmark-hong-kong-listing-1688hk-to-anchor-its-global-ai-leadership/2373415",
+      "date": "2026-06-26T01:54:49Z"
+    },
+    {
+      "title": "Assured that access to AI tech once provided will not be cut-off: senior Indian official",
+      "description": "[THE HINDU] U.S. assures India that access to artificial intelligence technology will remain secure, emphasizing innovation over regulation in AI development.",
+      "url": "https://www.thehindu.com/news/national/assured-that-access-to-ai-tech-once-provided-will-not-be-cut-off-senior-indian-official/article71149019.ece",
+      "date": "2026-06-26T01:52:47Z"
+    },
+    {
+      "title": "Cedars Digital Achieves ISO/ IEC 42001 Certification, Advancing Trustworthy AI and AI Governance",
+      "description": "[THE MANILA TIMES] Singapore-based AI and Sustainability Company Partners with Deloitte and SGS to Build a Robust AI Governance Framework",
+      "url": "https://www.manilatimes.net/2026/06/26/tmt-newswire/pr-newswire/cedars-digital-achieves-iso-iec-42001-certification-advancing-trustworthy-ai-and-ai-governance/2373410",
+      "date": "2026-06-26T01:34:42Z"
+    },
+    {
+      "title": "UBS Raises AMD Stock\u2019s Price Target to a Street-High - Here\u2019s Why",
+      "description": "[MARKETS INSIDER] Discussions around modern AI infrastructure, especially in agentic AI, typically focus on accelerators, model size, and large training clusters....",
+      "url": "https://markets.businessinsider.com/news/stocks/ubs-raises-amd-stock-s-price-target-to-a-street-high-here-s-why-1036278331",
+      "date": "2026-06-26T01:13:10Z"
+    },
+    {
+      "title": "How does a single cell build a 170 billion-cell brain? Scientists discover the astonishing blueprint behind how the human brain builds itself",
+      "description": "[THE ECONOMIC TIMES] Scientists have uncovered a surprising principle behind the brain's intricate development from a single cell. Researchers propose that cells, much like spreading human populations, tend to stay near their 'ancestors.' This lineage-based...",
+      "url": "https://economictimes.indiatimes.com/news/international/us/how-does-a-single-cell-build-a-170-billion-cell-brain-scientists-discover-the-astonishing-blueprint-behind-how-the-human-brain-builds-itself/articleshow/132005171.cms",
+      "date": "2026-06-26T01:06:00Z"
+    },
+    {
+      "title": "tech rout in Asia and Wall Street",
+      "description": "[CNBC] SoftBank Group plunged, leading a broad selloff in Asian technology stocks amid mounting concerns over the rising cost of artificial intelligence infrastructure.",
+      "url": "https://www.cnbc.com/2026/06/26/global-tech-stocks-ai-infrastructure-costs-selloff-softbank-apple.html",
+      "date": "2026-06-26T00:54:25Z"
+    },
+    {
+      "title": "AI levels the playing field as IT giants target mid",
+      "description": "[THE ECONOMIC TIMES] \u200b\u200bWith the disruption that artificial intelligence has brought, mid-market companies have now accelerated tech spending, creating scalable opportunities. The focus on the mid-market is also a result of a slowdown in deals in the traditional...",
+      "url": "https://economictimes.indiatimes.com/tech/information-tech/ai-levels-the-playing-field-as-it-giants-target-mid-market-game/articleshow/131999875.cms",
+      "date": "2026-06-26T00:30:00Z"
+    },
+    {
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "date": "2026-06-26T00:00:00Z"
+    },
+    {
+      "title": "In Depth: Beneath the Sea, China Tests the Future of AI Power",
+      "description": "[CAIXIN] In Depth: Beneath the Sea, China Tests the Future of AI Power - As the artificial intelligence boom drives a surge in electricity demand, tech hubs like Lingang are piloting underwater data centers, cross-country server dispatch, and AI-managed...",
+      "url": "https://www.caixinglobal.com/2026-06-26/in-depth-beneath-the-sea-china-tests-the-future-of-ai-power-102457900.html",
+      "date": "2026-06-26T00:00:00Z"
+    },
+    {
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "description": "[TECHCRUNCH] OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "date": "2026-06-25T23:34:39Z"
+    },
+    {
+      "title": "Patronus AI lands $50M to build \u2018digital worlds\u2019 that stress-test AI agents",
+      "description": "[TECHCRUNCH] Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "date": "2026-06-25T20:19:25Z"
+    },
+    {
+      "title": "Anthropic\u2019s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "description": "[TECHCRUNCH] Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "date": "2026-06-25T17:38:27Z"
+    },
+    {
+      "title": "General Intuition\u2019s $2.3B bet that video games can train AI agents for the real world",
+      "description": "[TECHCRUNCH] General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "date": "2026-06-25T16:55:00Z"
+    },
+    {
+      "title": "Databricks\u2019 former AI chief thinks he can cut AI\u2019s power bill by 1,000x",
+      "description": "[TECHCRUNCH] Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "date": "2026-06-25T16:48:11Z"
+    },
+    {
+      "title": "Which tokens does a hybrid model predict better?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "date": "2026-06-25T16:11:42Z"
+    },
+    {
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "date": "2026-06-24T16:00:13Z"
+    },
+    {
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "date": "2026-06-24T00:00:00Z"
+    },
+    {
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "date": "2026-06-23T12:51:55Z"
+    },
+    {
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "date": "2026-06-23T00:00:00Z"
+    }
+  ]
 }
