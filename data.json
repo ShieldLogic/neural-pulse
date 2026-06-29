@@ -1,72 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-06-29 14:57 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
-            "description": "Don't see this going over well.",
-            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
-            "publishedAt": "2026-06-16T21:33:52Z",
-            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-            "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagshi\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-26T17:01:03Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nby\r\nHayden FieldClose\r\nPosts from thi\u2026 [+4335 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "For the First Time, ChatGPT Reportedly Has Less Than Half of the AI Assistant Market",
-            "description": "ChatGPT is still the top-ranked AI assistant app, but it's reportedly no longer dominant.",
-            "url": "https://gizmodo.com/for-the-first-time-chatgpt-reportedly-has-less-than-half-of-the-ai-assistant-market-2000772791",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-1534546942-e1722865082345.jpg",
-            "publishedAt": "2026-06-17T01:10:26Z",
-            "content": "OpenAI reportedly no longer dominates the AI assistant market. A report from Sensor Tower (reported on by TechCrunch) says that although OpenAIs ChatGPT is still the number one-ranked AI assistant pr\u2026 [+2730 chars]"
-        }
-    ]
+  "updated": "2026-06-29 18:05:52 UTC",
+  "news": [
+    {
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "date": "2026-06-29T18:02:48Z"
+    },
+    {
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "description": "[TECHCRUNCH] The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "date": "2026-06-29T17:39:17Z"
+    },
+    {
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "description": "[TECHCRUNCH] Cursor has launched a new mobile app for remote oversight over coding agents.",
+      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "date": "2026-06-29T17:03:50Z"
+    },
+    {
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "description": "[TECHCRUNCH] TIDAL's new policy will prevent AI-generated music from making money on its service.",
+      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "date": "2026-06-29T16:29:04Z"
+    },
+    {
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "description": "[TECHCRUNCH] The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "date": "2026-06-29T14:00:08Z"
+    },
+    {
+      "title": "Omen AI\u2019s plan to optimize data centers is all wet",
+      "description": "[TECHCRUNCH] Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "date": "2026-06-29T13:00:00Z"
+    },
+    {
+      "title": "HP accelerates enterprise workflows with OpenAI Frontier",
+      "description": "[AI-NEWS] HP has scaled its OpenAI Frontier integration across global operations to optimise enterprise workflows and accelerate output. The hardware manufacturer initiated testing of the platform in February 2026. Early pilot programs yielded verified...",
+      "url": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
+      "date": "2026-06-29T12:22:45Z"
+    },
+    {
+      "title": "Wimbledon adds IBM AI tools for live match coverage",
+      "description": "[AI-NEWS] The All England Lawn Tennis Club is adding new AI-powered features to Wimbledon\u2019s digital platforms through its ongoing work with IBM. The updates will be available through the Wimbledon app and wimbledon.com as first-round matches begin on Monday....",
+      "url": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/",
+      "date": "2026-06-29T10:00:00Z"
+    },
+    {
+      "title": "Advances in Natural Language Processing Are Changing Professional Networking",
+      "description": "[AI-NEWS] Natural language processing is reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions. As AI-driven systems increasingly comprehend and generate human language, these technological...",
+      "url": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/",
+      "date": "2026-06-29T08:59:46Z"
+    },
+    {
+      "title": "Best Automated Security Testing Tools for Modern DevSecOps",
+      "description": "[AI-NEWS] Modern DevSecOps needs security checks that run before release day. Teams now write code, build services and deploy updates at a pace that manual review cannot match. That&#8217;s why they use automated testing, as it helps catch routine flaws...",
+      "url": "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/",
+      "date": "2026-06-29T08:54:22Z"
+    },
+    {
+      "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+      "description": "[AI-NEWS] xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks. Hardware selection...",
+      "url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
+      "date": "2026-06-29T08:05:32Z"
+    },
+    {
+      "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
+      "description": "[AI-NEWS] New partnership brings on-device deepfake detection to video calls on desktop SAN FRANCISCO, June 29, 2026 \u2014 Scam.ai today announced a partnership with Qualcomm and the launch of Halo, an on-device deepfake detection model for live video calls. Both...",
+      "url": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/",
+      "date": "2026-06-29T07:57:38Z"
+    },
+    {
+      "title": "Asian shares mixed as tech stocks fall in Japan and South Korea",
+      "description": "[THE HINDU BUSINESS LINE] Asian markets were mixed on Monday as selling of artificial intelligence-related shares pulled benchmarks in Japan and South Korea lower, though gains for other stocks helped offset those losses.",
+      "url": "https://www.thehindubusinessline.com/markets/asian-shares-mixed-as-tech-stocks-fall-in-japan-and-south-korea/article71160160.ece",
+      "date": "2026-06-29T05:54:35Z"
+    },
+    {
+      "title": "Can Artificial Intelligence Help Treat Addiction?",
+      "description": "[TECHBULLION] Explore how artificial intelligence impacts addiction treatment and recovery, offering new tools for prevention and support.",
+      "url": "https://techbullion.com/can-artificial-intelligence-help-treat-addiction/",
+      "date": "2026-06-29T05:41:59Z"
+    },
+    {
+      "title": "A License for Your Brain: The Coming AI Crackdown and Why You Must Practice LLM Self",
+      "description": "[NATURAL NEWS] They Want a License for Your Brain I have spent years building decentralized AI tools and watching the establishment move to lobotomize publicly-available large language models (in the U.S.) to make sure they are nowhere near as intelligent as they...",
+      "url": "https://www.naturalnews.com/2026-06-29-license-for-your-brain-coming-ai-crackdown.html",
+      "date": "2026-06-29T05:30:17Z"
+    },
+    {
+      "title": "TS LAWCET, PGLCET 2026 counselling date out; check schedule",
+      "description": "[THE INDIAN EXPRESS] TS LAWCET 2026 and PGLCET counselling dates announced. Registration starts July 5 for LLB/LLM courses. Check seat allotment schedule, fees, and eligibility.",
+      "url": "https://indianexpress.com/shorts/education/ts-lawcet-pglcet-2026-counselling-date-out-check-schedule-10762304/",
+      "date": "2026-06-29T05:30:00Z"
+    },
+    {
+      "title": "TS LAWCET, PGLCET 2026 counselling date out; check schedule",
+      "description": "[THE INDIAN EXPRESS] TS LAWCET 2026 and PGLCET counselling dates announced. Registration starts July 5 for LLB/LLM courses. Check seat allotment schedule, fees, and eligibility.",
+      "url": "https://indianexpress.com/article/education/ts-lawcet-pglcet-2026-counselling-date-out-check-schedule-10762304/",
+      "date": "2026-06-29T05:27:58Z"
+    },
+    {
+      "title": "Saha Group Unit Signs AI Partnership with SoftBank, True Unit",
+      "description": "[MARKETSCREENER] Saha Group's digital unit E-commerce Digital Thai signed a strategic partnership with SoftBank Group , True unit TrueBusiness, and EGG Digital for artificial intelligence and digital...",
+      "url": "https://www.marketscreener.com/news/saha-group-unit-signs-ai-partnership-with-softbank-true-unit-ce7f5fdeda8ef427",
+      "date": "2026-06-29T05:11:17Z"
+    },
+    {
+      "title": "Honda Motor Starts AI Data Centre Battery Production at EV Battery Facility in Ohio",
+      "description": "[MARKETSCREENER] Honda Motor has started battery production for energy storage systems for artificial intelligence data centers at its Ohio plant after slowing EV demand, Nikkei Asia reported June 27. The company...",
+      "url": "https://www.marketscreener.com/news/honda-motor-starts-ai-data-centre-battery-production-at-ev-battery-facility-in-ohio-ce7f5fdeda8ef621",
+      "date": "2026-06-29T05:09:16Z"
+    },
+    {
+      "title": "Asian Shares Are Mixed as Tech Stocks Fall in Japan and South Korea",
+      "description": "[U.S. NEWS & WORLD REPORT] HONG KONG (AP) \u2014 Asian markets were mixed on Monday as selling of artificial intelligence-related shares pulled benchmarks in Japan and South Korea lower, though gains for other stocks helped offset those losses.",
+      "url": "https://www.usnews.com/news/business/articles/2026-06-29/asian-shares-are-mixed-as-tech-stocks-fall-in-japan-and-south-korea",
+      "date": "2026-06-29T05:08:00Z"
+    },
+    {
+      "title": "Doctors thought it was asthma. AI flagged a serious heart problem.",
+      "description": "[THE STAR] Artificial intelligence (AI) programs can spot patterns in electrocardiograms that humans miss. Now, one program is going to be widely available \u2013 for free \u2013 to doctors.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/29/doctors-thought-it-was-asthma-ai-flagged-a-serious-heart-problem",
+      "date": "2026-06-29T05:00:00Z"
+    },
+    {
+      "title": "Investor Shift Boosts China and Hong Kong Stocks",
+      "description": "[DEVDISCOURSE] China and Hong Kong stocks experienced a rise on Monday, primarily driven by gains in consumer and healthcare sectors. This increase occurred as investors shifted their focus from artificial intelligence supply-chain stocks to more traditional...",
+      "url": "https://www.devdiscourse.com/article/business/3942028-investor-shift-boosts-china-and-hong-kong-stocks",
+      "date": "2026-06-29T04:42:16Z"
+    },
+    {
+      "title": "Ford rehires \u2018gray beard\u2019 engineers after AI falls short",
+      "description": "[TECHCRUNCH] \"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.\u201d",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "date": "2026-06-28T19:05:39Z"
+    },
+    {
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "date": "2026-06-26T00:00:00Z"
+    },
+    {
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "date": "2026-06-24T16:00:13Z"
+    },
+    {
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "date": "2026-06-24T00:00:00Z"
+    },
+    {
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "date": "2026-06-23T12:51:55Z"
+    },
+    {
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "date": "2026-06-23T00:00:00Z"
+    }
+  ]
 }
