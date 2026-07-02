@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-07-02 13:16 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
-            "description": "Don't see this going over well.",
-            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
-            "publishedAt": "2026-06-16T21:33:52Z",
-            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-            "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagshi\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-26T17:01:03Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nby\r\nHayden FieldClose\r\nPosts from thi\u2026 [+4335 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        }
-    ]
+  "updated": "2026-07-02 13:50:15 UTC",
+  "news": [
+    {
+      "title": "Yep, we\u2019re using OpenClaw to date now",
+      "description": "[TECHCRUNCH] Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "date": "2026-07-02T12:00:00Z"
+    },
+    {
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "description": "[TECHCRUNCH] Neo is Bhavin Turakhia\u2019s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "date": "2026-07-02T05:30:00Z"
+    },
+    {
+      "title": "Enterprise application software spend of $234 bn will be at risk from Agentic AI",
+      "description": "[THE HINDU] Agentic AI changes the economics of software",
+      "url": "https://www.thehindu.com/business/enterprise-application-software-spendof-234-bn-will-be-at-risk-from-agentic-ai/article71170674.ece",
+      "date": "2026-07-02T01:30:00Z"
+    },
+    {
+      "title": "Japan plans sovereign AI model, 10 million AI robots",
+      "description": "[THE STAR] Japan plans to develop a homegrown artificial intelligence model and have 10 million AI-equipped robots operating in more than a dozen sectors by 2040, the government said.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/02/japan-plans-sovereign-ai-model-10-million-ai-robots",
+      "date": "2026-07-02T01:00:00Z"
+    },
+    {
+      "title": "Fear and anger brew inside Meta amid AI frenzy",
+      "description": "[THE JAPAN TIMES ] After weathering layoffs, some Meta employees were reassigned to an internal artificial intelligence training initiative that has drawn accusations of surveillance.",
+      "url": "https://www.japantimes.co.jp/business/2026/07/02/tech/fear-anger-meta-ai/",
+      "date": "2026-07-02T00:57:45Z"
+    },
+    {
+      "title": "For 3 years, cops \u2018inflated\u2019 salaries. Then AI spotted it",
+      "description": "[THE INDIAN EXPRESS] Three police constables from Chhattisgarh's Bastar were arrested this week after government auditors used Artificial Intelligence (AI) tools to uncover an alleged salary fraud.",
+      "url": "https://indianexpress.com/article/india/for-3-years-cops-inflated-salaries-then-ai-spotted-it-10767137/",
+      "date": "2026-07-02T00:10:17Z"
+    },
+    {
+      "title": "KPIT outlook shock sends IT stocks sliding as growth worries intensify",
+      "description": "[THE ECONOMIC TIMES] Mid-cap IT stocks faced a significant downturn Wednesday, led by KPIT Technologies' warning of a near-term revenue slowdown. This has amplified investor worries about Artificial Intelligence's impact on India's software services sector. Several...",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-outlook-shock-sends-it-stocks-sliding-as-growth-worries-intensify/articleshow/132126618.cms",
+      "date": "2026-07-02T00:01:00Z"
+    },
+    {
+      "title": "This tiny AI PC stuffs 128GB RAM, 126 TOPS, and a leather handle into one absurd box",
+      "description": "[TECHRADAR] MINIX mini PCs pack 128GB of RAM for memory-hungry LLM workloads",
+      "url": "https://www.techradar.com/pro/this-amd-ryzen-ai-max-395-mini-pc-has-128gb-ram-metal-feet-and-even-a-vegan-leather-handle-because-why-not",
+      "date": "2026-07-01T23:20:00Z"
+    },
+    {
+      "title": "Is Artificial Intelligence 'Killing' Decision-Making Capabilities? We Asked Young Professionals",
+      "description": "[INTERNATIONAL BUSINESS TIMES] AI has emerged as one of the most transformative technologies since the dot-com boom. Is it simply helping us work faster and more efficiently, or are users increasingly depending on it for",
+      "url": "https://www.ibtimes.com/artificial-intelligence-killing-decision-making-capabilities-we-asked-young-professionals-3804807",
+      "date": "2026-07-01T23:17:01Z"
+    },
+    {
+      "title": "The UN Has Formed a Panel To Help Regulate The AI Boom And Issued a Stark Warning",
+      "description": "[INTERNATIONAL BUSINESS TIMES] A United Nations panel has warned that artificial intelligence is moving to quickly and poses the potential to cause catastrophic harm.",
+      "url": "https://www.ibtimes.com/un-has-formed-panel-help-regulate-ai-boom-issued-stark-warning-3804794",
+      "date": "2026-07-01T22:48:02Z"
+    },
+    {
+      "title": "Samsung Chases TSMC With Quantum-Powered Chipmaking as AI Reshapes the Most Critical Step in Fabrication",
+      "description": "[WCCFTECH] Korean chip manufacturing giant Samsung is developing simulation technologies for lithography that rely on quantum computing and artificial intelligence, suggests a report from the Korean press. The technology will be used to run simulations of the...",
+      "url": "https://wccftech.com/samsung-chases-tsmc-with-quantum-powered-chipmaking-as-ai-reshapes-the-most-critical-step-in-fabrication/",
+      "date": "2026-07-01T21:39:43Z"
+    },
+    {
+      "title": "Trump honors 'freakin' wild life' of Teddy Roosevelt, interacts with AI-powered ex-prez in North Dakota visit",
+      "description": "[NEW YORK POST] MEDORA, ND \u2014 President Trump paid tribute to Theodore Roosevelt as a \u201cgreat man\" while cutting the ribbon to his new presidential library in the Dakota Badlands \u2014 after interacting with an artificial intelligence-powered hologram of his predecessor.",
+      "url": "https://nypost.com/2026/07/01/us-news/trump-honors-freakin-wild-life-of-teddy-roosevelt-interacts-with-ai-powered-ex-prez-in-north-dakota-visit/",
+      "date": "2026-07-01T21:36:38Z"
+    },
+    {
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "description": "[TECHCRUNCH] SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "date": "2026-07-01T18:54:18Z"
+    },
+    {
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "description": "[TECHCRUNCH] Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure and energy that power them.",
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "date": "2026-07-01T18:47:22Z"
+    },
+    {
+      "title": "Cloudflare\u2019s new policy pushes AI companies to pay for publishers\u2019 content",
+      "description": "[TECHCRUNCH] Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "date": "2026-07-01T17:48:37Z"
+    },
+    {
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "description": "[TECHCRUNCH] Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "date": "2026-07-01T14:25:23Z"
+    },
+    {
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "date": "2026-07-01T00:00:00Z"
+    },
+    {
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "date": "2026-06-30T18:32:50Z"
+    },
+    {
+      "title": "Why Specialization Is Inevitable",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "date": "2026-06-30T14:39:11Z"
+    },
+    {
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "date": "2026-06-30T00:00:00Z"
+    },
+    {
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "date": "2026-06-29T18:02:48Z"
+    },
+    {
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "date": "2026-06-26T00:00:00Z"
+    }
+  ]
 }
