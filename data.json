@@ -1,173 +1,72 @@
 {
-  "updated": "2026-07-05 10:07:33 UTC",
-  "news": [
-    {
-      "title": "US Startup Plans Data Centres\u2019 Space Odyssey",
-      "description": "[THE ECONOMIC TIMES] It sounds like science fiction, but US-based satellite startup Orbital is looking to set up data centres in space that may power responses given by chatbots as artificial intelligence (AI) drives an unprecedented demand for computing power.",
-      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jul/05/sunet-front/us-startup-plans-data-centres-space-odyssey/articleshow/132187696.cms",
-      "date": "2026-07-04T22:04:00Z"
-    },
-    {
-      "title": "US Startup Plans Data Centres\u2019 Space Odyssey",
-      "description": "[THE ECONOMIC TIMES] It sounds like science fiction, but US-based satellite startup Orbital is looking to set up data centres in space that may power responses given by chatbots as artificial intelligence (AI) drives an unprecedented demand for computing power.",
-      "url": "https://economictimes.indiatimes.com/sunet-front/us-startup-plans-data-centres-space-odyssey/articleshow/132187696.cms",
-      "date": "2026-07-04T22:04:00Z"
-    },
-    {
-      "title": "I use my local LLM to triage my email every morning, but I'll still never let it send replies",
-      "description": "[XDA DEVELOPERS] The only way I'd ever let AI read my mail",
-      "url": "https://www.xda-developers.com/i-used-a-local-llm-to-triage-my-email-but-ill-still-never-let-it-send-replies/",
-      "date": "2026-07-04T22:00:22Z"
-    },
-    {
-      "title": "Microsoft's new Intelligent Terminal isn't locked to Copilot, and I got it running with a local LLM in five minutes",
-      "description": "[XDA DEVELOPERS] Microsoft has a new \"Intelligent Terminal\", and it's surprisingly powerful.",
-      "url": "https://www.xda-developers.com/microsoft-new-intelligent-terminal-not-locked-running-local-llm/",
-      "date": "2026-07-04T21:30:22Z"
-    },
-    {
-      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "description": "[TECHCRUNCH] Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "date": "2026-07-04T20:55:25Z"
-    },
-    {
-      "title": "AI security questions loom over NATO summit",
-      "description": "[POLITICO] The deployment of rapidly advancing artificial intelligence technology is fast becoming a global security imperative.",
-      "url": "https://www.politico.com/news/2026/07/04/ai-security-nato-access-00984758",
-      "date": "2026-07-04T20:00:00Z"
-    },
-    {
-      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "description": "[TECHCRUNCH] As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "date": "2026-07-04T18:00:05Z"
-    },
-    {
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "description": "[TECHCRUNCH] Alibaba has reportedly classified Claude Code as high-risk software.",
-      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "date": "2026-07-04T16:32:08Z"
-    },
-    {
-      "title": "Digital fraud is reshaping trust across Asia-Pacific",
-      "description": "[THE MANILA TIMES] LSEG Risk Intelligence\u2019s Consumer Fraud Report 2026 found that as scams become more sophisticated \u2014 and increasingly powered by artificial intelligence (AI) \u2014 consumer fraud is reshaping trust across Asia-Pacific. Its impact extends beyond financial...",
-      "url": "https://www.manilatimes.net/2026/07/05/business/sunday-business-it/digital-fraud-is-reshaping-trust-across-asia-pacific/2378375",
-      "date": "2026-07-04T16:03:00Z"
-    },
-    {
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "description": "[TECHCRUNCH] Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to \u201cput frontier AI in the hands of everyone.\u201d",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "date": "2026-07-04T15:51:32Z"
-    },
-    {
-      "title": "America's economy still leads the world at 250 years old: Merrill strategist",
-      "description": "[FOX BUSINESS] U.S. economy strengths including startup culture, foreign investment, global brands and artificial intelligence leadership highlight 10 reasons America remains a top place to invest.",
-      "url": "https://www.foxbusiness.com/economy/10-reasons-bullish-americas-economy-nation-turns-250-years-old",
-      "date": "2026-07-04T14:43:38Z"
-    },
-    {
-      "title": "BharathCloud to Join Nellore\u2019s Nexus Innovation Hub",
-      "description": "[DECCAN CHRONICLE] These organisations are engaged in developing products in artificial intelligence, enterprise software, cybersecurity, healthcare, education, and digital design",
-      "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/bharathcloud-to-join-nellores-nexus-innovation-hub-1968377",
-      "date": "2026-07-04T14:17:12Z"
-    },
-    {
-      "title": "Can digital twins help athletes win? How AI is changing sport",
-      "description": "[TIMES OF INDIA] Sports News: One of the biggest stories of this year\u2019s football World Cup isn\u2019t just about star players but about how artificial intelligence is changing The Beaut.",
-      "url": "https://timesofindia.indiatimes.com/toi-plus/sports/can-digital-twins-help-athletes-win-how-ai-is-changing-sport/articleshow/132182420.cms",
-      "date": "2026-07-04T13:31:00Z"
-    },
-    {
-      "title": "Questioning leadership in the Age of AI: Why human skills may matter more than ever",
-      "description": "[THE WEEK] Experts at the Jaipuria Institute of Management's international conference addressed the profound impact of Artificial Intelligence on the modern world",
-      "url": "https://www.theweek.in/news/sci-tech/2026/07/04/questioning-leadership-in-the-age-of-ai-why-human-skills-may-matter-more-than-ever.html",
-      "date": "2026-07-04T13:09:14Z"
-    },
-    {
-      "title": "The only AI glossary you\u2019ll need this year",
-      "description": "[TECHCRUNCH] The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "date": "2026-07-03T21:20:00Z"
-    },
-    {
-      "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
-      "description": "[TECHCRUNCH] We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "date": "2026-07-03T18:43:00Z"
-    },
-    {
-      "title": "Takeda signs US$600M AI drug discovery deal with Insilico",
-      "description": "[AI-NEWS] Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company\u2019s therapeutic areas. The companies did not disclose which therapeutic areas or...",
-      "url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
-      "date": "2026-07-03T10:00:00Z"
-    },
-    {
-      "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
-      "description": "[AI-NEWS] Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform...",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
-      "date": "2026-07-02T14:38:01Z"
-    },
-    {
-      "title": "Deploying retail AI to scale personalisation and customer insight",
-      "description": "[AI-NEWS] Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight. Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment...",
-      "url": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
-      "date": "2026-07-01T15:58:43Z"
-    },
-    {
-      "title": "Japan\u2019s answer to its worker shortage: An AI model for 10 million robots",
-      "description": "[AI-NEWS] Japan&#8217;s AI robots plan just went from a talking point to a formal national strategy. This week, the government confirmed the numbers everyone&#8217;s been quoting: 10 million AI-powered robots deployed across 18 industries by 2040, backed by...",
-      "url": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/",
-      "date": "2026-07-01T11:00:00Z"
-    },
-    {
-      "title": "Bank of England reviews AI rules for agentic AI in finance",
-      "description": "[AI-NEWS] The Bank of England is reviewing whether existing rules can cover the use of agentic AI in finance, including payments, trading, cybersecurity, and operations. Deputy Governor Sarah Breeden said existing regulatory frameworks were not designed for...",
-      "url": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
-      "date": "2026-07-01T10:00:00Z"
-    },
-    {
-      "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
-      "description": "[AI-NEWS] Anthropic has launched Claude Sonnet 5 and restored access to its Fable and Mythos frontier models following a federal export control review. The decision marks the conclusion of an eighteen-day operational pause triggered by a US government export...",
-      "url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
-      "date": "2026-07-01T08:47:12Z"
-    },
-    {
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "date": "2026-07-01T00:00:00Z"
-    },
-    {
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "date": "2026-06-30T18:32:50Z"
-    },
-    {
-      "title": "Why Specialization Is Inevitable",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-      "date": "2026-06-30T14:39:11Z"
-    },
-    {
-      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "date": "2026-06-30T00:00:00Z"
-    },
-    {
-      "title": "DiScoFormer: One transformer for density and score, across distributions",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
-      "date": "2026-06-29T18:02:48Z"
-    },
-    {
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "date": "2026-06-26T00:00:00Z"
-    }
-  ]
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-07-05 12:48 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
+            "description": "Don't see this going over well.",
+            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
+            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
+            "publishedAt": "2026-06-16T21:33:52Z",
+            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+            "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagshi\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-26T17:01:03Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nby\r\nHayden FieldClose\r\nPosts from thi\u2026 [+4335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
+            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
+            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
+            "publishedAt": "2026-06-07T09:00:33Z",
+            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Webb Wright",
+            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
+            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
+            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
+            "publishedAt": "2026-06-12T20:10:40Z",
+            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "For the First Time, ChatGPT Reportedly Has Less Than Half of the AI Assistant Market",
+            "description": "ChatGPT is still the top-ranked AI assistant app, but it's reportedly no longer dominant.",
+            "url": "https://gizmodo.com/for-the-first-time-chatgpt-reportedly-has-less-than-half-of-the-ai-assistant-market-2000772791",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-1534546942-e1722865082345.jpg",
+            "publishedAt": "2026-06-17T01:10:26Z",
+            "content": "OpenAI reportedly no longer dominates the AI assistant market. A report from Sensor Tower (reported on by TechCrunch) says that although OpenAIs ChatGPT is still the number one-ranked AI assistant pr\u2026 [+2730 chars]"
+        }
+    ]
 }
