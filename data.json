@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-07-06 14:41 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
-            "description": "Don't see this going over well.",
-            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
-            "publishedAt": "2026-06-16T21:33:52Z",
-            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-            "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagshi\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-26T17:01:03Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nby\r\nHayden FieldClose\r\nPosts from thi\u2026 [+4335 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Announces Unnerving New ChatGPT Feature Named \u2018Lockdown Mode\u2019",
-            "description": "\"Lockdown Mode is not intended for everyone,\" OpenAI's blog post says. In other words, you're probably not important enough.",
-            "url": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone-1200x675.jpg",
-            "publishedAt": "2026-06-07T09:00:33Z",
-            "content": "OpenAI just announced Lockdown Mode. Remember lockdown? It\u2019s like that, but with an AI chatbot.\r\nActually, it\u2019s pitched as a way of protecting you from prompt injection attacksan insidious new kind o\u2026 [+1921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "For the First Time, ChatGPT Reportedly Has Less Than Half of the AI Assistant Market",
-            "description": "ChatGPT is still the top-ranked AI assistant app, but it's reportedly no longer dominant.",
-            "url": "https://gizmodo.com/for-the-first-time-chatgpt-reportedly-has-less-than-half-of-the-ai-assistant-market-2000772791",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-1534546942-e1722865082345.jpg",
-            "publishedAt": "2026-06-17T01:10:26Z",
-            "content": "OpenAI reportedly no longer dominates the AI assistant market. A report from Sensor Tower (reported on by TechCrunch) says that although OpenAIs ChatGPT is still the number one-ranked AI assistant pr\u2026 [+2730 chars]"
-        }
-    ]
+  "updated": "2026-07-06 16:49:29 UTC",
+  "news": [
+    {
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "date": "2026-07-07T00:00:00Z"
+    },
+    {
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "description": "[TECHCRUNCH] Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday \u2014 the latest in a series of layoffs that\u2019s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "date": "2026-07-06T15:32:43Z"
+    },
+    {
+      "title": "PRX Part 4: Our Data Strategy",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "date": "2026-07-06T15:30:55Z"
+    },
+    {
+      "title": "Station F ramps up as a launchpad for Europe\u2019s hottest AI startups",
+      "description": "[TECHCRUNCH] Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "date": "2026-07-06T13:00:00Z"
+    },
+    {
+      "title": "Investor Enthusiasm Fuels China and Hong Kong Stock Surge",
+      "description": "[DEVDISCOURSE] On Monday, stocks in China and Hong Kong saw a rise as investor excitement began expanding from artificial intelligence into other sectors, such as agriculture and biotechnology.",
+      "url": "https://www.devdiscourse.com/article/business/3945582-investor-enthusiasm-fuels-china-and-hong-kong-stock-surge",
+      "date": "2026-07-06T04:42:28Z"
+    },
+    {
+      "title": "AI poses biggest security challenge of decade, UK\u2019s Cooper warns",
+      "description": "[THE STAR] The world must urgently develop guardrails to contain the threat posed by artificial intelligence, Britain's foreign secretary is set to warn.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/06/ai-poses-biggest-security-challenge-of-decade-uks-cooper-warns",
+      "date": "2026-07-06T04:00:00Z"
+    },
+    {
+      "title": "Sensex jumps 176 points, Nifty above 24,300 as crude oil prices remain below $70 per barrel, bank stocks gain",
+      "description": "[INDIA TV NEWS] Asian shares slipped on Monday as investors turned cautious ahead of crucial earnings seasons for the artificial intelligence sector.",
+      "url": "https://www.indiatvnews.com/business/markets/sensex-jump-176-points-nifty-above-24-300-as-crude-oil-prices-remain-below-70-per-barrel-bank-stocks-gain-2026-07-06-1047254",
+      "date": "2026-07-06T03:54:37Z"
+    },
+    {
+      "title": "Vietnam releases list of 'high-risk' AI systems",
+      "description": "[THE STAR] HANOI: The Government has released a list of artificial intelligence (AI) systems classified as 'high-risk' that face the highest level of regulation under the Law on Artificial Intelligence.",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/06/vietnam-releases-list-of-039high-risk039-ai-systems",
+      "date": "2026-07-06T03:24:00Z"
+    },
+    {
+      "title": "TIENS VMOMENT Wins Wprost \"Business Innovation\" Award in Poland",
+      "description": "[THE MANILA TIMES] WARSAW, Poland, July 05, 2026 (GLOBE NEWSWIRE) -- On July 1st,TIENS Group, through its global AI-powered health and wellness social platform VMOMENT (official spelling: V-Moment), received the 'Innowacja w Biznesie' (Business Innovation) category...",
+      "url": "https://www.manilatimes.net/2026/07/06/tmt-newswire/globenewswire/tiens-vmoment-wins-wprost-business-innovation-award-in-poland/2378717",
+      "date": "2026-07-06T03:23:54Z"
+    },
+    {
+      "title": "The company powering Nvidia's AI chips wants a $28 billion Wall Street debut",
+      "description": "[INDIA TODAY] SK Hynix is set to launch a $28 billion US listing after a sharp rally driven by AI chip demand. The offering underlines how companies supplying the hardware behind artificial intelligence are drawing huge investor interest.",
+      "url": "https://www.indiatoday.in/business/market/story/sk-hynix-nasdaq-listing-nvidia-ai-chip-supplier-28-billion-us-debut-2941349-2026-07-06",
+      "date": "2026-07-06T03:15:51Z"
+    },
+    {
+      "title": "Millennial Samsung union leader\u2019s $26 billion bonus victory turns to bitterness",
+      "description": "[THE JAPAN TIMES ] South Korea\u2019s artificial intelligence gold rush has both emboldened a new generation of Korean tech workers and created new divisions among them.",
+      "url": "https://www.japantimes.co.jp/business/2026/07/06/companies/samsung-union-leader-26-billion/",
+      "date": "2026-07-06T02:31:07Z"
+    },
+    {
+      "title": "A base for Singapore businesses expanding in Malaysia",
+      "description": "[CNA] As advances in manufacturing, artificial intelligence and digital infrastructure reshape business needs, EcoWorld Industrial Platform offers companies one-stop support to establish and grow their operations in Malaysia.",
+      "url": "https://www.channelnewsasia.com/advertorial/base-singapore-enterprises-expanding-across-causeway-6186821",
+      "date": "2026-07-06T02:10:00Z"
+    },
+    {
+      "title": "Local analysts now bullish on AI-related stocks in H2",
+      "description": "[BANGKOK POST] The artificial intelligence (AI) trend is expected to create selective buying opportunities for Thai stocks in the second half of 2026 as market volatility escalates, analysts say, advising investors to increase cash holdings to 20-25% of their...",
+      "url": "https://www.bangkokpost.com/business/investment/3281580/local-analysts-now-bullish-on-airelated-stocks-in-h2",
+      "date": "2026-07-06T02:09:00Z"
+    },
+    {
+      "title": "China's Z.ai a challenger to OpenAI and Anthropic",
+      "description": "[TIMES OF INDIA] International Business News: NEW DELHI: Chinese artificial intelligence startup Z.ai is emerging as a fresh challenger to OpenAI and Anthropic after its latest flagship model GLM-.",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/chinas-z-ai-a-challenger-to-openai-and-anthropic/articleshow/132204967.cms",
+      "date": "2026-07-06T00:11:00Z"
+    },
+    {
+      "title": "\ud83e\udd17 Kernels: Major Updates",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "date": "2026-07-06T00:00:00Z"
+    },
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "description": "[TECHCRUNCH] These may be the last days of Amazon\u2019s Mechanical Turk.",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "date": "2026-07-05T17:43:36Z"
+    },
+    {
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "description": "[TECHCRUNCH] Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "date": "2026-07-04T20:55:25Z"
+    },
+    {
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "description": "[TECHCRUNCH] As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "date": "2026-07-04T18:00:05Z"
+    },
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "description": "[TECHCRUNCH] Alibaba has reportedly classified Claude Code as high-risk software.",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "date": "2026-07-04T16:32:08Z"
+    },
+    {
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "date": "2026-07-01T00:00:00Z"
+    },
+    {
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "date": "2026-06-30T18:32:50Z"
+    },
+    {
+      "title": "Why Specialization Is Inevitable",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "date": "2026-06-30T14:39:11Z"
+    }
+  ]
 }
