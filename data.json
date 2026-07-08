@@ -1,59 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-07-08 13:04 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
-            "description": "Don't see this going over well.",
-            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
-            "publishedAt": "2026-06-16T21:33:52Z",
-            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "When It Comes to Energy Use, AI Agents Could Make Chatbots Look Like Pocket Calculators",
-            "description": "All to make a bot respond to your emails for you.",
-            "url": "https://gizmodo.com/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators-2000781774",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/smokestacks-1200x675.png",
-            "publishedAt": "2026-07-06T19:25:59Z",
-            "content": "Much has been made of the emergence of generative AI and its strain on the electrical grid due to the energy demand. So just wait until you see how much energy agentic AI consumes. A new research pap\u2026 [+2636 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-            "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagshi\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-26T17:01:03Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nby\r\nHayden FieldClose\r\nPosts from thi\u2026 [+4335 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        }
-    ]
+  "updated": "2026-07-08 13:53:20 UTC",
+  "news": [
+    {
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "description": "[TECHCRUNCH] Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "date": "2026-07-08T12:00:00Z"
+    },
+    {
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "description": "[TECHCRUNCH] ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "date": "2026-07-08T08:00:00Z"
+    },
+    {
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "description": "[TECHCRUNCH] AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "date": "2026-07-08T07:16:00Z"
+    },
+    {
+      "title": "Misinformation inciting harm to refugees, UNHCR says",
+      "description": "[THE JAPAN TIMES ] Artificial intelligence is exacerbating the spread of such misinformation and hate speech, according to the U.N. refugee agency.",
+      "url": "https://www.japantimes.co.jp/news/2026/07/08/world/politics/misinformation-harm-refugees-un/",
+      "date": "2026-07-08T01:40:05Z"
+    },
+    {
+      "title": "Stevens and El-Sayed trade barbs over finances, campaign funds at Michigan Senate debate",
+      "description": "[M LIVE MICHIGAN ] When asked about everything from artificial intelligence and data centers to affordability, both El-Sayed and Stevens continued to bring the conversation back to attacks over financial disclosures and campaign funds.",
+      "url": "https://www.mlive.com/politics/2026/07/stevens-and-el-sayed-trade-barbs-over-finances-campaign-funds-at-michigan-senate-debate.html",
+      "date": "2026-07-08T01:31:40Z"
+    },
+    {
+      "title": "Genesys strengthens leadership in partner ecosystem to accelerate agentic AI adoption",
+      "description": "[ITWIRE] Daniel Bailey and Alexandre Oddos appointed to drive global ecosystem growth and execution.",
+      "url": "https://itwire.com/it-people-news/people-moves/genesys-strengthens-leadership-in-partner-ecosystem-to-accelerate-agentic-ai-adoption",
+      "date": "2026-07-08T01:16:00Z"
+    },
+    {
+      "title": "SpaceX's biggest bull sees valuation soaring above $10 trillion",
+      "description": "[THE ECONOMIC TIMES] Raymond James analyst Brian Gesuale initiated coverage on SpaceX with a strong buy. He set an $800 price target, projecting significant future stock appreciation. Gesuale sees SpaceX revenue soaring to $5.2 trillion by 2035. This growth is primarily...",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacexs-biggest-bull-sees-valuation-soaring-above-10-trillion/articleshow/132251259.cms",
+      "date": "2026-07-08T01:13:00Z"
+    },
+    {
+      "title": "\"AI governance must preserve human oversight, uphold human rights, prevent misuse\": MoS Kirti Vardhan Singh at UN Global Dialogue",
+      "description": "[THE TRIBUNE] Addressing the gathering, Singh said, 'India firmly believes that responsible AI governance must rest on strong foundational principles: preserving human oversight, upholding human rights, and preventing its misuse.'",
+      "url": "https://www.tribuneindia.com/news/world/ai-governance-must-preserve-human-oversight-uphold-human-rights-prevent-misuse-mos-kirti-vardhan-singh-at-un-global-dialogue/",
+      "date": "2026-07-08T01:13:00Z"
+    },
+    {
+      "title": "Private-equity firms are sitting on a nine-year backlog",
+      "description": "[LIVEMINT] Investors\u2019 artificial-intelligence worries weigh on efforts to exit software holdings.",
+      "url": "https://www.livemint.com/global/privateequity-firms-are-sitting-on-a-nine-year-backlog-11783472048203.html",
+      "date": "2026-07-08T00:57:31Z"
+    },
+    {
+      "title": "As AI Moves Into the Physical World, Humanity & AGI Summit 2026 Brings Global Leaders to Stanford",
+      "description": "[THE MANILA TIMES] STANFORD, CA, July 07, 2026 (GLOBE NEWSWIRE) -- The AI Robotics Alliance of America, known as AIRA, will host the Humanity & AGI Summit 2026 on Sunday, July 12, at the Stanford Faculty Club, bringing together leading voices from artificial...",
+      "url": "https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/as-ai-moves-into-the-physical-world-humanity-agi-summit-2026-brings-global-leaders-to-stanford/2380419",
+      "date": "2026-07-08T00:38:18Z"
+    },
+    {
+      "title": "Three things we need to stop pretending about Gen AI",
+      "description": "[MARKETING INTERACTIVE] I've been in enough rooms with marketers, filmmakers and brand leaders to notice something. Most of the loud opinions about Gen AI (generative artificial intelligence) right now are wrong. Not a little wrong. Confidently wrong.",
+      "url": "https://www.marketing-interactive.com/three-things-we-need-to-stop-pretending-about-gen-ai",
+      "date": "2026-07-07T23:56:30Z"
+    },
+    {
+      "title": "Illinois passes what advocate calls strongest AI safety law in US",
+      "description": "[NBC 5 CHICAGO] As concerns rise about the potential misuse of artificial intelligence, Illinois has passed what an executive of one AI advocacy group called \u201cthe strongest...",
+      "url": "https://www.nbcchicago.com/news/local/illinois-new-ai-safety-law-is-the-nations-strongest-advocate-says/3958692/",
+      "date": "2026-07-07T23:19:16Z"
+    },
+    {
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "description": "[TECHCRUNCH] The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "date": "2026-07-07T22:18:10Z"
+    },
+    {
+      "title": "Commentary: AI will change warfare but people remain core to SAF",
+      "description": "[CNA] As artificial intelligence shapes warfare development around the world, the SAF must enhance relations between man and machine, says defence consultancy managing director Nicholas Fang.",
+      "url": "https://www.channelnewsasia.com/commentary/saf-day-ai-defence-war-drone-military-6237926",
+      "date": "2026-07-07T22:00:00Z"
+    },
+    {
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "date": "2026-07-07T21:15:33Z"
+    },
+    {
+      "title": "Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet",
+      "description": "[TECHCRUNCH] Open source models\u2019 success isn\u2019t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "date": "2026-07-07T20:04:32Z"
+    },
+    {
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "description": "[TECHCRUNCH] Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "date": "2026-07-07T19:58:20Z"
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "date": "2026-07-07T15:20:06Z"
+    },
+    {
+      "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
+      "description": "[AI-NEWS] Insilico Medicine is advancing to Phase III human trials for testing a drug identified by AI targeting idiopathic pulmonary fibrosis (IPF). This progression supplies the computational drug discovery sector with empirical test cases, advancing an AI...",
+      "url": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/",
+      "date": "2026-07-07T14:00:06Z"
+    },
+    {
+      "title": "L\u2019Oreal, Mondelez, and Nestle use AI to speed product development",
+      "description": "[AI-NEWS] L\u2019Oreal is using AI to shorten product development timelines and identify new uses for ingredients already present in its portfolio. The French cosmetics group has applied AI in its laboratories for the past four years, with Fabrice Megarbane,...",
+      "url": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/",
+      "date": "2026-07-07T10:00:00Z"
+    },
+    {
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "date": "2026-07-07T00:00:00Z"
+    },
+    {
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "date": "2026-07-07T00:00:00Z"
+    },
+    {
+      "title": "PRX Part 4: Our Data Strategy",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "date": "2026-07-06T15:30:55Z"
+    },
+    {
+      "title": "China\u2019s AI companion rules: what Beijing is really going after",
+      "description": "[AI-NEWS] An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustain an ongoing, personal relationship with a user,...",
+      "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
+      "date": "2026-07-06T11:00:00Z"
+    },
+    {
+      "title": "\ud83e\udd17 Kernels: Major Updates",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "date": "2026-07-06T00:00:00Z"
+    },
+    {
+      "title": "Takeda signs $600M AI drug discovery deal with Insilico",
+      "description": "[AI-NEWS] Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company\u2019s therapeutic areas. The companies did not disclose which therapeutic areas or...",
+      "url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
+      "date": "2026-07-03T10:00:00Z"
+    },
+    {
+      "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
+      "description": "[AI-NEWS] Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform...",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
+      "date": "2026-07-02T14:38:01Z"
+    },
+    {
+      "title": "Deploying retail AI to scale personalisation and customer insight",
+      "description": "[AI-NEWS] Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight. Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment...",
+      "url": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
+      "date": "2026-07-01T15:58:43Z"
+    }
+  ]
 }
