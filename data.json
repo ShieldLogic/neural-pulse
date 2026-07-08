@@ -1,173 +1,59 @@
 {
-  "updated": "2026-07-08 10:12:07 UTC",
-  "news": [
-    {
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "description": "[TECHCRUNCH] ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "date": "2026-07-08T08:00:00Z"
-    },
-    {
-      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "description": "[TECHCRUNCH] AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-      "date": "2026-07-08T07:16:00Z"
-    },
-    {
-      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-      "description": "[TECHCRUNCH] The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
-      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "date": "2026-07-07T22:18:10Z"
-    },
-    {
-      "title": "Commentary: AI will change warfare but people remain core to SAF",
-      "description": "[CNA] As artificial intelligence shapes warfare development around the world, the SAF must enhance relations between man and machine, says defence consultancy managing director Nicholas Fang.",
-      "url": "https://www.channelnewsasia.com/commentary/saf-day-ai-defence-war-drone-military-6237926",
-      "date": "2026-07-07T22:00:00Z"
-    },
-    {
-      "title": "Markets live: Oil prices surge after US launches strikes on Iran, ASX to slip after Wall Street's tech sell-off",
-      "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] The Australian share market is likely to fall in morning trade after a sell-off across technology and artificial intelligence (AI) stocks knocked Wall Street's tech index sharply lower. Oil prices surged after the US confirmed it launched strikes on...",
-      "url": "https://www.abc.net.au/news/2026-07-08/asx-markets-business-live-news/106891254",
-      "date": "2026-07-07T21:54:23Z"
-    },
-    {
-      "title": "Google Cloud to Host its Latest AI Models in India: Thomas Kurian",
-      "description": "[THE ECONOMIC TIMES] Google Cloud is making its latest artificial intelligence (AI) models available locally in India in a big data sovereignty push, chief executive Thomas Kurian told Surabhi Agarwal in a video interview.",
-      "url": "https://economictimes.indiatimes.com/et-front/first-goal-is-data-centre-then-we-bring-supply-chain-manufacturing/articleshow/132248916.cms",
-      "date": "2026-07-07T21:32:00Z"
-    },
-    {
-      "title": "Google Cloud to Host its Latest AI Models in India: Thomas Kurian",
-      "description": "[THE ECONOMIC TIMES] Google Cloud is making its latest artificial intelligence (AI) models available locally in India in a big data sovereignty push, chief executive Thomas Kurian told Surabhi Agarwal in a video interview.",
-      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jul/08/et-front/first-goal-is-data-centre-then-we-bring-supply-chain-manufacturing/articleshow/132248916.cms",
-      "date": "2026-07-07T21:32:00Z"
-    },
-    {
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "date": "2026-07-07T21:15:33Z"
-    },
-    {
-      "title": "Five-agent AI team could speed clinical trial design using real-world patient records",
-      "description": "[MEDICAL XPRESS] An artificial intelligence system that operates like a collaborative team of medical experts could accelerate clinical trial design, one of the most difficult steps in drug development, according to a new study by Weill Cornell Medicine...",
-      "url": "https://medicalxpress.com/news/2026-07-agent-ai-team-clinical-trial.html",
-      "date": "2026-07-07T21:00:05Z"
-    },
-    {
-      "title": "Sacramento County coroner uses AI-generated image to help identify unhoused man who died",
-      "description": "[CBS NEWS] Authorities are trying to identify a resident of a Sacramento homeless shelter who died earlier this year and have generated an image of the man using artificial intelligence to seek the public's help.",
-      "url": "https://www.cbsnews.com/sacramento/news/sacramento-county-coroner-homeless-man-id-ai-generated-image/",
-      "date": "2026-07-07T20:49:56Z"
-    },
-    {
-      "title": "Anthropic Expands in Manhattan, Part of an A.I. Boom in New York",
-      "description": "[THE NEW YORK TIMES] Anthropic, the artificial intelligence company, plans to lease a 16-story building in Hudson Square and to double its work force in New York City to 1,000 people this year.",
-      "url": "https://www.nytimes.com/2026/07/07/nyregion/anthropic-ai-boom-nyc.html",
-      "date": "2026-07-07T20:34:57Z"
-    },
-    {
-      "title": "kind government report says AI not yet causing mass job lay",
-      "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Artificial intelligence is not yet causing a broad disruption to Australia's labour market, according to a government report.",
-      "url": "https://www.abc.net.au/news/2026-07-08/government-report-finds-ai-not-yet-causing-mass-job-losses/106889304",
-      "date": "2026-07-07T20:30:37Z"
-    },
-    {
-      "title": "Deep learning reveals nanoparticle shape from routine tracking analysis without new hardware",
-      "description": "[PHYS.ORG] Researchers at the University of Tokyo and the Innovation Center of NanoMedicine (iCONM) have developed an artificial intelligence (AI) approach that identifies the morphology of nanoparticles in liquid using data from standard nanoparticle tracking...",
-      "url": "https://phys.org/news/2026-07-deep-reveals-nanoparticle-routine-tracking.html",
-      "date": "2026-07-07T20:20:06Z"
-    },
-    {
-      "title": "3i Infotech unit wins AED 17.65m order for IT consulting",
-      "description": "[SCANX.TRADE] 3i Infotech Software Solutions L.L.C., a step-down wholly owned subsidiary of 3i Infotech, has secured an order worth AED 17,651,620 (INR 45.85 crore) from Vedant Consultancy FZ LLC, UAE. The order, dated June 30, 2026, is for providing IT...",
-      "url": "https://scanx.trade/stock-market-news/companies/3i-infotech-unit-wins-aed-17-65m-order-for-it-consulting/45000767",
-      "date": "2026-07-07T20:13:05Z"
-    },
-    {
-      "title": "Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet",
-      "description": "[TECHCRUNCH] Open source models\u2019 success isn\u2019t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
-      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "date": "2026-07-07T20:04:32Z"
-    },
-    {
-      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "description": "[TECHCRUNCH] Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
-      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "date": "2026-07-07T19:58:20Z"
-    },
-    {
-      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-      "description": "[TECHCRUNCH] The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
-      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-      "date": "2026-07-07T19:28:38Z"
-    },
-    {
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "date": "2026-07-07T15:20:06Z"
-    },
-    {
-      "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
-      "description": "[AI-NEWS] Insilico Medicine is advancing to Phase III human trials for testing a drug identified by AI targeting idiopathic pulmonary fibrosis (IPF). This progression supplies the computational drug discovery sector with empirical test cases, advancing an AI...",
-      "url": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/",
-      "date": "2026-07-07T14:00:06Z"
-    },
-    {
-      "title": "L\u2019Oreal, Mondelez, and Nestle use AI to speed product development",
-      "description": "[AI-NEWS] L\u2019Oreal is using AI to shorten product development timelines and identify new uses for ingredients already present in its portfolio. The French cosmetics group has applied AI in its laboratories for the past four years, with Fabrice Megarbane,...",
-      "url": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/",
-      "date": "2026-07-07T10:00:00Z"
-    },
-    {
-      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
-      "date": "2026-07-07T00:00:00Z"
-    },
-    {
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "date": "2026-07-07T00:00:00Z"
-    },
-    {
-      "title": "PRX Part 4: Our Data Strategy",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "date": "2026-07-06T15:30:55Z"
-    },
-    {
-      "title": "China\u2019s AI companion rules: what Beijing is really going after",
-      "description": "[AI-NEWS] An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustain an ongoing, personal relationship with a user,...",
-      "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
-      "date": "2026-07-06T11:00:00Z"
-    },
-    {
-      "title": "\ud83e\udd17 Kernels: Major Updates",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/revamped-kernels",
-      "date": "2026-07-06T00:00:00Z"
-    },
-    {
-      "title": "Takeda signs $600M AI drug discovery deal with Insilico",
-      "description": "[AI-NEWS] Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company\u2019s therapeutic areas. The companies did not disclose which therapeutic areas or...",
-      "url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
-      "date": "2026-07-03T10:00:00Z"
-    },
-    {
-      "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
-      "description": "[AI-NEWS] Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform...",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
-      "date": "2026-07-02T14:38:01Z"
-    },
-    {
-      "title": "Deploying retail AI to scale personalisation and customer insight",
-      "description": "[AI-NEWS] Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight. Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment...",
-      "url": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
-      "date": "2026-07-01T15:58:43Z"
-    }
-  ]
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-07-08 13:04 UTC",
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
+            "description": "Don't see this going over well.",
+            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
+            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
+            "publishedAt": "2026-06-16T21:33:52Z",
+            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "When It Comes to Energy Use, AI Agents Could Make Chatbots Look Like Pocket Calculators",
+            "description": "All to make a bot respond to your emails for you.",
+            "url": "https://gizmodo.com/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators-2000781774",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/smokestacks-1200x675.png",
+            "publishedAt": "2026-07-06T19:25:59Z",
+            "content": "Much has been made of the emergence of generative AI and its strain on the electrical grid due to the energy demand. So just wait until you see how much energy agentic AI consumes. A new research pap\u2026 [+2636 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+            "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagshi\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-06-26T17:01:03Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nby\r\nHayden FieldClose\r\nPosts from thi\u2026 [+4335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Webb Wright",
+            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
+            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
+            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
+            "publishedAt": "2026-06-12T20:10:40Z",
+            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
+        }
+    ]
 }
