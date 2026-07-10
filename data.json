@@ -1,59 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-07-10 13:26 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
-            "description": "Don't see this going over well.",
-            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
-            "publishedAt": "2026-06-16T21:33:52Z",
-            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "When It Comes to Energy Use, AI Agents Could Make Chatbots Look Like Pocket Calculators",
-            "description": "All to make a bot respond to your emails for you.",
-            "url": "https://gizmodo.com/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators-2000781774",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/smokestacks-1200x675.png",
-            "publishedAt": "2026-07-06T19:25:59Z",
-            "content": "Much has been made of the emergence of generative AI and its strain on the electrical grid due to the energy demand. So just wait until you see how much energy agentic AI consumes. A new research pap\u2026 [+2636 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-            "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagshi\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-26T17:01:03Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nby\r\nHayden FieldClose\r\nPosts from thi\u2026 [+4335 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        }
-    ]
+  "updated": "2026-07-10 14:12:52 UTC",
+  "news": [
+    {
+      "title": "How to shrink the token budget without shrinking the team",
+      "description": "[AI-NEWS] Jensen Huang has a test for whether an engineer is worth keeping, and it comes with a token budget attached. Speaking on the All-In Podcast at the close of GTC 2026, the Nvidia chief executive said that if a $500,000 engineer&#8217;s annual AI token...",
+      "url": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/",
+      "date": "2026-07-10T09:34:27Z"
+    },
+    {
+      "title": "AP Exclusive: Inside Israel's push to clear sea munitions, part of global push to protect waters",
+      "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Israel has launched a project aimed at clearing part of the seas to give beach space back to the population. The Associated Press was granted an inside look at the initiative, which coincides with a global push to better protect the world\u2019s waters...",
+      "url": "https://www.ajc.com/news/2026/07/ap-exclusive-inside-israels-push-to-clear-sea-munitions-part-of-global-push-to-protect-waters/",
+      "date": "2026-07-10T02:12:43Z"
+    },
+    {
+      "title": "Trump Says \u2018I Don\u2019t Like Anything That\u2019s Artificial\u2019",
+      "description": "[BENZINGA] Some people debate what artificial intelligence can do. President Donald Trump decided to debate what it should be called. \"Around the globe, everyone is talking about artificial intelligence,\" Trump said at",
+      "url": "https://www.benzinga.com/news/topics/26/07/60375450/trump-says-i-dont-like-anything-thats-artificial-so-he-wants-to-change-the-name-ai-its-genius-its-pure-genius",
+      "date": "2026-07-10T01:01:09Z"
+    },
+    {
+      "title": "India emerges as global hub for Philips' AI healthcare solutions",
+      "description": "[TIMES OF INDIA] India Business News: AMSTERDAM: India has emerged as the global development hub for more than 85% of Philips' artificial intelligence (AI) solutions for healthcare, unders.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/india-emerges-as-global-hub-for-philips-ai-healthcare-solutions/articleshow/132300685.cms",
+      "date": "2026-07-10T00:57:00Z"
+    },
+    {
+      "title": "After startups, Centre to subsidize AI chips for government bodies",
+      "description": "[LIVEMINT] The government is preparing to extend at-scale subsidized access to artificial intelligence chips beyond startups to government departments, research agencies and state-backed colleges, in a move aimed at accelerating the development of indigenous...",
+      "url": "https://www.livemint.com/ai/artificial-intelligence/indiaai-mission-gpu-subsidy-government-research-ai-chips-11783597483234.html",
+      "date": "2026-07-10T00:30:33Z"
+    },
+    {
+      "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
+      "description": "[TECHCRUNCH] OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "date": "2026-07-10T00:16:54Z"
+    },
+    {
+      "title": "AI must remain a tool, not become the decision",
+      "description": "[THE TRIBUNE] Delivering the BG Deshmukh Lecture 2026 at the India International Centre on the theme 'Governance in the Age of Artificial Intelligence', Kumar argued that while AI would dramatically improve the speed and efficiency of governance, it should never...",
+      "url": "https://www.tribuneindia.com/news/delhi/ai-must-remain-a-tool-not-become-the-decision-maker-in-governance-ex-cabinet-secy-prabhat-kumar/",
+      "date": "2026-07-10T00:12:27Z"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "date": "2026-07-10T00:00:00Z"
+    },
+    {
+      "title": "Asha Sharma has been appointed to a Federal Reserve task force about \u201cProductivity and Jobs.\u201d",
+      "description": "[THE VERGE] The Xbox CEO, who announced mass layoffs at Xbox this week, will assess \u201cthe economic impact of new general-purpose technologies, including artificial intelligence, to inform the Federal Reserve\u2019s policy judgments.\u201d She\u2019ll work alongside Marc...",
+      "url": "https://www.theverge.com/games/963750/asha-sharma-has-been-appointed-to-a-federal-reserve-task-force-about-productivity-and-jobs",
+      "date": "2026-07-09T23:56:23Z"
+    },
+    {
+      "title": "Xbox CEO Asha Sharma joins US Federal Reserve as adviser on AI for \"productivity and jobs\" taskforce",
+      "description": "[GAMESRADAR+] Sharma will be part of a taskforce to \"assess the economic impact of new general-purpose technologies, including artificial intelligence\"",
+      "url": "https://www.gamesradar.com/platforms/xbox/xbox-ceo-asha-sharma-joins-us-federal-reserve-as-adviser-on-ai-for-productivity-and-jobs-taskforce/",
+      "date": "2026-07-09T23:47:10Z"
+    },
+    {
+      "title": "Fidji Simo steps down from OpenAI\u2019s No. 2 role",
+      "description": "[TECHCRUNCH] OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected \u2014 a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in...",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "date": "2026-07-09T23:38:00Z"
+    },
+    {
+      "title": "New Fed task force members share Chairman Kevin Warsh's embrace of AI",
+      "description": "[CNBC] The three members of a task force advising the Fed on artificial intelligence are strong proponents of the technology.",
+      "url": "https://www.cnbc.com/2026/07/09/fed-task-force-member-chairman-kevin-warsh-ai.html",
+      "date": "2026-07-09T22:58:57Z"
+    },
+    {
+      "title": "Juneteenth Exchange Brings National Leaders Together for a Day of Innovation, Investment, and Impact",
+      "description": "[THE MANILA TIMES] Rancho Cordova welcomes executives and changemakers for a day dedicated to collaboration, economic opportunity, and the future of artificial intelligence",
+      "url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/juneteenth-exchange-brings-national-leaders-together-for-a-day-of-innovation-investment-and-impact/2382073",
+      "date": "2026-07-09T22:55:05Z"
+    },
+    {
+      "title": "AI adoption helps Thai firms become digitally mature",
+      "description": "[BANGKOK POST] Thai businesses recorded a medium level of digital maturity for the first time as artificial intelligence (AI) adoption accelerates, according to the Thailand Digital Outlook 2026 survey.",
+      "url": "https://www.bangkokpost.com/business/general/3283789/ai-adoption-helps-thai-firms-become-digitally-mature",
+      "date": "2026-07-09T22:26:00Z"
+    },
+    {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "description": "[TECHCRUNCH] OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "date": "2026-07-09T22:24:24Z"
+    },
+    {
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "description": "[TECHCRUNCH] Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round \u2014 proof, evidently, that the product actually works.",
+      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "date": "2026-07-09T22:08:58Z"
+    },
+    {
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "description": "[TECHCRUNCH] OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "date": "2026-07-09T22:03:54Z"
+    },
+    {
+      "title": "Elon Musk praises Mythos/Fable, promises not to \u2018cut off\u2019 Anthropic",
+      "description": "[TECHCRUNCH] Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "date": "2026-07-09T21:57:42Z"
+    },
+    {
+      "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
+      "description": "[AI-NEWS] A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously separated proprietary databases into a unified and queryable...",
+      "url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
+      "date": "2026-07-09T15:43:09Z"
+    },
+    {
+      "title": "NHS AI blood test could reduce invasive womb cancer checks",
+      "description": "[AI-NEWS] Several NHS hospitals are preparing to use an AI-powered blood test to help assess women referred for possible womb cancer before invasive checks are carried out. According to The Guardian, around 90,000 postmenopausal women in England are referred...",
+      "url": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
+      "date": "2026-07-09T10:00:00Z"
+    },
+    {
+      "title": "Data for Agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "date": "2026-07-08T17:16:05Z"
+    },
+    {
+      "title": "Native-speed vLLM transformers modeling backend",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "date": "2026-07-08T00:00:00Z"
+    },
+    {
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "date": "2026-07-07T21:15:33Z"
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "date": "2026-07-07T15:20:06Z"
+    },
+    {
+      "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
+      "description": "[AI-NEWS] Insilico Medicine is advancing to Phase III human trials for testing a drug identified by AI targeting idiopathic pulmonary fibrosis (IPF). This progression supplies the computational drug discovery sector with empirical test cases, advancing an AI...",
+      "url": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/",
+      "date": "2026-07-07T14:00:06Z"
+    },
+    {
+      "title": "L\u2019Oreal, Mondelez, and Nestle use AI to speed product development",
+      "description": "[AI-NEWS] L\u2019Oreal is using AI to shorten product development timelines and identify new uses for ingredients already present in its portfolio. The French cosmetics group has applied AI in its laboratories for the past four years, with Fabrice Megarbane,...",
+      "url": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/",
+      "date": "2026-07-07T10:00:00Z"
+    },
+    {
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "date": "2026-07-07T00:00:00Z"
+    },
+    {
+      "title": "China\u2019s AI companion rules: what Beijing is really going after",
+      "description": "[AI-NEWS] An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustain an ongoing, personal relationship with a user,...",
+      "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
+      "date": "2026-07-06T11:00:00Z"
+    }
+  ]
 }
