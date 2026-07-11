@@ -1,59 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-07-11 12:28 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
-            "description": "Don't see this going over well.",
-            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
-            "publishedAt": "2026-06-16T21:33:52Z",
-            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "When It Comes to Energy Use, AI Agents Could Make Chatbots Look Like Pocket Calculators",
-            "description": "All to make a bot respond to your emails for you.",
-            "url": "https://gizmodo.com/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators-2000781774",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/smokestacks-1200x675.png",
-            "publishedAt": "2026-07-06T19:25:59Z",
-            "content": "Much has been made of the emergence of generative AI and its strain on the electrical grid due to the energy demand. So just wait until you see how much energy agentic AI consumes. A new research pap\u2026 [+2636 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-            "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagshi\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-26T17:01:03Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nby\r\nHayden FieldClose\r\nPosts from thi\u2026 [+4335 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Webb Wright",
-            "title": "SpaceX\u2019s Stratospheric IPO Launch Has a Couple of Heavy-Duty Stowaways",
-            "description": "Big tech says its circular dealmaking is a virtuous dealmaking. To others it looks more like a noose.",
-            "url": "https://gizmodo.com/spacexs-stratospheric-ipo-launch-has-a-couple-of-heavy-duty-stowaways-2000771290",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/06/SpaceXIPO-1200x675.jpeg",
-            "publishedAt": "2026-06-12T20:10:40Z",
-            "content": "The AI boom is usually framed as a cutthroat competition between a small handful of powerful tech companies. Thats accurate, but it also overlooks a much subtler, stranger, and more alarming dynamic:\u2026 [+7778 chars]"
-        }
-    ]
+  "updated": "2026-07-11 13:09:14 UTC",
+  "news": [
+    {
+      "title": "ChatGPT, Claude and other AI chatbots may help lonely people feel better, but they cannot offer what humans can, Yale professor warns",
+      "description": "[TIMES OF INDIA] Tech News News: Millions of people could benefit from artificial intelligence (AI) companions to help them cope with loneliness, but becoming overly dependent on them.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-claude-and-other-ai-chatbots-may-help-lonely-people-feel-better-but-they-cannot-offer-what-humans-can-yale-professor-warns/articleshow/132320734.cms",
+      "date": "2026-07-11T01:01:00Z"
+    },
+    {
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "description": "[TECHCRUNCH] \"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no...",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "date": "2026-07-10T23:55:07Z"
+    },
+    {
+      "title": "There\u2019s no terminating the artificial intelligence takeover. I fear it will devour the world",
+      "description": "[TORONTO STAR] When I started at the Star as a teenage cub reporter a lifetime ago, we wrote our stories on Underwood typewriters heavy as anvils that were already decades old, the",
+      "url": "https://www.thestar.com/opinion/star-columnists/theres-no-terminating-the-artificial-intelligence-takeover-i-fear-it-will-devour-the-world/article_dfe68084-4655-412d-a741-15ab1b776b70.html",
+      "date": "2026-07-10T23:15:00Z"
+    },
+    {
+      "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+      "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Apple on Friday accused OpenAI of stealing trade secrets as it seeks to build its own hardware for ChatGPT. This is a major rupture in a partnership between the iPhone maker and the artificial intelligence company. Apple said in the lawsuit filed in...",
+      "url": "https://www.ajc.com/news/2026/07/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets/",
+      "date": "2026-07-10T23:01:14Z"
+    },
+    {
+      "title": "How this Alexandria fitness studio uses AI technology in workouts",
+      "description": "[WTOP] In Alexandria, Virginia, a fitness studio is using special equipment that incorporates artificial intelligence to deliver fitness results.",
+      "url": "https://wtop.com/alexandria/2026/07/how-this-alexandria-fitness-studio-uses-ai-technology-in-workouts/",
+      "date": "2026-07-10T22:11:26Z"
+    },
+    {
+      "title": "TG Eapcet Phase 1: Computer Science & IT Lead Seat Allotments Despite AI Concerns",
+      "description": "[DECCAN CHRONICLE] AI, computer engineering, computer science and engineering (networks), and robotics and artificial intelligence registered 100 per cent seat allotment.",
+      "url": "https://www.deccanchronicle.com/southern-states/telangana/tg-eapcet-phase-1-computer-science-it-lead-seat-allotments-despite-ai-concerns-1970031",
+      "date": "2026-07-10T22:11:16Z"
+    },
+    {
+      "title": "Apple files lawsuit, accuses OpenAI of stealing trade secrets",
+      "description": "[CBC.CA] Apple on Friday accused OpenAI of stealing trade secrets as it seeks to build its own hardware for ChatGPT, a major rupture in a partnership between the iPhone maker and the artificial intelligence company.",
+      "url": "https://www.cbc.ca/news/world/apple-lawsuit-open-ai-trade-secrets-9.7266470",
+      "date": "2026-07-10T22:10:52Z"
+    },
+    {
+      "title": "India\u2019s AI Newbies Rake in $1b in H1 \u201926 as Venture Capitals Double Down",
+      "description": "[THE ECONOMIC TIMES] Funding in Indian AI startups crossed the $1-billion mark in the first six months of 2026, as venture capital investors double down on artificial intelligence amid a shift towards frontier, cutting-edge technology.",
+      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jul/11/satet-front/indias-ai-newbies-rake-in-1bin-h1-26-as-vcs-double-down/articleshow/132320708.cms",
+      "date": "2026-07-10T21:36:00Z"
+    },
+    {
+      "title": "India\u2019s AI Newbies Rake in $1b in H1 \u201926 as Venture Capitals Double Down",
+      "description": "[THE ECONOMIC TIMES] Funding in Indian AI startups crossed the $1-billion mark in the first six months of 2026, as venture capital investors double down on artificial intelligence amid a shift towards frontier, cutting-edge technology.",
+      "url": "https://economictimes.indiatimes.com/satet-front/indias-ai-newbies-rake-in-1bin-h1-26-as-vcs-double-down/articleshow/132320708.cms",
+      "date": "2026-07-10T21:36:00Z"
+    },
+    {
+      "title": "INTERVIEW: AI is escalating sexual child abuse online",
+      "description": "[SBS AUSTRALIA] A new national study has found that artificial intelligence (AI) escalates the amount of online sexual exploitation against children. The research, a collaboration between the International Centre for Missing and Exploited Children Australia and the...",
+      "url": "https://www.sbs.com.au/news/podcast-episode/interview-ai-is-escalating-sexual-child-abuse-online/9aw1j3r6d",
+      "date": "2026-07-10T21:30:00Z"
+    },
+    {
+      "title": "SK Hynix rises nearly 13% in debut on Wall Street as demand for memory chips soars amid AI frenzy",
+      "description": "[BARCHART] Shares of South Korean memory chipmaker SK Hynix rose nearly 13% as they made their debut on Wall Street, at a time when demand for chips is surging thanks to the frenzy around artificial intelligence",
+      "url": "https://www.barchart.com/story/news/3222276/sk-hynix-rises-nearly-13-in-debut-on-wall-street-as-demand-for-memory-chips-soars-amid-ai-frenzy",
+      "date": "2026-07-10T21:07:44Z"
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "description": "[TECHCRUNCH] Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "date": "2026-07-10T21:00:29Z"
+    },
+    {
+      "title": "Open source AI matters more than ever, according to Hugging Face\u2019s Clem Delangue",
+      "description": "[TECHCRUNCH] Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly...",
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "date": "2026-07-10T19:00:00Z"
+    },
+    {
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "description": "[TECHCRUNCH] The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "date": "2026-07-10T17:17:12Z"
+    },
+    {
+      "title": "Hugging Face\u2019s CEO on why companies are done renting their AI",
+      "description": "[TECHCRUNCH] Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly...",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "date": "2026-07-10T14:00:00Z"
+    },
+    {
+      "title": "How to shrink the token budget without shrinking the team",
+      "description": "[AI-NEWS] Jensen Huang has a test for whether an engineer is worth keeping, and it comes with a token budget attached. Speaking on the All-In Podcast at the close of GTC 2026, the Nvidia chief executive said that if a $500,000 engineer&#8217;s annual AI token...",
+      "url": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/",
+      "date": "2026-07-10T09:34:27Z"
+    },
+    {
+      "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
+      "description": "[TECHCRUNCH] OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "date": "2026-07-10T00:16:54Z"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "date": "2026-07-10T00:00:00Z"
+    },
+    {
+      "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
+      "description": "[AI-NEWS] A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously separated proprietary databases into a unified and queryable...",
+      "url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
+      "date": "2026-07-09T15:43:09Z"
+    },
+    {
+      "title": "NHS AI blood test could reduce invasive womb cancer checks",
+      "description": "[AI-NEWS] Several NHS hospitals are preparing to use an AI-powered blood test to help assess women referred for possible womb cancer before invasive checks are carried out. According to The Guardian, around 90,000 postmenopausal women in England are referred...",
+      "url": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
+      "date": "2026-07-09T10:00:00Z"
+    },
+    {
+      "title": "Data for Agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "date": "2026-07-08T17:16:05Z"
+    },
+    {
+      "title": "Native-speed vLLM transformers modeling backend",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "date": "2026-07-08T00:00:00Z"
+    },
+    {
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "date": "2026-07-07T21:15:33Z"
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "date": "2026-07-07T15:20:06Z"
+    },
+    {
+      "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
+      "description": "[AI-NEWS] Insilico Medicine is advancing to Phase III human trials for testing a drug identified by AI targeting idiopathic pulmonary fibrosis (IPF). This progression supplies the computational drug discovery sector with empirical test cases, advancing an AI...",
+      "url": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/",
+      "date": "2026-07-07T14:00:06Z"
+    },
+    {
+      "title": "L\u2019Oreal, Mondelez, and Nestle use AI to speed product development",
+      "description": "[AI-NEWS] L\u2019Oreal is using AI to shorten product development timelines and identify new uses for ingredients already present in its portfolio. The French cosmetics group has applied AI in its laboratories for the past four years, with Fabrice Megarbane,...",
+      "url": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/",
+      "date": "2026-07-07T10:00:00Z"
+    },
+    {
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "date": "2026-07-07T00:00:00Z"
+    },
+    {
+      "title": "China\u2019s AI companion rules: what Beijing is really going after",
+      "description": "[AI-NEWS] An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustain an ongoing, personal relationship with a user,...",
+      "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
+      "date": "2026-07-06T11:00:00Z"
+    }
+  ]
 }
