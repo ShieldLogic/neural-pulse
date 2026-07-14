@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-07-14 12:47 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
-            "description": "Don't see this going over well.",
-            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
-            "publishedAt": "2026-06-16T21:33:52Z",
-            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "When It Comes to Energy Use, AI Agents Could Make Chatbots Look Like Pocket Calculators",
-            "description": "All to make a bot respond to your emails for you.",
-            "url": "https://gizmodo.com/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators-2000781774",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/smokestacks-1200x675.png",
-            "publishedAt": "2026-07-06T19:25:59Z",
-            "content": "Much has been made of the emergence of generative AI and its strain on the electrical grid due to the energy demand. So just wait until you see how much energy agentic AI consumes. A new research pap\u2026 [+2636 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-            "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagshi\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-26T17:01:03Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nby\r\nHayden FieldClose\r\nPosts from thi\u2026 [+4335 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "For the First Time, ChatGPT Reportedly Has Less Than Half of the AI Assistant Market",
-            "description": "ChatGPT is still the top-ranked AI assistant app, but it's reportedly no longer dominant.",
-            "url": "https://gizmodo.com/for-the-first-time-chatgpt-reportedly-has-less-than-half-of-the-ai-assistant-market-2000772791",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-1534546942-e1722865082345.jpg",
-            "publishedAt": "2026-06-17T01:10:26Z",
-            "content": "OpenAI reportedly no longer dominates the AI assistant market. A report from Sensor Tower (reported on by TechCrunch) says that although OpenAIs ChatGPT is still the number one-ranked AI assistant pr\u2026 [+2730 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Charles Pulliam-Moore",
-            "title": "Hollywood is bending the knee to OpenAI",
-            "description": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mub\u2026",
-            "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=4.7487503051758%2C21.869598945592%2C95.251249694824%2C74.804666989327&w=1200",
-            "publishedAt": "2026-06-23T22:03:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nStudios reluctance to acquire Luca Guadagninos Artificial is a troubling sign for the entertainment industry.\r\nStudios reluctance to acquire Luca Guadagninos Art\u2026 [+6176 chars]"
-        }
-    ]
+  "updated": "2026-07-14 13:28:41 UTC",
+  "news": [
+    {
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "description": "[TECHCRUNCH] They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "date": "2026-07-14T02:46:42Z"
+    },
+    {
+      "title": "New Illinois law prohibits use of AI in teacher evaluations",
+      "description": "[NBC 5 CHICAGO] A new Illinois law will prohibit administrators from using artificial intelligence when performing teacher evaluations.",
+      "url": "https://www.nbcchicago.com/news/local/chicago-politics/a-new-illinois-law-will-prohibit-the-use-of-ai-in-teacher-evaluations/3961026/",
+      "date": "2026-07-14T01:15:48Z"
+    },
+    {
+      "title": "Why lawyers, bankers and scientists are helping AI destroy their jobs",
+      "description": "[AUSTRALIAN FINANCIAL REVIEW] Start-ups are paying white-collar professionals to teach their jobs to artificial intelligence models. It\u2019s a bonanza. It\u2019s bleak. Where will it end?",
+      "url": "https://www.afr.com/technology/why-lawyers-bankers-and-scientists-are-helping-ai-destroy-their-jobs-20260714-p60f3h",
+      "date": "2026-07-14T01:15:18Z"
+    },
+    {
+      "title": "Uber\u2019s product chief on hotels, robotaxis, and why the company doesn\u2019t want to be \u2018everything for everyone\u2019",
+      "description": "[TECHCRUNCH] Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and...",
+      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "date": "2026-07-14T00:45:00Z"
+    },
+    {
+      "title": "\u2018Cybersecurity can no longer be a standalone function\u2019: Q&A with Sajit Vijayakumar, CEO, Infosys Finacle",
+      "description": "[THE FINANCIAL EXPRESS] Agentic AI is set to transform banking by automating routine work and enabling smarter decision-making, but banks must embed robust cybersecurity, governance and modern core systems to deploy it responsibly, says Infosys Finacle CEO Sajit...",
+      "url": "https://www.financialexpress.com/business/news/cybersecurity-can-no-longer-be-a-standalone-function-qampa-with-sajit-vijayakumar-ceo-infosys-finacle/4290831/",
+      "date": "2026-07-14T00:40:07Z"
+    },
+    {
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "description": "[TECHCRUNCH] With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "date": "2026-07-14T00:00:00Z"
+    },
+    {
+      "title": "Thomson Reuters to cut 'small number' of engineering jobs",
+      "description": "[THE STAR] July 13 (Reuters) - Thomson Reuters \u2060on Monday said it is cutting \"a small number of roles\" \u2060in engineering, as the Canadian content and technology company aggressively \u200cdeploys artificial intelligence across its businesses.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/14/thomson-reuters-to-cut-039small-number039-of-engineering-jobs",
+      "date": "2026-07-13T23:57:00Z"
+    },
+    {
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "description": "[TECHCRUNCH] The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "date": "2026-07-13T23:31:18Z"
+    },
+    {
+      "title": "PM's China trip aims to boost tech investment",
+      "description": "[BANGKOK POST] Prime Minister Anutin Charnvirakul is set to embark on a crucial visit to China later this week, aiming to strengthen economic ties and attract investment in Thailand's future industries, notably semiconductors, artificial intelligence (AI), and...",
+      "url": "https://www.bangkokpost.com/business/investment/3285495/pms-china-trip-aims-to-boost-tech-investment",
+      "date": "2026-07-13T22:28:00Z"
+    },
+    {
+      "title": "I switched to an AI browser that runs its own local LLM, and I'm not going back to Perplexity or Chrome",
+      "description": "[XDA DEVELOPERS] A hybrid AI browser worth the download",
+      "url": "https://www.xda-developers.com/switched-to-ai-browser-that-runs-its-own-local-llm-not-going-back-to-perplexity-or-chrome/",
+      "date": "2026-07-13T22:01:20Z"
+    },
+    {
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "description": "[TECHCRUNCH] Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley \u2014 that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "date": "2026-07-13T20:59:00Z"
+    },
+    {
+      "title": "Carbon storage could curb more than 90% of AI data center emissions, study finds",
+      "description": "[PHYS.ORG] As artificial intelligence accelerates demand for computing power across the U.S., a new study co-authored by Hon Chung Lau, adjunct professor in the Department of Chemical and Biomolecular Engineering at Rice University and founder of Low Carbon...",
+      "url": "https://phys.org/news/2026-07-carbon-storage-curb-ai-center.html",
+      "date": "2026-07-13T20:20:03Z"
+    },
+    {
+      "title": "Thomson Reuters to cut 'small number' of engineering jobs",
+      "description": "[REUTERS] Thomson Reuters on Monday said it is cutting \"a small number of roles\" in engineering, as the Canadian content and technology \u200bcompany aggressively deploys artificial intelligence across its businesses.",
+      "url": "https://www.reuters.com/legal/litigation/thomson-reuters-cut-small-number-engineering-jobs-2026-07-13/",
+      "date": "2026-07-13T20:11:05Z"
+    },
+    {
+      "title": "AI-powered electronic nose can distinguish tens of thousands of odors",
+      "description": "[PHYS.ORG] A research team has presented a roadmap for developing an \"artificial olfactory system\" that detects odors like the human nose and analyzes them using artificial intelligence (AI) by leveraging metal-organic frameworks (MOFs). The team...",
+      "url": "https://phys.org/news/2026-07-ai-powered-electronic-nose-distinguish.html",
+      "date": "2026-07-13T20:00:01Z"
+    },
+    {
+      "title": "Hundreds of economists say 'we must act now' on AI's economic impact and job displacement risks",
+      "description": "[PHYS.ORG] Hundreds of economists say in an open letter that institutions \"must act now\" to address how artificial intelligence could transform the economy and could put many people out of work.",
+      "url": "https://phys.org/news/2026-07-hundreds-economists-ai-economic-impact.html",
+      "date": "2026-07-13T19:40:06Z"
+    },
+    {
+      "title": "The wildest allegations in Apple\u2019s trade secrets lawsuit against OpenAI",
+      "description": "[TECHCRUNCH] Apple\u2019s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple\u2019s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint\u2019s...",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "date": "2026-07-13T18:22:10Z"
+    },
+    {
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "date": "2026-07-10T00:00:00Z"
+    },
+    {
+      "title": "Data for Agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "date": "2026-07-08T17:16:05Z"
+    },
+    {
+      "title": "Native-speed vLLM transformers modeling backend",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "date": "2026-07-08T00:00:00Z"
+    },
+    {
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "date": "2026-07-07T21:15:33Z"
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "date": "2026-07-07T15:20:06Z"
+    },
+    {
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "date": "2026-07-07T00:00:00Z"
+    }
+  ]
 }
