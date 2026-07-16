@@ -1,72 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-07-16 12:59 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Microsoft Mulls China\u2019s DeepSeek for Copilot, Probably to Trump\u2019s Chagrin",
-            "description": "Don't see this going over well.",
-            "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
-            "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
-            "publishedAt": "2026-06-16T21:33:52Z",
-            "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin\u2026 [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "When It Comes to Energy Use, AI Agents Could Make Chatbots Look Like Pocket Calculators",
-            "description": "All to make a bot respond to your emails for you.",
-            "url": "https://gizmodo.com/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators-2000781774",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/smokestacks-1200x675.png",
-            "publishedAt": "2026-07-06T19:25:59Z",
-            "content": "Much has been made of the emergence of generative AI and its strain on the electrical grid due to the energy demand. So just wait until you see how much energy agentic AI consumes. A new research pap\u2026 [+2636 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-            "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagshi\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-26T17:01:03Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nby\r\nHayden FieldClose\r\nPosts from thi\u2026 [+4335 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "For the First Time, ChatGPT Reportedly Has Less Than Half of the AI Assistant Market",
-            "description": "ChatGPT is still the top-ranked AI assistant app, but it's reportedly no longer dominant.",
-            "url": "https://gizmodo.com/for-the-first-time-chatgpt-reportedly-has-less-than-half-of-the-ai-assistant-market-2000772791",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/07/GettyImages-1534546942-e1722865082345.jpg",
-            "publishedAt": "2026-06-17T01:10:26Z",
-            "content": "OpenAI reportedly no longer dominates the AI assistant market. A report from Sensor Tower (reported on by TechCrunch) says that although OpenAIs ChatGPT is still the number one-ranked AI assistant pr\u2026 [+2730 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Charles Pulliam-Moore",
-            "title": "Hollywood is bending the knee to OpenAI",
-            "description": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mub\u2026",
-            "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=4.7487503051758%2C21.869598945592%2C95.251249694824%2C74.804666989327&w=1200",
-            "publishedAt": "2026-06-23T22:03:18Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nStudios reluctance to acquire Luca Guadagninos Artificial is a troubling sign for the entertainment industry.\r\nStudios reluctance to acquire Luca Guadagninos Art\u2026 [+6176 chars]"
-        }
-    ]
+  "updated": "2026-07-16 13:40:52 UTC",
+  "news": [
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "description": "[TECHCRUNCH] The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "date": "2026-07-16T13:17:59Z"
+    },
+    {
+      "title": "Newer Models, Same Advantage",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "date": "2026-07-16T11:49:48Z"
+    },
+    {
+      "title": "Neko Health raises $700 million to expand AI body scans in the US",
+      "description": "[AI-NEWS] Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company\u2019s preventive screening service combines medical imaging, blood tests, proprietary sensors, and clinician review....",
+      "url": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
+      "date": "2026-07-16T09:00:00Z"
+    },
+    {
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "description": "[TECHCRUNCH] Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "date": "2026-07-16T04:00:00Z"
+    },
+    {
+      "title": "The AI backlash has tech executives fearing for their lives",
+      "description": "[LIVEMINT] Violent threats against artificial-intelligence companies are rising and spilling over into real-world security incidents.",
+      "url": "https://www.livemint.com/ai/the-ai-backlash-has-tech-executives-fearing-for-their-lives-11784164861869.html",
+      "date": "2026-07-16T01:23:39Z"
+    },
+    {
+      "title": "AI knows what you did online. Now your employer does, too",
+      "description": "[LIVEMINT] Artificial intelligence makes it easier than ever to trace your online history, and trying to cover your tracks can backfire and sabotage your career.",
+      "url": "https://www.livemint.com/global/ai-knows-what-you-did-online-now-your-employer-does-too-11784163701953.html",
+      "date": "2026-07-16T01:04:39Z"
+    },
+    {
+      "title": "Global Market Today: Asian equities drop led by Kospi, oil extends gain",
+      "description": "[THE ECONOMIC TIMES] Asian stocks declined as semiconductor shares faced renewed selling pressure. Crude oil prices climbed higher due to fresh strikes in the Middle East. Government bonds in Australia and New Zealand opened higher after US inflation data. Traders...",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-equities-drop-led-by-kospi-oil-extends-gain/articleshow/132427394.cms",
+      "date": "2026-07-16T01:04:00Z"
+    },
+    {
+      "title": "India, EU strengthen strategic partnership at 3rd TTC; announce cooperation in AI, semiconductors, clean technologies",
+      "description": "[THE ECONOMIC TIMES] The European Union and India on Wednesday reaffirmed their commitment to strengthen strategic cooperation in trade, technology and security at the third meeting of the India-EU Trade and Technology Council (TTC), with both sides agreeing to deepen...",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-eu-strengthen-strategic-partnership-at-3rd-ttc-announce-cooperation-in-ai-semiconductors-clean-technologies/articleshow/132427329.cms",
+      "date": "2026-07-16T00:45:00Z"
+    },
+    {
+      "title": "Cadence rolls out AI agent to speed circuit board, chip packaging design",
+      "description": "[THE STAR] SAN FRANCISCO, July \u206015 (Reuters) - Cadence Design Systems on Wednesday launched an artificial-intelligence \"super agent\" \u2060that designs printed circuit boards and chip packages, extending the company's push \u200cto automate more of the engineering...",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/16/cadence-rolls-out-ai-agent-to-speed-circuit-board-chip-packaging-design",
+      "date": "2026-07-16T00:11:00Z"
+    },
+    {
+      "title": "Security incident disclosure \u2014 July 2026",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "date": "2026-07-16T00:00:00Z"
+    },
+    {
+      "title": "Kuaishou Benefits From a User-Generated Flywheel but Now Meets Artificial Intelligence Side Quest",
+      "description": "[MORNINGSTAR] Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
+      "url": "https://www.morningstar.com/company-reports/1488284-kuaishou-benefits-from-a-user-generated-flywheel-but-now-meets-artificial-intelligence-side-quest",
+      "date": "2026-07-16T00:00:00Z"
+    },
+    {
+      "title": "Chinese Startup Dongfang Suanxin Develops 3D Chip Architecture to Bypass U.S. Export Restrictions",
+      "description": "[NATURAL NEWS] Chinese startup Dongfang Suanxin has announced a new chip design using a three-dimensional architecture that company officials say can compete with Nvidia\u2019s artificial intelligence (AI) processors while employing older, unrestricted manufacturing...",
+      "url": "https://www.naturalnews.com/2026-07-16-chinese-startup-3d-chip-architecture-bypass-restrictions.html",
+      "date": "2026-07-16T00:00:00Z"
+    },
+    {
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "description": "[TECHCRUNCH] Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "date": "2026-07-15T23:59:44Z"
+    },
+    {
+      "title": "Latest DigiCert research shows AI security risks already hitting Australian enterprises, with 81% reporting incidents or vulnerabilities",
+      "description": "[ITWIRE] New survey reveals enterprise AI governance gaps as adoption accelerates. DigiCert, a global leader in intelligent trust, today released new research revealing that AI-related...",
+      "url": "https://itwire.com/guest-articles/guest-research/latest-digicert-research-shows-ai-security-risks-already-hitting-australian-enterprises-with-81-reporting-incidents-or-vulnerabilities",
+      "date": "2026-07-15T23:52:32Z"
+    },
+    {
+      "title": "Nasdaq 100 price swings leaves analysts on Wall Street worried",
+      "description": "[CNBC TV18] Such sharp moves have only taken place on four previous instances since the turn of the millennium - the Covid shock of 2020, the bear market of 2022, the global financial crisis of 2008, and the bust of the dotcom bubble in 2000. Some cautious...",
+      "url": "https://www.cnbctv18.com/market/nasdaq-100-volatile-moves-intel-amd-nvidia-shares-philadelphia-semiconductor-index-analysts-worried-19946581.htm",
+      "date": "2026-07-15T23:34:02Z"
+    },
+    {
+      "title": "AI adoption accelerates, but maturity lags",
+      "description": "[BANGKOK POST] Thailand's artificial intelligence (AI) adoption is growing rapidly, with 43% of surveyed organisations now using AI continuously, up from 32% last year.",
+      "url": "https://www.bangkokpost.com/business/general/3286594/ai-adoption-accelerates-but-maturity-lags",
+      "date": "2026-07-15T23:25:00Z"
+    },
+    {
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "description": "[TECHCRUNCH] OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "date": "2026-07-15T19:41:38Z"
+    },
+    {
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "description": "[TECHCRUNCH] The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+      "date": "2026-07-15T18:06:05Z"
+    },
+    {
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "description": "[TECHCRUNCH] It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "date": "2026-07-15T18:04:06Z"
+    },
+    {
+      "title": "What building Shippy taught us about building agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "date": "2026-07-15T17:29:41Z"
+    },
+    {
+      "title": "Model Routing Is Simple. Until It Isn\u2019t.",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "date": "2026-07-15T17:27:01Z"
+    },
+    {
+      "title": "Nokia\u2019s AI-RAN platform: a radio comeback that runs on NVIDIA",
+      "description": "[AI-NEWS] Nokia&#8217;s AI-RAN platform&#160;arrived&#160;on July 15 with a claim worth examining: that it is the industry&#8217;s first. The vendor says the platform, built on its anyRAN software and NVIDIA&#8217;s Aerial system, will let operators pull far...",
+      "url": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
+      "date": "2026-07-15T08:30:00Z"
+    },
+    {
+      "title": "Welcome Inkling by Thinking Machines",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "date": "2026-07-15T00:00:00Z"
+    },
+    {
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "date": "2026-07-15T00:00:00Z"
+    },
+    {
+      "title": "AWS and Bluesight build AI for hospital 340B compliance",
+      "description": "[AI-NEWS] AWS (Amazon Web Services) has explained how Bluesight developed Prism, an AI layer that connects hospital pharmacy and compliance data across its product suite. Prism Assistant for ControlCheck has reached general availability and operates across 20...",
+      "url": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
+      "date": "2026-07-14T15:54:39Z"
+    },
+    {
+      "title": "AI agent crawlers now need permission. Here\u2019s how to get it",
+      "description": "[AI-NEWS] AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. Cloudflare&#160;announced&#160;the change on July 1, and most of the...",
+      "url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
+      "date": "2026-07-13T11:00:00Z"
+    },
+    {
+      "title": "How to shrink the token budget without shrinking the team",
+      "description": "[AI-NEWS] Jensen Huang has a test for whether an engineer is worth keeping, and it comes with a token budget attached. Speaking on the All-In Podcast at the close of GTC 2026, the Nvidia chief executive said that if a $500,000 engineer&#8217;s annual AI token...",
+      "url": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/",
+      "date": "2026-07-10T09:34:27Z"
+    },
+    {
+      "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
+      "description": "[AI-NEWS] A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously separated proprietary databases into a unified and queryable...",
+      "url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
+      "date": "2026-07-09T15:43:09Z"
+    }
+  ]
 }
