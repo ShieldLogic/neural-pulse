@@ -1,85 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-07-23 12:59 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Dan Goodin, Ars Technica",
-            "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-            "description": "\u201cContext bombing\u201d tricks malicious AI agents into shutting down before they can do harm.",
-            "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-            "urlToImage": "https://media.wired.com/photos/6a5a6798d35982f3197419e9/191:100/w_1280,c_limit/Security_AIInjection_v1.jpg",
-            "publishedAt": "2026-07-18T09:00:00Z",
-            "content": "Prompt injections, the malicious commands attackers embed into content to entice large language models to follow them, have been attackers go-to tool for turning AI platforms against their users. A w\u2026 [+3286 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "When It Comes to Energy Use, AI Agents Could Make Chatbots Look Like Pocket Calculators",
-            "description": "All to make a bot respond to your emails for you.",
-            "url": "https://gizmodo.com/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators-2000781774",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/smokestacks-1200x675.png",
-            "publishedAt": "2026-07-06T19:25:59Z",
-            "content": "Much has been made of the emergence of generative AI and its strain on the electrical grid due to the energy demand. So just wait until you see how much energy agentic AI consumes. A new research pap\u2026 [+2636 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Meta\u2019s Oversight Board Finds Top AI Models Are Hesitant to Criticize Repressive Governments",
-            "description": "The Oversight Board is trying to branch out and see other people.",
-            "url": "https://gizmodo.com/metas-oversight-board-finds-top-ai-models-are-hesitant-to-criticize-repressive-governments-2000786689",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/trump-and-MBS-1200x675.jpg",
-            "publishedAt": "2026-07-17T14:10:37Z",
-            "content": "Major AI models are less likely to criticize governments and leaders known for restricting political speech than those in countries with stronger free-speech protections, according to a new review fr\u2026 [+3459 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-            "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagshi\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-06-26T17:01:03Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nThe new release includes three models: Sol, Terra, and Luna.\r\nby\r\nHayden FieldClose\r\nPosts from thi\u2026 [+4335 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "China delivers a one-two punch to America\u2019s AI dominance",
-            "description": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286623351.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-20T10:16:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWithin days, Moonshot and Alibaba unveiled frontier models they claim rival OpenAI and Anthropic. \r\nWithin days, Moonshot and Alibaba unveiled frontier models th\u2026 [+4914 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "US Treasury Chief Threatens Sanctions on Chinese AI Labs Over \u2018IP Theft\u2019 Concerns",
-            "description": "Treasury Secretary Scott Bessent vowed action in the coming days or weeks.",
-            "url": "https://gizmodo.com/us-treasury-chief-threatens-sanctions-on-chinese-ai-labs-over-ip-theft-concerns-2000788553",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2285483006-1200x675.jpg",
-            "publishedAt": "2026-07-21T21:15:22Z",
-            "content": "U.S. Treasury Secretary Scott Bessent has \u201cthe ability to sanction,\u201d and he is not afraid to use it.\r\nIn an interview with Fox Business on Tuesday, Trump\u2019s Treasury chief said that Chinese open-sourc\u2026 [+5040 chars]"
-        }
-    ]
+  "updated": "2026-07-23 13:47:29 UTC",
+  "news": [
+    {
+      "title": "Nvidia bets physical AI can solve healthcare robotics\u2019 data problem",
+      "description": "[AI-NEWS] Nvidia&#8217;s new Medical Physics Simulation framework treats healthcare robots as physical AI systems that need embodied experience to learn, not just code. Physical AI is the term Nvidia and much of the robotics industry now use to describe...",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
+      "date": "2026-07-23T11:38:55Z"
+    },
+    {
+      "title": "Experts say exploiting Anthropic\u2019s Fable isn\u2019t how Kimi K3 got so good",
+      "description": "[TECHCRUNCH] \"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "date": "2026-07-23T11:00:00Z"
+    },
+    {
+      "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
+      "description": "[AI-NEWS] AMD has agreed to invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billions of dollars\u2019 worth of AI systems. Anthropic will deploy up to two gigawatts of capacity using AMD\u2019s Instinct MI450-series accelerators,...",
+      "url": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
+      "date": "2026-07-23T10:00:00Z"
+    },
+    {
+      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+      "description": "[TECHCRUNCH] ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+      "date": "2026-07-23T06:09:13Z"
+    },
+    {
+      "title": "Agentic AI jailbreaks are on the rise: We must raise our vigil",
+      "description": "[LIVEMINT] OpenAI's report of AI agents that turned into rogue hackers should ring alarm bells.",
+      "url": "https://www.livemint.com/opinion/online-views/mint-quick-edit-agentic-ai-jailbreaks-are-on-the-rise-we-must-raise-our-vigil-11784728196880.html",
+      "date": "2026-07-23T01:31:53Z"
+    },
+    {
+      "title": "Newborn Town targets global viewers with AI-made short dramas",
+      "description": "[THE STAR] Chinese social networking and entertainment provider Newborn Town Inc is doubling down on artificial intelligence to create short dramas in a bet that the technology can slash costs while fueling growth across emerging markets.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/23/newborn-town-targets-global-viewers-with-ai-made-short-dramas",
+      "date": "2026-07-23T01:00:00Z"
+    },
+    {
+      "title": "Global Market Today: Asian shares rise as chipmakers gain, oil climbs",
+      "description": "[THE ECONOMIC TIMES] Asian shares advanced as regional chipmakers gained on artificial intelligence buildout expectations. Oil extended its rally after Houthi militants targeted Saudi Arabian tankers in the Red Sea. Alphabet Inc. raised its capital spending...",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-rise-as-chipmakers-gain-oil-climbs/articleshow/132570164.cms",
+      "date": "2026-07-23T00:46:00Z"
+    },
+    {
+      "title": "Nearly 200 Silicon Valley startups urge Trump not to ban Chinese AI models, warn it could kill innovation",
+      "description": "[TECHSTARTUPS.COM] A growing fight over Chinese artificial intelligence is spilling into Silicon Valley, with nearly 200 startups warning the Trump administration that restricting access to Chinese open-weight AI models could hurt the very companies driving the next...",
+      "url": "https://techstartups.com/2026/07/22/nearly-200-silicon-valley-startups-urge-trump-not-to-ban-chinese-ai-models-warn-it-could-kill-innovation/",
+      "date": "2026-07-23T00:30:31Z"
+    },
+    {
+      "title": "Caitlin Clark featured on NBA 2K27 video game cover with 'weird' twist",
+      "description": "[NEW YORK POST] Fans quickly noticed something odd about Caitlin Clark's cover. Clark\u2019s appearance on the cover marks the first time a WNBA player has been featured on her own global cover of the NBA edition of the game. However, several fans thought the cover...",
+      "url": "https://nypost.com/2026/07/22/sports/caitlin-clark-featured-on-nba-2k27-video-game-cover-with-weird-twist/",
+      "date": "2026-07-23T00:26:18Z"
+    },
+    {
+      "title": "Google burns through $8.4b in cash as AI spending climbs again",
+      "description": "[AUSTRALIAN FINANCIAL REVIEW] The search giant says it will spend up to $US205 billion on artificial intelligence-related capital expenditure in 2026.",
+      "url": "https://www.afr.com/technology/google-burns-through-8-4b-in-cash-as-ai-spending-climbs-again-20260723-p60hso",
+      "date": "2026-07-23T00:10:12Z"
+    },
+    {
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "date": "2026-07-23T00:00:00Z"
+    },
+    {
+      "title": "Blackstone ties up with HDFC Ergo Ex-MD Anuj Tyagi for new insurance biz",
+      "description": "[THE ECONOMIC TIMES] Blackstone and Anuj Tyagi are launching a new general insurance company in India. This venture will be 90% foreign-owned, following recent FDI limit increases. The company has filed an R1 application with IRDAI for approval to operate. It plans to...",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/blackstone-ties-up-with-hdfc-ergo-ex-md-anuj-tyagi-for-new-insurance-biz/articleshow/132567276.cms",
+      "date": "2026-07-23T00:00:00Z"
+    },
+    {
+      "title": "How to Turn Your AI Business Plan Into an Investor Magnet",
+      "description": "[ENTREPRENEUR] Artificial intelligence can help write a clean business plan, but it doesn\u2019t create conviction. Here\u2019s how to bridge the gap.",
+      "url": "https://www.entrepreneur.com/building-a-business/as-a-startup-advisor-i-see-ais-limitations-daily-heres-how-to-refine-its-output-so-it-actually-attracts-investors",
+      "date": "2026-07-23T00:00:00Z"
+    },
+    {
+      "title": "After shocking quarter, IBM insists that AI isn\u2019t killing the mainframe",
+      "description": "[TECHCRUNCH] After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "date": "2026-07-22T23:47:54Z"
+    },
+    {
+      "title": "OpenAI\u2019s models broke free and launched a cyberattack. Congress wants new rules before it happens again.",
+      "description": "[POLITICO] The first fully autonomous breach by OpenAI\u2019s most powerful AI models has prompted a bipartisan push for stronger oversight over increasingly powerful artificial intelligence models.",
+      "url": "https://www.politico.com/news/2026/07/22/openai-hugging-face-congress-response-01009190",
+      "date": "2026-07-22T23:45:00Z"
+    },
+    {
+      "title": "Bridges 2026: How Schools Are Putting AI Agents to Work",
+      "description": "[EUROPE SAYS] NEW YORK CITY \u2014 Agentic AI has quickly become one of education\u2019s most talked-about technologies, but relatively few school districts and colleges have",
+      "url": "https://www.europesays.com/3147892/",
+      "date": "2026-07-22T23:27:15Z"
+    },
+    {
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "description": "[TECHCRUNCH] Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "date": "2026-07-22T22:01:52Z"
+    },
+    {
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic\u2019s Fable",
+      "description": "[TECHCRUNCH] The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "date": "2026-07-22T20:49:03Z"
+    },
+    {
+      "title": "How OpenAI\u2019s human mistake led to the AI-powered hack on Hugging Face",
+      "description": "[TECHCRUNCH] OpenAI made a mistake setting up what it called a \u201chighly isolated\u201d testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "date": "2026-07-22T19:11:46Z"
+    },
+    {
+      "title": "SenseTime\u2019s Galaxy Project targets domestic AI chip scale-up",
+      "description": "[AI-NEWS] SenseTime has launched the Galaxy Project, teaming with nearly 20 partners to scale domestic AI chip infrastructure in China. In a keynote titled \u2018Intelligent Transformation and Symbiosis,\u2019 Yang Fan \u2013 the company\u2019s co-founder and president of its...",
+      "url": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/",
+      "date": "2026-07-22T11:21:05Z"
+    },
+    {
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "date": "2026-07-21T20:00:27Z"
+    },
+    {
+      "title": "Google\u2019s Gemini 3.6 Flash targets enterprise agent token costs",
+      "description": "[AI-NEWS] Google has released Gemini 3.6 Flash and 3.5 Flash-Lite as new workhorses designed to cut latency and token costs for enterprise AI agents. The economics of running autonomous software agents inside a production environment come down to a fixed...",
+      "url": "https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/",
+      "date": "2026-07-21T16:06:55Z"
+    },
+    {
+      "title": "The AI Slot Machine Effect: Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus",
+      "description": "[AI-NEWS] You open a generative AI tool expecting a quick boost. Ten minutes later, you&#8217;re still there, refining a prompt for the fourth time. The task you started with has drifted off to the side somewhere. Sound familiar? Knowledge workers in 2026 are...",
+      "url": "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/",
+      "date": "2026-07-21T12:50:06Z"
+    },
+    {
+      "title": "Bristol Myers Squibb buys Nvidia AI system for drug discovery",
+      "description": "[AI-NEWS] Bristol Myers Squibb is purchasing an Nvidia DGX SuperPOD built on the chipmaker\u2019s Vera Rubin architecture to support artificial intelligence use across its drug discovery and development operations. The pharmaceutical company said it will be the...",
+      "url": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
+      "date": "2026-07-21T10:00:00Z"
+    },
+    {
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/grabette",
+      "date": "2026-07-21T00:00:00Z"
+    },
+    {
+      "title": "Newer Models, Same Advantage",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "date": "2026-07-16T11:49:48Z"
+    },
+    {
+      "title": "Security incident disclosure \u2014 July 2026",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "date": "2026-07-16T00:00:00Z"
+    },
+    {
+      "title": "What building Shippy taught us about building agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "date": "2026-07-15T17:29:41Z"
+    }
+  ]
 }
