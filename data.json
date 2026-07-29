@@ -1,98 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-07-29 13:14 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Dan Goodin, Ars Technica",
-            "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-            "description": "\u201cContext bombing\u201d tricks malicious AI agents into shutting down before they can do harm.",
-            "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-            "urlToImage": "https://media.wired.com/photos/6a5a6798d35982f3197419e9/191:100/w_1280,c_limit/Security_AIInjection_v1.jpg",
-            "publishedAt": "2026-07-18T09:00:00Z",
-            "content": "Prompt injections, the malicious commands attackers embed into content to entice large language models to follow them, have been attackers go-to tool for turning AI platforms against their users. A w\u2026 [+3286 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Choose Your Fighter: Nvidia CEO and Jim Cramer Offer Dueling Visions of AI\u2019s Future",
-            "description": "Watch out for the Cramer curse.",
-            "url": "https://gizmodo.com/choose-your-fighter-nvidia-ceo-and-jim-cramer-offer-dueling-visions-of-ais-future-2000789294",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/jim-cramer-vs-jensen-nvidia-1200x675.jpg",
-            "publishedAt": "2026-07-22T19:25:33Z",
-            "content": "The release of a powerful open-source AI model from China has once again split the tech industry into two camps: the evangelists who believe good tech should be accessible and the protectionist hawks\u2026 [+3457 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "When It Comes to Energy Use, AI Agents Could Make Chatbots Look Like Pocket Calculators",
-            "description": "All to make a bot respond to your emails for you.",
-            "url": "https://gizmodo.com/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators-2000781774",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/smokestacks-1200x675.png",
-            "publishedAt": "2026-07-06T19:25:59Z",
-            "content": "Much has been made of the emergence of generative AI and its strain on the electrical grid due to the energy demand. So just wait until you see how much energy agentic AI consumes. A new research pap\u2026 [+2636 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Nvidia, Microsoft launch open AI security alliance \u2013 without OpenAI, Google, or Anthropic",
-            "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T12:06:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Meta\u2019s Oversight Board Finds Top AI Models Are Hesitant to Criticize Repressive Governments",
-            "description": "The Oversight Board is trying to branch out and see other people.",
-            "url": "https://gizmodo.com/metas-oversight-board-finds-top-ai-models-are-hesitant-to-criticize-repressive-governments-2000786689",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/trump-and-MBS-1200x675.jpg",
-            "publishedAt": "2026-07-17T14:10:37Z",
-            "content": "Major AI models are less likely to criticize governments and leaders known for restricting political speech than those in countries with stronger free-speech protections, according to a new review fr\u2026 [+3459 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Nvidia\u2019s CEO Wants to Support Open AI Models So Bad, He Was Willing to Join the X Cesspool",
-            "description": "There's gotta be a better way.",
-            "url": "https://gizmodo.com/nvidias-ceo-wants-to-support-open-ai-models-so-bad-he-was-willing-to-join-the-x-cesspool-2000790388",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/jensen_huang_onblack-1200x675.jpg",
-            "publishedAt": "2026-07-24T18:25:22Z",
-            "content": "Open-source AI models from China are once again causing a crisis in America, leading to accusations of stolen training data and threats of closing the border to foreign-origin tech. With tensions hig\u2026 [+3229 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "DeepSeek\u2019s Normally Boring CEO Is Reportedly Spiraling After Supposed Leak",
-            "description": "Warning: What passes for spilling the tea in the AI world is incredibly boring to most people.",
-            "url": "https://gizmodo.com/deepseeks-normally-boring-ceo-is-reportedly-spiraling-after-supposed-leak-2000790888",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/deepseek-1200x675.jpg",
-            "publishedAt": "2026-07-25T22:08:30Z",
-            "content": "A planned funding round at Hangzhou, China-based hedge fund and unexpected AI juggernaut DeepSeek has probably been cancelled. According to a very delicately worded Bloomberg report, this comes just \u2026 [+3346 chars]"
-        }
-    ]
+  "updated": "2026-07-29 14:00:10 UTC",
+  "news": [
+    {
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "description": "[TECHCRUNCH] Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "date": "2026-07-29T11:00:00Z"
+    },
+    {
+      "title": "FPJ 98th Anniversary: How Maharashtra Continues To Lead India's Economic Growth",
+      "description": "[FREE PRESS JOURNAL] From the cooperative movement to artificial intelligence, Maharashtra has continuously reinvented itself to remain India",
+      "url": "https://www.freepressjournal.in/lifestyle/fpj-98th-anniversary-how-maharashtra-continues-to-lead-indias-economic-growth",
+      "date": "2026-07-29T01:30:00Z"
+    },
+    {
+      "title": "OpenAI CEO: AI industry slowdown may be needed after security scare",
+      "description": "[THE STAR] Developers of artificial intelligence models might need to voluntarily pump the brakes on their rapid advances to give society a chance to catch up, OpenAI CEO Sam Altman said in an interview published on July 28.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/29/openai-ceo-ai-industry-slowdown-may-be-needed-after-security-scare",
+      "date": "2026-07-29T01:00:00Z"
+    },
+    {
+      "title": "SilicaDrive Launches Matilly AI Studio for Controlled User Testing",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- SilicaDrive Pte. Ltd., an independent Singapore-headquartered artificial intelligence technology and infrastructure company, today announced...",
+      "url": "https://www.prnewswire.co.uk/news-releases/silicadrive-launches-matilly-ai-studio-for-controlled-user-testing-302836549.html",
+      "date": "2026-07-29T01:00:00Z"
+    },
+    {
+      "title": "OpenAI's rogue models roamed the internet for 4 days and staged a second attack",
+      "description": "[POLITICO] A new analysis reveals that the artificial intelligence company\u2019s most powerful models spent days probing the open internet before breaching AI developer platform Hugging Face.",
+      "url": "https://www.politico.com/news/2026/07/28/openai-rogue-models-hugging-face-breach-01014572",
+      "date": "2026-07-29T00:57:00Z"
+    },
+    {
+      "title": "DESILO's THOR Selected as Reference Implementation for Encrypted AI in Global FHE Benchmarking Suite",
+      "description": "[THE MANILA TIMES] - Establishing a universal benchmark for Private AI and encrypted Large Language Model (LLM) inference",
+      "url": "https://www.manilatimes.net/2026/07/29/tmt-newswire/pr-newswire/desilos-thor-selected-as-reference-implementation-for-encrypted-ai-in-global-fhe-benchmarking-suite/2393625",
+      "date": "2026-07-29T00:53:31Z"
+    },
+    {
+      "title": "Global Market Today: Oil jumps on renewed Middle East tension, US stock futures dip",
+      "description": "[THE ECONOMIC TIMES] Crude oil prices surged and US equity futures declined following renewed Middle East conflict. American crude oil jumped nearly five percent, topping eighty-three dollars a barrel. Treasury futures also moved lower, and the dollar strengthened...",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-oil-jumps-on-renewed-middle-east-tension-us-stock-futures-dip/articleshow/132697114.cms",
+      "date": "2026-07-29T00:52:00Z"
+    },
+    {
+      "title": "Seoul shares turn lower late Wednesday morning on tech losses",
+      "description": "[THE KOREA TIMES] Seoul shares turned lower late Wednesday morning as investors dumped tech stocks amid concerns over future artificial intelligence (AI) spending. A...",
+      "url": "https://www.koreatimes.co.kr/economy/20260729/seoul-shares-turn-lower-late-wednesday-morning-on-tech-losses",
+      "date": "2026-07-29T00:27:03Z"
+    },
+    {
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "description": "[TECHCRUNCH] The deal is Cyera's third acquisition this year.",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "date": "2026-07-29T00:09:05Z"
+    },
+    {
+      "title": "UAE create first defense technology task force for cybersecurity",
+      "description": "[INTERESTING ENGINEERING] Task Force Talon Synapse will unite American and Emirati experts to turn military artificial intelligence into operational capabilities.",
+      "url": "https://interestingengineering.com/ai-robotics/us-uae-first-defense-tech-task-force",
+      "date": "2026-07-28T23:29:55Z"
+    },
+    {
+      "title": "AI is fuelling new wave of identity fraud",
+      "description": "[BANGKOK POST] AI-driven identity fraud is emerging as a growing cyberthreat as attackers increasingly exploit synthetic identities, deepfakes and autonomous artificial intelligence agents to target digital systems, according to Ping Identity.",
+      "url": "https://www.bangkokpost.com/business/general/3293227/ai-is-fuelling-new-wave-of-identity-fraud",
+      "date": "2026-07-28T23:17:00Z"
+    },
+    {
+      "title": "Made by AI? EU tells firms to stick a label on it from Sunday as deepfake rules take effect",
+      "description": "[MALAY MAIL] BRUSSELS, July 29 \u2014 Deepfakes and other AI-generated content must be labelled from Sunday, as the European Union\u2019s sweeping artificial intelligence transparency rules kick...",
+      "url": "https://www.malaymail.com/news/tech-gadgets/2026/07/29/made-by-ai-eu-tells-firms-to-stick-a-label-on-it-from-sunday-as-deepfake-rules-take-effect/229229",
+      "date": "2026-07-28T23:00:00Z"
+    },
+    {
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "description": "[TECHCRUNCH] Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "date": "2026-07-28T21:29:34Z"
+    },
+    {
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "description": "[TECHCRUNCH] Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "date": "2026-07-28T20:45:12Z"
+    },
+    {
+      "title": "Sam Altman is ready to decelerate",
+      "description": "[TECHCRUNCH] His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "date": "2026-07-28T20:17:08Z"
+    },
+    {
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "date": "2026-07-28T16:27:42Z"
+    },
+    {
+      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "description": "[TECHCRUNCH] The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
+      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "date": "2026-07-28T15:42:26Z"
+    },
+    {
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "date": "2026-07-28T15:01:45Z"
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "date": "2026-07-27T09:32:20Z"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "date": "2026-07-27T00:00:00Z"
+    },
+    {
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "date": "2026-07-23T00:00:00Z"
+    },
+    {
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/grabette",
+      "date": "2026-07-21T00:00:00Z"
+    }
+  ]
 }
