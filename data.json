@@ -1,98 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-07-31 13:14 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Dan Goodin, Ars Technica",
-            "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-            "description": "\u201cContext bombing\u201d tricks malicious AI agents into shutting down before they can do harm.",
-            "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-            "urlToImage": "https://media.wired.com/photos/6a5a6798d35982f3197419e9/191:100/w_1280,c_limit/Security_AIInjection_v1.jpg",
-            "publishedAt": "2026-07-18T09:00:00Z",
-            "content": "Prompt injections, the malicious commands attackers embed into content to entice large language models to follow them, have been attackers go-to tool for turning AI platforms against their users. A w\u2026 [+3286 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Choose Your Fighter: Nvidia CEO and Jim Cramer Offer Dueling Visions of AI\u2019s Future",
-            "description": "Watch out for the Cramer curse.",
-            "url": "https://gizmodo.com/choose-your-fighter-nvidia-ceo-and-jim-cramer-offer-dueling-visions-of-ais-future-2000789294",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/jim-cramer-vs-jensen-nvidia-1200x675.jpg",
-            "publishedAt": "2026-07-22T19:25:33Z",
-            "content": "The release of a powerful open-source AI model from China has once again split the tech industry into two camps: the evangelists who believe good tech should be accessible and the protectionist hawks\u2026 [+3457 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Dario Amodei Says He\u2019s Not Against Open Models, He\u2019s Against Selling Chips to China",
-            "description": "Anthropic's stance is unlikely to fly with strategic partner Nvidia.",
-            "url": "https://gizmodo.com/dario-amodei-says-hes-not-against-open-models-hes-against-selling-chips-to-china-2000791895",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2261856915-1200x675.jpg",
-            "publishedAt": "2026-07-28T20:50:58Z",
-            "content": "The American AI industry is split over open models. Those in the industry who say they are all for open AI development have started blaming frontier AI model providers, especially Anthropic, for push\u2026 [+6447 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Nvidia, Microsoft launch open AI security alliance \u2013 without OpenAI, Google, or Anthropic",
-            "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T12:06:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "When It Comes to Energy Use, AI Agents Could Make Chatbots Look Like Pocket Calculators",
-            "description": "All to make a bot respond to your emails for you.",
-            "url": "https://gizmodo.com/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators-2000781774",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/smokestacks-1200x675.png",
-            "publishedAt": "2026-07-06T19:25:59Z",
-            "content": "Much has been made of the emergence of generative AI and its strain on the electrical grid due to the energy demand. So just wait until you see how much energy agentic AI consumes. A new research pap\u2026 [+2636 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Meta\u2019s Oversight Board Finds Top AI Models Are Hesitant to Criticize Repressive Governments",
-            "description": "The Oversight Board is trying to branch out and see other people.",
-            "url": "https://gizmodo.com/metas-oversight-board-finds-top-ai-models-are-hesitant-to-criticize-repressive-governments-2000786689",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/trump-and-MBS-1200x675.jpg",
-            "publishedAt": "2026-07-17T14:10:37Z",
-            "content": "Major AI models are less likely to criticize governments and leaders known for restricting political speech than those in countries with stronger free-speech protections, according to a new review fr\u2026 [+3459 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Nvidia\u2019s CEO Wants to Support Open AI Models So Bad, He Was Willing to Join the X Cesspool",
-            "description": "There's gotta be a better way.",
-            "url": "https://gizmodo.com/nvidias-ceo-wants-to-support-open-ai-models-so-bad-he-was-willing-to-join-the-x-cesspool-2000790388",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/jensen_huang_onblack-1200x675.jpg",
-            "publishedAt": "2026-07-24T18:25:22Z",
-            "content": "Open-source AI models from China are once again causing a crisis in America, leading to accusations of stolen training data and threats of closing the border to foreign-origin tech. With tensions hig\u2026 [+3229 chars]"
-        }
-    ]
+  "updated": "2026-07-31 13:54:32 UTC",
+  "news": [
+    {
+      "title": "South Korea\u2019s Kospi index jumps more than 16% on a surge of chipmaking stocks",
+      "description": "[THE ATLANTA JOURNAL-CONSTITUTION] South Korea\u2019s Kospi index has jumped more than 16% as artificial intelligence-related stocks bounced back after losses this week. Shares of South Korean technology giant Samsung Electronics surged over 22%, while memory chipmaker SK Hynix soared...",
+      "url": "https://www.ajc.com/news/2026/07/south-koreas-kospi-index-jumps-more-than-15-on-a-surge-of-chipmaking-stocks/",
+      "date": "2026-07-31T01:32:26Z"
+    },
+    {
+      "title": "South Korea\u2019s Kospi index jumps more than 16% on a surge of chipmaking stocks",
+      "description": "[SFGATE] South Korea\u2019s Kospi index has jumped more than 16% as artificial intelligence-related stocks bounced back after losses this week. Shares of South Korean technology giant Samsung Electronics surged...",
+      "url": "https://www.sfgate.com/news/world/article/south-korea-s-kospi-index-jumps-more-than-13-22368203.php",
+      "date": "2026-07-31T01:28:36Z"
+    },
+    {
+      "title": "South Korea\u2019s Kospi index jumps more than 16% on a surge of chipmaking stocks",
+      "description": "[BARCHART] South Korea\u2019s Kospi index has jumped more than 16% as artificial intelligence-related stocks bounced back after losses this week",
+      "url": "https://www.barchart.com/story/news/3566310/south-koreas-kospi-index-jumps-more-than-16-on-a-surge-of-chipmaking-stocks",
+      "date": "2026-07-31T01:28:36Z"
+    },
+    {
+      "title": "Amazon\u2019s AI bet starts paying off as revenue tops US$200b",
+      "description": "[MALAY MAIL] SAN FRANCISCO, July 31 \u2014 Amazon beat analysts\u2019 expectations on Thursday when it reported growth in overall revenue and sales, particularly in its cloud, artificial intelligence...",
+      "url": "https://www.malaymail.com/news/money/2026/07/31/amazons-ai-bet-starts-paying-off-as-revenue-tops-us200b/229631",
+      "date": "2026-07-31T01:12:20Z"
+    },
+    {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "description": "[TECHCRUNCH] After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "date": "2026-07-31T01:06:54Z"
+    },
+    {
+      "title": "South Korea\u2019s Kospi index jumps more than 15% on a surge of chipmaking stocks",
+      "description": "[BARCHART] South Korea\u2019s Kospi index has jumped more than 15% as artificial intelligence-related stocks bounced back after losses this week",
+      "url": "https://www.barchart.com/story/news/3566310/south-koreas-kospi-index-jumps-more-than-15-on-a-surge-of-chipmaking-stocks",
+      "date": "2026-07-31T01:05:12Z"
+    },
+    {
+      "title": "Anthropic says its AI models hacked 3 organizations during testing",
+      "description": "[BREITBART NEWS NETWORK] Anthropic says its AI models hacked into three organizations during testing. Anthropic said its artificial intelligence models hacked into three other",
+      "url": "https://www.breitbart.com/news/anthropic-says-its-ai-models-hacked-3-organizations-during-testing/",
+      "date": "2026-07-31T01:04:21Z"
+    },
+    {
+      "title": "South Korea\u2019s Kospi index jumps more than 13% on a surge of chipmaking stocks",
+      "description": "[WTOP] BANGKOK (AP) \u2014 South Korea\u2019s Kospi index jumped more than 13% on Friday, tracking Wall Street gains, as artificial intelligence-related stocks bounced back\u2026",
+      "url": "https://wtop.com/world/2026/07/south-koreas-kospi-index-jumps-more-than-13-on-a-surge-of-chipmaking-stocks/",
+      "date": "2026-07-31T00:54:18Z"
+    },
+    {
+      "title": "South Korea\u2019s Kospi index jumps more than 13% on a surge of chipmaking stocks",
+      "description": "[THE ATLANTA JOURNAL-CONSTITUTION] South Korea\u2019s Kospi index has jumped more than 13%, tracking Wall Street gains, as artificial intelligence-related stocks bounced back after losses this week. In early Asian trading Friday morning, the Kospi rose 13.1% to 6,330.59. Shares of South...",
+      "url": "https://www.ajc.com/news/2026/07/south-koreas-kospi-index-jumps-more-than-13-on-a-surge-of-chipmaking-stocks/",
+      "date": "2026-07-31T00:52:52Z"
+    },
+    {
+      "title": "Global Market Today: Asian stocks rise on Korean rally, yen holds gains",
+      "description": "[THE ECONOMIC TIMES] Asian stocks advanced as chip shares revived artificial intelligence trade confidence. South Korea's Kospi Index surged over fourteen percent, rebounding strongly. Japan's shares also gained, lifting the regional MSCI Asia Pacific gauge. The yen...",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-on-korean-rally-yen-holds-gains/articleshow/132753029.cms",
+      "date": "2026-07-31T00:51:00Z"
+    },
+    {
+      "title": "South Korea\u2019s Kospi index jumps more than 13% on a surge of chipmaking stocks",
+      "description": "[BARCHART] South Korea\u2019s Kospi index has jumped more than 13%, tracking Wall Street gains, as artificial intelligence-related stocks bounced back after losses this week",
+      "url": "https://www.barchart.com/story/news/3566310/south-koreas-kospi-index-jumps-more-than-13-on-a-surge-of-chipmaking-stocks",
+      "date": "2026-07-31T00:49:22Z"
+    },
+    {
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "description": "[TECHCRUNCH] The former OpenAI researcher\u2019s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "date": "2026-07-30T23:25:58Z"
+    },
+    {
+      "title": "Reddit reports a solid quarter but shows signs of AI\u2019s impact",
+      "description": "[TECHCRUNCH] Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "date": "2026-07-30T23:08:58Z"
+    },
+    {
+      "title": "Investors love AI, as long as you\u2019re a cloud host",
+      "description": "[TECHCRUNCH] Amazon isn't slowing down on data center spending \u2014 but investors don't seem to mind.",
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "date": "2026-07-30T22:41:41Z"
+    },
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic \u2018supply-chain risk\u2019 label",
+      "description": "[TECHCRUNCH] A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "date": "2026-07-30T20:26:38Z"
+    },
+    {
+      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "description": "[TECHCRUNCH] Friend, the AI wearable, can now talk to its users \u2014 for an enhanced price.",
+      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "date": "2026-07-30T19:44:16Z"
+    },
+    {
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "date": "2026-07-30T15:09:09Z"
+    },
+    {
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "date": "2026-07-28T16:27:42Z"
+    },
+    {
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "date": "2026-07-28T15:01:45Z"
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "date": "2026-07-27T09:32:20Z"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "date": "2026-07-27T00:00:00Z"
+    },
+    {
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "date": "2026-07-23T00:00:00Z"
+    }
+  ]
 }
