@@ -1,111 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-08-04 13:15 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Dan Goodin, Ars Technica",
-            "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-            "description": "\u201cContext bombing\u201d tricks malicious AI agents into shutting down before they can do harm.",
-            "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-            "urlToImage": "https://media.wired.com/photos/6a5a6798d35982f3197419e9/191:100/w_1280,c_limit/Security_AIInjection_v1.jpg",
-            "publishedAt": "2026-07-18T09:00:00Z",
-            "content": "Prompt injections, the malicious commands attackers embed into content to entice large language models to follow them, have been attackers go-to tool for turning AI platforms against their users. A w\u2026 [+3286 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Choose Your Fighter: Nvidia CEO and Jim Cramer Offer Dueling Visions of AI\u2019s Future",
-            "description": "Watch out for the Cramer curse.",
-            "url": "https://gizmodo.com/choose-your-fighter-nvidia-ceo-and-jim-cramer-offer-dueling-visions-of-ais-future-2000789294",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/jim-cramer-vs-jensen-nvidia-1200x675.jpg",
-            "publishedAt": "2026-07-22T19:25:33Z",
-            "content": "The release of a powerful open-source AI model from China has once again split the tech industry into two camps: the evangelists who believe good tech should be accessible and the protectionist hawks\u2026 [+3457 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Dario Amodei Says He\u2019s Not Against Open Models, He\u2019s Against Selling Chips to China",
-            "description": "Anthropic's stance is unlikely to fly with strategic partner Nvidia.",
-            "url": "https://gizmodo.com/dario-amodei-says-hes-not-against-open-models-hes-against-selling-chips-to-china-2000791895",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2261856915-1200x675.jpg",
-            "publishedAt": "2026-07-28T20:50:58Z",
-            "content": "The American AI industry is split over open models. Those in the industry who say they are all for open AI development have started blaming frontier AI model providers, especially Anthropic, for push\u2026 [+6447 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Nvidia, Microsoft launch open AI security alliance \u2013 without OpenAI, Google, or Anthropic",
-            "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T12:06:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "When It Comes to Energy Use, AI Agents Could Make Chatbots Look Like Pocket Calculators",
-            "description": "All to make a bot respond to your emails for you.",
-            "url": "https://gizmodo.com/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators-2000781774",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/smokestacks-1200x675.png",
-            "publishedAt": "2026-07-06T19:25:59Z",
-            "content": "Much has been made of the emergence of generative AI and its strain on the electrical grid due to the energy demand. So just wait until you see how much energy agentic AI consumes. A new research pap\u2026 [+2636 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Nvidia\u2019s CEO Wants to Support Open AI Models So Bad, He Was Willing to Join the X Cesspool",
-            "description": "There's gotta be a better way.",
-            "url": "https://gizmodo.com/nvidias-ceo-wants-to-support-open-ai-models-so-bad-he-was-willing-to-join-the-x-cesspool-2000790388",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/jensen_huang_onblack-1200x675.jpg",
-            "publishedAt": "2026-07-24T18:25:22Z",
-            "content": "Open-source AI models from China are once again causing a crisis in America, leading to accusations of stolen training data and threats of closing the border to foreign-origin tech. With tensions hig\u2026 [+3229 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Meta\u2019s Oversight Board Finds Top AI Models Are Hesitant to Criticize Repressive Governments",
-            "description": "The Oversight Board is trying to branch out and see other people.",
-            "url": "https://gizmodo.com/metas-oversight-board-finds-top-ai-models-are-hesitant-to-criticize-repressive-governments-2000786689",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/trump-and-MBS-1200x675.jpg",
-            "publishedAt": "2026-07-17T14:10:37Z",
-            "content": "Major AI models are less likely to criticize governments and leaders known for restricting political speech than those in countries with stronger free-speech protections, according to a new review fr\u2026 [+3459 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "DeepSeek\u2019s Normally Boring CEO Is Reportedly Spiraling After Supposed Leak",
-            "description": "Warning: What passes for spilling the tea in the AI world is incredibly boring to most people.",
-            "url": "https://gizmodo.com/deepseeks-normally-boring-ceo-is-reportedly-spiraling-after-supposed-leak-2000790888",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/deepseek-1200x675.jpg",
-            "publishedAt": "2026-07-25T22:08:30Z",
-            "content": "A planned funding round at Hangzhou, China-based hedge fund and unexpected AI juggernaut DeepSeek has probably been cancelled. According to a very delicately worded Bloomberg report, this comes just \u2026 [+3346 chars]"
-        }
-    ]
+  "updated": "2026-08-04 14:00:31 UTC",
+  "news": [
+    {
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "date": "2026-08-04T13:58:29Z"
+    },
+    {
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "description": "[TECHCRUNCH] On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "date": "2026-08-04T13:00:00Z"
+    },
+    {
+      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+      "description": "[TECHCRUNCH] Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
+      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+      "date": "2026-08-04T12:00:00Z"
+    },
+    {
+      "title": "At US colleges, the AI boom means everyone wants to dabble in computer science",
+      "description": "[THE STAR] With no background in coding, Faith Maeba, a psychology major, was reluctant when her mother first suggested she enrol in classes on artificial intelligence.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/04/at-us-colleges-the-ai-boom-means-everyone-wants-to-dabble-in-computer-science",
+      "date": "2026-08-04T02:00:00Z"
+    },
+    {
+      "title": "China is getting more anxious about Mythos before Trump meets Xi",
+      "description": "[THE JAPAN TIMES ] Chinese officials see the potential for such artificial intelligence models to be used as an offensive weapon, and question why China is denied access to them for normal purposes.",
+      "url": "https://www.japantimes.co.jp/business/2026/08/04/tech/china-mythos-trump-xi/",
+      "date": "2026-08-04T00:59:12Z"
+    },
+    {
+      "title": "The Solow model in an AI age",
+      "description": "[THE FINANCIAL EXPRESS] On its 70th anniversary, its ideas on technology\u2019s link to economic growth remain central to debates around the impact of artificial intelligence",
+      "url": "https://www.financialexpress.com/opinion/the-solow-model-in-an-ai-age/4309841/",
+      "date": "2026-08-04T00:24:16Z"
+    },
+    {
+      "title": "Commentary: How China Can Navigate Its K-Shaped Transformation",
+      "description": "[CAIXIN] Commentary: How China Can Navigate Its K-Shaped Transformation - As artificial intelligence drives a wedge between surging tech sectors and a collapsing real estate market, Beijing must use targeted fiscal policy and sovereign bonds to bridge the gap",
+      "url": "https://www.caixinglobal.com/2026-08-04/commentary-how-china-can-navigate-its-k-shaped-transformation-102471101.html",
+      "date": "2026-08-04T00:00:00Z"
+    },
+    {
+      "title": "South Korea conducts 1st undersea mine-sweeping trial using \u2018AI officer\u2019",
+      "description": "[THE HITAVADA] south korea\u2019s navy said on monday it carried out its first mine-sweeping trial using artificial intelligence (ai) technology and unmanned vessels, as it seeks to advance its future maritime operational capabilities. the trial, jointly led by south...",
+      "url": "https://www.thehitavada.com/Encyc/2026/8/4/south-korea-conducts-1st-undersea-mine-sweeping-trial-using-ai-officer.html",
+      "date": "2026-08-04T00:00:00Z"
+    },
+    {
+      "title": "AI fraud is hitting India\u2019s new net users hardest: Amazon",
+      "description": "[TIMES OF INDIA] India Business News: NEW DELHI: India\u2019s next big e-commerce challenge is not artificial intelligence itself but protecting millions of first-time online shoppers from AI-p.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/ai-fraud-is-hitting-indias-new-net-users-hardest-amazon/articleshow/132843254.cms",
+      "date": "2026-08-03T23:47:00Z"
+    },
+    {
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
+      "description": "[TECHCRUNCH] After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "date": "2026-08-03T23:19:50Z"
+    },
+    {
+      "title": "OpenAI CEO goes viral for more strange ChatGPT parenting advice",
+      "description": "[SFGATE] It's not the first time Sam Altman has caught backlash for making comments on artificial intelligence and parenting.",
+      "url": "https://www.sfgate.com/tech/article/chatgpt-parenting-advice-22372408.php",
+      "date": "2026-08-03T21:47:39Z"
+    },
+    {
+      "title": "OpenAI CEO goes viral for strange ChatGPT parenting advice",
+      "description": "[SFGATE] It's not the first time Sam Altman has caught backlash for making comments on artificial intelligence and parenting.",
+      "url": "https://www.sfgate.com/tech/article/sam-altman-ai-parenting-22372408.php",
+      "date": "2026-08-03T21:47:39Z"
+    },
+    {
+      "title": "Sam Altman Tells Parents to Use ChatGPT to Connect With Family and Gets Roasted: \u2018What If You Just Talked",
+      "description": "[BENZINGA] The rise of artificial intelligence companies, like OpenAI, has led to more use cases for consumers and companies. When it comes to AI replacing parents, it\u2019s not quite there yet, as OpenAI co-founder and CEO Sam Altman",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60892663/sam-altman-tells-parents-to-use-chatgpt-to-connect-with-family-and-gets-roasted-what-if-you-just-talked-to-your-children",
+      "date": "2026-08-03T21:10:53Z"
+    },
+    {
+      "title": "AI-enabled measurements of 'local brain aging' offer detailed insights on dementia and more",
+      "description": "[MEDICAL XPRESS] USC researchers have developed an approach that uses artificial intelligence to generate detailed maps that highlight differences in how distinct parts of the brain age. The new model also sheds light on how patterns of brain changes correlate with...",
+      "url": "https://medicalxpress.com/news/2026-08-ai-enabled-local-brain-aging.html",
+      "date": "2026-08-03T21:00:06Z"
+    },
+    {
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "description": "[TECHCRUNCH] AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "date": "2026-08-03T20:00:00Z"
+    },
+    {
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "description": "[TECHCRUNCH] Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "date": "2026-08-03T19:28:57Z"
+    },
+    {
+      "title": "Influencers draw backlash for attending OpenAI\u2019s first luxury trip",
+      "description": "[TECHCRUNCH] OpenAI\u2019s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "date": "2026-08-03T19:09:56Z"
+    },
+    {
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "date": "2026-07-30T15:09:09Z"
+    },
+    {
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "date": "2026-07-28T16:27:42Z"
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "date": "2026-07-27T09:32:20Z"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "date": "2026-07-27T00:00:00Z"
+    },
+    {
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "date": "2026-07-23T00:00:00Z"
+    }
+  ]
 }
