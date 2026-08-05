@@ -1,111 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-08-05 13:10 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Dan Goodin, Ars Technica",
-            "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-            "description": "\u201cContext bombing\u201d tricks malicious AI agents into shutting down before they can do harm.",
-            "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-            "urlToImage": "https://media.wired.com/photos/6a5a6798d35982f3197419e9/191:100/w_1280,c_limit/Security_AIInjection_v1.jpg",
-            "publishedAt": "2026-07-18T09:00:00Z",
-            "content": "Prompt injections, the malicious commands attackers embed into content to entice large language models to follow them, have been attackers go-to tool for turning AI platforms against their users. A w\u2026 [+3286 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Choose Your Fighter: Nvidia CEO and Jim Cramer Offer Dueling Visions of AI\u2019s Future",
-            "description": "Watch out for the Cramer curse.",
-            "url": "https://gizmodo.com/choose-your-fighter-nvidia-ceo-and-jim-cramer-offer-dueling-visions-of-ais-future-2000789294",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/jim-cramer-vs-jensen-nvidia-1200x675.jpg",
-            "publishedAt": "2026-07-22T19:25:33Z",
-            "content": "The release of a powerful open-source AI model from China has once again split the tech industry into two camps: the evangelists who believe good tech should be accessible and the protectionist hawks\u2026 [+3457 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Dario Amodei Says He\u2019s Not Against Open Models, He\u2019s Against Selling Chips to China",
-            "description": "Anthropic's stance is unlikely to fly with strategic partner Nvidia.",
-            "url": "https://gizmodo.com/dario-amodei-says-hes-not-against-open-models-hes-against-selling-chips-to-china-2000791895",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2261856915-1200x675.jpg",
-            "publishedAt": "2026-07-28T20:50:58Z",
-            "content": "The American AI industry is split over open models. Those in the industry who say they are all for open AI development have started blaming frontier AI model providers, especially Anthropic, for push\u2026 [+6447 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Nvidia, Microsoft launch open AI security alliance \u2013 without OpenAI, Google, or Anthropic",
-            "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T12:06:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "When It Comes to Energy Use, AI Agents Could Make Chatbots Look Like Pocket Calculators",
-            "description": "All to make a bot respond to your emails for you.",
-            "url": "https://gizmodo.com/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators-2000781774",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/smokestacks-1200x675.png",
-            "publishedAt": "2026-07-06T19:25:59Z",
-            "content": "Much has been made of the emergence of generative AI and its strain on the electrical grid due to the energy demand. So just wait until you see how much energy agentic AI consumes. A new research pap\u2026 [+2636 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Nvidia\u2019s CEO Wants to Support Open AI Models So Bad, He Was Willing to Join the X Cesspool",
-            "description": "There's gotta be a better way.",
-            "url": "https://gizmodo.com/nvidias-ceo-wants-to-support-open-ai-models-so-bad-he-was-willing-to-join-the-x-cesspool-2000790388",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/jensen_huang_onblack-1200x675.jpg",
-            "publishedAt": "2026-07-24T18:25:22Z",
-            "content": "Open-source AI models from China are once again causing a crisis in America, leading to accusations of stolen training data and threats of closing the border to foreign-origin tech. With tensions hig\u2026 [+3229 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Meta\u2019s Oversight Board Finds Top AI Models Are Hesitant to Criticize Repressive Governments",
-            "description": "The Oversight Board is trying to branch out and see other people.",
-            "url": "https://gizmodo.com/metas-oversight-board-finds-top-ai-models-are-hesitant-to-criticize-repressive-governments-2000786689",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/trump-and-MBS-1200x675.jpg",
-            "publishedAt": "2026-07-17T14:10:37Z",
-            "content": "Major AI models are less likely to criticize governments and leaders known for restricting political speech than those in countries with stronger free-speech protections, according to a new review fr\u2026 [+3459 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "DeepSeek\u2019s Normally Boring CEO Is Reportedly Spiraling After Supposed Leak",
-            "description": "Warning: What passes for spilling the tea in the AI world is incredibly boring to most people.",
-            "url": "https://gizmodo.com/deepseeks-normally-boring-ceo-is-reportedly-spiraling-after-supposed-leak-2000790888",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/deepseek-1200x675.jpg",
-            "publishedAt": "2026-07-25T22:08:30Z",
-            "content": "A planned funding round at Hangzhou, China-based hedge fund and unexpected AI juggernaut DeepSeek has probably been cancelled. According to a very delicately worded Bloomberg report, this comes just \u2026 [+3346 chars]"
-        }
-    ]
+  "updated": "2026-08-05 13:58:23 UTC",
+  "news": [
+    {
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "description": "[TECHCRUNCH] MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+      "date": "2026-08-05T12:28:38Z"
+    },
+    {
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "description": "[TECHCRUNCH] WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "date": "2026-08-05T11:00:00Z"
+    },
+    {
+      "title": "White House, AI Firms Keep Safety Framework Talks Private",
+      "description": "[EUROPE SAYS] The White House met with representatives from leading artificial intelligence companies today to discuss a safety framework for the government to review",
+      "url": "https://www.europesays.com/3174917/",
+      "date": "2026-08-05T01:53:18Z"
+    },
+    {
+      "title": "China AI hardware stocks slump after news US plans to ban imports of Chinese components",
+      "description": "[REUTERS] China\u2019s artificial intelligence hardware stocks slumped on Wednesday after \u200bnews that the Trump administration is \u200cdrafting a ban on U.S. imports of new models of Chinese data \u200bcentre components.",
+      "url": "https://www.reuters.com/business/media-telecom/china-ai-hardware-stocks-slump-after-news-us-plans-ban-imports-chinese-2026-08-05/",
+      "date": "2026-08-05T01:42:37Z"
+    },
+    {
+      "title": "Fed's Schmid says finances around AI buildout merit watching",
+      "description": "[REUTERS] Federal Reserve Bank of Kansas City President \u200bJeff Schmid said \u200con Tuesday the financial situation involved in building out \u200bthe artificial intelligence \u200bsector bears watching.",
+      "url": "https://www.reuters.com/business/feds-schmid-says-finances-around-ai-buildout-merit-watching-2026-08-05/",
+      "date": "2026-08-05T01:23:32Z"
+    },
+    {
+      "title": "World Bank warns developing countries to embrace AI or be left behind",
+      "description": "[THE STAR] The World Bank on August 4 called on developing countries to embrace artificial intelligence technology tools to deliver better governance outcomes.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/05/world-bank-warns-developing-countries-to-embrace-ai-or-be-left-behind",
+      "date": "2026-08-05T01:00:00Z"
+    },
+    {
+      "title": "Asian tech rally, SK Hynix, Samsung, Advantest",
+      "description": "[CNBC] Asian technology stocks rallied on Wednesday after Wall Street's record-setting session fueled optimism around artificial intelligence and growth stocks.",
+      "url": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
+      "date": "2026-08-05T00:57:15Z"
+    },
+    {
+      "title": "Seoul shares extend gains late Wednesday morning amid Hormuz hopes, easing AI concerns",
+      "description": "[THE KOREA TIMES] Seoul shares extended gains late Wednesday morning as easing concerns over artificial intelligence (AI) profitability and hopes for an interim agre...",
+      "url": "https://www.koreatimes.co.kr/economy/20260805/seoul-shares-extend-gains-late-wednesday-morning-amid-hormuz-hopes-easing-ai-concerns",
+      "date": "2026-08-05T00:21:02Z"
+    },
+    {
+      "title": "Seoul shares open sharply higher amid eased woes over AI, Hormuz deal hopes",
+      "description": "[THE KOREA TIMES] Seoul shares opened sharply higher Wednesday, tracking overnight gains on Wall Street, amid eased woes over artificial intelligence (AI) profitabil...",
+      "url": "https://www.koreatimes.co.kr/economy/20260805/seoul-shares-open-sharply-higher-amid-eased-woes-over-ai-hormuz-deal-hopes",
+      "date": "2026-08-05T00:21:02Z"
+    },
+    {
+      "title": "Kaspersky sounds alarm on shadow AI corporate risk",
+      "description": "[BANGKOK POST] Shadow artificial intelligence (AI) is emerging as one of the fastest-growing cybersecurity threats as employees increasingly use unauthorised generative AI tools outside the oversight of corporate IT departments, exposing sensitive corporate...",
+      "url": "https://www.bangkokpost.com/business/general/3296735/kaspersky-sounds-alarm-on-shadow-ai-corporate-risk",
+      "date": "2026-08-05T00:09:00Z"
+    },
+    {
+      "title": "Elon Musk: SpaceX will dominate AI compute because data centers a trivial problem for rocket scientists",
+      "description": "[EUROPE SAYS] After spending nearly $16 billion on artificial intelligence infrastructure in the second quarter, Elon Musk used SpaceX\u2019s first earnings call as a public",
+      "url": "https://www.europesays.com/3174728/",
+      "date": "2026-08-04T23:58:16Z"
+    },
+    {
+      "title": "What the panic over Gen Z's reading habits gets wrong",
+      "description": "[PHYS.ORG] A trove of recent articles bemoan the collapse in recreational reading among younger Americans, with COVID-related reading declines, artificial intelligence and social media often described as causes.",
+      "url": "https://phys.org/news/2026-08-panic-gen-habits-wrong.html",
+      "date": "2026-08-04T23:40:03Z"
+    },
+    {
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "description": "[TECHCRUNCH] The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "date": "2026-08-04T21:07:26Z"
+    },
+    {
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "description": "[TECHCRUNCH] A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "date": "2026-08-04T20:05:26Z"
+    },
+    {
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "description": "[TECHCRUNCH] Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "date": "2026-08-04T19:48:40Z"
+    },
+    {
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "description": "[TECHCRUNCH] Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "date": "2026-08-04T19:34:34Z"
+    },
+    {
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "date": "2026-08-04T13:58:29Z"
+    },
+    {
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "date": "2026-07-30T15:09:09Z"
+    },
+    {
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "date": "2026-07-28T16:27:42Z"
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "date": "2026-07-27T09:32:20Z"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "date": "2026-07-27T00:00:00Z"
+    },
+    {
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "date": "2026-07-23T00:00:00Z"
+    }
+  ]
 }
