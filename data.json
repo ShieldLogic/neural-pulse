@@ -1,137 +1,111 @@
 {
-  "updated": "2026-08-06 10:33:59 UTC",
-  "news": [
-    {
-      "title": "AI Linked to 55% of Cybercrime Cases in Africa, Interpol Report Says",
-      "description": "[NATURAL NEWS] Interpol said Monday that artificial intelligence featured in 55% of cybercrime cases examined across Africa in 2025, according to the African Cyberthreat Assessment Report 2026. The report, based on intelligence from law enforcement agencies in 36...",
-      "url": "https://www.naturalnews.com/2026-08-05-ai-linked-cybercrime-cases-africa-interpol-report.html",
-      "date": "2026-08-05T22:17:44Z"
-    },
-    {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "description": "[TECHCRUNCH] Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "date": "2026-08-05T21:21:28Z"
-    },
-    {
-      "title": "Amazon\u2019s AI Story Is Bigger Than You Think. Here Are 3 Reasons Why.",
-      "description": "[BARCHART] Artificial intelligence is driving growth in more than one corner of Amazon's sprawling business.",
-      "url": "https://www.barchart.com/story/news/3675334/amazons-ai-story-is-bigger-than-you-think-here-are-3-reasons-why",
-      "date": "2026-08-05T21:00:18Z"
-    },
-    {
-      "title": "I gave a local LLM control of my entire homelab, and nothing ever touched the cloud",
-      "description": "[XDA DEVELOPERS] And everything still worked fine.",
-      "url": "https://www.xda-developers.com/gave-local-llm-control-homelab-nothing-touched-cloud/",
-      "date": "2026-08-05T21:00:10Z"
-    },
-    {
-      "title": "Journalism Rooted In Empathy, Not AI, Say Experts At National Seminar In Odisha",
-      "description": "[DECCAN CHRONICLE] Speaking on the opportunities and challenges posed by Artificial Intelligence, Ajaya Kumar Sahu said AI offers enormous possibilities for improving newsroom efficiency, data analysis and content production.",
-      "url": "https://www.deccanchronicle.com/nation/journalism-rooted-in-empathy-not-ai-say-experts-at-national-seminar-in-odisha-1976959",
-      "date": "2026-08-05T20:46:50Z"
-    },
-    {
-      "title": "US stocks hold near records on hopes of an agreement with Iran",
-      "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Stocks held close to their records on Wall Street, while oil prices held steady. The S&P 500 slipped 0.2% Wednesday from the all-time high it set a day earlier. The Dow Jones Industrial Average rose 0.5%, and the Nasdaq composite lost 0.8%. SpaceX...",
-      "url": "https://www.ajc.com/news/2026/08/stocks-hover-near-record-highs-and-oil-prices-stabilize-with-talk-of-a-deal-to-open-strait-of-hormuz/",
-      "date": "2026-08-05T20:11:15Z"
-    },
-    {
-      "title": "Federal regulators invite industry, lobbyists to closed-door meetings on clinical AI",
-      "description": "[STAT] Federal health officials invited tech companies and lobbyists to closed-door meetings as they to seek to boost adoption of artificial intelligence in health care.",
-      "url": "https://www.statnews.com/2026/08/05/fedeal-regulators-invite-industry-closed-door-meetings-clinical-ai/",
-      "date": "2026-08-05T20:05:08Z"
-    },
-    {
-      "title": "Klaviyo acquires Elias Torres\u2019 Agency in full-circle reunion for tech founders",
-      "description": "[TECHCRUNCH] The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-      "date": "2026-08-05T20:05:00Z"
-    },
-    {
-      "title": "Reddit expands test of moderation tools",
-      "description": "[SOCIAL MEDIA TODAY] The app is letting more subreddit managers use its artificial intelligence-powered Rules Hub while also restricting platform access to users who don\u2019t log in.",
-      "url": "https://www.socialmediatoday.com/news/reddit-expands-test-of-moderation-tools/827171/",
-      "date": "2026-08-05T19:31:07Z"
-    },
-    {
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "description": "[TECHCRUNCH] The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "date": "2026-08-05T19:30:19Z"
-    },
-    {
-      "title": "Can the apps stop AI slop?",
-      "description": "[SOCIAL MEDIA TODAY] Social platforms have been overwhelmed by artificial intelligence-generated content, but companies encourage AI use even as they try to stem the tide.",
-      "url": "https://www.socialmediatoday.com/news/can-the-apps-stop-ai-slop/827170/",
-      "date": "2026-08-05T19:08:24Z"
-    },
-    {
-      "title": "Anthropic Joins OpenAI, Google in AI Chip Race as Compute Crunch Deepens",
-      "description": "[BENZINGA] Anthropic is building an internal chip-design team to develop custom processors for its Claude artificial intelligence models.",
-      "url": "https://www.benzinga.com/markets/private-markets/26/08/60965596/anthropic-joins-openai-google-in-ai-chip-race-as-compute-crunch-deepens",
-      "date": "2026-08-05T19:01:51Z"
-    },
-    {
-      "title": "Telangana has a new number for emergencies: How AI",
-      "description": "[CNBC TV18] Telangana Police has launched an AI-powered Dial 112 emergency response system that uses artificial intelligence to speed up police, fire, ambulance and disaster response across the state.",
-      "url": "https://www.cnbctv18.com/india/telangana-new-emergency-number-ai-powered-dial-112-how-it-works-19962730.htm",
-      "date": "2026-08-05T19:00:19Z"
-    },
-    {
-      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-      "description": "[TECHCRUNCH] Shopify says AI isn\u2019t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
-      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-      "date": "2026-08-05T15:56:14Z"
-    },
-    {
-      "title": "Hark previews its browser use agent for completing tasks",
-      "description": "[TECHCRUNCH] Hark claims that its browser use agent is faster and cheaper than competition.",
-      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-      "date": "2026-08-05T15:46:27Z"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026\u2019s Real World AI Stage features robots, automated factories, and extinct animals",
-      "description": "[TECHCRUNCH] On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two.",
-      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-      "date": "2026-08-05T15:05:00Z"
-    },
-    {
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "date": "2026-08-04T13:58:29Z"
-    },
-    {
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "date": "2026-07-30T15:09:09Z"
-    },
-    {
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "date": "2026-07-28T16:27:42Z"
-    },
-    {
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "date": "2026-07-27T09:32:20Z"
-    },
-    {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "date": "2026-07-27T00:00:00Z"
-    },
-    {
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "date": "2026-07-23T00:00:00Z"
-    }
-  ]
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-08-06 13:09 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Dan Goodin, Ars Technica",
+            "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+            "description": "\u201cContext bombing\u201d tricks malicious AI agents into shutting down before they can do harm.",
+            "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+            "urlToImage": "https://media.wired.com/photos/6a5a6798d35982f3197419e9/191:100/w_1280,c_limit/Security_AIInjection_v1.jpg",
+            "publishedAt": "2026-07-18T09:00:00Z",
+            "content": "Prompt injections, the malicious commands attackers embed into content to entice large language models to follow them, have been attackers go-to tool for turning AI platforms against their users. A w\u2026 [+3286 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "Choose Your Fighter: Nvidia CEO and Jim Cramer Offer Dueling Visions of AI\u2019s Future",
+            "description": "Watch out for the Cramer curse.",
+            "url": "https://gizmodo.com/choose-your-fighter-nvidia-ceo-and-jim-cramer-offer-dueling-visions-of-ais-future-2000789294",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/jim-cramer-vs-jensen-nvidia-1200x675.jpg",
+            "publishedAt": "2026-07-22T19:25:33Z",
+            "content": "The release of a powerful open-source AI model from China has once again split the tech industry into two camps: the evangelists who believe good tech should be accessible and the protectionist hawks\u2026 [+3457 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Dario Amodei Says He\u2019s Not Against Open Models, He\u2019s Against Selling Chips to China",
+            "description": "Anthropic's stance is unlikely to fly with strategic partner Nvidia.",
+            "url": "https://gizmodo.com/dario-amodei-says-hes-not-against-open-models-hes-against-selling-chips-to-china-2000791895",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2261856915-1200x675.jpg",
+            "publishedAt": "2026-07-28T20:50:58Z",
+            "content": "The American AI industry is split over open models. Those in the industry who say they are all for open AI development have started blaming frontier AI model providers, especially Anthropic, for push\u2026 [+6447 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "Nvidia, Microsoft launch open AI security alliance \u2013 without OpenAI, Google, or Anthropic",
+            "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-07-27T12:06:22Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "When It Comes to Energy Use, AI Agents Could Make Chatbots Look Like Pocket Calculators",
+            "description": "All to make a bot respond to your emails for you.",
+            "url": "https://gizmodo.com/when-it-comes-to-energy-use-ai-agents-could-make-chatbots-look-like-pocket-calculators-2000781774",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/smokestacks-1200x675.png",
+            "publishedAt": "2026-07-06T19:25:59Z",
+            "content": "Much has been made of the emergence of generative AI and its strain on the electrical grid due to the energy demand. So just wait until you see how much energy agentic AI consumes. A new research pap\u2026 [+2636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "Nvidia\u2019s CEO Wants to Support Open AI Models So Bad, He Was Willing to Join the X Cesspool",
+            "description": "There's gotta be a better way.",
+            "url": "https://gizmodo.com/nvidias-ceo-wants-to-support-open-ai-models-so-bad-he-was-willing-to-join-the-x-cesspool-2000790388",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/jensen_huang_onblack-1200x675.jpg",
+            "publishedAt": "2026-07-24T18:25:22Z",
+            "content": "Open-source AI models from China are once again causing a crisis in America, leading to accusations of stolen training data and threats of closing the border to foreign-origin tech. With tensions hig\u2026 [+3229 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Bruce Gil",
+            "title": "Meta\u2019s Oversight Board Finds Top AI Models Are Hesitant to Criticize Repressive Governments",
+            "description": "The Oversight Board is trying to branch out and see other people.",
+            "url": "https://gizmodo.com/metas-oversight-board-finds-top-ai-models-are-hesitant-to-criticize-repressive-governments-2000786689",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/trump-and-MBS-1200x675.jpg",
+            "publishedAt": "2026-07-17T14:10:37Z",
+            "content": "Major AI models are less likely to criticize governments and leaders known for restricting political speech than those in countries with stronger free-speech protections, according to a new review fr\u2026 [+3459 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "\u2018Not healthy\u2019 LLM use is more common than you think",
+            "description": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to wr\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&strip=all&crop=0%2C10.754336667151%2C100%2C78.491326665699&w=1200",
+            "publishedAt": "2026-08-04T17:33:46Z",
+            "content": "<ul><li></li><li></li></ul>\r\nIts not just Hank Green.\r\nby\r\nRobert HartClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee All by Robert H\u2026 [+4818 chars]"
+        }
+    ]
 }
