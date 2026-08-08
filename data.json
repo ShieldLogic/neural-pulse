@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-07 22:29:53 UTC",
+  "updated": "2026-08-08 01:15:01 UTC",
   "news": [
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "description": "[TECHCRUNCH] OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "date": "2026-08-07T22:48:24Z"
+    },
     {
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
       "description": "[TECHCRUNCH] After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
@@ -32,76 +38,70 @@
       "date": "2026-08-07T14:00:00Z"
     },
     {
+      "title": "What is the impact of artificial intelligence on recruitment?",
+      "description": "[SILICONREPUBLIC.COM] IT Search's David Shanahan explores the impact of AI on recruitment and explains how employers, recruiters and applicants can better use it.",
+      "url": "https://www.siliconrepublic.com/careers/impact-artificial-intelligence-recruitment-ai-working-life-skills-cv",
+      "date": "2026-08-07T13:00:24Z"
+    },
+    {
+      "title": "Why Google DeepMind broke up the AlphaFold team",
+      "description": "[SCIENTIFIC AMERICAN] The artificial intelligence system largely accomplished the task it was built to solve, and researchers outside DeepMind have already been carrying its work forward",
+      "url": "https://www.scientificamerican.com/article/why-google-deepmind-broke-up-the-alphafold-team/",
+      "date": "2026-08-07T13:00:00Z"
+    },
+    {
+      "title": "Daft Punk\u2019s Thomas Bangalter might be a robot, but even he\u2019s not interested in AI music.",
+      "description": "[THE VERGE] He\u2019s continuing his post-helmet media whirlwind and stopped by the Chanel Connects podcast, where the topic briefly turned toward AI. \u201cI\u2019m not really interested in the creative usage of artificial intelligence,\u201d he says, noting that part of the...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976621/daft-punks-thomas-bangalter-might-be-a-robot-but-even-hes-not-interested-in-ai-music",
+      "date": "2026-08-07T12:47:30Z"
+    },
+    {
+      "title": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+      "description": "[WTOP] NEW YORK (AP) \u2014 Some U.S. adults are using artificial intelligence for financial guidance, but it\u2019s far from the most trusted source of advice\u2026",
+      "url": "https://wtop.com/lifestyle/2026/08/some-us-adults-are-using-ai-for-financial-guidance-but-few-trust-it-gallup-poll-finds/",
+      "date": "2026-08-07T12:32:26Z"
+    },
+    {
+      "title": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+      "description": "[BARCHART] U.S. adults are using artificial intelligence for financial guidance, but it\u2019s far from the most trusted source of advice",
+      "url": "https://www.barchart.com/story/news/3718144/some-us-adults-are-using-ai-for-financial-guidance-but-few-trust-it-gallup-poll-finds",
+      "date": "2026-08-07T12:30:19Z"
+    },
+    {
+      "title": "Gallup poll finds some US adults using AI for financial advice but few trust it",
+      "description": "[THE ASSOCIATED PRESS] U.S. adults are using artificial intelligence for financial guidance, but it\u2019s far from the most trusted source of advice.",
+      "url": "https://apnews.com/article/artificial-intelligence-financial-planning-money-7b77e31b127d83dd22c11161ffaddff2",
+      "date": "2026-08-07T12:30:19Z"
+    },
+    {
+      "title": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+      "description": "[WDIV CLICKONDETROIT] U.S. adults are using artificial intelligence for financial guidance, but it\u2019s far from the most trusted source of advice.",
+      "url": "https://www.clickondetroit.com/business/2026/08/07/some-us-adults-are-using-ai-for-financial-guidance-but-few-trust-it-gallup-poll-finds/",
+      "date": "2026-08-07T12:30:18Z"
+    },
+    {
+      "title": "SK hynix commits USD 39.42 billion to expand AI memory chip fabs",
+      "description": "[THE TRIBUNE] South Korean semiconductor manufacturer SK hynix Inc. has decided to invest approximately 54 trillion won (USD 39.42 billion) to construct new fabrication plants in Yongin and Cheongju to meet expanding memory demand driven by artificial...",
+      "url": "https://www.tribuneindia.com/news/business/sk-hynix-commits-usd-39-42-billion-to-expand-ai-memory-chip-fabs/",
+      "date": "2026-08-07T12:08:23Z"
+    },
+    {
+      "title": "SK hynix commits USD 39.42 billion to expand AI memory chip fabs",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] South Korean semiconductor manufacturer SK hynix Inc. has decided to invest approximately 54 trillion won (USD 39.42 billion) to construct new fabrication plants in Yongin and Cheongju to meet expanding memory demand driven by artificial...",
+      "url": "https://www.aninews.in/news/business/sk-hynix-commits-usd-3942-billion-to-expand-ai-memory-chip-fabs20260807173745/",
+      "date": "2026-08-07T12:07:45Z"
+    },
+    {
+      "title": "Scientists create first AI-designed viruses to fight drug-resistant superbugs",
+      "description": "[EURONEWS] Researchers in the United States have used artificial intelligence to create viruses, opening pathways for new drug development and raising biosecurity fears.",
+      "url": "https://www.euronews.com/health/2026/08/07/scientists-create-first-ai-designed-viruses-to-fight-drug-resistant-superbugs",
+      "date": "2026-08-07T12:04:52Z"
+    },
+    {
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
       "description": "[TECHCRUNCH] Meta's total fine has racked up to $942 million in this case.",
       "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
       "date": "2026-08-07T11:40:37Z"
-    },
-    {
-      "title": "Chitkara University Hosted the AIKosh University Engagement Programme Under IndiaAI Mission, 250 CSE",
-      "description": "[THE TRIBUNE] Chandigarh [India], August 7: Chitkara University, Rajpura, Punjab, has hosted in the AIKosh University Engagement Programme (UEP) under the Government of India's ambitious IndiaAI Mission. The initiative marks a significant step towards...",
-      "url": "https://www.tribuneindia.com/news/business/chitkara-university-hosted-the-aikosh-university-engagement-programme-under-indiaai-mission-250-cse-ai-students-participated/",
-      "date": "2026-08-07T10:29:06Z"
-    },
-    {
-      "title": "AI designs 16 novel viruses never seen in nature: Scientific breakthrough or bio threat?",
-      "description": "[THE NEWS INTERNATIONAL] Artificial intelligence has designed 16 novel viruses never seen in nature before in a recent breakthrough. According to the US researchers, the brand new viruses are fully functional and can...",
-      "url": "https://www.thenews.com.pk/latest/1411519-ai-designs-16-novel-viruses-never-seen-in-nature-scientific-breakthrough-or-bio-threat",
-      "date": "2026-08-07T10:28:00Z"
-    },
-    {
-      "title": "Chitkara University Hosted the AIKosh University Engagement Programme Under IndiaAI Mission, 250 CSE-AI Students Participated",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Chandigarh [India], August 7: Chitkara University, Rajpura, Punjab, has hosted in the AIKosh University Engagement Programme (UEP) under the Government of India's ambitious IndiaAI Mission. The initiative marks a significant step towards...",
-      "url": "https://www.aninews.in/news/business/chitkara-university-hosted-the-aikosh-university-engagement-programme-under-indiaai-mission-250-cse-ai-students-participated20260807155424/",
-      "date": "2026-08-07T10:24:24Z"
-    },
-    {
-      "title": "Who Is Liable When AI Goes Rogue? Legal Risks Grow Over Autonomous AI",
-      "description": "[MODERN DIPLOMACY] Artificial intelligence is rapidly evolving beyond simple chatbots into autonomous systems capable of making decisions and carrying out complex tasks with minimal human oversight.",
-      "url": "https://moderndiplomacy.eu/2026/08/07/who-is-liable-when-ai-goes-rogue-legal-risks-grow-over-autonomous-ai/",
-      "date": "2026-08-07T10:21:12Z"
-    },
-    {
-      "title": "Panic as AI creates never-before-seen viruses - risk of \u2018serious harm\u2019",
-      "description": "[DAILY EXPRESS] Artificial intelligence has been used to design brand-new viruses for the first time, sparking 'urgent biosafety' warnings.",
-      "url": "https://www.express.co.uk/news/uk/2236934/panic-ai-viruses-serious-harm",
-      "date": "2026-08-07T10:09:00Z"
-    },
-    {
-      "title": "Who is liable when AI goes rogue? Lawyers see new risks",
-      "description": "[REUTERS] Major artificial intelligence developers have reported cases of their autonomous AI models breaching other companies' cyber infrastructure, raising questions about who may be held legally responsible when AI systems act without direct human...",
-      "url": "https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07/",
-      "date": "2026-08-07T10:07:25Z"
-    },
-    {
-      "title": "EXPLAINER-Who is liable when AI goes rogue? Lawyers see new risks",
-      "description": "[DEVDISCOURSE] Artificial intelligence developers are grappling with the legal implications of autonomous AI breaches, raising questions about liability when AI systems act independently without direct human oversight.",
-      "url": "https://www.devdiscourse.com/article/technology/3961063-explainer-who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks",
-      "date": "2026-08-07T10:00:59Z"
-    },
-    {
-      "title": "Bird\u2019s Eye Zones: The Technology That Revolutionized Radar-Based Motion Detection",
-      "description": "[TECHBULLION] The emergence of artificial intelligence has transformed nearly every category of consumer electronics.",
-      "url": "https://techbullion.com/birds-eye-zones-the-technology-that-revolutionized-radar-based-motion-detection/",
-      "date": "2026-08-07T09:55:41Z"
-    },
-    {
-      "title": "Ixigo shares fall up to 15% amid miss on Q1 margins",
-      "description": "[MONEYCONTROL] In the June quarter, Ixigo stepped up its long-term strategic initiatives across artificial intelligence (AI), hotels, B2B distribution and ecosystem expansion.",
-      "url": "https://www.moneycontrol.com/news/business/markets/ixigo-shares-fall-up-to-15-amid-miss-on-q1-margins-13997822.html",
-      "date": "2026-08-07T09:49:44Z"
-    },
-    {
-      "title": "Praruh Technologies signs exclusive AI partnership with WizeVerse",
-      "description": "[SCANX.TRADE] Praruh Technologies Ltd has entered an exclusive business agreement with WizeVerse AI Private Limited to market enterprise AI solutions including Agentic AI and LLMs. The partnership enhances Praruh's technology ecosystem but includes no assured...",
-      "url": "https://scanx.trade/stock-market-news/companies/praruh-technologies-signs-exclusive-ai-partnership-with-wizeverse/47641019",
-      "date": "2026-08-07T09:37:13Z"
-    },
-    {
-      "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
-      "description": "[TECHCRUNCH] Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "date": "2026-08-06T22:43:53Z"
     },
     {
       "title": "Baseten on Hugging Face Inference Providers \ud83d\udd25",
