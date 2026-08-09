@@ -1,124 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-08-09 11:55 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Dan Goodin, Ars Technica",
-            "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-            "description": "\u201cContext bombing\u201d tricks malicious AI agents into shutting down before they can do harm.",
-            "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-            "urlToImage": "https://media.wired.com/photos/6a5a6798d35982f3197419e9/191:100/w_1280,c_limit/Security_AIInjection_v1.jpg",
-            "publishedAt": "2026-07-18T09:00:00Z",
-            "content": "Prompt injections, the malicious commands attackers embed into content to entice large language models to follow them, have been attackers go-to tool for turning AI platforms against their users. A w\u2026 [+3286 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Choose Your Fighter: Nvidia CEO and Jim Cramer Offer Dueling Visions of AI\u2019s Future",
-            "description": "Watch out for the Cramer curse.",
-            "url": "https://gizmodo.com/choose-your-fighter-nvidia-ceo-and-jim-cramer-offer-dueling-visions-of-ais-future-2000789294",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/jim-cramer-vs-jensen-nvidia-1200x675.jpg",
-            "publishedAt": "2026-07-22T19:25:33Z",
-            "content": "The release of a powerful open-source AI model from China has once again split the tech industry into two camps: the evangelists who believe good tech should be accessible and the protectionist hawks\u2026 [+3457 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Dario Amodei Says He\u2019s Not Against Open Models, He\u2019s Against Selling Chips to China",
-            "description": "Anthropic's stance is unlikely to fly with strategic partner Nvidia.",
-            "url": "https://gizmodo.com/dario-amodei-says-hes-not-against-open-models-hes-against-selling-chips-to-china-2000791895",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2261856915-1200x675.jpg",
-            "publishedAt": "2026-07-28T20:50:58Z",
-            "content": "The American AI industry is split over open models. Those in the industry who say they are all for open AI development have started blaming frontier AI model providers, especially Anthropic, for push\u2026 [+6447 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Nvidia, Microsoft launch open AI security alliance \u2013 without OpenAI, Google, or Anthropic",
-            "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T12:06:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Nvidia\u2019s CEO Wants to Support Open AI Models So Bad, He Was Willing to Join the X Cesspool",
-            "description": "There's gotta be a better way.",
-            "url": "https://gizmodo.com/nvidias-ceo-wants-to-support-open-ai-models-so-bad-he-was-willing-to-join-the-x-cesspool-2000790388",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/jensen_huang_onblack-1200x675.jpg",
-            "publishedAt": "2026-07-24T18:25:22Z",
-            "content": "Open-source AI models from China are once again causing a crisis in America, leading to accusations of stolen training data and threats of closing the border to foreign-origin tech. With tensions hig\u2026 [+3229 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Meta\u2019s Oversight Board Finds Top AI Models Are Hesitant to Criticize Repressive Governments",
-            "description": "The Oversight Board is trying to branch out and see other people.",
-            "url": "https://gizmodo.com/metas-oversight-board-finds-top-ai-models-are-hesitant-to-criticize-repressive-governments-2000786689",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/trump-and-MBS-1200x675.jpg",
-            "publishedAt": "2026-07-17T14:10:37Z",
-            "content": "Major AI models are less likely to criticize governments and leaders known for restricting political speech than those in countries with stronger free-speech protections, according to a new review fr\u2026 [+3459 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "\u2018Not healthy\u2019 LLM use is more common than you think",
-            "description": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to wr\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&strip=all&crop=0%2C10.754336667151%2C100%2C78.491326665699&w=1200",
-            "publishedAt": "2026-08-04T17:33:46Z",
-            "content": "<ul><li></li><li></li></ul>\r\nIts not just Hank Green.\r\nby\r\nRobert HartClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee All by Robert H\u2026 [+4818 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "DeepSeek\u2019s Normally Boring CEO Is Reportedly Spiraling After Supposed Leak",
-            "description": "Warning: What passes for spilling the tea in the AI world is incredibly boring to most people.",
-            "url": "https://gizmodo.com/deepseeks-normally-boring-ceo-is-reportedly-spiraling-after-supposed-leak-2000790888",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/deepseek-1200x675.jpg",
-            "publishedAt": "2026-07-25T22:08:30Z",
-            "content": "A planned funding round at Hangzhou, China-based hedge fund and unexpected AI juggernaut DeepSeek has probably been cancelled. According to a very delicately worded Bloomberg report, this comes just \u2026 [+3346 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "China delivers a one-two punch to America\u2019s AI dominance",
-            "description": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286623351.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-20T10:16:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWithin days, Moonshot and Alibaba unveiled frontier models they claim rival OpenAI and Anthropic. \r\nWithin days, Moonshot and Alibaba unveiled frontier models th\u2026 [+4914 chars]"
-        }
-    ]
+  "updated": "2026-08-09 12:42:12 UTC",
+  "news": [
+    {
+      "title": "IDF, Shin Bet acknowledge for first time special mission to hunt down and kill all Oct. 7 terrorists",
+      "description": "[THE TIMES OF ISRAEL] Officers in 'Nili' unit say facial recognition, artificial intelligence, detainee interrogations, humint being used in operation to track down every participant in Hamas-led October 7, 2023 invasion, massacre, abductions",
+      "url": "https://www.timesofisrael.com/idf-shin-bet-acknowledge-for-first-time-special-mission-to-hunt-down-and-kill-all-oct-7-terrorists/",
+      "date": "2026-08-08T21:26:35Z"
+    },
+    {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "description": "[TECHCRUNCH] As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "date": "2026-08-08T21:24:02Z"
+    },
+    {
+      "title": "Can Clarivate\u2019s (CLVT) Agentic AI Push Deepen Its Moat Or Signal A Riskier Shift?",
+      "description": "[EUROPE SAYS] Clarivate Plc recently expanded agentic AI capabilities across its Cortellis portfolio, embedding natural language and multi\u2011agent tools into life sciences",
+      "url": "https://www.europesays.com/3182967/",
+      "date": "2026-08-08T20:18:48Z"
+    },
+    {
+      "title": "ELDER: AI cannot give writers something to say",
+      "description": "[TORONTO SUN] That's one reason the rise of artificial intelligence doesn't worry me nearly as much as it worries some people. Read on.",
+      "url": "https://torontosun.com/opinion/columnists/ai-cannot-give-writers-something-to-say",
+      "date": "2026-08-08T20:00:18Z"
+    },
+    {
+      "title": "Medina County fair warns of AI app spreading false info",
+      "description": "[AKRON BEACON JOURNAL] Medina County officials say an artificial intelligence-based app is spreading false information about the Medina County Fairgrounds.",
+      "url": "https://www.beaconjournal.com/story/news/local/2026/08/08/medina-county-fair-warns-of-ai-app-spreading-false-info/91228455007/",
+      "date": "2026-08-08T19:53:51Z"
+    },
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "description": "[TECHCRUNCH] NextSlide says its team members are now working on ChatGPT.",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "date": "2026-08-08T19:41:13Z"
+    },
+    {
+      "title": "OpenAI to pause some work on AI model Astra due to security concerns",
+      "description": "[EUROPE SAYS] OpenAI will pause some work on an artificial intelligence model because of security concerns, the company stated Friday, following a series of incidents in",
+      "url": "https://www.europesays.com/3182788/",
+      "date": "2026-08-08T18:21:16Z"
+    },
+    {
+      "title": "Cyberattacks drive companies to hire specialised security talent in AI, cloud & threat intelligence",
+      "description": "[THE ECONOMIC TIMES] In response to the increasing complexity of cyber threats, companies are ramping up their recruitment efforts in cybersecurity. There is a heightened focus on acquiring specialized skills in cloud security and artificial intelligence, reflecting the...",
+      "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/cyberattacks-drive-companies-to-hire-specialised-security-talent-in-ai-cloud-threat-intelligence/articleshow/133057878.cms",
+      "date": "2026-08-08T18:11:00Z"
+    },
+    {
+      "title": "Big Sky coaches, players move forward cautiously in age of artificial intelligence",
+      "description": "[SPOKANE SPOKESMAN-REVIEW] A big baseball fan, Tim Plough saw the news last month that Major League Baseball had issued a memo to its teams, warning them, essentially, to use their dugout iPads properly.",
+      "url": "https://www.spokesman.com/stories/2026/aug/08/big-sky-coaches-players-move-forward-cautiously-in/",
+      "date": "2026-08-08T17:25:00Z"
+    },
+    {
+      "title": "Cebu City mayor refutes endorsement of Pax Silica",
+      "description": "[THE MANILA TIMES] CEBU CITY \u2014 Cebu City Mayor Nestor Archival clarified that the city\u2019s push to prepare its workforce for an artificial intelligence (AI)-driven economy does not mean it has endorsed the proposed Pax Silica initiative in New Clark City, Capas, Tarlac.",
+      "url": "https://www.manilatimes.net/2026/08/09/regions/cebu-city-mayor-refutes-endorsement-of-pax-silica/2401422",
+      "date": "2026-08-08T16:08:00Z"
+    },
+    {
+      "title": "Public Relations in the world of AI",
+      "description": "[THE MANILA TIMES] There is a moment every industry eventually reaches, when the tool that was supposed to set you apart becomes the thing everyone owns. For public relations, that moment has arrived quietly in the form of artificial intelligence that can write a...",
+      "url": "https://www.manilatimes.net/2026/08/09/the-sunday-times/filipino-champions/public-relations-in-the-world-of-ai/2401403",
+      "date": "2026-08-08T16:08:00Z"
+    },
+    {
+      "title": "Waiting 26 years 'for this shoe to drop': Musk's AI company joins the fight to strip citizens of their power to sue",
+      "description": "[EUROPE SAYS] Right-leaning legal activists along with Elon Musk \u2019s artificial intelligence company have brought sweeping challenges against a cornerstone of legal",
+      "url": "https://www.europesays.com/3182572/",
+      "date": "2026-08-08T16:06:20Z"
+    },
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "description": "[TECHCRUNCH] OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "date": "2026-08-07T22:48:24Z"
+    },
+    {
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "description": "[TECHCRUNCH] After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "date": "2026-08-07T21:30:11Z"
+    },
+    {
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "date": "2026-08-07T17:53:32Z"
+    },
+    {
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "description": "[TECHCRUNCH] Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "date": "2026-08-07T16:16:09Z"
+    },
+    {
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "description": "[TECHCRUNCH] Airbnb will debut a new AI-powered search experience with a toggle.",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "date": "2026-08-07T14:22:49Z"
+    },
+    {
+      "title": "Baseten on Hugging Face Inference Providers \ud83d\udd25",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/baseten",
+      "date": "2026-08-06T00:00:00Z"
+    },
+    {
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "date": "2026-08-04T13:58:29Z"
+    },
+    {
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "date": "2026-07-30T15:09:09Z"
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "date": "2026-07-27T09:32:20Z"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "date": "2026-07-27T00:00:00Z"
+    }
+  ]
 }
