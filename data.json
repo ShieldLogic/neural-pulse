@@ -1,124 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-08-12 12:09 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Dan Goodin, Ars Technica",
-            "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-            "description": "\u201cContext bombing\u201d tricks malicious AI agents into shutting down before they can do harm.",
-            "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-            "urlToImage": "https://media.wired.com/photos/6a5a6798d35982f3197419e9/191:100/w_1280,c_limit/Security_AIInjection_v1.jpg",
-            "publishedAt": "2026-07-18T09:00:00Z",
-            "content": "Prompt injections, the malicious commands attackers embed into content to entice large language models to follow them, have been attackers go-to tool for turning AI platforms against their users. A w\u2026 [+3286 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Choose Your Fighter: Nvidia CEO and Jim Cramer Offer Dueling Visions of AI\u2019s Future",
-            "description": "Watch out for the Cramer curse.",
-            "url": "https://gizmodo.com/choose-your-fighter-nvidia-ceo-and-jim-cramer-offer-dueling-visions-of-ais-future-2000789294",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/jim-cramer-vs-jensen-nvidia-1200x675.jpg",
-            "publishedAt": "2026-07-22T19:25:33Z",
-            "content": "The release of a powerful open-source AI model from China has once again split the tech industry into two camps: the evangelists who believe good tech should be accessible and the protectionist hawks\u2026 [+3457 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Dario Amodei Says He\u2019s Not Against Open Models, He\u2019s Against Selling Chips to China",
-            "description": "Anthropic's stance is unlikely to fly with strategic partner Nvidia.",
-            "url": "https://gizmodo.com/dario-amodei-says-hes-not-against-open-models-hes-against-selling-chips-to-china-2000791895",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2261856915-1200x675.jpg",
-            "publishedAt": "2026-07-28T20:50:58Z",
-            "content": "The American AI industry is split over open models. Those in the industry who say they are all for open AI development have started blaming frontier AI model providers, especially Anthropic, for push\u2026 [+6447 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Nvidia, Microsoft launch open AI security alliance \u2013 without OpenAI, Google, or Anthropic",
-            "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T12:06:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "AJ Dellinger",
-            "title": "Nvidia\u2019s CEO Wants to Support Open AI Models So Bad, He Was Willing to Join the X Cesspool",
-            "description": "There's gotta be a better way.",
-            "url": "https://gizmodo.com/nvidias-ceo-wants-to-support-open-ai-models-so-bad-he-was-willing-to-join-the-x-cesspool-2000790388",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/jensen_huang_onblack-1200x675.jpg",
-            "publishedAt": "2026-07-24T18:25:22Z",
-            "content": "Open-source AI models from China are once again causing a crisis in America, leading to accusations of stolen training data and threats of closing the border to foreign-origin tech. With tensions hig\u2026 [+3229 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Bruce Gil",
-            "title": "Meta\u2019s Oversight Board Finds Top AI Models Are Hesitant to Criticize Repressive Governments",
-            "description": "The Oversight Board is trying to branch out and see other people.",
-            "url": "https://gizmodo.com/metas-oversight-board-finds-top-ai-models-are-hesitant-to-criticize-repressive-governments-2000786689",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/trump-and-MBS-1200x675.jpg",
-            "publishedAt": "2026-07-17T14:10:37Z",
-            "content": "Major AI models are less likely to criticize governments and leaders known for restricting political speech than those in countries with stronger free-speech protections, according to a new review fr\u2026 [+3459 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "\u2018Not healthy\u2019 LLM use is more common than you think",
-            "description": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to wr\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&strip=all&crop=0%2C10.754336667151%2C100%2C78.491326665699&w=1200",
-            "publishedAt": "2026-08-04T17:33:46Z",
-            "content": "<ul><li></li><li></li></ul>\r\nIts not just Hank Green.\r\nby\r\nRobert HartClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee All by Robert H\u2026 [+4818 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "DeepSeek\u2019s Normally Boring CEO Is Reportedly Spiraling After Supposed Leak",
-            "description": "Warning: What passes for spilling the tea in the AI world is incredibly boring to most people.",
-            "url": "https://gizmodo.com/deepseeks-normally-boring-ceo-is-reportedly-spiraling-after-supposed-leak-2000790888",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/deepseek-1200x675.jpg",
-            "publishedAt": "2026-07-25T22:08:30Z",
-            "content": "A planned funding round at Hangzhou, China-based hedge fund and unexpected AI juggernaut DeepSeek has probably been cancelled. According to a very delicately worded Bloomberg report, this comes just \u2026 [+3346 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "China delivers a one-two punch to America\u2019s AI dominance",
-            "description": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286623351.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-20T10:16:33Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWithin days, Moonshot and Alibaba unveiled frontier models they claim rival OpenAI and Anthropic. \r\nWithin days, Moonshot and Alibaba unveiled frontier models th\u2026 [+4914 chars]"
-        }
-    ]
+  "updated": "2026-08-12 12:58:22 UTC",
+  "news": [
+    {
+      "title": "AI code-testing startup Blacksmith\u2019s valuation jumps almost 10x in less than a year",
+      "description": "[TECHCRUNCH] Blacksmith says revenue has grown more than tenfold over the past year.",
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "date": "2026-08-12T11:00:00Z"
+    },
+    {
+      "title": "World youth unemployment rate rose last year, U.N. agency says",
+      "description": "[THE JAPAN TIMES ] Some of the steepest increases were seen in high-income countries as artificial intelligence begins to change the jobs market.",
+      "url": "https://www.japantimes.co.jp/business/2026/08/12/un-youth-unemployment/",
+      "date": "2026-08-12T00:57:18Z"
+    },
+    {
+      "title": "Artificial intelligence gets smarter in lead",
+      "description": "[EUROPE SAYS] As Spectrum News 1's Jack Arpey has reported, New York state Democrats are urging the state Board of Elections to take legal action against Nassau County",
+      "url": "https://www.europesays.com/3188323/",
+      "date": "2026-08-12T00:10:27Z"
+    },
+    {
+      "title": "Layoffs tied to AI hurt worker productivity - and the reason may surprise managers",
+      "description": "[THE CONVERSATION] For too many companies, the adoption of artificial intelligence has become an AI hunger game that spreads fear rather than engagement.",
+      "url": "https://theconversation.com/layoffs-tied-to-ai-hurt-worker-productivity-and-the-reason-may-surprise-managers-286749",
+      "date": "2026-08-12T00:00:00Z"
+    },
+    {
+      "title": "Commentary: How to Stop Resource Nationalism From Holding AI Minerals Hostage",
+      "description": "[CAIXIN] Commentary: How to Stop Resource Nationalism From Holding AI Minerals Hostage - Legal clauses won\u2019t protect claims to the copper and cobalt needed for the artificial intelligence boom. Instead, multinational miners must rethink how they structure...",
+      "url": "https://www.caixinglobal.com/2026-08-12/commentary-how-to-stop-resource-nationalism-from-holding-ai-minerals-hostage-102473346.html",
+      "date": "2026-08-12T00:00:00Z"
+    },
+    {
+      "title": "His startup\u2019s goal: AI that is trainable and not controlled by a big company",
+      "description": "[THE STAR] A co-founder of xAI is going all in on building open-source artificial intelligence so that \"anyone can control and shape AI for their own needs.\"",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/12/his-startups-goal-ai-that-is-trainable-and-not-controlled-by-a-big-company",
+      "date": "2026-08-12T00:00:00Z"
+    },
+    {
+      "title": "Spotify asks artists to disclose whether they\u2019re humans or AI",
+      "description": "[THE STAR] Spotify Technology SA will soon begin identifying artist profiles created by artificial intelligence with a new \"AI Personas\" label in an effort to bring more transparency to listeners about who's behind the music.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/12/spotify-asks-artists-to-disclose-whether-theyre-humans-or-ai",
+      "date": "2026-08-12T00:00:00Z"
+    },
+    {
+      "title": "33% margin, 5 million patient records: Meet India\u2019s hidden healthcare tech stock",
+      "description": "[THE FINANCIAL EXPRESS] Investors looking to benefit from artificial intelligence in healthcare usually focus on the companies building the models. But hospitals also need the data, software and workflows to make AI useful. That is the niche this company is now targeting...",
+      "url": "https://www.financialexpress.com/market/stock-insights/33-margin-5-million-patient-records-meet-indias-hidden-healthcare-tech-stock/4315571/",
+      "date": "2026-08-12T00:00:00Z"
+    },
+    {
+      "title": "SpaceX could make $500 billion in 2027, Elon Musk says",
+      "description": "[SPACE.COM] SpaceX started out as a launch company, but it has been transitioning into an artificial intelligence outfit \u2014 one that's poised to make huge profits in the coming years, Elon Musk says.",
+      "url": "https://www.space.com/space-exploration/spacex-could-make-usd500-billion-in-2027-elon-musk-says",
+      "date": "2026-08-11T23:42:48Z"
+    },
+    {
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "description": "[TECHCRUNCH] The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "date": "2026-08-11T21:39:11Z"
+    },
+    {
+      "title": "Police say 19 victims identified in AI child sexual abuse image investigation",
+      "description": "[CBC.CA] An investigation led by the Royal Newfoundland Constabulary, looking at complaints involving exploitation material created with the aid of artificial intelligence program or programs, has resulted in nearly 60 charges against a 17-year-old in St....",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/police-say-19-victims-identified-in-ai-child-sexual-abuse-image-investigation-9.7303781",
+      "date": "2026-08-11T21:27:45Z"
+    },
+    {
+      "title": "Global rate rose in 2025, UN says",
+      "description": "[CP24 TORONTO] Global youth unemployment rose last year, the United Nations said Tuesday, with some of the steepest increases seen in high-income countries as artificial intelligence begins to change the jobs market.",
+      "url": "https://www.cp24.com/news/world/2026/08/11/world-youth-unemployment-rate-rose-last-year-un/",
+      "date": "2026-08-11T21:09:46Z"
+    },
+    {
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "description": "[TECHCRUNCH] OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "date": "2026-08-11T19:15:35Z"
+    },
+    {
+      "title": "Google\u2019s Gemini app surges to 1 billion users",
+      "description": "[TECHCRUNCH] Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "date": "2026-08-11T18:49:12Z"
+    },
+    {
+      "title": "Brad Lightcap, OpenAI\u2019s longtime COO, is leaving to \u2018start something new\u2019",
+      "description": "[TECHCRUNCH] One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "date": "2026-08-11T17:41:34Z"
+    },
+    {
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "description": "[TECHCRUNCH] River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "date": "2026-08-11T17:41:22Z"
+    },
+    {
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "date": "2026-08-11T13:37:10Z"
+    },
+    {
+      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+      "description": "[AI-NEWS] Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become Novo...",
+      "url": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "date": "2026-08-11T10:00:00Z"
+    },
+    {
+      "title": "How AI is changing the vulnerability response timeline",
+      "description": "[AI-NEWS] Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus...",
+      "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+      "date": "2026-08-11T07:05:55Z"
+    },
+    {
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "date": "2026-08-10T16:25:36Z"
+    },
+    {
+      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "description": "[AI-NEWS] Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company\u2019s&#160; Superintelligence Labs has released the 30-billion-parameter model\u2019s weights on Hugging Face. Meta says developers can...",
+      "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "date": "2026-08-10T11:02:38Z"
+    },
+    {
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "date": "2026-08-10T10:05:36Z"
+    },
+    {
+      "title": "The limits of physics AI: where Siemens says the human stays in charge",
+      "description": "[AI-NEWS] Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical...",
+      "url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+      "date": "2026-08-10T10:00:00Z"
+    },
+    {
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "date": "2026-08-10T00:00:00Z"
+    },
+    {
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "date": "2026-08-07T17:53:32Z"
+    },
+    {
+      "title": "Stanford Evo 2 AI model generates phages against E. coli",
+      "description": "[AI-NEWS] Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work centres on...",
+      "url": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "date": "2026-08-07T15:05:03Z"
+    },
+    {
+      "title": "How AI Is changing Instagram engagement without replacing the human touch",
+      "description": "[AI-NEWS] Every post you see, every Reel that autoplays, and every \u2018Explore\u2019 page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that\u2019s not a small detail; it&#8217;s the whole algorithm. But here\u2019s the...",
+      "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+      "date": "2026-08-07T14:33:59Z"
+    },
+    {
+      "title": "Baseten on Hugging Face Inference Providers \ud83d\udd25",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/baseten",
+      "date": "2026-08-06T00:00:00Z"
+    }
+  ]
 }
