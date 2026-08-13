@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-13 14:52:31 UTC",
+  "updated": "2026-08-13 16:52:07 UTC",
   "news": [
+    {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "description": "[TECHCRUNCH] Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "date": "2026-08-13T15:30:52Z"
+    },
+    {
+      "title": "Nvidia\u2019s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "description": "[TECHCRUNCH] Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "date": "2026-08-13T15:08:00Z"
+    },
     {
       "title": "Apple in talks to pay publishers to provide Siri with current news: report",
       "description": "[TECHCRUNCH] The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
@@ -8,64 +20,70 @@
       "date": "2026-08-13T14:34:43Z"
     },
     {
+      "title": "Okta targets AI agent token costs with MCP scoping",
+      "description": "[AI-NEWS] Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta calls the...",
+      "url": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+      "date": "2026-08-13T09:22:06Z"
+    },
+    {
+      "title": "Agentic Profiles Could Strengthen AI Governance",
+      "description": "[EUROPE SAYS] Artificial intelligence is moving rapidly from systems that answer questions to agents that can pursue objectives, make decisions and act across digital",
+      "url": "https://www.europesays.com/3190624/",
+      "date": "2026-08-13T04:46:16Z"
+    },
+    {
+      "title": "Malaysia must build home-grown technology and IP to become regional AI hub, says Gobind",
+      "description": "[THE STAR] KUALA LUMPUR: Malaysia must ensure its growing digital infrastructure translates into home-grown technology, intellectual property and high-value jobs if it is to become Asean's digital and artificial intelligence (AI) hub, says Gobind Singh Deo.",
+      "url": "https://www.thestar.com.my/news/nation/2026/08/13/malaysia-must-build-home-grown-technology-and-ip-to-become-regional-ai-hub-says-gobind",
+      "date": "2026-08-13T04:34:00Z"
+    },
+    {
+      "title": "Estonia to open its first AI factory this year",
+      "description": "[EUROPE SAYS] Estonia is to get its first large-scale artificial intelligence computing centre later this year after Nebius, the Nasdaq-listed cloud company, agreed to",
+      "url": "https://www.europesays.com/3190570/",
+      "date": "2026-08-13T04:06:49Z"
+    },
+    {
+      "title": "Anthropic in talks to buy startup Decart AI for $6 billion",
+      "description": "[THE ECONOMIC TIMES] Decart\u2019s software can reduce the cost of training artificial intelligence models by helping chips work more efficiently. That technology could help Anthropic\u2019s existing infrastructure absorb more demand, according to a person familiar with the...",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-in-talks-to-buy-startup-decart-ai-for-6-billion/articleshow/133196950.cms",
+      "date": "2026-08-13T03:39:11Z"
+    },
+    {
+      "title": "Through algorithmic lens: Retracing dawn of modern Korea in Seoul",
+      "description": "[THE KOREA TIMES] Artificial intelligence (AI)-assisted travel often has a goal of finding cheaper flight tickets and affordable accommodation options. Recently, how...",
+      "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260813/through-algorithmic-lens-retracing-dawn-of-modern-korea-in-seoul",
+      "date": "2026-08-13T03:00:04Z"
+    },
+    {
+      "title": "Opinion: \u2018Think of all we love\u2019 - we are at a perilous moment when it comes to artificial intelligence",
+      "description": "[SALT LAKE CITY DESERET NEWS] A group of AI experts are warning we must \u2018pace the frontier\u2019",
+      "url": "https://www.deseret.com/opinion/2026/08/12/ai-open-letter-pace-the-frontier/",
+      "date": "2026-08-13T03:00:01Z"
+    },
+    {
+      "title": "DeepSeek publicises efforts to challenge Anthropic\u2019s Claude Code",
+      "description": "[THE STAR] DeepSeek has set up an official social media account and posted job listings for a new team focused on helping develop artificial intelligence agents that can take on services like Anthropic PBC's popular Claude Code.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/13/deepseek-publicises-efforts-to-challenge-anthropics-claude-code",
+      "date": "2026-08-13T03:00:00Z"
+    },
+    {
+      "title": "Chinese firm tops Micron and Kioxia in shipments of NAND memory chips",
+      "description": "[CNBC] Counterpoint Research looked at the NAND segment of memory chips, which is benefitting along with the larger DRAM segment from artificial intelligence demand.",
+      "url": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
+      "date": "2026-08-13T02:59:50Z"
+    },
+    {
+      "title": "Elon Musk to Spacex employees at townhall: You will effectively be the parents of AI, it will inherit your \u2026",
+      "description": "[TIMES OF INDIA] Tech News News: Elon Musk has reportedly informed SpaceX employees during a recent company town hall that the company plans to train its Grok artificial intelligence .",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-to-spacex-employees-at-townhall-you-will-effectively-be-the-parents-of-ai-it-will-inherit-your-/articleshow/133196525.cms",
+      "date": "2026-08-13T02:59:00Z"
+    },
+    {
       "title": "Irish founders take aim at costly, bad marketing briefs",
       "description": "[THE IRISH TIMES] Artificial intelligence platform helps marketing teams to stop wasting money on misdirected campaigns",
       "url": "https://www.irishtimes.com/business/innovation/2026/08/13/irish-founders-take-aim-at-costly-bad-marketing-briefs/",
       "date": "2026-08-13T02:15:00Z"
-    },
-    {
-      "title": "APEC 2026: Why China Chose Shenzhen to Showcase Its Technology Power",
-      "description": "[MODERN DIPLOMACY] Shenzhen will host the APEC in November 2026, particularly given its reputation as China's Silicon Valley and a global hub for artificial intelligence and embodied intelligence.",
-      "url": "https://moderndiplomacy.eu/2026/08/13/apec-2026-why-china-chose-shenzhen-to-showcase-its-technology-power/",
-      "date": "2026-08-13T02:00:33Z"
-    },
-    {
-      "title": "UK plans safeguards to stop terrorists using AI for bioweapons",
-      "description": "[THE STAR] The UK government is planning to regulate the use of artificial intelligence in gene synthesis as officials become increasingly concerned that a lack of global guardrails could make it easier to use the technology to create biological weapons.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/13/uk-plans-safeguards-to-stop-terrorists-using-ai-for-bioweapons",
-      "date": "2026-08-13T02:00:00Z"
-    },
-    {
-      "title": "A Chinese buy-in for BRICS",
-      "description": "[THE FINANCIAL EXPRESS] The 18th BRICS Summit in New Delhi will focus on AI governance amid global concerns and rapid AI growth. China's initiatives like WAICO position it as a key player in establishing inclusive digital rules for the Global South.",
-      "url": "https://www.financialexpress.com/opinion/a-chinese-buy-in-for-brics/4316726/",
-      "date": "2026-08-13T01:06:25Z"
-    },
-    {
-      "title": "NeoCity\u2019s Lily George found a spot \u2018In the Game\u2019 at EA Sports STEAM camp",
-      "description": "[AROUND OSCEOLA] The more society enters into a digital world, the more it needs classes that teach and jobs that produce coding, the digital DNA, for those programs. Code is at the heart of new units like artificial intelligence, and companies that produce games...",
-      "url": "https://www.aroundosceola.com/sports/neocitys-lily-george-found-spot-game-ea-sports-steam-camp",
-      "date": "2026-08-13T00:00:00Z"
-    },
-    {
-      "title": "Rapid7-Omdia Research Reveals AI Governance Gap as Executive Security Leaders Show 1.6x Greater Concern Than Practitioners",
-      "description": "[ITWIRE] Global study finds AI has become mainstream in security operations, shifting the conversation from adoption to governance and accountability",
-      "url": "https://itwire.com/guest-articles/guest-research/rapid7-omdia-research-reveals-ai-governance-gap-as-executive-security-leaders-show-1-6x-greater-concern-than-practitioners",
-      "date": "2026-08-12T23:46:48Z"
-    },
-    {
-      "title": "Target Appoints Its First-Ever AI Exec as the Retailer Pushes Deeper Into Artificial Intelligence. What It Means for TGT Stock.",
-      "description": "[BARCHART] Target appointed Chandhu Nair as its first chief artificial intelligence officer, effective Aug. 24, as the retailer expands its use of AI across inventory, operations, and customer experience.",
-      "url": "https://www.barchart.com/story/news/3816502/target-appoints-its-first-ever-ai-exec-as-the-retailer-pushes-deeper-into-artificial-intelligence-what-it-means-for-tgt-stock",
-      "date": "2026-08-12T23:30:02Z"
-    },
-    {
-      "title": "AI\u2011designed viruses are a test of whether biosecurity can keep pace",
-      "description": "[PHYS.ORG] Scientists have crossed an important line in biological engineering. In a recent study, researchers used artificial intelligence to design complete sets of genetic instructions for bacteriophages, viruses that infect bacteria. Some of those...",
-      "url": "https://phys.org/news/2026-08-aidesigned-viruses-biosecurity-pace.html",
-      "date": "2026-08-12T23:20:07Z"
-    },
-    {
-      "title": "Mark Cuban Foundation Pilots Adult AI Academy at Dallas College",
-      "description": "[EUROPE SAYS] The Dallas-based Mark Cuban Foundation is launching its first program designed for adult learners with a pilot at Dallas College Aug. 17-21. The Agentic AI",
-      "url": "https://www.europesays.com/3190138/",
-      "date": "2026-08-12T22:58:49Z"
-    },
-    {
-      "title": "Mobilewalla and SPACSphere Acquisition Corp. Announce Filing of Registration Statement on Form S-4 Regarding Proposed Business Combination",
-      "description": "[WALLSTREET ONLINE] 13.08.2026 - Mobilewalla Holdco, Inc. ('Mobilewalla' or the 'Company'), a leading provider of consumer data and vertical agentic AI solutions, and SPACSphere Acquisition Corp. (NASDAQ: SSAC) ('SPACSphere' or \u201cSSAC\u201d), a publicly traded special...",
-      "url": "https://www.wallstreet-online.de/nachricht/21236562-mobilewalla-and-spacsphere-acquisition-corp-announce-filing-of-registration-statement-on-form-s-4-regarding-proposed-business-combination",
-      "date": "2026-08-12T22:30:03Z"
     },
     {
       "title": "Some Claude users are mad that Anthropic\u2019s new watermarks will catch them using it at their jobs, classes",
@@ -86,22 +104,16 @@
       "date": "2026-08-12T18:19:12Z"
     },
     {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "description": "[TECHCRUNCH] At Ai4, three of the world's most respected AI experts \u2014 Geoffrey Hinton, Fei-Fei Li, and Andrew Ng \u2014 debated regulation, open source access, and how America can compete as China advances in Asia.",
-      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "date": "2026-08-12T17:51:00Z"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "description": "[TECHCRUNCH] Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "date": "2026-08-12T17:41:29Z"
-    },
-    {
       "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
       "date": "2026-08-12T16:14:36Z"
+    },
+    {
+      "title": "Google tests AMIE for clinical video consultations",
+      "description": "[AI-NEWS] Google\u2019s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen trained...",
+      "url": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
+      "date": "2026-08-12T14:56:18Z"
     },
     {
       "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
@@ -116,16 +128,40 @@
       "date": "2026-08-11T13:37:10Z"
     },
     {
+      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+      "description": "[AI-NEWS] Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become Novo...",
+      "url": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "date": "2026-08-11T10:00:00Z"
+    },
+    {
+      "title": "How AI is changing the vulnerability response timeline",
+      "description": "[AI-NEWS] Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus...",
+      "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+      "date": "2026-08-11T07:05:55Z"
+    },
+    {
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
       "date": "2026-08-10T16:25:36Z"
     },
     {
+      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "description": "[AI-NEWS] Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company\u2019s&#160; Superintelligence Labs has released the 30-billion-parameter model\u2019s weights on Hugging Face. Meta says developers can...",
+      "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "date": "2026-08-10T11:02:38Z"
+    },
+    {
       "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
       "date": "2026-08-10T10:05:36Z"
+    },
+    {
+      "title": "The limits of physics AI: where Siemens says the human stays in charge",
+      "description": "[AI-NEWS] Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical...",
+      "url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+      "date": "2026-08-10T10:00:00Z"
     },
     {
       "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
