@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 04:30:39 UTC",
+  "updated": "2026-08-16 06:31:41 UTC",
   "news": [
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -12,6 +12,12 @@
       "description": "[TECHCRUNCH] How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
       "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
       "date": "2026-08-15T18:58:39Z"
+    },
+    {
+      "title": "AI Chatbots Spread Through Congress With Little Oversight, Officials Say",
+      "description": "[NATURAL NEWS] Congressional staff in both chambers have been cleared to use commercial artificial intelligence (AI) chatbots \u2013 including OpenAI\u2019s ChatGPT, Microsoft Copilot, Google Gemini and Anthropic\u2019s Claude \u2013 for official work, according to officials and...",
+      "url": "https://www.naturalnews.com/2026-08-15-ai-chatbots-spread-through-congress-little-oversight.html",
+      "date": "2026-08-15T17:00:09Z"
     },
     {
       "title": "SpaceX officially closes its Cursor acquisition",
@@ -74,12 +80,6 @@
       "date": "2026-08-15T13:40:13Z"
     },
     {
-      "title": "Alibaba\u2019s Qwen AI Models Cross 3 Billion Downloads, Surpass Google And Meta In Open-Source AI",
-      "description": "[FREE PRESS JOURNAL] Alibaba\u2019s Qwen family of open AI models has crossed 3 billion downloads globally in six months, surpassing models from Google, Meta and Chinese rivals. With more than 460 open-source models and 300,000 derivatives, Qwen is emerging as a major...",
-      "url": "https://www.freepressjournal.in/business/alibabas-qwen-ai-models-cross-3-billion-downloads-surpass-google-and-meta-in-open-source-ai",
-      "date": "2026-08-15T12:18:01Z"
-    },
-    {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
       "description": "[TECHCRUNCH] Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
       "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
@@ -98,6 +98,18 @@
       "date": "2026-08-14T14:50:11Z"
     },
     {
+      "title": "Samsung health AI models analyse wearable biosignal data",
+      "description": "[AI-NEWS] Samsung Research America\u2019s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. The company...",
+      "url": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+      "date": "2026-08-14T13:30:10Z"
+    },
+    {
+      "title": "Google AI health coach to use Abbott glucose data",
+      "description": "[AI-NEWS] Abbott and Google are linking continuous glucose monitoring data with Google\u2019s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data from...",
+      "url": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+      "date": "2026-08-14T10:00:00Z"
+    },
+    {
       "title": "State of Open Models: Summer 2026 Observations",
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
@@ -108,6 +120,12 @@
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
       "date": "2026-08-13T17:16:04Z"
+    },
+    {
+      "title": "Okta targets AI agent token costs with MCP scoping",
+      "description": "[AI-NEWS] Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta calls the...",
+      "url": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+      "date": "2026-08-13T09:22:06Z"
     },
     {
       "title": "What We Learned by Reproducing 2,200 papers from ICML",
@@ -122,6 +140,12 @@
       "date": "2026-08-12T16:14:36Z"
     },
     {
+      "title": "Google tests AMIE for clinical video consultations",
+      "description": "[AI-NEWS] Google\u2019s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen trained...",
+      "url": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
+      "date": "2026-08-12T14:56:18Z"
+    },
+    {
       "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
@@ -132,6 +156,18 @@
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
       "date": "2026-08-11T13:37:10Z"
+    },
+    {
+      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+      "description": "[AI-NEWS] Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become Novo...",
+      "url": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "date": "2026-08-11T10:00:00Z"
+    },
+    {
+      "title": "How AI is changing the vulnerability response timeline",
+      "description": "[AI-NEWS] Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus...",
+      "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+      "date": "2026-08-11T07:05:55Z"
     }
   ]
 }
