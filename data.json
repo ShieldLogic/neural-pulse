@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 02:54:50 UTC",
+  "updated": "2026-08-17 04:36:10 UTC",
   "news": [
     {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
@@ -18,6 +18,12 @@
       "description": "[TECHCRUNCH] Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
       "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
       "date": "2026-08-16T16:53:51Z"
+    },
+    {
+      "title": "US to tell partners they must pick sides in AI race",
+      "description": "[THE MANILA TIMES] WASHINGTON \u2014 The US is preparing to tell dozens of countries they must pick sides in the artificial intelligence race with China, warning they will be excluded from a US-led AI coalition if they also sign up for Beijing\u2019s competing framework,...",
+      "url": "https://www.manilatimes.net/2026/08/17/business/top-business/us-to-tell-partners-they-must-pick-sides-in-ai-race/2406439",
+      "date": "2026-08-16T16:14:00Z"
     },
     {
       "title": "AI is reshaping retail ops faster than most teams expect",
@@ -74,12 +80,6 @@
       "date": "2026-08-16T10:00:00Z"
     },
     {
-      "title": "AI's New Red Flag: US Dangles Pax Silica At Partners To Sideline China",
-      "description": "[INTERNATIONAL BUSINESS TIMES] In the looming Artificial Intelligence (AI) battle, the US is preparing the groundwork to let its partners know that they can't have pacts with China if they are keen to join the US-led AI coalition.",
-      "url": "https://www.ibtimes.com/ais-new-red-flag-us-dangles-pax-silica-partners-sideline-china-3806460",
-      "date": "2026-08-16T09:45:09Z"
-    },
-    {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "description": "[TECHCRUNCH] The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
       "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
@@ -98,6 +98,18 @@
       "date": "2026-08-15T16:30:00Z"
     },
     {
+      "title": "Samsung health AI models analyse wearable biosignal data",
+      "description": "[AI-NEWS] Samsung Research America\u2019s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. The company...",
+      "url": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+      "date": "2026-08-14T13:30:10Z"
+    },
+    {
+      "title": "Google AI health coach to use Abbott glucose data",
+      "description": "[AI-NEWS] Abbott and Google are linking continuous glucose monitoring data with Google\u2019s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data from...",
+      "url": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+      "date": "2026-08-14T10:00:00Z"
+    },
+    {
       "title": "State of Open Models: Summer 2026 Observations",
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
@@ -108,6 +120,12 @@
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
       "date": "2026-08-13T17:16:04Z"
+    },
+    {
+      "title": "Okta targets AI agent token costs with MCP scoping",
+      "description": "[AI-NEWS] Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta calls the...",
+      "url": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+      "date": "2026-08-13T09:22:06Z"
     },
     {
       "title": "What We Learned by Reproducing 2,200 papers from ICML",
@@ -122,6 +140,12 @@
       "date": "2026-08-12T16:14:36Z"
     },
     {
+      "title": "Google tests AMIE for clinical video consultations",
+      "description": "[AI-NEWS] Google\u2019s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen trained...",
+      "url": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
+      "date": "2026-08-12T14:56:18Z"
+    },
+    {
       "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
@@ -132,6 +156,18 @@
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
       "date": "2026-08-11T13:37:10Z"
+    },
+    {
+      "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+      "description": "[AI-NEWS] Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become Novo...",
+      "url": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+      "date": "2026-08-11T10:00:00Z"
+    },
+    {
+      "title": "How AI is changing the vulnerability response timeline",
+      "description": "[AI-NEWS] Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus...",
+      "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+      "date": "2026-08-11T07:05:55Z"
     }
   ]
 }
