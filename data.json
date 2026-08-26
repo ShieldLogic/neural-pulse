@@ -1,98 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-08-26 11:55 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Dario Amodei Says He\u2019s Not Against Open Models, He\u2019s Against Selling Chips to China",
-            "description": "Anthropic's stance is unlikely to fly with strategic partner Nvidia.",
-            "url": "https://gizmodo.com/dario-amodei-says-hes-not-against-open-models-hes-against-selling-chips-to-china-2000791895",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2261856915-1200x675.jpg",
-            "publishedAt": "2026-07-28T20:50:58Z",
-            "content": "The American AI industry is split over open models. Those in the industry who say they are all for open AI development have started blaming frontier AI model providers, especially Anthropic, for push\u2026 [+6447 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Nvidia, Microsoft launch open AI security alliance \u2013 without OpenAI, Google, or Anthropic",
-            "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-07-27T12:06:22Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "\u2018Not healthy\u2019 LLM use is more common than you think",
-            "description": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to wr\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&strip=all&crop=0%2C10.754336667151%2C100%2C78.491326665699&w=1200",
-            "publishedAt": "2026-08-04T17:33:46Z",
-            "content": "<ul><li></li><li></li></ul>\r\nIts not just Hank Green.\r\nby\r\nRobert HartClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee All by Robert H\u2026 [+4818 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "DeepSeek\u2019s Normally Boring CEO Is Reportedly Spiraling After Supposed Leak",
-            "description": "Warning: What passes for spilling the tea in the AI world is incredibly boring to most people.",
-            "url": "https://gizmodo.com/deepseeks-normally-boring-ceo-is-reportedly-spiraling-after-supposed-leak-2000790888",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/11/deepseek-1200x675.jpg",
-            "publishedAt": "2026-07-25T22:08:30Z",
-            "content": "A planned funding round at Hangzhou, China-based hedge fund and unexpected AI juggernaut DeepSeek has probably been cancelled. According to a very delicately worded Bloomberg report, this comes just \u2026 [+3346 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff, Lauren Goode, Will Knight",
-            "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-            "description": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
-            "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-            "urlToImage": "https://media.wired.com/photos/6a7199c152cbcac31bc249b1/191:100/w_1280,c_limit/Trump-Admin-Convenes-AI-Labs-to-Share-AI-Framework-Business-2282299237.jpg",
-            "publishedAt": "2026-08-04T22:06:07Z",
-            "content": "The Trump administration has finalized a plan to address the cybersecurity risks posed by increasingly capable artificial intelligence models, a White House official confirmed to WIRED. But at least \u2026 [+3676 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff",
-            "title": "Everyone Is Freaking Out About OpenAI and Anthropic\u2019s Race for Dominance",
-            "description": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs\u2019 push into robotics.",
-            "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
-            "urlToImage": "https://media.wired.com/photos/6a6ba84f970c4c92c947f52b/191:100/w_1280,c_limit/Model-Behavior-Anthropic-OpenAI-Business.jpg",
-            "publishedAt": "2026-07-30T20:12:57Z",
-            "content": "I was offline last week in my home state of New Jersey, but when I got back to Silicon Valley, everyone was panicking again about how quickly artificial intelligence is advancing. While this is certa\u2026 [+3715 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff",
-            "title": "The Safety Reckoning Inside OpenAI",
-            "description": "OpenAI\u2019s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
-            "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-            "urlToImage": "https://media.wired.com/photos/6a7d0965c82d9b74df554e1c/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Dangerous-AI-Business.jpg",
-            "publishedAt": "2026-08-13T22:37:19Z",
-            "content": "OpenAIs leaders are rallying workers to respond to one of the largest crises in the companys historywhich spans across its AI safety, cybersecurity, and alignment divisions. The ChatGPT-maker says it\u2026 [+3989 chars]"
-        }
-    ]
+  "updated": "2026-08-26 12:41:59 UTC",
+  "news": [
+    {
+      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "description": "[TECHCRUNCH] The glasses, called Legato Frames, integrate the company\u2019s patented hearing-assistance technology into the arms of eyewear frames.",
+      "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+      "date": "2026-08-26T12:00:00Z"
+    },
+    {
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "description": "[TECHCRUNCH] Runable says 60%\u201370% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "date": "2026-08-26T11:00:00Z"
+    },
+    {
+      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+      "description": "[AI-NEWS] Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with participation from...",
+      "url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+      "date": "2026-08-26T10:00:00Z"
+    },
+    {
+      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+      "description": "[AI-NEWS] NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative AI models...",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+      "date": "2026-08-26T09:08:11Z"
+    },
+    {
+      "title": "India\u2019s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "description": "[TECHCRUNCH] Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "date": "2026-08-26T03:30:00Z"
+    },
+    {
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "description": "[TECHCRUNCH] The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "date": "2026-08-26T00:40:59Z"
+    },
+    {
+      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+      "description": "[TECHCRUNCH] In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "date": "2026-08-26T00:06:20Z"
+    },
+    {
+      "title": "Venture Capital & Startup Funding Roundup, August 25, 2026: Aramco Ventures, ARK Invest, Salesforce Ventures, Samsung Ventures, Siemens & More",
+      "description": "[TECHSTARTUPS.COM] Venure capital\u2019s signal today is not that risk appetite has returned evenly across the startup market. It is that investors are paying aggressively for bottlenecks created by the deployment of artificial intelligence: electricity, model security,...",
+      "url": "https://techstartups.com/2026/08/25/venture-capital-startup-funding-roundup-august-25-2026-aramco-ventures-ark-invest-salesforce-ventures-samsung-ventures-siemens-more/",
+      "date": "2026-08-25T22:17:01Z"
+    },
+    {
+      "title": "Now OpenAI\u2019s former head of data centers is out.",
+      "description": "[THE VERGE] The Wall Street Journal and Bloomberg report that Chris Malone, a \u201ckey executive\u201d leading OpenAI\u2019s massive build-out plans, left the company last week. The WSJ reports that Malone, who held similar roles at Meta and Google before joining OpenAI in...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984747/now-openais-former-head-of-data-centers-is-out",
+      "date": "2026-08-25T21:22:41Z"
+    },
+    {
+      "title": "AI, computational thinking in focus at CBSE regional conference in Ludhiana",
+      "description": "[THE TRIBUNE] More than 350 educators, including 187 principals, from Punjab, Himachal Pradesh and Jammu and Kashmir took part in the CBSE Regional Conference on Computational Thinking (CT) and Artificial Intelligence (AI) organised at Bal Bharati Public School,...",
+      "url": "https://www.tribuneindia.com/news/ludhiana/ai-computational-thinking-in-focus-at-cbse-regional-conference-in-ludhiana/",
+      "date": "2026-08-25T21:00:37Z"
+    },
+    {
+      "title": "Intel Crescent Island GPU Flexes 32 Xe3P Cores, 480GB LPDDR5X For Agentic AI",
+      "description": "[EUROPE SAYS] All together, these changes point toward a processor that is meticulously designed explicitly for AI compute, and indeed, Intel specifically notes that this",
+      "url": "https://www.europesays.com/3215205/",
+      "date": "2026-08-25T19:59:44Z"
+    },
+    {
+      "title": "Google Agentic AI Meets Verified Data For Finance",
+      "description": "[EUROPE SAYS] Dun & Bradstreet (D&B) is bringing its\"Commercial Graph\" into \"Gemini Enterprise for Financial Services\" by Google Cloud via Model Context Protocol",
+      "url": "https://www.europesays.com/3215203/",
+      "date": "2026-08-25T19:57:35Z"
+    },
+    {
+      "title": "Handle AI detection with caution",
+      "description": "[THE TRIBUNE] ARTIFICIAL intelligence (AI) has created a clear authorship problem. Articles, reviews and literary work can now be produced with little human involvement. It is therefore unsurprising that AI-writing detection programmes have become commonplace....",
+      "url": "https://www.tribuneindia.com/news/comment/handle-ai-detection-with-caution/",
+      "date": "2026-08-25T19:36:00Z"
+    },
+    {
+      "title": "Daily on Energy: U.S. building twice as much natural gas for AI as China",
+      "description": "[WASHINGTON EXAMINER] Acloser look at a new report that reveals the U.S. is pulling ahead of China in building natural gas projects that will power artificial intelligence.",
+      "url": "https://www.washingtonexaminer.com/daily-on-energy/4700135/daily-on-energy-us-building-twice-natural-gas-ai-china/",
+      "date": "2026-08-25T19:31:34Z"
+    },
+    {
+      "title": "thirds of the time, and that's worse than always being wrong",
+      "description": "[XDA DEVELOPERS] You can use a cloud LLM to help with your microcontrollers, but it gets kind of weird with the ESP32.",
+      "url": "https://www.xda-developers.com/ai-right-about-esp32-pins-two-thirds-worse-always-wrong/",
+      "date": "2026-08-25T19:31:15Z"
+    },
+    {
+      "title": "Intel Crescent Island GPU Flexes 32 Xe3P Cores, 480GB LPDDR5X For Agentic AI",
+      "description": "[HOT HARDWARE] At Hot Chips 2026, Intel has revealed a few more technical details about the Xe3P architecture and its Crescent Island chip based on it.",
+      "url": "https://hothardware.com/news/intel-crescent-island-hot-chips-2026",
+      "date": "2026-08-25T19:30:00Z"
+    },
+    {
+      "title": "Chinese workers fight back against AI; the meaning of milk in Rwanda",
+      "description": "[NPR] Just like in the United States and elsewhere, workers in China are worried about artificial intelligence taking away their jobs. So they are fighting back. This summer, acourt in the Chinese city of Guangzhou sided with a graphics designer who was...",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944427/chinese-workers-fight-back-against-ai-the-meaning-of-milk-in-rwanda",
+      "date": "2026-08-25T19:21:48Z"
+    },
+    {
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "description": "[TECHCRUNCH] The company's new fundraising total now stands at $232 million.",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "date": "2026-08-25T19:03:47Z"
+    },
+    {
+      "title": "MIT AI forecasts extreme weather without historical data",
+      "description": "[AI-NEWS] MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of events that...",
+      "url": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
+      "date": "2026-08-25T15:46:06Z"
+    },
+    {
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "date": "2026-08-25T15:14:14Z"
+    },
+    {
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "date": "2026-08-25T11:39:24Z"
+    },
+    {
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "date": "2026-08-25T00:00:00Z"
+    },
+    {
+      "title": "XPENG IRON humanoid robot draws record physical AI funding",
+      "description": "[AI-NEWS] XPENG&#8217;s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share...",
+      "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+      "date": "2026-08-24T15:53:53Z"
+    },
+    {
+      "title": "How AI coding tools are contributing to the popularity of JavaScript",
+      "description": "[AI-NEWS] In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub&#8217;s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding AI...",
+      "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+      "date": "2026-08-21T08:41:29Z"
+    },
+    {
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/pwc-search",
+      "date": "2026-08-21T00:00:00Z"
+    },
+    {
+      "title": "Measuring benchmark optimization in speech recognition",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "date": "2026-08-21T00:00:00Z"
+    },
+    {
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "date": "2026-08-20T16:52:57Z"
+    },
+    {
+      "title": "Amazon\u2019s Prime Air autonomous drones to reach 500 US cities",
+      "description": "[AI-NEWS] Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to communities with...",
+      "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+      "date": "2026-08-20T14:05:18Z"
+    }
+  ]
 }
