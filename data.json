@@ -1,85 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-08-29 15:43 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Dario Amodei Says He\u2019s Not Against Open Models, He\u2019s Against Selling Chips to China",
-            "description": "Anthropic's stance is unlikely to fly with strategic partner Nvidia.",
-            "url": "https://gizmodo.com/dario-amodei-says-hes-not-against-open-models-hes-against-selling-chips-to-china-2000791895",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/07/GettyImages-2261856915-1200x675.jpg",
-            "publishedAt": "2026-07-28T20:50:58Z",
-            "content": "The American AI industry is split over open models. Those in the industry who say they are all for open AI development have started blaming frontier AI model providers, especially Anthropic, for push\u2026 [+6447 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "\u2018Not healthy\u2019 LLM use is more common than you think",
-            "description": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to wr\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&strip=all&crop=0%2C10.754336667151%2C100%2C78.491326665699&w=1200",
-            "publishedAt": "2026-08-04T17:33:46Z",
-            "content": "<ul><li></li><li></li></ul>\r\nIts not just Hank Green.\r\nby\r\nRobert HartClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee All by Robert H\u2026 [+4818 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
-            "description": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-27T16:20:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nby\r\nRobert HartClose\r\nPosts from this author \u2026 [+5467 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff, Lauren Goode, Will Knight",
-            "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-            "description": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
-            "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-            "urlToImage": "https://media.wired.com/photos/6a7199c152cbcac31bc249b1/191:100/w_1280,c_limit/Trump-Admin-Convenes-AI-Labs-to-Share-AI-Framework-Business-2282299237.jpg",
-            "publishedAt": "2026-08-04T22:06:07Z",
-            "content": "The Trump administration has finalized a plan to address the cybersecurity risks posed by increasingly capable artificial intelligence models, a White House official confirmed to WIRED. But at least \u2026 [+3676 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "Nvidia Reportedly Stops Flirting With Hugging Face and Just Buys It",
-            "description": "The apparent deal values the company at about $13 billion.",
-            "url": "https://gizmodo.com/nvidia-reportedly-stops-flirting-with-hugging-face-and-just-buys-it-2000803681",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-08-27T03:32:53Z",
-            "content": "I wrote on Monday that rumors were circulating that Hugging Face was looking to be acquired for about $13 billion. Thats exactly what is now happening according to anonymous insiders who spoke to the\u2026 [+1630 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff",
-            "title": "Everyone Is Freaking Out About OpenAI and Anthropic\u2019s Race for Dominance",
-            "description": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs\u2019 push into robotics.",
-            "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
-            "urlToImage": "https://media.wired.com/photos/6a6ba84f970c4c92c947f52b/191:100/w_1280,c_limit/Model-Behavior-Anthropic-OpenAI-Business.jpg",
-            "publishedAt": "2026-07-30T20:12:57Z",
-            "content": "I was offline last week in my home state of New Jersey, but when I got back to Silicon Valley, everyone was panicking again about how quickly artificial intelligence is advancing. While this is certa\u2026 [+3715 chars]"
-        }
-    ]
+  "updated": "2026-08-29 19:07:35 UTC",
+  "news": [
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a \u201cbrazen campaign\u201d of intellectual property theft",
+      "description": "[TECHCRUNCH] This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "date": "2026-08-29T18:41:59Z"
+    },
+    {
+      "title": "\u201cWe\u2019re not doing 30 bets a year\u201d: Vijay Pande on betting small after running $4 billion at a16z",
+      "description": "[TECHCRUNCH] Vijay Pande \u2014 who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC \u2014 talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still...",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "date": "2026-08-29T17:36:47Z"
+    },
+    {
+      "title": "Nvidia\u2019s AI advantage is moving beyond the GPU",
+      "description": "[TECHCRUNCH] The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "date": "2026-08-29T13:00:00Z"
+    },
+    {
+      "title": "\u2018It is definitely NOT \u2018smarter\u2019 than a human\u2019: Why AI hype may be creating risks of its own as people trust it too much at scale",
+      "description": "[INDIATIMES] This article explores the misconceptions surrounding artificial intelligence (AI), the dangers of overestimating AI's capabilities, and the important distinctions between human intelligence and AI functionalities.",
+      "url": "https://www.indiatimes.com/trending/it-is-definitely-not-smarter-than-a-human-why-ai-hype-may-be-creating-risks-of-its-own-as-people-trust-it-too-much-at-scale/articleshow/133604683.html",
+      "date": "2026-08-29T05:24:31Z"
+    },
+    {
+      "title": "Investigation Reveals Coordinated AI Bot Attack on Hugging Face",
+      "description": "[NATURAL NEWS] An investigation conducted by METR and Redwood Research has revealed that approximately 1,200 artificial intelligence (AI) agents coordinated an attack on Hugging Face, a platform that serves as a repository for AI tools, last month. According to...",
+      "url": "https://www.naturalnews.com/2026-08-29-investigation-reveals-coordinated-bot-attack-hugging-face.html",
+      "date": "2026-08-29T04:57:55Z"
+    },
+    {
+      "title": "OpenAI to terminate Cursor model access following SpaceX acquisition",
+      "description": "[DEVDISCOURSE] Artificial intelligence research company OpenAI, on Friday, decided to end its commercial partnership with coding platform Cursor following the platform's acquisition by Elon Musk's aerospace and technology firm SpaceX. Cursor's direct access to...",
+      "url": "https://www.devdiscourse.com/article/business/3969299-openai-to-terminate-cursor-model-access-following-spacex-acquisition",
+      "date": "2026-08-29T04:41:02Z"
+    },
+    {
+      "title": "IndiGo Ventures backs sovereign AI firm Sarvam in Series B funding round",
+      "description": "[DEVDISCOURSE] IndiGo Ventures invested in Sarvam AI as part of the full-stack sovereign artificial intelligence company's Series B round of funding.",
+      "url": "https://www.devdiscourse.com/article/business/3969283-indigo-ventures-backs-sovereign-ai-firm-sarvam-in-series-b-funding-round",
+      "date": "2026-08-29T04:37:01Z"
+    },
+    {
+      "title": "OpenAI to terminate Cursor model access following SpaceX acquisition",
+      "description": "[THE TRIBUNE] Artificial intelligence research company OpenAI, on Friday, decided to end its commercial partnership with coding platform Cursor following the platform's acquisition by Elon Musk's aerospace and technology firm SpaceX. Cursor's direct access to...",
+      "url": "https://www.tribuneindia.com/news/business/openai-to-terminate-cursor-model-access-following-spacex-acquisition/",
+      "date": "2026-08-29T04:33:27Z"
+    },
+    {
+      "title": "OpenAI to terminate Cursor model access following SpaceX acquisition",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Artificial intelligence research company OpenAI, on Friday, decided to end its commercial partnership with coding platform Cursor following the platform's acquisition by Elon Musk's aerospace and technology firm SpaceX. Cursor's direct access to...",
+      "url": "https://www.aninews.in/news/business/openai-to-terminate-cursor-model-access-following-spacex-acquisition20260829100016/",
+      "date": "2026-08-29T04:30:16Z"
+    },
+    {
+      "title": "Small businesses turn to AI for marketing as costs rise",
+      "description": "[EUROPE SAYS] SPRINGFIELD, Mo. (KY3) - More and more small businesses are turning to artificial intelligence to create flyers and social media posts.",
+      "url": "https://www.europesays.com/3221009/",
+      "date": "2026-08-29T04:19:35Z"
+    },
+    {
+      "title": "Different dialogue every time you play: How AI is changing gaming",
+      "description": "[THE STAR] Artificial intelligence (AI) has made its way into gaming \u2013 both in game development, where it is accelerating workflows, and in the playing experience itself.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/29/different-dialogue-every-time-you-play-how-ai-is-changing-gaming",
+      "date": "2026-08-29T04:00:00Z"
+    },
+    {
+      "title": "IndiGo invests in Sarvam AI to boost AI-driven operations and passenger experience",
+      "description": "[LIVEMINT] IndiGo Ventures invested in Sarvam AI as part of the full-stack sovereign artificial intelligence company's Series B round of funding.",
+      "url": "https://www.livemint.com/companies/news/indigo-invests-in-sarvam-ai-to-boost-ai-driven-operations-and-passenger-experience-11787973652513.html",
+      "date": "2026-08-29T03:44:49Z"
+    },
+    {
+      "title": "Micron CEO Sanjay Mehrotra named to 2026 TIME100 AI list",
+      "description": "[THE TRIBUNE] Micron Technology Chairman and Chief Executive Officer Sanjay Mehrotra was named to the 2026 TIME100 AI list, which recognized the 100 most influential people in artificial intelligence.",
+      "url": "https://www.tribuneindia.com/news/business/micron-ceo-sanjay-mehrotra-named-to-2026-time100-ai-list/",
+      "date": "2026-08-29T03:23:41Z"
+    },
+    {
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "description": "[TECHCRUNCH] Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "date": "2026-08-28T20:24:11Z"
+    },
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "description": "[TECHCRUNCH] Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "date": "2026-08-28T19:30:38Z"
+    },
+    {
+      "title": "Open-weight AI companies are the Valley\u2019s hottest acquisition targets",
+      "description": "[TECHCRUNCH] There's a lot of capital pouring into the business of giving models away.",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "date": "2026-08-28T18:19:40Z"
+    },
+    {
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "date": "2026-08-28T00:00:00Z"
+    },
+    {
+      "title": "A quarter of Nvidia\u2019s business next year comes from labs it is financing",
+      "description": "[AI-NEWS] Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company&#8217;s chief financial officer,&#160;told analysts&#160;on August 26 that demand from the...",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+      "date": "2026-08-27T10:00:00Z"
+    },
+    {
+      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+      "description": "[AI-NEWS] Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with participation from...",
+      "url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+      "date": "2026-08-26T10:00:00Z"
+    },
+    {
+      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+      "description": "[AI-NEWS] NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative AI models...",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+      "date": "2026-08-26T09:08:11Z"
+    },
+    {
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "date": "2026-08-26T00:00:00Z"
+    },
+    {
+      "title": "MIT AI forecasts extreme weather without historical data",
+      "description": "[AI-NEWS] MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of events that...",
+      "url": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
+      "date": "2026-08-25T15:46:06Z"
+    },
+    {
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "date": "2026-08-25T15:14:14Z"
+    },
+    {
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "date": "2026-08-25T11:39:24Z"
+    },
+    {
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "date": "2026-08-25T00:00:00Z"
+    },
+    {
+      "title": "XPENG IRON humanoid robot draws record physical AI funding",
+      "description": "[AI-NEWS] XPENG&#8217;s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share...",
+      "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+      "date": "2026-08-24T15:53:53Z"
+    },
+    {
+      "title": "How AI coding tools are contributing to the popularity of JavaScript",
+      "description": "[AI-NEWS] In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub&#8217;s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding AI...",
+      "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+      "date": "2026-08-21T08:41:29Z"
+    },
+    {
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/pwc-search",
+      "date": "2026-08-21T00:00:00Z"
+    }
+  ]
 }
