@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-03 15:07 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "\u2018Not healthy\u2019 LLM use is more common than you think",
-            "description": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to wr\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&strip=all&crop=0%2C10.754336667151%2C100%2C78.491326665699&w=1200",
-            "publishedAt": "2026-08-04T17:33:46Z",
-            "content": "<ul><li></li><li></li></ul>\r\nIts not just Hank Green.\r\nby\r\nRobert HartClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee All by Robert H\u2026 [+4818 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
-            "description": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-27T16:20:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nby\r\nRobert HartClose\r\nPosts from this author \u2026 [+5467 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff, Lauren Goode, Will Knight",
-            "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-            "description": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
-            "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-            "urlToImage": "https://media.wired.com/photos/6a7199c152cbcac31bc249b1/191:100/w_1280,c_limit/Trump-Admin-Convenes-AI-Labs-to-Share-AI-Framework-Business-2282299237.jpg",
-            "publishedAt": "2026-08-04T22:06:07Z",
-            "content": "The Trump administration has finalized a plan to address the cybersecurity risks posed by increasingly capable artificial intelligence models, a White House official confirmed to WIRED. But at least \u2026 [+3676 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "Nvidia Reportedly Stops Flirting With Hugging Face and Just Buys It",
-            "description": "The apparent deal values the company at about $13 billion.",
-            "url": "https://gizmodo.com/nvidia-reportedly-stops-flirting-with-hugging-face-and-just-buys-it-2000803681",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-08-27T03:32:53Z",
-            "content": "I wrote on Monday that rumors were circulating that Hugging Face was looking to be acquired for about $13 billion. Thats exactly what is now happening according to anonymous insiders who spoke to the\u2026 [+1630 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff",
-            "title": "The Safety Reckoning Inside OpenAI",
-            "description": "OpenAI\u2019s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
-            "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-            "urlToImage": "https://media.wired.com/photos/6a7d0965c82d9b74df554e1c/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Dangerous-AI-Business.jpg",
-            "publishedAt": "2026-08-13T22:37:19Z",
-            "content": "OpenAIs leaders are rallying workers to respond to one of the largest crises in the companys historywhich spans across its AI safety, cybersecurity, and alignment divisions. The ChatGPT-maker says it\u2026 [+3989 chars]"
-        }
-    ]
+  "updated": "2026-09-03 19:03:06 UTC",
+  "news": [
+    {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "description": "[TECHCRUNCH] Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "date": "2026-09-03T18:37:57Z"
+    },
+    {
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "description": "[TECHCRUNCH] For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "date": "2026-09-03T18:19:56Z"
+    },
+    {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "description": "[TECHCRUNCH] OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "date": "2026-09-03T18:01:45Z"
+    },
+    {
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "description": "[TECHCRUNCH] The family-focused AI assistant wants access to the details of your everyday life, but says it won\u2019t use that data to train AI models or share it with others.",
+      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "date": "2026-09-03T16:09:01Z"
+    },
+    {
+      "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
+      "description": "[TECHCRUNCH] WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "date": "2026-09-03T15:00:00Z"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "date": "2026-09-03T13:13:48Z"
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "description": "[TECHCRUNCH] Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "date": "2026-09-03T12:42:45Z"
+    },
+    {
+      "title": "Nvidia to spend $13 billion on Hugging Face, which will remain an open source platform",
+      "description": "[BREITBART NEWS NETWORK] Nvidia is buying artificial intelligence software platform Hugging Face for $12.93 billion. Chipmaker Nvidia is buying artificial intelligence software",
+      "url": "https://www.breitbart.com/news/nvidia-to-spend-13-billion-on-hugging-face-which-will-remain-an-open-source-platform/",
+      "date": "2026-09-03T06:49:41Z"
+    },
+    {
+      "title": "From Indore to the U.S. Tech Frontier: The Journey of Mehul Vani in AI, Cloud Infrastructure, and Independent Research",
+      "description": "[NEWSX] In the fast-evolving worlds of artificial intelligence, cloud infrastructure, and distributed systems, some journeys are built quietly \u2014 through discipline, persistence, and a long-term commitment to solving difficult\u2026",
+      "url": "https://www.newsx.com/business/from-indore-to-the-us-tech-frontier-the-journey-of-mehul-vani-in-ai-cloud-infrastructure-and-independent-research-267702/",
+      "date": "2026-09-03T06:47:00Z"
+    },
+    {
+      "title": "\u2018We\u2019re doomed\u2019: French minister warns against relying on Mistral for AI",
+      "description": "[MALAY MAIL] SAN FRANCISCO, Sept 3 \u2014 European sovereignty in artificial intelligence (AI) cannot depend on a single startup like Mistral, France\u2019s Finance Minister Roland Lescure warned on...",
+      "url": "https://www.malaymail.com/news/tech-gadgets/2026/09/03/were-doomed-french-minister-warns-against-relying-on-mistral-for-ai/233729",
+      "date": "2026-09-03T05:49:02Z"
+    },
+    {
+      "title": "Guzzling Hyperscale Data Centers \u2013 NaturalNews.com",
+      "description": "[NATURAL NEWS] The Commerce Secretary\u2019s Dangerous Delusion We are witnessing one of the most breathtaking acts of public deception in modern history, and it centers on the simple claim that artificial intelligence data centers don\u2019t consume water. Commerce...",
+      "url": "https://www.naturalnews.com/2026-09-03-shocking-truth-about-water-guzzling-hyperscale-data-centers.html",
+      "date": "2026-09-03T05:45:00Z"
+    },
+    {
+      "title": "Layer Audit for Contract Data Before You Deploy Agentic AI",
+      "description": "[EUROPE SAYS] Most enterprises audit the model. Almost no one audits the contract data underneath it.",
+      "url": "https://www.europesays.com/3230190/",
+      "date": "2026-09-03T05:24:16Z"
+    },
+    {
+      "title": "Singapore Tax Agency Updates E-Tax Guide on Temporary Deduction for Artificial Intelligence Adoption",
+      "description": "[BLOOMBERG TAX NEWS] The Singaporean Inland Revenue Authority Aug. 31 updated an e-tax guide on the enterprise innovation regime (EIS). Updated topics covered include: 1) the addition of AI adoption as a qualifying ...",
+      "url": "https://news.bloombergtax.com/daily-tax-report/singapore-tax-agency-updates-e-tax-guide-on-temporary-deduction-for-artificial-intelligence-adoption",
+      "date": "2026-09-03T05:00:00Z"
+    },
+    {
+      "title": "Social media trend using AI images to threaten schools spreads to Texoma",
+      "description": "[EUROPE SAYS] HUGO, Okla. (KXII) - A social media trend using artificial intelligence to create threatening images has spread to schools in Texoma, according to Choctaw",
+      "url": "https://www.europesays.com/3230092/",
+      "date": "2026-09-03T04:16:20Z"
+    },
+    {
+      "title": "Tata Sons to invest over \u20b910,000cr in Air India",
+      "description": "[NEWSBYTES] Tata Sons has approved a \u20b910,000 crore investment in artificial intelligence initiatives, with specific conditions governing nominee directors' fiduciary duties and voting rights.",
+      "url": "https://www.newsbytesapp.com/news/business/tata-sons-to-invest-over-10-000cr-in-air-india/story",
+      "date": "2026-09-03T04:12:03Z"
+    },
+    {
+      "title": "'Move faster': Nvidia\u2019s Jensen Huang has an AI message for India, the world\u2019s leading IT power",
+      "description": "[THE ECONOMIC TIMES] Nvidia CEO Jensen Huang has urged India to move faster in the artificial intelligence race and build a strong domestic AI economy by leveraging its established IT sector. Speaking at the G20 Innovation Ministerial, Huang also called for practical AI...",
+      "url": "https://economictimes.indiatimes.com/news/india/move-faster-nvidias-jensen-huang-has-an-ai-message-for-india-the-worlds-leading-it-power/articleshow/133724698.cms",
+      "date": "2026-09-03T04:07:00Z"
+    },
+    {
+      "title": "New York Mayor Zohran Mamdani announces ban on AI use for students until high school",
+      "description": "[THE HINDU] New York is banning student use of artificial intelligence until high school, the city's mayor announced Wednesday, in a move designed to protect children's education and mental health.",
+      "url": "https://www.thehindu.com/sci-tech/technology/new-york-mayor-zohran-mamdani-announces-ban-on-ai-use-for-students-until-high-school/article71422209.ece",
+      "date": "2026-09-03T04:01:13Z"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "date": "2026-09-03T00:00:00Z"
+    },
+    {
+      "title": "Give Your Coding Agents a Memory You Own",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/funes",
+      "date": "2026-09-03T00:00:00Z"
+    },
+    {
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "date": "2026-09-03T00:00:00Z"
+    },
+    {
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "date": "2026-09-02T13:49:14Z"
+    },
+    {
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "date": "2026-09-01T21:39:07Z"
+    }
+  ]
 }
