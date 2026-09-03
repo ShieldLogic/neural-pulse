@@ -1,173 +1,72 @@
 {
-  "updated": "2026-09-03 14:04:27 UTC",
-  "news": [
-    {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "date": "2026-09-03T13:13:48Z"
-    },
-    {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "description": "[TECHCRUNCH] Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "date": "2026-09-03T12:42:45Z"
-    },
-    {
-      "title": "AI boom is testing tech firms' climate pledges",
-      "description": "[THE STAR] Technology companies are stepping up their climate commitments but not fast enough to counter rapidly inflating energy needs linked to the artificial intelligence boom.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/03/ai-boom-is-testing-tech-firms039-climate-pledges",
-      "date": "2026-09-03T02:00:00Z"
-    },
-    {
-      "title": "US government now 'trusts' Anthropic, the company that it banned months ago; Howard Lutnick says: They are back on ...",
-      "description": "[TIMES OF INDIA] Tech News News: In what can be called a major diplomatic reversal following months of bitter friction over artificial intelligence (AI) safety protocols and national .",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-now-trusts-anthropic-the-company-that-it-banned-months-ago-howard-lutnick-says-they-are-back-on-/articleshow/133723161.cms",
-      "date": "2026-09-03T01:50:00Z"
-    },
-    {
-      "title": "Can AI turn football fans into kit designers? PUMA and Man City think so",
-      "description": "[MARKETING INTERACTIVE] Manchester City and PUMA have unveiled the club's third kit for the 2026/27 season, marking what the pair said is the first professional football kit designed by a fan using artificial intelligence (AI) to be worn by players on the pitch.",
-      "url": "https://www.marketing-interactive.com/can-ai-turn-football-fans-into-kit-designers-puma-and-man-city-think-so",
-      "date": "2026-09-03T01:44:10Z"
-    },
-    {
-      "title": "Meta Pushes Its New AI Agent on Employees-but Eases Off on Tokenmaxxing",
-      "description": "[WIRED] The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
-      "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
-      "date": "2026-09-03T01:32:02Z"
-    },
-    {
-      "title": "US sees India as 'extraordinary' AI partner, says Howard Lutnick",
-      "description": "[LOKMAT TIMES] US sees India as 'extraordinary' AI partner, says Howard Lutnick - Chapel Hill (North Carolina), Sep 3 The United States sees India as an \u201cextraordinary opportunity\u201d for artificial intelligence ... Get Latest News on International only on...",
-      "url": "https://www.lokmattimes.com/international/us-sees-india-as-extraordinary-ai-partner-says-howard-lutnick/",
-      "date": "2026-09-03T01:16:50Z"
-    },
-    {
-      "title": "Novice climbers rescued from California volcano after using AI",
-      "description": "[FOX WEATHER] Three novice climbers who relied on artificial intelligence to plan their Mount Shasta ascent became stranded overnight, triggering a multiagency rescue.",
-      "url": "https://www.foxweather.com/earth-space/three-novice-hikers-rescued-mount-shasta",
-      "date": "2026-09-03T01:09:02Z"
-    },
-    {
-      "title": "Insilico Medicine Included in the HKEX Tech 100 Index, Drawing Attention to Opportunities in AI Value Chain",
-      "description": "[THE MANILA TIMES] CAMBRIDGE, Mass., Sept. 3, 2026 /PRNewswire/ -- Insilico Medicine ('Insilico', HKEX: 3696), a clinical-stage drug discovery company powered by generative artificial intelligence (AI), announced that it will be included in the HKEX Tech 100 Index,...",
-      "url": "https://www.manilatimes.net/2026/09/03/tmt-newswire/pr-newswire/insilico-medicine-included-in-the-hkex-tech-100-index-drawing-attention-to-opportunities-in-ai-value-chain/2417576",
-      "date": "2026-09-03T00:57:47Z"
-    },
-    {
-      "title": "Amazon, Synopsys reveal plans for Bay Area job cuts",
-      "description": "[THE MERCURY NEWS] Tech companies have disclosed decisions to chop hundreds of Bay Area jobs, fresh rounds of layoffs that have erupted in the face of the ongoing turmoil unleashed by the artificial intelligence revolution.",
-      "url": "https://www.mercurynews.com/2026/09/02/jobs-tech-amazon-synopsys-layoff-sunnyvale-economy-internet-ai-bay-area/",
-      "date": "2026-09-03T00:52:14Z"
-    },
-    {
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "date": "2026-09-03T00:00:00Z"
-    },
-    {
-      "title": "Give Your Coding Agents a Memory You Own",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/funes",
-      "date": "2026-09-03T00:00:00Z"
-    },
-    {
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "date": "2026-09-03T00:00:00Z"
-    },
-    {
-      "title": "Tech bosses press G20 to build data centers, but split on risk",
-      "description": "[BANGKOK POST] CHAPEL HILL (UNITED STATES) - Top US tech bosses, including Nvidia chief Jensen Huang and OpenAI's Sam Altman, urged G20 ministers Wednesday to embrace artificial intelligence and build the data centers to run it.",
-      "url": "https://www.bangkokpost.com/world/3313120/tech-bosses-press-g20-to-build-data-centers-but-split-on-risk",
-      "date": "2026-09-02T23:53:00Z"
-    },
-    {
-      "title": "NYC, the nation's largest school system, bans AI for students through 8th grade",
-      "description": "[THE ATLANTA JOURNAL-CONSTITUTION] New York City\u2019s public school system will ban artificial intelligence for students through the 8th grade during the upcoming school year. Mayor Zohran Mamdani announced the move Wednesday as part of a wider assessment of how children in the nation\u2019s...",
-      "url": "https://www.ajc.com/news/2026/09/nyc-the-nations-largest-school-system-bans-ai-for-students-through-8th-grade/",
-      "date": "2026-09-02T23:51:35Z"
-    },
-    {
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "description": "[TECHCRUNCH] The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "date": "2026-09-02T23:01:00Z"
-    },
-    {
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "description": "[TECHCRUNCH] The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "date": "2026-09-02T22:44:56Z"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "description": "[TECHCRUNCH] On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two.",
-      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "date": "2026-09-02T22:24:09Z"
-    },
-    {
-      "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
-      "description": "[TECHCRUNCH] OpenAI\u2019s new Astra model will use \u201crecurrent depth,\u201d a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "date": "2026-09-02T20:19:14Z"
-    },
-    {
-      "title": "Pangram\u2019s Max Spero on why AI detection is harder than \u2018Real or Fake\u2019",
-      "description": "[TECHCRUNCH] The internet has a trust problem, and&#160;it\u2019s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims,...",
-      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "date": "2026-09-02T17:18:13Z"
-    },
-    {
-      "title": "Motional and MIT AI explains self-driving car decisions",
-      "description": "[AI-NEWS] Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Nature, comes from a team at Motional that includes...",
-      "url": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
-      "date": "2026-09-02T15:25:12Z"
-    },
-    {
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "date": "2026-09-02T13:49:14Z"
-    },
-    {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "date": "2026-09-01T21:39:07Z"
-    },
-    {
-      "title": "ChatGPT Ads passes $1B run rate in 200 days",
-      "description": "[AI-NEWS] ChatGPT Ads has hit $1 billion in annualised revenue run rate in under 200 days, and OpenAI is expanding self-service ads to new regions. Tens of thousands of advertisers now use the platform and self-service access through Ads Manager is launching...",
-      "url": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
-      "date": "2026-09-01T16:05:27Z"
-    },
-    {
-      "title": "Why MCP servers are becoming AI\u2019s newest attack surface",
-      "description": "[AI-NEWS] As AI adoption gathers pace, so does the evolution of the infrastructure that supports it. New standards and connectors keep appearing, and the ones that catch on spread through the ecosystem within months rather than years. That speed strengthens...",
-      "url": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/",
-      "date": "2026-09-01T07:37:26Z"
-    },
-    {
-      "title": "A quarter of Nvidia\u2019s business next year comes from labs it is financing",
-      "description": "[AI-NEWS] Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company&#8217;s chief financial officer,&#160;told analysts&#160;on August 26 that demand from the...",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
-      "date": "2026-08-27T10:00:00Z"
-    },
-    {
-      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
-      "description": "[AI-NEWS] Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with participation from...",
-      "url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
-      "date": "2026-08-26T10:00:00Z"
-    },
-    {
-      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-      "description": "[AI-NEWS] NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative AI models...",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
-      "date": "2026-08-26T09:08:11Z"
-    }
-  ]
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-09-03 15:07 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "\u2018Not healthy\u2019 LLM use is more common than you think",
+            "description": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to wr\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&strip=all&crop=0%2C10.754336667151%2C100%2C78.491326665699&w=1200",
+            "publishedAt": "2026-08-04T17:33:46Z",
+            "content": "<ul><li></li><li></li></ul>\r\nIts not just Hank Green.\r\nby\r\nRobert HartClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee All by Robert H\u2026 [+4818 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
+            "description": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone \u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-27T16:20:07Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nby\r\nRobert HartClose\r\nPosts from this author \u2026 [+5467 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Maxwell Zeff, Lauren Goode, Will Knight",
+            "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+            "description": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
+            "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+            "urlToImage": "https://media.wired.com/photos/6a7199c152cbcac31bc249b1/191:100/w_1280,c_limit/Trump-Admin-Convenes-AI-Labs-to-Share-AI-Framework-Business-2282299237.jpg",
+            "publishedAt": "2026-08-04T22:06:07Z",
+            "content": "The Trump administration has finalized a plan to address the cybersecurity risks posed by increasingly capable artificial intelligence models, a White House official confirmed to WIRED. But at least \u2026 [+3676 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "Nvidia Reportedly Stops Flirting With Hugging Face and Just Buys It",
+            "description": "The apparent deal values the company at about $13 billion.",
+            "url": "https://gizmodo.com/nvidia-reportedly-stops-flirting-with-hugging-face-and-just-buys-it-2000803681",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+            "publishedAt": "2026-08-27T03:32:53Z",
+            "content": "I wrote on Monday that rumors were circulating that Hugging Face was looking to be acquired for about $13 billion. Thats exactly what is now happening according to anonymous insiders who spoke to the\u2026 [+1630 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Maxwell Zeff",
+            "title": "The Safety Reckoning Inside OpenAI",
+            "description": "OpenAI\u2019s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+            "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+            "urlToImage": "https://media.wired.com/photos/6a7d0965c82d9b74df554e1c/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Dangerous-AI-Business.jpg",
+            "publishedAt": "2026-08-13T22:37:19Z",
+            "content": "OpenAIs leaders are rallying workers to respond to one of the largest crises in the companys historywhich spans across its AI safety, cybersecurity, and alignment divisions. The ChatGPT-maker says it\u2026 [+3989 chars]"
+        }
+    ]
 }
