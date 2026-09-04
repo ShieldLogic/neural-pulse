@@ -1,72 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-04 15:02 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "\u2018Not healthy\u2019 LLM use is more common than you think",
-            "description": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to wr\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&strip=all&crop=0%2C10.754336667151%2C100%2C78.491326665699&w=1200",
-            "publishedAt": "2026-08-04T17:33:46Z",
-            "content": "<ul><li></li><li></li></ul>\r\nIts not just Hank Green.\r\nby\r\nRobert HartClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee All by Robert H\u2026 [+4818 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lauren Goode",
-            "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-            "description": "The long-rumored deal will give the chip giant access to\u2014and help it promote\u2014a huge repository of open-source AI models and data sets.",
-            "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-            "urlToImage": "https://media.wired.com/photos/6a906df0a8a32784cdb5c100/191:100/w_1280,c_limit/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg",
-            "publishedAt": "2026-09-03T12:43:09Z",
-            "content": "Nvidia has agreed to acquire Hugging Face, which makes online developer tools and maintains a massive library of open-source data sets, for nearly $13 billion. While the deal had been rumored for wee\u2026 [+3847 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
-            "description": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-27T16:20:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nby\r\nRobert HartClose\r\nPosts from this author \u2026 [+5467 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Maxwell Zeff, Lauren Goode, Will Knight",
-            "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-            "description": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
-            "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-            "urlToImage": "https://media.wired.com/photos/6a7199c152cbcac31bc249b1/191:100/w_1280,c_limit/Trump-Admin-Convenes-AI-Labs-to-Share-AI-Framework-Business-2282299237.jpg",
-            "publishedAt": "2026-08-04T22:06:07Z",
-            "content": "The Trump administration has finalized a plan to address the cybersecurity risks posed by increasingly capable artificial intelligence models, a White House official confirmed to WIRED. But at least \u2026 [+3676 chars]"
-        }
-    ]
+  "updated": "2026-09-04 17:24:49 UTC",
+  "news": [
+    {
+      "title": "What will Apple\u2019s John Ternus era look like?",
+      "description": "[TECHCRUNCH] It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a \u201chuge launch next week\u201d&#160;\u2014 timing that puts...",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "date": "2026-09-04T17:18:00Z"
+    },
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
+      "description": "[TECHCRUNCH] It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "date": "2026-09-04T16:21:11Z"
+    },
+    {
+      "title": "Apple\u2019s Ternus era begins as Nvidia bets on the whole AI stack",
+      "description": "[TECHCRUNCH] It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a \u201chuge launch next week\u201d&#160;\u2014 timing that puts...",
+      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "date": "2026-09-04T16:04:08Z"
+    },
+    {
+      "title": "Google\u2019s Gemini Spark can now manage your Google Photos library",
+      "description": "[TECHCRUNCH] Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "date": "2026-09-04T14:47:11Z"
+    },
+    {
+      "title": "Less than 24 hours to apply\u00a0for your TechCrunch Disrupt\u00a02026 Side Event",
+      "description": "[TECHCRUNCH] Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+      "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+      "date": "2026-09-04T14:00:00Z"
+    },
+    {
+      "title": "M&T Bank expands enterprise AI after years of technology overhaul",
+      "description": "[AI-NEWS] M&#38;T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI to analyse call-centre conversations, draft...",
+      "url": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
+      "date": "2026-09-04T10:00:00Z"
+    },
+    {
+      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+      "description": "[AI-NEWS] Just over half of American adults, 50.5%, say a partner&#8217;s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI Girlfriend Coach through SurveyMonkey...",
+      "url": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
+      "date": "2026-09-04T08:25:12Z"
+    },
+    {
+      "title": "Nvidia to buy AI platform Hugging Face for $12.9 billion",
+      "description": "[THE HINDU] Nvidia announced Thursday it will buy artificial intelligence platform Hugging Face for $12.9 billion, as the chipmaking giant seeks to diversify its hold on the AI sector.",
+      "url": "https://www.thehindu.com/sci-tech/technology/nvidia-to-buy-ai-platform-hugging-face-for-129-billion/article71426882.ece",
+      "date": "2026-09-04T04:43:10Z"
+    },
+    {
+      "title": "Agentic AI could automate 80% of routine treasury work, leave strategic decisions to humans: EY",
+      "description": "[LIVEMINT] Agentic artificial intelligence could handle around 80 per cent of routine coordination and processing in treasury operations, allowing professionals to focus on risk management, strategic funding and other decisions requiring human judgement,...",
+      "url": "https://www.livemint.com/technology/agentic-ai-could-automate-80-of-routine-treasury-work-leave-strategic-decisions-to-humans-ey-11788496812034.html",
+      "date": "2026-09-04T04:40:11Z"
+    },
+    {
+      "title": "What happens when shadow AI goes unchecked in the workplace",
+      "description": "[ABC17NEWS.COM] Adoption of artificial intelligence has been rapid and widespread, with Stanford University researchers pegging organizational uptake at 88%. The same report found that across the general population, generative tools have a far lower penetration...",
+      "url": "https://abc17news.com/stacker-ai/2026/09/03/what-happens-when-shadow-ai-goes-unchecked-in-the-workplace/",
+      "date": "2026-09-04T04:39:37Z"
+    },
+    {
+      "title": "Agentic AI could automate 80% of routine treasury work, leave strategic decisions to humans: EY",
+      "description": "[THE TRIBUNE] Agentic artificial intelligence could handle around 80 per cent of routine coordination and processing in treasury operations, allowing professionals to focus on risk management, strategic funding and other decisions requiring human judgement,...",
+      "url": "https://www.tribuneindia.com/news/business/agentic-ai-could-automate-80-of-routine-treasury-work-leave-strategic-decisions-to-humans-ey/",
+      "date": "2026-09-04T04:37:29Z"
+    },
+    {
+      "title": "Agentic AI could automate 80% of routine treasury work, leave strategic decisions to humans: EY",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Agentic artificial intelligence could handle around 80 per cent of routine coordination and processing in treasury operations, allowing professionals to focus on risk management, strategic funding and other decisions requiring human judgement,...",
+      "url": "https://www.aninews.in/news/business/agentic-ai-could-automate-80-of-routine-treasury-work-leave-strategic-decisions-to-humans-ey20260904100506/",
+      "date": "2026-09-04T04:35:06Z"
+    },
+    {
+      "title": "AI is starting to see migraine as more than just a headache",
+      "description": "[EURONEWS] Researchers used artificial intelligence and genetic data from more than 43,000 people to identify biological patterns that could reshape how one of the world\u2019s most common neurological disorders is diagnosed and treated.",
+      "url": "https://www.euronews.com/health/2026/09/04/ai-is-starting-to-see-migraine-as-more-than-just-a-headache",
+      "date": "2026-09-04T04:28:57Z"
+    },
+    {
+      "title": "Democrat win could cost US AI race: Vance",
+      "description": "[LOKMAT TIMES] Democrat win could cost US AI race: Vance - Washington, Sep 4 US Vice-President, J.D. Vance, has warned that America could lose the Artificial Intelligence (AI) race ... Get Latest News on International only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/international/democrat-win-could-cost-us-ai-race-vance/",
+      "date": "2026-09-04T04:23:52Z"
+    },
+    {
+      "title": "NYC Mayor Zohran Mamdani bans AI for NYC students until high school: Why his decision is making so much noise online",
+      "description": "[TIMES OF INDIA] Trending News: Artificial intelligence isn\u2019t just a sci-fi fantasy anymore; it\u2019s crawled its way into the classrooms, helping kids crack math problems, prepping for .",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/nyc-mayor-zohran-mamdani-bans-ai-for-nyc-students-until-high-school-why-his-decision-is-making-so-much-noise-online/articleshow/133751691.cms",
+      "date": "2026-09-04T04:23:00Z"
+    },
+    {
+      "title": "\u2018Most of the sport now is in pointing out where AI is wrong\u2019: Workers explain why LLM can make skilled jobs feel less rewarding",
+      "description": "[INDIATIMES] Explore how artificial intelligence is reshaping skilled professions, making work feel less rewarding for many employees as AI takes on critical tasks and decision-making processes.",
+      "url": "https://www.indiatimes.com/trending/most-of-the-sport-now-is-in-pointing-out-where-ai-is-wrong-workers-explain-why-llm-can-make-skilled-jobs-feel-less-rewarding/articleshow/133737937.html",
+      "date": "2026-09-04T04:22:34Z"
+    },
+    {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "description": "[TECHCRUNCH] While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "date": "2026-09-04T04:21:03Z"
+    },
+    {
+      "title": "Explained | How a rare US-China consensus at G20 allows AI an easier run",
+      "description": "[CNBC TV18] G20 innovation ministers endorse US-backed light-touch AI governance, rejecting new regulatory agencies. China backs framework, isolating EU.",
+      "url": "https://www.cnbctv18.com/technology/explained-how-a-rare-us-china-consensus-at-g20-allows-ai-an-easier-run-19983942.htm",
+      "date": "2026-09-04T04:15:37Z"
+    },
+    {
+      "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
+      "description": "[AI-NEWS] OneRail has launched an AI-powered delivery platform that uses Nvidia technology to help retailers, wholesalers, and distributors decide how individual orders should be delivered. Called OmniSTAR, the system evaluates options including owned fleets,...",
+      "url": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
+      "date": "2026-09-03T16:07:18Z"
+    },
+    {
+      "title": "NVIDIA to acquire Hugging Face for $12.93B",
+      "description": "[AI-NEWS] NVIDIA has agreed to acquire Hugging Face for $12.93 billion to scale the open-source model repository&#8217;s platform and infrastructure. The transaction targets platform growth and infrastructure investment, aiming to expand AI access for...",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
+      "date": "2026-09-03T15:50:31Z"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "date": "2026-09-03T13:13:48Z"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "date": "2026-09-03T00:00:00Z"
+    },
+    {
+      "title": "Give Your Coding Agents a Memory You Own",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/funes",
+      "date": "2026-09-03T00:00:00Z"
+    },
+    {
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "date": "2026-09-03T00:00:00Z"
+    },
+    {
+      "title": "Motional and MIT AI explains self-driving car decisions",
+      "description": "[AI-NEWS] Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Nature, comes from a team at Motional that includes...",
+      "url": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+      "date": "2026-09-02T15:25:12Z"
+    },
+    {
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "date": "2026-09-02T13:49:14Z"
+    },
+    {
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "date": "2026-09-01T21:39:07Z"
+    },
+    {
+      "title": "ChatGPT Ads passes $1B run rate in 200 days",
+      "description": "[AI-NEWS] ChatGPT Ads has hit $1 billion in annualised revenue run rate in under 200 days, and OpenAI is expanding self-service ads to new regions. Tens of thousands of advertisers now use the platform and self-service access through Ads Manager is launching...",
+      "url": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
+      "date": "2026-09-01T16:05:27Z"
+    }
+  ]
 }
