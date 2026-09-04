@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-03 22:11:57 UTC",
+  "updated": "2026-09-04 02:40:55 UTC",
   "news": [
+    {
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "description": "[TECHCRUNCH] The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "date": "2026-09-04T00:48:42Z"
+    },
     {
       "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
       "description": "[TECHCRUNCH] The high-profile startup's annual revenue run rate stands at over $100 million.",
@@ -32,76 +38,82 @@
       "date": "2026-09-03T16:09:01Z"
     },
     {
-      "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
-      "description": "[TECHCRUNCH] WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "date": "2026-09-03T15:00:00Z"
+      "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
+      "description": "[AI-NEWS] OneRail has launched an AI-powered delivery platform that uses Nvidia technology to help retailers, wholesalers, and distributors decide how individual orders should be delivered. Called OmniSTAR, the system evaluates options including owned fleets,...",
+      "url": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
+      "date": "2026-09-03T16:07:18Z"
+    },
+    {
+      "title": "NVIDIA to acquire Hugging Face for $12.93B",
+      "description": "[AI-NEWS] NVIDIA has agreed to acquire Hugging Face for $12.93 billion to scale the open-source model repository&#8217;s platform and infrastructure. The transaction targets platform growth and infrastructure investment, aiming to expand AI access for...",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
+      "date": "2026-09-03T15:50:31Z"
+    },
+    {
+      "title": "Nvidia to acquire Hugging Face for USD 12.93 billion to scale AI platform",
+      "description": "[THE TRIBUNE] Nvidia has agreed to acquire AI platform Hugging Face for USD 12.93 billion, Nvidia CEO Jensen Huang said in a blog post on Thursday, as the chipmaker looks to expand access to artificial intelligence for developers and institutions worldwide.",
+      "url": "https://www.tribuneindia.com/news/business/nvidia-to-acquire-hugging-face-for-usd-12-93-billion-to-scale-ai-platform/",
+      "date": "2026-09-03T14:32:40Z"
+    },
+    {
+      "title": "Nvidia buys AI platform Hugging Face for US$13 billion",
+      "description": "[FINANCIAL POST] Nvidia Corp. has agreed to acquire artificial intelligence startup Hugging Face in a transaction valued at about US$13 billion. Read here",
+      "url": "https://financialpost.com/technology/tech-news/nvidia-buys-ai-platform-hugging-face",
+      "date": "2026-09-03T14:30:21Z"
+    },
+    {
+      "title": "I gave my blind local LLM eyes with a few hundred lines of Python, and it thinks it can see",
+      "description": "[XDA DEVELOPERS] My local LLM doesn't need its own vision tower to be able to see.",
+      "url": "https://www.xda-developers.com/gave-blind-local-llm-eyes-python-thinks-can-see/",
+      "date": "2026-09-03T14:30:15Z"
+    },
+    {
+      "title": "Nvidia to acquire Hugging Face for USD 12.93 billion to scale AI platform",
+      "description": "[DEVDISCOURSE] Nvidia has agreed to acquire AI platform Hugging Face for USD 12.93 billion, Nvidia CEO Jensen Huang said in a blog post on Thursday, as the chipmaker looks to expand access to artificial intelligence for developers and institutions worldwide.",
+      "url": "https://www.devdiscourse.com/article/business/3972176-nvidia-to-acquire-hugging-face-for-usd-1293-billion-to-scale-ai-platform",
+      "date": "2026-09-03T14:24:55Z"
+    },
+    {
+      "title": "Nvidia to acquire Hugging Face for USD 12.93 billion to scale AI platform",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Nvidia has agreed to acquire AI platform Hugging Face for USD 12.93 billion, Nvidia CEO Jensen Huang said in a blog post on Thursday, as the chipmaker looks to expand access to artificial intelligence for developers and institutions worldwide.",
+      "url": "https://www.aninews.in/news/business/nvidia-to-acquire-hugging-face-for-usd-1293-billion-to-scale-ai-platform20260903194944/",
+      "date": "2026-09-03T14:19:44Z"
+    },
+    {
+      "title": "Nvidia is spending $12.93 billion on Hugging Face, the world's biggest repository of AI models, and the company whose systems OpenAI's AI models hacked into",
+      "description": "[TIMES OF INDIA] Tech News News: Nvidia is buying Hugging Face, the digital library where millions of developers go to build, share and download artificial intelligence models, in a d.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-is-spending-12-billion-on-hugging-face-the-worlds-biggest-repository-of-ai-models-and-the-company-whose-systems-openais-ai-models-hacked-into/articleshow/133738698.cms",
+      "date": "2026-09-03T14:16:00Z"
+    },
+    {
+      "title": "Abu Dhabi AI institute releases fully open-source models with training data, code",
+      "description": "[THE STAR] Sept \u20603 (Reuters) - Abu Dhabi-based research institute IFM on Thursday \u2060released six artificial intelligence models together with the \u200cdata and methods used to build them, challenging an industry trend toward increasingly secretive AI development.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/03/abu-dhabi-ai-institute-releases-fully-open-source-models-with-training-data-code",
+      "date": "2026-09-03T14:11:00Z"
+    },
+    {
+      "title": "Nvidia pays $16.4b for Hugging Face",
+      "description": "[THE STRAITS TIMES] Nvidia acquires AI platform Hugging Face for $12.9 billion, supporting open models and expanding its presence in the growing artificial intelligence ecosystem. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/companies-markets/nvidia-pays-16-4b-for-hugging-face-and-an-open-ai-future",
+      "date": "2026-09-03T14:02:54Z"
+    },
+    {
+      "title": "I used a local LLM to generate Home Assistant Jinja2 templates, and complex automations stopped feeling impossible",
+      "description": "[XDA DEVELOPERS] The LLM didn't make it easy. It made it possible to start.",
+      "url": "https://www.xda-developers.com/home-assistant-jinja2-templates-automations-stopped-feeling-impossible/",
+      "date": "2026-09-03T14:00:15Z"
+    },
+    {
+      "title": "India to host BRICS Chief Justices' Forum; CJI to hold bilateral meetings with judicial leaders",
+      "description": "[THE ECONOMIC TIMES] New Delhi will host the BRICS Chief Justices' Forum from September 4 to 6. Chief Justice Surya Kant will meet senior judicial leaders from various nations. The forum will discuss justice delivery, international dispute resolution, and technology....",
+      "url": "https://economictimes.indiatimes.com/news/india/india-to-host-brics-chief-justices-forum-cji-to-hold-bilateral-meetings-with-judicial-leaders/articleshow/133738225.cms",
+      "date": "2026-09-03T14:00:00Z"
     },
     {
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/Hcompany/neomme",
       "date": "2026-09-03T13:13:48Z"
-    },
-    {
-      "title": "AI, Data Centers Have Done 'Horrendous Job' Explaining Themselves",
-      "description": "[BREITBART NEWS NETWORK] Treasury Secretary Scott Bessent called on artificial intelligence (AI) and data center companies to improve their messaging.",
-      "url": "https://www.breitbart.com/politics/2026/09/03/scott-bessent-tells-ai-companies-theyve-done-a-horrendous-job-explaining-themselves/",
-      "date": "2026-09-03T09:50:34Z"
-    },
-    {
-      "title": "NIELIT Rallies Ministries, Industry and Sovereign AI Builders Behind PM's 1",
-      "description": "[THE TRIBUNE] New Delhi [India], September 3: In support of the Hon\u2019ble Prime Minister Shri Narendra Modi\u2019s call from the ramparts of the Red Fort on 15 August 2026 to train one crore youth in Artificial Intelligence skills within a year, the...",
-      "url": "https://www.tribuneindia.com/news/business/nielit-rallies-ministries-industry-and-sovereign-ai-builders-behind-pms-1-crore-ai-skilling-call-common-agentic-ai-programme-launched/",
-      "date": "2026-09-03T09:49:16Z"
-    },
-    {
-      "title": "Smarter Factories, Bigger Risks: Why AI Governance Is Becoming Industrial Policy",
-      "description": "[DEVDISCOURSE] Read more about Smarter Factories, Bigger Risks: Why AI Governance Is Becoming Industrial Policy on Devdiscourse",
-      "url": "https://www.devdiscourse.com/article/technology/3971368-smarter-factories-bigger-risks-why-ai-governance-is-becoming-industrial-policy",
-      "date": "2026-09-03T09:43:04Z"
-    },
-    {
-      "title": "Hikers rescued from Mt. Shasta after using AI to plan trip",
-      "description": "[LIVE 5 NEWS WCSC] Authorities say three hikers got stranded on Mt. Shasta after they relied on artificial intelligence to plan the trip.",
-      "url": "https://www.live5news.com/2026/09/03/hikers-who-used-ai-plan-mountain-trip-had-be-rescued-authorities-say/",
-      "date": "2026-09-03T09:28:14Z"
-    },
-    {
-      "title": "Hikers rescued from Mt. Shasta after using AI to plan trip",
-      "description": "[WIS10] Authorities say three hikers got stranded on Mt. Shasta after they relied on artificial intelligence to plan the trip.",
-      "url": "https://www.wistv.com/2026/09/03/hikers-who-used-ai-plan-mountain-trip-had-be-rescued-authorities-say/",
-      "date": "2026-09-03T09:28:14Z"
-    },
-    {
-      "title": "Hikers rescued from Mt. Shasta after using AI to plan trip",
-      "description": "[WEAU] Authorities say three hikers got stranded on Mt. Shasta after they relied on artificial intelligence to plan the trip.",
-      "url": "https://www.weau.com/2026/09/03/hikers-who-used-ai-plan-mountain-trip-had-be-rescued-authorities-say/",
-      "date": "2026-09-03T09:28:14Z"
-    },
-    {
-      "title": "From Pune to the World: Syngenta Showcases How its Engineering and AI are Shaping the Future of Agriculture at DevCon 2026",
-      "description": "[THE TRIBUNE] Pune (Maharashtra) [India], September 3: More than 500 developers, data scientists, engineers, agronomists, product champions and digital experts came together from September 2-3, in Pune at Syngenta\u2019s DevCon 2026 to showcase cutting-edge...",
-      "url": "https://www.tribuneindia.com/news/business/from-pune-to-the-world-syngenta-showcases-how-its-engineering-and-ai-are-shaping-the-future-of-agriculture-at-devcon-2026/",
-      "date": "2026-09-03T09:22:58Z"
-    },
-    {
-      "title": "From Pune to the World: Syngenta Showcases How its Engineering and AI are Shaping the Future of Agriculture at DevCon 2026",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Pune (Maharashtra) [India], September 3: More than 500 developers, data scientists, engineers, agronomists, product champions and digital experts came together from September 2-3, in Pune at Syngenta\u2019s DevCon 2026 to showcase cutting-edge...",
-      "url": "https://www.aninews.in/news/business/from-pune-to-the-world-syngenta-showcases-how-its-engineering-and-ai-are-shaping-the-future-of-agriculture-at-devcon-202620260903144950/",
-      "date": "2026-09-03T09:19:50Z"
-    },
-    {
-      "title": "The Hunt for AI-Proof Assets Is Leading Investors to Sports, Casinos and Travel",
-      "description": "[HINDUSTAN TIMES] Venture capitalists are pivoting to physical experiences as they seek businesses insulated from the rapid development of artificial intelligence | Business News",
-      "url": "https://www.hindustantimes.com/business/the-hunt-for-ai-proof-assets-is-leading-investors-to-sports-casinos-and-travel-101788425983572.html",
-      "date": "2026-09-03T09:11:50Z"
-    },
-    {
-      "title": "NIELIT, Intel India launch Agentic AI skilling programmes for youth across India: MeitY",
-      "description": "[THE ECONOMIC TIMES] NIELIT and Intel India have launched two Agentic AI skilling programmes. These initiatives aim to expand industry-aligned training access for India's workforce. The programmes will offer practical Agentic AI learning to institutions and learners...",
-      "url": "https://economictimes.indiatimes.com/ai/ai-insights/nielit-intel-india-launch-agentic-ai-skilling-programmes-for-youth-across-india-meity/articleshow/133731417.cms",
-      "date": "2026-09-03T09:11:00Z"
     },
     {
       "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
@@ -122,6 +134,12 @@
       "date": "2026-09-03T00:00:00Z"
     },
     {
+      "title": "Motional and MIT AI explains self-driving car decisions",
+      "description": "[AI-NEWS] Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Nature, comes from a team at Motional that includes...",
+      "url": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+      "date": "2026-09-02T15:25:12Z"
+    },
+    {
       "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
@@ -132,6 +150,24 @@
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/allenai/benchmirt",
       "date": "2026-09-01T21:39:07Z"
+    },
+    {
+      "title": "ChatGPT Ads passes $1B run rate in 200 days",
+      "description": "[AI-NEWS] ChatGPT Ads has hit $1 billion in annualised revenue run rate in under 200 days, and OpenAI is expanding self-service ads to new regions. Tens of thousands of advertisers now use the platform and self-service access through Ads Manager is launching...",
+      "url": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
+      "date": "2026-09-01T16:05:27Z"
+    },
+    {
+      "title": "Why MCP servers are becoming AI\u2019s newest attack surface",
+      "description": "[AI-NEWS] As AI adoption gathers pace, so does the evolution of the infrastructure that supports it. New standards and connectors keep appearing, and the ones that catch on spread through the ecosystem within months rather than years. That speed strengthens...",
+      "url": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/",
+      "date": "2026-09-01T07:37:26Z"
+    },
+    {
+      "title": "A quarter of Nvidia\u2019s business next year comes from labs it is financing",
+      "description": "[AI-NEWS] Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company&#8217;s chief financial officer,&#160;told analysts&#160;on August 26 that demand from the...",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+      "date": "2026-08-27T10:00:00Z"
     }
   ]
 }
