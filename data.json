@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-05 13:58 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "\u2018Not healthy\u2019 LLM use is more common than you think",
-            "description": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to wr\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&strip=all&crop=0%2C10.754336667151%2C100%2C78.491326665699&w=1200",
-            "publishedAt": "2026-08-04T17:33:46Z",
-            "content": "<ul><li></li><li></li></ul>\r\nIts not just Hank Green.\r\nby\r\nRobert HartClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee All by Robert H\u2026 [+4818 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lauren Goode",
-            "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-            "description": "The long-rumored deal will give the chip giant access to\u2014and help it promote\u2014a huge repository of open-source AI models and data sets.",
-            "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-            "urlToImage": "https://media.wired.com/photos/6a906df0a8a32784cdb5c100/191:100/w_1280,c_limit/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg",
-            "publishedAt": "2026-09-03T12:43:09Z",
-            "content": "Nvidia has agreed to acquire Hugging Face, which makes online developer tools and maintains a massive library of open-source data sets, for nearly $13 billion. While the deal had been rumored for wee\u2026 [+3847 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
-            "description": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-27T16:20:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nby\r\nRobert HartClose\r\nPosts from this author \u2026 [+5467 chars]"
-        }
-    ]
+  "updated": "2026-09-05 14:28:55 UTC",
+  "news": [
+    {
+      "title": "From sourcing to screening: How LinkedIn\u2019s AI Hiring Assistant works",
+      "description": "[THE FINANCIAL EXPRESS] LinkedIn's agentic AI tool, Hiring Assistant, streamlines recruitment by refining hiring needs, sourcing candidates, personalizing outreach, and conducting initial screening to save recruiters time and improve hiring quality.",
+      "url": "https://www.financialexpress.com/life/from-sourcing-to-screening-how-linkedins-ai-hiring-assistant-works-4332460/",
+      "date": "2026-09-05T02:18:06Z"
+    },
+    {
+      "title": "AI's boom is draining global water supplies - what should users know?",
+      "description": "[THE STAR] As the use of artificial intelligence spreads and the technology grows in scale, it is also soaking up an increasing share of essential resources needed to power and maintain datacentres.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/05/ai039s-boom-is-draining-global-water-supplies---what-should-users-know",
+      "date": "2026-09-05T02:00:00Z"
+    },
+    {
+      "title": "Akhund Forbes launches Conclavity, introducing legal AI grounded in Pakistani law",
+      "description": "[THE NATION] KARACHI - Artificial intelligence continues to reshape how professionals across every sector deliver their work, and the practice of law is no exception. On",
+      "url": "https://www.nation.com.pk/05-Sep-2026/akhund-forbes-launches-conclavity-introducing-legal-ai-grounded-pakistani-law",
+      "date": "2026-09-05T01:46:00Z"
+    },
+    {
+      "title": "Keralam ministers return to classroom, take lessons in AI, governance",
+      "description": "[THE INDIAN EXPRESS] The entire 21-member Satheesan Cabinet is at IIM-Kozhikode for two days to listen to experts and learn about new tools of governance.",
+      "url": "https://indianexpress.com/article/political-pulse/keralam-ministers-return-to-classroom-take-lessons-in-ai-governance-10863782/",
+      "date": "2026-09-05T01:36:39Z"
+    },
+    {
+      "title": "Equinix turns the network into the control plane for enterprise AI inference",
+      "description": "[EUROPE SAYS] At its first Horizon customer and partner event this week, Equinix Inc. argued that the architecture of enterprise artificial intelligence is being reshaped",
+      "url": "https://www.europesays.com/3233515/",
+      "date": "2026-09-05T00:58:16Z"
+    },
+    {
+      "title": "California cops rescue stranded hikers who used AI for climb",
+      "description": "[TORONTO SUN] Artificial intelligence appears to have failed three \"novice\" hikers on a climbing trip in Northern California last weekend. Read more.",
+      "url": "https://torontosun.com/news/world/california-cops-rescue-stranded-hikers-ai",
+      "date": "2026-09-05T00:42:07Z"
+    },
+    {
+      "title": "Australia is riding an AI wave - but how is it impacting student learning?",
+      "description": "[SBS AUSTRALIA] SBS reporter Natalie Poyhonen speaks to Professor Leslie Loble from UTS, previously a deputy secretary in the NSW department of Education, about for the future of teaching, research and learning in the age of Artificial Intelligence.",
+      "url": "https://www.sbs.com.au/news/podcast-episode/australia-is-riding-an-ai-wave-but-how-is-it-impacting-student-learning/pkgtidjs3",
+      "date": "2026-09-05T00:00:00Z"
+    },
+    {
+      "title": "Media's future tense in AI-driven world",
+      "description": "[THE STAR] An apartment door arrogantly demands a payment before it opens or closes \u2014 and threatens a lawsuit when an angry visitor tries to unscrew it. The scene from Philip K. Dick's science-fiction novel Ubik may have appeared fantastical when the book was...",
+      "url": "https://www.thestar.com.my/opinion/columnists/comment/2026/09/05/media039s-future-tense-in-ai-driven-world",
+      "date": "2026-09-05T00:00:00Z"
+    },
+    {
+      "title": "Opinion: Why the Hugging Face hack should make you worry more about AI",
+      "description": "[THE STAR] The attack by an aggressive \"collective\" of OpenAI agents shows the danger of artificial intelligence systems that organise themselves.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/05/opinion-why-the-hugging-face-hack-should-make-you-worry-more-about-ai",
+      "date": "2026-09-05T00:00:00Z"
+    },
+    {
+      "title": "How Artificial Intelligence is Reshaping the Global Job Market and Creating New Career Paths",
+      "description": "[EUROPE SAYS] English News",
+      "url": "https://www.europesays.com/3233417/",
+      "date": "2026-09-04T23:55:21Z"
+    },
+    {
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "description": "[TECHCRUNCH] The round is being raised just months after the robot data startup exited from stealth.",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "date": "2026-09-04T23:36:14Z"
+    },
+    {
+      "title": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
+      "description": "[TECHCRUNCH] OpenAI\u2019s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "date": "2026-09-04T23:15:11Z"
+    },
+    {
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "description": "[TECHCRUNCH] Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "date": "2026-09-04T21:12:11Z"
+    },
+    {
+      "title": "What will Apple\u2019s John Ternus era look like?",
+      "description": "[TECHCRUNCH] It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a \u201chuge launch next week\u201d&#160;\u2014 timing that puts...",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "date": "2026-09-04T17:18:00Z"
+    },
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
+      "description": "[TECHCRUNCH] It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "date": "2026-09-04T16:21:11Z"
+    },
+    {
+      "title": "Apple\u2019s Ternus era begins as Nvidia bets on the whole AI stack",
+      "description": "[TECHCRUNCH] It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a \u201chuge launch next week\u201d&#160;\u2014 timing that puts...",
+      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "date": "2026-09-04T16:04:08Z"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "date": "2026-09-03T13:13:48Z"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "date": "2026-09-03T00:00:00Z"
+    },
+    {
+      "title": "Give Your Coding Agents a Memory You Own",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/funes",
+      "date": "2026-09-03T00:00:00Z"
+    },
+    {
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "date": "2026-09-03T00:00:00Z"
+    },
+    {
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "date": "2026-09-02T13:49:14Z"
+    },
+    {
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "date": "2026-09-01T21:39:07Z"
+    }
+  ]
 }
