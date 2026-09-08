@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-08 15:14 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lauren Goode",
-            "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-            "description": "The long-rumored deal will give the chip giant access to\u2014and help it promote\u2014a huge repository of open-source AI models and data sets.",
-            "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-            "urlToImage": "https://media.wired.com/photos/6a906df0a8a32784cdb5c100/191:100/w_1280,c_limit/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg",
-            "publishedAt": "2026-09-03T12:43:09Z",
-            "content": "Nvidia has agreed to acquire Hugging Face, which makes online developer tools and maintains a massive library of open-source data sets, for nearly $13 billion. While the deal had been rumored for wee\u2026 [+3847 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
-            "description": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-27T16:20:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nby\r\nRobert HartClose\r\nPosts from this author \u2026 [+5467 chars]"
-        }
-    ]
+  "updated": "2026-09-08 19:15:19 UTC",
+  "news": [
+    {
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "description": "[TECHCRUNCH] There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "date": "2026-09-08T17:32:15Z"
+    },
+    {
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "description": "[TECHCRUNCH] Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "date": "2026-09-08T16:20:31Z"
+    },
+    {
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "description": "[TECHCRUNCH] Google is speeding up Chrome\u2019s release schedule to ship security patches and new features faster.",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "date": "2026-09-08T15:04:09Z"
+    },
+    {
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "date": "2026-09-08T14:23:07Z"
+    },
+    {
+      "title": "Mistral raises \u20ac3B as sovereign AI becomes big business",
+      "description": "[TECHCRUNCH] The French AI lab has raised \u20ac3 billion at a \u20ac21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "date": "2026-09-08T14:17:48Z"
+    },
+    {
+      "title": "In 2025, Sam Altman set a goal for OpenAI engineers to create 'automated research intern', a year later company publishes a long update",
+      "description": "[TIMES OF INDIA] Tech News News: Roughly a year after CEO Sam Altman instructed OpenAI engineering teams to design an \u201cautomated research intern,\u201d the artificial intelligence (AI) com.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/in-2025-sam-altman-set-a-goal-for-openai-engineers-to-create-automated-research-intern-a-year-later-company-publishes-a-long-update/articleshow/133913758.cms",
+      "date": "2026-09-08T07:07:00Z"
+    },
+    {
+      "title": "AI in healthcare: Remote monitoring, ICU optimisation to be next growth frontiers, says report",
+      "description": "[DAILY EXCELSIOR] NEW DELHI, Sept 8: The next major opportunity for Artificial Intelligence (AI) in Indian healthcare lies in remote patient monitoring, OT/ICU optimisation, and post-discharge chronic disease management, a report said on Tuesday. The joint report by...",
+      "url": "https://www.dailyexcelsior.com/ai-in-healthcare-remote-monitoring-icu-optimisation-to-be-next-growth-frontiers-says-report/",
+      "date": "2026-09-08T07:04:51Z"
+    },
+    {
+      "title": "Youth groups pitch six AI, green economy proposals to Digital Minister",
+      "description": "[THE STAR] KUALA LUMPUR: Six youth-driven policy proposals focusing on artificial intelligence, the green economy and skills development were presented at a roundtable with Digital Minister Gobind Singh Deo here on Tuesday (Sept 8).",
+      "url": "https://www.thestar.com.my/news/nation/2026/09/08/youth-groups-pitch-six-ai-green-economy-proposals-to-digital-minister",
+      "date": "2026-09-08T06:40:00Z"
+    },
+    {
+      "title": "Papaya Global and Infinity Payroll Group Partner to Move Agentic AI From Pilot to Production",
+      "description": "[TECHBULLION] Papaya Global and Infinity Payroll Group partner to bring agentic AI from pilot to production in global payroll operations.",
+      "url": "https://techbullion.com/papaya-global-and-infinity-payroll-group-partner-to-move-agentic-ai-from-pilot-to-production/",
+      "date": "2026-09-08T06:35:06Z"
+    },
+    {
+      "title": "New agentic AI platform sounds death knell for manual presentation tools",
+      "description": "[EUROPE SAYS] Sembly AI launches Sembly 3.0 in biggest evolution since 2019",
+      "url": "https://www.europesays.com/3239488/",
+      "date": "2026-09-08T06:17:32Z"
+    },
+    {
+      "title": "Mastercard unveils Payeux Tapestry in London, agentic AI research predicting \u00a3370bn spend by 2030 - Retail Technology Innovation Hub",
+      "description": "[EUROPE SAYS] But instead of horses, ships and an arrow in King Harold\u2019s eye as William the Conqueror invaded England from Normandy, the new artwork that Mia Hansson made",
+      "url": "https://www.europesays.com/3239486/",
+      "date": "2026-09-08T06:16:29Z"
+    },
+    {
+      "title": "AI/ML hiring rises 31 pc YoY in August, GCC recruitment grows 10 pc: Naukri JobSpeak",
+      "description": "[THE TRIBUNE] Hiring for Artificial Intelligence and Machine Learning (AI/ML) roles continued to lead the growth in India's white-collar job market, rising 31 per cent year-on-year (YoY) in August, while hiring by Global Capability Centres (GCCs) grew 10 per...",
+      "url": "https://www.tribuneindia.com/news/business/ai-ml-hiring-rises-31-pc-yoy-in-august-gcc-recruitment-grows-10-pc-naukri-jobspeak/",
+      "date": "2026-09-08T06:07:35Z"
+    },
+    {
+      "title": "AI/ML hiring rises 31 pc YoY in August, GCC recruitment grows 10 pc: Naukri JobSpeak",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Hiring for Artificial Intelligence and Machine Learning (AI/ML) roles continued to lead the growth in India's white-collar job market, rising 31 per cent year-on-year (YoY) in August, while hiring by Global Capability Centres (GCCs) grew 10 per...",
+      "url": "https://www.aninews.in/news/business/aiml-hiring-rises-31-pc-yoy-in-august-gcc-recruitment-grows-10-pc-naukri-jobspeak20260908113325/",
+      "date": "2026-09-08T06:03:25Z"
+    },
+    {
+      "title": "OpenAI top scientist urges \u2018extreme caution\u2019 with pace of AI",
+      "description": "[THE STAR] OpenAI's top scientist has warned that artificial intelligence is evolving so rapidly that it is becoming increasingly difficult for humans to understand and control",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/08/openai-top-scientist-urges-extreme-caution-with-pace-of-ai",
+      "date": "2026-09-08T06:00:00Z"
+    },
+    {
+      "title": "New agentic AI platform sounds death knell for manual presentation tools",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Today, Sembly AI launches Sembly 3.0, an agentic AI platform that transforms an organisation's documents, meetings, and CRM content into...",
+      "url": "https://www.prnewswire.co.uk/news-releases/new-agentic-ai-platform-sounds-death-knell-for-manual-presentation-tools-302869946.html",
+      "date": "2026-09-08T06:00:00Z"
+    },
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "description": "[TECHCRUNCH] The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "date": "2026-09-07T19:24:00Z"
+    },
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "description": "[TECHCRUNCH] Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "date": "2026-09-06T20:47:37Z"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "date": "2026-09-03T13:13:48Z"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "date": "2026-09-03T00:00:00Z"
+    },
+    {
+      "title": "Give Your Coding Agents a Memory You Own",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/funes",
+      "date": "2026-09-03T00:00:00Z"
+    },
+    {
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "date": "2026-09-03T00:00:00Z"
+    },
+    {
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "date": "2026-09-02T13:49:14Z"
+    }
+  ]
 }
