@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-09 22:12:31 UTC",
+  "updated": "2026-09-10 02:51:12 UTC",
   "news": [
+    {
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "description": "[TECHCRUNCH] Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "date": "2026-09-10T00:00:37Z"
+    },
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "description": "[TECHCRUNCH] Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "date": "2026-09-09T22:25:22Z"
+    },
     {
       "title": "Massachusetts hits data centers with new clean power rules",
       "description": "[TECHCRUNCH] Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
@@ -26,88 +38,112 @@
       "date": "2026-09-09T19:21:48Z"
     },
     {
-      "title": "Apple\u2019s revamped Health app will calculate your \u2018health age\u2019 and readiness score",
-      "description": "[TECHCRUNCH] The update uses Apple Intelligence to make better sense of your health data.",
-      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-      "date": "2026-09-09T18:16:29Z"
-    },
-    {
-      "title": "Apple has a new way prove your iPhone photos aren\u2019t AI slop",
-      "description": "[TECHCRUNCH] Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
-      "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-      "date": "2026-09-09T18:08:35Z"
-    },
-    {
       "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "date": "2026-09-09T15:36:24Z"
     },
     {
-      "title": "NPCI launches two new agentic AI platforms: How AiNxt and AtOM will work",
-      "description": "[CNBC TV18] NPCI launches AiNxt and AtOM at GFF 2026 in Mumbai, revolutionizing India's digital payments with agentic AI for automation and ecosystem coordination.",
-      "url": "https://www.cnbctv18.com/personal-finance/gff-npci-launches-two-new-agentic-ai-platforms-how-ainxt-atom-will-work-19987594.htm",
-      "date": "2026-09-09T10:06:11Z"
+      "title": "Should schools be teaching students how to use AI?",
+      "description": "[THE DALLAS MORNING NEWS] As educational programs focused on artificial intelligence keep popping up, we are asking readers what they think about it.",
+      "url": "https://www.dallasnews.com/news/education/article/should-schools-teach-students-how-to-use-ai-22422949.php",
+      "date": "2026-09-09T14:48:19Z"
     },
     {
-      "title": "DeepSeek, Alibaba among major Chinese AI firms accused of stealing trade secrets of American counterparts",
-      "description": "[TIMES OF INDIA] US News: The United States on Tuesday accused Chinese Artificial Intelligence firms, including DeepSeek and Alibaba, of stealing trade secrets of their America.",
-      "url": "https://timesofindia.indiatimes.com/world/us/deepseek-alibaba-among-major-chinese-ai-firms-accused-of-stealing-trade-secrets-of-american-counterparts/articleshow/133963450.cms",
-      "date": "2026-09-09T10:04:00Z"
+      "title": "Open AI says its AI model solved one",
+      "description": "[CP24 TORONTO] OpenAI on Tuesday said its artificial intelligence technology has cracked one of the Millennium Problems \u2013\u2013 seven famously difficult and unsolved questions in mathematics that have stumped even the world\u2019s brightest minds.",
+      "url": "https://www.cp24.com/news/world/2026/09/09/openai-says-it-has-solved-one-of-maths-millennium-problems/",
+      "date": "2026-09-09T14:46:42Z"
     },
     {
-      "title": "Anthropic researcher quits over AI safety concerns, warns companies \u2018gambling with our lives\u2019 as report claims \u2018over 10% chance AI wipes out humanity by 2036\u2019",
-      "description": "[TIMES OF INDIA] Tech News News: In what can be seen as a warning from artificial intelligence (AI) technology, Anthropic safety researcher Evan Hubinger stated publicly that the odds.",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-researcher-quits-over-ai-safety-concerns-warns-companies-gambling-with-our-lives-as-report-claims-over-10-chance-ai-wipes-out-humanity-by-2036/articleshow/133962999.cms",
-      "date": "2026-09-09T09:56:00Z"
+      "title": "AI Could Wipe Out Humanity, Former Ripple Engineer Predicts",
+      "description": "[U.TODAY] Former Ripple engineer and Anthropic researcher Evan Hubinger has warned that artificial intelligence has a greater than 10% chance of wiping out humanity within the next decade.",
+      "url": "https://u.today/ai-could-wipe-out-humanity-former-ripple-engineer-predicts",
+      "date": "2026-09-09T14:35:50Z"
     },
     {
-      "title": "America\u2019s AI panic: How DeepSeek exposed a hollow superpower and the lies of the Tech Cartel",
-      "description": "[NATURAL NEWS] The launch of China\u2019s DeepSeek artificial intelligence model did not merely rattle Wall Street. It exposed a deeper, more unsettling reality: the United States, long the self-proclaimed leader in technological innovation, may have built its...",
-      "url": "https://www.naturalnews.com/2026-09-09-deepseek-exposed-a-hollow-superpower-and-the-lies-of-the-tech-cartel.html",
-      "date": "2026-09-09T09:54:44Z"
+      "title": "Anthropic Safety Researcher Quits, Warns AI Could Kill All Humans By 2036",
+      "description": "[HOT HARDWARE] An artificial intelligence safety researcher who just quit Anthropic has ignited another debate over existential risk, claiming/warning that humanity faces a real threat of extinction from unaligned superintelligence within the next decade.",
+      "url": "https://hothardware.com/news/anthropic-safety-researcher-quits-warns-ai-could-kill-humans-by-2036",
+      "date": "2026-09-09T14:01:00Z"
     },
     {
-      "title": "\u2018They\u2019re playing with our lives\u2019: AI researcher sounds alarm",
-      "description": "[BANGKOK POST] SAN FRANCISCO - An artificial intelligence researcher who left OpenAI to join rival Anthropic has decided to leave the industry, accusing both US companies of \u201cplaying with our lives\u201d in the race to develop AI models capable of self-improvement.",
-      "url": "https://www.bangkokpost.com/life/tech/3316718/theyre-playing-with-our-lives-ai-researcher-sounds-alarm",
-      "date": "2026-09-09T09:45:00Z"
+      "title": "Agilisium Receives Frost & Sullivan's 2026 Global Technology Innovation Leadership Recognition for Agentic AI in Life Sciences",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- Moving artificial intelligence from experimentation into meaningful, production-scale applications is becoming increasingly important as life...",
+      "url": "https://www.prnewswire.co.uk/news-releases/agilisium-receives-frost--sullivans-2026-global-technology-innovation-leadership-recognition-for-agentic-ai-in-life-sciences-302873118.html",
+      "date": "2026-09-09T14:00:00Z"
     },
     {
-      "title": "China rejects US accusations its AI developers relys on American AI models",
-      "description": "[THE ASSOCIATED PRESS] China has dismissed U.S. claims that Chinese artificial intelligence developers extract capabilities from frontier American AI systems.",
-      "url": "https://apnews.com/article/us-china-ai-models-anthropic-trump-0f6ca61301630134607551b1dab0d632",
-      "date": "2026-09-09T09:44:52Z"
+      "title": "PostEra's Fertility programs acquired by EMD Serono, Inc.",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- PostEra, a biotechnology company specializing in artificial intelligence for small molecule drug discovery and reproductive endocrinology,...",
+      "url": "https://www.prnewswire.co.uk/news-releases/posteras-fertility-programs-acquired-by-emd-serono-inc-302872651.html",
+      "date": "2026-09-09T14:00:00Z"
     },
     {
-      "title": "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks",
-      "description": "[SFGATE] China has dismissed U.S. claims that Chinese artificial intelligence developers extract capabilities from frontier American AI systems. On Wednesday, China's Ministry of Foreign Affairs urged the U.S....",
-      "url": "https://www.sfgate.com/news/world/article/china-hits-back-at-us-claims-of-malicious-ai-22423433.php",
-      "date": "2026-09-09T09:44:52Z"
+      "title": "260% jump in Agentic AI demand as yesterday\u2019s skills face automation: CIEL HR",
+      "description": "[THE HINDU BUSINESS LINE] Demand for Agentic AI roles surged 260% in India as automation reshapes the technology job market, reveals CIEL HR.",
+      "url": "https://www.thehindubusinessline.com/info-tech/260-jump-in-agentic-ai-demand-as-yesterdays-skills-face-automation-ciel-hr/article71447205.ece",
+      "date": "2026-09-09T13:42:20Z"
     },
     {
-      "title": "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks",
-      "description": "[WDIV CLICKONDETROIT] China has dismissed U.S. claims that Chinese artificial intelligence developers extract capabilities from frontier American AI systems.",
-      "url": "https://www.clickondetroit.com/business/2026/09/09/china-hits-back-at-us-claims-of-malicious-ai-distillation-ahead-of-planned-trump-xi-talks/",
-      "date": "2026-09-09T09:44:51Z"
+      "title": "Anthropic wants to test how AI could impact U.S. economy : NPR",
+      "description": "[NPR] Will artificial intelligence nibble around the edges of the economy or upend it altogether? A new, interactive model from Anthropic lets people tests their assumptions.",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
+      "date": "2026-09-09T13:34:48Z"
     },
     {
-      "title": "Artificial intelligence gains ground in agriculture",
-      "description": "[SBS AUSTRALIA] Artificial intelligence is penetrating all areas of life \u2014 including agriculture. Australia is even playing a leading role in this area, says Professor Volker Hessel from the University of Adelaide.",
-      "url": "https://www.sbs.com.au/language/german/en/podcast-episode/artificial-intelligence-in-agriculture-too/jd0lkvs73",
-      "date": "2026-09-09T09:30:04Z"
+      "title": "Australia invested $32 million in health-AI startup Harrison.ai to help keep it based there; a year later it is cutting Australian jobs and hiring US doctors to work with its AI",
+      "description": "[TIMES OF INDIA] Tech News News: Australia\u2019s bet on artificial intelligence in healthcare is entering a new and complicated phase. Just a year after the federal government invested $3.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/australia-invested-32-million-in-health-ai-startup-harrison-ai-to-help-keep-it-based-there-a-year-later-it-is-cutting-australian-jobs-and-hiring-us-doctors-to-work-with-its-ai/articleshow/133967947.cms",
+      "date": "2026-09-09T13:30:00Z"
     },
     {
-      "title": "How Data Center Backlash Is Shaping the US Midterms: Explainer",
-      "description": "[BLOOMBERG TAX NEWS] Spending on data centers, the backbone of the artificial intelligence industry, has reached new highs in 2026. In response to the infrastructure boom, opposition to the facilities has exploded this year, escalating from a niche local issue to a...",
-      "url": "https://news.bloombergtax.com/daily-tax-report/how-data-center-backlash-is-shaping-the-us-midterms-explainer",
-      "date": "2026-09-09T09:30:00Z"
+      "title": "University of North Texas launches College of AI and Advanced Analytics following $20M donation",
+      "description": "[FOX 4 NEWS] The University of North Texas announced a $20M transformational gift from Anuradha and Vikas Sinha to establish the Sinha College of Artificial Intelligence and Advanced Analytics.",
+      "url": "https://www.fox4news.com/news/university-north-texas-launches-college-ai-advanced-analytics-following-20m-donation",
+      "date": "2026-09-09T13:28:41Z"
+    },
+    {
+      "title": "CloudNC aims to accelerate AI supply chain machining",
+      "description": "[AI-NEWS] CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks. The investment round was led by US venture investor Nimble Ventures, with participation from Calculus Venture Capital,...",
+      "url": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+      "date": "2026-09-09T10:34:20Z"
+    },
+    {
+      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+      "description": "[AI-NEWS] Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and France. Samsung...",
+      "url": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "date": "2026-09-09T08:52:19Z"
     },
     {
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
       "date": "2026-09-08T14:23:07Z"
+    },
+    {
+      "title": "Arm launches Total Design for Physical AI and robotics framework",
+      "description": "[AI-NEWS] Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries \u2013 spanning mining, agriculture, manufacturing, and global transport \u2013 account for...",
+      "url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+      "date": "2026-09-08T11:44:10Z"
+    },
+    {
+      "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+      "description": "[AI-NEWS] Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quantities through its Coke Buddy platform. The Perfect Basket feature uses Coca-Cola\u2019s Central Recommendation Engine to analyse previous orders, ordering...",
+      "url": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
+      "date": "2026-09-08T10:00:00Z"
+    },
+    {
+      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+      "description": "[AI-NEWS] Google&#8217;s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hour....",
+      "url": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+      "date": "2026-09-08T09:00:00Z"
+    },
+    {
+      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+      "description": "[AI-NEWS] YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only website...",
+      "url": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+      "date": "2026-09-08T08:50:39Z"
     },
     {
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
