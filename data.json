@@ -1,59 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-11 15:08 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lauren Goode",
-            "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-            "description": "The long-rumored deal will give the chip giant access to\u2014and help it promote\u2014a huge repository of open-source AI models and data sets.",
-            "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-            "urlToImage": "https://media.wired.com/photos/6a906df0a8a32784cdb5c100/191:100/w_1280,c_limit/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg",
-            "publishedAt": "2026-09-03T12:43:09Z",
-            "content": "Nvidia has agreed to acquire Hugging Face, which makes online developer tools and maintains a massive library of open-source data sets, for nearly $13 billion. While the deal had been rumored for wee\u2026 [+3847 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
-            "description": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-27T16:20:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nby\r\nRobert HartClose\r\nPosts from this author \u2026 [+5467 chars]"
-        }
-    ]
+  "updated": "2026-09-11 18:56:29 UTC",
+  "news": [
+    {
+      "title": "An Anthropic researcher\u2019s doomsday warning comes at\u00a0a very interesting\u00a0time",
+      "description": "[TECHCRUNCH] An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is \u201cracing straight to self-improving superintelligence and gambling with our lives\u201d.&#160;The company&#8217;s own...",
+      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "date": "2026-09-11T18:41:49Z"
+    },
+    {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "description": "[TECHCRUNCH] The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "date": "2026-09-11T16:46:25Z"
+    },
+    {
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "description": "[AI-NEWS] NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-to-rack...",
+      "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "date": "2026-09-11T12:00:18Z"
+    },
+    {
+      "title": "HONO Partners with Sudarshan Chemical Industries to Power Its Global HR Transformation Across 29 Countries",
+      "description": "[THE TRIBUNE] Gurugram (Haryana) [India], September 11: HONO, the Agentic AI-powered HRMS platform, today announced a strategic global partnership with Sudarshan Chemical Industries Limited (Sudarshan), one of the world\u2019s leading manufacturers of colour...",
+      "url": "https://www.tribuneindia.com/news/business/hono-partners-with-sudarshan-chemical-industries-to-power-its-global-hr-transformation-across-29-countries/",
+      "date": "2026-09-11T06:47:58Z"
+    },
+    {
+      "title": "HONO Partners with Sudarshan Chemical Industries to Power Its Global HR Transformation Across 29 Countries",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Gurugram (Haryana) [India], September 11: HONO, the Agentic AI-powered HRMS platform, today announced a strategic global partnership with Sudarshan Chemical Industries Limited (Sudarshan), one of the world\u2019s leading manufacturers of colour...",
+      "url": "https://www.aninews.in/news/business/hono-partners-with-sudarshan-chemical-industries-to-power-its-global-hr-transformation-across-29-countries20260911121143/",
+      "date": "2026-09-11T06:41:43Z"
+    },
+    {
+      "title": "AI-assisted microdrama content share could rise to about 80% in 18 months: Experts",
+      "description": "[THE ECONOMIC TIMES] Artificial intelligence is rapidly changing India's microdrama content creation landscape. AI-assisted production will likely reach eighty percent within eighteen months. This shift significantly reduces both production time and costs for creators....",
+      "url": "https://economictimes.indiatimes.com/industry/media/entertainment/ai-assisted-microdrama-content-share-could-rise-to-about-80-in-18-months-experts/articleshow/134050600.cms",
+      "date": "2026-09-11T06:39:00Z"
+    },
+    {
+      "title": "Palantir, Nvidia bring sovereign AI to Nvidia\u2019s complex supply chain",
+      "description": "[THE ECONOMIC TIMES] Palantir and Nvidia are deploying sovereign artificial intelligence across Nvidia's supply chain. This collaboration integrates Nvidia's open AI models with Palantir's enterprise AI platform. The system aims to enhance supply chain visibility and...",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/palantir-nvidia-bring-sovereign-ai-to-nvidias-complex-supply-chain/articleshow/134049202.cms",
+      "date": "2026-09-11T06:09:00Z"
+    },
+    {
+      "title": "UK economy grows at fastest pace since February 2025 on possible AI boost",
+      "description": "[REUTERS] Britain's economy grew at the fastest annual pace in 18 months in July, helped by \u200ca boost from artificial intelligence and extending a strong first-half performance despite headwinds from the U.S.-Iran war, official figures showed on Friday.",
+      "url": "https://www.reuters.com/world/uk/uk-economy-grew-04-july-2026-09-11/",
+      "date": "2026-09-11T06:03:44Z"
+    },
+    {
+      "title": "scale energy project supports hotel and events venue operations",
+      "description": "[PV MAGAZINE] An artificial intelligence-enabled community-based renewable energy project has been launched in Australia coordinating existing solar with new battery storage.",
+      "url": "https://www.pv-magazine.com/2026/09/11/ai-enabled-commercial-scale-energy-project-supports-hotel-and-events-venue-operations/",
+      "date": "2026-09-11T06:03:11Z"
+    },
+    {
+      "title": "Anthropic tightens safeguards to prevent AI",
+      "description": "[THE TRIBUNE] Hackers, cybercriminals and suspected state-linked groups are increasingly using artificial intelligence to automate cyberattacks, ranging from phishing and credential theft to exploiting vulnerable systems and stealing large volumes of data,...",
+      "url": "https://www.tribuneindia.com/news/business/anthropic-tightens-safeguards-to-prevent-ai-powered-phishing-and-data-theft-by-hackers/",
+      "date": "2026-09-11T06:02:25Z"
+    },
+    {
+      "title": "Anthropic tightens safeguards to prevent AI-powered phishing and data theft by hackers",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Hackers, cybercriminals and suspected state-linked groups are increasingly using artificial intelligence to automate cyberattacks, ranging from phishing and credential theft to exploiting vulnerable systems and stealing large volumes of data,...",
+      "url": "https://www.aninews.in/news/business/anthropic-tightens-safeguards-to-prevent-ai-powered-phishing-and-data-theft-by-hackers20260911112941/",
+      "date": "2026-09-11T05:59:41Z"
+    },
+    {
+      "title": "AI has increased work, not replaced jobs at Policybazaar, says CTO Bibhu Krishna",
+      "description": "[THE ECONOMIC TIMES] Policybazaar's chief technology officer states AI writes most of its code. This AI assistance has doubled production releases and expanded engineering tasks. Developers' roles have increased, not been replaced by artificial intelligence. Human...",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/gff-2026-ai-has-increased-work-not-replaced-jobs-at-policybazaar-says-cto-bibhu-krishna/articleshow/134048024.cms",
+      "date": "2026-09-11T05:49:00Z"
+    },
+    {
+      "title": "AI-driven chip demand fuels semiconductor \u2018super cycle\u2019; memory segment remains key beneficiary: Jefferies",
+      "description": "[LIVEMINT] Artificial intelligence (AI)-led demand is driving a strong upcycle in the semiconductor industry, with memory chips emerging as a key beneficiary of rising technology investments, according to a Jefferies report.",
+      "url": "https://www.livemint.com/technology/aidriven-chip-demand-fuels-semiconductor-super-cycle-memory-segment-remains-key-beneficiary-jefferies-11789105235037.html",
+      "date": "2026-09-11T05:40:34Z"
+    },
+    {
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "description": "[TECHCRUNCH] Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "date": "2026-09-10T21:51:59Z"
+    },
+    {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "description": "[TECHCRUNCH] Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "date": "2026-09-10T21:35:00Z"
+    },
+    {
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "description": "[TECHCRUNCH] The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "date": "2026-09-10T20:59:51Z"
+    },
+    {
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "description": "[TECHCRUNCH] A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "date": "2026-09-10T20:57:30Z"
+    },
+    {
+      "title": "Supply chains detect fast, act slow: How AI agents fix it",
+      "description": "[AI-NEWS] Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e. storms happen,...",
+      "url": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+      "date": "2026-09-10T16:34:43Z"
+    },
+    {
+      "title": "JD.com expands physical AI in logistics with 3 million robots",
+      "description": "[AI-NEWS] JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3 million robots, 1 million autonomous vehicles, and 100,000 delivery drones. The company...",
+      "url": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+      "date": "2026-09-10T10:00:00Z"
+    },
+    {
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "date": "2026-09-10T00:00:00Z"
+    },
+    {
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "date": "2026-09-09T15:36:24Z"
+    },
+    {
+      "title": "CloudNC aims to accelerate AI supply chain machining",
+      "description": "[AI-NEWS] CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks. The investment round was led by US venture investor Nimble Ventures, with participation from Calculus Venture Capital,...",
+      "url": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+      "date": "2026-09-09T10:34:20Z"
+    },
+    {
+      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+      "description": "[AI-NEWS] Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and France. Samsung...",
+      "url": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "date": "2026-09-09T08:52:19Z"
+    },
+    {
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "date": "2026-09-08T14:23:07Z"
+    },
+    {
+      "title": "Arm launches Total Design for Physical AI and robotics framework",
+      "description": "[AI-NEWS] Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries \u2013 spanning mining, agriculture, manufacturing, and global transport \u2013 account for...",
+      "url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+      "date": "2026-09-08T11:44:10Z"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "date": "2026-09-03T13:13:48Z"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "date": "2026-09-03T00:00:00Z"
+    },
+    {
+      "title": "Give Your Coding Agents a Memory You Own",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/funes",
+      "date": "2026-09-03T00:00:00Z"
+    }
+  ]
 }
