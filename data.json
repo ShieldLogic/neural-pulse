@@ -1,59 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-14 17:00 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lauren Goode",
-            "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-            "description": "The long-rumored deal will give the chip giant access to\u2014and help it promote\u2014a huge repository of open-source AI models and data sets.",
-            "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-            "urlToImage": "https://media.wired.com/photos/6a906df0a8a32784cdb5c100/191:100/w_1280,c_limit/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg",
-            "publishedAt": "2026-09-03T12:43:09Z",
-            "content": "Nvidia has agreed to acquire Hugging Face, which makes online developer tools and maintains a massive library of open-source data sets, for nearly $13 billion. While the deal had been rumored for wee\u2026 [+3847 chars]"
-        }
-    ]
+  "updated": "2026-09-14 21:22:30 UTC",
+  "news": [
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "description": "[TECHCRUNCH] Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "date": "2026-09-14T20:44:14Z"
+    },
+    {
+      "title": "With iOS 27, I\u2019m actually using Siri again",
+      "description": "[TECHCRUNCH] Apple\u2019s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "date": "2026-09-14T17:10:30Z"
+    },
+    {
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "description": "[TECHCRUNCH] Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "date": "2026-09-14T17:00:00Z"
+    },
+    {
+      "title": "Microsoft\u2019s new AI \u2018code of conduct\u2019 tells models not to hack systems or trick humans",
+      "description": "[TECHCRUNCH] The code of conduct lays out general principles that Microsoft AI models should uphold \u2014 supporting humans rather than replacing them, for instance, and accelerating human flourishing \u2014 as well as specific safety constraints meant to implement those...",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "date": "2026-09-14T16:27:53Z"
+    },
+    {
+      "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
+      "description": "[AI-NEWS] Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultation on operational constraints for model training and deployment. The draft serves as a technical manual defining system behaviour, operational...",
+      "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
+      "date": "2026-09-14T15:30:41Z"
+    },
+    {
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "description": "[TECHCRUNCH] If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch...",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "date": "2026-09-14T15:00:00Z"
+    },
+    {
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "description": "[TECHCRUNCH] The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "date": "2026-09-14T14:45:44Z"
+    },
+    {
+      "title": "Google deploying age verification tech",
+      "description": "[CP24 TORONTO] Google is bringing its age assurance technology \u2014 which uses artificial intelligence to detect underage users \u2014 to Canada.",
+      "url": "https://www.cp24.com/news/canada/2026/09/14/google-to-begin-using-age-assurance-tech-to-identify-underage-accounts-in-canada/",
+      "date": "2026-09-14T09:22:08Z"
+    },
+    {
+      "title": "China\u2019s AI Safety Strategy: How Beijing Is Preparing for Loss of Human Control",
+      "description": "[MODERN DIPLOMACY] China and the United States are competing to lead the development of increasingly powerful artificial intelligence systems, but both countries are also confronting a growing concern: what happens if advanced AI becomes capable of acting beyond...",
+      "url": "https://moderndiplomacy.eu/2026/09/14/chinas-ai-safety-strategy-how-beijing-is-preparing-for-loss-of-human-control/",
+      "date": "2026-09-14T09:15:33Z"
+    },
+    {
+      "title": "Dario Amodei and the AI apocalypse alchemists",
+      "description": "[THE SPECTATOR] So the sceptics and cynics about Artificial Intelligence are correct? Maybe. Maybe not. Elon Musk's involvement is significant",
+      "url": "https://spectator.com/article/dario-amodei-and-the-ai-apocalypse-alchemists/",
+      "date": "2026-09-14T09:12:26Z"
+    },
+    {
+      "title": "Trump\u2019s AI strategy pits US-China competition against growing safety fears",
+      "description": "[MONEYCONTROL] Washington faces growing pressure to rein in artificial intelligence as tech leaders warn of serious risks and Republicans resist moves that could slow the US race against China.",
+      "url": "https://www.moneycontrol.com/world/trump-s-ai-strategy-pits-us-china-competition-against-growing-safety-fears-article-14029393.html",
+      "date": "2026-09-14T09:11:18Z"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman Voices Support for \u2018Pacing\u2019 AI Development",
+      "description": "[DECCAN CHRONICLE] Altman said there\u2019ll be a cost to this shift of focus to safety, but it\u2019ll be worth it in order to maintain confidence that US companies are developing increasingly capable artificial intelligence responsibly",
+      "url": "https://www.deccanchronicle.com/technology/openai-ceo-sam-altman-voices-support-for-pacing-ai-development-1987401",
+      "date": "2026-09-14T09:03:53Z"
+    },
+    {
+      "title": "Trump downplays call to rein in growth of AI",
+      "description": "[ARKANSAS ONLINE] DUBLIN -- President Donald Trump on Sunday played down the need for his administration to check the development of artificial intelligence, saying he worried about ceding America's edge over China in a global competition and that winning would help...",
+      "url": "https://www.arkansasonline.com/news/2026/sep/14/trump-downplays-call-to-rein-in-growth-of-ai/",
+      "date": "2026-09-14T09:00:00Z"
+    },
+    {
+      "title": "New warnings about the risks of AI to humanity revive a long-running debate",
+      "description": "[THE STAR] New warnings from within the artificial intelligence industry have revived a long-running debate over whether advanced AI could escape human control and ultimately threaten humanity's survival.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/14/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate",
+      "date": "2026-09-14T09:00:00Z"
+    },
+    {
+      "title": "Georgia voting apparatus puts ballot secrecy at risk",
+      "description": "[ARKANSAS ONLINE] ATLANTA -- Security researchers say rapid advances in artificial intelligence are making it more critical to address a flaw in Georgia's voting equipment that can allow voters to be matched to their ballots after they have been cast.",
+      "url": "https://www.arkansasonline.com/news/2026/sep/14/georgia-voting-apparatus-puts-ballot-secrecy-at/",
+      "date": "2026-09-14T09:00:00Z"
+    },
+    {
+      "title": "King Charles Steers the AI Debate: A Royal Summit on Ethics and Innovation",
+      "description": "[DEVDISCOURSE] King Charles is hosting leaders from top AI companies to discuss establishing shared ethical principles for artificial intelligence. This gathering follows warnings from experts about potential threats posed by AI advancements. The UK, leading...",
+      "url": "https://www.devdiscourse.com/article/entertainment/3976848-king-charles-steers-the-ai-debate-a-royal-summit-on-ethics-and-innovation",
+      "date": "2026-09-14T08:58:28Z"
+    },
+    {
+      "title": "AI Stocks Tumble In Asian Markets After Anthropic, OpenAI CEOs Warn Against Rapid Development Pace",
+      "description": "[FREE PRESS JOURNAL] AI-linked stocks declined globally after leading artificial intelligence executives warned that rapid development of advanced AI systems could create major risks. Shares of SoftBank, chipmakers and semiconductor firms fell as investors reacted to...",
+      "url": "https://www.freepressjournal.in/business/ai-stocks-tumble-in-asian-markets-after-anthropic-openai-ceos-warn-against-rapid-development-pace",
+      "date": "2026-09-14T08:54:15Z"
+    },
+    {
+      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+      "description": "[AI-NEWS] Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one to...",
+      "url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+      "date": "2026-09-14T08:04:35Z"
+    },
+    {
+      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+      "description": "[AI-NEWS] A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over. However, with the right use of AI, things can become a lot more interesting. To an artificial...",
+      "url": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+      "date": "2026-09-14T07:56:45Z"
+    },
+    {
+      "title": "How Vox Group\u2019s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
+      "description": "[AI-NEWS] Live translation has long been one of travel&#8217;s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by everyone at once. Vox Group, a 25-year-old guiding technology company operating in...",
+      "url": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
+      "date": "2026-09-14T07:39:28Z"
+    },
+    {
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "description": "[AI-NEWS] NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-to-rack...",
+      "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "date": "2026-09-11T12:00:18Z"
+    },
+    {
+      "title": "Supply chains detect fast, act slow: How AI agents fix it",
+      "description": "[AI-NEWS] Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e. storms happen,...",
+      "url": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+      "date": "2026-09-10T16:34:43Z"
+    },
+    {
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "date": "2026-09-10T00:00:00Z"
+    },
+    {
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "date": "2026-09-10T00:00:00Z"
+    },
+    {
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "date": "2026-09-09T15:36:24Z"
+    },
+    {
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "date": "2026-09-08T14:23:07Z"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "date": "2026-09-03T13:13:48Z"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "date": "2026-09-03T00:00:00Z"
+    }
+  ]
 }
