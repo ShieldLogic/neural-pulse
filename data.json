@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-15 15:38 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lauren Goode",
-            "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-            "description": "The long-rumored deal will give the chip giant access to\u2014and help it promote\u2014a huge repository of open-source AI models and data sets.",
-            "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-            "urlToImage": "https://media.wired.com/photos/6a906df0a8a32784cdb5c100/191:100/w_1280,c_limit/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg",
-            "publishedAt": "2026-09-03T12:43:09Z",
-            "content": "Nvidia has agreed to acquire Hugging Face, which makes online developer tools and maintains a massive library of open-source data sets, for nearly $13 billion. While the deal had been rumored for wee\u2026 [+3847 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
-            "description": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-27T16:20:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nSuch milestones are senseless, according to Nvidias CEO.\r\nby\r\nRobert HartClose\r\nPosts from this author \u2026 [+5467 chars]"
-        }
-    ]
+  "updated": "2026-09-15 17:53:48 UTC",
+  "news": [
+    {
+      "title": "AI agents now have a place to snitch",
+      "description": "[TECHCRUNCH] The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "date": "2026-09-15T17:42:59Z"
+    },
+    {
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "description": "[TECHCRUNCH] Meta One bundles expanded access to the company\u2019s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "date": "2026-09-15T17:05:24Z"
+    },
+    {
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "date": "2026-09-15T16:00:44Z"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "description": "[TECHCRUNCH] OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "date": "2026-09-15T15:47:03Z"
+    },
+    {
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "description": "[TECHCRUNCH] Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "date": "2026-09-15T15:22:48Z"
+    },
+    {
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "description": "[TECHCRUNCH] Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "date": "2026-09-15T14:42:37Z"
+    },
+    {
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "description": "[TECHCRUNCH] Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save...",
+      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "date": "2026-09-15T14:30:00Z"
+    },
+    {
+      "title": "Bill Gates is very impressed with China's AI growth that US government has been warning its companies about, says...",
+      "description": "[TIMES OF INDIA] Tech News News: Bill Gates recently praised the rapid progress of China's artificial intelligence industry at a time when the US government has been warning American .",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-is-very-impressed-with-chinas-ai-growth-that-us-government-has-been-warning-its-companies-about-says-/articleshow/134253229.cms",
+      "date": "2026-09-15T05:47:00Z"
+    },
+    {
+      "title": "[CONFERENCE] 'Education in AI era should focus on cultivating humanity'",
+      "description": "[THE KOREA TIMES] Choi Jae-boong, professor of mechanical engineering at Sungkyunkwan University, said education in the era of artificial intelligence (AI) should fo...",
+      "url": "https://www.koreatimes.co.kr/business/companies/20260915/conference-education-in-ai-era-should-focus-on-cultivating-humanity",
+      "date": "2026-09-15T05:46:03Z"
+    },
+    {
+      "title": "[CONFERENCE] Universities must rethink curricula instead of restricting students' use of AI, professor says",
+      "description": "[THE KOREA TIMES] Choi Jae-boong, professor of interdisciplinary AI service design at Sungkyunkwan University, said education in the era of artificial intelligence (...",
+      "url": "https://www.koreatimes.co.kr/southkorea/education/20260915/conference-education-in-ai-era-should-focus-on-cultivating-humanity",
+      "date": "2026-09-15T05:46:03Z"
+    },
+    {
+      "title": "Prevalent AI, co-founded by Malayali, raises \u20b9210 cr; eyes Kochi expansion",
+      "description": "[MALAYALA MANORAMA] Prevalent AI, a London-based cybersecurity firm, secured $22 million, enabling Kochi development centre expansion and job creation..Prevalent AI funding, cybersecurity enterprise solutions, Kochi Infopark expansion, private equity investment,...",
+      "url": "https://www.onmanorama.com/news/business/2026/09/15/prevalent-ai-co-founded-by-malayali-raises-210-cr-eyes-kochi-expansion.html",
+      "date": "2026-09-15T05:43:32Z"
+    },
+    {
+      "title": "Atlassian\u2019s New Agentic AI Platform Might Change The Case For Investing In Atlassian (TEAM)",
+      "description": "[EUROPE SAYS] Earlier this month, Atlassian Corporation announced new AI-driven capabilities across Jira and DX that connect governed agentic workflows across the software",
+      "url": "https://www.europesays.com/3252015/",
+      "date": "2026-09-15T05:39:17Z"
+    },
+    {
+      "title": "friendly global data standards with OECD, ADB",
+      "description": "[THE KOREA TIMES] Korea is stepping up efforts to make official statistics and other public data more accessible to artificial intelligence (AI) and explore AI-frien...",
+      "url": "https://www.koreatimes.co.kr/economy/others/20260915/data-ministry-explores-ai-friendly-global-data-standards-with-oecd-adb",
+      "date": "2026-09-15T05:29:03Z"
+    },
+    {
+      "title": "South Korea to develop new security guidelines for autonomous AI agents",
+      "description": "[CNBC TV18] KISA drafts new AI Security Guide for autonomous AI systems. South Korea addresses risks from agentic AI, including physical AI & Hugging Face breach.",
+      "url": "https://www.cnbctv18.com/technology/south-korea-to-develop-new-security-guidelines-for-autonomous-ai-agents-19990679.htm",
+      "date": "2026-09-15T05:28:15Z"
+    },
+    {
+      "title": "Google researcher says AI may 'kill us all' in exit post: \u2018We might be running out of time\u2019",
+      "description": "[HINDUSTAN TIMES] A Google DeepMind safety researcher has resigned from his position, citing fears of unchecked artificial intelligence growth | Trending",
+      "url": "https://www.hindustantimes.com/trending/google-researcher-says-ai-may-kill-us-all-in-exit-post-we-might-be-running-out-of-time-101789449497255.html",
+      "date": "2026-09-15T05:25:21Z"
+    },
+    {
+      "title": "UK will \u2018heed the warnings\u2019 about AI risks, senior minister Louise Haigh to say",
+      "description": "[KENT ONLINE] She will say artificial intelligence has enormous potential but the Government will not ignore the risks posed by the technology.",
+      "url": "https://www.kentonline.co.uk/news/national/uk-will-heed-the-warnings-about-ai-risks-senior-minister-louise-haigh-to-say-171713/",
+      "date": "2026-09-15T05:21:38Z"
+    },
+    {
+      "title": "Rimini Street and Datacom Announce Strategic Partnership to Accelerate AI Adoption and Drive IT Optimisation Across ANZ",
+      "description": "[ITWIRE] Collaboration delivers expert third-party support for Oracle and SAP, keeping systems secure, compliant, and stable for immediate Agentic AI ERP innovation while freeing up...",
+      "url": "https://itwire.com/it-industry-news/strategy/rimini-street-and-datacom-announce-strategic-partnership-to-accelerate-ai-adoption-and-drive-it-optimisation-across-anz",
+      "date": "2026-09-15T05:06:23Z"
+    },
+    {
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "date": "2026-09-10T00:00:00Z"
+    },
+    {
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "date": "2026-09-10T00:00:00Z"
+    },
+    {
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "date": "2026-09-08T14:23:07Z"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "date": "2026-09-03T13:13:48Z"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "date": "2026-09-03T00:00:00Z"
+    }
+  ]
 }
