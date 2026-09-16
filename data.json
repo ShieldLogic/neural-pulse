@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-16 15:29 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        }
-    ]
+  "updated": "2026-09-16 19:20:20 UTC",
+  "news": [
+    {
+      "title": "AI labs want in-house auditors \u2014 but maybe they should shut the front door first",
+      "description": "[TECHCRUNCH] There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "date": "2026-09-16T18:25:25Z"
+    },
+    {
+      "title": "Your AI agents can now control your Google Home devices",
+      "description": "[TECHCRUNCH] Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "date": "2026-09-16T17:00:00Z"
+    },
+    {
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "description": "[TECHCRUNCH] Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "date": "2026-09-16T16:30:00Z"
+    },
+    {
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia\u2019s Les Karpas explains why at TechCrunch\u00a0Disrupt 2026",
+      "description": "[TECHCRUNCH] The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "date": "2026-09-16T15:00:00Z"
+    },
+    {
+      "title": "Threads\u2019 new features let podcasters promote shows and reach listeners",
+      "description": "[TECHCRUNCH] Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
+      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+      "date": "2026-09-16T14:24:58Z"
+    },
+    {
+      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+      "description": "[TECHCRUNCH] Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
+      "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+      "date": "2026-09-16T14:15:00Z"
+    },
+    {
+      "title": "From 7,000 drugs to one active against resistant strains: AI advances pneumonia drug repurposing",
+      "description": "[MEDICAL XPRESS] Streptococcus pneumoniae is a bacterial pathogen that causes life-threatening infections, including pneumonia and meningitis. These infections are commonly treated with antibiotics, but antibiotics are becoming less effective against S. pneumoniae...",
+      "url": "https://medicalxpress.com/news/2026-09-drugs-resistant-strains-ai-advances.html",
+      "date": "2026-09-16T07:10:01Z"
+    },
+    {
+      "title": "OpenAI to partner with rivals on safety",
+      "description": "[ARKANSAS ONLINE] OpenAI is working on steps to address artificial intelligence safety issues with its top competitors Anthropic PBC and Google DeepMind, escalating industry efforts to respond to a groundswell of concern that the technology poses an economic and...",
+      "url": "https://www.arkansasonline.com/news/2026/sep/16/openai-to-partner-with-rivals-on-safety/",
+      "date": "2026-09-16T07:07:00Z"
+    },
+    {
+      "title": "AI experts are sounding alarms. Our government won't listen",
+      "description": "[SPOKANE SPOKESMAN-REVIEW] A former artificial intelligence researcher is sounding the alarm on how the technology he helped develop could lead to the demise of humanity. Now, even Anthropic CEO Dario Amodei is saying regulation needs to happen. If only politicians would take...",
+      "url": "https://www.spokesman.com/stories/2026/sep/16/sara-pequeno-ai-experts-are-sounding-alarms-our-go/",
+      "date": "2026-09-16T07:00:00Z"
+    },
+    {
+      "title": "Why Mark Zuckerberg isn\u2019t backing calls to slow down AI development",
+      "description": "[THE NEWS INTERNATIONAL] Mark Zuckerberg has recently responded to the growing calls aimed at slowing down AI development stemming from artificial intelligence-driven extinction of humanity. When most tech moguls and firms...",
+      "url": "https://www.thenews.com.pk/latest/1416403-why-mark-zuckerberg-isnt-backing-calls-to-slow-down-ai-development",
+      "date": "2026-09-16T06:40:00Z"
+    },
+    {
+      "title": "Customs should accelerate AI usage to reduce cost, physical interface with trusted taxpayers: CBIC chief",
+      "description": "[THE ECONOMIC TIMES] In a progressive move, the Customs department plans to ramp up its deployment of artificial intelligence and real-time analytics to limit direct taxpayer engagement. This initiative seeks to foster a unified, dependable ecosystem. Support for small...",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/customs-should-accelerate-ai-usage-to-reduce-cost-physical-interface-with-trusted-taxpayers-cbic-chief/articleshow/134280042.cms",
+      "date": "2026-09-16T06:27:00Z"
+    },
+    {
+      "title": "The maths-loving former nanny heading to Oxford University",
+      "description": "[SILICONREPUBLIC.COM] Lena Schiwitz is heading to Oxford University to take part in a new AI-based masters programme, Artificial Intelligence for Business.",
+      "url": "https://www.siliconrepublic.com/careers/maths-loving-former-nanny-oxford-university-women-invent-stem",
+      "date": "2026-09-16T06:00:53Z"
+    },
+    {
+      "title": "The AI Doom PSYOP Has Already Failed",
+      "description": "[NATURAL NEWS] The AI Doom PSYOP Has Already Failed I\u2019ve been watching the artificial intelligence panic unfold with a mixture of amusement and cold recognition. The same institutional voices that lied to us about COVID, that told us the vaccines were safe and...",
+      "url": "https://www.naturalnews.com/2026-09-16-the-ai-doom-psyop-has-already-failed.html",
+      "date": "2026-09-16T05:40:24Z"
+    },
+    {
+      "title": "AI was everywhere at GFF 2026. Full automation was not",
+      "description": "[THE ECONOMIC TIMES] Global Fintech Fest 2026 highlighted agentic AI's practical integration within the BFSI sector. Automation will handle basic tasks, but humans will retain final decision-making authority. Companies are focusing on specialised AI models and...",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/what-gff-2026-revealed-about-the-promises-and-limits-of-ai-in-financial-services/articleshow/134278768.cms",
+      "date": "2026-09-16T05:36:00Z"
+    },
+    {
+      "title": "Robokidz Eduventures to Launch \u20b931.09 Crore BSE SME IPO on September 21",
+      "description": "[NEWSX] Pune (Maharashtra) [India], September 16: Robokidz Eduventures Limited, a technology-enabled learning and skill-development company focused on Robotics, Artificial Intelligence (AI), Coding, Electronics and STEM education for K-12 students,\u2026",
+      "url": "https://www.newsx.com/nx-news/robokidz-eduventures-to-launch-%e2%82%b931-09-crore-bse-sme-ipo-on-september-21-272401/",
+      "date": "2026-09-16T05:35:12Z"
+    },
+    {
+      "title": "Google CEO Sundar Pichai outlines tech giant's AI efforts across health, weather and learning",
+      "description": "[THE ECONOMIC TIMES] Amid the ongoing debate over slowing the pace of artificial intelligence development, Google CEO Sundar Pichai has highlighted the tech giant's AI efforts across health, wealth and education, arguing that advances in the technology can accelerate...",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/google-ceo-sundar-pichai-outlines-tech-giants-ai-efforts-across-health-weather-and-learning/articleshow/134279075.cms",
+      "date": "2026-09-16T05:34:32Z"
+    },
+    {
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "date": "2026-09-15T16:00:44Z"
+    },
+    {
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "date": "2026-09-10T00:00:00Z"
+    },
+    {
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "date": "2026-09-10T00:00:00Z"
+    },
+    {
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "date": "2026-09-08T14:23:07Z"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "date": "2026-09-03T13:13:48Z"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "date": "2026-09-03T00:00:00Z"
+    }
+  ]
 }
