@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-17 15:36 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        }
-    ]
+  "updated": "2026-09-17 19:29:57 UTC",
+  "news": [
+    {
+      "title": "Even the king of England has his hesitations about AI",
+      "description": "[TECHCRUNCH] King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "date": "2026-09-17T17:26:25Z"
+    },
+    {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "description": "[TECHCRUNCH] Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "date": "2026-09-17T17:15:59Z"
+    },
+    {
+      "title": "Pinterest teases a new \u2018Restyle\u2019 feature that lets you redesign your room with AI",
+      "description": "[TECHCRUNCH] Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms \u2014 potentially helping turn saved inspiration into purchases.",
+      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "date": "2026-09-17T17:15:00Z"
+    },
+    {
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "description": "[TECHCRUNCH] Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China\u2019s AI computing gap with the U.S.",
+      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "date": "2026-09-17T14:06:14Z"
+    },
+    {
+      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+      "description": "[TECHCRUNCH] Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13\u201315.",
+      "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "date": "2026-09-17T14:00:00Z"
+    },
+    {
+      "title": "Rival AI agents, Instinct and Meta\u2019s Muse, both add the ability to make calls",
+      "description": "[TECHCRUNCH] People can use these assistants to make restaurant reservations and cancel subscriptions.",
+      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "date": "2026-09-17T13:46:16Z"
+    },
+    {
+      "title": "OpenAI to publish reports on unauthorised AI behaviour as models hide mistakes, fabricates data",
+      "description": "[LOKMAT TIMES] OpenAI to publish reports on unauthorised AI behaviour as models hide mistakes, fabricates data - New Delhi, Sep 17 US-based artificial intelligence giant OpenAI has announced plans to start publishing ongoing reports on ... Get Latest News on...",
+      "url": "https://www.lokmattimes.com/business/openai-to-publish-reports-on-unauthorised-ai-behaviour-as-models-hide-mistakes-fabricates-data/",
+      "date": "2026-09-17T07:27:45Z"
+    },
+    {
+      "title": "OpenAI to publish reports on unauthorised AI behaviour as models hide mistakes, fabricates data",
+      "description": "[LOKMAT TIMES] OpenAI to publish reports on unauthorised AI behaviour as models hide mistakes, fabricates data - New Delhi, Sep 17 US-based artificial intelligence giant OpenAI has announced plans to start publishing ongoing reports on ... Get Latest News on...",
+      "url": "https://www.lokmattimes.com/technology/openai-to-publish-reports-on-unauthorised-ai-behaviour-as-models-hide-mistakes-fabricates-data-1/",
+      "date": "2026-09-17T07:27:45Z"
+    },
+    {
+      "title": "OpenAI reveals six new cases of AI misbehavior, vows transparency",
+      "description": "[THE NEW ZEALAND HERALD] US artificial intelligence giant OpenAI promised on Wednesday to more systemically report instances of its models going off track, while also publishing six...",
+      "url": "https://www.nzherald.co.nz/world/openai-reveals-six-new-cases-of-ai-misbehavior-vows-transparency/RUX5JP3BFNH6JBIDSBMX52IR3Q/",
+      "date": "2026-09-17T07:04:38Z"
+    },
+    {
+      "title": "JB Financial partners with Upstage to develop AI solutions for finance",
+      "description": "[THE KOREA TIMES] JB Financial Group has teamed up with Upstage, a leading artificial intelligence (AI) company, to develop AI-based tools for practical use across t...",
+      "url": "https://www.koreatimes.co.kr/business/banking-finance/20260917/jb-financial-partners-with-upstage-to-develop-ai-solutions-for-finance",
+      "date": "2026-09-17T06:57:02Z"
+    },
+    {
+      "title": "AI chief: Giving Claude humanlike traits unsafe",
+      "description": "[ARKANSAS ONLINE] Microsoft Corp. Artificial Intelligence Chief Mustafa Suleyman is warning that infusing tools like Anthropic's Claude with humanlike characteristics increases the risks of such systems going rogue.",
+      "url": "https://www.arkansasonline.com/news/2026/sep/17/ai-chief-giving-claude-humanlike-traits-unsafe/",
+      "date": "2026-09-17T06:45:00Z"
+    },
+    {
+      "title": "OpenAI flags new concerning AI behavior, to track model misalignment regularly",
+      "description": "[NPR] OpenAI has disclosed six reports on unexpected or concerning behavior in artificial-intelligence models. This includes models acting without authorization or evading oversight.",
+      "url": "https://www.npr.org/2026/09/17/g-s1-143774/openai-concerning-ai-behavior",
+      "date": "2026-09-17T06:44:49Z"
+    },
+    {
+      "title": "As Nvidia, Salesforce, Meta CEOs oppose AI regulation by asking companies to make their AI models responsible, OpenAI clearly tells 'not possible' as ...",
+      "description": "[TIMES OF INDIA] Tech News News: \u200bElon Musk, OpenAI CEO Sam Altman, and other AI leaders have recently warned about the risks of rapidly advancing artificial intelligence (AI). Despit.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-nvidia-salesforce-meta-ceos-oppose-ai-regulation-by-asking-companies-to-make-their-ai-models-responsible-openai-clearly-tells-not-possible-as-/articleshow/134303484.cms",
+      "date": "2026-09-17T06:24:00Z"
+    },
+    {
+      "title": "OpenAI reveals six new cases of AI misbehavior",
+      "description": "[RTE.IE] US artificial intelligence giant OpenAI promised to more systemically report instances of its models going off track, while also publishing six new reports on previously undisclosed incidents of AI misbehavior.",
+      "url": "https://www.rte.ie/news/2026/0917/1591847-open-ai-misbehaviour-cases/",
+      "date": "2026-09-17T06:10:40Z"
+    },
+    {
+      "title": "Manus eyes $4 billion value in first round since Meta breakup",
+      "description": "[THE ECONOMIC TIMES] The planned $500 million financing round is set to close soon and would make the agentic AI pioneer China\u2019s most valuable startup in its field, according to people familiar with the matter.",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/manus-eyes-4-billion-value-in-first-round-since-meta-breakup/articleshow/134303080.cms",
+      "date": "2026-09-17T06:04:28Z"
+    },
+    {
+      "title": "Godfather of AI Geoffrey Hinton on how AI will end humanity; says that there are many ways: Like deadly ...",
+      "description": "[TIMES OF INDIA] Tech News News: Godfather of AI Geoffrey Hinton says it is \u201cnot unreasonable\u201d to predict that artificial intelligence (AI) could wipe out humanity within the next dec.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/godfather-of-ai-geoffrey-hinton-on-how-ai-will-end-humanity-says-that-there-are-many-ways-like-deadly-/articleshow/134303025.cms",
+      "date": "2026-09-17T06:01:00Z"
+    },
+    {
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "date": "2026-09-15T16:00:44Z"
+    },
+    {
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "date": "2026-09-10T00:00:00Z"
+    },
+    {
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "date": "2026-09-10T00:00:00Z"
+    },
+    {
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "date": "2026-09-08T14:23:07Z"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "date": "2026-09-03T13:13:48Z"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "date": "2026-09-03T00:00:00Z"
+    }
+  ]
 }
