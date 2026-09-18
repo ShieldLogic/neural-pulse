@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-18 15:05 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        }
-    ]
+  "updated": "2026-09-18 18:49:47 UTC",
+  "news": [
+    {
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "description": "[TECHCRUNCH] Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "date": "2026-09-18T18:49:30Z"
+    },
+    {
+      "title": "Disney\u2019s first CTO led an AI startup it once accused of copying its characters",
+      "description": "[TECHCRUNCH] The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "date": "2026-09-18T17:59:53Z"
+    },
+    {
+      "title": "Google\u2019s new \u2018CC\u2019 is an AI agent that helps families run their households",
+      "description": "[TECHCRUNCH] Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "date": "2026-09-18T17:33:50Z"
+    },
+    {
+      "title": "Dario Amodei and other AI leaders want to \u2018Pace the Frontier\u2019 but\u2026how?",
+      "description": "[TECHCRUNCH] A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to \u201cpace the frontier\u201d&#160;of AI development. The proposal leans on independent safety evaluators...",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "date": "2026-09-18T17:09:56Z"
+    },
+    {
+      "title": "Automattic\u2019s 33-Hour Coup, and can AI labs police themselves?",
+      "description": "[TECHCRUNCH] A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to \u201cpace the frontier\u201d&#160;of AI development. The proposal leans on independent safety evaluators...",
+      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "date": "2026-09-18T17:06:32Z"
+    },
+    {
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "description": "[TECHCRUNCH] Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "date": "2026-09-18T16:35:49Z"
+    },
+    {
+      "title": "AI fuels surge in hackers using blockchains in attacks",
+      "description": "[THE STAR] Open-source artificial intelligence is making it easier for hackers to hide malicious code on blockchains, opening a new front in a crypto industry already grappling with rising cybercrime.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/18/ai-fuels-surge-in-hackers-using-blockchains-in-attacks",
+      "date": "2026-09-18T06:30:00Z"
+    },
+    {
+      "title": "College sports bill inches ahead in the Senate even as Congress punts other issues",
+      "description": "[BREITBART NEWS NETWORK] Congress has struggled to pass major legislation this year, putting off debates on spending, defense, cryptocurrency and artificial intelligence.",
+      "url": "https://www.breitbart.com/news/college-sports-bill-inches-ahead-in-the-senate-even-as-congress-punts-other-issues/",
+      "date": "2026-09-18T06:19:27Z"
+    },
+    {
+      "title": "Australia's AI future depends on the networks we build today",
+      "description": "[ITWIRE] Artificial intelligence AI is moving from experiments and chatbots into the physical world. Australia can lead this next phase, but only if investment in AI is matched by...",
+      "url": "https://itwire.com/guest-articles/company-news/australias-ai-future-depends-on-the-networks-we-build-today",
+      "date": "2026-09-18T06:11:00Z"
+    },
+    {
+      "title": "AI could pose \u2018whole problem\u2019 for management education, CEA Nageswaran warns",
+      "description": "[THE ECONOMIC TIMES] Artificial intelligence poses a fundamental challenge to management education over upcoming decades. Young professionals traditionally develop experience and judgement through entry-level work. AI is automating these routine tasks, which are crucial...",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-could-pose-whole-problem-for-management-education-cea-nageswaran-warns/articleshow/134327317.cms",
+      "date": "2026-09-18T06:08:00Z"
+    },
+    {
+      "title": "The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl",
+      "description": "[THE ECONOMIC TIMES] The gathering in Scotland was convened to discuss how AI can benefit society, and comes at a pivotal moment for the technology as debate swirls around whether rapid advances will soon put it beyond the ability of humans to rein it in.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/the-king-and-ai-uk-monarch-charles-meets-artificial-intelligence-leaders-as-safety-concerns-swirl/articleshow/134327598.cms",
+      "date": "2026-09-18T06:06:53Z"
+    },
+    {
+      "title": "MHT-CET Admissions: Computer Engineering most preferred branch, SPPU tops university list",
+      "description": "[THE INDIAN EXPRESS] The available data also shows 10,502 students were admitted to Artificial Intelligence and Data Science programmes, making up 5.77 per cent of the total BE-BTech admissions.",
+      "url": "https://indianexpress.com/article/education/maharashtra-mht-cet-btech-engineerin-admissions-2026-computer-engineering-most-preferred-branch-sppu-tops-university-list-10883160/",
+      "date": "2026-09-18T06:02:07Z"
+    },
+    {
+      "title": "AI could pose major challenge for management education; B",
+      "description": "[THE TRIBUNE] Artificial intelligence (AI) could pose a major challenge to management education over the next two to three decades, Chief Economic Adviser V. Anantha Nageswaran said, urging B-schools to prioritise teaching \u201cjudgement\u201d as AI increasingly takes...",
+      "url": "https://www.tribuneindia.com/news/business/ai-could-pose-major-challenge-for-management-education-b-schools-must-teach-judgement-v-anantha-nageswaran-cea/",
+      "date": "2026-09-18T05:57:36Z"
+    },
+    {
+      "title": "AI could pose major challenge for management education; B-schools must teach judgement: V. Anantha Nageswaran CEA",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Artificial intelligence (AI) could pose a major challenge to management education over the next two to three decades, Chief Economic Adviser V. Anantha Nageswaran said, urging B-schools to prioritise teaching \u201cjudgement\u201d as AI increasingly takes...",
+      "url": "https://www.aninews.in/news/business/ai-could-pose-major-challenge-for-management-education-b-schools-must-teach-judgement-v-anantha-nageswaran-cea20260918112638/",
+      "date": "2026-09-18T05:56:38Z"
+    },
+    {
+      "title": "The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl",
+      "description": "[THE STAR] King Charles III on Sept 17 urged senior leaders from OpenAI, Anthropic, Google DeepMind and Nvidia to make sure that artificial intelligence remains under control and in the service of people and the planet.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/18/the-king-and-ai-uk-monarch-charles-meets-artificial-intelligence-leaders-as-safety-concerns-swirl",
+      "date": "2026-09-18T05:30:00Z"
+    },
+    {
+      "title": "Middle East turmoil, AI set to dominate UN gathering of world leaders",
+      "description": "[THE NEW INDIAN EXPRESS] Artificial intelligence will also be a key topic in talks and speeches, with its potential threats to humanity dominating global headlines after tech leaders so",
+      "url": "https://www.newindianexpress.com/world/2026/Sep/18/middle-east-turmoil-ai-set-to-dominate-un-gathering-of-world-leaders",
+      "date": "2026-09-18T05:24:59Z"
+    },
+    {
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "date": "2026-09-15T16:00:44Z"
+    },
+    {
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "date": "2026-09-10T00:00:00Z"
+    },
+    {
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "date": "2026-09-10T00:00:00Z"
+    },
+    {
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "date": "2026-09-08T14:23:07Z"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "date": "2026-09-03T13:13:48Z"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "date": "2026-09-03T00:00:00Z"
+    }
+  ]
 }
