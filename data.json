@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-21 17:08 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        }
-    ]
+  "updated": "2026-09-21 21:38:18 UTC",
+  "news": [
+    {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "description": "[TECHCRUNCH] The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "date": "2026-09-21T20:15:58Z"
+    },
+    {
+      "title": "Discover what\u2019s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "description": "[TECHCRUNCH] Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco\u2019s Moscone West, October 13-15. Grab your ticket savings before prices go up on September...",
+      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "date": "2026-09-21T19:25:00Z"
+    },
+    {
+      "title": "Meta\u2019s Muse is outpacing ChatGPT\u2019s early mobile launch",
+      "description": "[TECHCRUNCH] Meta\u2019s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "date": "2026-09-21T19:19:21Z"
+    },
+    {
+      "title": "Meta\u2019s AI agent has been blocked from using Amazon.com",
+      "description": "[TECHCRUNCH] Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "date": "2026-09-21T17:55:18Z"
+    },
+    {
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "description": "[TECHCRUNCH] Tabby is designed to be a real-time bookkeeping interface, handling clients\u2019 paperwork as it gives them up-to-the-minute data on their business\u2019s profit and loss.",
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "date": "2026-09-21T16:38:51Z"
+    },
+    {
+      "title": "Where will the next breakout startup come from? Benchmark\u2019s full partnership weighs in at TechCrunch Disrupt 2026",
+      "description": "[TECHCRUNCH] Where will the next breakout startup come from? Benchmark\u2019s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "date": "2026-09-21T15:00:00Z"
+    },
+    {
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "date": "2026-09-21T13:44:34Z"
+    },
+    {
+      "title": "AI oversight: The UK has already built the watchdog that America\u2019s tech royalty say they want",
+      "description": "[LIVEMINT] Leaders of artificial intelligence (AI) firms in the US say they would like a supervisory system for this technology, while the Trump administration has been unsure. London\u2019s AI Security Institute is perfectly placed to evaluate risks. Here's why.",
+      "url": "https://www.livemint.com/opinion/online-views/ai-oversight-us-tech-royalty-has-sought-an-artificial-intelligence-watchdog-heres-why-the-uk-has-what-it-needs-11789906756020.html",
+      "date": "2026-09-21T09:31:01Z"
+    },
+    {
+      "title": "Karnataka introduces AI as vocational subject for Classes 9, 10: 1,642 government schools to offer course, check complete details here",
+      "description": "[TIMES OF INDIA] News News: The Karnataka School Education Department has introduced artificial intelligence (AI) as a vocational subject for students of Classes 9 and 10 under t.",
+      "url": "https://timesofindia.indiatimes.com/education/news/karnataka-introduces-ai-as-vocational-subject-for-classes-9-10-1642-government-schools-to-offer-course-check-complete-details-here/articleshow/134385733.cms",
+      "date": "2026-09-21T09:30:00Z"
+    },
+    {
+      "title": "Can AI Optimism Offset the Market Shock From Rising Oil Prices?",
+      "description": "[MODERN DIPLOMACY] Global stocks recovered on Monday as stronger evidence of artificial intelligence demand boosted technology shares, while a retreat in oil prices eased some of the pressure that has weighed on global bond markets.",
+      "url": "https://moderndiplomacy.eu/2026/09/21/can-ai-optimism-offset-the-market-shock-from-rising-oil-prices/",
+      "date": "2026-09-21T09:28:04Z"
+    },
+    {
+      "title": "Deakin University GIFT City Campus Launches Master of Applied Artificial Intelligence (Professional) for Indian students",
+      "description": "[THE TRIBUNE] GANDHINAGAR, India, Sept. 21, 2026 /PRNewswire/ -- Deakin University GIFT City Campus has announced the launch of its Master of Applied Artificial Intelligence (Professional), a new postgraduate programme designed to prepare the next generation of...",
+      "url": "https://www.tribuneindia.com/news/business/deakin-university-gift-city-campus-launches-master-of-applied-artificial-intelligence-professional-for-indian-students-2-2/",
+      "date": "2026-09-21T09:20:25Z"
+    },
+    {
+      "title": "India likely to emerge as global leader in number of AI projects: Microsoft India Development Center President",
+      "description": "[DEVDISCOURSE] India is likely to emerge as a global leader in the number of artificial intelligence (AI) projects, said Rajiv Kumar, Managing Director and President of Microsoft India Development Center.",
+      "url": "https://www.devdiscourse.com/article/business/3979841-india-likely-to-emerge-as-global-leader-in-number-of-ai-projects-microsoft-india-development-center-president",
+      "date": "2026-09-21T09:11:25Z"
+    },
+    {
+      "title": "India likely to emerge as global leader in number of AI projects: Microsoft India Development Center President",
+      "description": "[THE TRIBUNE] India is likely to emerge as a global leader in the number of artificial intelligence (AI) projects, said Rajiv Kumar, Managing Director and President of Microsoft India Development Center.",
+      "url": "https://www.tribuneindia.com/news/business/india-likely-to-emerge-as-global-leader-in-number-of-ai-projects-microsoft-india-development-center-president/",
+      "date": "2026-09-21T09:07:47Z"
+    },
+    {
+      "title": "India likely to emerge as global leader in number of AI projects: Microsoft India Development Center President",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] India is likely to emerge as a global leader in the number of artificial intelligence (AI) projects, said Rajiv Kumar, Managing Director and President of Microsoft India Development Center.",
+      "url": "https://www.aninews.in/news/business/india-likely-to-emerge-as-global-leader-in-number-of-ai-projects-microsoft-india-development-center-president20260921143627/",
+      "date": "2026-09-21T09:06:27Z"
+    },
+    {
+      "title": "Spanish PM Sanchez says AI industry cannot be self-regulated",
+      "description": "[REUTERS] Artificial intelligence cannot be self-regulated by those \u200bwho control the technology, Spanish Prime Minister Pedro \u200cSanchez said on Monday.",
+      "url": "https://www.reuters.com/world/spanish-pm-sanchez-says-ai-industry-cannot-be-self-regulated-2026-09-21/",
+      "date": "2026-09-21T09:01:54Z"
+    },
+    {
+      "title": "Asia investors demand AI revenue proof as focus shifts from exposure to earnings: BofA",
+      "description": "[SOUTH CHINA MORNING POST] Investments in artificial intelligence increasingly hinge on monetisation, Bank of America survey finds, as \u2018fundamentals drive everything\u2019.",
+      "url": "https://www.scmp.com/business/china-business/article/3368216/asia-investors-demand-ai-revenue-proof-focus-shifts-exposure-earnings-bofa",
+      "date": "2026-09-21T09:00:23Z"
+    },
+    {
+      "title": "US, China leaders talk AI security concerns",
+      "description": "[ARKANSAS ONLINE] U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng concluded talks in New York on Sunday with the U.S. side proposing a new artificial intelligence safety notification mechanism for U.S. President Donald Trump and Chinese...",
+      "url": "https://www.arkansasonline.com/news/2026/sep/21/us-china-leaders-talk-ai-security-concerns/",
+      "date": "2026-09-21T09:00:00Z"
+    },
+    {
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "date": "2026-09-21T00:00:00Z"
+    },
+    {
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "date": "2026-09-15T16:00:44Z"
+    },
+    {
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "date": "2026-09-10T00:00:00Z"
+    },
+    {
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "date": "2026-09-10T00:00:00Z"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "date": "2026-09-03T13:13:48Z"
+    }
+  ]
 }
