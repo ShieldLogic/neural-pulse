@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-23 15:31 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        }
-    ]
+  "updated": "2026-09-23 19:24:48 UTC",
+  "news": [
+    {
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "date": "2026-09-23T18:41:40Z"
+    },
+    {
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "description": "[TECHCRUNCH] Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "date": "2026-09-23T17:00:00Z"
+    },
+    {
+      "title": "Even Americans who use AI every day are worried about it",
+      "description": "[TECHCRUNCH] The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "date": "2026-09-23T16:49:58Z"
+    },
+    {
+      "title": "YouTube Music gets more conversational with new AI features",
+      "description": "[TECHCRUNCH] Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+      "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "date": "2026-09-23T15:19:30Z"
+    },
+    {
+      "title": "YouTube will let you build your own algorithm with AI",
+      "description": "[TECHCRUNCH] YouTube\u2019s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "date": "2026-09-23T14:30:00Z"
+    },
+    {
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "description": "[TECHCRUNCH] StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "date": "2026-09-23T14:30:00Z"
+    },
+    {
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "description": "[TECHCRUNCH] YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "date": "2026-09-23T14:30:00Z"
+    },
+    {
+      "title": "A look at AI doomsday scenarios that researchers say could put humanity at risk",
+      "description": "[THE ATLANTA JOURNAL-CONSTITUTION] Artificial intelligence researchers have warned for years of ways the technology could wipe out humanity: AI bots could design an unstoppable disease, unleash a nuclear war, or transform all of Earth into paper clip factories, as one thought...",
+      "url": "https://www.ajc.com/news/2026/09/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/",
+      "date": "2026-09-23T07:22:22Z"
+    },
+    {
+      "title": "A look at AI doomsday scenarios that researchers say could put humanity at risk",
+      "description": "[WTOP] For years, artificial intelligence researchers have warned of ways the technology could wipe out humanity : AI bots could design an unstoppable disease, unleash",
+      "url": "https://wtop.com/national/2026/09/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/",
+      "date": "2026-09-23T07:20:28Z"
+    },
+    {
+      "title": "A look at AI doomsday scenarios that researchers say could put humanity at risk",
+      "description": "[WDIV CLICKONDETROIT] Artificial intelligence researchers have warned for years of ways the technology could wipe out humanity: AI bots could design an unstoppable disease, unleash a nuclear war, or transform all of Earth into paper clip factories, as one thought...",
+      "url": "https://www.clickondetroit.com/news/world/2026/09/23/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/",
+      "date": "2026-09-23T07:17:48Z"
+    },
+    {
+      "title": "Top Full Stack AI Cloud Platforms and AWS Alternatives for Reliable LLM Production GPU Workloads Training Inference and Faster Enterprise Deployment",
+      "description": "[TECHBULLION] Bitdeer AI naturally rises on a shortlist for GPU-intensive LLM programs that need several deployment paths without moving between unrelated vendors.",
+      "url": "https://techbullion.com/top-full-stack-ai-cloud-platforms-and-aws-alternatives-for-reliable-llm-production-gpu-workloads-training-inference-and-faster-enterprise-deployment/",
+      "date": "2026-09-23T07:09:34Z"
+    },
+    {
+      "title": "India, France, UAE discuss West Asia situation at trilateral meet on UNGA sidelines",
+      "description": "[MONEYCONTROL] The three countries also reviewed cooperation in space, artificial intelligence, culture and heritage and agreed to pursue concrete initiatives under the trilateral framework.",
+      "url": "https://www.moneycontrol.com/news/india/india-france-uae-discuss-west-asia-situation-at-trilateral-meet-on-unga-sidelines-14036197.html",
+      "date": "2026-09-23T07:06:24Z"
+    },
+    {
+      "title": "Poland Seeks India AI Cooperation As Cyber Threats Rise",
+      "description": "[EUROPE SAYS] Poland is seeking deeper cooperation with India on artificial intelligence, cybersecurity and digital infrastructure as Warsaw responds to a sharp rise in",
+      "url": "https://www.europesays.com/3267743/",
+      "date": "2026-09-23T07:05:26Z"
+    },
+    {
+      "title": "Meta leans into AI, smart glasses amid privacy pushback",
+      "description": "[THE STAR] Meta has spent billions to stay competitive with artificial intelligence, but the tech giant faces growing pushback as CEO Mark Zuckerberg prepares to announce new products built for the AI era on Sept 23.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/23/meta-leans-into-ai-smart-glasses-amid-privacy-pushback",
+      "date": "2026-09-23T07:00:00Z"
+    },
+    {
+      "title": "India-France-UAE review trilateral cooperation in space, AI, culture, heritage at UNGA",
+      "description": "[DEVDISCOURSE] India, France and the United Arab Emirates reviewed progress in their trilateral cooperation across areas of mutual interest, including space, artificial intelligence, culture and heritage, during a ministerial meeting on the sidelines of the 81st...",
+      "url": "https://www.devdiscourse.com/article/international/3981072-india-france-uae-review-trilateral-cooperation-in-space-ai-culture-heritage-at-unga",
+      "date": "2026-09-23T06:55:17Z"
+    },
+    {
+      "title": "India-France-UAE review trilateral cooperation in space, AI, culture, heritage at UNGA",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] India, France and the United Arab Emirates reviewed progress in their trilateral cooperation across areas of mutual interest, including space, artificial intelligence, culture and heritage, during a ministerial meeting on the sidelines of the 81st...",
+      "url": "https://www.aninews.in/news/world/us/india-france-uae-review-trilateral-cooperation-in-space-ai-culture-heritage-at-unga20260923122015/",
+      "date": "2026-09-23T06:50:15Z"
+    },
+    {
+      "title": "Qualcomm announces Snapdragon 8 Elite Extreme Gen 6 and Snapdragon 8 Elite Gen 6",
+      "description": "[THE HINDU] Qualcomm has unveiled two new premium mobile processors: the Snapdragon 8 Elite Extreme Gen 6 and Snapdragon 8 Elite Gen 6, designed for the agentic AI era of computing",
+      "url": "https://www.thehindu.com/sci-tech/technology/qualcomm-announces-snapdragon-8-elite-extreme-gen-6-and-snapdragon-8-elite-gen-6/article71498645.ece",
+      "date": "2026-09-23T06:40:17Z"
+    },
+    {
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "date": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "Transformers now runs llama.cpp quants",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "date": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/omlx",
+      "date": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "date": "2026-09-21T13:44:34Z"
+    },
+    {
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "date": "2026-09-21T00:00:00Z"
+    }
+  ]
 }
