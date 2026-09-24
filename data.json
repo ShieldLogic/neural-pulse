@@ -1,59 +1,173 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-24 15:52 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        }
-    ]
+  "updated": "2026-09-24 19:45:33 UTC",
+  "news": [
+    {
+      "title": "Bring your co-founder, partner, or\u00a0colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "description": "[TECHCRUNCH] Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "date": "2026-09-24T19:15:00Z"
+    },
+    {
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "description": "[TECHCRUNCH] Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "date": "2026-09-24T19:00:42Z"
+    },
+    {
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "description": "[TECHCRUNCH] The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
+      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "date": "2026-09-24T18:11:44Z"
+    },
+    {
+      "title": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
+      "description": "[TECHCRUNCH] Meta\u2019s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "date": "2026-09-24T17:39:24Z"
+    },
+    {
+      "title": "Google Photos \u2018Clueless\u2019-inspired virtual closet is now available on Android and iOS",
+      "description": "[TECHCRUNCH] The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "date": "2026-09-24T17:00:00Z"
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "description": "[TECHCRUNCH] TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "date": "2026-09-24T16:46:47Z"
+    },
+    {
+      "title": "Google launches Gemini 3.8 Flash TTS voice models",
+      "description": "[AI-NEWS] Google has launched two Gemini 3.8 Flash TTS voice models, introducing dedicated speech generation systems engineered for direct performance scripting and high-volume audio production. The dual release splits vocal synthesis tasks between creative...",
+      "url": "https://www.artificialintelligence-news.com/news/google-gemini-3-8-flash-tts-voice-models/",
+      "date": "2026-09-24T16:09:02Z"
+    },
+    {
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "date": "2026-09-24T14:08:57Z"
+    },
+    {
+      "title": "OpenAI\u2019s breach of Australian health department website prompts rebuke",
+      "description": "[NBC NEWS] Australian Prime Minister Anthony Albanese said Thursday he was extremely concerned about OpenAI \u2018s breach of an Australian health department website and that the artificial intelligence company took too long to reveal the incident.",
+      "url": "https://www.nbcnews.com/tech/tech-news/open-ai-breach-australian-health-department-website-rcna599570",
+      "date": "2026-09-24T07:40:22Z"
+    },
+    {
+      "title": "Australia launches urgent AI governance review after OpenAI Medicare hack",
+      "description": "[THE NEWS INTERNATIONAL] Australia has launched an urgent review of AI governance and laws aimed at assessing their efficacy against artificial intelligence related hacks. The rapid review comes as a response to the...",
+      "url": "https://www.thenews.com.pk/latest/1417410-australia-launches-urgent-ai-governance-review-after-openai-medicare-hack",
+      "date": "2026-09-24T07:26:00Z"
+    },
+    {
+      "title": "The AI battlefield: Europe embraces the \u2018new normal\u2019",
+      "description": "[EURONEWS] Good morning. It\u2019s Thursday, and my name is Angela Skujins. On today\u2019s agenda: exploring the role of artificial intelligence (AI) on Europe\u2019s battlefield, keeping the international justice system accountable, and how to stop the world\u2019s islands from...",
+      "url": "https://www.euronews.com/2026/09/24/the-ai-battlefield-europe-embraces-the-new-normal",
+      "date": "2026-09-24T07:10:54Z"
+    },
+    {
+      "title": "like\u2019 biological system. Here\u2019s what it means for science",
+      "description": "[EUROPE SAYS] Anthropic announced today that its Claude artificial intelligence (AI) system identified a previously unknown biological system in the DNA of viruses that",
+      "url": "https://www.europesays.com/3269769/",
+      "date": "2026-09-24T07:07:19Z"
+    },
+    {
+      "title": "Worries about an AI Internet takeover gain new urgency among doomsday scenarios",
+      "description": "[THE STAR] In a summer filled with revelations about artificial intelligence's rapid development, researchers were especially alarmed by runaway bots finding their way onto the Internet.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/24/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios",
+      "date": "2026-09-24T07:00:00Z"
+    },
+    {
+      "title": "Troops commits US$12mil to AI infrastructure venture in Southeast Asia",
+      "description": "[THE STAR] KUALA LUMPUR: Nasdaq-listed Troops Inc is committing US$12mil to establish a new artificial intelligence (AI) infrastructure business focused on Southeast Asia, with Malaysia among its key target markets.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/09/24/troops-commits-us12mil-to-ai-infrastructure-venture-in-southeast-asia",
+      "date": "2026-09-24T06:53:00Z"
+    },
+    {
+      "title": "Microsoft: Frontier Co And The Palantir-Ization",
+      "description": "[SEEKING ALPHA] Microsoft earns a Buy rating, leveraging a transformative shift from SaaS to agentic AI, targeting human labor replacement and expanding its addressable...",
+      "url": "https://seekingalpha.com/article/4949280-microsoft-frontier-co-and-the-palantir-ization",
+      "date": "2026-09-24T06:44:20Z"
+    },
+    {
+      "title": "Carrara marble: Can a sculpture created by an AI robot be considered as art ?",
+      "description": "[EURONEWS] In Italy's Carrara marble quarries, a centuries-old craft is being transformed by artificial intelligence. Robots can now carve complex sculptures from blocks of stone, raising a fundamental question: if a machine does the carving, where does the...",
+      "url": "https://www.euronews.com/2026/09/24/carrara-marble-can-a-sculpture-created-by-an-ai-robot-be-considered-as-art",
+      "date": "2026-09-24T06:42:39Z"
+    },
+    {
+      "title": "Lying About Your Job On LinkedIn? New Company Verification Tool Could Catch You",
+      "description": "[NDTV.COM] The move comes as artificial intelligence makes it easier to create convincing fake profiles and identities.",
+      "url": "https://www.ndtv.com/feature/lying-about-your-job-on-linkedin-new-company-verification-tool-could-catch-you-12090589",
+      "date": "2026-09-24T06:34:01Z"
+    },
+    {
+      "title": "After the OpenAI Medicare breach, the government is walking a delicate tightrope",
+      "description": "[ABC (AUSTRALIAN BROADCASTING CORPORATION)] Anthony Albanese couldn't have picked a better time to drop the metaphorical bomb that a rogue artificial intelligence agent breached an Australian government system.",
+      "url": "https://www.abc.net.au/news/2026-09-24/open-ai-medicare-breach-government-walking-delicate-tightrope/107180648",
+      "date": "2026-09-24T06:16:49Z"
+    },
+    {
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "date": "2026-09-23T18:41:40Z"
+    },
+    {
+      "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
+      "description": "[AI-NEWS] Deploying randomised AI logistics offers military planners a viable defence against adversarial tracking, allowing U.S. Transportation Command (TRANSCOM) to insulate global distribution networks against contested disruption.&#160; Commercial freight...",
+      "url": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
+      "date": "2026-09-23T13:13:15Z"
+    },
+    {
+      "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+      "description": "[AI-NEWS] By Farukh Rakhimov, Head of Compliance, Data Protection and Information Security at AdTech Holding Roughly 7,600 fake GitHub repositories, 6,600 fraudulent profiles and more than 14 million downloads: that is the scale of FakeGit, a malware campaign...",
+      "url": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+      "date": "2026-09-23T07:44:17Z"
+    },
+    {
+      "title": "AutoScheduler launches warehouse app builder for logistics teams",
+      "description": "[AI-NEWS] AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data. The new software module forms part of the company&#8217;s wider Warehouse AI Platform, serving distribution centres that...",
+      "url": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
+      "date": "2026-09-22T11:34:39Z"
+    },
+    {
+      "title": "Toyota\u2019s $6.4bn robotics estimate puts physical AI in focus",
+      "description": "[AI-NEWS] Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual spending of about 1 trillion yen ($6.4 billion) from 2028. The potential investment was...",
+      "url": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
+      "date": "2026-09-22T10:00:00Z"
+    },
+    {
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "date": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "Transformers now runs llama.cpp quants",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "date": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/omlx",
+      "date": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "Multi-agent AI systems are taking over supply chain execution",
+      "description": "[AI-NEWS] Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing logistics directors towards autonomous execution. Predictive demand models display recommendations, yet...",
+      "url": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
+      "date": "2026-09-21T15:32:54Z"
+    },
+    {
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "date": "2026-09-21T13:44:34Z"
+    }
+  ]
 }
