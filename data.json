@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-25 15:53 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        }
-    ]
+  "updated": "2026-09-25 19:46:59 UTC",
+  "news": [
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "description": "[TECHCRUNCH] Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that...",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "date": "2026-09-25T19:13:38Z"
+    },
+    {
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "description": "[TECHCRUNCH] Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "date": "2026-09-25T18:48:33Z"
+    },
+    {
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "description": "[TECHCRUNCH] The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "date": "2026-09-25T18:33:59Z"
+    },
+    {
+      "title": "Meta\u2019s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "description": "[TECHCRUNCH] When AI leaders at OpenAI and Anthropic started talking about \u201cpacing the frontier,\u201d&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it\u2019s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5,...",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "date": "2026-09-25T18:22:47Z"
+    },
+    {
+      "title": "Some Supabase customers are publicly exposing reams of people\u2019s data to the web",
+      "description": "[TECHCRUNCH] The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "date": "2026-09-25T17:29:46Z"
+    },
+    {
+      "title": "Astra and Opus just passed Turing\u2019s other test",
+      "description": "[TECHCRUNCH] Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "date": "2026-09-25T17:24:36Z"
+    },
+    {
+      "title": "Trump and Xi Raise a Glass to a \u201cNew Chapter\u201d - But the Real US-China Battle Is Only Beginning",
+      "description": "[PAGENEWS.GR] Donald Trump welcomed Xi Jinping with military honors, an eagle sculpture, a state dinner rich in historical symbolism and some of America\u2019s most powerful technology executives at the table. The imagery suggested a reset. The substance was more...",
+      "url": "https://www.pagenews.gr/2026/09/25/english-edition/trump-and-xi-raise-a-glass-to-a-new-chapter-but-the-real-us-china-battle-is-only-beginning/",
+      "date": "2026-09-25T07:44:40Z"
+    },
+    {
+      "title": "China, US Can Continue Dialogue on AI to Weigh Risks, Benefits - Xi",
+      "description": "[SPUTNIK NEWS] China and the United States could continue their dialogue on artificial intelligence to discuss its risks and benefits while jointly preventing its misuse, Chinese President Xi Jinping said during talks with US President Donald Trump.",
+      "url": "https://sputnikglobe.com/20260925/china-us-can-continue-dialogue-on-ai-to-weigh-risks-benefits---xi-1124786405.html",
+      "date": "2026-09-25T07:33:00Z"
+    },
+    {
+      "title": "Trump to sit down with tech CEOs on AI: What\u2019s on the agenda for Sept. 29 meeting?",
+      "description": "[BUSINESS TODAY] Donald Trump to meet leading tech CEOs to debate artificial intelligence strategy and regulatory measures next week.",
+      "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/trump-to-sit-down-with-tech-ceos-on-ai-whats-on-the-agenda-for-sept-29-meeting-557803-2026-09-25",
+      "date": "2026-09-25T07:16:58Z"
+    },
+    {
+      "title": "NEC building 1-petabit-capacity subsea cable for Meta",
+      "description": "[THE JAPAN TIMES ] The Petal cable will help meet the growing data transmission needs of artificial intelligence companies.",
+      "url": "https://www.japantimes.co.jp/business/2026/09/25/companies/nec-undersea-cable/",
+      "date": "2026-09-25T07:13:17Z"
+    },
+    {
+      "title": "Amazon seeks former employees for AI roles months after sweeping layoffs",
+      "description": "[FIRSTPOST] Amazon is contacting eligible former employees about returning to the company, including people with AI and machine-learning experience. The outreach comes after tens of thousands of jobs were cut across the business and as the company continues to...",
+      "url": "https://www.firstpost.com/tech/amazon-seeks-former-employees-for-ai-roles-months-after-sweeping-layoffs-14048319.html",
+      "date": "2026-09-25T07:04:53Z"
+    },
+    {
+      "title": "Trump Hosts State Dinner For Xi Jinping At The White House",
+      "description": "[MONEYCONTROL] US President Donald Trump is hosting Chinese President Xi Jinping for a state dinner at the White House following their latest summit in Washington. Xi\u2019s visit marks his first trip to the US capital in more than a decade and represents the second...",
+      "url": "https://www.moneycontrol.com/world/trump-hosts-state-dinner-for-xi-jinping-at-the-white-house-ai-trade-taiwan-videoshow-14038153.html",
+      "date": "2026-09-25T06:53:14Z"
+    },
+    {
+      "title": "US miner KoBold bets on AI to gain edge in DR Congo mineral hunt",
+      "description": "[BANGKOK POST] MANONO \u2014 Geologists from US mining company KoBold Metals are pushing deep into the Congolese bush, hoping a cutting-edge army of \"explorers\" directed by artificial intelligence (AI) will help give them an edge in the race for critical minerals.",
+      "url": "https://www.bangkokpost.com/world/3325965/us-miner-kobold-bets-on-ai-to-gain-edge-in-dr-congo-mineral-hunt",
+      "date": "2026-09-25T06:45:00Z"
+    },
+    {
+      "title": "AI Tools To Make Election Process More Efficient: Keralam CEO",
+      "description": "[DECCAN CHRONICLE] The CEO gave guidelines on effectively using new artificial intelligence-based tools being developed as per the Election Commission's directions to make election-related activities faster and more effective",
+      "url": "https://www.deccanchronicle.com/southern-states/kerala/ai-tools-to-make-election-process-more-efficient-keralam-ceo-1990437",
+      "date": "2026-09-25T06:38:52Z"
+    },
+    {
+      "title": "Wibmo Fraud & Risk Management wins Chartis Disruptor Award for its Agentic Risk Intelligence Solution",
+      "description": "[THE TRIBUNE] Recognition awarded under the new Workflow, Agentic AI and Low-Code/No-Code category introduced for the Chartis RiskTech100\u00ae 2027 Bengaluru, Karnataka, India (NewsVoir) Wibmo, a PayU company and full-stack PayTech provider, has won the Chartis...",
+      "url": "https://www.tribuneindia.com/news/business/wibmo-fraud-risk-management-wins-chartis-disruptor-award-for-its-agentic-risk-intelligence-solution-2-2/",
+      "date": "2026-09-25T06:28:01Z"
+    },
+    {
+      "title": "Donald Trump and Xi Jinping strike warm tone at White House as US-China tensions remain",
+      "description": "[THE IRISH TIMES] Trade truce extended but differences over Taiwan and artificial intelligence remain",
+      "url": "https://www.irishtimes.com/world/2026/09/25/donald-trump-and-xi-jinping-strike-warm-tone-at-white-house-as-us-china-tensions-remain/",
+      "date": "2026-09-25T06:16:26Z"
+    },
+    {
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "date": "2026-09-24T14:08:57Z"
+    },
+    {
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "date": "2026-09-23T18:41:40Z"
+    },
+    {
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "date": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "Transformers now runs llama.cpp quants",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "date": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/omlx",
+      "date": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "date": "2026-09-21T13:44:34Z"
+    }
+  ]
 }
