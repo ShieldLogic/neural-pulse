@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-28 18:40 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        }
-    ]
+  "updated": "2026-09-28 19:09:50 UTC",
+  "news": [
+    {
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "description": "[TECHCRUNCH] As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software...",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "date": "2026-09-28T18:31:23Z"
+    },
+    {
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "description": "[TECHCRUNCH] Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "date": "2026-09-28T18:00:00Z"
+    },
+    {
+      "title": "Google is killing off Gemini\u2019s Gems in favor of \u2018skills\u2019",
+      "description": "[TECHCRUNCH] As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "date": "2026-09-28T17:29:50Z"
+    },
+    {
+      "title": "OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity",
+      "description": "[TECHCRUNCH] On Friday, OpenAI published a new site devoted to \u201cmisalignment reports\u201d and the breadth of the incidents is alarming.",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "date": "2026-09-28T17:09:02Z"
+    },
+    {
+      "title": "Meta launches enterprise\u00a0AI platform, hires\u00a0MongoDB CEO to\u00a0lead new initiative",
+      "description": "[TECHCRUNCH] Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "date": "2026-09-28T16:52:38Z"
+    },
+    {
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "description": "[TECHCRUNCH] Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "date": "2026-09-28T15:30:00Z"
+    },
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "date": "2026-09-28T09:44:05Z"
+    },
+    {
+      "title": "Union Labour Minister Mansukh Mandaviya calls for stronger industry",
+      "description": "[THE TRIBUNE] Union Labour and Employment Minister Mansukh Mandaviya on Monday called for stronger dialogue between industries and workers as artificial intelligence, digital technology and changing work patterns reshape the labour landscape, saying India will...",
+      "url": "https://www.tribuneindia.com/news/business/union-labour-minister-mansukh-mandaviya-calls-for-stronger-industry-worker-ties-as-ai-reshapes-jobs/",
+      "date": "2026-09-28T07:07:35Z"
+    },
+    {
+      "title": "Thales Expands Collaboration with Google Cloud to Help Secure Agentic AI Workflows",
+      "description": "[THE LONDON FREE PRESS] Integration enables new protections for communications between AI agents, models, enterprise data, and tools to help control what agents can access,",
+      "url": "https://lfpress.com/press-releases/business-wire/thales-expands-collaboration-with-google-cloud-to-help-secure-agentic-ai-workflows/",
+      "date": "2026-09-28T07:06:19Z"
+    },
+    {
+      "title": "Thales Expands Collaboration with Google Cloud to Help Secure Agentic AI Workflows",
+      "description": "[THE KINGSTON WHIG-STANDARD] Integration enables new protections for communications between AI agents, models, enterprise data, and tools to help control what agents can access,",
+      "url": "https://www.thewhig.com/press-releases/business-wire/thales-expands-collaboration-with-google-cloud-to-help-secure-agentic-ai-workflows/",
+      "date": "2026-09-28T07:06:10Z"
+    },
+    {
+      "title": "Union Labour Minister Mansukh Mandaviya calls for stronger industry-worker ties as AI reshapes jobs",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Union Labour and Employment Minister Mansukh Mandaviya on Monday called for stronger dialogue between industries and workers as artificial intelligence, digital technology and changing work patterns reshape the labour landscape, saying India will...",
+      "url": "https://www.aninews.in/news/business/union-labour-minister-mansukh-mandaviya-calls-for-stronger-industry-worker-ties-as-ai-reshapes-jobs20260928123353/",
+      "date": "2026-09-28T07:03:53Z"
+    },
+    {
+      "title": "AI-driven market correction could push US into recession, global growth below 1%: Fitch",
+      "description": "[DEVDISCOURSE] A sharp correction in equity markets combined with a pullback in artificial intelligence (AI)-related investment could push the US economy into recession and drag global growth below 1 per cent in 2027, Fitch Ratings said in its September Global...",
+      "url": "https://www.devdiscourse.com/article/business/3982979-ai-driven-market-correction-could-push-us-into-recession-global-growth-below-1-fitch",
+      "date": "2026-09-28T06:43:33Z"
+    },
+    {
+      "title": "India insurance growth to hinge on AI-led distribution, ecosystem partnerships: McKinsey",
+      "description": "[DEVDISCOURSE] The next phase of growth in India\u2019s insurance sector is likely to depend increasingly on how effectively insurers expand distribution beyond traditional channels, with artificial intelligence (AI)-led customer discovery and ecosystem partnerships...",
+      "url": "https://www.devdiscourse.com/article/business/3982970-india-insurance-growth-to-hinge-on-ai-led-distribution-ecosystem-partnerships-mckinsey",
+      "date": "2026-09-28T06:40:48Z"
+    },
+    {
+      "title": "Australia\u2019s legacy systems were already a cyber risk. AI agents are raising the stakes",
+      "description": "[EUROPE SAYS] In the days since an artificial intelligence (AI) agent operated by OpenAI gained unauthorised access to a Services Australia portal holding Medicare",
+      "url": "https://www.europesays.com/3276852/",
+      "date": "2026-09-28T06:27:32Z"
+    },
+    {
+      "title": "driven market correction could push US into recession, global growth below 1%: Fitch",
+      "description": "[THE TRIBUNE] A sharp correction in equity markets combined with a pullback in artificial intelligence (AI)-related investment could push the US economy into recession and drag global growth below 1 per cent in 2027, Fitch Ratings said in its September Global...",
+      "url": "https://www.tribuneindia.com/news/business/ai-driven-market-correction-could-push-us-into-recession-global-growth-below-1-fitch/",
+      "date": "2026-09-28T06:17:35Z"
+    },
+    {
+      "title": "India leads Asia in LLM search reach: Report",
+      "description": "[LOKMAT TIMES] India leads Asia in LLM search reach: Report - New Delhi, Sep 28 Large language models (LLMs) search currently features in 22 per cent of purchase journeys ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/india-leads-asia-in-llm-search-reach-report-1/",
+      "date": "2026-09-28T06:17:27Z"
+    },
+    {
+      "title": "India leads Asia in LLM search reach: Report",
+      "description": "[LOKMAT TIMES] India leads Asia in LLM search reach: Report - New Delhi, Sep 28 Large language models (LLMs) search currently features in 22 per cent of purchase journeys ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/india-leads-asia-in-llm-search-reach-report/",
+      "date": "2026-09-28T06:17:27Z"
+    },
+    {
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "date": "2026-09-24T14:08:57Z"
+    },
+    {
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "date": "2026-09-23T18:41:40Z"
+    },
+    {
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "date": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "Transformers now runs llama.cpp quants",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "date": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/omlx",
+      "date": "2026-09-22T00:00:00Z"
+    }
+  ]
 }
