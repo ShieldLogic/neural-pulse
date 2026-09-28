@@ -1,137 +1,59 @@
 {
-  "updated": "2026-09-28 10:28:00 UTC",
-  "news": [
-    {
-      "title": "Holo4: powering generalist computer-use agents",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "date": "2026-09-28T09:44:05Z"
-    },
-    {
-      "title": "OpenAI pauses training of latest models after agents searched U.S. government sites in unexpected ways",
-      "description": "[NBC NEWS] OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.",
-      "url": "https://www.nbcnews.com/tech/tech-news/openai-pauses-training-latest-models-agents-searched-us-government-sit-rcna600098",
-      "date": "2026-09-27T21:57:53Z"
-    },
-    {
-      "title": "Bill Gates warns AI could be used to trigger 'a billion deaths,' urges regulation",
-      "description": "[EUROPE SAYS] (TNND) \u2014 Artificial intelligence is now powerful enough to cause catastrophic harm, Bill Gates warned, saying malicious actors could use advanced AI tools to",
-      "url": "https://www.europesays.com/3276177/",
-      "date": "2026-09-27T21:14:19Z"
-    },
-    {
-      "title": "Bill Gates warns AI could cause 'a billion deaths' without safeguards",
-      "description": "[FOX NEWS] Bill Gates warns artificial intelligence could cause \"a billion deaths\" and calls on Congress to pass AI safety legislation rather than focus on competition with China.",
-      "url": "https://www.foxnews.com/media/bill-gates-warns-artificial-intelligence-powerful-enough-cause-billion-deaths-unchecked",
-      "date": "2026-09-27T21:06:36Z"
-    },
-    {
-      "title": "Trump to discuss AI with Anthropic CEO, urges Zelensky to ease refinery strikes",
-      "description": "[SCANX.TRADE] Trump announced plans to meet Anthropic CEO Dario Amodei to discuss artificial intelligence. Trump described the upcoming meeting with the phrase 'Let's go, let's win'. Trump said he spoke with Zelensky and urged him to ease strikes on refineries....",
-      "url": "https://scanx.trade/stock-market-news/global/trump-discuss-ai-anthropic-ceo-urges-zelensky-ease-refinery-strikes/52088550",
-      "date": "2026-09-27T21:02:38Z"
-    },
-    {
-      "title": "Worries about an AI internet takeover gain new urgency among doomsday scenarios",
-      "description": "[JAPAN TODAY] In a summer filled with revelations about artificial intelligence's rapid development, researchers were especially alarmed by runaway bots finding their way onto the internet and, in at least one instance, coordinating there with one another. Could...",
-      "url": "https://japantoday.com/category/tech/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios",
-      "date": "2026-09-27T21:00:00Z"
-    },
-    {
-      "title": "Anthropic, OpenAI sound alarm on AI safety",
-      "description": "[CNBC TV18] The answer may lie in the companies' efforts to score political goals ahead of the US midterm elections and the money top artificial intelligence labs and their investors stand to make in much-anticipated listings on a jittery stock market.",
-      "url": "https://www.cnbctv18.com/technology/anthropic-openai-sound-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled-19999526.htm",
-      "date": "2026-09-27T20:52:21Z"
-    },
-    {
-      "title": "BB 20 Episode 22: Salman Khan demands prison sentence for fake AI video creators",
-      "description": "[INDIA TODAY] Hosting Bigg Boss 20 Weekend Ka Vaar, Salman Khan demanded strict legal action and prison sentences for individuals generating fake videos using artificial intelligence. The episode also saw actor Isha Rikhi's eviction while Rhiti Tiwari later broke...",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-20-episode-22-salman-khan-demands-prison-sentence-for-fake-ai-video-creators-3004441-2026-09-28",
-      "date": "2026-09-27T20:46:27Z"
-    },
-    {
-      "title": "Trump's AI Power Play: Private Dinner With Anthropic CEO Before Top CEO Meet",
-      "description": "[TIMES NOW] The meeting may signal a shift in Anthropic's relationship with the Trump administration, emphasizing America's leadership in artificial intelligence, US News, Times Now",
-      "url": "https://www.timesnownews.com/world/us/us-news/anthropic-ceo-dario-amodei-donald-trump-white-house-dinner-ai-warnings-article-156237619",
-      "date": "2026-09-27T20:38:49Z"
-    },
-    {
-      "title": "Anthropic\u2019s CEO is about to have dinner with President Trump",
-      "description": "[TECHCRUNCH] This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "date": "2026-09-27T20:34:28Z"
-    },
-    {
-      "title": "Bill Gates warns AI could be used to trigger 'a billion deaths,' urges regulation",
-      "description": "[BALTIMORE NEWS] Artificial intelligence is now powerful enough to cause catastrophic harm, Bill Gates warned.",
-      "url": "https://foxbaltimore.com/news/nation-world/bill-gates-warns-ai-could-be-used-to-trigger-a-billion-deaths-urges-regulation",
-      "date": "2026-09-27T20:21:28Z"
-    },
-    {
-      "title": "Bill Gates warns AI could be used to trigger 'a billion deaths,' urges regulation",
-      "description": "[WJLA] Artificial intelligence is now powerful enough to cause catastrophic harm, Bill Gates warned.",
-      "url": "https://wjla.com/news/nation-world/bill-gates-warns-ai-could-be-used-to-trigger-a-billion-deaths-urges-regulation",
-      "date": "2026-09-27T20:21:28Z"
-    },
-    {
-      "title": "Can Muse overcome Meta\u2019s trust issues?",
-      "description": "[TECHCRUNCH] On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "date": "2026-09-27T19:57:30Z"
-    },
-    {
-      "title": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
-      "description": "[TECHCRUNCH] \"AI is the devil and I its maker.\"",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "date": "2026-09-27T16:30:00Z"
-    },
-    {
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "description": "[TECHCRUNCH] The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "date": "2026-09-27T01:30:00Z"
-    },
-    {
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "description": "[TECHCRUNCH] Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "date": "2026-09-26T21:02:06Z"
-    },
-    {
-      "title": "I created an interactive digital avatar of myself \u2014 and you can talk to it",
-      "description": "[TECHCRUNCH] After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "date": "2026-09-26T14:00:00Z"
-    },
-    {
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "date": "2026-09-24T14:08:57Z"
-    },
-    {
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "date": "2026-09-23T18:41:40Z"
-    },
-    {
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "date": "2026-09-22T00:00:00Z"
-    },
-    {
-      "title": "Transformers now runs llama.cpp quants",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "date": "2026-09-22T00:00:00Z"
-    },
-    {
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/omlx",
-      "date": "2026-09-22T00:00:00Z"
-    }
-  ]
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-09-28 18:40 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Molly Taft",
+            "title": "AI Agents Are Thirsty for Power",
+            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
+            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
+            "publishedAt": "2026-09-13T10:00:00Z",
+            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Tom McKay",
+            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
+            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
+            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+            "publishedAt": "2026-09-15T02:52:23Z",
+            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-02T16:12:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
+            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
+            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
+            "publishedAt": "2026-09-03T16:25:41Z",
+            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
+        }
+    ]
 }
