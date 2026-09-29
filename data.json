@@ -1,9 +1,33 @@
 {
-  "updated": "2026-09-28 19:09:50 UTC",
+  "updated": "2026-09-29 00:08:31 UTC",
   "news": [
     {
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "description": "[TECHCRUNCH] A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "date": "2026-09-28T23:39:20Z"
+    },
+    {
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "description": "[TECHCRUNCH] The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "date": "2026-09-28T21:29:18Z"
+    },
+    {
+      "title": "AMD will acquire Fei-Fei Li\u2019s World Labs for $8.2 billion",
+      "description": "[TECHCRUNCH] The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "date": "2026-09-28T20:39:33Z"
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "description": "[TECHCRUNCH] Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer\u2019s authorization.",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "date": "2026-09-28T19:33:57Z"
+    },
+    {
       "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "description": "[TECHCRUNCH] As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software...",
+      "description": "[TECHCRUNCH] As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to the problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of...",
       "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
       "date": "2026-09-28T18:31:23Z"
     },
@@ -14,94 +38,70 @@
       "date": "2026-09-28T18:00:00Z"
     },
     {
-      "title": "Google is killing off Gemini\u2019s Gems in favor of \u2018skills\u2019",
-      "description": "[TECHCRUNCH] As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
-      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "date": "2026-09-28T17:29:50Z"
+      "title": "Nvidia launches new tool to keep AI agents from going rogue",
+      "description": "[CABLE NEWS NETWORK] Chipmaker Nvidia said Monday it is introducing a new software platform to address concerns about artificial intelligence agents that have \u201cgone rogue\u201d and operated outside the control of humans.",
+      "url": "https://edition.cnn.com/2026/09/28/business/nvidia-ai-safety-system",
+      "date": "2026-09-28T12:07:52Z"
     },
     {
-      "title": "OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity",
-      "description": "[TECHCRUNCH] On Friday, OpenAI published a new site devoted to \u201cmisalignment reports\u201d and the breadth of the incidents is alarming.",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "date": "2026-09-28T17:09:02Z"
+      "title": "Nvidia launches new tool to keep AI agents from going rogue",
+      "description": "[ABC17NEWS.COM] By Chris Isidore, CNN (CNN) \u2014 Chipmaker Nvidia said Monday it is introducing a new software platform to address concerns about artificial intelligence agents that have \u201cgone rogue\u201d and operated outside the control of humans. \u201cToday, with over 100...",
+      "url": "https://abc17news.com/money/cnn-business-consumer/2026/09/28/nvidia-launches-new-tool-to-keep-ai-agents-from-going-rogue/",
+      "date": "2026-09-28T12:07:52Z"
     },
     {
-      "title": "Meta launches enterprise\u00a0AI platform, hires\u00a0MongoDB CEO to\u00a0lead new initiative",
-      "description": "[TECHCRUNCH] Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "date": "2026-09-28T16:52:38Z"
+      "title": "What is AI Infrastructure and Why Does it Matter for Generative AI?",
+      "description": "[DAILY EXCELSIOR] Understanding AI Infrastructure and its Growing Importance in Generative Artificial Intelligence Generative AI rapidly moved from an emerging technology into a core part of modern digital products. Behind every AI chatbot, image generator, coding...",
+      "url": "https://www.dailyexcelsior.com/what-is-ai-infrastructure-and-why-does-it-matter-for-generative-ai/",
+      "date": "2026-09-28T11:36:43Z"
     },
     {
-      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-      "description": "[TECHCRUNCH] Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-      "date": "2026-09-28T15:30:00Z"
+      "title": "A 120B LLM Without At Least 60GB RAM Is Impossible To Run, But One Individual Defied All Odds By Combining A Phone, Three Macs And Two Windows PCs To Make it Work",
+      "description": "[WCCFTECH] A 120B parameter LLM needs at least 60GB of RAM to run, but one individual pulled it off anyway, combining a phone, three Macs and two Windows PCs into a single distributed setup",
+      "url": "https://wccftech.com/120b-llm-phone-macs-windows-pcs-distributed-setup/",
+      "date": "2026-09-28T11:36:36Z"
+    },
+    {
+      "title": "New artificial intelligence tool identifies aging patterns in hematopoietic stem cells",
+      "description": "[NEWS-MEDICAL.NET] Aging progressively affects the functioning of our body and, among other things, deteriorates the ability of the hematopoietic system- the set of organs and tissues responsible for producing blood cells- to maintain adequate blood cell production.",
+      "url": "https://www.news-medical.net/news/20260928/New-artificial-intelligence-tool-identifies-aging-patterns-in-hematopoietic-stem-cells.aspx",
+      "date": "2026-09-28T11:36:00Z"
+    },
+    {
+      "title": "Tamil Nadu\u2019s First Agentic AI Campus Launched at SDNB Vaishnav College for Women",
+      "description": "[THE TRIBUNE] Chennai (Tamil Nadu) [India], September 28: Shrimathi Devkunvar Nanalal Bhatt (SDNB) Vaishnav College for Women, as it celebrates its 59th year, has launched its Agentic AI Campus initiative, becoming the first college in Tamil Nadu to adopt Gemini...",
+      "url": "https://www.tribuneindia.com/news/business/tamil-nadus-first-agentic-ai-campus-launched-at-sdnb-vaishnav-college-for-women/",
+      "date": "2026-09-28T11:32:57Z"
+    },
+    {
+      "title": "Tamil Nadu\u2019s First Agentic AI Campus Launched at SDNB Vaishnav College for Women",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Chennai (Tamil Nadu) [India], September 28: Shrimathi Devkunvar Nanalal Bhatt (SDNB) Vaishnav College for Women, as it celebrates its 59th year, has launched its Agentic AI Campus initiative, becoming the first college in Tamil Nadu to adopt Gemini...",
+      "url": "https://www.aninews.in/news/business/tamil-nadu8217s-first-agentic-ai-campus-launched-at-sdnb-vaishnav-college-for-women20260928165930/",
+      "date": "2026-09-28T11:29:30Z"
+    },
+    {
+      "title": "Nvidia unveils new security platform for AI agents",
+      "description": "[BNN BLOOMBERG] Nvidia on Monday unveiled a new security platform that the chipmaker said can stop artificial intelligence agents from going rogue.",
+      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/28/nvidia-unveils-security-platform-to-stop-ai-agents-from-going-rogue/",
+      "date": "2026-09-28T11:26:02Z"
+    },
+    {
+      "title": "Chhatrapati Sambhajinagar: Experts Discuss Hindi Media, AI Applications & Challenges At Two-Day Lecture Series",
+      "description": "[FREE PRESS JOURNAL] During the series, experts engaged with students and held detailed discussions on topics such as \u2018Hindi Print and Electronic Media\u2019 and \u2018Artificial Intelligence (AI): Practical Applications and Challenges\u2019",
+      "url": "https://www.freepressjournal.in/pune/chhatrapati-sambhajinagar-experts-discuss-hindi-media-ai-applications-challenges-at-two-day-lecture-series",
+      "date": "2026-09-28T11:16:07Z"
+    },
+    {
+      "title": "AI in portfolio management: How technology is reshaping the manager\u2019s role",
+      "description": "[THE ECONOMIC TIMES] Artificial intelligence is reshaping investment research and portfolio management, from screening stocks and analysing data to identifying patterns and monitoring risks. At the ET Alpha Wealth Summit 2.0, leading investment professionals will...",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-in-portfolio-management-how-technology-is-reshaping-the-managers-role/articleshow/134540393.cms",
+      "date": "2026-09-28T11:09:00Z"
     },
     {
       "title": "Holo4: powering generalist computer-use agents",
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/Hcompany/holo4",
       "date": "2026-09-28T09:44:05Z"
-    },
-    {
-      "title": "Union Labour Minister Mansukh Mandaviya calls for stronger industry",
-      "description": "[THE TRIBUNE] Union Labour and Employment Minister Mansukh Mandaviya on Monday called for stronger dialogue between industries and workers as artificial intelligence, digital technology and changing work patterns reshape the labour landscape, saying India will...",
-      "url": "https://www.tribuneindia.com/news/business/union-labour-minister-mansukh-mandaviya-calls-for-stronger-industry-worker-ties-as-ai-reshapes-jobs/",
-      "date": "2026-09-28T07:07:35Z"
-    },
-    {
-      "title": "Thales Expands Collaboration with Google Cloud to Help Secure Agentic AI Workflows",
-      "description": "[THE LONDON FREE PRESS] Integration enables new protections for communications between AI agents, models, enterprise data, and tools to help control what agents can access,",
-      "url": "https://lfpress.com/press-releases/business-wire/thales-expands-collaboration-with-google-cloud-to-help-secure-agentic-ai-workflows/",
-      "date": "2026-09-28T07:06:19Z"
-    },
-    {
-      "title": "Thales Expands Collaboration with Google Cloud to Help Secure Agentic AI Workflows",
-      "description": "[THE KINGSTON WHIG-STANDARD] Integration enables new protections for communications between AI agents, models, enterprise data, and tools to help control what agents can access,",
-      "url": "https://www.thewhig.com/press-releases/business-wire/thales-expands-collaboration-with-google-cloud-to-help-secure-agentic-ai-workflows/",
-      "date": "2026-09-28T07:06:10Z"
-    },
-    {
-      "title": "Union Labour Minister Mansukh Mandaviya calls for stronger industry-worker ties as AI reshapes jobs",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Union Labour and Employment Minister Mansukh Mandaviya on Monday called for stronger dialogue between industries and workers as artificial intelligence, digital technology and changing work patterns reshape the labour landscape, saying India will...",
-      "url": "https://www.aninews.in/news/business/union-labour-minister-mansukh-mandaviya-calls-for-stronger-industry-worker-ties-as-ai-reshapes-jobs20260928123353/",
-      "date": "2026-09-28T07:03:53Z"
-    },
-    {
-      "title": "AI-driven market correction could push US into recession, global growth below 1%: Fitch",
-      "description": "[DEVDISCOURSE] A sharp correction in equity markets combined with a pullback in artificial intelligence (AI)-related investment could push the US economy into recession and drag global growth below 1 per cent in 2027, Fitch Ratings said in its September Global...",
-      "url": "https://www.devdiscourse.com/article/business/3982979-ai-driven-market-correction-could-push-us-into-recession-global-growth-below-1-fitch",
-      "date": "2026-09-28T06:43:33Z"
-    },
-    {
-      "title": "India insurance growth to hinge on AI-led distribution, ecosystem partnerships: McKinsey",
-      "description": "[DEVDISCOURSE] The next phase of growth in India\u2019s insurance sector is likely to depend increasingly on how effectively insurers expand distribution beyond traditional channels, with artificial intelligence (AI)-led customer discovery and ecosystem partnerships...",
-      "url": "https://www.devdiscourse.com/article/business/3982970-india-insurance-growth-to-hinge-on-ai-led-distribution-ecosystem-partnerships-mckinsey",
-      "date": "2026-09-28T06:40:48Z"
-    },
-    {
-      "title": "Australia\u2019s legacy systems were already a cyber risk. AI agents are raising the stakes",
-      "description": "[EUROPE SAYS] In the days since an artificial intelligence (AI) agent operated by OpenAI gained unauthorised access to a Services Australia portal holding Medicare",
-      "url": "https://www.europesays.com/3276852/",
-      "date": "2026-09-28T06:27:32Z"
-    },
-    {
-      "title": "driven market correction could push US into recession, global growth below 1%: Fitch",
-      "description": "[THE TRIBUNE] A sharp correction in equity markets combined with a pullback in artificial intelligence (AI)-related investment could push the US economy into recession and drag global growth below 1 per cent in 2027, Fitch Ratings said in its September Global...",
-      "url": "https://www.tribuneindia.com/news/business/ai-driven-market-correction-could-push-us-into-recession-global-growth-below-1-fitch/",
-      "date": "2026-09-28T06:17:35Z"
-    },
-    {
-      "title": "India leads Asia in LLM search reach: Report",
-      "description": "[LOKMAT TIMES] India leads Asia in LLM search reach: Report - New Delhi, Sep 28 Large language models (LLMs) search currently features in 22 per cent of purchase journeys ... Get Latest News on Technology only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/technology/india-leads-asia-in-llm-search-reach-report-1/",
-      "date": "2026-09-28T06:17:27Z"
-    },
-    {
-      "title": "India leads Asia in LLM search reach: Report",
-      "description": "[LOKMAT TIMES] India leads Asia in LLM search reach: Report - New Delhi, Sep 28 Large language models (LLMs) search currently features in 22 per cent of purchase journeys ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/india-leads-asia-in-llm-search-reach-report/",
-      "date": "2026-09-28T06:17:27Z"
     },
     {
       "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
