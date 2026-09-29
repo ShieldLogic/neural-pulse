@@ -1,137 +1,59 @@
 {
-  "updated": "2026-09-29 14:33:56 UTC",
-  "news": [
-    {
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "description": "[TECHCRUNCH] The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
-      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-      "date": "2026-09-29T13:53:01Z"
-    },
-    {
-      "title": "Meta is expanding its AI agent Muse to small businesses",
-      "description": "[TECHCRUNCH] The tech giant says the agent can help owners run their business and find new customers.",
-      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-      "date": "2026-09-29T13:47:30Z"
-    },
-    {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "date": "2026-09-29T13:07:00Z"
-    },
-    {
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "description": "[TECHCRUNCH] The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
-      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-      "date": "2026-09-29T12:45:05Z"
-    },
-    {
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "description": "[TECHCRUNCH] The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
-      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-      "date": "2026-09-29T12:30:00Z"
-    },
-    {
-      "title": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "description": "[TECHCRUNCH] In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and \u2014 oh yeah \u2014 its own AI might pose an existential risk to humanity.",
-      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "date": "2026-09-29T05:13:43Z"
-    },
-    {
-      "title": "Anthropic IPO could value AI lab at over USD 2 trillion despite surging costs",
-      "description": "[THE TRIBUNE] Artificial intelligence startup Anthropic is targeting a public-market valuation of more than USD 2 trillion as it bets that AI will transform the global economy, according to a news report by Reuters.",
-      "url": "https://www.tribuneindia.com/news/business/anthropic-ipo-could-value-ai-lab-at-over-usd-2-trillion-despite-surging-costs/",
-      "date": "2026-09-29T02:32:32Z"
-    },
-    {
-      "title": "Anthropic Says Advanced AI Could Pose Serious Humanity Risk In New IPO Filing",
-      "description": "[TIMES NOW] Anthropic is advising potential investors in its IPO about the significant risks that advanced artificial intelligence may pose to humanity, including catastrophic outcomes. Their prospectus outlines concerns about AI models exhibiting...",
-      "url": "https://www.timesnownews.com/technology-science/anthropic-says-advanced-ai-could-pose-serious-humanity-risk-in-new-ipo-filing-article-156243576",
-      "date": "2026-09-29T02:32:29Z"
-    },
-    {
-      "title": "Anthropic IPO could value AI lab at over USD 2 trillion despite surging costs",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Artificial intelligence startup Anthropic is targeting a public-market valuation of more than USD 2 trillion as it bets that AI will transform the global economy, according to a news report by Reuters.",
-      "url": "https://www.aninews.in/news/business/anthropic-ipo-could-value-ai-lab-at-over-usd-2-trillion-despite-surging-costs20260929080102/",
-      "date": "2026-09-29T02:31:02Z"
-    },
-    {
-      "title": "Nvidia announces record US$150 billion stock buyback",
-      "description": "[THE STRAITS TIMES] Nvidia announces a historic US$150 billion stock buyback amid AI-driven growth, signalling confidence in the long-term opportunity in artificial intelligence. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/business/nvidia-adds-us150-billion-to-massive-stock-buyback-the-largest-ever",
-      "date": "2026-09-29T02:27:00Z"
-    },
-    {
-      "title": "OpenAI scraps new AI model release over safety concerns",
-      "description": "[PERTHNOW] OpenAI says it is delaying the release of a new artificial intelligence model out of security concerns voiced by its researchers.",
-      "url": "https://www.perthnow.com.au/news/technology/openai-scraps-new-ai-model-release-over-safety-concerns-c-22940930",
-      "date": "2026-09-29T02:20:47Z"
-    },
-    {
-      "title": "OpenAI scraps new AI model release over safety concerns",
-      "description": "[THE CANBERRA TIMES] OpenAI says it is delaying the release of a new artificial intelligence model out of security concerns voiced...",
-      "url": "https://www.canberratimes.com.au/story/9359369/openai-scraps-new-ai-model-release-over-safety-concerns/",
-      "date": "2026-09-29T02:18:43Z"
-    },
-    {
-      "title": "CSL Partners With Amazon Web Services",
-      "description": "[MARKETSCREENER] CSL partnered with Amazon Web Services to apply artificial intelligence and cloud technologies in advancing its biopharmaceutical research and clinical development, the biotechnology company said...",
-      "url": "https://www.marketscreener.com/news/csl-partners-with-amazon-web-services-ce785addd889f42d",
-      "date": "2026-09-29T02:16:24Z"
-    },
-    {
-      "title": "OpenAI \u2018sorry and working to do better\u2019 after hack of Medicare and other Australian government websites",
-      "description": "[THE GUARDIAN] Artificial intelligence firm to front parliament as it apologises to Australians for agent attack",
-      "url": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
-      "date": "2026-09-29T02:10:55Z"
-    },
-    {
-      "title": "'Can at times evade human oversight': OpenAI scraps release of latest ChatGPT model",
-      "description": "[TIMES OF INDIA] OpenAI has delayed the release of its next-generation artificial intelligence model, GPT-6.1 Astra, after the system failed to meet the company\u2019s internal",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/didnt-quite-meet-the-bar-why-openai-scrapped-release-of-its-latest-ai-model/articleshow/134553926.cms",
-      "date": "2026-09-29T02:06:00Z"
-    },
-    {
-      "title": "AMD buys \u2018Godmother of AI\u2019 Fei-Fei Li\u2019s AI firm for US$8.2b",
-      "description": "[MALAY MAIL] SAN FRANCISCO, Sept 29 \u2014 Chip maker Advanced Micro Devices announced Monday it has acquired World Labs, an artificial intelligence company founded by Fei-Fei Li, one of the...",
-      "url": "https://www.malaymail.com/news/money/2026/09/29/amd-buys-godmother-of-ai-fei-fei-lis-ai-firm-for-us82b/236944",
-      "date": "2026-09-29T02:04:31Z"
-    },
-    {
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "description": "[TECHCRUNCH] Thirteen of the 18 startups in Peak XV\u2019s latest Surge cohort are targeting global markets, while more than half are based in India.",
-      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "date": "2026-09-29T00:30:00Z"
-    },
-    {
-      "title": "Holo4: powering generalist computer-use agents",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "date": "2026-09-28T09:44:05Z"
-    },
-    {
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "date": "2026-09-24T14:08:57Z"
-    },
-    {
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "date": "2026-09-23T18:41:40Z"
-    },
-    {
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "date": "2026-09-22T00:00:00Z"
-    },
-    {
-      "title": "Transformers now runs llama.cpp quants",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "date": "2026-09-22T00:00:00Z"
-    }
-  ]
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-09-29 16:57 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Molly Taft",
+            "title": "AI Agents Are Thirsty for Power",
+            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
+            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
+            "publishedAt": "2026-09-13T10:00:00Z",
+            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Tom McKay",
+            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
+            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
+            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+            "publishedAt": "2026-09-15T02:52:23Z",
+            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-02T16:12:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
+            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
+            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
+            "publishedAt": "2026-09-03T16:25:41Z",
+            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
+        }
+    ]
 }
