@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-29 16:57 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        }
-    ]
+  "updated": "2026-09-29 20:24:46 UTC",
+  "news": [
+    {
+      "title": "OpenAI\u2019s latest features take direct aim at the app store model",
+      "description": "[TECHCRUNCH] OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "date": "2026-09-29T20:15:47Z"
+    },
+    {
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "description": "[TECHCRUNCH] The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "date": "2026-09-29T19:52:37Z"
+    },
+    {
+      "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
+      "description": "[TECHCRUNCH] OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "date": "2026-09-29T18:35:00Z"
+    },
+    {
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT\u2019s own office suite",
+      "description": "[TECHCRUNCH] OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "date": "2026-09-29T17:45:51Z"
+    },
+    {
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "description": "[TECHCRUNCH] Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "date": "2026-09-29T17:20:00Z"
+    },
+    {
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "description": "[TECHCRUNCH] Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "date": "2026-09-29T17:17:15Z"
+    },
+    {
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "date": "2026-09-29T15:30:38Z"
+    },
+    {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "date": "2026-09-29T13:07:00Z"
+    },
+    {
+      "title": "India Mobile Congress 2026 launches 'Viksit Tech 47' platform to build Indian technology brands for global markets",
+      "description": "[THE ECONOMIC TIMES] India Mobile Congress 2026 has introduced Viksit Tech 47 to aid Indian technology firms in achieving global prominence. This platform aims to support companies in several technology sectors, including artificial intelligence and IoT. A flagship...",
+      "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/india-mobile-congress-2026-launches-viksit-tech-47-platform-to-build-indian-technology-brands-for-global-markets/articleshow/134560795.cms",
+      "date": "2026-09-29T08:22:00Z"
+    },
+    {
+      "title": "Loblaw's PC Health launches chatbot as more people turn to AI for health info. Here's what to know",
+      "description": "[BAYTODAY] TORONTO \u2014 Loblaw Companies Limited's PC Health launched an artificial intelligence-powered chatbot earlier this month, and the company says it processed more than 100,000 questions in its first week.",
+      "url": "https://www.baytoday.ca/national-news/loblaws-pc-health-launches-chatbot-as-more-people-turn-to-ai-for-health-info-heres-what-to-know-12833632",
+      "date": "2026-09-29T08:00:08Z"
+    },
+    {
+      "title": "Loblaw's PC Health launches chatbot as more people turn to AI for health info. Here's what to know",
+      "description": "[VANCOUVER IS AWESOME] TORONTO \u2014 Loblaw Companies Limited's PC Health launched an artificial intelligence-powered chatbot earlier this month, and the company says it processed more than 100,000 questions in its first week.",
+      "url": "https://www.vancouverisawesome.com/national-news/loblaws-pc-health-launches-chatbot-as-more-people-turn-to-ai-for-health-info-heres-what-to-know-12833650",
+      "date": "2026-09-29T08:00:08Z"
+    },
+    {
+      "title": "Loblaw's PC Health launches chatbot as more people turn to AI for health info. Here's what to know",
+      "description": "[VANCOUVER IS AWESOME] TORONTO \u2014 Loblaw Companies Limited's PC Health launched an artificial intelligence-powered chatbot earlier this month, and the company says it processed more than 100,000 questions in its first week.",
+      "url": "https://www.vancouverisawesome.com/national-business/loblaws-pc-health-launches-chatbot-as-more-people-turn-to-ai-for-health-info-heres-what-to-know-12833625",
+      "date": "2026-09-29T08:00:08Z"
+    },
+    {
+      "title": "SureCloud Launches \"The Temperature is Rising\" at Gartner's Enterprise Risk, Audit & Compliance Conference with a free AI Governance promotion",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- SureCloud, the governance, risk and compliance platform, today launches The Temperature is Rising, a hot campaign with a free AI governance...",
+      "url": "https://www.prnewswire.co.uk/news-releases/surecloud-launches-the-temperature-is-rising-at-gartners-enterprise-risk-audit--compliance-conference-with-a-free-ai-governance-promotion-302892575.html",
+      "date": "2026-09-29T08:00:00Z"
+    },
+    {
+      "title": "Campaigns clash over use of AI in Toronto mayoral race",
+      "description": "[CBC.CA] A Toronto mayoral candidate is defending his campaign\u2019s use of artificial intelligence, but experts in the emerging technology say while it could act as an equalizer for under-resourced teams, it's no substitute for the human element of traditional...",
+      "url": "https://www.cbc.ca/news/canada/toronto/toronto-mayoral-race-ai-9.7361315",
+      "date": "2026-09-29T08:00:00Z"
+    },
+    {
+      "title": "AI giants head to the White House as Anthropic's IPO filing warns of \"existential risks to humanity\"",
+      "description": "[PROTO THEMA] Mark Zuckerberg, Sundar Pichai, Greg Brockman and Dario Amodei meet Donald Trump today to discuss oversight of artificial intelligence, as Anthropic's prospectus sets out the dangers of the technology to investors.",
+      "url": "https://en.protothema.gr/2026/09/29/ai-giants-head-to-the-white-house-as-anthropics-ipo-filing-warns-of-existential-risks-to-humanity/",
+      "date": "2026-09-29T07:58:12Z"
+    },
+    {
+      "title": "ASCI releases guidelines for responsible labelling of AI-generated ad content",
+      "description": "[THE HINDU BUSINESS LINE] With brands increasingly using Artificial Intelligence to create or enhance ads, the Advertising Standards Council of India (ASCI) on Tuesday released guidelines to ensure responsible labelling of Synthetically Generated Content in Advertising. The...",
+      "url": "https://www.thehindubusinessline.com/companies/asci-releases-guidelines-for-responsible-labelling-of-ai-generated-ad-content/article71522953.ece",
+      "date": "2026-09-29T07:56:18Z"
+    },
+    {
+      "title": "Quantum sensing gathers pace as navies eye undersea advantage",
+      "description": "[EUROPE SAYS] Artificial intelligence (AI) dominated much of the discussion at the Thales Tech Summit, held in London on 14 September, yet senior voices pointed to quantum",
+      "url": "https://www.europesays.com/3278661/",
+      "date": "2026-09-29T07:34:21Z"
+    },
+    {
+      "title": "Google Appeals EU Antitrust Orders Over Data Sharing, AI Services",
+      "description": "[MARKETSCREENER] Alphabet's Google is contesting two European Union antitrust orders related to the provision of its services and data to online search rivals and artificial intelligence \u200bdevelopers before a...",
+      "url": "https://www.marketscreener.com/news/google-appeals-eu-antitrust-orders-over-data-sharing-ai-services-ce785adddb8ef020",
+      "date": "2026-09-29T07:25:17Z"
+    },
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "date": "2026-09-28T09:44:05Z"
+    },
+    {
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "date": "2026-09-24T14:08:57Z"
+    },
+    {
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "date": "2026-09-22T00:00:00Z"
+    },
+    {
+      "title": "Transformers now runs llama.cpp quants",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "date": "2026-09-22T00:00:00Z"
+    }
+  ]
 }
