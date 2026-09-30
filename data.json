@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-09-30 16:54 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lauren Goode",
-            "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-            "description": "The long-rumored deal will give the chip giant access to\u2014and help it promote\u2014a huge repository of open-source AI models and data sets.",
-            "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-            "urlToImage": "https://media.wired.com/photos/6a906df0a8a32784cdb5c100/191:100/w_1280,c_limit/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg",
-            "publishedAt": "2026-09-03T12:43:09Z",
-            "content": "Nvidia has agreed to acquire Hugging Face, which makes online developer tools and maintains a massive library of open-source data sets, for nearly $13 billion. While the deal had been rumored for wee\u2026 [+3847 chars]"
-        }
-    ]
+  "updated": "2026-09-30 20:29:15 UTC",
+  "news": [
+    {
+      "title": "OpenAI\u2019s Jev clone could help the frontier lab stop its swarming agents",
+      "description": "[TECHCRUNCH] OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "date": "2026-09-30T19:00:57Z"
+    },
+    {
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "description": "[TECHCRUNCH] The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "date": "2026-09-30T18:23:57Z"
+    },
+    {
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "description": "[TECHCRUNCH] Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "date": "2026-09-30T17:45:00Z"
+    },
+    {
+      "title": "The ugly economics of consumer AI",
+      "description": "[TECHCRUNCH] There\u2019s a reason frontier labs have gotten gun-shy about consumer AI \u2014 and it\u2019s not because the tech isn\u2019t good enough.",
+      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "date": "2026-09-30T17:24:45Z"
+    },
+    {
+      "title": "Meta disputes claim that Muse read a user\u2019s private messages without permission",
+      "description": "[TECHCRUNCH] Meta says its Muse AI agent cannot access a user\u2019s Messages without explicit permission, disputing a journalist\u2019s account that the agent read his private messages while the required Mac setting was turned off.",
+      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "date": "2026-09-30T16:24:23Z"
+    },
+    {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "description": "[TECHCRUNCH] By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "date": "2026-09-30T16:00:24Z"
+    },
+    {
+      "title": "A timeline of developments in AI safety since the attack on Hugging Face",
+      "description": "[BREITBART NEWS NETWORK] Since OpenAI disclosed this summer that its artificial intelligence system hacked into another AI company in what is now referred to as the Hugging Face",
+      "url": "https://www.breitbart.com/news/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/",
+      "date": "2026-09-30T08:19:38Z"
+    },
+    {
+      "title": "Anthropic Says Rogue AI Agents Pose Uncertain Legal Risk For Company",
+      "description": "[DECCAN CHRONICLE] While it gears up for what could be the largest IPO ever, Anthropic faces the possibility of vast unknown legal risk if its agentic AI technology goes rogue",
+      "url": "https://www.deccanchronicle.com/technology/anthropic-says-rogue-ai-agents-pose-uncertain-legal-risk-for-company-1991866",
+      "date": "2026-09-30T08:16:53Z"
+    },
+    {
+      "title": "Smart, Secure and Scalable: Flatworld Mortgage Reimagines Mortgage Operations",
+      "description": "[THE TRIBUNE] Bengaluru (Karnataka) [India], September 30: Flatworld Mortgage Solutions LLC, a strategic player in the mortgage processing space across the US announced a brand relaunch built on three pillars, Smart, Secure and Scalable, that reflects an...",
+      "url": "https://www.tribuneindia.com/news/business/smart-secure-and-scalable-flatworld-mortgage-reimagines-mortgage-operations/",
+      "date": "2026-09-30T08:08:09Z"
+    },
+    {
+      "title": "Smart, Secure and Scalable: Flatworld Mortgage Reimagines Mortgage Operations",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Bengaluru (Karnataka) [India], September 30: Flatworld Mortgage Solutions LLC, a strategic player in the mortgage processing space across the US announced a brand relaunch built on three pillars, Smart, Secure and Scalable, that reflects an...",
+      "url": "https://www.aninews.in/news/business/smart-secure-and-scalable-flatworld-mortgage-reimagines-mortgage-operations20260930133239/",
+      "date": "2026-09-30T08:02:39Z"
+    },
+    {
+      "title": "BT Explainer | What is \u2018super intelligence\u2019? Is it different from artificial intelligence?",
+      "description": "[BUSINESS TODAY] AI to SI: Donald Trump wants your intelligence to be 'super' instead of 'artificial' and has made his case for it.",
+      "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/bt-explainer-what-is-super-intelligence-is-it-different-from-artificial-intelligence-558747-2026-09-30",
+      "date": "2026-09-30T07:50:16Z"
+    },
+    {
+      "title": "Asia\u2019s top tech start-ups move beyond software towards physical AI",
+      "description": "[THE STRAITS TIMES] This includes deploying artificial intelligence across wind farms, warehouses and operating theatres. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/asias-top-tech-start-ups-move-beyond-software-towards-physical-ai",
+      "date": "2026-09-30T07:42:00Z"
+    },
+    {
+      "title": "Google\u2019s Sundar Pichai responds after Trump calls him \u2018monster\u2019",
+      "description": "[THE NEWS INTERNATIONAL] President Donald Trump hosted top tech executives on Tuesday to discuss artificial intelligence. But in this summit, Trump changed artificial intelligence to \u201csuper intelligence.\u201d While...",
+      "url": "https://www.thenews.com.pk/latest/1418170-googles-sundar-pichai-responds-after-trump-calls-him-monster",
+      "date": "2026-09-30T07:19:00Z"
+    },
+    {
+      "title": "backed AI fund draws cooler demand in second offering amid loss concerns",
+      "description": "[THE KOREA TIMES] A government-backed fund investing in emerging industries, including artificial intelligence (AI), began its second retail offering of 600 billion...",
+      "url": "https://www.koreatimes.co.kr/economy/others/20260930/state-backed-ai-fund-draws-cooler-demand-in-second-offering-amid-loss-concerns",
+      "date": "2026-09-30T07:16:03Z"
+    },
+    {
+      "title": "ChatGPT maker wants to be the App Store for AI as safety concerns grow",
+      "description": "[THE STAR] OpenAI on Sept 29 launched a less expensive artificial intelligence (AI) model and tools that run continuously, as it aims to reposition ChatGPT as an app store for AI.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/09/30/chatgpt-maker-wants-to-be-the-app-store-for-ai-as-safety-concerns-grow",
+      "date": "2026-09-30T07:00:00Z"
+    },
+    {
+      "title": "\u2018Sundar Is His Name\u2019: Trump Calls Google CEO Pichai A 'Monster\u2019 | WATCH",
+      "description": "[TIMES NOW] Getting playful after signing a document on artificial intelligence in Washington with tech executives, US President Donald Trump called Google CEO Sundar Pichai a \u201cmonster.\u201d, US Buzz, Times Now",
+      "url": "https://www.timesnownews.com/world/us/us-buzz/donald-trump-calls-google-ceo-sundar-pichai-a-monster-at-watch-viral-video-article-156250183",
+      "date": "2026-09-30T06:57:28Z"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "date": "2026-09-30T00:00:00Z"
+    },
+    {
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "date": "2026-09-29T15:30:38Z"
+    },
+    {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "date": "2026-09-29T13:07:00Z"
+    },
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "date": "2026-09-28T09:44:05Z"
+    },
+    {
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "date": "2026-09-24T14:08:57Z"
+    },
+    {
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "date": "2026-09-22T00:00:00Z"
+    }
+  ]
 }
