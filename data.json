@@ -1,137 +1,72 @@
 {
-  "updated": "2026-10-01 16:50:46 UTC",
-  "news": [
-    {
-      "title": "Amazon releases its own Jev clone as decision models flood the web",
-      "description": "[TECHCRUNCH] Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "date": "2026-10-01T16:49:22Z"
-    },
-    {
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "description": "[TECHCRUNCH] Shopify\u2019s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "date": "2026-10-01T16:44:35Z"
-    },
-    {
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "description": "[TECHCRUNCH] Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-      "date": "2026-10-01T15:12:00Z"
-    },
-    {
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "date": "2026-10-01T15:01:43Z"
-    },
-    {
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "description": "[TECHCRUNCH] The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "date": "2026-10-01T14:00:00Z"
-    },
-    {
-      "title": "Hearing tech startup Legato launches its AI hearing glasses",
-      "description": "[TECHCRUNCH] The glasses stem from the startup\u2019s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-      "date": "2026-10-01T13:00:00Z"
-    },
-    {
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "description": "[TECHCRUNCH] Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "date": "2026-10-01T12:00:00Z"
-    },
-    {
-      "title": "San Francisco tech nonprofit faces 156% rent hike as AI fuels office demand",
-      "description": "[EUROPE SAYS] SAN FRANCISCO (KGO) -- San Francisco's artificial intelligence boom is driving increased demand for office space, creating new challenges for some businesses",
-      "url": "https://www.europesays.com/3282370/",
-      "date": "2026-10-01T04:34:26Z"
-    },
-    {
-      "title": "Anarock Property Consultants files papers for Rs 1,000 crore IPO",
-      "description": "[THE ECONOMIC TIMES] Anarock Property Consultants Ltd has filed draft papers to raise Rs 1,000 crore via an IPO. The IPO will consist of a fresh issue of up to Rs 550 crore and an Offer For Sale of Rs 450 crore. Funds raised will support technology investments, business...",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/anarock-property-consultants-files-papers-for-rs-1000-crore-ipo/articleshow/134608009.cms",
-      "date": "2026-10-01T04:32:00Z"
-    },
-    {
-      "title": "Nvidia Launches AI Agent Safety Platform, Authorizes $150 Billion Buyback",
-      "description": "[NATURAL NEWS] Nvidia announced Monday the NVIDIA Open Agent Safety Platform, a two-part software system designed to monitor artificial intelligence agents and shut them down when they violate rules. The company paired the launch with a $150 billion increase to...",
-      "url": "https://www.naturalnews.com/2026-10-01-nvidia-launches-ai-agent-safety-platform-authorizes-buyback.html",
-      "date": "2026-10-01T04:31:19Z"
-    },
-    {
-      "title": "Google restricts access to new AI model over safety concerns",
-      "description": "[THE STAR] Google on Sept 30 said it would withhold its most powerful artificial intelligence model from the public for now, releasing Gemini 4 Argon only to a vetted group of cybersecurity experts to avoid misuse by hackers.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/01/google-restricts-access-to-new-ai-model-over-safety-concerns",
-      "date": "2026-10-01T04:30:00Z"
-    },
-    {
-      "title": "Trump formally replaces \u2018Artificial Intelligence\u2019 with \u2019Super Intelligence\u2019 in an executive order",
-      "description": "[THE HINDU] Trump signed an executive order directing executive departments and agencies to begin using \u2018Super Intelligence\u2019 and \u2018SI\u2019 in place of \u2018Artificial Intelligence\u2019 and \u2018AI.\u2019",
-      "url": "https://www.thehindu.com/sci-tech/technology/trump-formally-replaces-artificial-intelligence-with-super-intelligence-in-an-executive-order/article71531394.ece",
-      "date": "2026-10-01T04:28:27Z"
-    },
-    {
-      "title": "From Overseas Range Records to Zero-Carbon Factories: Chery Auto to Showcase Green Technology at 2026 Chery International User Summit",
-      "description": "[THE MANILA TIMES] WUHU, China, Sept. 30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto\u2019s global headquarters in Wuhu, China. Focusing on three core areas - artificial intelligence, intelligent...",
-      "url": "https://www.manilatimes.net/2026/10/01/tmt-newswire/globenewswire/from-overseas-range-records-to-zero-carbon-factories-chery-auto-to-showcase-green-technology-at-2026-chery-international-user-summit/2436743",
-      "date": "2026-10-01T03:55:20Z"
-    },
-    {
-      "title": "BMW layoffs: Luxury car giant targets 20% senior management reduction as profitability pressure continue",
-      "description": "[INDIATIMES] BMW announces a significant layoff of 20% of senior management positions to improve efficiency and integrate artificial intelligence into operations, amid profitability challenges.",
-      "url": "https://www.indiatimes.com/trending/bmw-layoffs-luxury-car-giant-targets-20-senior-management-reduction-as-profitability-pressure-continue/articleshow/134607241.html",
-      "date": "2026-10-01T03:28:46Z"
-    },
-    {
-      "title": "A timeline of developments in AI safety since the attack on Hugging Face",
-      "description": "[THE STAR] In one alarming announcement after another, artificial intelligence companies in recent months have shared examples of their technology acting in ways that appeared to evade instructions from humans.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/01/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face",
-      "date": "2026-10-01T03:00:00Z"
-    },
-    {
-      "title": "Anthropic's IPO pitch embraces AI's promise and peril",
-      "description": "[THE ECONOMIC TIMES] To pull off a successful offering that values it at $2 trillion, Anthropic, whose name means \"human-centered,\" will need plenty of mortal investors to help build a world where mankind will soon take a back seat to far more capable artificial...",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-ipo-pitch-embraces-ais-promise-and-peril/articleshow/134606713.cms",
-      "date": "2026-10-01T02:48:27Z"
-    },
-    {
-      "title": "The Spokesman-Review: Opinions should be stated by humans, not AI; policy change will ensure that",
-      "description": "[SPOKANE SPOKESMAN-REVIEW] The Spokesman-Review Opinion pages are home to the opinions of our local community. These opinions should be written by members of our community, not artificial intelligence bots.",
-      "url": "https://www.spokesman.com/stories/2026/sep/30/the-spokesman-review-opinions-should-be-stated-by-/",
-      "date": "2026-10-01T02:00:00Z"
-    },
-    {
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "date": "2026-09-30T00:00:00Z"
-    },
-    {
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "date": "2026-09-29T15:30:38Z"
-    },
-    {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "date": "2026-09-29T13:07:00Z"
-    },
-    {
-      "title": "Holo4: powering generalist computer-use agents",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "date": "2026-09-28T09:44:05Z"
-    },
-    {
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "date": "2026-09-24T14:08:57Z"
-    }
-  ]
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-10-01 17:26 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Molly Taft",
+            "title": "AI Agents Are Thirsty for Power",
+            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
+            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
+            "publishedAt": "2026-09-13T10:00:00Z",
+            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Tom McKay",
+            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
+            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
+            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+            "publishedAt": "2026-09-15T02:52:23Z",
+            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-02T16:12:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
+            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
+            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
+            "publishedAt": "2026-09-03T16:25:41Z",
+            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lauren Goode",
+            "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+            "description": "The long-rumored deal will give the chip giant access to\u2014and help it promote\u2014a huge repository of open-source AI models and data sets.",
+            "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+            "urlToImage": "https://media.wired.com/photos/6a906df0a8a32784cdb5c100/191:100/w_1280,c_limit/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg",
+            "publishedAt": "2026-09-03T12:43:09Z",
+            "content": "Nvidia has agreed to acquire Hugging Face, which makes online developer tools and maintains a massive library of open-source data sets, for nearly $13 billion. While the deal had been rumored for wee\u2026 [+3847 chars]"
+        }
+    ]
 }
