@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-01 17:26 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lauren Goode",
-            "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-            "description": "The long-rumored deal will give the chip giant access to\u2014and help it promote\u2014a huge repository of open-source AI models and data sets.",
-            "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-            "urlToImage": "https://media.wired.com/photos/6a906df0a8a32784cdb5c100/191:100/w_1280,c_limit/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg",
-            "publishedAt": "2026-09-03T12:43:09Z",
-            "content": "Nvidia has agreed to acquire Hugging Face, which makes online developer tools and maintains a massive library of open-source data sets, for nearly $13 billion. While the deal had been rumored for wee\u2026 [+3847 chars]"
-        }
-    ]
+  "updated": "2026-10-01 22:16:31 UTC",
+  "news": [
+    {
+      "title": "Musk\u2019s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela\u2019s president",
+      "description": "[TECHCRUNCH] President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicol\u00e1s Maduro.",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "date": "2026-10-01T21:08:11Z"
+    },
+    {
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "description": "[TECHCRUNCH] OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "date": "2026-10-01T19:21:53Z"
+    },
+    {
+      "title": "Google thinks SpaceX\u2019s Starship has to launch 1,800 times before space data centers get off the ground",
+      "description": "[TECHCRUNCH] Google launched its first advanced chip into orbit to pave the way for space data centers.",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "date": "2026-10-01T19:18:03Z"
+    },
+    {
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "description": "[TECHCRUNCH] OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "date": "2026-10-01T18:14:42Z"
+    },
+    {
+      "title": "Opus 5.5 loves to tell you \u2018this matters\u2019 (and other AI writing tells)",
+      "description": "[TECHCRUNCH] Opus 5.5\u2019s biggest tell is the word \u201cdependable,\u201d which pops up 23 times more often than in human samples.",
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "date": "2026-10-01T17:50:19Z"
+    },
+    {
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "description": "[TECHCRUNCH] Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "date": "2026-10-01T16:49:22Z"
+    },
+    {
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "date": "2026-10-01T15:01:43Z"
+    },
+    {
+      "title": "Mike Rowe warns US workforce facing \u2018problem of the decade\u2019",
+      "description": "[FOX BUSINESS] Mike Rowe warns the skilled trades shortage has CEOs \"freaking out,\" despite artificial intelligence and rising college costs fueling growing interest in trade careers.",
+      "url": "https://www.foxbusiness.com/media/mike-rowe-warns-us-workforce-facing-problem-decade",
+      "date": "2026-10-01T10:00:12Z"
+    },
+    {
+      "title": "Chicago\u2019s book translators bring world literature to life",
+      "description": "[CHICAGO TRIBUNE] Chicago translators pore over words and themes to translate books into English, a practice they say is complex and deeply human, especially given the rise of artificial intelligence technology.",
+      "url": "https://www.chicagotribune.com/2026/10/01/chicagos-book-translators-inhabit-languages-in-their-work-which-is-more-art-than-science/",
+      "date": "2026-10-01T10:00:09Z"
+    },
+    {
+      "title": "Canada government website targeted in attempted hack: Transluce",
+      "description": "[CP24 TORONTO] An artificial intelligence research firm said on Wednesday AI agents tried to hack into a Canadian government website, casting the effort as a failed hacking attempt, while Canada said there were no indications its systems were compromised.",
+      "url": "https://www.cp24.com/news/canada/2026/10/01/ai-agents-tried-to-hack-a-canadian-government-website-research-firm-says/",
+      "date": "2026-10-01T09:56:29Z"
+    },
+    {
+      "title": "Canada government website targeted in attempted hack: Transluce",
+      "description": "[BNN BLOOMBERG] An artificial intelligence research firm said on Wednesday AI agents tried to hack into a Canadian government website, casting the effort as a failed hacking attempt, while Canada said there were no indications its systems were compromised.",
+      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/01/ai-agents-tried-to-hack-a-canadian-government-website-research-firm-says/",
+      "date": "2026-10-01T09:56:29Z"
+    },
+    {
+      "title": "Gavin Newsom Orders California to Keep 'AI' Term After Trump's 'Super Intelligence' Rebrand",
+      "description": "[BREITBART NEWS NETWORK] California Gov. Gavin Newsom (D) signed an executive order Wednesday directing state agencies to stick with the term \"artificial intelligence,\" a pointed rebuttal to President Trump's push to rebrand the technology as \"superintelligence.\"",
+      "url": "https://www.breitbart.com/tech/2026/10/01/gavin-newsom-orders-california-to-keep-ai-term-after-trumps-superintelligence-rebrand/",
+      "date": "2026-10-01T09:48:20Z"
+    },
+    {
+      "title": "Gavin Newsom Orders California to Keep 'AI' Term After Trump's 'Super Intelligence' Rebrand",
+      "description": "[BREITBART NEWS NETWORK] California Gov. Gavin Newsom (D) signed an executive order Wednesday directing state agencies to stick with the term \"artificial intelligence,\" a pointed rebuttal to President Trump's push to rebrand the technology as \"superintelligence.\"",
+      "url": "https://www.breitbart.com/politics/2026/10/01/gavin-newsom-orders-california-to-keep-ai-term-after-trumps-superintelligence-rebrand/",
+      "date": "2026-10-01T09:48:20Z"
+    },
+    {
+      "title": "Chinese hackers impersonated ex-US official to steal emails from AI experts",
+      "description": "[FIRSTPOST] Posing as prominent US artificial intelligence experts, suspected Chinese hackers launched a targeted phishing campaign aimed at policy researchers, academics and former government officials. Cybersecurity firm Proofpoint says the operation sought...",
+      "url": "https://www.firstpost.com/tech/chinese-hackers-impersonated-ex-us-official-to-steal-emails-from-ai-experts-14049704.html",
+      "date": "2026-10-01T09:46:18Z"
+    },
+    {
+      "title": "Jera, Dell Team Up for $15 Billion AI Infrastructure Project in Japan",
+      "description": "[MARKETSCREENER] By Kimberley Kao Japan's Jera, Dell Technologies and U.K.-based infrastructure firm Rhaelm are teaming up on an artificial-intelligence infrastructure project that could cost more than $15...",
+      "url": "https://www.marketscreener.com/news/jera-dell-team-up-for-15-billion-ai-infrastructure-project-in-japan-ce785ad3df81f421",
+      "date": "2026-10-01T09:41:26Z"
+    },
+    {
+      "title": "Ben Affleck defends decision to use AI in new movie 'Animals': 'We did use it'",
+      "description": "[THE NEWS INTERNATIONAL] Ben Affleck has confessed that he used artificial intelligence in his new movie, Animals.In a new interview with Bloomberg, the actor and filmmaker revealed that he used AI for lots of things...",
+      "url": "https://www.thenews.com.pk/latest/1418314-ben-affleck-defends-decision-to-use-ai-in-new-movie-animals",
+      "date": "2026-10-01T09:31:00Z"
+    },
+    {
+      "title": "Startup Accelerated by Unicorn Factory Lisboa Wins International AI Award in Taiwan",
+      "description": "[THE MANILA TIMES] S\u00c3O PAULO, Oct. 01, 2026 (GLOBE NEWSWIRE) -- Draiven, an artificial intelligence startup with operations in Lisbon, has won the WITSA Global AI Awards 2026 in Taiwan, in the AI for Data category. The award recognizes the company\u2019s technology, which...",
+      "url": "https://www.manilatimes.net/2026/10/01/tmt-newswire/globenewswire/startup-accelerated-by-unicorn-factory-lisboa-wins-international-ai-award-in-taiwan/2436874",
+      "date": "2026-10-01T09:17:37Z"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "date": "2026-09-30T00:00:00Z"
+    },
+    {
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "date": "2026-09-29T15:30:38Z"
+    },
+    {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "date": "2026-09-29T13:07:00Z"
+    },
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "date": "2026-09-28T09:44:05Z"
+    },
+    {
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "date": "2026-09-24T14:08:57Z"
+    }
+  ]
 }
