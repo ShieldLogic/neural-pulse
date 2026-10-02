@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-02 16:45 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-02T16:12:25Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
-            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
-            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
-            "publishedAt": "2026-09-03T16:25:41Z",
-            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lauren Goode",
-            "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-            "description": "The long-rumored deal will give the chip giant access to\u2014and help it promote\u2014a huge repository of open-source AI models and data sets.",
-            "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-            "urlToImage": "https://media.wired.com/photos/6a906df0a8a32784cdb5c100/191:100/w_1280,c_limit/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg",
-            "publishedAt": "2026-09-03T12:43:09Z",
-            "content": "Nvidia has agreed to acquire Hugging Face, which makes online developer tools and maintains a massive library of open-source data sets, for nearly $13 billion. While the deal had been rumored for wee\u2026 [+3847 chars]"
-        }
-    ]
+  "updated": "2026-10-02 17:21:05 UTC",
+  "news": [
+    {
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "description": "[TECHCRUNCH] With all the talk about how AI might one day ill us all, it's easy to forget that AI has already harmed some people, psychologically. Circuit Breaker Labs has created \"crash test dummies\" to solve that.",
+      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "date": "2026-10-02T17:00:00Z"
+    },
+    {
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "description": "[TECHCRUNCH] \"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "date": "2026-10-02T15:39:41Z"
+    },
+    {
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "date": "2026-10-02T15:19:50Z"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Blackstone\u2019s Jas Khaira on building the next generation of AI giants",
+      "description": "[TECHCRUNCH] Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "date": "2026-10-02T15:00:00Z"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Clay\u2019s Kareem Amin on the rise of the GTM engineer",
+      "description": "[TECHCRUNCH] Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "date": "2026-10-02T14:30:00Z"
+    },
+    {
+      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+      "description": "[TECHCRUNCH] Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13\u201315, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco\u2019s Moscone West looking for companies, products, ideas, and people...",
+      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+      "date": "2026-10-02T14:00:00Z"
+    },
+    {
+      "title": "Council Releases ADG 2.0 and Offers Its AI Governance Crosswalks Free to Every Government, Regulator and Standards Body as Nations Split on AI Rules",
+      "description": "[THE TRIBUNE] Hyderabad (Telangana) [India],, October 2: EC-Council today released ADG 2.0, the second version of its Adopt, Defend, Govern framework, and offered the framework and its crosswalks to more than 90 regulations, standards and global frameworks at no...",
+      "url": "https://www.tribuneindia.com/news/business/ec-council-releases-adg-2-0-and-offers-its-ai-governance-crosswalks-free-to-every-government-regulator-and-standards-body-as-nations-split-on-ai-rules/",
+      "date": "2026-10-02T05:12:33Z"
+    },
+    {
+      "title": "EC-Council Releases ADG 2.0 and Offers Its AI Governance Crosswalks Free to Every Government, Regulator and Standards Body as Nations Split on AI Rules",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Hyderabad (Telangana) [India],, October 2: EC-Council today released ADG 2.0, the second version of its Adopt, Defend, Govern framework, and offered the framework and its crosswalks to more than 90 regulations, standards and global frameworks at no...",
+      "url": "https://www.aninews.in/news/business/ec-council-releases-adg-20-and-offers-its-ai-governance-crosswalks-free-to-every-government-regulator-and-standards-body-as-nations-split-on-ai-rules20261002103959/",
+      "date": "2026-10-02T05:09:59Z"
+    },
+    {
+      "title": "OpenAI alerts over 100 organisations of AI agent incidents",
+      "description": "[LOKMAT TIMES] OpenAI alerts over 100 organisations of AI agent incidents - New Delhi, Oct 2 US-based artificial intelligence giant OpenAI has said that it informed more than 100 organisations ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/openai-alerts-over-100-organisations-of-ai-agent-incidents-1/",
+      "date": "2026-10-02T04:56:38Z"
+    },
+    {
+      "title": "Ford CEO Jim Farley makes clear distinction of the jobs that AI cannot replace; says automation cannot be done for ...",
+      "description": "[TIMES OF INDIA] Ford CEO Jim Farley has made a clear distinction between the types of jobs artificial intelligence is likely to replace and the ones that will remain",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/ford-ceo-jim-farley-makes-clear-distinction-of-the-jobs-that-ai-cannot-replace-says-automation-cannot-be-done-for-/articleshow/134632005.cms",
+      "date": "2026-10-02T04:48:00Z"
+    },
+    {
+      "title": "Kelly Clarkson Loves AI, But Says AI Artists Shouldn't Be Human Music Charts",
+      "description": "[THE HOLLYWOOD REPORTER] Singer Kelly Clarkson is getting candid about what she calls her 'controversial' thoughts on artificial intelligence.",
+      "url": "https://www.hollywoodreporter.com/music/music-news/kelly-clarkson-ai-artists-shouldnt-be-music-charts-humans-1236720709/",
+      "date": "2026-10-02T04:22:28Z"
+    },
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "date": "2026-10-02T04:01:31Z"
+    },
+    {
+      "title": "Samsung raises prices of most Galaxy S26 smartphones by US$100",
+      "description": "[THE STAR] Over the last year, prices for consumer electronics such as laptops, gaming consoles and smartphones have risen as manufacturers grapple with an unprecedented shortage of memory chips driven by the artificial intelligence boom and the buildout of...",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/02/samsung-raises-prices-of-most-galaxy-s26-smartphones-by-us100",
+      "date": "2026-10-02T04:00:00Z"
+    },
+    {
+      "title": "Study: Gen Z is using AI, but skepticism grows",
+      "description": "[EUROPE SAYS] SALT LAKE CITY (KUTV) \u2014 Gen Z is using artificial intelligence regularly, but many young adults are also becoming more skeptical about how the technology",
+      "url": "https://www.europesays.com/3284374/",
+      "date": "2026-10-02T03:45:15Z"
+    },
+    {
+      "title": "Upbit adds AI tools that explain crypto price moves",
+      "description": "[THE KOREA TIMES] Dunamu, the operator of Korea\u2019s largest cryptocurrency exchange Upbit, said Friday that it expanded its artificial intelligence (AI)-powered market...",
+      "url": "https://www.koreatimes.co.kr/business/companies/20261002/upbit-adds-ai-tools-that-explain-crypto-price-moves",
+      "date": "2026-10-02T03:09:03Z"
+    },
+    {
+      "title": "Seoul looks to foreign entrepreneurs to fuel its next economic engine",
+      "description": "[THE KOREA TIMES] Armed with an artificial intelligence (AI) platform designed to predict fall risks for the elderly, a Ukrainian entrepreneur walked away from a Seo...",
+      "url": "https://www.koreatimes.co.kr/southkorea/20261002/seoul-looks-to-foreign-entrepreneurs-to-fuel-its-next-economic-engine",
+      "date": "2026-10-02T03:08:03Z"
+    },
+    {
+      "title": "Who is Dario Amodei, the AI boss warning about AI\u2019s risks?",
+      "description": "[MALAY MAIL] NEW YORK, Oct 2 \u2014 The surge in artificial intelligence and the heated debate around its risks have made Anthropic CEO Dario Amodei the most visible tech leader \u2014 though the...",
+      "url": "https://www.malaymail.com/news/tech-gadgets/2026/10/02/who-is-dario-amodei-the-ai-boss-warning-about-ais-risks/237332",
+      "date": "2026-10-02T03:00:00Z"
+    },
+    {
+      "title": "Musk\u2019s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela\u2019s president",
+      "description": "[TECHCRUNCH] President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicol\u00e1s Maduro.",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "date": "2026-10-01T21:08:11Z"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "date": "2026-09-30T00:00:00Z"
+    },
+    {
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "date": "2026-09-29T15:30:38Z"
+    },
+    {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "date": "2026-09-29T13:07:00Z"
+    },
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "date": "2026-09-28T09:44:05Z"
+    }
+  ]
 }
