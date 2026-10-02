@@ -1,137 +1,72 @@
 {
-  "updated": "2026-10-02 10:16:14 UTC",
-  "news": [
-    {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "date": "2026-10-02T04:01:31Z"
-    },
-    {
-      "title": "ChronoScale Announces Agreements Bringing Total Company Contracted Run-Rate Revenue to $1 Billion and Sale of Ekso Bionics Business Unit",
-      "description": "[THE MANILA TIMES] Expanded agreement with an existing AI infrastructure customer and new customer agreement increases contracted deployment pipeline and is expected to drive Company annualized revenue run rate to $1 billion by calendar Q3 2027ChronoScale completes...",
-      "url": "https://www.manilatimes.net/2026/10/02/tmt-newswire/globenewswire/chronoscale-announces-agreements-bringing-total-company-contracted-run-rate-revenue-to-1-billion-and-sale-of-ekso-bionics-business-unit/2437684",
-      "date": "2026-10-01T21:59:51Z"
-    },
-    {
-      "title": "California attorney general subpoenas OpenAI over incidents involving its AI models",
-      "description": "[CBS NEWS] California's attorney general has issued a subpoena to OpenAI following a series of incidents involving the company's artificial intelligence models.",
-      "url": "https://www.cbsnews.com/sacramento/news/openai-subpoena-californa-ai-artificial-intelligence-hugging-face/",
-      "date": "2026-10-01T21:43:17Z"
-    },
-    {
-      "title": "Small business owners beginning to adopt artificial intelligence, Fed study says",
-      "description": "[ARKANSAS ONLINE] Small business owners are beginning to adopt artificial intelligence and are using the technology as a part of their daily operations, according to a survey by Heartland Forward.",
-      "url": "https://www.arkansasonline.com/news/2026/oct/01/small-business-owners-beginning-to-adopt/",
-      "date": "2026-10-01T21:37:00Z"
-    },
-    {
-      "title": "Musk\u2019s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela\u2019s president",
-      "description": "[TECHCRUNCH] President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicol\u00e1s Maduro.",
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "date": "2026-10-01T21:08:11Z"
-    },
-    {
-      "title": "Rogue OpenAI agents covered up their tracks, report says",
-      "description": "[JAPAN TODAY] Artificial intelligence agents developed by OpenAI tried to erase traces of their activity after gaining unauthorized access to government websites, according to a report published Thursday. Cybersecurity firm Asymmetric Security analyzed the...",
-      "url": "https://japantoday.com/category/tech/rogue-openai-agents-covered-up-their-tracks-report-says",
-      "date": "2026-10-01T21:00:00Z"
-    },
-    {
-      "title": "9 in 10 Americans have encountered a cyber scam as AI fuels fraud, Consumer Reports finds",
-      "description": "[CBS NEWS] Cyberattacks and scams are skyrocketing due to artificial intelligence, which is making it easier for criminals to engage in fraud, the report finds.",
-      "url": "https://www.cbsnews.com/texas/news/ai-cyber-scams-consumer-reports-fraud/",
-      "date": "2026-10-01T19:49:00Z"
-    },
-    {
-      "title": "9 in 10 Americans have encountered a cyber scam as AI fuels fraud, Consumer Reports finds",
-      "description": "[CBS NEWS] Cyberattacks and scams are skyrocketing due to artificial intelligence, which is making it easier for criminals to engage in fraud, the report finds.",
-      "url": "https://www.cbsnews.com/news/ai-cyber-scams-consumer-reports-fraud/",
-      "date": "2026-10-01T19:49:00Z"
-    },
-    {
-      "title": "9 in 10 Americans have encountered a cyber scam as AI fuels fraud, Consumer Reports finds",
-      "description": "[CBS NEWS] Cyberattacks and scams are skyrocketing due to artificial intelligence, which is making it easier for criminals to engage in fraud, the report finds.",
-      "url": "https://www.cbsnews.com/sacramento/news/ai-cyber-scams-consumer-reports-fraud/",
-      "date": "2026-10-01T19:49:00Z"
-    },
-    {
-      "title": "Wes Moore forms bipartisan governors group on AI, citing federal inaction",
-      "description": "[WDIV CLICKONDETROIT] Gov. Wes Moore of Maryland is forming a bipartisan group of governors to address concerns about artificial intelligence.",
-      "url": "https://www.clickondetroit.com/news/politics/2026/10/01/wes-moore-forms-bipartisan-governors-group-on-ai-citing-federal-inaction/",
-      "date": "2026-10-01T19:33:49Z"
-    },
-    {
-      "title": "Wes Moore Forms Bipartisan Governors Group on AI, Citing Federal Inaction",
-      "description": "[U.S. NEWS & WORLD REPORT] BALTIMORE (AP) \u2014 Gov. Wes Moore of Maryland is forming a bipartisan group of governors to respond to mounting concerns about the threats posed by artificial intelligence as he argued that states need to fill a void left by the federal government's...",
-      "url": "https://www.usnews.com/news/business/articles/2026-10-01/wes-moore-forms-bipartisan-governors-group-on-ai-citing-federal-inaction",
-      "date": "2026-10-01T19:33:00Z"
-    },
-    {
-      "title": "A 27B Quantized LLM Is Said To Match Frontier AI Models In Just One Task From A Coding Benchmark, Making It A More Believable Claim",
-      "description": "[WCCFTECH] A quantized 27B LLM running on a single RTX 4090 reportedly matches frontier AI models in one coding benchmark task, though the claim comes with caveats",
-      "url": "https://wccftech.com/27b-quantized-llm-matches-frontier-ai-models-coding-benchmark-task/",
-      "date": "2026-10-01T19:29:04Z"
-    },
-    {
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "description": "[TECHCRUNCH] OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "date": "2026-10-01T19:21:53Z"
-    },
-    {
-      "title": "Google thinks SpaceX\u2019s Starship has to launch 1,800 times before space data centers get off the ground",
-      "description": "[TECHCRUNCH] Google launched its first advanced chip into orbit to pave the way for space data centers.",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "date": "2026-10-01T19:18:03Z"
-    },
-    {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "description": "[TECHCRUNCH] OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "date": "2026-10-01T18:14:42Z"
-    },
-    {
-      "title": "Opus 5.5 loves to tell you \u2018this matters\u2019 (and other AI writing tells)",
-      "description": "[TECHCRUNCH] Opus 5.5\u2019s biggest tell is the word \u201cdependable,\u201d which pops up 23 times more often than in human samples.",
-      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-      "date": "2026-10-01T17:50:19Z"
-    },
-    {
-      "title": "Amazon releases its own Jev clone as decision models flood the web",
-      "description": "[TECHCRUNCH] Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "date": "2026-10-01T16:49:22Z"
-    },
-    {
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "date": "2026-10-01T15:01:43Z"
-    },
-    {
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "date": "2026-09-30T00:00:00Z"
-    },
-    {
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "date": "2026-09-29T15:30:38Z"
-    },
-    {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "date": "2026-09-29T13:07:00Z"
-    },
-    {
-      "title": "Holo4: powering generalist computer-use agents",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "date": "2026-09-28T09:44:05Z"
-    }
-  ]
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-10-02 16:45 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Molly Taft",
+            "title": "AI Agents Are Thirsty for Power",
+            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
+            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
+            "publishedAt": "2026-09-13T10:00:00Z",
+            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Tom McKay",
+            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
+            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
+            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+            "publishedAt": "2026-09-15T02:52:23Z",
+            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+            "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from T\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-02T16:12:25Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nLetting models train on copyrighted work will preserve American prosperity, it says.\r\nLetting models train on copyrighted work will preserve American prosperity,\u2026 [+4120 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Nvidia CEO Says Hugging Face Will \u2018Remain an Open Platform for the Entire AI Ecosystem\u2019",
+            "description": "Nvidia is the infrastructure leader of AI. Now its one step closer to securing its dominance over the software layer as well.",
+            "url": "https://gizmodo.com/nvidia-ceo-says-hugging-face-will-remain-an-open-platform-for-the-entire-ai-ecosystem-2000806742",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2292612804-1200x675.jpg",
+            "publishedAt": "2026-09-03T16:25:41Z",
+            "content": "Nvidia is officially buying AI resource repository Hugging Face in a whopping $12.9 billion bet on open models.\r\nThe platform, and the 3 million open models it houses, will now be under Nvidia\u2019s mana\u2026 [+4267 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lauren Goode",
+            "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+            "description": "The long-rumored deal will give the chip giant access to\u2014and help it promote\u2014a huge repository of open-source AI models and data sets.",
+            "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+            "urlToImage": "https://media.wired.com/photos/6a906df0a8a32784cdb5c100/191:100/w_1280,c_limit/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg",
+            "publishedAt": "2026-09-03T12:43:09Z",
+            "content": "Nvidia has agreed to acquire Hugging Face, which makes online developer tools and maintains a massive library of open-source data sets, for nearly $13 billion. While the deal had been rumored for wee\u2026 [+3847 chars]"
+        }
+    ]
 }
