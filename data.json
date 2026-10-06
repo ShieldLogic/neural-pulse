@@ -1,98 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-05 19:46 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI\u2019s AI agents need to catch up",
-            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T18:40:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
-            "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbas\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-22T16:34:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints at tech companies.\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints\u2026 [+2761 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-            "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platfo\u2026",
-            "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T13:36:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2169 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
-            "description": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-12T21:41:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month.\r\nThe previously undisclosed attack on Ruby Gems predates Hugging Face \u2026 [+2116 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "U.S. Agencies Issue Stern Rebuke of China-Based AI Companies Over Alleged Distillation",
-            "description": "The U.S. and China will soon sit down for talks on AI security, which probably explains the timing.",
-            "url": "https://gizmodo.com/u-s-agencies-issue-stern-rebuke-of-china-based-ai-companies-over-alleged-distillation-2000808988",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/01/deepseek-china-ai-1200x675.jpg",
-            "publishedAt": "2026-09-09T09:00:31Z",
-            "content": "The U.S. National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA), and the FBI all released a statement on Tuesday accusing China-based AI companies of Industrial-Scale\u2026 [+2171 chars]"
-        }
-    ]
+  "updated": "2026-10-06 01:05:09 UTC",
+  "news": [
+    {
+      "title": "OpenAI will start watermarking ChatGPT\u2019s text in the EU",
+      "description": "[TECHCRUNCH] OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "date": "2026-10-05T20:36:48Z"
+    },
+    {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "description": "[TECHCRUNCH] Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build \u201cAI factories,\u201d a product that would let institutions build their own customized, local AI system by training Reflection\u2019s AI models on their own...",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "date": "2026-10-05T19:33:53Z"
+    },
+    {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "description": "[TECHCRUNCH] Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal...",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "date": "2026-10-05T18:54:30Z"
+    },
+    {
+      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "description": "[TECHCRUNCH] TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "date": "2026-10-05T18:29:00Z"
+    },
+    {
+      "title": "Hot Girl Hotline is like \u2018Dear Abby\u2019 for the AI era",
+      "description": "[TECHCRUNCH] Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "date": "2026-10-05T17:29:22Z"
+    },
+    {
+      "title": "HackerRank\u2019s AI interviewer offers a glimpse into what job interviews could become",
+      "description": "[TECHCRUNCH] HackerRank\u2019s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "date": "2026-10-05T16:43:35Z"
+    },
+    {
+      "title": "IBM expands research partnerships in India for AI and quantum computing",
+      "description": "[SCIENTIFIC COMPUTING WORLD] Collaborations with IIT Bombay and IISc will focus on agentic AI, sovereign AI, AI infrastructure and quantum-HPC workflows",
+      "url": "https://www.scientific-computing.com/article/ibm-expands-research-partnerships-india-ai-quantum-computing",
+      "date": "2026-10-05T13:02:50Z"
+    },
+    {
+      "title": "Perilous surrender: The Pentagon falls for artificial intelligence",
+      "description": "[MIDDLE EAST MONITOR] The trend was already tracing itself through the corridors of power, but the world\u2019s most powerful defence department has fallen, most heavily, for the use of artificial intelligence at virtually e\u2026",
+      "url": "https://www.middleeastmonitor.com/20261005-perilous-surrender-the-pentagon-falls-for-artificial-intelligence/",
+      "date": "2026-10-05T13:00:28Z"
+    },
+    {
+      "title": "Day Faculty Development Programme in Collaboration with IIMBx, IIM Bangalore",
+      "description": "[THE TRIBUNE] Jaipur (Rajasthan) [India], October 5: The Centre for Distance and Online Education (CDOE), Manipal University Jaipur, is organising a four-day Faculty Development Programme (FDP) in collaboration with IIMBx, the digital learning foundation of the...",
+      "url": "https://www.tribuneindia.com/news/business/manipal-university-jaipur-organises-four-day-faculty-development-programme-in-collaboration-with-iimbx-iim-bangalore/",
+      "date": "2026-10-05T12:41:35Z"
+    },
+    {
+      "title": "Hon Hai crosses USD 30.7 billion monthly sales mark for 1st time in September",
+      "description": "[THE TRIBUNE] Hon Hai Precision Industry Co. reported on Monday that its monthly sales crossed the NT$1 trillion (~USD 30.7 billion) mark for the first time in September, according to a news report by Focus Taiwan. The milestone came primarily on the back of...",
+      "url": "https://www.tribuneindia.com/news/business/hon-hai-crosses-usd-30-7-billion-monthly-sales-mark-for-1st-time-in-september/",
+      "date": "2026-10-05T12:41:28Z"
+    },
+    {
+      "title": "ACTO Named a Luminary in Everest Group's \"Innovation Watch: Agentic AI in Life Sciences Commercial 2026\"",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- ACTO, uniting human intelligence with empathetic AI in Life Sciences, today announced that it has been named a Luminary in Everest Group's...",
+      "url": "https://www.prnewswire.co.uk/news-releases/acto-named-a-luminary-in-everest-groups-innovation-watch-agentic-ai-in-life-sciences-commercial-2026-302897695.html",
+      "date": "2026-10-05T12:30:00Z"
+    },
+    {
+      "title": "Hon Hai crosses USD 30.7 billion monthly sales mark for 1st time in September",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Hon Hai Precision Industry Co. reported on Monday that its monthly sales crossed the NT$1 trillion (~USD 30.7 billion) mark for the first time in September, according to a news report by Focus Taiwan. The milestone came primarily on the back of...",
+      "url": "https://www.aninews.in/news/business/hon-hai-crosses-usd-307-billion-monthly-sales-mark-for-1st-time-in-september20261005175908/",
+      "date": "2026-10-05T12:29:08Z"
+    },
+    {
+      "title": "Manipal University Jaipur Organises Four-Day Faculty Development Programme in Collaboration with IIMBx, IIM Bangalore",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Jaipur (Rajasthan) [India], October 5: The Centre for Distance and Online Education (CDOE), Manipal University Jaipur, is organising a four-day Faculty Development Programme (FDP) in collaboration with IIMBx, the digital learning foundation of the...",
+      "url": "https://www.aninews.in/news/business/manipal-university-jaipur-organises-four-day-faculty-development-programme-in-collaboration-with-iimbx-iim-bangalore20261005175745/",
+      "date": "2026-10-05T12:27:45Z"
+    },
+    {
+      "title": "Redefine leadership in the age of GenAI and Agentic AI: ISB Online\u2019s Leadership with AI Programme",
+      "description": "[TIMES OF INDIA] The effectiveness of today\u2019s leaders is increasingly measured by how well they translate AI potential into business impact.",
+      "url": "https://timesofindia.indiatimes.com/spotlight/redefine-leadership-in-the-age-of-genai-and-agentic-ai-isb-onlines-leadership-with-ai-programme/articleshow/121819010.cms",
+      "date": "2026-10-05T12:17:00Z"
+    },
+    {
+      "title": "Himanta Sarma's Office Releases 'Original Footage' To Debunk Viral AI Image",
+      "description": "[NDTV.COM] The CMO said it released the source video to show what actually happened and to demonstrate that the image was allegedly manipulated using artificial intelligence (AI) and other editing tools.",
+      "url": "https://www.ndtv.com/india-news/himanta-sarmas-office-releases-original-footage-to-debunk-viral-ai-image-12141243",
+      "date": "2026-10-05T12:14:35Z"
+    },
+    {
+      "title": "AI\u2019s Power Appetite Is Forcing Asia to Rethink the Infrastructure Behind Innovation",
+      "description": "[DEVDISCOURSE] Asian Development Bank President Masato Kanda has called for greater investment in scientific research alongside the infrastructure needed to convert technological advances into wider economic and social gains. His remarks place ADB\u2019s $50 billion...",
+      "url": "https://www.devdiscourse.com/article/business/3987023-ais-power-appetite-is-forcing-asia-to-rethink-the-infrastructure-behind-innovation",
+      "date": "2026-10-05T12:10:51Z"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "date": "2026-10-03T22:56:48Z"
+    },
+    {
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "date": "2026-10-02T15:19:50Z"
+    },
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "date": "2026-10-02T04:01:31Z"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "date": "2026-09-30T00:00:00Z"
+    },
+    {
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "date": "2026-09-29T15:30:38Z"
+    },
+    {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "date": "2026-09-29T13:07:00Z"
+    }
+  ]
 }
