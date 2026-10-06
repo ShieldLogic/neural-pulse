@@ -1,98 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-06 17:20 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI\u2019s AI agents need to catch up",
-            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T18:40:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
-            "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbas\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-22T16:34:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints at tech companies.\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints\u2026 [+2761 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-            "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platfo\u2026",
-            "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T13:36:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2169 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
-            "description": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-12T21:41:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month.\r\nThe previously undisclosed attack on Ruby Gems predates Hugging Face \u2026 [+2116 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "U.S. Agencies Issue Stern Rebuke of China-Based AI Companies Over Alleged Distillation",
-            "description": "The U.S. and China will soon sit down for talks on AI security, which probably explains the timing.",
-            "url": "https://gizmodo.com/u-s-agencies-issue-stern-rebuke-of-china-based-ai-companies-over-alleged-distillation-2000808988",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/01/deepseek-china-ai-1200x675.jpg",
-            "publishedAt": "2026-09-09T09:00:31Z",
-            "content": "The U.S. National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA), and the FBI all released a statement on Tuesday accusing China-based AI companies of Industrial-Scale\u2026 [+2171 chars]"
-        }
-    ]
+  "updated": "2026-10-06 22:14:18 UTC",
+  "news": [
+    {
+      "title": "How AI decision models could change content moderation",
+      "description": "[TECHCRUNCH] On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "date": "2026-10-06T20:35:20Z"
+    },
+    {
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "description": "[TECHCRUNCH] Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "date": "2026-10-06T20:00:30Z"
+    },
+    {
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "description": "[TECHCRUNCH] Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "date": "2026-10-06T19:56:50Z"
+    },
+    {
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "description": "[TECHCRUNCH] The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "date": "2026-10-06T18:22:45Z"
+    },
+    {
+      "title": "Mirror Particle is building a \u2018world model\u2019 of human behavior",
+      "description": "[TECHCRUNCH] Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "date": "2026-10-06T16:35:00Z"
+    },
+    {
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "description": "[TECHCRUNCH] \"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "date": "2026-10-06T16:00:00Z"
+    },
+    {
+      "title": "GITAM National AI Challenge 2026: Build with AI, create impact and compete for Rs 20 lakh",
+      "description": "[TIMES OF INDIA] Artificial intelligence has rapidly evolved from a theoretical concept into an accessible tool that reshapes how we tackle modern challenges.",
+      "url": "https://timesofindia.indiatimes.com/education/gitam-national-ai-challenge-2026-build-with-ai-create-impact-and-compete-for-rs-20-lakh/articleshow/134734543.cms",
+      "date": "2026-10-06T10:06:00Z"
+    },
+    {
+      "title": "Are artificial-intelligence stocks (actually) on sale?",
+      "description": "[THE GLOBE AND MAIL] It might seem like a strange question, but many of these businesses have also experienced incredible profit growth during that period",
+      "url": "https://www.theglobeandmail.com/investing/article-are-ai-stocks-actually-on-sale/",
+      "date": "2026-10-06T09:30:00Z"
+    },
+    {
+      "title": "How Startups Are Making AI Useful for India's Aspirant Generation",
+      "description": "[THE ECONOMIC TIMES] Artificial intelligence is now being used in learning, competitive interview preparation, and training millions of Indians irrespective of their socioeconomic background. Entri is taking coaching, employability-specific programs, and mentorship to...",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/how-startups-are-making-ai-useful-for-indias-aspirant-generation/articleshow/134732554.cms",
+      "date": "2026-10-06T09:24:00Z"
+    },
+    {
+      "title": "ServiceNow launches AI Workflow Factory to turn workflow improvement into a continuous, agentic AI",
+      "description": "[THE TRIBUNE] India's partner ecosystem to deploy new autonomous coding to scale global development MUMBAI, India, Oct. 6, 2026 /PRNewswire/ -- ServiceNow (NYSE: NOW), the Super Intelligence Control Tower for business reinvention, today announced AI Workflow...",
+      "url": "https://www.tribuneindia.com/news/business/servicenow-launches-ai-workflow-factory-to-turn-workflow-improvement-into-a-continuous-agentic-ai-powered-loop-2-2/",
+      "date": "2026-10-06T09:21:37Z"
+    },
+    {
+      "title": "AI Firms Face Scrutiny in Australia",
+      "description": "[MARKETSCREENER] Australia is stepping up scrutiny of artificial intelligence, with representatives from OpenAI, Anthropic, Microsoft and Google facing questions from a parliamentary inquiry. The hearing comes...",
+      "url": "https://www.marketscreener.com/news/ai-firms-face-scrutiny-in-australia-ce785dd8d181f222",
+      "date": "2026-10-06T09:19:11Z"
+    },
+    {
+      "title": "HSBC Reportedly Pressed by Hong Kong Regulator on Singapore AI Hub",
+      "description": "[MARKETSCREENER] The Hong Kong Monetary Authority questioned HSBC's decision to establish a global artificial intelligence center in Singapore rather than Hong Kong, the Financial Times reported Tuesday, citing...",
+      "url": "https://www.marketscreener.com/news/hsbc-reportedly-pressed-by-hong-kong-regulator-on-singapore-ai-hub-ce785dd8d18ef325",
+      "date": "2026-10-06T09:08:47Z"
+    },
+    {
+      "title": "CreditNirvana Launches India's First Integrated AI Suite for Voice Co",
+      "description": "[THE TRIBUNE] Bengaluru (Karnataka) [India], October 6: CreditNirvana, a Perfios company focused on agentic AI-driven debt management, today introduced ORCA and CognifAI Assist, an integrated AI suite that helps lenders collect at 40% lower cost with a 30% higher...",
+      "url": "https://www.tribuneindia.com/news/business/creditnirvana-launches-indias-first-integrated-ai-suite-for-voice-co-browsing-and-agentic-debt-collections-orchestration/",
+      "date": "2026-10-06T09:06:14Z"
+    },
+    {
+      "title": "World Bank raises Africa's 2026 growth forecast, urges AI investments",
+      "description": "[MARKETSCREENER] The World Bank has raised Africa's 2026 economic growth forecast to 4.3%, citing stronger performance across the region, and urged governments to embrace artificial intelligence to boost productivity...",
+      "url": "https://www.marketscreener.com/news/world-bank-raises-africa-s-2026-growth-forecast-urges-ai-investments-ce785dd8d18cfe20",
+      "date": "2026-10-06T09:01:15Z"
+    },
+    {
+      "title": "Wall Street is booming. Surging yields could shake things up",
+      "description": "[ABC17NEWS.COM] By John Towfighi, CNN New York (CNN) \u2014 Wall Street rolled into 2026 on a hot streak and continued with a booming first half. Profits surged, fueled by massive spending on artificial intelligence, elevated trading activity in a volatile market and...",
+      "url": "https://abc17news.com/money/cnn-business-consumer/2026/10/06/wall-street-is-booming-surging-yields-could-shake-things-up/",
+      "date": "2026-10-06T09:00:45Z"
+    },
+    {
+      "title": "SC\u2019s Alan Wilson questions Flock Safety over privacy and AI",
+      "description": "[CHARLESTON POST AND COURIER] S.C. Attorney General Alan Wilson has some question for the Flock camera maker\u2019s CEO about data security and artificial intelligence.",
+      "url": "https://www.postandcourier.com/politics/sc-flock-cameras-alan-wilson-questions/article_d788ac17-3325-47a9-b184-98dc87bf0413.html",
+      "date": "2026-10-06T09:00:00Z"
+    },
+    {
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "date": "2026-10-06T06:44:39Z"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "date": "2026-10-03T22:56:48Z"
+    },
+    {
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "date": "2026-10-02T15:19:50Z"
+    },
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "date": "2026-10-02T04:01:31Z"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "date": "2026-09-30T00:00:00Z"
+    },
+    {
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "date": "2026-09-29T15:30:38Z"
+    }
+  ]
 }
