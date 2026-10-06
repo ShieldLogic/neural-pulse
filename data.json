@@ -1,137 +1,98 @@
 {
-  "updated": "2026-10-06 16:27:39 UTC",
-  "news": [
-    {
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "description": "[TECHCRUNCH] \"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "date": "2026-10-06T16:00:00Z"
-    },
-    {
-      "title": "LibreOffice says \u2018no AI\u2019 is now a software feature",
-      "description": "[TECHCRUNCH] The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
-      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-      "date": "2026-10-06T15:25:00Z"
-    },
-    {
-      "title": "Mistral\u2019s new 1T model aims to leapfrog closed and open rivals",
-      "description": "[TECHCRUNCH] French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
-      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-      "date": "2026-10-06T14:33:16Z"
-    },
-    {
-      "title": "Pinterest\u2019s AI now turns beauty Pins into action plans",
-      "description": "[TECHCRUNCH] Pinterest\u2019s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
-      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-      "date": "2026-10-06T14:00:49Z"
-    },
-    {
-      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
-      "description": "[TECHCRUNCH] Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
-      "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
-      "date": "2026-10-06T14:00:00Z"
-    },
-    {
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "date": "2026-10-06T06:44:39Z"
-    },
-    {
-      "title": "India's Gen Z Faces Down The Artificial Intelligence Future",
-      "description": "[NDTV.COM] Prime Minister Narendra Modi's vision to make India a developed economy by 2047 required 9%-plus growth in per capita dollar income even before coding tools such as Anthropic PBC's Claude and OpenAI's o3 arrived.",
-      "url": "https://www.ndtv.com/opinion/indias-gen-z-faces-down-the-artificial-intelligence-future-12143924",
-      "date": "2026-10-06T04:23:52Z"
-    },
-    {
-      "title": "AG: Human oversight crucial as AI use raises legal liability concerns",
-      "description": "[THE STAR] KUALA LUMPUR: Professionals must remain responsible for decisions made with the help of artificial intelligence, as its growing use could have consequences for legal liability and insurance, says Attorney General Tan Sri Mohd Dusuki Mokhtar.",
-      "url": "https://www.thestar.com.my/news/nation/2026/10/06/ag-human-oversight-crucial-as-ai-use-raises-legal-liability-concerns",
-      "date": "2026-10-06T04:06:00Z"
-    },
-    {
-      "title": "'Reckless' AI firms can't control models, says whistleblower Jacob Coxon",
-      "description": "[THE HINDU] Leading artificial intelligence companies do not know how to keep AI systems from pursuing objectives their developers did not assign, whistleblower Jacob Coxon, a former OpenAI and Anthropic employee, warned",
-      "url": "https://www.thehindu.com/sci-tech/technology/reckless-ai-firms-cant-control-models-says-whistleblower-jacob-coxon/article71549876.ece",
-      "date": "2026-10-06T04:00:38Z"
-    },
-    {
-      "title": "Sam Altman calls Elon Musk a \u2018bully\u2019, but is open to work with him",
-      "description": "[FIRSTPOST] Sam Altman says he is open to working with Elon Musk despite their bitter dispute, public criticism and legal battles. The OpenAI CEO acknowledged that dealing with Musk can involve confrontation, but said the two could still find common ground as...",
-      "url": "https://www.firstpost.com/tech/sam-altman-calls-elon-musk-a-bully-but-is-open-to-work-with-him-14050653.html",
-      "date": "2026-10-06T03:30:34Z"
-    },
-    {
-      "title": "'Reckless' AI firms can't control models, says whistleblower",
-      "description": "[THE ECONOMIC TIMES] Leading artificial intelligence companies do not know how to keep AI systems from pursuing objectives their developers did not assign, whistleblower Jacob Coxon, a former OpenAI and Anthropic employee, warned Monday. In early September, the British...",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/reckless-ai-firms-cant-control-models-says-whistleblower/articleshow/134722009.cms",
-      "date": "2026-10-06T03:22:46Z"
-    },
-    {
-      "title": "'Reckless' AI firms can't control models, says whistleblower",
-      "description": "[THE STAR] Leading artificial intelligence companies do not know how to keep AI systems from pursuing objectives their developers did not assign.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/06/039reckless039-ai-firms-can039t-control-models-says-whistleblower",
-      "date": "2026-10-06T03:00:00Z"
-    },
-    {
-      "title": "Punjab applicants duped in Canada immigration scam as fraudsters use AI to pose as officials",
-      "description": "[THE TRIBUNE] Immigration, Refugees and Citizenship Canada (IRCC) has warned newcomers and immigration applicants to remain vigilant against increasingly sophisticated fraud schemes, including scams in which artificial intelligence is used to create convincing...",
-      "url": "https://www.tribuneindia.com/news/punjab/punjab-applicants-duped-in-canada-immigration-scam-as-fraudsters-use-ai-to-pose-as-officials/",
-      "date": "2026-10-06T02:46:05Z"
-    },
-    {
-      "title": "'Reckless' AI firms can't control models, says whistleblower",
-      "description": "[BANGKOK POST] NEW YORK - Leading artificial intelligence companies do not know how to keep AI systems from pursuing objectives their developers did not assign, whistleblower Jacob Coxon, a former OpenAI and Anthropic employee, warned on Monday.",
-      "url": "https://www.bangkokpost.com/life/tech/3332219/reckless-ai-firms-cant-control-models-says-whistleblower",
-      "date": "2026-10-06T02:45:00Z"
-    },
-    {
-      "title": "South Korea plans to develop $3.5 billion frontier AI model starting next year",
-      "description": "[THE ECONOMIC TIMES] South Korea plans to launch a 4.7 trillion won ($3.5 billion) programme to develop a frontier AI model from March 2027, the science ministry said, as Seoul seeks to compete in the race to build cutting-edge artificial intelligence.",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/south-korea-plans-to-develop-3-5-billion-frontier-ai-model-starting-next-year/articleshow/134721256.cms",
-      "date": "2026-10-06T02:31:11Z"
-    },
-    {
-      "title": "CM: AI training in govt schools to start from Class 6",
-      "description": "[HINDUSTAN TIMES] Karnataka is considering extending artificial intelligence training in government schools to Class 6, with Chief Minister D K Shivakumar asking officials on Monday to work with the Information Technology department and private companies to expand...",
-      "url": "https://www.hindustantimes.com/india-news/cm-ai-training-in-govt-schools-to-start-from-class-6-101791227884318.html",
-      "date": "2026-10-06T02:31:10Z"
-    },
-    {
-      "title": "OpenAI will start watermarking ChatGPT\u2019s text in the EU",
-      "description": "[TECHCRUNCH] OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "date": "2026-10-05T20:36:48Z"
-    },
-    {
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "date": "2026-10-03T22:56:48Z"
-    },
-    {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "date": "2026-10-02T15:19:50Z"
-    },
-    {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "date": "2026-10-02T04:01:31Z"
-    },
-    {
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "date": "2026-09-30T00:00:00Z"
-    },
-    {
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "date": "2026-09-29T15:30:38Z"
-    }
-  ]
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-10-06 17:20 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Molly Taft",
+            "title": "AI Agents Are Thirsty for Power",
+            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
+            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
+            "publishedAt": "2026-09-13T10:00:00Z",
+            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Tom McKay",
+            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
+            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
+            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+            "publishedAt": "2026-09-15T02:52:23Z",
+            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "OpenAI\u2019s AI agents need to catch up",
+            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-28T18:40:24Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
+            "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbas\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-09-22T16:34:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints at tech companies.\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints\u2026 [+2761 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
+            "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platfo\u2026",
+            "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-28T13:36:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2169 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Terrence O\u2019Brien",
+            "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
+            "description": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-12T21:41:36Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month.\r\nThe previously undisclosed attack on Ruby Gems predates Hugging Face \u2026 [+2116 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "U.S. Agencies Issue Stern Rebuke of China-Based AI Companies Over Alleged Distillation",
+            "description": "The U.S. and China will soon sit down for talks on AI security, which probably explains the timing.",
+            "url": "https://gizmodo.com/u-s-agencies-issue-stern-rebuke-of-china-based-ai-companies-over-alleged-distillation-2000808988",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/01/deepseek-china-ai-1200x675.jpg",
+            "publishedAt": "2026-09-09T09:00:31Z",
+            "content": "The U.S. National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA), and the FBI all released a statement on Tuesday accusing China-based AI companies of Industrial-Scale\u2026 [+2171 chars]"
+        }
+    ]
 }
