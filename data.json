@@ -1,98 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-07 17:55 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI\u2019s AI agents need to catch up",
-            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T18:40:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
-            "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbas\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-22T16:34:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints at tech companies.\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints\u2026 [+2761 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-            "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platfo\u2026",
-            "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T13:36:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2169 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O\u2019Brien",
-            "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
-            "description": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-12T21:41:36Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe previously undisclosed attack on Ruby Gems predates Hugging Face by more than a month.\r\nThe previously undisclosed attack on Ruby Gems predates Hugging Face \u2026 [+2116 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "U.S. Agencies Issue Stern Rebuke of China-Based AI Companies Over Alleged Distillation",
-            "description": "The U.S. and China will soon sit down for talks on AI security, which probably explains the timing.",
-            "url": "https://gizmodo.com/u-s-agencies-issue-stern-rebuke-of-china-based-ai-companies-over-alleged-distillation-2000808988",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/01/deepseek-china-ai-1200x675.jpg",
-            "publishedAt": "2026-09-09T09:00:31Z",
-            "content": "The U.S. National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA), and the FBI all released a statement on Tuesday accusing China-based AI companies of Industrial-Scale\u2026 [+2171 chars]"
-        }
-    ]
+  "updated": "2026-10-07 19:41:22 UTC",
+  "news": [
+    {
+      "title": "Meta\u2019s Muse launches on iPad just a month after its mobile debut",
+      "description": "[TECHCRUNCH] Meta\u2019s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant\u2019s reach and integrations.",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "date": "2026-10-07T18:30:57Z"
+    },
+    {
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "description": "[TECHCRUNCH] ChatGPT\u2019s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "date": "2026-10-07T18:15:28Z"
+    },
+    {
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "description": "[TECHCRUNCH] OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "date": "2026-10-07T18:00:19Z"
+    },
+    {
+      "title": "Multimodal open d1 decision models for the edge",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "date": "2026-10-07T16:54:33Z"
+    },
+    {
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "description": "[TECHCRUNCH] Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "date": "2026-10-07T16:53:46Z"
+    },
+    {
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "description": "[TECHCRUNCH] The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "date": "2026-10-07T15:07:08Z"
+    },
+    {
+      "title": "Tony Fadell on why the first wave of AI gadgets failed \u2014 and what comes next",
+      "description": "[TECHCRUNCH] The \u201cfather of the iPod\u201d says the first generation of AI gadgets failed to solve real problems \u2014 and the next wave will need to earn consumers\u2019 trust.",
+      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "date": "2026-10-07T14:41:38Z"
+    },
+    {
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "date": "2026-10-07T12:45:31Z"
+    },
+    {
+      "title": "Starlink builds 20 gateway sites in India, says user data will stay in country",
+      "description": "[THE ECONOMIC TIMES] Starlink has constructed 20 gateway sites across India to develop its satellite communication services. The company designed its operations with specific security controls to comply with Indian regulations. Starlink's investment aims to provide...",
+      "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/starlink-builds-20-gateway-sites-in-india-says-user-data-will-stay-in-country/articleshow/134759623.cms",
+      "date": "2026-10-07T07:41:00Z"
+    },
+    {
+      "title": "Google Chrome can turn your desktop or Android device into an agentic AI machine",
+      "description": "[HINDUSTAN TIMES] Google launches Gemini in Chrome for all Android users in India, enabling AI browsing features like auto-navigating websites and task management. | India News",
+      "url": "https://www.hindustantimes.com/india-news/google-chrome-can-turn-your-desktop-or-android-device-into-an-agentic-ai-machine-101791358653373.html",
+      "date": "2026-10-07T07:37:33Z"
+    },
+    {
+      "title": "Agentic AI in financial services: How banks are rethinking lending, risk and decision-making",
+      "description": "[THE ECONOMIC TIMES] From loan processing and credit assessment to fraud detection and regulatory compliance, agentic AI is changing how financial institutions make decisions. The next challenge for banks and fintechs is to scale these capabilities while maintaining...",
+      "url": "https://economictimes.indiatimes.com/industry/services/education/agentic-ai-in-financial-services-how-banks-are-rethinking-lending-risk-and-decision-making/articleshow/134759034.cms",
+      "date": "2026-10-07T07:31:00Z"
+    },
+    {
+      "title": "What happens when AI starts fighting cyber threats on its own? Here's how agentic security works",
+      "description": "[THE ECONOMIC TIMES] Artificial intelligence is evolving from assisting cybersecurity to taking on more responsibilities autonomously and efficiently. This shift, termed agentic security, enables AI to identify and investigate threats without waiting for human input. AI...",
+      "url": "https://economictimes.indiatimes.com/industry/services/what-happens-when-ai-starts-fighting-cyber-threats-on-its-own-heres-how-agentic-security-works/articleshow/134759049.cms",
+      "date": "2026-10-07T07:30:00Z"
+    },
+    {
+      "title": "worker\u2019 systems to avoid widening inequality: Expert",
+      "description": "[LOKMAT TIMES] AI discussion should focus on \u2018pro-worker\u2019 systems to avoid widening inequality: Expert - New Delhi, Oct 7 The current direction of artificial intelligence (AI) development risks amplifying inequalities and job losses ... Get Latest News on...",
+      "url": "https://www.lokmattimes.com/technology/ai-discussion-should-focus-on-pro-worker-systems-to-avoid-widening-inequality-expert-1/",
+      "date": "2026-10-07T07:23:09Z"
+    },
+    {
+      "title": "worker\u2019 systems to avoid widening inequality: Expert",
+      "description": "[LOKMAT TIMES] AI discussion should focus on \u2018pro-worker\u2019 systems to avoid widening inequality: Expert - New Delhi, Oct 7 The current direction of artificial intelligence (AI) development risks amplifying inequalities and job losses ... Get Latest News on Business...",
+      "url": "https://www.lokmattimes.com/business/ai-discussion-should-focus-on-pro-worker-systems-to-avoid-widening-inequality-expert/",
+      "date": "2026-10-07T07:23:09Z"
+    },
+    {
+      "title": "'We Are Close': Ray Dalio Warns AI Bubble Is Nearing A Bursting Point Amid Rising Rates And Debt | Video",
+      "description": "[FREE PRESS JOURNAL] Billionaire investor Ray Dalio warned that artificial intelligence is a classic bubble nearing a potential burst, citing rising interest rates, debt-fuelled AI investment and concentrated tech gains. He also flagged wealth taxes, asset sales and US...",
+      "url": "https://www.freepressjournal.in/tech/we-are-close-ray-dalio-warns-ai-bubble-is-nearing-a-bursting-point-amid-rising-rates-and-debt-video",
+      "date": "2026-10-07T07:19:27Z"
+    },
+    {
+      "title": "Anthropic expands Claude Startups to attract young companies",
+      "description": "[MARKETSCREENER] Anthropic is expanding its Claude Startups program, launched in May and already used by several thousand companies. The artificial intelligence specialist wants to enable more young companies to...",
+      "url": "https://www.marketscreener.com/news/anthropic-expands-claude-startups-to-attract-young-companies-ce785dd9dd8fff24",
+      "date": "2026-10-07T07:09:22Z"
+    },
+    {
+      "title": "IMF warns of AI, energy and debt crosscurrents",
+      "description": "[LOKMAT TIMES] IMF warns of AI, energy and debt crosscurrents - Washington, Oct 7 The global economy is being pulled between an artificial intelligence investment boom and an energy ... Get Latest News on International only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/international/imf-warns-of-ai-energy-and-debt-crosscurrents/",
+      "date": "2026-10-07T07:08:01Z"
+    },
+    {
+      "title": "[EXPLAINER] How AI emerged as new threat in Korea's bank hacking crisis",
+      "description": "[THE KOREA TIMES] Hackers once had to manually test security defenses, identify vulnerabilities and work out how to exploit them. Now, artificial intelligence (AI) c...",
+      "url": "https://www.koreatimes.co.kr/business/banking-finance/20261007/explainer-how-ai-emerged-as-new-threat-in-koreas-bank-hacking-crisis",
+      "date": "2026-10-07T07:03:03Z"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "date": "2026-10-03T22:56:48Z"
+    },
+    {
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "date": "2026-10-02T15:19:50Z"
+    },
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "date": "2026-10-02T04:01:31Z"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "date": "2026-09-30T00:00:00Z"
+    }
+  ]
 }
