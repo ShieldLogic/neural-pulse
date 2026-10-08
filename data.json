@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-08 17:56 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI\u2019s AI agents need to catch up",
-            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T18:40:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
-            "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbas\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-22T16:34:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints at tech companies.\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints\u2026 [+2761 chars]"
-        }
-    ]
+  "updated": "2026-10-08 19:37:54 UTC",
+  "news": [
+    {
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "description": "[TECHCRUNCH] Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "date": "2026-10-08T18:20:32Z"
+    },
+    {
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "description": "[TECHCRUNCH] The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "date": "2026-10-08T18:19:45Z"
+    },
+    {
+      "title": "OpenAI\u2019s revenue is reportedly $20 billion less than previously projected",
+      "description": "[TECHCRUNCH] It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "date": "2026-10-08T18:19:42Z"
+    },
+    {
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "description": "[TECHCRUNCH] Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email...",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "date": "2026-10-08T18:18:00Z"
+    },
+    {
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "description": "[TECHCRUNCH] Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons...",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "date": "2026-10-08T18:16:24Z"
+    },
+    {
+      "title": "OpenAI\u2019s math solutions aren\u2019t meeting the field\u2019s standards yet",
+      "description": "[TECHCRUNCH] OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "date": "2026-10-08T18:10:55Z"
+    },
+    {
+      "title": "Asus launches ProArt P14 and P16 laptops at RM29,999, built to host AI locally",
+      "description": "[THE STAR] Asus has unveiled the ProArt P14 and P16, a pair of ARM-based Windows laptops designed for artificial intelligence (AI) development and the local hosting of AI models and agents.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/08/asus-launches-proart-p14-and-p16-laptops-at-rm29999-built-to-host-ai-locally",
+      "date": "2026-10-08T07:34:00Z"
+    },
+    {
+      "title": "Korea intensifies efforts to track hackers behind bank cyberattacks",
+      "description": "[THE KOREA TIMES] Authorities are stepping up efforts to identify the hackers behind an unprecedented series of artificial intelligence (AI)-assisted cyberattacks ta...",
+      "url": "https://www.koreatimes.co.kr/economy/20261008/korea-intensifies-efforts-to-track-hackers-behind-bank-cyberattacks",
+      "date": "2026-10-08T07:06:03Z"
+    },
+    {
+      "title": "Falling AI token costs positive for India, corporate spending likely to decline: Zoho's Sridhar Vembu",
+      "description": "[THE TRIBUNE] The rapid decline in artificial intelligence (AI) token costs is a positive development for India, further growing affordability of the technology is expected to reduce corporate spending on AI tools in the coming years, said Zoho co-founder Sridhar...",
+      "url": "https://www.tribuneindia.com/news/business/falling-ai-token-costs-positive-for-india-corporate-spending-likely-to-decline-zohos-sridhar-vembu/",
+      "date": "2026-10-08T06:56:24Z"
+    },
+    {
+      "title": "India can unlock AI gains by opening up enterprise data, says World Bank's Neelkanth Mishra",
+      "description": "[THE TRIBUNE] India can unlock a larger share of the economic benefits from artificial intelligence by making enterprise data more accessible while ensuring that data owners retain control over its use, said Neelkanth Mishra, Executive Director at the World Bank...",
+      "url": "https://www.tribuneindia.com/news/business/india-can-unlock-ai-gains-by-opening-up-enterprise-data-says-world-banks-neelkanth-mishra/",
+      "date": "2026-10-08T06:56:17Z"
+    },
+    {
+      "title": "Falling AI token costs positive for India, corporate spending likely to decline: Zoho's Sridhar Vembu",
+      "description": "[DEVDISCOURSE] The rapid decline in artificial intelligence (AI) token costs is a positive development for India, further growing affordability of the technology is expected to reduce corporate spending on AI tools in the coming years, said Zoho co-founder Sridhar...",
+      "url": "https://www.devdiscourse.com/article/business/3988819-falling-ai-token-costs-positive-for-india-corporate-spending-likely-to-decline-zohos-sridhar-vembu",
+      "date": "2026-10-08T06:55:28Z"
+    },
+    {
+      "title": "India can unlock AI gains by opening up enterprise data, says World Bank's Neelkanth Mishra",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] India can unlock a larger share of the economic benefits from artificial intelligence by making enterprise data more accessible while ensuring that data owners retain control over its use, said Neelkanth Mishra, Executive Director at the World Bank...",
+      "url": "https://www.aninews.in/news/business/india-can-unlock-ai-gains-by-opening-up-enterprise-data-says-world-banks-neelkanth-mishra20261008122357/",
+      "date": "2026-10-08T06:53:57Z"
+    },
+    {
+      "title": "Falling AI token costs positive for India, corporate spending likely to decline: Zoho's Sridhar Vembu",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] The rapid decline in artificial intelligence (AI) token costs is a positive development for India, further growing affordability of the technology is expected to reduce corporate spending on AI tools in the coming years, said Zoho co-founder Sridhar...",
+      "url": "https://www.aninews.in/news/business/falling-ai-token-costs-positive-for-india-corporate-spending-likely-to-decline-zohos-sridhar-vembu20261008122104/",
+      "date": "2026-10-08T06:51:04Z"
+    },
+    {
+      "title": "Malaysia to strengthen AI training modules as deepfake, scam risks grow, says Gobind",
+      "description": "[MALAY MAIL] KUALA LUMPUR, Oct 8 \u2014 The Digital Ministry will continue to strengthen its artificial intelligence (AI) training modules based on newly identified risks, including deepfake...",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/08/malaysia-to-strengthen-ai-training-modules-as-deepfake-scam-risks-grow-says-gobind/238218",
+      "date": "2026-10-08T06:34:22Z"
+    },
+    {
+      "title": "US, China, EU: three paths to regulating AI",
+      "description": "[THE STAR] The United States, China and the European Union are taking different paths to govern artificial intelligence, as calls grow worldwide to rein in its most powerful systems.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/08/us-china-eu-three-paths-to-regulating-ai",
+      "date": "2026-10-08T06:30:00Z"
+    },
+    {
+      "title": "Hancom to Partner with AWS to Launch Nomadian AI Platform in US",
+      "description": "[MARKETSCREENER] Hancom will partner with Amazon Web Services to launch its Nomadian artificial intelligence workforce platform in the US, The Korea Times reported Thursday. Under the partnership, the South Korean...",
+      "url": "https://www.marketscreener.com/news/hancom-to-partner-with-aws-to-launch-nomadian-ai-platform-in-us-ce785ddede8bf327",
+      "date": "2026-10-08T06:02:20Z"
+    },
+    {
+      "title": "Multimodal open d1 decision models for the edge",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "date": "2026-10-07T16:54:33Z"
+    },
+    {
+      "title": "Introducing Falcon ASR",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "date": "2026-10-07T13:21:03Z"
+    },
+    {
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "date": "2026-10-07T12:45:31Z"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "date": "2026-10-03T22:56:48Z"
+    },
+    {
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "date": "2026-10-02T15:19:50Z"
+    },
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "date": "2026-10-02T04:01:31Z"
+    }
+  ]
 }
