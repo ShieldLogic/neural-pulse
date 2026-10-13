@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-13 18:26 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI\u2019s AI agents need to catch up",
-            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T18:40:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
-            "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbas\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-22T16:34:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints at tech companies.\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints\u2026 [+2761 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-            "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platfo\u2026",
-            "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T13:36:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2169 chars]"
-        }
-    ]
+  "updated": "2026-10-13 22:14:06 UTC",
+  "news": [
+    {
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "description": "[TECHCRUNCH] A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "date": "2026-10-13T20:36:44Z"
+    },
+    {
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "description": "[TECHCRUNCH] Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "date": "2026-10-13T18:30:00Z"
+    },
+    {
+      "title": "Facebook is giving users more control over their algorithm",
+      "description": "[TECHCRUNCH] Meta announced the launch of its new AI-powered feature, \u201cYour Algorithm,\u201d a feature it first launched on Instagram.",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "date": "2026-10-13T18:05:24Z"
+    },
+    {
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "description": "[TECHCRUNCH] University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt,...",
+      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "date": "2026-10-13T17:30:00Z"
+    },
+    {
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "description": "[TECHCRUNCH] The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "date": "2026-10-13T17:18:25Z"
+    },
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "date": "2026-10-13T17:05:48Z"
+    },
+    {
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "description": "[TECHCRUNCH] Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "date": "2026-10-13T17:00:00Z"
+    },
+    {
+      "title": "After Janhvi Kapoor\u2019s AI Video Row, Shriya Saran Reveals Her Own Experience With Morphed Images",
+      "description": "[NEWSX] Shriya Saran speaks about AI-morphed images after Janhvi Kapoor\u2019s video controversy, warning about the dangerous side of artificial intelligence.",
+      "url": "https://www.newsx.com/entertainment/after-janhvi-kapoors-ai-video-row-shriya-saran-reveals-her-own-experience-with-morphed-images-282899/",
+      "date": "2026-10-13T10:13:46Z"
+    },
+    {
+      "title": "OPPO Partners with Manus to Bring Agentic AI Experiences to Smartphones",
+      "description": "[THE NORTH BAY NUGGET] Shenzhen, China--(Newsfile Corp. - October 13, 2026) - Global smart device brand OPPO today announced a collaboration with Manus, a leading AI agent",
+      "url": "https://www.nugget.ca/press-releases/newsfile/oppo-partners-with-manus-to-bring-agentic-ai-experiences-to-smartphones/",
+      "date": "2026-10-13T10:11:18Z"
+    },
+    {
+      "title": "OPPO Partners with Manus to Bring Agentic AI Experiences to Smartphones",
+      "description": "[THE KINGSTON WHIG-STANDARD] Shenzhen, China--(Newsfile Corp. - October 13, 2026) - Global smart device brand OPPO today announced a collaboration with Manus, a leading AI agent",
+      "url": "https://www.thewhig.com/press-releases/newsfile/oppo-partners-with-manus-to-bring-agentic-ai-experiences-to-smartphones/",
+      "date": "2026-10-13T10:10:59Z"
+    },
+    {
+      "title": "AI job-loss fears for IT firms 'hogwash', disaster marketing by large capital: Nandan Nilekani",
+      "description": "[THE HINDU BUSINESS LINE] Infosys co-founder Nandan Nilekani on Tuesday dismissed fears that artificial intelligence would wipe out jobs in India\u2019s IT services sector as \u201chogwash\u201d and \u201cdisaster marketing to suit the interests of large capital\u201d, saying demand for such firms...",
+      "url": "https://www.thehindubusinessline.com/info-tech/ai-job-loss-fears-for-it-firms-hogwash-disaster-marketing-by-large-capital-nandan-nilekani/article71578837.ece",
+      "date": "2026-10-13T10:09:36Z"
+    },
+    {
+      "title": "Hikvision and Aramco Sign Memorandum of Understanding to Explore AI-Driven Environmental Monitoring and Biodiversity Solutions",
+      "description": "[MARKETSCREENER] Hikvision and Aramco have signed a Memorandum of Understanding to explore opportunities for collaboration in leveraging artificial intelligence and advanced imaging technologies to support...",
+      "url": "https://www.marketscreener.com/news/hikvision-and-aramco-sign-memorandum-of-understanding-to-explore-ai-driven-environmental-monitoring-ce785ddddc8ef120",
+      "date": "2026-10-13T10:05:38Z"
+    },
+    {
+      "title": "IIT Madras-backed hub, Medhastra join hands to develop indigenous defence technology",
+      "description": "[THE ECONOMIC TIMES] In a bid to foster indigenous defence technologies, IITM Pravartak Technologies Foundation teams up with Medhastra Techsystems. This collaboration seeks to pave the way for advancements in artificial intelligence and cognitive warfare, supporting...",
+      "url": "https://economictimes.indiatimes.com/news/defence/iit-madras-backed-hub-medhastra-join-hands-to-develop-indigenous-defence-technology/articleshow/134914317.cms",
+      "date": "2026-10-13T10:03:00Z"
+    },
+    {
+      "title": "Scientists push for creation of international body to regulate artificial intelligence",
+      "description": "[THE GLOBE AND MAIL] In the past few months, agents developed by OpenAI infiltrated systems of the Australian government and several organizations, alarming experts",
+      "url": "https://www.theglobeandmail.com/business/article-scientists-international-body-regulate-artificial-intelligence/",
+      "date": "2026-10-13T10:00:00Z"
+    },
+    {
+      "title": "AI job-loss fears are \u2018hogwash\u2019, says Infosys chairman Nandan Nilekani",
+      "description": "[THE ECONOMIC TIMES] Nandan Nilekani has expressed optimism about the impact of artificial intelligence on employment in India. He argues that while AI automates certain tasks, it will generate demand for new skills and roles. Nilekani believes the transformation of...",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-job-loss-fears-are-hogwash-says-infosys-chairman-nandan-nilekani/articleshow/134914109.cms",
+      "date": "2026-10-13T09:49:00Z"
+    },
+    {
+      "title": "India regulating AI without stifling innovation and investment: IBM\u2019s Sandip Patel",
+      "description": "[LOKMAT TIMES] India regulating AI without stifling innovation and investment: IBM\u2019s Sandip Patel - Mumbai, Oct 13 India is taking a very smart approach to regulation when it comes to artificial intelligence ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/india-regulating-ai-without-stifling-innovation-and-investment-ibms-sandip-patel-1/",
+      "date": "2026-10-13T09:36:57Z"
+    },
+    {
+      "title": "India regulating AI without stifling innovation and investment: IBM\u2019s Sandip Patel",
+      "description": "[LOKMAT TIMES] India regulating AI without stifling innovation and investment: IBM\u2019s Sandip Patel - Mumbai, Oct 13 India is taking a very smart approach to regulation when it comes to artificial intelligence ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/india-regulating-ai-without-stifling-innovation-and-investment-ibms-sandip-patel/",
+      "date": "2026-10-13T09:36:57Z"
+    },
+    {
+      "title": "Impactful scheduling for GPU clusters",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "date": "2026-10-09T15:20:29Z"
+    },
+    {
+      "title": "The model that didn't exist, so you made it yourself",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "date": "2026-10-08T00:00:00Z"
+    },
+    {
+      "title": "Introducing Falcon ASR",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "date": "2026-10-07T13:21:03Z"
+    },
+    {
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "date": "2026-10-07T12:45:31Z"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "date": "2026-10-03T22:56:48Z"
+    }
+  ]
 }
