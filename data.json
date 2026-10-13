@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-12 20:23 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Molly Taft",
-            "title": "AI Agents Are Thirsty for Power",
-            "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-            "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-            "urlToImage": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/191:100/w_1280,c_limit/DataCenterColumn2.jpg",
-            "publishedAt": "2026-09-13T10:00:00Z",
-            "content": "Welcome back toPower Play! Each week, senior writer Molly Taft tackles a topic around this midterm seasons biggest issue: data centers. If youve got a question or thought for the column, feel free to\u2026 [+3557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI\u2019s AI agents need to catch up",
-            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T18:40:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
-            "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbas\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-22T16:34:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints at tech companies.\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints\u2026 [+2761 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-            "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platfo\u2026",
-            "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T13:36:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2169 chars]"
-        }
-    ]
+  "updated": "2026-10-13 01:46:35 UTC",
+  "news": [
+    {
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "description": "[TECHCRUNCH] Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "date": "2026-10-12T17:56:56Z"
+    },
+    {
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "description": "[TECHCRUNCH] A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "date": "2026-10-12T17:19:14Z"
+    },
+    {
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "description": "[TECHCRUNCH] Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "date": "2026-10-12T15:45:00Z"
+    },
+    {
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "description": "[TECHCRUNCH] Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "date": "2026-10-12T15:31:19Z"
+    },
+    {
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "description": "[TECHCRUNCH] Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "date": "2026-10-12T15:27:59Z"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "description": "[TECHCRUNCH] Tomorrow at 8 a.m. PT, it all begins z\u2014 10,000+ founders, investors, and tech operators will gather at San Francisco\u2019s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your...",
+      "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "date": "2026-10-12T14:00:00Z"
+    },
+    {
+      "title": "UK retains early access to test latest US AI models",
+      "description": "[BANGKOK POST] LONDON - Britain has retained early access to the latest artificial intelligence models for safety testing, the country's AI minister confirmed Monday, following reports that the White House had restricted the UK's access.",
+      "url": "https://www.bangkokpost.com/world/3335795/uk-retains-early-access-to-test-latest-us-ai-models",
+      "date": "2026-10-12T13:45:00Z"
+    },
+    {
+      "title": "HCLTech and Anthropic sign Global Premier Partnership to scale governed Agentic AI across global enterprises",
+      "description": "[THE MANILA TIMES] **media[1256245]** HCLTech to establish a dedicated Anthropic Business Unit and Center of Excellence (CoE) to accelerate deployments of Claude in enterprise environments",
+      "url": "https://www.manilatimes.net/2026/10/12/tmt-newswire/pr-newswire/hcltech-and-anthropic-sign-global-premier-partnership-to-scale-governed-agentic-ai-across-global-enterprises/2443866",
+      "date": "2026-10-12T13:38:15Z"
+    },
+    {
+      "title": "HCL Technologies Enters Global Premier Partnership with Anthropic",
+      "description": "[MARKETSCREENER] HCL Technologies has entered a global premier partnership with Anthropic to expedite enterprise adoption of Agentic AI while prioritizing safety, cybersecurity and governance. HCLTech's services...",
+      "url": "https://www.marketscreener.com/news/hcl-technologies-enters-global-premier-partnership-with-anthropic-ce785ddcd081f020",
+      "date": "2026-10-12T13:32:30Z"
+    },
+    {
+      "title": "\u2018The usual red flags weren\u2019t there\u2019: How AI-linked job scam offering twice the usual salary almost fooled a jobseeker",
+      "description": "[TIMES OF INDIA] Online job scams are becoming harder to detect as fraudsters use artificial intelligence (AI) to build offers that match the profile of the person they",
+      "url": "https://timesofindia.indiatimes.com/education/news/the-usual-red-flags-werent-there-how-ai-linked-job-scam-offering-twice-the-usual-salary-almost-fooled-a-jobseeker/articleshow/134893295.cms",
+      "date": "2026-10-12T13:29:00Z"
+    },
+    {
+      "title": "Intel CEO Lip-Bu Tan may have just agreed with Nvidia CEO Jensen Huang and Meta's former chief AI scientist Yann LeCun on open-source AI models",
+      "description": "[TIMES OF INDIA] Intel CEO Lip-Bu Tan has voiced strong support for open-source artificial intelligence (AI) models, echoing positions long supported by Meta's former",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/intel-ceo-lip-bu-tan-may-have-just-agreed-with-nvidia-ceo-jensen-huang-and-metas-former-chief-ai-scientist-yann-lecun-on-open-source-ai-models/articleshow/134894607.cms",
+      "date": "2026-10-12T13:29:00Z"
+    },
+    {
+      "title": "Integrated Career Restart Programmes Gain Popularity Among Women on a Career Break",
+      "description": "[THE TRIBUNE] New Delhi [India], October 12: As artificial intelligence reshapes workplace expectations, women returning to employment after career breaks are increasingly exploring AI-integrated learning to rebuild their professional capabilities. With AI...",
+      "url": "https://www.tribuneindia.com/news/business/she-starts-ai-integrated-career-restart-programmes-gain-popularity-among-women-on-a-career-break/",
+      "date": "2026-10-12T13:21:11Z"
+    },
+    {
+      "title": "She Starts' AI-Integrated Career Restart Programmes Gain Popularity Among Women on a Career Break",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] New Delhi [India], October 12: As artificial intelligence reshapes workplace expectations, women returning to employment after career breaks are increasingly exploring AI-integrated learning to rebuild their professional capabilities. With AI...",
+      "url": "https://www.aninews.in/news/business/she-starts-ai-integrated-career-restart-programmes-gain-popularity-among-women-on-a-career-break20261012185058/",
+      "date": "2026-10-12T13:20:58Z"
+    },
+    {
+      "title": "Contracted Capacity Becomes Key Metric for AI Infrastructure Investors to Watch",
+      "description": "[THE EXPOSITOR] AUSTIN, Texas, Oct. 12, 2026 (GLOBE NEWSWIRE) -- AINewsWire Editorial Coverage: The artificial intelligence industry is racing to build computing",
+      "url": "https://www.brantfordexpositor.ca/press-releases/globe-newswire/contracted-capacity-becomes-key-metric-for-ai-infrastructure-investors-to-watch/",
+      "date": "2026-10-12T13:19:31Z"
+    },
+    {
+      "title": "Contracted Capacity Becomes Key Metric for AI Infrastructure Investors to Watch",
+      "description": "[THE NORTH BAY NUGGET] AUSTIN, Texas, Oct. 12, 2026 (GLOBE NEWSWIRE) -- AINewsWire Editorial Coverage: The artificial intelligence industry is racing to build computing",
+      "url": "https://www.nugget.ca/press-releases/globe-newswire/contracted-capacity-becomes-key-metric-for-ai-infrastructure-investors-to-watch/",
+      "date": "2026-10-12T13:19:22Z"
+    },
+    {
+      "title": "Contracted Capacity Becomes Key Metric for AI Infrastructure Investors to Watch",
+      "description": "[THE LONDON FREE PRESS] AUSTIN, Texas, Oct. 12, 2026 (GLOBE NEWSWIRE) -- AINewsWire Editorial Coverage: The artificial intelligence industry is racing to build computing",
+      "url": "https://lfpress.com/press-releases/globe-newswire/contracted-capacity-becomes-key-metric-for-ai-infrastructure-investors-to-watch/",
+      "date": "2026-10-12T13:19:14Z"
+    },
+    {
+      "title": "Impactful scheduling for GPU clusters",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "date": "2026-10-09T15:20:29Z"
+    },
+    {
+      "title": "The model that didn't exist, so you made it yourself",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "date": "2026-10-08T00:00:00Z"
+    },
+    {
+      "title": "Multimodal open d1 decision models for the edge",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "date": "2026-10-07T16:54:33Z"
+    },
+    {
+      "title": "Introducing Falcon ASR",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "date": "2026-10-07T13:21:03Z"
+    },
+    {
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "date": "2026-10-07T12:45:31Z"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "date": "2026-10-03T22:56:48Z"
+    }
+  ]
 }
