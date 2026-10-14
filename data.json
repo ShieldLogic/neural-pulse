@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-14 15:54 UTC",
-    "news": [
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "AI CEOs Predictably Suck Up to Trump Amid \u2018AI Pause\u2019 Debate",
-            "description": "OpenAI CEO Sam Altman requested a private meeting with Trump last week, while Nvidia CEO Jensen Huang dialed up him on stage at an event.",
-            "url": "https://gizmodo.com/ai-ceos-predictably-suck-up-to-trump-amid-ai-pause-debate-2000811593",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-15T02:52:23Z",
-            "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri\u2026 [+2644 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI\u2019s AI agents need to catch up",
-            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T18:40:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
-            "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbas\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-22T16:34:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints at tech companies.\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints\u2026 [+2761 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-            "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platfo\u2026",
-            "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T13:36:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2169 chars]"
-        }
-    ]
+  "updated": "2026-10-14 19:56:34 UTC",
+  "news": [
+    {
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "description": "[TECHCRUNCH] The label will appear on the player page and include songs entirely generated by AI or partially, such as involved in composition and vocals.",
+      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "date": "2026-10-14T18:23:46Z"
+    },
+    {
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "description": "[TECHCRUNCH] Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "date": "2026-10-14T18:00:00Z"
+    },
+    {
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "date": "2026-10-14T16:12:42Z"
+    },
+    {
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "description": "[TECHCRUNCH] Deezer said that the new toggle will be rolled out by the end of the year.",
+      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "date": "2026-10-14T15:16:04Z"
+    },
+    {
+      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco\u2019s Moscone West",
+      "description": "[TECHCRUNCH] Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "date": "2026-10-14T15:13:24Z"
+    },
+    {
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "description": "[TECHCRUNCH] Zenzap is used by organizations including Starbucks and Taco Bell.",
+      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "date": "2026-10-14T15:08:00Z"
+    },
+    {
+      "title": "Floqer\u2019s AI agents research sales prospects so teams don\u2019t have to",
+      "description": "[TECHCRUNCH] The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "date": "2026-10-14T15:00:00Z"
+    },
+    {
+      "title": "Asian shares slip in trading after US stocks edge back from record",
+      "description": "[SFGATE] Asian markets have slipped in cautious trading, although interest in computer chips and artificial intelligence continued to support some global shares. Shares declined in Tokyo, Sydney, Seoul and...",
+      "url": "https://www.sfgate.com/news/world/article/asian-shares-trade-mixed-after-us-stocks-edge-22476171.php",
+      "date": "2026-10-14T07:55:44Z"
+    },
+    {
+      "title": "JPMorgan's AI Restrictions Explained: What Users Of Third-Party Apps Need To Know",
+      "description": "[NDTV PROFIT] During the bank's third-quarter earnings call, executives addressed growing investor concerns around \"agentic AI\" and the rise of AI assistants that can act on behalf of users.",
+      "url": "https://www.ndtvprofit.com/technology/jpmorgans-ai-restrictions-explained-what-users-of-third-party-apps-need-to-know-12183270",
+      "date": "2026-10-14T07:49:44Z"
+    },
+    {
+      "title": "Deloitte reviews errors in WA university merger analysis",
+      "description": "[AUSTRALIAN FINANCIAL REVIEW] The consultancy firm is looking into what appears to be the hallmarks of artificial intelligence mistakes in its major analysis of a merger of three WA universities.",
+      "url": "https://www.afr.com/policy/health-and-education/deloitte-reviews-errors-in-wa-university-merger-analysis-20261014-p615ef",
+      "date": "2026-10-14T07:43:14Z"
+    },
+    {
+      "title": "London Stock Exchange partners with Nvidia to speed up data analysis",
+      "description": "[MARKETSCREENER] London Stock Exchange Group on Wednesday said it is working with artificial intelligence chip maker Nvidia Corp to aid financial institutions in analysing years of market data at significantly greater...",
+      "url": "https://www.marketscreener.com/news/london-stock-exchange-partners-with-nvidia-to-speed-up-data-analysis-ce785dd2da8df12c",
+      "date": "2026-10-14T07:42:30Z"
+    },
+    {
+      "title": "Saudi employee arrested for allegedly bugging OpenAI office in San Francisco",
+      "description": "[THE NEW INDIAN EXPRESS] The arrest and allegations come amid a fierce global race to dominate in artificial intelligence, which the Trump administration has pushed to be rebranded as \"",
+      "url": "https://www.newindianexpress.com/world/2026/Oct/14/saudi-employee-arrested-for-allegedly-bugging-openai-office-in-san-francisco",
+      "date": "2026-10-14T07:37:36Z"
+    },
+    {
+      "title": "US launches SI.gov as Trump pushes to rename AI",
+      "description": "[NEWSBYTES] The Trump administration has launched SI.gov, renaming artificial intelligence as super intelligence, to highlight its policies on AI initially established during the Biden era.",
+      "url": "https://www.newsbytesapp.com/news/science/us-launches-si-gov-as-trump-pushes-to-rename-ai/story",
+      "date": "2026-10-14T07:32:48Z"
+    },
+    {
+      "title": "driven cyberattacks hit 16 financial firms, expose 100,000 records",
+      "description": "[THE KOREA TIMES] The number of financial firms affected by suspected artificial intelligence (AI) agent-driven cyberattacks has risen to 16, more than double the se...",
+      "url": "https://www.koreatimes.co.kr/business/banking-finance/20261014/ai-driven-cyberattacks-hit-16-financial-firms-expose-100000-records",
+      "date": "2026-10-14T07:27:03Z"
+    },
+    {
+      "title": "South Korean running influencer and AI researcher dies after collapsing 500m from Seoul Race finish line",
+      "description": "[MALAY MAIL] SEOUL, Oct 14 \u2014 South Korean running influencer and artificial intelligence semiconductor researcher Yoo Ji-won has died after collapsing during the 2026 Seoul Race, according to...",
+      "url": "https://www.malaymail.com/news/sports/2026/10/14/south-korean-running-influencer-and-ai-researcher-dies-after-collapsing-500m-from-seoul-race-finish-line/239076",
+      "date": "2026-10-14T07:21:25Z"
+    },
+    {
+      "title": "Nvidia Donates Computing Access Valued at $250 Million to U.K. AI Safety Research",
+      "description": "[MARKETSCREENER] By Dominic Chopping Nvidia will donate computing resources valued at $250 million to U.K. scientists to aid agentic artificial intelligence safety and security research. The U.S. chipmaker...",
+      "url": "https://www.marketscreener.com/news/nvidia-donates-computing-access-valued-at-250-million-to-u-k-ai-safety-research-ce785dd2da8bf423",
+      "date": "2026-10-14T07:06:31Z"
+    },
+    {
+      "title": "Singapore\u2019s PDG seeks US$1.2bil loan for Malaysia data center",
+      "description": "[THE STAR] Asian data center operator Princeton Digital Group Ltd. is seeking a syndicated loan of up to $1.2 billion to fund its Malaysia buildout, according to a person familiar with the matter, as the debt binge to finance artificial intelligence...",
+      "url": "https://www.thestar.com.my/business/business-news/2026/10/14/singapores-pdg-seeks-us12bil-loan-for-malaysia-data-center",
+      "date": "2026-10-14T07:04:00Z"
+    },
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "date": "2026-10-13T17:05:48Z"
+    },
+    {
+      "title": "The model that didn't exist, so you made it yourself",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "date": "2026-10-08T00:00:00Z"
+    },
+    {
+      "title": "Introducing Falcon ASR",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "date": "2026-10-07T13:21:03Z"
+    },
+    {
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "date": "2026-10-07T12:45:31Z"
+    },
+    {
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "date": "2026-10-03T22:56:48Z"
+    }
+  ]
 }
