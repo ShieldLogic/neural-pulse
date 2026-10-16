@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-16 15:26 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI\u2019s AI agents need to catch up",
-            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T18:40:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
-            "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbas\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-22T16:34:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints at tech companies.\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints\u2026 [+2761 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-            "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platfo\u2026",
-            "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T13:36:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2169 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Cancels Release of GPT-6.1 Astra Because It \u2018Regressed\u2019 on Safety",
-            "description": "It doesn\u2019t sound like it morphed into a diabolical hacker. It mostly just screwed up.",
-            "url": "https://gizmodo.com/openai-cancels-release-of-gpt-6-1-astra-because-it-regressed-on-safety-2000818566",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-29T00:08:43Z",
-            "content": "OpenAIs GPT-6.1 Astra was headed for an October release, but that plan has been canceled, according to the Wall Street Journal. The WSJs report comes at least in part from an interview with OpenAIs H\u2026 [+2659 chars]"
-        }
-    ]
+  "updated": "2026-10-16 19:14:25 UTC",
+  "news": [
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "description": "[TECHCRUNCH] The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "date": "2026-10-16T17:52:24Z"
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+      "description": "[TECHCRUNCH] Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still...",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "date": "2026-10-16T16:30:00Z"
+    },
+    {
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "description": "[TECHCRUNCH] Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still...",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "date": "2026-10-16T16:30:00Z"
+    },
+    {
+      "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
+      "description": "[TECHCRUNCH] According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "date": "2026-10-16T16:01:37Z"
+    },
+    {
+      "title": "Jev is Vercel\u2019s fastest-adopted AI model ever",
+      "description": "[TECHCRUNCH] The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "date": "2026-10-16T15:33:49Z"
+    },
+    {
+      "title": "Mark Wahlberg on using AI in film \u2018the right way\u2019 and being open to an AI clone carrying on his legacy",
+      "description": "[TECHCRUNCH] Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "date": "2026-10-16T14:26:51Z"
+    },
+    {
+      "title": "CERT-In issues 'critical' alert as AI agents access 'confidential' data of Indian firms'",
+      "description": "[TIMES OF INDIA] NEW DELHI: India\u2019s cybersecurity agency CERT-In has issued a \u201ccritical\u201d alert after autonomous artificial intelligence (AI) agents under test accessed",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/cert-in-issues-critical-alert-as-ai-agents-access-confidential-data-of-indian-firms/articleshow/134985798.cms",
+      "date": "2026-10-16T07:10:00Z"
+    },
+    {
+      "title": "YouTube introduces labelling for AI-generated music",
+      "description": "[THE STAR] YouTube plans to label songs created or altered using artificial intelligence, the Google subsidiary has announced.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/16/youtube-introduces-labelling-for-ai-generated-music",
+      "date": "2026-10-16T07:00:00Z"
+    },
+    {
+      "title": "Amazon unveils two AI devices capable of listening to everyday conversations",
+      "description": "[MARKETSCREENER] Amazon has unveiled two new wearable artificial intelligence devices designed to analyze everyday conversations and automatically generate reminders, recommendations and personalized insights....",
+      "url": "https://www.marketscreener.com/news/amazon-unveils-two-ai-devices-capable-of-listening-to-everyday-conversations-ce785dd3d18bf024",
+      "date": "2026-10-16T06:55:32Z"
+    },
+    {
+      "title": "India, Canada sign commercial deals as both aim to seal trade pact by 2026",
+      "description": "[THE ECONOMIC TIMES] India and Canada have signed commercial agreements aimed at strengthening trade relations and enhancing economic cooperation. Minister of International Trade Maninder Sidhu emphasized collaboration opportunities in various sectors like artificial...",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-canada-sign-commercial-deals-as-both-aim-to-seal-trade-pact-by-2026/articleshow/134985153.cms",
+      "date": "2026-10-16T06:51:00Z"
+    },
+    {
+      "title": "Apple and Meta team up to run Muse Spark Open AI model on Mac Studio",
+      "description": "[MARKETSCREENER] Apple and Meta have announced a collaboration allowing developers to run Muse Spark Open, Meta's new open-weights artificial intelligence model, locally on the most powerful Mac Studio computers. The...",
+      "url": "https://www.marketscreener.com/news/apple-and-meta-team-up-to-run-muse-spark-open-ai-model-on-mac-studio-ce785dd3d18bf32d",
+      "date": "2026-10-16T06:47:42Z"
+    },
+    {
+      "title": "CNN signs multi-year partnership with Google on generative artificial intelligence",
+      "description": "[MARKETSCREENER] CNN, now under Skydance's control, announced a multi-year agreement with Google to develop new generative artificial intelligence applications for its news platforms. The collaboration, the first...",
+      "url": "https://www.marketscreener.com/news/cnn-signs-multi-year-partnership-with-google-on-generative-artificial-intelligence-ce785dd3d18bf127",
+      "date": "2026-10-16T06:46:53Z"
+    },
+    {
+      "title": "Indexes rise despite high inflation, AI stock worries",
+      "description": "[ARKANSAS ONLINE] NEW YORK -- U.S. stock indexes muscled higher Thursday, led by companies delivering bigger profits. They pulled closer to their records even as stocks in the artificial intelligence industry kept swinging on worries about how much longer their boom...",
+      "url": "https://www.arkansasonline.com/news/2026/oct/16/indexes-rise-despite-high-inflation-ai-stock/",
+      "date": "2026-10-16T06:46:00Z"
+    },
+    {
+      "title": "TSMC in talks to fund chip facility in Texas",
+      "description": "[ARKANSAS ONLINE] HONG KONG -- Taiwan Semiconductor Manufacturing Co. is exploring potential investments in Texas to expand its chip production in the United States, the advanced chipmaker said after posting another record profit on strong artificial intelligence...",
+      "url": "https://www.arkansasonline.com/news/2026/oct/16/tsmc-in-talks-to-fund-chip-facility-in-texas/",
+      "date": "2026-10-16T06:45:00Z"
+    },
+    {
+      "title": "AI boom could trigger sharp equity market correction, losses may \u201cspread around the world\u201d: IMF",
+      "description": "[THE TRIBUNE] The artificial intelligence (AI) boom is fuelling the expectation of economic growth in the short-run, but uneven adoption and expectations running ahead of actual productivity gains could lead to \u201cnear-term disappointment,\u201d and a sharp equity...",
+      "url": "https://www.tribuneindia.com/news/business/ai-boom-could-trigger-sharp-equity-market-correction-losses-may-spread-around-the-world-imf/",
+      "date": "2026-10-16T06:41:06Z"
+    },
+    {
+      "title": "AI boom could trigger sharp equity market correction, losses may \u201cspread around the world\u201d: IMF",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] The artificial intelligence (AI) boom is fuelling the expectation of economic growth in the short-run, but uneven adoption and expectations running ahead of actual productivity gains could lead to \u201cnear-term disappointment,\u201d and a sharp equity...",
+      "url": "https://www.aninews.in/news/business/ai-boom-could-trigger-sharp-equity-market-correction-losses-may-8220spread-around-the-world8221-imf20261016121027/",
+      "date": "2026-10-16T06:40:27Z"
+    },
+    {
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "date": "2026-10-16T01:44:47Z"
+    },
+    {
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "date": "2026-10-16T00:00:00Z"
+    },
+    {
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "date": "2026-10-15T20:34:01Z"
+    },
+    {
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "date": "2026-10-15T00:00:00Z"
+    },
+    {
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/flux-3",
+      "date": "2026-10-15T00:00:00Z"
+    },
+    {
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "date": "2026-10-14T16:12:42Z"
+    }
+  ]
 }
