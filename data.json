@@ -1,137 +1,85 @@
 {
-  "updated": "2026-10-19 16:45:47 UTC",
-  "news": [
-    {
-      "title": "People are using AI to make their smart TVs dumb again",
-      "description": "[TECHCRUNCH] Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "date": "2026-10-19T16:13:22Z"
-    },
-    {
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "description": "[TECHCRUNCH] Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "date": "2026-10-19T15:37:09Z"
-    },
-    {
-      "title": "Anthropics IPO Dreams May Be Eclipsed By the Cloud",
-      "description": "[LIVEMINT] Call it the nerd mindset. Silicon Valley has spent the last few years believing that whoever built the smartest artificial-intelligence system would rule the industry. Today, that calculation is starting to look misguided.",
-      "url": "https://www.livemint.com/market/anthropics-ipo-dreams-may-be-eclipsed-by-thecloud-11792383878872.html",
-      "date": "2026-10-19T04:24:38Z"
-    },
-    {
-      "title": "CUHK president puts independent thinking at heart of AI education",
-      "description": "[THE KOREA TIMES] HONG KONG \u2014 When asked what surprised him most about artificial intelligence (AI), Dennis Lo Yuk-ming, vice-chancellor and president of The Chinese...",
-      "url": "https://www.koreatimes.co.kr/southkorea/education/20261019/scientist-turned-cuhk-president-puts-independent-thinking-at-heart-of-ai-education",
-      "date": "2026-10-19T04:07:03Z"
-    },
-    {
-      "title": "Anthropic proposes law regulating AI to US lawmakers",
-      "description": "[THE STAR] Anthropic, the creator of the AI assistant Claude, confirmed on Oct 16 it is circulating a draft bill among US lawmakers aimed at regulating artificial intelligence.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/19/anthropic-proposes-law-regulating-ai-to-us-lawmakers",
-      "date": "2026-10-19T04:00:00Z"
-    },
-    {
-      "title": "Bond Market's Big Short Bet Gets Wakeup Call As AI Trade Wobbles",
-      "description": "[NDTV PROFIT] As concerns mount across markets over the outlook for leading artificial-intelligence firms and the potential impact on the broader economy, 10-year yields fell about 17 basis points last week while the Nasdaq 100 Index tumbled 5.5%.",
-      "url": "https://www.ndtvprofit.com/markets/bond-markets-big-short-bet-gets-wakeup-call-as-ai-trade-wobbles-12204429",
-      "date": "2026-10-19T03:30:12Z"
-    },
-    {
-      "title": "AI Trade Reversal Pierces Asia\u2019s Star Picks-and-Shovels Stocks",
-      "description": "[LIVEMINT] A deepening selloff in US technology stocks is exposing a new vulnerability in Asia\u2019s artificial intelligence trade: mounting financing costs could choke off the spending needed to sustain the boom, threatening earnings across a supply chain that...",
-      "url": "https://www.livemint.com/market/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks-11792380443975.html",
-      "date": "2026-10-19T03:27:23Z"
-    },
-    {
-      "title": "A new book explores the ethical and existential challenges of AI and how humans respond to them",
-      "description": "[SCROLL.IN] An excerpt from \u2018Will AI Murder Us All?: The Moral Psychology of Artificial Intelligence\u2019, by Aakash Singh Rathore.",
-      "url": "https://scroll.in/article/1096341/a-new-book-explores-the-ethical-and-existential-challenges-of-ai-and-how-humans-respond-to-them",
-      "date": "2026-10-19T03:00:00Z"
-    },
-    {
-      "title": "Asian Equities Fall as Unease Over AI Spending Builds",
-      "description": "[MARKETSCREENER] By Sherry Qin Asian equities fell Monday morning, as mounting artificial-intelligence funding concerns outweighed relief in the energy markets as oil declined. Weakness in stocks across the...",
-      "url": "https://www.marketscreener.com/news/asian-equities-fall-as-unease-over-ai-spending-builds-ce785cdad181f420",
-      "date": "2026-10-19T02:23:27Z"
-    },
-    {
-      "title": "China GDP growth picks up thanks to global AI boom",
-      "description": "[ABC17NEWS.COM] By John Liu, CNN Hong Kong (CNN) \u2014 China reported better-than-expected Q3 growth on Monday as robust exports of chips and electronics components on the back of a global artificial intelligence boom buoy the world\u2019s second-largest economy, despite...",
-      "url": "https://abc17news.com/money/cnn-business-consumer/2026/10/18/china-gdp-growth-picks-up-thanks-to-export-boom/",
-      "date": "2026-10-19T02:10:10Z"
-    },
-    {
-      "title": "China GDP growth picks up thanks to global AI boom",
-      "description": "[CABLE NEWS NETWORK] China reported better-than-expected Q3 growth on Monday as robust exports of chips and electronics components on the back of a global artificial intelligence boom buoy the world\u2019s second-largest economy, despite sluggish demand at home.",
-      "url": "https://edition.cnn.com/2026/10/18/economy/china-q3-gdp-intl-hnk",
-      "date": "2026-10-19T02:10:10Z"
-    },
-    {
-      "title": "Anthropic to commit 5% stake to new \u2018public benefit fund\u2019",
-      "description": "[THE JAPAN TIMES ] Anthropic said the fund could support initiatives that include efforts to address artificial intelligence\u2019s impact on the labor market.",
-      "url": "https://www.japantimes.co.jp/business/2026/10/19/anthropic-public-benefit-fund-ai/",
-      "date": "2026-10-19T01:14:25Z"
-    },
-    {
-      "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
-      "description": "[TECHCRUNCH] Anthropic said that it will commit 5% of its shares to the fund.",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "date": "2026-10-18T20:37:40Z"
-    },
-    {
-      "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
-      "description": "[TECHCRUNCH] The filing also says that the \u201cvast majority\u201d of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "date": "2026-10-18T16:30:00Z"
-    },
-    {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "description": "[TECHCRUNCH] A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "date": "2026-10-17T21:31:32Z"
-    },
-    {
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "description": "[TECHCRUNCH] The composition of Anthropic\u2019s workforce and the type of work getting done have changed significantly in the past year.",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "date": "2026-10-17T20:21:19Z"
-    },
-    {
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "date": "2026-10-16T01:44:47Z"
-    },
-    {
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "date": "2026-10-16T00:00:00Z"
-    },
-    {
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "date": "2026-10-15T20:34:01Z"
-    },
-    {
-      "title": "Apertus 1.5 Release Notes",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "date": "2026-10-15T09:08:45Z"
-    },
-    {
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "date": "2026-10-15T00:00:00Z"
-    },
-    {
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/flux-3",
-      "date": "2026-10-15T00:00:00Z"
-    }
-  ]
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-10-19 17:38 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Hayden Field",
+            "title": "OpenAI\u2019s AI agents need to catch up",
+            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-28T18:40:24Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
+            "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbas\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2026-09-22T16:34:08Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints at tech companies.\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints\u2026 [+2761 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
+            "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platfo\u2026",
+            "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-28T13:36:06Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2169 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
+            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
+            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
+            "publishedAt": "2026-10-13T23:29:31Z",
+            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mike Pearl",
+            "title": "OpenAI Cancels Release of GPT-6.1 Astra Because It \u2018Regressed\u2019 on Safety",
+            "description": "It doesn\u2019t sound like it morphed into a diabolical hacker. It mostly just screwed up.",
+            "url": "https://gizmodo.com/openai-cancels-release-of-gpt-6-1-astra-because-it-regressed-on-safety-2000818566",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+            "publishedAt": "2026-09-29T00:08:43Z",
+            "content": "OpenAIs GPT-6.1 Astra was headed for an October release, but that plan has been canceled, according to the Wall Street Journal. The WSJs report comes at least in part from an interview with OpenAIs H\u2026 [+2659 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Robert Hart",
+            "title": "OpenAI keeps bulldozing mathematicians",
+            "description": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. Ope\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_OpenAIMAthBulldozer_Parkin.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-28T16:56:26Z",
+            "content": "<ul><li></li><li></li></ul>\r\nOpenAI keeps bulldozing mathematicians\r\nThe Verge spoke to one of the mathematicians advising OpenAI as the field braces for a new wave of results that could upend their \u2026 [+12176 chars]"
+        }
+    ]
 }
