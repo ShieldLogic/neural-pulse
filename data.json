@@ -1,17 +1,47 @@
 {
-  "updated": "2026-10-20 18:16:49 UTC",
+  "updated": "2026-10-20 22:54:04 UTC",
   "news": [
     {
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "description": "[TECHCRUNCH] The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
-      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "date": "2026-10-20T17:55:12Z"
+      "title": "Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate",
+      "description": "[TECHCRUNCH] Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "date": "2026-10-20T22:24:02Z"
     },
     {
-      "title": "Meta\u2019s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-      "description": "[TECHCRUNCH] Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "date": "2026-10-20T17:12:48Z"
+      "title": "Anthropic\u2019s cloud partnerships are getting messy",
+      "description": "[TECHCRUNCH] Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "date": "2026-10-20T21:25:22Z"
+    },
+    {
+      "title": "SpaceX\u2019s AI business is beating expectations",
+      "description": "[TECHCRUNCH] SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "date": "2026-10-20T20:40:41Z"
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio\u2060 to beef up its biotech business",
+      "description": "[TECHCRUNCH] OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "date": "2026-10-20T20:35:10Z"
+    },
+    {
+      "title": "Google has joined Amazon in attacking Nvidia\u2019s stronghold with AI app developers",
+      "description": "[TECHCRUNCH] Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "date": "2026-10-20T18:38:24Z"
+    },
+    {
+      "title": "ChatGPT now lets you lock your chats",
+      "description": "[TECHCRUNCH] The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in...",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "date": "2026-10-20T18:36:53Z"
+    },
+    {
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "date": "2026-10-20T18:17:47Z"
     },
     {
       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
@@ -20,94 +50,70 @@
       "date": "2026-10-20T16:09:19Z"
     },
     {
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "description": "[TECHCRUNCH] Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "date": "2026-10-20T16:00:00Z"
-    },
-    {
       "title": "ALTK-Evolve: How learned memory tops the \u03c4\u00b2-bench leaderboard on customer service tasks without a frontier model",
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
       "date": "2026-10-20T15:19:48Z"
     },
     {
-      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-      "description": "[TECHCRUNCH] Figma said it plans to support as many standards as possible without exposing all of its data.",
-      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-      "date": "2026-10-20T14:13:32Z"
+      "title": "Is a robot running the Fed?",
+      "description": "[THE SPECTATOR] Federal Reserve Chairman Kevin Warsh has made no secret of his messianic faith in the promise of Artificial Intelligence",
+      "url": "https://spectator.com/article/is-a-robot-running-the-fed/",
+      "date": "2026-10-20T10:42:38Z"
     },
     {
-      "title": "US orders federal agencies to remove China\u2019s DeepSeek AI from their systems",
-      "description": "[TECHCRUNCH] The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "date": "2026-10-20T13:07:24Z"
+      "title": "Amazon Pledges Over $17 Billion to Expand German Operations",
+      "description": "[MARKETSCREENER] By Mauro Orru Amazon.com said it would invest more than 16 billion euros in Germany next year on artificial-intelligence infrastructure, high-speed satellite internet, logistics projects and new...",
+      "url": "https://www.marketscreener.com/news/amazon-pledges-over-17-billion-to-expand-german-operations-ce785cd8d98cff24",
+      "date": "2026-10-20T10:36:44Z"
     },
     {
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "description": "[TECHCRUNCH] Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "date": "2026-10-20T13:00:00Z"
+      "title": "Pittsburgh's Gecko Robotics expands its Navy contract to $300 million",
+      "description": "[WASHINGTON EXAMINER] Gecko Robotics\u2019s expanded Navy contract highlights Pittsburgh\u2019s industrial revival through the use of robots and artificial intelligence.",
+      "url": "https://www.washingtonexaminer.com/opinion/columnists/4771402/gecko-robotics-expands-navy-contract-300-million/",
+      "date": "2026-10-20T10:30:00Z"
     },
     {
-      "title": "Regulator making 'routine inquiries' after Firmus flop",
-      "description": "[THE CANBERRA TIMES] More questions are being asked about artificial intelligence data centre company Firmus, following its decision to abandon a...",
-      "url": "https://www.canberratimes.com.au/story/9372118/regulator-making-routine-inquiries-after-firmus-flop/",
-      "date": "2026-10-20T05:48:17Z"
+      "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results",
+      "description": "[THE STAR] Oct 20 (Reuters) - Meta's massive artificial \u2060intelligence outlays and adoption of its Muse personal assistant will be \u2060in focus when it reports third-quarter results on Wednesday, as the \u200csocial media firm seeks to show that its AI investments can...",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/20/meta039s-ai-spending-muse-assistant-adoption-in-focus-for-quarterly-results",
+      "date": "2026-10-20T10:17:00Z"
     },
     {
-      "title": "Asian shares mostly decline after AI stocks lead a rebound on Wall Street",
-      "description": "[BREITBART NEWS NETWORK] Asian shares are mostly lower after stocks artificial-intelligence-related stocks bounced back on Wall Street while other sectors continued to be shaky",
-      "url": "https://www.breitbart.com/news/asian-shares-mostly-decline-after-ai-stocks-lead-a-rebound-on-wall-street/",
-      "date": "2026-10-20T05:15:39Z"
+      "title": "Where Tennessee governor candidates stand on AI and data centers",
+      "description": "[KNOXVILLE NEWS-SENTINEL] Data centers and the artificial intelligence they power have become increasing concerns for Tennesseans. Here's what gubernatorial candidates say.",
+      "url": "https://www.knoxnews.com/story/news/politics/elections/2026/10/20/governor-candidates-election-ai-data-centers/92196983007/",
+      "date": "2026-10-20T10:02:47Z"
     },
     {
-      "title": "'Big fakes': watchdog warns of rampant AI scam threat",
-      "description": "[THE CANBERRA TIMES] Artificial intelligence poses major risks to the financial sector and consumers, including by making scams appear more realistic.",
-      "url": "https://www.canberratimes.com.au/story/9371506/big-fakes-watchdog-warns-of-rampant-ai-scam-threat/",
-      "date": "2026-10-20T05:03:25Z"
+      "title": "Kansas Dem Adam Hamilton, who made millions on Big Tech stocks, now running away from AI data center boom",
+      "description": "[NEW YORK POST] Kansas Senate Democratic candidate Adam Hamilton has expressed skepticism that artificial intelligence is rapidly becoming a \"Tower of Babel\" but holds more than $4 million worth of stocks in the companies building out AI infrastructure and data...",
+      "url": "https://nypost.com/2026/10/20/us-news/kansas-dem-adam-hamilton-who-made-millions-on-big-tech-stocks-now-running-away-from-ai-data-center-boom/",
+      "date": "2026-10-20T10:00:00Z"
     },
     {
-      "title": "MYOB launches Iris by MYOB, the agentic AI foundation for future-ready businesses",
-      "description": "[ITWIRE] Iris by MYOB is the AI working alongside MYOB data to deliver smarter, practical support for A/NZ businesses.",
-      "url": "https://itwire.com/business-it-news/data/myob-launches-iris-by-myob-the-agentic-ai-foundation-for-future-ready-businesses",
-      "date": "2026-10-20T05:02:19Z"
+      "title": "Global shares mostly decline",
+      "description": "[BNN BLOOMBERG] Global shares were mostly lower in cautious trading Tuesday after artificial-intelligence -related stocks bounced back on Wall Street while other sectors continued to be shaky and oil prices stayed high.",
+      "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/10/20/global-shares-mostly-decline-after-ai-stocks-lead-a-rebound-on-wall-street/",
+      "date": "2026-10-20T09:55:38Z"
     },
     {
-      "title": "More than half of Irish business leaders worried over \u2018sophisticated cyber attacks\u2019 by AI",
-      "description": "[THE IRISH TIMES] Artificial intelligence seen as a risk to firms, not a benefit, survey finds",
-      "url": "https://www.irishtimes.com/business/2026/10/20/more-than-half-of-irish-business-leaders-worried-over-sophisticated-cyber-attacks-by-ai/",
-      "date": "2026-10-20T05:00:01Z"
+      "title": "Global shares mostly decline",
+      "description": "[CP24 TORONTO] Global shares were mostly lower in cautious trading Tuesday after artificial-intelligence -related stocks bounced back on Wall Street while other sectors continued to be shaky and oil prices stayed high.",
+      "url": "https://www.cp24.com/news/money/2026/10/20/global-shares-mostly-decline-after-ai-stocks-lead-a-rebound-on-wall-street/",
+      "date": "2026-10-20T09:55:38Z"
     },
     {
-      "title": "US bans use of China's DeepSeek by govt agencies",
-      "description": "[THE STAR] The US government on Oct 19 ordered its agencies to stop using artificial intelligence tools from Chinese startup DeepSeek, as the countries race for dominance in the fast-moving sector.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/20/us-bans-use-of-china039s-deepseek-by-govt-agencies",
-      "date": "2026-10-20T05:00:00Z"
+      "title": "Global shares mostly decline after AI stocks lead rebound on Wall Street",
+      "description": "[DAILY EXCELSIOR] TOKYO, Oct 20: Global shares were mostly lower in cautious trading Tuesday after artificial-intelligence-related stocks bounced back on Wall Street while other sectors continued to be shaky and oil prices stayed high. France's CAC 40 dipped 0.4 per...",
+      "url": "https://www.dailyexcelsior.com/global-shares-mostly-decline-after-ai-stocks-lead-rebound-on-wall-street/",
+      "date": "2026-10-20T09:55:35Z"
     },
     {
-      "title": "XLRI Hosts Manakriti 3.0 on Translating Agentic AI into Measurable Business Outcomes",
-      "description": "[NEWSX] Jamshedpur [Jharkhand, India], October 19: XLRI \u2013 Xavier School of Management, Jamshedpur, hosted Manakriti 3.0, the flagship AI Conclave organised by the AI Nexus Club of its PGDM\u2026",
-      "url": "https://www.newsx.com/bl-news/xlri-hosts-manakriti-3-0-on-translating-agentic-ai-into-measurable-business-outcomes-285301/",
-      "date": "2026-10-20T04:59:09Z"
-    },
-    {
-      "title": "China Proposes Export Restrictions on AI, Chip, Solar Technologies, Citing National Security",
-      "description": "[NATURAL NEWS] China\u2019s Ministry of Commerce and Ministry of Science and Technology published a draft on Friday proposing export bans or restrictions on 40 technologies, including artificial intelligence, chips, solar power and biomedicine, according to the...",
-      "url": "https://www.naturalnews.com/2026-10-20-china-proposes-export-restrictions-ai-chip-solar-technologies.html",
-      "date": "2026-10-20T04:55:47Z"
-    },
-    {
-      "title": "Satellites, 6G and AI: Akash Ambani lays out Jio\u2019s next big bets",
-      "description": "[TIMES OF INDIA] Satellites in the sky, patents for a network that does not exist yet, and artificial intelligence inside everyday phone calls.",
-      "url": "https://timesofindia.indiatimes.com/business/satellites-6g-and-ai-akash-ambani-lays-out-jios-next-big-bets/articleshow/135061629.cms",
-      "date": "2026-10-20T04:53:00Z"
-    },
-    {
-      "title": "Nokia, SoftBank Plan Joint Commercial AI-RAN Field Trial in Japan in 2027",
-      "description": "[MARKETSCREENER] Nokia agreed to hold a joint commercial artificial intelligence-radio access network, or AI-RAN, field trial in Japan with Japanese investment holding company SoftBank Corp. The Finnish...",
-      "url": "https://www.marketscreener.com/news/nokia-softbank-plan-joint-commercial-ai-ran-field-trial-in-japan-in-2027-ce785cdbde8ef123",
-      "date": "2026-10-20T04:47:22Z"
+      "title": "China Defends DeepSeek After US Ban of Its AI From Government Systems",
+      "description": "[U.S. NEWS & WORLD REPORT] HONG KONG (AP) \u2014 China hit back Tuesday at a U.S. ban on Chinese artificial intelligence startup DeepSeek's products for federal civilian agencies, highlighting friction in the two AI powers\u2019 heated technology race.",
+      "url": "https://www.usnews.com/news/business/articles/2026-10-20/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems",
+      "date": "2026-10-20T09:36:00Z"
     },
     {
       "title": "Hugging Face \u2764\ufe0f TorchTPU: TPUs, Natively",
@@ -126,12 +132,6 @@
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/mps-pytorch-2-15",
       "date": "2026-10-20T00:00:00Z"
-    },
-    {
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "date": "2026-10-19T00:00:00Z"
     }
   ]
 }
