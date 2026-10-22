@@ -1,85 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-22 15:57 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI\u2019s AI agents need to catch up",
-            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T18:40:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
-            "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbas\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-22T16:34:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints at tech companies.\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints\u2026 [+2761 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-            "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platfo\u2026",
-            "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T13:36:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2169 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        }
-    ]
+  "updated": "2026-10-22 19:42:17 UTC",
+  "news": [
+    {
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "description": "[TECHCRUNCH] The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "date": "2026-10-22T19:07:09Z"
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "description": "[TECHCRUNCH] Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "date": "2026-10-22T19:00:00Z"
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "description": "[TECHCRUNCH] OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "date": "2026-10-22T19:00:00Z"
+    },
+    {
+      "title": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019",
+      "description": "[TECHCRUNCH] Microsoft\u2019s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft\u2019s system itself.",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "date": "2026-10-22T18:43:53Z"
+    },
+    {
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "description": "[TECHCRUNCH] Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "date": "2026-10-22T16:47:17Z"
+    },
+    {
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "date": "2026-10-22T16:11:31Z"
+    },
+    {
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "description": "[TECHCRUNCH] The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "date": "2026-10-22T16:00:00Z"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "date": "2026-10-22T07:51:31Z"
+    },
+    {
+      "title": "ARKIE AI Announces Q4 2026-Q2 2027 Ecosystem Development Roadmap",
+      "description": "[THE EXPOSITOR] Company outlines development priorities across artificial intelligence, global payments, digital assets and smart living",
+      "url": "https://www.brantfordexpositor.ca/press-releases/newsfile/arkie-ai-announces-q4-2026-q2-2027-ecosystem-development-roadmap/",
+      "date": "2026-10-22T07:36:57Z"
+    },
+    {
+      "title": "ARKIE AI Announces Q4 2026-Q2 2027 Ecosystem Development Roadmap",
+      "description": "[THE NORTH BAY NUGGET] Company outlines development priorities across artificial intelligence, global payments, digital assets and smart living",
+      "url": "https://www.nugget.ca/press-releases/newsfile/arkie-ai-announces-q4-2026-q2-2027-ecosystem-development-roadmap/",
+      "date": "2026-10-22T07:36:41Z"
+    },
+    {
+      "title": "ARKIE AI Announces Q4 2026-Q2 2027 Ecosystem Development Roadmap",
+      "description": "[THE LONDON FREE PRESS] Company outlines development priorities across artificial intelligence, global payments, digital assets and smart living",
+      "url": "https://lfpress.com/press-releases/newsfile/arkie-ai-announces-q4-2026-q2-2027-ecosystem-development-roadmap/",
+      "date": "2026-10-22T07:36:28Z"
+    },
+    {
+      "title": "ARKIE AI Announces Q4 2026-Q2 2027 Ecosystem Development Roadmap",
+      "description": "[THE KINGSTON WHIG-STANDARD] Company outlines development priorities across artificial intelligence, global payments, digital assets and smart living",
+      "url": "https://www.thewhig.com/press-releases/newsfile/arkie-ai-announces-q4-2026-q2-2027-ecosystem-development-roadmap/",
+      "date": "2026-10-22T07:36:14Z"
+    },
+    {
+      "title": "Major new US regulation on AI unlikely despite rising political focus: UBS Report",
+      "description": "[THE ECONOMIC TIMES] In the United States, significant regulations on Artificial Intelligence appear improbable, as economic optimism prevails. This technology is viewed as a cornerstone for future economic growth and enhanced productivity. The midterm elections are...",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/major-new-us-regulation-on-ai-unlikely-despite-rising-political-focus-ubs-report/articleshow/135111579.cms",
+      "date": "2026-10-22T07:31:59Z"
+    },
+    {
+      "title": "Major new US regulation on AI unlikely despite rising political focus: UBS Report",
+      "description": "[DEVDISCOURSE] Major new regulations on Artificial Intelligence (AI) in the United States are unlikely to emerge despite the technology becoming a central issue in the country's midterm elections, according to a report by UBS.",
+      "url": "https://www.devdiscourse.com/article/business/3996236-major-new-us-regulation-on-ai-unlikely-despite-rising-political-focus-ubs-report",
+      "date": "2026-10-22T07:26:55Z"
+    },
+    {
+      "title": "Bitcoin Reverses Gains After Approaching $85,000",
+      "description": "[MARKETSCREENER] By Joseph Wilkins Bitcoin's rally toward $85,000 was short-lived after gains went into reverse on Thursday, tracking stock futures lower after worries around the artificial intelligence trade...",
+      "url": "https://www.marketscreener.com/news/bitcoin-reverses-gains-after-approaching-85-000-ce785cd9d18df723",
+      "date": "2026-10-22T07:22:51Z"
+    },
+    {
+      "title": "Major new US regulation on AI unlikely despite rising political focus: UBS Report",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Major new regulations on Artificial Intelligence (AI) in the United States are unlikely to emerge despite the technology becoming a central issue in the country's midterm elections, according to a report by UBS.",
+      "url": "https://www.aninews.in/news/business/major-new-us-regulation-on-ai-unlikely-despite-rising-political-focus-ubs-report20261022125201/",
+      "date": "2026-10-22T07:22:01Z"
+    },
+    {
+      "title": "Students, Use AI Smartly for Studies: Expert Tips",
+      "description": "[LOKMAT TIMES] Students, Use AI Smartly for Studies: Expert Tips - Artificial intelligence (AI) offers high school and university students a powerful tool that can 'do all their work,' potentially ... Get Latest News on International only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/international/students-use-ai-smartly-for-studies-expert-tips-a001-w03/",
+      "date": "2026-10-22T07:16:16Z"
+    },
+    {
+      "title": "known Korean AI firm grabs spotlight as Wall Street's AI litmus test",
+      "description": "[THE KOREA TIMES] Until this week, few on Wall Street had heard of Elice, a small Korean artificial intelligence (AI) neocloud company. Then its shares plunged 32 pe...",
+      "url": "https://www.koreatimes.co.kr/economy/20261022/little-known-korean-ai-firm-grabs-spotlight-as-wall-streets-ai-litmus-test",
+      "date": "2026-10-22T07:03:03Z"
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "date": "2026-10-21T18:26:30Z"
+    },
+    {
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "date": "2026-10-21T17:35:36Z"
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "date": "2026-10-21T16:04:43Z"
+    },
+    {
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "date": "2026-10-21T14:58:18Z"
+    }
+  ]
 }
