@@ -1,85 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-23 15:49 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI\u2019s AI agents need to catch up",
-            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T18:40:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
-            "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbas\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-22T16:34:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints at tech companies.\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints\u2026 [+2761 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-            "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platfo\u2026",
-            "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T13:36:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2169 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        }
-    ]
+  "updated": "2026-10-23 19:44:23 UTC",
+  "news": [
+    {
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "description": "[TECHCRUNCH] Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling...",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "date": "2026-10-23T19:06:23Z"
+    },
+    {
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "date": "2026-10-23T16:15:50Z"
+    },
+    {
+      "title": "India-Poland strategic partnership should translate into JVs, says PM Tusk",
+      "description": "[THE ECONOMIC TIMES] Poland Prime Minister Donald Tusk emphasized the importance of moving beyond traditional trade with India. He advocated for deeper cooperation in technology, artificial intelligence, and aerospace between the two countries. Tusk also highlighted...",
+      "url": "https://economictimes.indiatimes.com/news/india/india-poland-strategic-partnership-should-translate-into-jvs-says-pm-tusk/articleshow/135139250.cms",
+      "date": "2026-10-23T07:41:00Z"
+    },
+    {
+      "title": "Europe edges lower on lingering AI worry, oil jump",
+      "description": "[MARKETSCREENER] Stock prices in Europe opened lower on Friday, with the mood nervy amid artificial intelligence spending worries and a lofty oil price, with investors still mindful of Middle East tensions. The FTSE...",
+      "url": "https://www.marketscreener.com/news/europe-edges-lower-on-lingering-ai-worry-oil-jump-ce785cded08df12c",
+      "date": "2026-10-23T07:37:47Z"
+    },
+    {
+      "title": "Polish PM Donald Tusk seeks deeper technology cooperation with India across AI, digital and space sectors",
+      "description": "[LIVEMINT] Polish Prime Minister Donald Tusk has called for stronger technology partnerships between India and Poland, highlighting opportunities for companies from both countries across sectors including artificial intelligence (AI) solutions, digital...",
+      "url": "https://www.livemint.com/technology/polish-pm-donald-tusk-seeks-deeper-technology-cooperation-with-india-across-ai-digital-and-space-sectors-11792741007680.html",
+      "date": "2026-10-23T07:36:47Z"
+    },
+    {
+      "title": "Polish PM Donald Tusk seeks deeper technology cooperation with India across AI, digital and space sectors",
+      "description": "[THE TRIBUNE] Polish Prime Minister Donald Tusk has called for stronger technology partnerships between India and Poland, highlighting opportunities for companies from both countries across sectors including artificial intelligence (AI) solutions, digital...",
+      "url": "https://www.tribuneindia.com/news/business/polish-pm-donald-tusk-seeks-deeper-technology-cooperation-with-india-across-ai-digital-and-space-sectors/",
+      "date": "2026-10-23T07:33:03Z"
+    },
+    {
+      "title": "Why Gemini is at the center of Korean politics",
+      "description": "[THE KOREA TIMES] Gemini, the generative artificial intelligence (AI) by Google, has become the center of Korean politics in recent days, as President Lee Jae Myung...",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20261023/why-gemini-is-at-the-center-of-korean-politics",
+      "date": "2026-10-23T07:31:02Z"
+    },
+    {
+      "title": "Asian shares slip as sharp drops for AI stocks overwhelm markets worldwide and oil prices jump",
+      "description": "[BREITBART NEWS NETWORK] Asian shares are mostly lower after the latest shudder for artificial-intelligence stocks weighed on markets around the world, giving the benchmark",
+      "url": "https://www.breitbart.com/news/asian-shares-slip-as-sharp-drops-for-ai-stocks-overwhelm-markets-worldwide-and-oil-prices-jump/",
+      "date": "2026-10-23T07:30:50Z"
+    },
+    {
+      "title": "Polish PM Donald Tusk seeks deeper technology cooperation with India across AI, digital and space sectors",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Polish Prime Minister Donald Tusk has called for stronger technology partnerships between India and Poland, highlighting opportunities for companies from both countries across sectors including artificial intelligence (AI) solutions, digital...",
+      "url": "https://www.aninews.in/news/business/polish-pm-donald-tusk-seeks-deeper-technology-cooperation-with-india-across-ai-digital-and-space-sectors20261023130003/",
+      "date": "2026-10-23T07:30:03Z"
+    },
+    {
+      "title": "off after scrapping Solidigm IPO review",
+      "description": "[THE KOREA TIMES] SK hynix bucked a broader sell-off in artificial intelligence (AI)-related stocks, Friday, helping drive a rebound in the benchmark KOSPI after the...",
+      "url": "https://www.koreatimes.co.kr/economy/20261023/sk-hynix-bucks-ai-sell-off-after-scrapping-solidigm-ipo-review",
+      "date": "2026-10-23T07:23:02Z"
+    },
+    {
+      "title": "Bitcoin Below $82,000 as Stock Market Pressure Weighs on Crypto",
+      "description": "[MARKETSCREENER] By Joseph Wilkins Bitcoin clawed back some ground but remained below $82,000 on Friday, after experiencing heavy losses in the previous session amid fears that the artificial intelligence trade...",
+      "url": "https://www.marketscreener.com/news/bitcoin-below-82-000-as-stock-market-pressure-weighs-on-crypto-ce785cded08bf320",
+      "date": "2026-10-23T07:14:11Z"
+    },
+    {
+      "title": "AI Will Transform Humanity From Within: BAPS' Brahmavihari Swami",
+      "description": "[LOKMAT TIMES] AI Will Transform Humanity From Within: BAPS' Brahmavihari Swami - Artificial intelligence is more than just another technological invention; it represents a fundamental reinvention of human life and could ... Get Latest News on International only...",
+      "url": "https://www.lokmattimes.com/international/ai-will-transform-humanity-from-within-baps-brahmavihari-swami-a001-w02/",
+      "date": "2026-10-23T07:08:15Z"
+    },
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "description": "[TECHCRUNCH] The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "date": "2026-10-23T04:00:00Z"
+    },
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "description": "[TECHCRUNCH] MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "date": "2026-10-23T00:45:37Z"
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "date": "2026-10-23T00:00:00Z"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "date": "2026-10-22T22:24:34Z"
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "description": "[TECHCRUNCH] Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "date": "2026-10-22T22:08:24Z"
+    },
+    {
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "description": "[TECHCRUNCH] The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "date": "2026-10-22T19:07:09Z"
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "description": "[TECHCRUNCH] Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "date": "2026-10-22T19:00:00Z"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "date": "2026-10-22T07:51:31Z"
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "date": "2026-10-21T18:26:30Z"
+    },
+    {
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "date": "2026-10-21T17:35:36Z"
+    }
+  ]
 }
