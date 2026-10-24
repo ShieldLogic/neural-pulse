@@ -1,85 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-24 14:45 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI\u2019s AI agents need to catch up",
-            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T18:40:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
-            "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbas\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK483_EDUCATION_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-09-22T16:34:08Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints at tech companies.\r\nThe Horowitz Andreessen Academy trades degrees and homework for stints\u2026 [+2761 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-            "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platfo\u2026",
-            "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T13:36:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2169 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Cancels Release of GPT-6.1 Astra Because It \u2018Regressed\u2019 on Safety",
-            "description": "It doesn\u2019t sound like it morphed into a diabolical hacker. It mostly just screwed up.",
-            "url": "https://gizmodo.com/openai-cancels-release-of-gpt-6-1-astra-because-it-regressed-on-safety-2000818566",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-29T00:08:43Z",
-            "content": "OpenAIs GPT-6.1 Astra was headed for an October release, but that plan has been canceled, according to the Wall Street Journal. The WSJs report comes at least in part from an interview with OpenAIs H\u2026 [+2659 chars]"
-        }
-    ]
+  "updated": "2026-10-24 17:09:42 UTC",
+  "news": [
+    {
+      "title": "Block\u2019s new voice model sounds eerily human",
+      "description": "[TECHCRUNCH] Block said that the voice model can run locally on a MacBook M4 Max",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "date": "2026-10-24T16:00:00Z"
+    },
+    {
+      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
+      "description": "[TECHCRUNCH] A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "date": "2026-10-24T15:00:00Z"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "description": "[TECHCRUNCH] We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "date": "2026-10-24T14:00:00Z"
+    },
+    {
+      "title": "China's Moonshot AI launches Kimi K3.1 Pro; plans full model weights release by November",
+      "description": "[THE ECONOMIC TIMES] Chinese artificial intelligence (AI) company Moonshot AI has unveiled Kimi K3.1 Pro, a 3-trillion-parameter open-weight AI model featuring a 1-million-token context window, alongside a high-speed variant, Kimi K3.1 Pro Highspeed, according to a...",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-moonshot-ai-launches-kimi-k3-1-pro-plans-full-model-weights-release-by-nov/articleshow/135162538.cms",
+      "date": "2026-10-24T05:08:01Z"
+    },
+    {
+      "title": "China's Moonshot AI launches Kimi K3.1 Pro; plans full model weights release by Nov",
+      "description": "[THE TRIBUNE] Chinese artificial intelligence (AI) company Moonshot AI has unveiled Kimi K3.1 Pro, a 3-trillion-parameter open-weight AI model featuring a 1-million-token context window, alongside a high-speed variant, Kimi K3.1 Pro Highspeed, according to a...",
+      "url": "https://www.tribuneindia.com/news/business/chinas-moonshot-ai-launches-kimi-k3-1-pro-plans-full-model-weights-release-by-nov/",
+      "date": "2026-10-24T05:07:28Z"
+    },
+    {
+      "title": "China's Moonshot AI launches Kimi K3.1 Pro; plans full model weights release by Nov",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Chinese artificial intelligence (AI) company Moonshot AI has unveiled Kimi K3.1 Pro, a 3-trillion-parameter open-weight AI model featuring a 1-million-token context window, alongside a high-speed variant, Kimi K3.1 Pro Highspeed, according to a...",
+      "url": "https://www.aninews.in/news/business/chinas-moonshot-ai-launches-kimi-k31-pro-plans-full-model-weights-release-by-nov20261024103227/",
+      "date": "2026-10-24T05:02:27Z"
+    },
+    {
+      "title": "Vodafone wants AI on its Wi-Fi routers to solve broadband woes",
+      "description": "[GB NEWS] Vodafone will install AI on your Wi-Fi router to solve the biggest broadband headaches . Vodafone will deploy Artificial Intelligence (AI) across millions of its Wi-Fi 7 routers to bolster wireless connections",
+      "url": "https://www.gbnews.com/tech/vodafone-wifi-router-cujo-ai",
+      "date": "2026-10-24T04:45:02Z"
+    },
+    {
+      "title": "Led AI Infrastructure Pact, Focus on Mineral Resources",
+      "description": "[LOKMAT TIMES] Paraguay Joins US-Led AI Infrastructure Pact, Focus on Mineral Resources - Washington, D.C. \u2013 Paraguay has officially joined a U.S.-led initiative focused on developing artificial intelligence (AI) infrastructure and securing ... Get Latest News on...",
+      "url": "https://www.lokmattimes.com/international/paraguay-joins-us-led-ai-infrastructure-pact-focus-on-mineral-resources-a001-w02/",
+      "date": "2026-10-24T03:16:53Z"
+    },
+    {
+      "title": "Engineer sues datacenter developer Nscale as it gets ready for listing on New York stock exchange; claims fired over letter to HR complaining over \u2026",
+      "description": "[TIMES OF INDIA] United Kingdom-based artificial intelligence infrastructure provider Nscale is facing a wrongful dismissal lawsuit in Norway.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/engineer-sues-datacenter-developer-nscale-as-it-gets-ready-for-listing-on-new-york-stock-exchange-claims-fired-over-letter-to-hr-complaining-over-/articleshow/135160830.cms",
+      "date": "2026-10-24T03:14:00Z"
+    },
+    {
+      "title": "NCERT launches AI, computational thinking module for Classes 9",
+      "description": "[THE TRIBUNE] The National Council of Educational Research and Training (NCERT) has introduced an introductory module on Computational Thinking (CT) and Artificial Intelligence (AI) for students in Grades 9 through 12.",
+      "url": "https://www.tribuneindia.com/news/india/ncert-launches-ai-computational-thinking-module-for-grades-9-12/",
+      "date": "2026-10-24T03:04:53Z"
+    },
+    {
+      "title": "SpaceX\u2019s $40 billion AI debt plan faces market turmoil. Can investors stomach the growing borrowing risks?",
+      "description": "[LIVEMINT] SpaceX\u2019s efforts to finalize a $40 billion off-balance-sheet debt structure for its artificial intelligence buildout have been roiled by recent market turmoil that\u2019s driven up sector-wide borrowing costs and complicated price talks.",
+      "url": "https://www.livemint.com/companies/news/spacexs-40-billion-ai-debt-plan-faces-market-turmoil-can-investors-stomach-the-growing-borrowing-risks-11792809682686.html",
+      "date": "2026-10-24T02:52:14Z"
+    },
+    {
+      "title": "Nuclear power could more than triple by 2060, UN agency says",
+      "description": "[THE ECONOMIC TIMES] Rafael Grossi from the IAEA forecasts that nuclear power usage may more than triple by 2060. This increase will be driven by rising demands for electricity, especially from data centers powered by artificial intelligence. Grossi emphasized the...",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/nuclear-power-could-more-than-triple-by-2060-un-agency-says/articleshow/135159329.cms",
+      "date": "2026-10-24T01:03:00Z"
+    },
+    {
+      "title": "UK government sets out $800 million of AI security funding",
+      "description": "[THE STAR] LONDON, Oct 24 (Reuters) - Britain's \u2060government set out around \u00a3600 million ($800 million)of funding on Saturday largely geared \u2060towards defending against health and security threats from artificial intelligence.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/24/uk-government-sets-out-800-million-of-ai-security-funding",
+      "date": "2026-10-24T00:48:00Z"
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
+      "description": "[TECHCRUNCH] OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "date": "2026-10-23T23:05:49Z"
+    },
+    {
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "description": "[TECHCRUNCH] The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "date": "2026-10-23T21:59:19Z"
+    },
+    {
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "description": "[TECHCRUNCH] Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling...",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "date": "2026-10-23T19:06:23Z"
+    },
+    {
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "date": "2026-10-23T16:15:50Z"
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "date": "2026-10-23T00:00:00Z"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "date": "2026-10-22T22:24:34Z"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "date": "2026-10-22T07:51:31Z"
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "date": "2026-10-21T18:26:30Z"
+    },
+    {
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "date": "2026-10-21T17:35:36Z"
+    }
+  ]
 }
