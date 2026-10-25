@@ -1,85 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-25 14:59 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI\u2019s AI agents need to catch up",
-            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T18:40:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-            "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platfo\u2026",
-            "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T13:36:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2169 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Cancels Release of GPT-6.1 Astra Because It \u2018Regressed\u2019 on Safety",
-            "description": "It doesn\u2019t sound like it morphed into a diabolical hacker. It mostly just screwed up.",
-            "url": "https://gizmodo.com/openai-cancels-release-of-gpt-6-1-astra-because-it-regressed-on-safety-2000818566",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-29T00:08:43Z",
-            "content": "OpenAIs GPT-6.1 Astra was headed for an October release, but that plan has been canceled, according to the Wall Street Journal. The WSJs report comes at least in part from an interview with OpenAIs H\u2026 [+2659 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        }
-    ]
+  "updated": "2026-10-25 18:41:22 UTC",
+  "news": [
+    {
+      "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
+      "description": "[TECHCRUNCH] \"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "date": "2026-10-25T16:57:32Z"
+    },
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "description": "[TECHCRUNCH] We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "date": "2026-10-25T14:10:00Z"
+    },
+    {
+      "title": "Ethical boundaries to detecting deepfakes: NCERT introduces 20",
+      "description": "[THE TRIBUNE] Use of AI in everyday applications, understanding how machines learn from examples, detecting deepfakes and ethical boundaries protecting personal data \u2014 classes 9 to 12 will now study a 20-hour introductory module on computational thinking (CT) and...",
+      "url": "https://www.tribuneindia.com/news/india/ethical-boundaries-to-detecting-deepfakes-ncert-introduces-20-hour-ai-module-for-classes-9-12/",
+      "date": "2026-10-25T06:41:01Z"
+    },
+    {
+      "title": "NCERT rolls out 20-hour AI, computational thinking module for classes 9-12",
+      "description": "[THE ECONOMIC TIMES] The National Council of Educational Research and Training has introduced a module on computational thinking and artificial intelligence for students. This 20-hour course is designed for students in grades 9 to 12 with no prior AI knowledge. It...",
+      "url": "https://economictimes.indiatimes.com/industry/services/education/ncert-rolls-out-20-hour-ai-computational-thinking-module-for-classes-9-12/articleshow/135185294.cms",
+      "date": "2026-10-25T06:35:00Z"
+    },
+    {
+      "title": "Nearly half of new Korean AI services based on Chinese foundation models",
+      "description": "[THE KOREA TIMES] Korea's artificial intelligence (AI) development ecosystem is increasingly relying on Chinese foundation models, with data showing that nearly half...",
+      "url": "https://www.koreatimes.co.kr/business/tech-science/20261025/nearly-half-of-new-korean-ai-services-based-on-chinese-foundation-models",
+      "date": "2026-10-25T06:22:03Z"
+    },
+    {
+      "title": "Global asset management industry to expand through 2030, profitability remains a challenge: Morgan Stanley",
+      "description": "[THE ECONOMIC TIMES] Global asset management assets reached a record $159 trillion in 2026, but Morgan Stanley expects falling management fees to constrain revenue growth through 2030. Private markets and artificial intelligence could drive profitability, with firms...",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/global-asset-management-industry-to-expand-through-2030-profitability-remains-a-challenge-morgan-stanley/articleshow/135184618.cms",
+      "date": "2026-10-25T06:09:00Z"
+    },
+    {
+      "title": "Global asset management industry to expand through 2030, profitability remains a challenge: Morgan Stanley",
+      "description": "[THE TRIBUNE] The global asset management (AUM) industry is expected to witness continued growth through 2030, however, declining management fees could put pressure on revenues, with private markets and artificial intelligence (AI) emerging as key drivers of...",
+      "url": "https://www.tribuneindia.com/news/business/global-asset-management-industry-to-expand-through-2030-profitability-remains-a-challenge-morgan-stanley/",
+      "date": "2026-10-25T05:37:26Z"
+    },
+    {
+      "title": "AI could add $2.52T to global economy annually, says McKinsey",
+      "description": "[NEWSBYTES] Artificial intelligence is set to generate $2.52 trillion annually in global economic value, though increased deployment costs could reduce this potential by 34 percent.",
+      "url": "https://www.newsbytesapp.com/news/business/ai-could-unlock-annual-global-economic-value-worth-2-52t/story",
+      "date": "2026-10-25T05:35:53Z"
+    },
+    {
+      "title": "Global asset management industry to expand through 2030, profitability remains a challenge: Morgan Stanley",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] The global asset management (AUM) industry is expected to witness continued growth through 2030, however, declining management fees could put pressure on revenues, with private markets and artificial intelligence (AI) emerging as key drivers of...",
+      "url": "https://www.aninews.in/news/business/global-asset-management-industry-to-expand-through-2030-profitability-remains-a-challenge-morgan-stanley20261025110300/",
+      "date": "2026-10-25T05:33:00Z"
+    },
+    {
+      "title": "NAB must come clean on the role of AI in its job losses",
+      "description": "[AUSTRALIAN FINANCIAL REVIEW] The bank says there is no link between its redundancies and artificial intelligence. But we need more transparency about how roles are changing to know this for sure.",
+      "url": "https://www.afr.com/companies/financial-services/nab-must-come-clean-on-the-role-of-ai-in-its-job-losses-20261025-p617bu",
+      "date": "2026-10-25T04:04:12Z"
+    },
+    {
+      "title": "Mark Zuckerberg and Priscilla Chan said that they shifting their donations, just weeks after Meta CEO gifted state of California ...",
+      "description": "[TIMES OF INDIA] Meta CEO Mark Zuckerberg and his wife Priscilla Chan are doubling down on artificial intelligence, science and STEM education through both their",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-and-priscilla-chan-said-that-they-shifting-their-donations-just-weeks-after-meta-ceo-gifted-state-of-california-/articleshow/135182246.cms",
+      "date": "2026-10-25T03:04:00Z"
+    },
+    {
+      "title": "Your parents may be asking AI health questions. Here\u2019s what you should know",
+      "description": "[THE STAR] Artificial intelligence is becoming another place people turn when they have a health question.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/25/your-parents-may-be-asking-ai-health-questions-heres-what-you-should-know",
+      "date": "2026-10-25T03:00:00Z"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "description": "[TECHCRUNCH] From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "date": "2026-10-24T19:00:00Z"
+    },
+    {
+      "title": "Block\u2019s new voice model sounds eerily human",
+      "description": "[TECHCRUNCH] Block said that the voice model can run locally on a MacBook M4 Max",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "date": "2026-10-24T16:00:00Z"
+    },
+    {
+      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
+      "description": "[TECHCRUNCH] A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "date": "2026-10-24T15:00:00Z"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "description": "[TECHCRUNCH] We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "date": "2026-10-24T14:00:00Z"
+    },
+    {
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "date": "2026-10-23T16:15:50Z"
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "date": "2026-10-23T00:00:00Z"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "date": "2026-10-22T22:24:34Z"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "date": "2026-10-22T07:51:31Z"
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "date": "2026-10-21T18:26:30Z"
+    },
+    {
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "date": "2026-10-21T17:35:36Z"
+    }
+  ]
 }
