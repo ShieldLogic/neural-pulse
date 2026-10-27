@@ -1,85 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-27 16:47 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI\u2019s AI agents need to catch up",
-            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T18:40:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-            "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platfo\u2026",
-            "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T13:36:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2169 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Cancels Release of GPT-6.1 Astra Because It \u2018Regressed\u2019 on Safety",
-            "description": "It doesn\u2019t sound like it morphed into a diabolical hacker. It mostly just screwed up.",
-            "url": "https://gizmodo.com/openai-cancels-release-of-gpt-6-1-astra-because-it-regressed-on-safety-2000818566",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-29T00:08:43Z",
-            "content": "OpenAIs GPT-6.1 Astra was headed for an October release, but that plan has been canceled, according to the Wall Street Journal. The WSJs report comes at least in part from an interview with OpenAIs H\u2026 [+2659 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        }
-    ]
+  "updated": "2026-10-27 20:23:20 UTC",
+  "news": [
+    {
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "description": "[TECHCRUNCH] Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "date": "2026-10-27T18:55:35Z"
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "date": "2026-10-27T17:16:52Z"
+    },
+    {
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "description": "[TECHCRUNCH] TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "date": "2026-10-27T17:08:08Z"
+    },
+    {
+      "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "description": "[TECHCRUNCH] Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "date": "2026-10-27T16:30:57Z"
+    },
+    {
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "date": "2026-10-27T16:12:42Z"
+    },
+    {
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "description": "[TECHCRUNCH] Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "date": "2026-10-27T14:59:09Z"
+    },
+    {
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "description": "[TECHCRUNCH] Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "date": "2026-10-27T13:32:57Z"
+    },
+    {
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "description": "[TECHCRUNCH] The new standard, WebAI, is designed to work with a variety of AI models.",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "date": "2026-10-27T13:00:00Z"
+    },
+    {
+      "title": "Think you can spot a scam? AI is making it harder",
+      "description": "[WJLA] Artificial Intelligence (AI) is changing everything, including how criminals steal from you. Cybersecurity is no longer just about keeping your password safe.",
+      "url": "https://wjla.com/news/local/ai-scams-fraud-how-to-avoid-prevention-phone-voice-cloning-phishing-emails-fake-websites-identity-theft-cybersecurity-tips-authentication-passkeys-explained-online-banking-security-financial-fraud-warning-signs",
+      "date": "2026-10-27T08:02:08Z"
+    },
+    {
+      "title": "New Meta AI tool exposed thousands of private conversations online",
+      "description": "[THE STAR] A sharing feature in Meta's new artificial intelligence platform, Muse, left thousands of users' private conversations accessible to the public.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/27/new-meta-ai-tool-exposed-thousands-of-private-conversations-online",
+      "date": "2026-10-27T08:00:00Z"
+    },
+    {
+      "title": "Scott Weenink on what boards should know about AI",
+      "description": "[ITWIRE] Most New Zealand boards have now sat through the artificial intelligence presentation. A vendor or technology lead shows what a large language model can draft, summarise or...",
+      "url": "https://itwire.com/guest-articles/guest-opinion/scott-weenink-on-what-boards-should-know-about-ai",
+      "date": "2026-10-27T07:44:57Z"
+    },
+    {
+      "title": "Elon Musk has a 'failure warning' for these technology companies; says: Investors have already started betting against them",
+      "description": "[TIMES OF INDIA] Elon Musk has warned that most \u201cneoclouds\u201d, startups that rent out computing power for artificial intelligence (AI), may not survive as access to funding",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-has-a-failure-warning-for-these-technology-companies-says-investors-have-already-started-betting-against-them/articleshow/135227933.cms",
+      "date": "2026-10-27T07:43:00Z"
+    },
+    {
+      "title": "AI to the Rescue? Man Uses ChatGPT\u2019s Computer Vision to Find Lost Earbuds in Minutes",
+      "description": "[REPUBLIC WORLD] Losing a single wireless earbud in a sea of gravel is a classic nightmare. But after scanning the ground for several minutes, one tech-savvy user decided to test a novel solution: asking artificial intelligence to join the search party. Read to know...",
+      "url": "https://www.republicworld.com/viral/ai-to-the-rescue-man-uses-chatgpts-computer-vision-to-find-lost-earbuds-in-minutes-2026-10-27-139762",
+      "date": "2026-10-27T07:42:00Z"
+    },
+    {
+      "title": "Sarvam to build AI for Indian military",
+      "description": "[NEWSBYTES] AI startup Sarvam has entered a five-year memorandum of understanding with the defence ministry to enhance artificial intelligence applications for India's armed forces.",
+      "url": "https://www.newsbytesapp.com/news/science/sarvam-signs-5-year-deal-to-build-ai-for-indian-military/story",
+      "date": "2026-10-27T07:35:46Z"
+    },
+    {
+      "title": "Agentic AI could strengthen financial-crime prevention, but governance, cost hurdles limit adoption: McKinsey",
+      "description": "[LIVEMINT] Agentic artificial intelligence (AI) could reduce the time banks spend on know-your-customer (KYC) processes by 30 to 70 per cent, improving efficiency in financial-crime prevention, but high human oversight costs and challenges related to...",
+      "url": "https://www.livemint.com/technology/agentic-ai-could-strengthen-financial-crime-prevention-but-governance-cost-hurdles-limit-adoption-mckinsey-11793086477778.html",
+      "date": "2026-10-27T07:34:37Z"
+    },
+    {
+      "title": "Agentic AI could strengthen financial-crime prevention, but governance, cost hurdles limit adoption: McKinsey",
+      "description": "[DEVDISCOURSE] Agentic artificial intelligence (AI) could reduce the time banks spend on know-your-customer (KYC) processes by 30 to 70 per cent, improving efficiency in financial-crime prevention, but high human oversight costs and challenges related to...",
+      "url": "https://www.devdiscourse.com/article/business/3997839-agentic-ai-could-strengthen-financial-crime-prevention-but-governance-cost-hurdles-limit-adoption-mckinsey",
+      "date": "2026-10-27T07:33:11Z"
+    },
+    {
+      "title": "Seoul stocks rebound as Anthropic IPO revives AI investment sentiment",
+      "description": "[THE KOREA TIMES] Korean stocks rebounded Tuesday, led by gains in the country\u2019s semiconductor heavyweights, as news of U.S. artificial intelligence (AI) company Ant...",
+      "url": "https://www.koreatimes.co.kr/economy/20261027/seoul-stocks-rebound-as-anthropic-ipo-revives-ai-investment-sentiment",
+      "date": "2026-10-27T07:29:03Z"
+    },
+    {
+      "title": "Sarvam enters defence AI with projects across Army, Navy and Air Force",
+      "description": "[THE ECONOMIC TIMES] Chanakya, Sarvam's firewalled division for national security and defence, will carry out the projects. The unit will use Sarvam's AI stack, including its Sarvam 105B foundation model.",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/sarvam-enters-defence-ai-with-projects-across-army-navy-and-air-force/articleshow/135227528.cms",
+      "date": "2026-10-27T07:27:00Z"
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "date": "2026-10-23T00:00:00Z"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "date": "2026-10-22T22:24:34Z"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "date": "2026-10-22T07:51:31Z"
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "date": "2026-10-21T18:26:30Z"
+    }
+  ]
 }
