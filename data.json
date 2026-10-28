@@ -1,85 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-28 17:15 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI\u2019s AI agents need to catch up",
-            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T18:40:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-            "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platfo\u2026",
-            "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T13:36:06Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2169 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Cancels Release of GPT-6.1 Astra Because It \u2018Regressed\u2019 on Safety",
-            "description": "It doesn\u2019t sound like it morphed into a diabolical hacker. It mostly just screwed up.",
-            "url": "https://gizmodo.com/openai-cancels-release-of-gpt-6-1-astra-because-it-regressed-on-safety-2000818566",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-29T00:08:43Z",
-            "content": "OpenAIs GPT-6.1 Astra was headed for an October release, but that plan has been canceled, according to the Wall Street Journal. The WSJs report comes at least in part from an interview with OpenAIs H\u2026 [+2659 chars]"
-        }
-    ]
+  "updated": "2026-10-28 20:44:06 UTC",
+  "news": [
+    {
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "description": "[TECHCRUNCH] The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "date": "2026-10-28T19:19:58Z"
+    },
+    {
+      "title": "Wiz\u2019s CTO on PHP2Shell and the coming \u2018vulnpocalypse\u2019",
+      "description": "[TECHCRUNCH] The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline...",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "date": "2026-10-28T19:05:46Z"
+    },
+    {
+      "title": "The \u2018Vulnpocalypse\u2019 is coming for the internet\u2019s aging code, says Wiz\u2019s CTO",
+      "description": "[TECHCRUNCH] The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline...",
+      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+      "date": "2026-10-28T18:50:39Z"
+    },
+    {
+      "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "description": "[TECHCRUNCH] The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "date": "2026-10-28T17:00:00Z"
+    },
+    {
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "description": "[TECHCRUNCH] A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "date": "2026-10-28T17:00:00Z"
+    },
+    {
+      "title": "AI execs may be too out of touch to build for the general public",
+      "description": "[TECHCRUNCH] Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "date": "2026-10-28T15:53:52Z"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "date": "2026-10-28T14:58:17Z"
+    },
+    {
+      "title": "Malaysian customs seize $12.1 million in advanced AI chips inside 30 server units at Kuala Lumpur airport, as investigators probe a suspected smuggling network and the country's controls on US-origin",
+      "description": "[TIMES OF INDIA] Malaysian customs authorities have seized advanced artificial intelligence (AI) chips worth about $12.1 million concealed inside 30 server units at Kuala",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/malaysian-customs-seize-12-1-million-in-advanced-ai-chips-inside-30-server-units-at-kuala-lumpur-airport-as-investigators-probe-a-suspected-smuggling-network-and-the-countrys-controls-on-us-origin-technology/articleshow/135258570.cms",
+      "date": "2026-10-28T08:43:00Z"
+    },
+    {
+      "title": "AI cannot replace the human experience of creation: Prasoon Joshi",
+      "description": "[TIMES OF INDIA] Lyricist, writer and filmmaker Prasoon Joshi recently at an event, shared his perspective on the growing role of Artificial Intelligence (AI) in creative",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ai-cannot-replace-the-human-experience-of-creation-prasoon-joshi/articleshow/135258478.cms",
+      "date": "2026-10-28T08:40:00Z"
+    },
+    {
+      "title": "Elon Musk Says SpaceX Is Now a \"Super Intelligence\" Company",
+      "description": "[EUROPE SAYS] Depending on who you talk to and listen to, the term \"artificial intelligence\" is out -- and the term \"super intelligence\" is in. The linguistic pivot",
+      "url": "https://www.europesays.com/3337035/",
+      "date": "2026-10-28T08:35:19Z"
+    },
+    {
+      "title": "Clips target Sherrod Brown in Ohio and James Talarico in Texas",
+      "description": "[WEAU] Social media videos believed to be produced with artificial intelligence and linked to Russia are misusing real people\u2019s names and photographs to spread disinformation",
+      "url": "https://www.weau.com/2026/10/28/disinformation-videos-likely-russia-are-exploiting-real-people-malign-senate-candidates/",
+      "date": "2026-10-28T08:31:19Z"
+    },
+    {
+      "title": "Clips target Sherrod Brown in Ohio and James Talarico in Texas",
+      "description": "[LIVE 5 NEWS WCSC] Social media videos believed to be produced with artificial intelligence and linked to Russia are misusing real people\u2019s names and photographs to spread disinformation",
+      "url": "https://www.live5news.com/2026/10/28/disinformation-videos-likely-russia-are-exploiting-real-people-malign-senate-candidates/",
+      "date": "2026-10-28T08:31:19Z"
+    },
+    {
+      "title": "Clips target Sherrod Brown in Ohio and James Talarico in Texas",
+      "description": "[WIS10] Social media videos believed to be produced with artificial intelligence and linked to Russia are misusing real people\u2019s names and photographs to spread disinformation",
+      "url": "https://www.wistv.com/2026/10/28/disinformation-videos-likely-russia-are-exploiting-real-people-malign-senate-candidates/",
+      "date": "2026-10-28T08:31:19Z"
+    },
+    {
+      "title": "Malaysia cannot build a high-tech nation with low confidence in maths and science - Marini Kasim and Muhammad Noor Abdul Aziz",
+      "description": "[MALAY MAIL] OCTOBER 28 \u2014 We dream of becoming a technologically advanced nation, attracting investments in artificial intelligence, producing world-class engineers and competing in the...",
+      "url": "https://www.malaymail.com/news/what-you-think/2026/10/28/malaysia-cannot-build-a-high-tech-nation-with-low-confidence-in-maths-and-science-marini-kasim-and-muhammad-noor-abdul-aziz/240988",
+      "date": "2026-10-28T08:26:25Z"
+    },
+    {
+      "title": "Risks spelled out for Anthropic investors include blowback from runaway AI",
+      "description": "[PITTSBURGH TRIBUNE-REVIEW] Any time a company looks to start selling shares on Wall Street, it\u2019s required to disclose potential risks to investors. In the case of artificial intelligence giant Anthropic, that has included the possibility that its products could threaten...",
+      "url": "https://triblive.com/news/world/risks-spelled-out-for-anthropic-investors-include-blowback-from-runaway-ai/",
+      "date": "2026-10-28T08:22:32Z"
+    },
+    {
+      "title": "Deakin University GIFT City Campus launches Master of Applied Artificial Intelligence (Professional) with Industry Roundtable in Bengaluru",
+      "description": "[THE TRIBUNE] Bengaluru (Karnataka) [India], October 28: Deakin University has launched its Master of Applied Artificial Intelligence (Professional), expanding its postgraduate offerings at its GIFT City Campus, India\u2019s first international university branch...",
+      "url": "https://www.tribuneindia.com/news/business/deakin-university-gift-city-campus-launches-master-of-applied-artificial-intelligence-professional-with-industry-roundtable-in-bengaluru/",
+      "date": "2026-10-28T08:02:40Z"
+    },
+    {
+      "title": "China's new export curbs draw a line around its AI crown jewels",
+      "description": "[MARKETSCREENER] China's proposed artificial intelligence export curbs will push a business model favoured by Beijing and the industry's biggest players: keeping valuable technology at home while selling access to it...",
+      "url": "https://www.marketscreener.com/news/china-s-new-export-curbs-draw-a-line-around-its-ai-crown-jewels-ce785cd2db8df621",
+      "date": "2026-10-28T08:01:56Z"
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "date": "2026-10-27T17:16:52Z"
+    },
+    {
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "date": "2026-10-27T16:12:42Z"
+    },
+    {
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "date": "2026-10-23T00:00:00Z"
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "date": "2026-10-22T22:24:34Z"
+    },
+    {
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "date": "2026-10-22T07:51:31Z"
+    }
+  ]
 }
