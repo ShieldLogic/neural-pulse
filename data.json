@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-30 17:05 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Hayden Field",
-            "title": "OpenAI\u2019s AI agents need to catch up",
-            "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead i\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-28T18:40:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assistants.\r\nA rumored new Aeon platform could be entering a crowded market of 24/7 assist\u2026 [+5620 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Pearl",
-            "title": "OpenAI Cancels Release of GPT-6.1 Astra Because It \u2018Regressed\u2019 on Safety",
-            "description": "It doesn\u2019t sound like it morphed into a diabolical hacker. It mostly just screwed up.",
-            "url": "https://gizmodo.com/openai-cancels-release-of-gpt-6-1-astra-because-it-regressed-on-safety-2000818566",
-            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
-            "publishedAt": "2026-09-29T00:08:43Z",
-            "content": "OpenAIs GPT-6.1 Astra was headed for an October release, but that plan has been canceled, according to the Wall Street Journal. The WSJs report comes at least in part from an interview with OpenAIs H\u2026 [+2659 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        }
-    ]
+  "updated": "2026-10-30 20:20:00 UTC",
+  "news": [
+    {
+      "title": "nemotron-halloween",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "date": "2026-10-30T17:57:24Z"
+    },
+    {
+      "title": "Zest\u2019s new AI agent finds restaurants and books reservations over text",
+      "description": "[TECHCRUNCH] Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "date": "2026-10-30T17:47:12Z"
+    },
+    {
+      "title": "Google\u2019s first data center satellite is online and writing poetry",
+      "description": "[TECHCRUNCH] The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "date": "2026-10-30T17:00:00Z"
+    },
+    {
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is \u2018a great opportunity to go deceive people\u2019",
+      "description": "[TECHCRUNCH] The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "date": "2026-10-30T16:03:45Z"
+    },
+    {
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "description": "[TECHCRUNCH] At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before...",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "date": "2026-10-30T14:00:00Z"
+    },
+    {
+      "title": "DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents",
+      "description": "[TECHCRUNCH] DoorDash said that it is open to working with third-party agent makers.",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "date": "2026-10-30T13:54:25Z"
+    },
+    {
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "description": "[TECHCRUNCH] 5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+      "date": "2026-10-30T13:00:00Z"
+    },
+    {
+      "title": "What to consider if a company that made AI-related job cuts wants you back",
+      "description": "[THE MANILA TIMES] NEW YORK \u2014 Companies around the world are increasingly citing artificial intelligence when slashing jobs, fueling anxiety that a lot more workers may lose their livelihoods to machines.",
+      "url": "https://www.manilatimes.net/2026/10/30/entertainment-lifestyle/life-times/what-to-consider-if-a-company-that-made-ai-related-job-cuts-wants-you-back/2458051",
+      "date": "2026-10-30T08:04:00Z"
+    },
+    {
+      "title": "Centric Guidelines on Agentic AI Liability, Addresses Accountability in Autonomous Systems",
+      "description": "[LOKMAT TIMES] DSCI Issues India-Centric Guidelines on Agentic AI Liability, Addresses Accountability in Autonomous Systems - New Delhi: The Data Security Council of India (DSCI) has released crucial India-centric guidelines on the liability of Agentic ... Get...",
+      "url": "https://www.lokmattimes.com/business/dsci-issues-india-centric-guidelines-on-agentic-ai-liability-addresses-accountability-in-autonomous-systems-a001-w03/",
+      "date": "2026-10-30T08:03:27Z"
+    },
+    {
+      "title": "Can AWS growth help Amazon shares rebound from the post-earnings selloff?",
+      "description": "[THE ECONOMIC TIMES] Amazon shares came under heavy selling pressure in after-hours trading on Thursday, October 29, after the e-commerce giant reported third-quarter earnings and revenue below Wall Street expectations. The stock fell more than 9% following the results,...",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-aws-growth-help-amazon-shares-rebound-from-the-post-earnings-selloff/slideshow/135350722.cms",
+      "date": "2026-10-30T07:59:00Z"
+    },
+    {
+      "title": "AI goes for techbro jugular: Amazon, Intel, Google discover that earnings and humans matter",
+      "description": "[THE WEEK] Massive artificial intelligence infrastructure costs and heavy data centre spending triggered a major Wall Street selloff for tech giants like Alphabet, Amazon, Intel, and Meta.",
+      "url": "https://www.theweek.in/news/biz-tech/2026/10/30/ai-spending-triggers-tech-selloff.html",
+      "date": "2026-10-30T07:49:44Z"
+    },
+    {
+      "title": "Huawei Releases Industry O&M Solutions",
+      "description": "[PR NEWSWIRE UK] /PRNewswire/ -- The Industry O&M Session of HUAWEI CONNECT 2026 was held at the Shanghai Expo Center under the theme \"Agentic AI Redefining the New O&M...",
+      "url": "https://www.prnewswire.co.uk/news-releases/huawei-releases-industry-om-solutions-302924733.html",
+      "date": "2026-10-30T07:49:00Z"
+    },
+    {
+      "title": "DSCI Releases India-Focused AI Liability Guide for Agentic AI",
+      "description": "[DECCAN CHRONICLE] The guide aims to clarify accountability when autonomous AI agents act and something goes wrong.",
+      "url": "https://www.deccanchronicle.com/nation/dsci-releases-india-focused-ai-liability-guide-for-agentic-ai-2000232",
+      "date": "2026-10-30T07:44:06Z"
+    },
+    {
+      "title": "ServiceNow battered after guidance announced",
+      "description": "[MARKETSCREENER] ServiceNow reported quarterly results that were generally above expectations, supported by the strength of its core businesses and the growing adoption of its artificial intelligence solutions. The...",
+      "url": "https://www.marketscreener.com/news/servicenow-battered-after-guidance-announced-ce785fdada89f326",
+      "date": "2026-10-30T07:40:32Z"
+    },
+    {
+      "title": "European futures mixed; US tech disappoints",
+      "description": "[MARKETSCREENER] European stock markets are set to open lower on Friday as disappointing results from US tech giants fuel a fresh global selloff in technology and artificial intelligence-related stocks, encouraging...",
+      "url": "https://www.marketscreener.com/news/european-futures-mixed-us-tech-disappoints-ce785fdbd888f22c",
+      "date": "2026-10-30T07:33:44Z"
+    },
+    {
+      "title": "PH launches AI masterplan to build regional infrastructure hub",
+      "description": "[THE MANILA TIMES] LAPU-LAPU CITY \u2014 The Philippines wants to move beyond using artificial intelligence and develop its own AI-powered services, products and infrastructure, with a new government roadmap expected to build on the transformation of its information...",
+      "url": "https://www.manilatimes.net/2026/10/30/regions/ph-launches-ai-masterplan-to-build-regional-infrastructure-hub/2458045",
+      "date": "2026-10-30T07:33:00Z"
+    },
+    {
+      "title": "India ranks second globally in AI-powered shopping, 76% consumers use AI tools: McKinsey",
+      "description": "[LIVEMINT] India is among the world's leading markets for AI-powered shopping, with 76 per cent of consumers using artificial intelligence tools to search for products, compare choices or make purchase decisions, according to a report by McKinsey, which...",
+      "url": "https://www.livemint.com/technology/india-ranks-second-globally-in-ai-powered-shopping-76-consumers-use-ai-tools-mckinsey-11793345395158.html",
+      "date": "2026-10-30T07:29:54Z"
+    },
+    {
+      "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "date": "2026-10-29T13:37:07Z"
+    },
+    {
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "date": "2026-10-29T00:00:00Z"
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "date": "2026-10-29T00:00:00Z"
+    },
+    {
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "date": "2026-10-29T00:00:00Z"
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "date": "2026-10-27T17:16:52Z"
+    }
+  ]
 }
