@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-10-31 16:13 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Sam Altman says \u2018some bad things\u2019 will happen but AI is totally worth it",
-            "description": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will d\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294958253.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-10-05T16:44:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nBecause people will do tremendously orders of magnitude more good stuff\r\nBecause people will do tremendously orders of magnitude more good stuff\r\nby\r\nRobert Hart\u2026 [+4870 chars]"
-        }
-    ]
+  "updated": "2026-10-31 19:40:35 UTC",
+  "news": [
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "description": "[TECHCRUNCH] OpenAI\u2019s latest funding round doesn't seem to be living up to expectations.",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "date": "2026-10-31T16:12:55Z"
+    },
+    {
+      "title": "What's fuelling the Nasdaq crash? AI spending fears, Intel rout and Anthropic debt concerns drive selloff",
+      "description": "[MONEYCONTROL] Big Tech\u2019s record investments in artificial intelligence are raising questions about when the spending will translate into profits, even as demand for AI services continues to grow.",
+      "url": "https://www.moneycontrol.com/news/business/markets/what-s-causing-the-nasdaq-crash-ai-spending-fears-intel-rout-and-anthropic-debt-concerns-14065005.html",
+      "date": "2026-10-31T07:35:22Z"
+    },
+    {
+      "title": "Crypto Hack Tracker Chainalysis Confirms It Was Hit by Agentic AI-Driven Cyberattack",
+      "description": "[COINGAPE] Crypto firm Chainalysis suffered an agentic AI cyberattack amid the Binance hack, breaching customer names, email addresses, and user IDs.",
+      "url": "https://coingape.com/crypto-hack-tracker-chainalysis-confirms-it-was-hit-by-agentic-ai-driven-cyberattack/",
+      "date": "2026-10-31T06:48:23Z"
+    },
+    {
+      "title": "Make AI support accessible to all SMEs, urges PUMM",
+      "description": "[THE STAR] RESTAURANTS, retailers and other everyday businesses must have access to artificial intelligence support to help them manage rising costs and improve productivity, says the Malaysia Entrepreneurs Development Association (PUMM).",
+      "url": "https://www.thestar.com.my/metro/metro-news/2026/10/31/make-ai-support-accessible-to-all-smes-urges-pumm",
+      "date": "2026-10-31T06:48:00Z"
+    },
+    {
+      "title": "The story of AI giant Anthropic in three numbers",
+      "description": "[THE IRISH TIMES] IPO filing raises open questions about state of company\u2019s business and wider artificial intelligence sector",
+      "url": "https://www.irishtimes.com/business/markets/2026/10/31/the-story-of-ai-giant-anthropic-in-three-numbers/",
+      "date": "2026-10-31T06:00:00Z"
+    },
+    {
+      "title": "Binance's $6.3 bn hack signals the start of a risky era for crypto security",
+      "description": "[BUSINESS STANDARD] The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds",
+      "url": "https://www.business-standard.com/markets/cryptocurrency/binance-s-6-3-bn-hack-signals-the-start-of-a-risky-era-for-crypto-security-126103100424_1.html",
+      "date": "2026-10-31T05:39:12Z"
+    },
+    {
+      "title": "Canada, EU Launch Alliance for Economic and Security Cooperation",
+      "description": "[THE NATION] Canada and the EU launch a new strategic alliance covering critical minerals, energy, artificial intelligence, digital trade and defence cooperation at the Montreal",
+      "url": "https://www.nation.com.pk/31-Oct-2026/canada-eu-launch-alliance-strengthen-economic-defence-technology-ties",
+      "date": "2026-10-31T05:23:00Z"
+    },
+    {
+      "title": "Google's 'Project Suncatcher' achieves first successful AI response from space",
+      "description": "[THE ECONOMIC TIMES] In a groundbreaking achievement, Google has successfully implemented an artificial intelligence model aboard a prototype satellite, marking a significant milestone for Project Suncatcher. Once launched, the satellite underwent initial tests where it...",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/googles-project-suncatcher-achieves-first-successful-ai-response-from-space/articleshow/135388982.cms",
+      "date": "2026-10-31T05:07:23Z"
+    },
+    {
+      "title": "\u2018Evaluators\u2019 are supposed to protect humans from AI",
+      "description": "[ABC17NEWS.COM] By Khari Johnson for CalMatters In a world increasingly concerned about serious risks from artificial intelligence, policymakers trying to mitigate those risks find themselves turning more and more to a new class of professionals: AI evaluators, who...",
+      "url": "https://abc17news.com/stacker-ai/2026/10/30/evaluators-are-supposed-to-protect-humans-from-ai/",
+      "date": "2026-10-31T04:40:11Z"
+    },
+    {
+      "title": "Google's \u2018Project Suncatcher\u2019 achieves first successful AI response from space",
+      "description": "[DEVDISCOURSE] Google has successfully run an artificial intelligence (AI) model on a satellite in orbit and received its first complete response back on Earth, marking a key milestone in its Project Suncatcher initiative to explore the possibility of running AI...",
+      "url": "https://www.devdiscourse.com/article/business/3999904-googles-project-suncatcher-achieves-first-successful-ai-response-from-space",
+      "date": "2026-10-31T04:36:51Z"
+    },
+    {
+      "title": "NATO commander urges Canada to invest in drones and AI to strengthen military",
+      "description": "[THE NEWS INTERNATIONAL] A senior NATO commander has urged Canada to invest in artificial intelligence and advanced military drones as the country prepares to increase defence spending by billions of dollars.Speaking to...",
+      "url": "https://www.thenews.com.pk/latest/1421937-nato-commander-urges-canada-to-invest-in-drones-and-ai-to-strengthen-military",
+      "date": "2026-10-31T04:09:21Z"
+    },
+    {
+      "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
+      "description": "[TECHCRUNCH] When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "date": "2026-10-31T01:20:05Z"
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "description": "[TECHCRUNCH] As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "date": "2026-10-30T22:56:13Z"
+    },
+    {
+      "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
+      "description": "[TECHCRUNCH] Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "date": "2026-10-30T21:54:34Z"
+    },
+    {
+      "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
+      "description": "[TECHCRUNCH] Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "date": "2026-10-30T21:52:03Z"
+    },
+    {
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "description": "[TECHCRUNCH] No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "date": "2026-10-30T21:26:59Z"
+    },
+    {
+      "title": "nemotron-halloween",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "date": "2026-10-30T17:57:24Z"
+    },
+    {
+      "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "date": "2026-10-29T13:37:07Z"
+    },
+    {
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "date": "2026-10-29T00:00:00Z"
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "date": "2026-10-29T00:00:00Z"
+    },
+    {
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "date": "2026-10-29T00:00:00Z"
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "date": "2026-10-27T17:16:52Z"
+    }
+  ]
 }
