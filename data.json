@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-11-02 20:51 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Sam Altman says \u2018some bad things\u2019 will happen but AI is totally worth it",
-            "description": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will d\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294958253.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-10-05T16:44:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nBecause people will do tremendously orders of magnitude more good stuff\r\nBecause people will do tremendously orders of magnitude more good stuff\r\nby\r\nRobert Hart\u2026 [+4870 chars]"
-        }
-    ]
+  "updated": "2026-11-02 23:16:54 UTC",
+  "news": [
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "description": "[TECHCRUNCH] The one-year-old startup is now valued at $300 million.",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "date": "2026-11-02T23:13:53Z"
+    },
+    {
+      "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
+      "description": "[TECHCRUNCH] RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "date": "2026-11-02T22:14:50Z"
+    },
+    {
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "description": "[TECHCRUNCH] The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "date": "2026-11-02T19:25:59Z"
+    },
+    {
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "description": "[TECHCRUNCH] The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet\u2019s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "date": "2026-11-02T19:19:17Z"
+    },
+    {
+      "title": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
+      "description": "[TECHCRUNCH] Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "date": "2026-11-02T16:30:00Z"
+    },
+    {
+      "title": "Elon Musk throttles Grok Bot limits due to \u2018unsustainably high\u2019 costs",
+      "description": "[TECHCRUNCH] Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "date": "2026-11-02T16:23:21Z"
+    },
+    {
+      "title": "Agent\u201d AI Design to Coordinate Multiple Agents With Less Human Oversight \u2013 NaturalNews.com",
+      "description": "[NATURAL NEWS] DeepSeek has unveiled the design of a new \u201cSuper-Agent\u201d system intended to coordinate multiple AI assistants, automate complex workflows and reduce the need for human supervision, as the Chinese artificial intelligence company steps up its efforts...",
+      "url": "https://www.naturalnews.com/2026-11-02-deepseek-unveils-super-agent-to-coordinate-multiple-agents.html",
+      "date": "2026-11-02T11:10:25Z"
+    },
+    {
+      "title": "ADNOC signs landmark partnership with OpenAI and G42 to integrate frontier AI models for operational and commercial planning in UAE",
+      "description": "[THE TRIBUNE] Abu Dhabi National Oil Company (ADNOC) has signed a partnership with artificial intelligence company OpenAI and technology group G42, becoming the first energy company globally to deploy OpenAI frontier technology.",
+      "url": "https://www.tribuneindia.com/news/business/adnoc-signs-landmark-partnership-with-openai-and-g42-to-integrate-frontier-ai-models-for-operational-and-commercial-planning-in-uae/",
+      "date": "2026-11-02T11:02:27Z"
+    },
+    {
+      "title": "ADNOC signs landmark partnership with OpenAI and G42 to integrate frontier AI models for operational and commercial planning in UAE",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Abu Dhabi National Oil Company (ADNOC) has signed a partnership with artificial intelligence company OpenAI and technology group G42, becoming the first energy company globally to deploy OpenAI frontier technology.",
+      "url": "https://www.aninews.in/news/business/adnoc-signs-landmark-partnership-with-openai-and-g42-to-integrate-frontier-ai-models-for-operational-and-commercial-planning-in-uae20261102162852/",
+      "date": "2026-11-02T10:58:52Z"
+    },
+    {
+      "title": "Notre Dame director to lead presentation on AI at Seton Hill University in Greensburg",
+      "description": "[PITTSBURGH TRIBUNE-REVIEW] The founding director of the University of Notre Dame\u2019s Technology and Digital Studies program will give a presentation Tuesday about artificial intelligence in Greensburg. John Behrens will present \u201cBabel or Jerusalem? AI, Daily Life & the Common...",
+      "url": "https://triblive.com/local/westmoreland/notre-dame-director-to-lead-presentation-on-ai-at-seton-hill-university-in-greensburg/",
+      "date": "2026-11-02T10:48:28Z"
+    },
+    {
+      "title": "Stanford researcher Dr Ishan Shivanand launches white paper on wisdom framework for AI at IIT Ropar",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] The white paper, co-authored with Dr. Anjali Samani, a former AI and data science executive at Salesforce, describes how wisdom in artificial intelligence can be defined, measured and tested. It draws on Dr. Shivanand\u2019s reading of the Shiv Sutras...",
+      "url": "https://www.aninews.in/news/national/general-news/stanford-researcher-dr-ishan-shivanand-launches-white-paper-on-wisdom-framework-for-ai-at-iit-ropar20261102161805/",
+      "date": "2026-11-02T10:48:05Z"
+    },
+    {
+      "title": "AI models mostly smarter than top scientists, OpenAI's Altman says",
+      "description": "[THE NATION] Advanced artificial intelligence (AI) models have progressed to become mostly smarter than the brightest scientists and capable of performing significant portions of",
+      "url": "https://www.nation.com.pk/02-Nov-2026/ai-models-mostly-smarter-top-scientists-openai-s-altman-says",
+      "date": "2026-11-02T10:48:00Z"
+    },
+    {
+      "title": "Apple CEO John Ternus takes a different approach to AI race, says for Apple what matters is\u2026",
+      "description": "[TIMES OF INDIA] As tech giants race to deploy artificial intelligence (AI) tools and autonomous agents across every layer of computing, Apple\u2019s new CEO John Ternus is",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/apple-ceo-john-ternus-takes-a-different-approach-to-ai-race-says-for-apple-what-matters-is/articleshow/135455543.cms",
+      "date": "2026-11-02T10:42:00Z"
+    },
+    {
+      "title": "Sensex, Nifty rally over 1.6% on Q2 earnings, foreign investor buying",
+      "description": "[DEVDISCOURSE] Indian equity markets ended sharply higher on Monday, with the Sensex and Nifty gaining over 1.6 per cent, supported by better-than-expected second-quarter earnings, improving domestic economic indicators and foreign investors turning buyers amid a...",
+      "url": "https://www.devdiscourse.com/article/business/4000638-sensex-nifty-rally-over-16-on-q2-earnings-foreign-investor-buying",
+      "date": "2026-11-02T10:29:18Z"
+    },
+    {
+      "title": "Sensex, Nifty rally over 1.6% on Q2 earnings, foreign investor buying",
+      "description": "[THE TRIBUNE] Indian equity markets ended sharply higher on Monday, with the Sensex and Nifty gaining over 1.6 per cent, supported by better-than-expected second-quarter earnings, improving domestic economic indicators and foreign investors turning buyers amid a...",
+      "url": "https://www.tribuneindia.com/news/business/sensex-nifty-rally-over-1-6-on-q2-earnings-foreign-investor-buying/",
+      "date": "2026-11-02T10:27:33Z"
+    },
+    {
+      "title": "Sensex, Nifty rally over 1.6% on Q2 earnings, foreign investor buying",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Indian equity markets ended sharply higher on Monday, with the Sensex and Nifty gaining over 1.6 per cent, supported by better-than-expected second-quarter earnings, improving domestic economic indicators and foreign investors turning buyers amid a...",
+      "url": "https://www.aninews.in/news/business/sensex-nifty-rally-over-16-on-q2-earnings-foreign-investor-buying20261102155403/",
+      "date": "2026-11-02T10:24:03Z"
+    },
+    {
+      "title": "nemotron-halloween",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "date": "2026-10-30T17:57:24Z"
+    },
+    {
+      "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "date": "2026-10-29T13:37:07Z"
+    },
+    {
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "date": "2026-10-29T00:00:00Z"
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "date": "2026-10-29T00:00:00Z"
+    },
+    {
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "date": "2026-10-29T00:00:00Z"
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "date": "2026-10-27T17:16:52Z"
+    }
+  ]
 }
