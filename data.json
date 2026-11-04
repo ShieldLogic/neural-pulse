@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-11-04 18:45 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Sam Altman says \u2018some bad things\u2019 will happen but AI is totally worth it",
-            "description": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will d\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294958253.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-10-05T16:44:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nBecause people will do tremendously orders of magnitude more good stuff\r\nBecause people will do tremendously orders of magnitude more good stuff\r\nby\r\nRobert Hart\u2026 [+4870 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Shubhangi Goel",
-            "title": "What is Beam? The buzzy American AI model being called the 'DeepSeek of the West'",
-            "description": "The company says it rivals some of China's leading open models while using far less computing power.",
-            "url": "https://www.businessinsider.com/what-is-beam-american-ai-model-deepseek-of-the-west-2026-10#article",
-            "urlToImage": "https://i.insider.com/6ac47804225e4c4a50a382f5?width=1200&format=jpeg",
-            "publishedAt": "2026-10-06T06:31:01Z",
-            "content": "Reflection AI is a New York-based AI lab.kolderal/Getty Images\r\n<ul><li>Reflection AI's first model is here.</li><li>Beam is a text-based model designed for coding and reasoning tasks.</li><li>Beam i\u2026 [+3191 chars]"
-        }
-    ]
+  "updated": "2026-11-04 23:07:53 UTC",
+  "news": [
+    {
+      "title": "AI PACs spent millions trying to shape Congress \u2014 here\u2019s how they fared",
+      "description": "[TECHCRUNCH] AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "date": "2026-11-04T22:45:09Z"
+    },
+    {
+      "title": "Nothing CEO says company\u2019s mysterious AI-first device is dropping next month",
+      "description": "[TECHCRUNCH] While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "date": "2026-11-04T22:13:16Z"
+    },
+    {
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "description": "[TECHCRUNCH] During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "date": "2026-11-04T21:56:01Z"
+    },
+    {
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "description": "[TECHCRUNCH] OpenAI\u2019s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant\u2019s own business interests.",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "date": "2026-11-04T21:25:44Z"
+    },
+    {
+      "title": "Meta acquires AI coding startup Conductor",
+      "description": "[TECHCRUNCH] The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "date": "2026-11-04T21:10:56Z"
+    },
+    {
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "description": "[TECHCRUNCH] Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies...",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "date": "2026-11-04T19:30:04Z"
+    },
+    {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "date": "2026-11-04T17:50:10Z"
+    },
+    {
+      "title": "Annie Chestnut Tutor and Jonathan Butcher: Setting guidelines for using AI in the classroom",
+      "description": "[PITTSBURGH TRIBUNE-REVIEW] Teachers are doing their best to guide student use of artificial intelligence, but it\u2019s clear that some boundaries are desperately needed. Stop signs are common. Before the start of this school year, New York City officials banned the use of...",
+      "url": "https://triblive.com/opinion/annie-chestnut-tutor-and-jonathan-butcher-setting-guidelines-for-using-ai-in-the-classroom/",
+      "date": "2026-11-04T11:00:00Z"
+    },
+    {
+      "title": "NPCI launches tech subsidiary NTSL to focus on AI, blockchain; appoints Vishal Kanvaty as CEO",
+      "description": "[BUSINESS TODAY] NPCI Tech Solutions Limited will expand the group's capabilities beyond digital payments, focusing on artificial intelligence, blockchain, digital financial infrastructure and Global Capability Centre services.",
+      "url": "https://www.businesstoday.in/technology/news/story/npci-launches-tech-subsidiary-ntsl-to-focus-on-ai-blockchain-appoints-vishal-kanvaty-as-ceo-565717-2026-11-04",
+      "date": "2026-11-04T10:58:46Z"
+    },
+    {
+      "title": "AI moves beyond recommendations to reshape entire shopping experience on e-commerce apps: Report",
+      "description": "[DEVDISCOURSE] Artificial intelligence (AI) is transforming the way e-commerce applications personalise the shopping experience, moving beyond conventional product recommendations to potentially influence the entire interface customers see when they open an app,...",
+      "url": "https://www.devdiscourse.com/article/business/4001534-ai-moves-beyond-recommendations-to-reshape-entire-shopping-experience-on-e-commerce-apps-report",
+      "date": "2026-11-04T10:50:27Z"
+    },
+    {
+      "title": "AI moves beyond recommendations to reshape entire shopping experience on e-commerce apps: Report",
+      "description": "[LIVEMINT] Artificial intelligence (AI) is transforming the way e-commerce applications personalise the shopping experience, moving beyond conventional product recommendations to potentially influence the entire interface customers see when they open an app,...",
+      "url": "https://www.livemint.com/technology/ai-moves-beyond-recommendations-to-reshape-entire-shopping-experience-on-e-commerce-apps-report-11793789314254.html",
+      "date": "2026-11-04T10:48:33Z"
+    },
+    {
+      "title": "AI moves beyond recommendations to reshape entire shopping experience on e",
+      "description": "[THE TRIBUNE] Artificial intelligence (AI) is transforming the way e-commerce applications personalise the shopping experience, moving beyond conventional product recommendations to potentially influence the entire interface customers see when they open an app,...",
+      "url": "https://www.tribuneindia.com/news/business/ai-moves-beyond-recommendations-to-reshape-entire-shopping-experience-on-e-commerce-apps-report/",
+      "date": "2026-11-04T10:47:26Z"
+    },
+    {
+      "title": "AI server capacitor shortage set to peak in early 2027, boosting demand for Samsung Electro-Mechanics",
+      "description": "[DEVDISCOURSE] A growing shortage of high-performance capacitors used in artificial intelligence (AI) servers is expected to intensify in early 2027, as rising demand for processors and memory drives new supply contracts for Samsung Electro-Mechanics and a major...",
+      "url": "https://www.devdiscourse.com/article/business/4001522-ai-server-capacitor-shortage-set-to-peak-in-early-2027-boosting-demand-for-samsung-electro-mechanics",
+      "date": "2026-11-04T10:45:35Z"
+    },
+    {
+      "title": "AI moves beyond recommendations to reshape entire shopping experience on e",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Artificial intelligence (AI) is transforming the way e-commerce applications personalise the shopping experience, moving beyond conventional product recommendations to potentially influence the entire interface customers see when they open an app,...",
+      "url": "https://www.aninews.in/news/business/ai-moves-beyond-recommendations-to-reshape-entire-shopping-experience-on-e-commerce-apps-report16020261104161325/",
+      "date": "2026-11-04T10:43:25Z"
+    },
+    {
+      "title": "AI server capacitor shortage set to peak in early 2027, boosting demand for Samsung Electro",
+      "description": "[THE TRIBUNE] A growing shortage of high-performance capacitors used in artificial intelligence (AI) servers is expected to intensify in early 2027, as rising demand for processors and memory drives new supply contracts for Samsung Electro-Mechanics and a major...",
+      "url": "https://www.tribuneindia.com/news/business/ai-server-capacitor-shortage-set-to-peak-in-early-2027-boosting-demand-for-samsung-electro-mechanics/",
+      "date": "2026-11-04T10:37:51Z"
+    },
+    {
+      "title": "AI bubble is coming, and there is no way out! Ashwath Damodaran explains what investors should do before the crash begins",
+      "description": "[THE ECONOMIC TIMES] Valuation expert Aswath Damodaran believes an AI bubble is inevitable and investors cannot avoid its impact entirely. In a recent podcast, he traced the AI frenzy to ChatGPT's 2022 launch, which brought artificial intelligence into public...",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-bubble-is-coming-and-there-is-no-way-out-ashwath-damodaran-explains-what-investors-should-do-before-the-crash-begins/articleshow/135535989.cms",
+      "date": "2026-11-04T10:33:00Z"
+    },
+    {
+      "title": "AI server capacitor shortage set to peak in early 2027, boosting demand for Samsung Electro-Mechanics",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] A growing shortage of high-performance capacitors used in artificial intelligence (AI) servers is expected to intensify in early 2027, as rising demand for processors and memory drives new supply contracts for Samsung Electro-Mechanics and a major...",
+      "url": "https://www.aninews.in/news/business/ai-server-capacitor-shortage-set-to-peak-in-early-2027-boosting-demand-for-samsung-electro-mechanics20261104160137/",
+      "date": "2026-11-04T10:31:37Z"
+    },
+    {
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "date": "2026-11-03T17:15:21Z"
+    },
+    {
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "date": "2026-11-03T16:35:36Z"
+    },
+    {
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "date": "2026-11-03T00:00:00Z"
+    },
+    {
+      "title": "Transformers Model Integration Contracts",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "date": "2026-11-03T00:00:00Z"
+    },
+    {
+      "title": "nemotron-halloween",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "date": "2026-10-30T17:57:24Z"
+    }
+  ]
 }
