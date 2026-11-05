@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-11-05 18:53 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "Sam Altman says \u2018some bad things\u2019 will happen but AI is totally worth it",
-            "description": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will d\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294958253.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-            "publishedAt": "2026-10-05T16:44:21Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nBecause people will do tremendously orders of magnitude more good stuff\r\nBecause people will do tremendously orders of magnitude more good stuff\r\nby\r\nRobert Hart\u2026 [+4870 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Shubhangi Goel",
-            "title": "What is Beam? The buzzy American AI model being called the 'DeepSeek of the West'",
-            "description": "The company says it rivals some of China's leading open models while using far less computing power.",
-            "url": "https://www.businessinsider.com/what-is-beam-american-ai-model-deepseek-of-the-west-2026-10#article",
-            "urlToImage": "https://i.insider.com/6ac47804225e4c4a50a382f5?width=1200&format=jpeg",
-            "publishedAt": "2026-10-06T06:31:01Z",
-            "content": "Reflection AI is a New York-based AI lab.kolderal/Getty Images\r\n<ul><li>Reflection AI's first model is here.</li><li>Beam is a text-based model designed for coding and reasoning tasks.</li><li>Beam i\u2026 [+3191 chars]"
-        }
-    ]
+  "updated": "2026-11-05 20:54:41 UTC",
+  "news": [
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "description": "[TECHCRUNCH] Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "date": "2026-11-05T19:48:28Z"
+    },
+    {
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "date": "2026-11-05T19:35:16Z"
+    },
+    {
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "description": "[TECHCRUNCH] Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "date": "2026-11-05T19:12:39Z"
+    },
+    {
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "description": "[TECHCRUNCH] OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "date": "2026-11-05T19:06:12Z"
+    },
+    {
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "description": "[TECHCRUNCH] OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "date": "2026-11-05T18:02:27Z"
+    },
+    {
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "description": "[TECHCRUNCH] With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "date": "2026-11-05T18:00:00Z"
+    },
+    {
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "description": "[TECHCRUNCH] As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup\u2019s AI agents just formally verified the Stacks Project, one of the field\u2019s biggest libraries.",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "date": "2026-11-05T16:16:45Z"
+    },
+    {
+      "title": "Use AI wisely for medical and dental advice - Azlida Mohd Nor and Goh Yet Ching",
+      "description": "[MALAY MAIL] NOVEMBER 5 \u2014 Artificial intelligence (AI) is rapidly changing the way we seek and receive information, including information about our health. Today, many people use...",
+      "url": "https://www.malaymail.com/news/what-you-think/2026/11/05/use-ai-wisely-for-medical-and-dental-advice-azlida-mohd-nor-and-goh-yet-ching/242076",
+      "date": "2026-11-05T08:28:40Z"
+    },
+    {
+      "title": "Apple Cuts Employees' AI Usage Budgets to Contain Costs",
+      "description": "[MARKETSCREENER] Apple has begun restricting the budgets allocated to employees for using artificial intelligence tools, according to Bloomberg. The initiative is part of a cost-control policy, as the iPhone maker...",
+      "url": "https://www.marketscreener.com/news/apple-cuts-employees-ai-usage-budgets-to-contain-costs-ce785fdcd889ff2c",
+      "date": "2026-11-05T08:28:33Z"
+    },
+    {
+      "title": "Driven Robotic Lab for Coating Discovery",
+      "description": "[EUROPEAN COATINGS] Researchers at the University of Nottingham have developed a self-driving laboratory that combines artificial intelligence and robotics to automate the discovery of heat-resistant coatings. The system integrates liquid dispensing, robotic handling...",
+      "url": "https://www.european-coatings.com/news/coatings-technologies/nottingham-launches-ai-driven-robotic-lab-for-coating-discovery/",
+      "date": "2026-11-05T08:25:56Z"
+    },
+    {
+      "title": "China blocks SoftBank's $5.4 billion takeover of ABB's robotics division: FT",
+      "description": "[THE ECONOMIC TIMES] Softbank had agreed to buy ABB's robotics business in October last year, as CEO Masayoshi Son sought to establish SoftBank as a core player in the development of artificial intelligence.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/china-blocks-softbanks-5-4-billion-takeover-of-abbs-robotics-division-ft/articleshow/135565365.cms",
+      "date": "2026-11-05T08:19:53Z"
+    },
+    {
+      "title": "AI Could Add $79 Billion To India's GDP In 10 Years As 89% Of Young Indians Show Interest In Using Artificial Intelligence",
+      "description": "[FREE PRESS JOURNAL] AI could add $79.1 billion to India",
+      "url": "https://www.freepressjournal.in/tech/ai-could-add-79-billion-to-indias-gdp-in-10-years-as-89-of-young-indians-show-interest-in-using-artificial-intelligence",
+      "date": "2026-11-05T08:09:21Z"
+    },
+    {
+      "title": "Canva announces layoffs, job changes for more than one-fifth of workforce",
+      "description": "[THE STAR] Canva Inc announced job cuts and a sweeping overhaul that will impact more than one-fifth of the workforce, as artificial intelligence forces a structural reckoning at one of Australia's highest-profile technology companies.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/05/canva-announces-layoffs-job-changes-for-more-than-one-fifth-of-workforce",
+      "date": "2026-11-05T08:00:00Z"
+    },
+    {
+      "title": "Maersk ups 2026 profit guidance again as rates stay high",
+      "description": "[RTE.IE] Danish shipping group Maersk has raised its 2026 profit guidance for a third time, as congested ports, strong consumer demand and investments into artificial intelligence kept container freight rates elevated.",
+      "url": "https://www.rte.ie/news/business/2026/1105/1598060-maersk-ups-2026-profit-guidance-again-as-rates-stay-high/",
+      "date": "2026-11-05T07:49:44Z"
+    },
+    {
+      "title": "Pathways World School Sets New Direction for Responsible AI in Education",
+      "description": "[THE TRIBUNE] New Delhi [India], November 5: The IB school brings together international experts, educators, students and parents to develop a structured approach to AI governance, literacy and classroom use.",
+      "url": "https://www.tribuneindia.com/news/business/pathways-world-school-sets-new-direction-for-responsible-ai-in-education/",
+      "date": "2026-11-05T07:47:39Z"
+    },
+    {
+      "title": "Pathways World School Sets New Direction for Responsible AI in Education",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] New Delhi [India], November 5: The IB school brings together international experts, educators, students and parents to develop a structured approach to AI governance, literacy and classroom use.",
+      "url": "https://www.aninews.in/news/business/pathways-world-school-sets-new-direction-for-responsible-ai-in-education20261105131311/",
+      "date": "2026-11-05T07:43:11Z"
+    },
+    {
+      "title": "AI to reshape India's office space demand, workforce seen at 48 million by 2030: Report",
+      "description": "[THE TRIBUNE] Artificial intelligence (AI) is expected to change the nature of India's office space demand rather than reduce it, with the country's office-using workforce projected to grow from around 38 million in 2025 to 48 million by 2030, according to a...",
+      "url": "https://www.tribuneindia.com/news/business/ai-to-reshape-indias-office-space-demand-workforce-seen-at-48-million-by-2030-report/",
+      "date": "2026-11-05T07:37:25Z"
+    },
+    {
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "date": "2026-11-05T00:00:00Z"
+    },
+    {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "date": "2026-11-04T17:50:10Z"
+    },
+    {
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "date": "2026-11-03T17:15:21Z"
+    },
+    {
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "date": "2026-11-03T16:35:36Z"
+    },
+    {
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "date": "2026-11-03T00:00:00Z"
+    }
+  ]
 }
