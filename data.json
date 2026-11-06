@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-11-06 18:14 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Shubhangi Goel",
-            "title": "What is Beam? The buzzy American AI model being called the 'DeepSeek of the West'",
-            "description": "The company says it rivals some of China's leading open models while using far less computing power.",
-            "url": "https://www.businessinsider.com/what-is-beam-american-ai-model-deepseek-of-the-west-2026-10#article",
-            "urlToImage": "https://i.insider.com/6ac47804225e4c4a50a382f5?width=1200&format=jpeg",
-            "publishedAt": "2026-10-06T06:31:01Z",
-            "content": "Reflection AI is a New York-based AI lab.kolderal/Getty Images\r\n<ul><li>Reflection AI's first model is here.</li><li>Beam is a text-based model designed for coding and reasoning tasks.</li><li>Beam i\u2026 [+3191 chars]"
-        }
-    ]
+  "updated": "2026-11-06 22:39:24 UTC",
+  "news": [
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "description": "[TECHCRUNCH] Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "date": "2026-11-06T18:44:38Z"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "description": "[TECHCRUNCH] Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "date": "2026-11-06T18:44:20Z"
+    },
+    {
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "description": "[TECHCRUNCH] Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on...",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "date": "2026-11-06T18:00:00Z"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "description": "[TECHCRUNCH] Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on...",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "date": "2026-11-06T17:23:52Z"
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "description": "[TECHCRUNCH] AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "date": "2026-11-06T15:54:47Z"
+    },
+    {
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "description": "[TECHCRUNCH] Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "date": "2026-11-06T14:10:00Z"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "date": "2026-11-06T14:00:48Z"
+    },
+    {
+      "title": "Nvidia or AMD? We asked AI which stock is better positioned for 2027",
+      "description": "[FINBOLD] We asked two leading artificial intelligence models whether Nvidia or AMD was a better-positioned stock for 2027.",
+      "url": "https://finbold.com/nvidia-or-amd-we-asked-ai-which-stock-is-better-positioned-for-2027/",
+      "date": "2026-11-06T10:33:54Z"
+    },
+    {
+      "title": "Dartmouth president bullish on AI amid campus divide, national concerns",
+      "description": "[THE BOSTON GLOBE] After years of keeping her head down, Sian Leah Beilock is embracing artificial intelligence, even as it barrels through American society and her own campus.",
+      "url": "https://www.bostonglobe.com/2026/11/06/metro/sian-leah-beilock-dartmouth/",
+      "date": "2026-11-06T10:30:00Z"
+    },
+    {
+      "title": "India focused on becoming AI application capital of the world: Ashwini Vaishnaw",
+      "description": "[THE ECONOMIC TIMES] India is striving to become the artificial intelligence application capital while also focusing on semiconductor manufacturing. The government plans to launch the Semicon 2.0 Web Application Portal to attract serious players in the industry. Union...",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/india-focused-on-becoming-ai-application-capital-of-the-world-ashwini-vaishnaw/articleshow/135603356.cms",
+      "date": "2026-11-06T10:27:00Z"
+    },
+    {
+      "title": "OpenAI planning to expand to employ 450 in Dublin",
+      "description": "[RTE.IE] Employees at the Dublin-based European headquarters of Artificial Intelligence (AI) firm OpenAI last year shared share based payment compensation of \u20ac8.27m.",
+      "url": "https://www.rte.ie/news/business/2026/1106/1598246-openai-planning-to-expand-to-employ-450-in-dublin/",
+      "date": "2026-11-06T10:14:18Z"
+    },
+    {
+      "title": "Can AI learn to understand nature? Scientists set out a roadmap for the future of ecology",
+      "description": "[PHYS.ORG] An international team of scientists has outlined how a new generation of artificial intelligence models could transform our understanding of ecosystems and help predict their responses to environmental change.",
+      "url": "https://phys.org/news/2026-11-ai-nature-scientists-roadmap-future.html",
+      "date": "2026-11-06T10:00:04Z"
+    },
+    {
+      "title": "India focused on becoming AI application capital of the world: Ashwini Vaishnaw",
+      "description": "[LIVEMINT] India is focused on becoming the artificial intelligence (AI) \"application capital\" of the world, Union Electronics and Information Technology Minister Ashwini Vaishnaw said.",
+      "url": "https://www.livemint.com/technology/india-focused-on-becoming-ai-application-capital-of-the-world-ashwini-vaishnaw-11793958699116.html",
+      "date": "2026-11-06T09:51:38Z"
+    },
+    {
+      "title": "India focused on becoming AI application capital of the world: Ashwini Vaishnaw",
+      "description": "[THE TRIBUNE] India is focused on becoming the artificial intelligence (AI) 'application capital' of the world, Union Electronics and Information Technology Minister Ashwini Vaishnaw said.",
+      "url": "https://www.tribuneindia.com/news/business/india-focused-on-becoming-ai-application-capital-of-the-world-ashwini-vaishnaw/",
+      "date": "2026-11-06T09:47:35Z"
+    },
+    {
+      "title": "India focused on becoming AI application capital of the world: Ashwini Vaishnaw",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] India is focused on becoming the artificial intelligence (AI) \"application capital\" of the world, Union Electronics and Information Technology Minister Ashwini Vaishnaw said.",
+      "url": "https://www.aninews.in/news/business/india-focused-on-becoming-ai-application-capital-of-the-world-ashwini-vaishnaw20261106151528/",
+      "date": "2026-11-06T09:45:28Z"
+    },
+    {
+      "title": "Global AI spending boom raises financial risks, puts Indian IT stocks in focus: Report",
+      "description": "[THE TRIBUNE] Rising investment in artificial intelligence (AI) infrastructure by global technology companies is increasing pressure on their cash flows and balance sheets, creating potential investment opportunities for India's IT services sector, according to a...",
+      "url": "https://www.tribuneindia.com/news/business/global-ai-spending-boom-raises-financial-risks-puts-indian-it-stocks-in-focus-report/",
+      "date": "2026-11-06T09:43:10Z"
+    },
+    {
+      "title": "Andavi Acquires Infilect Bringing Together Visual & Agentic AI and Retail Execution For Consumer Goods and Beverage Companies",
+      "description": "[THE TRIBUNE] New York [US], November 6: Andavi Solutions Inc., a US-based provider of Sales Force Automation and commercial execution solutions for consumer goods and beverage companies, today announced the acquisition of Infilect Technologies, a visual...",
+      "url": "https://www.tribuneindia.com/news/business/andavi-acquires-infilect-bringing-together-visual-agentic-ai-and-retail-execution-for-consumer-goods-and-beverage-companies/",
+      "date": "2026-11-06T09:43:03Z"
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "date": "2026-11-06T00:00:00Z"
+    },
+    {
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "date": "2026-11-05T19:35:16Z"
+    },
+    {
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "date": "2026-11-05T00:00:00Z"
+    },
+    {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "date": "2026-11-04T17:50:10Z"
+    },
+    {
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "date": "2026-11-03T16:35:36Z"
+    }
+  ]
 }
