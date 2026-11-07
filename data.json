@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-06 22:39:24 UTC",
+  "updated": "2026-11-07 04:24:40 UTC",
   "news": [
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "description": "[TECHCRUNCH] The deal highlights the challenges of developing massive AI data centers.",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "date": "2026-11-07T01:40:28Z"
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "description": "[TECHCRUNCH] OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "date": "2026-11-06T22:53:46Z"
+    },
     {
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
       "description": "[TECHCRUNCH] Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
@@ -26,82 +38,70 @@
       "date": "2026-11-06T17:23:52Z"
     },
     {
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "description": "[TECHCRUNCH] AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "date": "2026-11-06T15:54:47Z"
+      "title": "\u2018100% in favour of Super Intelligence\u2019: Trump backs AI expansion despite growing data centre backlash",
+      "description": "[TIMES OF INDIA] US President Donald Trump has backed the expansion of artificial intelligence (AI) across the country, saying his administration will work with states",
+      "url": "https://timesofindia.indiatimes.com/world/us/100-in-favour-of-super-intelligence-trump-backs-ai-expansion-despite-growing-data-centre-backlash/articleshow/135613955.cms",
+      "date": "2026-11-06T16:20:00Z"
     },
     {
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "description": "[TECHCRUNCH] Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-      "date": "2026-11-06T14:10:00Z"
+      "title": "Fox News AI Newsletter: Voters' unmistakable message",
+      "description": "[FOX NEWS] Voters in 10 states backed data center restrictions, AI stocks plunged as Wall Street concerns mount, and Google expanded voluntary buyouts amid artificial intelligence spending.",
+      "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-voters-unmistakable-message",
+      "date": "2026-11-06T16:12:01Z"
+    },
+    {
+      "title": "AI won\u2019t fix a flawed business strategy",
+      "description": "[THE MANILA TIMES] FOR many entrepreneurs, the artificial intelligence (AI) revolution feels like a dream come true. Tasks that once took hours now take minutes through simple prompts, and business needs that previously required additional headcount are now handled by...",
+      "url": "https://www.manilatimes.net/2026/11/07/business/top-business/ai-wont-fix-a-flawed-business-strategy/2464325",
+      "date": "2026-11-06T16:12:00Z"
+    },
+    {
+      "title": "EU and India conclude negotiations on EUR 93.5 billion Horizon Europe Programme",
+      "description": "[FIRSTPOST] The agreement will allow Indian researchers and institutions to access EU funding directly and lead international research projects across areas including health, artificial intelligence, climate and energy.",
+      "url": "https://www.firstpost.com/world/eu-and-india-conclude-negotiations-on-eur-93-5-billion-horizon-europe-programme-14058456.html",
+      "date": "2026-11-06T16:09:49Z"
+    },
+    {
+      "title": "Apple looking to raise $7.5B from dollar bonds",
+      "description": "[THE MANILA TIMES] APPLE is raising about $7.5 billion from a seven-part US-dollar bond offering, a term sheet seen by Reuters showed on Thursday, adding to a growing number of tech firms tapping debt markets to fund the artificial intelligence boom.",
+      "url": "https://www.manilatimes.net/2026/11/07/business/foreign-business/apple-looking-to-raise-75b-from-dollar-bonds/2464239",
+      "date": "2026-11-06T16:05:00Z"
+    },
+    {
+      "title": "China puts Nvidia chips on hold in HK",
+      "description": "[THE MANILA TIMES] ABOUT 600,000 of Nvidia\u2019s advanced artificial intelligence (AI) chips are stored in Hong Kong awaiting shipment to mainland China as Beijing withholds approval for large-scale imports despite demand from technology firms.",
+      "url": "https://www.manilatimes.net/2026/11/07/business/foreign-business/china-puts-nvidia-chips-on-hold-in-hk/2464236",
+      "date": "2026-11-06T16:02:00Z"
+    },
+    {
+      "title": "AI-powered smartwatch detects high blood pressure with sensitivity similar to office screening",
+      "description": "[MEDICAL XPRESS] Smartwatches may be able to detect hypertension (high blood pressure) with the help of an artificial intelligence (AI) system that interprets sensor readings, a paper in Nature reports. Tests of the system, trialed using a consumer smartwatch, show...",
+      "url": "https://medicalxpress.com/news/2026-11-ai-powered-smartwatch-high-blood.html",
+      "date": "2026-11-06T16:00:04Z"
+    },
+    {
+      "title": "Google AI falsely links Auckland anaesthetic technician to drink",
+      "description": "[THE NEW ZEALAND HERALD] Her name was never in the story. She was never involved in the case. Yet somehow, Google\u2019s artificial intelligence labelled her a criminal. Tracey...",
+      "url": "https://www.nzherald.co.nz/nz/auckland/google-ai-falsely-links-auckland-anaesthetic-technician-to-drink-driving-convictions/XZOO344JYZDOPN33BGK5KQOWYM/",
+      "date": "2026-11-06T16:00:00Z"
+    },
+    {
+      "title": "When the AI bubble bursts",
+      "description": "[THE STAR] The global artificial intelligence (AI) investment boom has created enormous opportunities for Malaysia, particularly in data centres (DCs), generating substantial business for local construction companies, banks, utilities and technology suppliers.",
+      "url": "https://www.thestar.com.my/business/insight/2026/11/07/when-the-ai-bubble-bursts",
+      "date": "2026-11-06T16:00:00Z"
+    },
+    {
+      "title": "Data center double-down: Hassett says Blue Wave won't stop AI build-out",
+      "description": "[CNBC] Data centers are a crucial part of President Donald Trump's push to win the global artificial intelligence race, which continues despite the midterm results.",
+      "url": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
+      "date": "2026-11-06T15:55:48Z"
     },
     {
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "description": "[HUGGINGFACE] No intel summary available.",
       "url": "https://huggingface.co/blog/allenai/toyblocks",
       "date": "2026-11-06T14:00:48Z"
-    },
-    {
-      "title": "Nvidia or AMD? We asked AI which stock is better positioned for 2027",
-      "description": "[FINBOLD] We asked two leading artificial intelligence models whether Nvidia or AMD was a better-positioned stock for 2027.",
-      "url": "https://finbold.com/nvidia-or-amd-we-asked-ai-which-stock-is-better-positioned-for-2027/",
-      "date": "2026-11-06T10:33:54Z"
-    },
-    {
-      "title": "Dartmouth president bullish on AI amid campus divide, national concerns",
-      "description": "[THE BOSTON GLOBE] After years of keeping her head down, Sian Leah Beilock is embracing artificial intelligence, even as it barrels through American society and her own campus.",
-      "url": "https://www.bostonglobe.com/2026/11/06/metro/sian-leah-beilock-dartmouth/",
-      "date": "2026-11-06T10:30:00Z"
-    },
-    {
-      "title": "India focused on becoming AI application capital of the world: Ashwini Vaishnaw",
-      "description": "[THE ECONOMIC TIMES] India is striving to become the artificial intelligence application capital while also focusing on semiconductor manufacturing. The government plans to launch the Semicon 2.0 Web Application Portal to attract serious players in the industry. Union...",
-      "url": "https://economictimes.indiatimes.com/ai/ai-insights/india-focused-on-becoming-ai-application-capital-of-the-world-ashwini-vaishnaw/articleshow/135603356.cms",
-      "date": "2026-11-06T10:27:00Z"
-    },
-    {
-      "title": "OpenAI planning to expand to employ 450 in Dublin",
-      "description": "[RTE.IE] Employees at the Dublin-based European headquarters of Artificial Intelligence (AI) firm OpenAI last year shared share based payment compensation of \u20ac8.27m.",
-      "url": "https://www.rte.ie/news/business/2026/1106/1598246-openai-planning-to-expand-to-employ-450-in-dublin/",
-      "date": "2026-11-06T10:14:18Z"
-    },
-    {
-      "title": "Can AI learn to understand nature? Scientists set out a roadmap for the future of ecology",
-      "description": "[PHYS.ORG] An international team of scientists has outlined how a new generation of artificial intelligence models could transform our understanding of ecosystems and help predict their responses to environmental change.",
-      "url": "https://phys.org/news/2026-11-ai-nature-scientists-roadmap-future.html",
-      "date": "2026-11-06T10:00:04Z"
-    },
-    {
-      "title": "India focused on becoming AI application capital of the world: Ashwini Vaishnaw",
-      "description": "[LIVEMINT] India is focused on becoming the artificial intelligence (AI) \"application capital\" of the world, Union Electronics and Information Technology Minister Ashwini Vaishnaw said.",
-      "url": "https://www.livemint.com/technology/india-focused-on-becoming-ai-application-capital-of-the-world-ashwini-vaishnaw-11793958699116.html",
-      "date": "2026-11-06T09:51:38Z"
-    },
-    {
-      "title": "India focused on becoming AI application capital of the world: Ashwini Vaishnaw",
-      "description": "[THE TRIBUNE] India is focused on becoming the artificial intelligence (AI) 'application capital' of the world, Union Electronics and Information Technology Minister Ashwini Vaishnaw said.",
-      "url": "https://www.tribuneindia.com/news/business/india-focused-on-becoming-ai-application-capital-of-the-world-ashwini-vaishnaw/",
-      "date": "2026-11-06T09:47:35Z"
-    },
-    {
-      "title": "India focused on becoming AI application capital of the world: Ashwini Vaishnaw",
-      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] India is focused on becoming the artificial intelligence (AI) \"application capital\" of the world, Union Electronics and Information Technology Minister Ashwini Vaishnaw said.",
-      "url": "https://www.aninews.in/news/business/india-focused-on-becoming-ai-application-capital-of-the-world-ashwini-vaishnaw20261106151528/",
-      "date": "2026-11-06T09:45:28Z"
-    },
-    {
-      "title": "Global AI spending boom raises financial risks, puts Indian IT stocks in focus: Report",
-      "description": "[THE TRIBUNE] Rising investment in artificial intelligence (AI) infrastructure by global technology companies is increasing pressure on their cash flows and balance sheets, creating potential investment opportunities for India's IT services sector, according to a...",
-      "url": "https://www.tribuneindia.com/news/business/global-ai-spending-boom-raises-financial-risks-puts-indian-it-stocks-in-focus-report/",
-      "date": "2026-11-06T09:43:10Z"
-    },
-    {
-      "title": "Andavi Acquires Infilect Bringing Together Visual & Agentic AI and Retail Execution For Consumer Goods and Beverage Companies",
-      "description": "[THE TRIBUNE] New York [US], November 6: Andavi Solutions Inc., a US-based provider of Sales Force Automation and commercial execution solutions for consumer goods and beverage companies, today announced the acquisition of Infilect Technologies, a visual...",
-      "url": "https://www.tribuneindia.com/news/business/andavi-acquires-infilect-bringing-together-visual-agentic-ai-and-retail-execution-for-consumer-goods-and-beverage-companies/",
-      "date": "2026-11-06T09:43:03Z"
     },
     {
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
