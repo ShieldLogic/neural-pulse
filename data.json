@@ -1,46 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-11-07 16:57 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        }
-    ]
+  "updated": "2026-11-07 18:26:39 UTC",
+  "news": [
+    {
+      "title": "Someone got an offline LLM running on a 2015 Kindle Paperwhite, even if it\u2019s quite slow",
+      "description": "[XDA DEVELOPERS] Okay, it's very slow. But it's still impressive.",
+      "url": "https://www.xda-developers.com/someone-got-an-offline-llm-running-on-a-2015-kindle-paperwhite-even-if-its-quite-slow/",
+      "date": "2026-11-07T06:24:14Z"
+    },
+    {
+      "title": "Mizoram Launches Gen-AI Mission to Train Over 5,500 School Students in 80 schools",
+      "description": "[NDTV PROFIT] Titled Lunglei Gen-AI Mission: Lunglei's Gen-Alpha, Empowered by AI, the programme will help students enhance their artificial intelligence knowledge",
+      "url": "https://www.ndtvprofit.com/education/mizoram-launches-gen-ai-mission-to-train-over-5-500-school-students-in-80-schools-12295988",
+      "date": "2026-11-07T06:15:57Z"
+    },
+    {
+      "title": "US Believes Nvidia CEO Jensen Huang Had Romantic Relationship With Chinese 'Spy': Report",
+      "description": "[NDTV.COM] Alice Huang was working for Beijing's Ministry of State Security, which was maneuvering to glean more detail about American artificial intelligence chips, according to the media reports",
+      "url": "https://www.ndtv.com/world-news/woman-who-targeted-nvidia-ceo-jensen-huang-was-recruited-by-top-china-spy-agency-report-12295987",
+      "date": "2026-11-07T06:15:22Z"
+    },
+    {
+      "title": "Environmental groups embrace AI, even as they warn of data center impacts",
+      "description": "[THE STAR] WASHINGTON, Nov 7 (Reuters) - Environmental groups worldwide are using artificial intelligence to analyze climate data, \u2060track forest fires and count endangered wildlife \u2013 embracing a technology they also warn is driving a surge in electricity...",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/07/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts",
+      "date": "2026-11-07T06:14:00Z"
+    },
+    {
+      "title": "Environmental groups embrace AI, even as they warn of data center impacts",
+      "description": "[MARKETSCREENER] Environmental groups worldwide are using artificial intelligence to analyze climate data, track forest fires and count endangered wildlife - embracing a technology they also warn is driving a surge in...",
+      "url": "https://www.marketscreener.com/news/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts-ce785fd2df8ff123",
+      "date": "2026-11-07T06:01:46Z"
+    },
+    {
+      "title": "Microsoft AI CEO Mustafa Suleyman reacts to Delaware\u2019s AI agent proposal, says it is \u2018deeply concerning to \u2026\u2019",
+      "description": "[TIMES OF INDIA] Microsoft AI CEO Mustafa Suleyman has warned against a legislative proposal in Delaware that would permit autonomous artificial intelligence (AI) agents",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ai-ceo-mustafa-suleyman-reacts-to-delawares-ai-agent-proposal-says-it-is-deeply-concerning-to-/articleshow/135627622.cms",
+      "date": "2026-11-07T05:32:00Z"
+    },
+    {
+      "title": "Japan picks 28 priority items for \u00a5370 trillion in investments",
+      "description": "[THE JAPAN TIMES ] The priority items, which were picked from 62 products and technologies, include semiconductors and artificial intelligence.",
+      "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/japan-priority-items-investments/",
+      "date": "2026-11-07T05:16:49Z"
+    },
+    {
+      "title": "IMF warns AI slowdown could hit inflation fight",
+      "description": "[EUROPE SAYS] WASHINGTON - Central bankers around the world would need to consider any slowdown in artificial intelligence (AI)-driven growth as they assess steps in their",
+      "url": "https://www.europesays.com/3358075/",
+      "date": "2026-11-07T04:54:05Z"
+    },
+    {
+      "title": "Microsoft offers early exit to 27% of global workforce",
+      "description": "[BANGKOK POST] Microsoft has launched a voluntary severance programme covering approximately 60,000 employees \u2014 roughly 27% of its global workforce \u2014 offering buyout packages and severance benefits following organisational restructuring and heavy capital...",
+      "url": "https://www.bangkokpost.com/life/tech/3350530/microsoft-offers-early-exit-to-27-of-global-workforce",
+      "date": "2026-11-07T04:23:00Z"
+    },
+    {
+      "title": "Nasdaq rebounds but posts fourth straight weekly decline",
+      "description": "[THE ECONOMIC TIMES] On Friday, technology stocks saw a significant rebound, boosting investor optimism about growth in artificial intelligence amidst recent market fluctuations. The semiconductor sector soared, primarily driven by impressive gains from Nvidia and...",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-rebounds-but-posts-fourth-straight-weekly-decline/articleshow/135626093.cms",
+      "date": "2026-11-07T04:02:00Z"
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "description": "[TECHCRUNCH] The deal highlights the challenges of developing massive AI data centers.",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "date": "2026-11-07T01:40:28Z"
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "description": "[TECHCRUNCH] OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "date": "2026-11-06T22:53:46Z"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "description": "[TECHCRUNCH] Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "date": "2026-11-06T18:44:38Z"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "description": "[TECHCRUNCH] Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "date": "2026-11-06T18:44:20Z"
+    },
+    {
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "description": "[TECHCRUNCH] Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on...",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "date": "2026-11-06T18:00:00Z"
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "description": "[TECHCRUNCH] Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on...",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "date": "2026-11-06T17:23:52Z"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "date": "2026-11-06T14:00:48Z"
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "date": "2026-11-06T00:00:00Z"
+    },
+    {
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "date": "2026-11-05T19:35:16Z"
+    },
+    {
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "date": "2026-11-05T00:00:00Z"
+    },
+    {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "date": "2026-11-04T17:50:10Z"
+    },
+    {
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "date": "2026-11-03T16:35:36Z"
+    }
+  ]
 }
