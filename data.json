@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-11-08 17:11 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "OpenAI now trains its frontier AI models with no internet access",
-            "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web co\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-23T21:11:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nby\r\nEmm\u2026 [+2977 chars]"
-        }
-    ]
+  "updated": "2026-11-08 18:37:38 UTC",
+  "news": [
+    {
+      "title": "AI adoption alone won't transform customer service; companies need to redesign operations: EY Report",
+      "description": "[THE TRIBUNE] Simply adopting artificial intelligence (AI) tools will not be enough for companies to transform their customer service operations, as businesses need to redesign their operating models, technology systems and workforce capabilities to achieve...",
+      "url": "https://www.tribuneindia.com/news/business/ai-adoption-alone-wont-transform-customer-service-companies-need-to-redesign-operations-ey-report/",
+      "date": "2026-11-08T06:22:26Z"
+    },
+    {
+      "title": "AI adoption alone won't transform customer service; companies need to redesign operations: EY Report",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Simply adopting artificial intelligence (AI) tools will not be enough for companies to transform their customer service operations, as businesses need to redesign their operating models, technology systems and workforce capabilities to achieve...",
+      "url": "https://www.aninews.in/news/business/ai-adoption-alone-wont-transform-customer-service-companies-need-to-redesign-operations-ey-report16020261108114821/",
+      "date": "2026-11-08T06:18:21Z"
+    },
+    {
+      "title": "BMO Using Agentic AI to Help Credit Card Clients Get Faster Answers and Resolutions",
+      "description": "[EUROPE SAYS] BMO Using Agentic AI to Help Credit Card Clients Get Faster Answers and Resolutions",
+      "url": "https://www.europesays.com/3360474/",
+      "date": "2026-11-08T05:36:15Z"
+    },
+    {
+      "title": "Samsung Electronics to become 1st local firm with cash assets of over $146.6 bil.: data",
+      "description": "[THE KOREA TIMES] Helped by the artificial intelligence-led (AI) chip supercycle, Samsung Electronics is poised to become the first Korean company with cash assets o...",
+      "url": "https://www.koreatimes.co.kr/business/companies/20261108/samsung-electronics-to-become-1st-local-firm-with-cash-assets-of-over-1466-bil-data",
+      "date": "2026-11-08T05:34:03Z"
+    },
+    {
+      "title": "AI to boost industrial robotics growth, but manufacturers may benefit less than customers: S&P Global",
+      "description": "[THE ECONOMIC TIMES] Artificial intelligence is anticipated to significantly enhance the long-term prospects of industrial robotics and automation. Manufacturers may experience reduced benefits compared to their customers, as equipment utilization increases. Global...",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-revolutionizes-industrial-robotics-customers-set-to-gain-more-than-manufacturers-says-sp-global-report/articleshow/135651846.cms",
+      "date": "2026-11-08T05:25:00Z"
+    },
+    {
+      "title": "AI to boost industrial robotics growth, but manufacturers may benefit less than customers: S&P Global",
+      "description": "[THE TRIBUNE] Artificial intelligence (AI) is expected to boost the long-term growth prospects of industrial robotics, however, manufacturers may benefit 'less' than their customers, as per a report by S&P Global.",
+      "url": "https://www.tribuneindia.com/news/business/ai-to-boost-industrial-robotics-growth-but-manufacturers-may-benefit-less-than-customers-sp-global/",
+      "date": "2026-11-08T04:52:34Z"
+    },
+    {
+      "title": "Google AI Chatbot Declines Direct Answer on 2020 Election Winner",
+      "description": "[NATURAL NEWS] Google\u2019s artificial intelligence (AI) search tool declined to directly state who won the 2020 U.S. presidential election when prompted by users late in October, instead directing them to federal records, according to users who posted screenshots on...",
+      "url": "https://www.naturalnews.com/2026-11-08-ai-chatbot-declines-direct-answer-2020-election.html",
+      "date": "2026-11-08T04:50:30Z"
+    },
+    {
+      "title": "AI to boost industrial robotics growth, but manufacturers may benefit less than customers: S&P Global",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Artificial intelligence (AI) is expected to boost the long-term growth prospects of industrial robotics, however, manufacturers may benefit \"less\" than their customers, as per a report by S&P Global.",
+      "url": "https://www.aninews.in/news/business/ai-to-boost-industrial-robotics-growth-but-manufacturers-may-benefit-less-than-customers-sampp-global20261108101802/",
+      "date": "2026-11-08T04:48:02Z"
+    },
+    {
+      "title": "Bill protecting Filipino workers from AI-driven layoffs filed in Senate",
+      "description": "[THE MANILA TIMES] MANILA, Philippines \u2014 Sen. Erwin Tulfo has filed a measure seeking to protect Filipino workers from losing their jobs due to the adoption of artificial intelligence (AI) and automation.",
+      "url": "https://www.manilatimes.net/2026/11/08/news/bill-protecting-filipino-workers-from-ai-driven-layoffs-filed-in-senate/2464646",
+      "date": "2026-11-08T04:40:00Z"
+    },
+    {
+      "title": "How to get better answers from generative AI tools: Key practical tips",
+      "description": "[TIMES OF INDIA] The difference between a useful artificial intelligence (AI) response and a generic one often begins with the information a user provides.",
+      "url": "https://timesofindia.indiatimes.com/technology/aiq/how-to-get-better-answers-from-generative-ai-tools-key-practical-tips/articleshow/135650847.cms",
+      "date": "2026-11-08T04:13:00Z"
+    },
+    {
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "description": "[TECHCRUNCH] On Equity, we unpacked what the midterms mean for the tech industry.",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "date": "2026-11-07T22:07:22Z"
+    },
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "description": "[TECHCRUNCH] A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "date": "2026-11-07T21:17:08Z"
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "description": "[TECHCRUNCH] The deal highlights the challenges of developing massive AI data centers.",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "date": "2026-11-07T01:40:28Z"
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "description": "[TECHCRUNCH] OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "date": "2026-11-06T22:53:46Z"
+    },
+    {
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "description": "[TECHCRUNCH] Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "date": "2026-11-06T18:44:38Z"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "description": "[TECHCRUNCH] Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "date": "2026-11-06T18:44:20Z"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "date": "2026-11-06T14:00:48Z"
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "date": "2026-11-06T00:00:00Z"
+    },
+    {
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "date": "2026-11-05T19:35:16Z"
+    },
+    {
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "date": "2026-11-05T00:00:00Z"
+    },
+    {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "date": "2026-11-04T17:50:10Z"
+    },
+    {
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "date": "2026-11-03T16:35:36Z"
+    }
+  ]
 }
