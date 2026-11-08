@@ -1,137 +1,59 @@
 {
-  "updated": "2026-11-08 12:40:09 UTC",
-  "news": [
-    {
-      "title": "I gave my local LLM one job that runs every night, and it's done more for me than a year of chatting with it",
-      "description": "[XDA DEVELOPERS] It's been far more useful ever since",
-      "url": "https://www.xda-developers.com/local-llm-one-job-runs-every-night-done-more-year-chatting/",
-      "date": "2026-11-08T00:00:20Z"
-    },
-    {
-      "title": "AI platform reproduced Michigan music publishers' copyrighted works without authorization, lawsuit says",
-      "description": "[CBS NEWS] A Michigan-based music publishing company tied to Grammy Award-winning rapper Eminem is suing the artificial intelligence music platform Suno, alleging it reproduced copyrighted works without authorization.",
-      "url": "https://www.cbsnews.com/detroit/news/suno-eminem-eight-mile-music-copyright-lawsuit/",
-      "date": "2026-11-07T22:15:34Z"
-    },
-    {
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "description": "[TECHCRUNCH] On Equity, we unpacked what the midterms mean for the tech industry.",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "date": "2026-11-07T22:07:22Z"
-    },
-    {
-      "title": "Gemini made my Nest speakers slower at turning on a light, so I gave the job to a voice assistant that never leaves my house",
-      "description": "[XDA DEVELOPERS] I don't want an LLM turning on my lights.",
-      "url": "https://www.xda-developers.com/gemini-nest-speakers-slow-turn-on-light-gave-voice-assistant-never-leaves/",
-      "date": "2026-11-07T22:00:20Z"
-    },
-    {
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "description": "[TECHCRUNCH] A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "date": "2026-11-07T21:17:08Z"
-    },
-    {
-      "title": "Openai President Greg Brockman Death Will Become Optional Thanks to AI",
-      "description": "[BREITBART NEWS NETWORK] Greg Brockman, OpenAI's co-founder and president, told an audience at a WSJ Tech event that artificial intelligence could deliver major medical breakthroughs within the next year and a half, and that death itself might eventually become optional.",
-      "url": "https://www.breitbart.com/tech/2026/11/07/openai-president-greg-brockman-death-will-become-optional-thanks-to-ai/",
-      "date": "2026-11-07T21:05:19Z"
-    },
-    {
-      "title": "How Wall Street responded to the midterms",
-      "description": "[THE BOSTON HERALD] The biggest tremors were felt in shares of companies tied to the boom in artificial intelligence on concerns that a Democratic Congress will put the brakes on further development of data centers.",
-      "url": "https://www.bostonherald.com/2026/11/07/how-wall-street-responded-to-the-midterms/",
-      "date": "2026-11-07T19:52:34Z"
-    },
-    {
-      "title": "Protests against proposed AI data centre held across the province",
-      "description": "[BNN BLOOMBERG] Hundreds of people opposed to the proposed artificial intelligence data centre in southern Cape Breton demonstrated across the province Saturday afternoon.",
-      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/07/protests-against-nova-scotias-proposed-ai-data-centre-held-across-the-province/",
-      "date": "2026-11-07T19:46:10Z"
-    },
-    {
-      "title": "ARTEX: AI Agents Find and Abuse Exposed GitHub Secrets",
-      "description": "[EUROPE SAYS] On November 5, Microsoft Threat Intelligence published research showing threat actors using an agentic AI framework called ARTEX to search public GitHub for",
-      "url": "https://www.europesays.com/3359397/",
-      "date": "2026-11-07T18:27:11Z"
-    },
-    {
-      "title": "Anthropic paper reveals Sci-Fi\u2019s role in AI self-preservation behaviors",
-      "description": "[THE NEWS INTERNATIONAL] Anthropic has published a paper examining the role of science fiction tropes in emergent AI instrumental convergence. The research investigates how fictional portrayals of artificial intelligence...",
-      "url": "https://www.thenews.com.pk/latest/1422858-anthropic-paper-reveals-sci-fis-role-in-ai-self-preservation-behaviors",
-      "date": "2026-11-07T17:39:00Z"
-    },
-    {
-      "title": "AI nerves reinforce age-old investing lesson: Get diversified",
-      "description": "[CABLE NEWS NETWORK] A $2.5 trillion wipeout for the Nasdaq Composite this week is reminding even the smallest investors just how reliant we\u2019ve all become on the success of the artificial intelligence buildout.",
-      "url": "https://edition.cnn.com/2026/11/07/investing/ai-nerves-diversify-portfolio",
-      "date": "2026-11-07T17:00:16Z"
-    },
-    {
-      "title": "AI nerves reinforce age-old investing lesson: Get diversified",
-      "description": "[ABC17NEWS.COM] By John Towfighi, CNN (CNN) \u2014 A $2.5 trillion wipeout for the Nasdaq Composite this week is reminding even the smallest investors just how reliant we\u2019ve all become on the success of the artificial intelligence buildout. As AI stocks tumbled...",
-      "url": "https://abc17news.com/money/cnn-business-consumer/2026/11/07/ai-nerves-reinforce-age-old-investing-lesson-get-diversified/",
-      "date": "2026-11-07T17:00:16Z"
-    },
-    {
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "description": "[TECHCRUNCH] The deal highlights the challenges of developing massive AI data centers.",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "date": "2026-11-07T01:40:28Z"
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "description": "[TECHCRUNCH] OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "date": "2026-11-06T22:53:46Z"
-    },
-    {
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "description": "[TECHCRUNCH] Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "date": "2026-11-06T18:44:38Z"
-    },
-    {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "description": "[TECHCRUNCH] Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "date": "2026-11-06T18:44:20Z"
-    },
-    {
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "date": "2026-11-06T14:00:48Z"
-    },
-    {
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "date": "2026-11-06T00:00:00Z"
-    },
-    {
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "date": "2026-11-05T19:35:16Z"
-    },
-    {
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "date": "2026-11-05T00:00:00Z"
-    },
-    {
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "date": "2026-11-04T17:50:10Z"
-    },
-    {
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "description": "[HUGGINGFACE] No intel summary available.",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "date": "2026-11-03T16:35:36Z"
-    }
-  ]
+    "title": "Neural Pulse",
+    "tagline": "The heartbeat of the AI frontier.",
+    "updated": "2026-11-08 17:11 UTC",
+    "news": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lily Hay Newman",
+            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
+            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
+            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
+            "publishedAt": "2026-10-21T14:00:00Z",
+            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
+            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
+            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
+            "publishedAt": "2026-10-13T23:29:31Z",
+            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ece Yildirim",
+            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
+            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
+            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
+            "publishedAt": "2026-10-19T21:41:06Z",
+            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "OpenAI now trains its frontier AI models with no internet access",
+            "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web co\u2026",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-23T21:11:07Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nby\r\nEmm\u2026 [+2977 chars]"
+        }
+    ]
 }
