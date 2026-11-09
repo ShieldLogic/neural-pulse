@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-11-09 21:32 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "OpenAI now trains its frontier AI models with no internet access",
-            "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web co\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-23T21:11:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nby\r\nEmm\u2026 [+2977 chars]"
-        }
-    ]
+  "updated": "2026-11-09 23:56:16 UTC",
+  "news": [
+    {
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "description": "[TECHCRUNCH] The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "date": "2026-11-09T23:28:37Z"
+    },
+    {
+      "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+      "description": "[TECHCRUNCH] Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "date": "2026-11-09T22:46:09Z"
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "description": "[TECHCRUNCH] Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy, and one securities law expert says the company\u2019s earlier insistence that it was all \u201cnormal\u201d could turn into a...",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "date": "2026-11-09T22:23:42Z"
+    },
+    {
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "description": "[TECHCRUNCH] The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "date": "2026-11-09T20:09:06Z"
+    },
+    {
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "description": "[TECHCRUNCH] Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "date": "2026-11-09T19:24:51Z"
+    },
+    {
+      "title": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
+      "description": "[TECHCRUNCH] Jensen Huang\u2019s alleged affair with a suspected Chinese spy threatens to complicate Nvidia\u2019s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China\u2019s lucrative AI market.",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "date": "2026-11-09T18:09:52Z"
+    },
+    {
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "date": "2026-11-09T15:05:57Z"
+    },
+    {
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "date": "2026-11-09T12:34:29Z"
+    },
+    {
+      "title": "NSC Sec-Gen: Thailand faces daily cyber threats",
+      "description": "[BANGKOK POST] Thailand faces daily cyberattack attempts targeting government agencies, banks and critical infrastructure, with attackers increasingly using artificial intelligence (AI) to identify vulnerabilities, National Security Council (NSC) Secretary-General...",
+      "url": "https://www.bangkokpost.com/thailand/general/3351599/nsc-secgen-thailand-faces-daily-cyber-threats",
+      "date": "2026-11-09T11:34:00Z"
+    },
+    {
+      "title": "UBS CEO: Midterms Creating Uncertainty for AI Buildout",
+      "description": "[MARKETSCREENER] Sergio Ermotti, Chief Executive Officer at UBS Group says the sweep of Democrats in the US midterm elections could trigger a slowdown in the construction of artificial intelligence capacity. He...",
+      "url": "https://www.marketscreener.com/news/ubs-ceo-midterms-creating-uncertainty-for-ai-buildout-ce785fd3da8ff723",
+      "date": "2026-11-09T11:30:27Z"
+    },
+    {
+      "title": "Adobe\u2019s CX Enterprise Coworker Gets Embedded Within Leading",
+      "description": "[ANALYTICS INDIA MAGAZINE] The software firm said its CX Enterprise Coworker agentic AI will be embedded in ChatGPT as a plugin, Claude, Databricks Genie, Gemini for business, and Microso",
+      "url": "https://analyticsindiamag.com/ai-news/adobes-cx-enterprise-coworker-gets-embedded-within-leading-ai-platforms",
+      "date": "2026-11-09T11:30:04Z"
+    },
+    {
+      "title": "World shares bounce back after recovery for AI",
+      "description": "[BNN BLOOMBERG] World shares and U.S. futures advanced Monday after artificial intelligence stocks recovered some ground lost in last week\u2019s sell-offs.",
+      "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/09/world-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/",
+      "date": "2026-11-09T11:22:16Z"
+    },
+    {
+      "title": "World shares bounce back after recovery for AI",
+      "description": "[CP24 TORONTO] World shares and U.S. futures advanced Monday after artificial intelligence stocks recovered some ground lost in last week\u2019s sell-offs.",
+      "url": "https://www.cp24.com/news/money/2026/11/09/world-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/",
+      "date": "2026-11-09T11:22:16Z"
+    },
+    {
+      "title": "Nvidia\u2019s Jensen Huang, the scandal-hit AI visionary in a leather jacket",
+      "description": "[MALAY MAIL] NEW YORK, Nov 9 \u2014 Chips made by US chip titan Nvidia push the boundaries of artificial intelligence, but its leader Jensen Huang is in the spotlight over an affair with an...",
+      "url": "https://www.malaymail.com/news/money/2026/11/09/nvidias-jensen-huang-the-scandal-hit-ai-visionary-in-a-leather-jacket/242617",
+      "date": "2026-11-09T11:06:29Z"
+    },
+    {
+      "title": "Reddit co-founder Alexis Ohanian says he wants his daughter to use AI every day; reveals how she changed his understanding of the technology",
+      "description": "[TIMES OF INDIA] Alexis Ohanian has spent much of his career building and investing in technology, but one of his most useful lessons about artificial intelligence has",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/reddit-co-founder-alexis-ohanian-says-he-wants-his-daughter-to-use-ai-every-day-reveals-how-she-changed-his-understanding-of-the-technology/articleshow/135679010.cms",
+      "date": "2026-11-09T10:33:00Z"
+    },
+    {
+      "title": "UBS' Peirce on AI Buildout, Dealmaking Landscape",
+      "description": "[MARKETSCREENER] Greg Peirce, Co-Head of Global Banking for APAC at UBS and also Co-Country Head at UBS Australia, discusses the outlook for the the artificial intelligence infrastructure buildout and the landscape...",
+      "url": "https://www.marketscreener.com/news/ubs-peirce-on-ai-buildout-dealmaking-landscape-ce785fd3da89f023",
+      "date": "2026-11-09T10:24:33Z"
+    },
+    {
+      "title": "Law professor shares 'public service announcement' on Claude AI Agent after it deletes his lecture notes of an entire year and current syllabus; chatbot said in apology: I deleted your Fall 2026 \u2026",
+      "description": "[TIMES OF INDIA] A University of Chicago law professor is warning others about the risks of handing everyday tasks over to artificial intelligence (AI) agents after Claude",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/law-professor-shares-public-service-announcement-on-claude-ai-agent-after-it-deletes-his-lecture-notes-of-an-entire-year-and-current-syllabus-chatbot-said-in-apology-i-deleted-your-fall-2026-/articleshow/135678530.cms",
+      "date": "2026-11-09T10:14:00Z"
+    },
+    {
+      "title": "The Real Cost of Preparing for a Career in Artificial Intelligence",
+      "description": "[TECHBULLION] Artificial intelligence is creating career opportunities across industries, from healthcare and finance to software development and",
+      "url": "https://techbullion.com/the-real-cost-of-preparing-for-a-career-in-artificial-intelligence/",
+      "date": "2026-11-09T10:10:28Z"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "date": "2026-11-06T14:00:48Z"
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "date": "2026-11-06T00:00:00Z"
+    },
+    {
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "date": "2026-11-05T00:00:00Z"
+    },
+    {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "date": "2026-11-04T17:50:10Z"
+    }
+  ]
 }
