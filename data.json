@@ -1,59 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-11-10 18:45 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "OpenAI now trains its frontier AI models with no internet access",
-            "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web co\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-23T21:11:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nby\r\nEmm\u2026 [+2977 chars]"
-        }
-    ]
+  "updated": "2026-11-10 21:37:24 UTC",
+  "news": [
+    {
+      "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
+      "description": "[TECHCRUNCH] OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "date": "2026-11-10T21:08:52Z"
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York\u2019s AI safety law takes effect",
+      "description": "[TECHCRUNCH] New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "date": "2026-11-10T20:52:13Z"
+    },
+    {
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "description": "[TECHCRUNCH] Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "date": "2026-11-10T19:57:52Z"
+    },
+    {
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "description": "[TECHCRUNCH] The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing \u201cuncertainty in the IPO market.\u201d",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "date": "2026-11-10T19:23:34Z"
+    },
+    {
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "description": "[TECHCRUNCH] PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "date": "2026-11-10T19:03:52Z"
+    },
+    {
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "description": "[TECHCRUNCH] OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "date": "2026-11-10T18:49:52Z"
+    },
+    {
+      "title": "AI is entering the boardroom, warehouse, and checkout. Are businesses ready?",
+      "description": "[THE ECONOMIC TIMES] The AI Business Transformation Masterclass & Awards 2026 at IIM Bangalore will focus on integrating AI into businesses on 19 November. The program features sessions on enterprise AI frameworks, real-world use cases, and discussions on Agentic AI in...",
+      "url": "https://economictimes.indiatimes.com/industry/services/education/ai-is-entering-the-boardroom-warehouse-and-checkout-are-businesses-ready/articleshow/135706340.cms",
+      "date": "2026-11-10T09:34:00Z"
+    },
+    {
+      "title": "Robbyant Releases LingBot-Touch to Bring General-Purpose Touch Perception to Robots",
+      "description": "[THE EXPOSITOR] SHANGHAI -- Robbyant, an embodied AI company within Ant Group, today announced the open-source release of LingBot-Touch, a tactile foundation model that",
+      "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/robbyant-releases-lingbot-touch-to-bring-general-purpose-touch-perception-to-robots/",
+      "date": "2026-11-10T09:32:27Z"
+    },
+    {
+      "title": "Robbyant Releases LingBot-Touch to Bring General-Purpose Touch Perception to Robots",
+      "description": "[THE NORTH BAY NUGGET] SHANGHAI -- Robbyant, an embodied AI company within Ant Group, today announced the open-source release of LingBot-Touch, a tactile foundation model that",
+      "url": "https://www.nugget.ca/press-releases/business-wire/robbyant-releases-lingbot-touch-to-bring-general-purpose-touch-perception-to-robots/",
+      "date": "2026-11-10T09:32:06Z"
+    },
+    {
+      "title": "Robbyant Releases LingBot-Touch to Bring General-Purpose Touch Perception to Robots",
+      "description": "[THE LONDON FREE PRESS] SHANGHAI -- Robbyant, an embodied AI company within Ant Group, today announced the open-source release of LingBot-Touch, a tactile foundation model that",
+      "url": "https://lfpress.com/press-releases/business-wire/robbyant-releases-lingbot-touch-to-bring-general-purpose-touch-perception-to-robots/",
+      "date": "2026-11-10T09:31:50Z"
+    },
+    {
+      "title": "Robbyant Releases LingBot-Touch to Bring General-Purpose Touch Perception to Robots",
+      "description": "[THE KINGSTON WHIG-STANDARD] SHANGHAI -- Robbyant, an embodied AI company within Ant Group, today announced the open-source release of LingBot-Touch, a tactile foundation model that",
+      "url": "https://www.thewhig.com/press-releases/business-wire/robbyant-releases-lingbot-touch-to-bring-general-purpose-touch-perception-to-robots/",
+      "date": "2026-11-10T09:31:39Z"
+    },
+    {
+      "title": "Robbyant Releases LingBot-Touch to Bring General-Purpose Touch Perception to Robots",
+      "description": "[FINANCIAL POST] SHANGHAI -- Robbyant, an embodied AI company within Ant Group, today announced the open-source release of LingBot-Touch, a tactile foundation model that",
+      "url": "https://financialpost.com/press-releases/business-wire/robbyant-releases-lingbot-touch-to-bring-general-purpose-touch-perception-to-robots/",
+      "date": "2026-11-10T09:31:08Z"
+    },
+    {
+      "title": "Robbyant Releases LingBot-Touch to Bring General-Purpose Touch Perception to Robots",
+      "description": "[NATIONAL POST] SHANGHAI -- Robbyant, an embodied AI company within Ant Group, today announced the open-source release of LingBot-Touch, a tactile foundation model that",
+      "url": "https://nationalpost.com/press-releases/business-wire/robbyant-releases-lingbot-touch-to-bring-general-purpose-touch-perception-to-robots/",
+      "date": "2026-11-10T09:31:05Z"
+    },
+    {
+      "title": "Regtech could eventually help enable legal compliance-but first we must be able to understand how AI works",
+      "description": "[LIVEMINT] A breakthrough in figuring out how artificial intelligence (AI) models reach an answer could help keep regulatory repositories updated even with obligations arising from judicial pronouncements. Till that can be done at scale, today's repositories...",
+      "url": "https://www.livemint.com/opinion/online-views/regtech-could-help-enable-legal-compliance-but-first-we-must-understand-how-ai-works-11794289980222.html",
+      "date": "2026-11-10T09:30:24Z"
+    },
+    {
+      "title": "Anthropic withdraws IPO filing showing plan to raise up to $69 billion",
+      "description": "[INDIA TODAY] Anthropic withdrew a securities filing sent to banks after saying its IPO pricing details were inaccurate. The retraction leaves the proposed offering's final terms unclear amid scrutiny of artificial intelligence spending.",
+      "url": "https://www.indiatoday.in/business/story/anthropic-ipo-withdraws-filing-69-billion-fundraise-report-3036003-2026-11-10",
+      "date": "2026-11-10T09:01:11Z"
+    },
+    {
+      "title": "Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company",
+      "description": "[PITTSBURGH TRIBUNE-REVIEW] Artificial intelligence giant Anthropic is looking for an approximately $1.3 trillion valuation in an initial public offering despite new questions about the massive amounts of money flowing into the sector. The company behind the Claude chatbot...",
+      "url": "https://triblive.com/news/world/anthropic-seeks-valuation-of-about-1-3-trillion-when-it-becomes-a-publicly-traded-company/",
+      "date": "2026-11-10T08:47:04Z"
+    },
+    {
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "date": "2026-11-10T00:00:00Z"
+    },
+    {
+      "title": "Decision Models in Hugging Face",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/decision",
+      "date": "2026-11-10T00:00:00Z"
+    },
+    {
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "date": "2026-11-09T15:05:57Z"
+    },
+    {
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "date": "2026-11-09T12:34:29Z"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "date": "2026-11-06T14:00:48Z"
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "date": "2026-11-06T00:00:00Z"
+    }
+  ]
 }
