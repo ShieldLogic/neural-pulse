@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-11-11 18:49 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Adobe is going all in on agentic AI",
-            "description": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miam\u2026",
-            "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/FF-AIA-No-Logo-4.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-11-10T11:24:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThird-party AI agents can use Creative Cloud apps for you, and Fireflys AI Assistant can run your social media accounts.\r\nThird-party AI agents can use Creative \u2026 [+5219 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
-            "description": "European regulators are expecting AI-driven financial chaos sooner than later.",
-            "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2266297470-1200x675.jpg",
-            "publishedAt": "2026-10-13T23:29:31Z",
-            "content": "Top financial regulators, including the Federal Reserve, are worried about American banks\u2019 use of artificial intelligence, according to a new, anonymously-sourced report published by Reuters on Monda\u2026 [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "OpenAI now trains its frontier AI models with no internet access",
-            "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web co\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-23T21:11:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nby\r\nEmm\u2026 [+2977 chars]"
-        }
-    ]
+  "updated": "2026-11-11 23:58:37 UTC",
+  "news": [
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "description": "[TECHCRUNCH] The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "date": "2026-11-11T23:50:00Z"
+    },
+    {
+      "title": "Nvidia\u2019s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "description": "[TECHCRUNCH] As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "date": "2026-11-11T23:28:45Z"
+    },
+    {
+      "title": "Jensen Huang accused of having another affair \u2014 with an Nvidia exec",
+      "description": "[TECHCRUNCH] Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "date": "2026-11-11T23:17:05Z"
+    },
+    {
+      "title": "Why the data center you dread might never even be built",
+      "description": "[TECHCRUNCH] The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A...",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "date": "2026-11-11T20:15:15Z"
+    },
+    {
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "description": "[TECHCRUNCH] Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "date": "2026-11-11T20:12:01Z"
+    },
+    {
+      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "description": "[TECHCRUNCH] The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A...",
+      "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+      "date": "2026-11-11T20:02:14Z"
+    },
+    {
+      "title": "Trump, Xi to discuss AI risks as US-China tech rivalry intensifies",
+      "description": "[FOX NEWS] The US and China plan talks on artificial intelligence and AI safety as Trump and Xi prepare to meet amid global competition for tech leadership.",
+      "url": "https://www.foxnews.com/live-news/ai-news-china-super-intelligence-safety-11-11-26",
+      "date": "2026-11-11T11:55:07Z"
+    },
+    {
+      "title": "The next phishing attack won\u2019t be an email. It could be a voice you trust.",
+      "description": "[TIMES OF INDIA] In recent years, some of the costliest cyberattacks did not use artificial intelligence. They used something else: authority.",
+      "url": "https://timesofindia.indiatimes.com/toi-blogs/digital-life/the-next-phishing-attack-wont-be-an-email-it-could-be-a-voice-you-trust-/articleshow/135735956.cms",
+      "date": "2026-11-11T11:43:00Z"
+    },
+    {
+      "title": "IBM, Microsoft Launch Agentic AI Platform With Over 6,000 A",
+      "description": "[ANALYTICS INDIA MAGAZINE] IBM and Microsoft have launched Imagine Enterprise, an agentic AI platform combining agents with enterprise cloud, data, and security technologies.",
+      "url": "https://analyticsindiamag.com/ai-news/ibm-microsoft-launch-agentic-ai-platform-with-over-6000-ai-agents",
+      "date": "2026-11-11T11:30:28Z"
+    },
+    {
+      "title": "'Smart glasses' that can secretly record people could be banned under a D\u00e1il committee proposal",
+      "description": "[THEJOURNAL.IE] The Joint Committee on Artificial Intelligence made the recommendation in a new report.",
+      "url": "https://www.thejournal.ie/oireachtas-ai-committee-ban-smart-glasses-ban-7222155-Nov2026/",
+      "date": "2026-11-11T11:24:04Z"
+    },
+    {
+      "title": "Kazakh-linked hackers use AI to steal over 2,000 sensitive files from Tajik govt",
+      "description": "[TIMES OF INDIA] A hacking group suspected of operating from Kazakhstan used an artificial intelligence (AI) agent to break into a government document system in",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/kazakh-linked-hackers-use-ai-to-steal-over-2000-sensitive-files-from-tajik-govt/articleshow/135734925.cms",
+      "date": "2026-11-11T11:12:00Z"
+    },
+    {
+      "title": "U.S. Nuclear Revival Faces Uranium Fuel Supply Constraint",
+      "description": "[NATURAL NEWS] The U.S. nuclear power industry\u2019s expansion plans are encountering a fuel supply bottleneck, according to a report published by ZeroHedge [1]. Utilities and technology companies have proposed new reactors, restarts and life extensions to serve...",
+      "url": "https://www.naturalnews.com/2026-11-11-us-nuclear-revival-faces-uranium-fuel-supply-constraint.html",
+      "date": "2026-11-11T11:05:56Z"
+    },
+    {
+      "title": "Saint Vincent conference to focus on Pope Leo\u2019s exploration of AI",
+      "description": "[PITTSBURGH TRIBUNE-REVIEW] Saint Vincent College\u2019s Center for Catholic Thought and Culture will host a talk exploring the the implications of artificial intelligence at a two-day conference this week in Unity. \u201cMagnifica Humanitas: The Sanctity of Life in an Era of Artificial...",
+      "url": "https://triblive.com/local/westmoreland/saint-vincent-conference-to-focus-on-pope-leos-exploration-of-ai/",
+      "date": "2026-11-11T11:01:00Z"
+    },
+    {
+      "title": "AI, Payments And A Major App Makeover; WhatsApp CEO Kunal Shah Reveals What's Coming Next",
+      "description": "[TIMES NOW] WhatsApp aims to evolve beyond messaging by enhancing communication, simplifying everyday tasks, and integrating artificial intelligence. , Technology & Science, Times Now",
+      "url": "https://www.timesnownews.com/technology-science/ai-payments-and-a-major-app-makeover-whatsapp-ceo-kunal-shah-reveals-whats-coming-next-article-156494234",
+      "date": "2026-11-11T10:41:29Z"
+    },
+    {
+      "title": "YoLearn.ai launches Pragya, India's first LLM for K-12 built on NEP 2020 and NCF 2023",
+      "description": "[TIMES OF INDIA] YoLearn.ai, India's K-12 AI tutoring infrastructure company, launched Pragya, *India's first large language model (LLM) for school education built on the",
+      "url": "https://timesofindia.indiatimes.com/education/yolearn-ai-launches-pragya-indias-first-llm-for-k-12-built-on-nep-2020-and-ncf-2023/articleshow/135733251.cms",
+      "date": "2026-11-11T10:28:00Z"
+    },
+    {
+      "title": "atQor Named Finalist for the 2026 Microsoft Partner of the Year Award for - Agents",
+      "description": "[THE TRIBUNE] Global recognition highlights atQor\u2019s repeatable agentic AI framework, enterprise deployments across nine industries, and measurable business outcomes. Ahmedabad (Gujarat) [India], November 11: atQor today announced it has been named a finalist for...",
+      "url": "https://www.tribuneindia.com/news/business/atqor-named-finalist-for-the-2026-microsoft-partner-of-the-year-award-for-agents-2-2/",
+      "date": "2026-11-11T10:22:12Z"
+    },
+    {
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "date": "2026-11-11T05:01:16Z"
+    },
+    {
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "date": "2026-11-11T00:00:00Z"
+    },
+    {
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "date": "2026-11-10T00:00:00Z"
+    },
+    {
+      "title": "Decision Models in Hugging Face",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/decision",
+      "date": "2026-11-10T00:00:00Z"
+    },
+    {
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "date": "2026-11-09T15:05:57Z"
+    },
+    {
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "date": "2026-11-09T12:34:29Z"
+    }
+  ]
 }
