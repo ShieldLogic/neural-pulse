@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-11-16 21:09 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Adobe is going all in on agentic AI",
-            "description": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miam\u2026",
-            "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/FF-AIA-No-Logo-4.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-11-10T11:24:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThird-party AI agents can use Creative Cloud apps for you, and Fireflys AI Assistant can run your social media accounts.\r\nThird-party AI agents can use Creative \u2026 [+5219 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "The US is winning the AI race. Jensen Huang could have blown it",
-            "description": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-10T19:04:05Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias chips are powering Americas AI boom. Of course Chinese spies are interested.\r\nNvidias chips are powering Americas AI boom. Of course Chinese spies are in\u2026 [+8439 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "OpenAI now trains its frontier AI models with no internet access",
-            "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web co\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-23T21:11:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nby\r\nEmm\u2026 [+2977 chars]"
-        }
-    ]
+  "updated": "2026-11-16 23:57:08 UTC",
+  "news": [
+    {
+      "title": "All the questions Nvidia should answer on Tuesday \u2014 but probably won\u2019t",
+      "description": "[TECHCRUNCH] Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia...",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "date": "2026-11-16T22:03:02Z"
+    },
+    {
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "description": "[TECHCRUNCH] The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "date": "2026-11-16T20:07:13Z"
+    },
+    {
+      "title": "Trump says ex-Nvidia CEO Jensen Huang\u2019s affair with an alleged Chinese spy did not threaten national security",
+      "description": "[TECHCRUNCH] Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "date": "2026-11-16T19:12:02Z"
+    },
+    {
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be \u2018fine\u2019",
+      "description": "[TECHCRUNCH] OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be \u201cfine\u201d without him at the helm.",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "date": "2026-11-16T18:11:10Z"
+    },
+    {
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in \u2018under three hours\u2019",
+      "description": "[TECHCRUNCH] The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "date": "2026-11-16T17:36:43Z"
+    },
+    {
+      "title": "Jordan Belfort\u2019s new AI voice startup, Tone, wants to sell like the \u2018Wolf of Wall Street\u2019",
+      "description": "[TECHCRUNCH] Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "date": "2026-11-16T17:10:00Z"
+    },
+    {
+      "title": "Shares decline on tech sell-of",
+      "description": "[CP24 TORONTO] World shares were mixed and Asian shares mostly declined Monday on another tech sell-off, as investors\u2019 worries over the future of the artificial intelligence trade extended into another week following Nvidia\u2019s fallout.",
+      "url": "https://www.cp24.com/news/money/2026/11/16/stocks-decline-on-tech-sell-off-as-concerns-over-the-nvidia-fallout-persist/",
+      "date": "2026-11-16T11:48:57Z"
+    },
+    {
+      "title": "Shares decline on tech sell-of",
+      "description": "[BNN BLOOMBERG] World shares were mixed and Asian shares mostly declined Monday on another tech sell-off, as investors\u2019 worries over the future of the artificial intelligence trade extended into another week following Nvidia\u2019s fallout.",
+      "url": "https://www.bnnbloomberg.ca/markets/nasdaq/2026/11/16/stocks-decline-on-tech-sell-off-as-concerns-over-the-nvidia-fallout-persist/",
+      "date": "2026-11-16T11:48:57Z"
+    },
+    {
+      "title": "Silicon Validation of India\u2019s first Biomedical Sensor Chipset for Wearable Health Monitoring",
+      "description": "[THE TRIBUNE] New Delhi [India], November 16: Sophrosyne Technologies, an Indian deep-tech semiconductor company, has successfully completed the post-silicon validation of the first version of its indigenous biomedical sensor chipset, developed specifically for...",
+      "url": "https://www.tribuneindia.com/news/business/sophrosyne-technologies-successfully-completes-post-silicon-validation-of-indias-first-biomedical-sensor-chipset-for-wearable-health-monitoring/",
+      "date": "2026-11-16T11:37:50Z"
+    },
+    {
+      "title": "Citaglobal, TNB Genco team up for TIZA AI data centre park",
+      "description": "[THE STAR] PETALING JAYA: Citaglobal Bhd, through its wholly-owned subsidiary Citaglobal New Energy Sdn Bhd (CGNE), has signed a memorandum of understanding (MoU) with Tenaga Nasional Bhd's (TNB) power generation arm, TNB Power Generation Sdn Bhd (TNB Genco),...",
+      "url": "https://www.thestar.com.my/business/business-news/2026/11/16/citaglobal-tnb-genco-team-up-for-tiza-ai-data-centre-park-",
+      "date": "2026-11-16T11:36:00Z"
+    },
+    {
+      "title": "Silicon Validation of India\u2019s first Biomedical Sensor Chipset for Wearable Health Monitoring",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] New Delhi [India], November 16: Sophrosyne Technologies, an Indian deep-tech semiconductor company, has successfully completed the post-silicon validation of the first version of its indigenous biomedical sensor chipset, developed specifically for...",
+      "url": "https://www.aninews.in/news/business/sophrosyne-technologies-successfully-completes-post-silicon-validation-of-india8217s-first-biomedical-sensor-chipset-for-wearable-health-monitoring20261116170457/",
+      "date": "2026-11-16T11:34:57Z"
+    },
+    {
+      "title": "Moody's chief economist Mark Zandi agrees that AI has been a boon to economic growth, but warns it is also adding to inflation in America by driving up prices of ...",
+      "description": "[TIMES OF INDIA] Mark Zandi, the chief economist at Moody\u2019s Analytics recently said that the rapid rise of artificial intelligence has even a major driver of economic",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/moodys-chief-economist-mark-zandi-agrees-that-ai-has-been-a-boon-to-economic-growth-but-warns-it-is-also-adding-to-inflation-in-america-by-driving-up-prices-of-/articleshow/135887390.cms",
+      "date": "2026-11-16T11:34:00Z"
+    },
+    {
+      "title": "Analysis-AI selloff has investors scrambling to measure their true exposure",
+      "description": "[THE STAR] PROVIDENCE, RHODE ISLAND, Nov 16 (Reuters) - Until recently, investors embraced artificial intelligence as \u2060one of the biggest bets Wall Street had ever made. Now many portfolio managers are treating the sector with greater caution as they try to...",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/16/analysis-ai-selloff-has-investors-scrambling-to-measure-their-true-exposure",
+      "date": "2026-11-16T11:19:00Z"
+    },
+    {
+      "title": "AI selloff has investors scrambling to measure their true exposure",
+      "description": "[CNBC TV18] Wall Street investors are exercising caution as they assess hidden risks and massive exposure to artificial intelligence across global portfolios.",
+      "url": "https://www.cnbctv18.com/technology/ai-selloff-has-investors-scrambling-to-measure-their-true-exposure-20035050.htm",
+      "date": "2026-11-16T11:18:57Z"
+    },
+    {
+      "title": "How a Ghanaian AI lab exposed the threat of AI",
+      "description": "[EUROPE SAYS] Out of curiosity, researchers at a small artificial intelligence lab in Accra, Ghana, removed the guardrails on their drug discovery AI model in 2024. They",
+      "url": "https://www.europesays.com/3379124/",
+      "date": "2026-11-16T11:12:08Z"
+    },
+    {
+      "title": "Wall Street\u2019s IPO Bloodbath: The Biggest Listings \u03b1\u03c0\u03cc 2026 Lose 20% as the AI Frenzy Fades",
+      "description": "[PAGENEWS.GR] The ten largest US stock market debuts have fallen an average of 20.5% below their offering prices, exposing a growing disconnect between record-breaking IPO valuations and investor returns. SpaceX has lost its early momentum, while Anthropic\u2019s...",
+      "url": "https://www.pagenews.gr/2026/11/16/english-edition/wall-streets-ipo-bloodbath-the-biggest-listings-of-2026-lose-20-as-the-ai-frenzy-fades/",
+      "date": "2026-11-16T11:00:41Z"
+    },
+    {
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/openrouter",
+      "date": "2026-11-16T00:00:00Z"
+    },
+    {
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "date": "2026-11-13T18:00:39Z"
+    },
+    {
+      "title": "XYBench: Helping with the problem behind the question",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "date": "2026-11-13T17:02:35Z"
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "date": "2026-11-13T14:05:22Z"
+    },
+    {
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "date": "2026-11-12T19:07:35Z"
+    },
+    {
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "date": "2026-11-12T00:00:00Z"
+    }
+  ]
 }
