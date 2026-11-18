@@ -1,72 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-11-17 19:57 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Adobe is going all in on agentic AI",
-            "description": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miam\u2026",
-            "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/FF-AIA-No-Logo-4.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-11-10T11:24:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThird-party AI agents can use Creative Cloud apps for you, and Fireflys AI Assistant can run your social media accounts.\r\nThird-party AI agents can use Creative \u2026 [+5219 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "The US is winning the AI race. Jensen Huang could have blown it",
-            "description": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-10T19:04:05Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias chips are powering Americas AI boom. Of course Chinese spies are interested.\r\nNvidias chips are powering Americas AI boom. Of course Chinese spies are in\u2026 [+8439 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "OpenAI now trains its frontier AI models with no internet access",
-            "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web co\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-23T21:11:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nby\r\nEmm\u2026 [+2977 chars]"
-        }
-    ]
+  "updated": "2026-11-18 00:26:05 UTC",
+  "news": [
+    {
+      "title": "Nvidia promises that revenue will keep soaring \u2014 for now",
+      "description": "[TECHCRUNCH] Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "date": "2026-11-18T00:16:50Z"
+    },
+    {
+      "title": "Nvidia is abandoning China after Jensen Huang\u2019s ouster",
+      "description": "[TECHCRUNCH] Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "date": "2026-11-17T23:37:48Z"
+    },
+    {
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang\u2019s exit",
+      "description": "[TECHCRUNCH] Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "date": "2026-11-17T23:04:35Z"
+    },
+    {
+      "title": "Nvidia says it doesn\u2019t plan to reappoint Jensen Huang as CEO",
+      "description": "[TECHCRUNCH] The former CEO offered to return to his top role at the company after his resignation last week.",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "date": "2026-11-17T22:42:27Z"
+    },
+    {
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "description": "[TECHCRUNCH] Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "date": "2026-11-17T22:29:05Z"
+    },
+    {
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "description": "[TECHCRUNCH] The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "date": "2026-11-17T21:48:07Z"
+    },
+    {
+      "title": "Gnani AI partners with Karnataka government to train 1,000 students in voice, agentic AI",
+      "description": "[THE ECONOMIC TIMES] Gnani AI signed an agreement with the Karnataka government to train engineering and science students in artificial intelligence. The initiative aims to enhance digital and AI capabilities among students in Karnataka. Course modules will cover...",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/gnani-ai-partners-with-karnataka-government-to-train-1000-students-in-voice-agentic-ai/articleshow/135925273.cms",
+      "date": "2026-11-17T12:17:05Z"
+    },
+    {
+      "title": "South Korea to Inspect Glasses and Shirt Buttons to Prevent Exam Cheating",
+      "description": "[DECCAN CHRONICLE] The sweeping measures to fight cheating are in response to concerns that artificial intelligence and smart devices are making fraud harder to detect.",
+      "url": "https://www.deccanchronicle.com/world/south-korea-to-inspect-glasses-and-shirt-buttons-to-prevent-exam-cheating-2005231",
+      "date": "2026-11-17T12:11:14Z"
+    },
+    {
+      "title": "Can the Essay Survive the Age of Artificial Intelligence?",
+      "description": "[THE INDIAN EXPRESS] The essay form provides a measure of intellectual freedom for Indian students amidst the rise of AI and changing pedagogical landscapes.",
+      "url": "https://indianexpress.com/article/opinion/columns/the-essay-as-intellectual-freedom-ai-higher-education-india-10966885/",
+      "date": "2026-11-17T12:02:11Z"
+    },
+    {
+      "title": "US Catholic Bishops Meet After Democrats' Big Wins Help Reshape Immigration and Abortion Debates",
+      "description": "[U.S. NEWS & WORLD REPORT] U.S. Catholic bishops are holding their annual fall meeting in Baltimore this week. The gathering comes just after Democrats\u2019 sweeping midterm victories reset the political dynamics around some of the bishops\u2019 priorities, including immigration,...",
+      "url": "https://www.usnews.com/news/best-states/maryland/articles/2026-11-17/us-catholic-bishops-meet-after-democrats-big-wins-help-reshape-immigration-and-abortion-debates",
+      "date": "2026-11-17T12:02:00Z"
+    },
+    {
+      "title": "This Is The Biggest Financial Risk, According To Fed's Report",
+      "description": "[INVESTOR'S BUSINESS DAILY] The Fed's survey of \"salient risks\" shows 87% of market participants identified artificial intelligence as a major threat to the U.S. financial system.",
+      "url": "https://www.investors.com/news/artificial-intelligence-risk-federal-reserve/",
+      "date": "2026-11-17T12:00:34Z"
+    },
+    {
+      "title": "Trump announces AI, defence initiatives with Australia",
+      "description": "[THE CANBERRA TIMES] Australia, the US, India and Japan will deepen military and artificial intelligence cooperation in a vote of support...",
+      "url": "https://www.canberratimes.com.au/story/9393364/trump-announces-ai-defence-initiatives-with-australia/",
+      "date": "2026-11-17T11:52:52Z"
+    },
+    {
+      "title": "Micromax Planning Comeback? Co-Founder Rajesh Agarwal Hits Brand Revival With AI Features, Made-In-India Focus",
+      "description": "[FREE PRESS JOURNAL] Micromax co-founder Rajesh Agarwal has expressed plans to revive the Indian smartphone brand, focusing on artificial intelligence, improved product design and domestic manufacturing. He highlighted India",
+      "url": "https://www.freepressjournal.in/business/micromax-planning-comeback-co-founder-rajesh-agarwal-hits-brand-revival-with-ai-features-made-in-india-focus",
+      "date": "2026-11-17T11:34:00Z"
+    },
+    {
+      "title": "World shares mostly drop Tuesday",
+      "description": "[CP24 TORONTO] Asian shares mostly declined Tuesday, following more drops for stocks in the artificial intelligence industry on Wall Street ahead of Nvidia\u2019s earnings results.",
+      "url": "https://www.cp24.com/news/money/2026/11/17/world-markets-mostly-drop-as-ai-stocks-remain-under-pressure/",
+      "date": "2026-11-17T11:30:07Z"
+    },
+    {
+      "title": "World shares mostly drop Tuesday",
+      "description": "[BNN BLOOMBERG] Asian shares mostly declined Tuesday, following more drops for stocks in the artificial intelligence industry on Wall Street ahead of Nvidia\u2019s earnings results.",
+      "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/17/world-markets-mostly-drop-as-ai-stocks-remain-under-pressure/",
+      "date": "2026-11-17T11:30:07Z"
+    },
+    {
+      "title": "Trump, Putin and Xi in Shenzhen: Why Does the APEC Summit Matter So Much for Global Geopolitics?",
+      "description": "[PAGENEWS.GR] The Asia-Pacific summit brings together the world's leading powers at a critical moment for international security. From the war in Iran and tensions over Taiwan to artificial intelligence, trade disputes and the future of US-China relations,...",
+      "url": "https://www.pagenews.gr/2026/11/17/english-edition/trump-putin-and-xi-in-shenzhen-why-does-the-apec-summit-matter-so-much-for-global-geopolitics/",
+      "date": "2026-11-17T11:24:43Z"
+    },
+    {
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/openrouter",
+      "date": "2026-11-16T00:00:00Z"
+    },
+    {
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "date": "2026-11-13T18:00:39Z"
+    },
+    {
+      "title": "XYBench: Helping with the problem behind the question",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "date": "2026-11-13T17:02:35Z"
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "date": "2026-11-13T14:05:22Z"
+    },
+    {
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "date": "2026-11-12T19:07:35Z"
+    },
+    {
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "date": "2026-11-12T00:00:00Z"
+    }
+  ]
 }
