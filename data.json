@@ -1,85 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-11-18 19:29 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Adobe is going all in on agentic AI",
-            "description": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miam\u2026",
-            "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/FF-AIA-No-Logo-4.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-11-10T11:24:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThird-party AI agents can use Creative Cloud apps for you, and Fireflys AI Assistant can run your social media accounts.\r\nThird-party AI agents can use Creative \u2026 [+5219 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Will Knight",
-            "title": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
-            "description": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can\u2019t let AI be controlled by the few.",
-            "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-            "urlToImage": "https://media.wired.com/photos/6af4d05353156106eee176d7/16:9/w_1872,h_1053,c_limit/WWF-Clement-Delangue-1.jpg",
-            "publishedAt": "2026-11-17T11:00:00Z",
-            "content": "As the agents worked at superhuman speed to probe and exploit systems, Hugging Face confronted a bewildering deluge of data. The company\u2019s engineers were only able to analyze the attack by using an o\u2026 [+5461 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "The US is winning the AI race. Jensen Huang could have blown it",
-            "description": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-10T19:04:05Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias chips are powering Americas AI boom. Of course Chinese spies are interested.\r\nNvidias chips are powering Americas AI boom. Of course Chinese spies are in\u2026 [+8439 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "OpenAI now trains its frontier AI models with no internet access",
-            "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web co\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-23T21:11:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nby\r\nEmm\u2026 [+2977 chars]"
-        }
-    ]
+  "updated": "2026-11-19 01:40:18 UTC",
+  "news": [
+    {
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "description": "[TECHCRUNCH] Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the...",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "date": "2026-11-19T00:42:56Z"
+    },
+    {
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is \u2018unpatchable\u2019",
+      "description": "[TECHCRUNCH] The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "date": "2026-11-18T23:45:00Z"
+    },
+    {
+      "title": "Elon Musk says ousting Jensen Huang is like \u2018kicking Michael Jordan off your team\u2019",
+      "description": "[TECHCRUNCH] \u201cI don\u2019t think [Huang is] disloyal to the United States,\" Musk said.",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "date": "2026-11-18T23:25:17Z"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang\u2019s exit",
+      "description": "[TECHCRUNCH] Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "date": "2026-11-18T23:17:28Z"
+    },
+    {
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "description": "[TECHCRUNCH] Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "date": "2026-11-18T22:58:11Z"
+    },
+    {
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "description": "[TECHCRUNCH] The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "date": "2026-11-18T22:11:15Z"
+    },
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "date": "2026-11-18T19:54:56Z"
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "date": "2026-11-18T18:53:43Z"
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "date": "2026-11-18T15:00:23Z"
+    },
+    {
+      "title": "Thrive Launches Managed AI Governance and Security Services to Help Organizations Scale AI Securely",
+      "description": "[THE NORTH BAY NUGGET] Thrive combines AI visibility and policy enforcement with 24/7 security monitoring and advisory services to help organizations balance AI innovation and",
+      "url": "https://www.nugget.ca/press-releases/globe-newswire/thrive-launches-managed-ai-governance-and-security-services-to-help-organizations-scale-ai-securely/",
+      "date": "2026-11-18T13:32:44Z"
+    },
+    {
+      "title": "Thrive Launches Managed AI Governance and Security Services to Help Organizations Scale AI Securely",
+      "description": "[THE LONDON FREE PRESS] Thrive combines AI visibility and policy enforcement with 24/7 security monitoring and advisory services to help organizations balance AI innovation and",
+      "url": "https://lfpress.com/press-releases/globe-newswire/thrive-launches-managed-ai-governance-and-security-services-to-help-organizations-scale-ai-securely/",
+      "date": "2026-11-18T13:32:37Z"
+    },
+    {
+      "title": "Thrive Launches Managed AI Governance and Security Services to Help Organizations Scale AI Securely",
+      "description": "[THE KINGSTON WHIG-STANDARD] Thrive combines AI visibility and policy enforcement with 24/7 security monitoring and advisory services to help organizations balance AI innovation and",
+      "url": "https://www.thewhig.com/press-releases/globe-newswire/thrive-launches-managed-ai-governance-and-security-services-to-help-organizations-scale-ai-securely/",
+      "date": "2026-11-18T13:32:33Z"
+    },
+    {
+      "title": "Una AI Launches Orchestrator and AI Governance for FP&A",
+      "description": "[THE EXPOSITOR] Una coordinates specialized agents to build and update financial plans, while finance controls what AI can access, change and approve. NEW YORK -- Una AI,",
+      "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/una-ai-launches-orchestrator-and-ai-governance-for-fpa/",
+      "date": "2026-11-18T13:22:40Z"
+    },
+    {
+      "title": "Una AI Launches Orchestrator and AI Governance for FP&A",
+      "description": "[THE LONDON FREE PRESS] Una coordinates specialized agents to build and update financial plans, while finance controls what AI can access, change and approve. NEW YORK -- Una AI,",
+      "url": "https://lfpress.com/press-releases/business-wire/una-ai-launches-orchestrator-and-ai-governance-for-fpa/",
+      "date": "2026-11-18T13:22:26Z"
+    },
+    {
+      "title": "Una AI Launches Orchestrator and AI Governance for FP&A",
+      "description": "[FINANCIAL POST] Una coordinates specialized agents to build and update financial plans, while finance controls what AI can access, change and approve. NEW YORK -- Una AI,",
+      "url": "https://financialpost.com/press-releases/business-wire/una-ai-launches-orchestrator-and-ai-governance-for-fpa/",
+      "date": "2026-11-18T13:22:12Z"
+    },
+    {
+      "title": "Una AI Launches Orchestrator and AI Governance for FP&A",
+      "description": "[NATIONAL POST] Una coordinates specialized agents to build and update financial plans, while finance controls what AI can access, change and approve. NEW YORK -- Una AI,",
+      "url": "https://nationalpost.com/press-releases/business-wire/una-ai-launches-orchestrator-and-ai-governance-for-fpa/",
+      "date": "2026-11-18T13:22:10Z"
+    },
+    {
+      "title": "Cambridge Dictionary reveals its word of the year amid global AI takeover",
+      "description": "[GB NEWS] Cambridge Dictionary reveals its word of the year amid global AI takeover . Cambridge Dictionary has revealed its 2026 word of the year, reflecting the growing concerns surrounding the advent of Artificial intelligence",
+      "url": "https://www.gbnews.com/news/cambridge-dictionary-word-of-the-year-human",
+      "date": "2026-11-18T13:10:50Z"
+    },
+    {
+      "title": "UK does not need its own frontier AI model, says AI minister",
+      "description": "[CITY A.M.] Britain does not need to develop its own frontier artificial intelligence model to compete with the US and China, AI minister has said",
+      "url": "https://www.cityam.com/uk-does-not-need-its-own-frontier-ai-model-says-ai-minister/",
+      "date": "2026-11-18T13:05:47Z"
+    },
+    {
+      "title": "Goldman Sachs upgrades India to 'overweight', sets Nifty target of 28,500 by end-2027",
+      "description": "[DEVDISCOURSE] Goldman Sachs (GS) has upgraded Indian equities to 'overweight' and set a Nifty 50 target of 28,500 by the end of 2027, citing strong domestic demand, robust earnings growth and decade-low foreign investor positioning, which make India an attractive...",
+      "url": "https://www.devdiscourse.com/article/business/4009121-goldman-sachs-upgrades-india-to-overweight-sets-nifty-target-of-28500-by-end-2027",
+      "date": "2026-11-18T13:00:08Z"
+    },
+    {
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "date": "2026-11-18T00:00:00Z"
+    },
+    {
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "date": "2026-11-18T00:00:00Z"
+    },
+    {
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/openrouter",
+      "date": "2026-11-16T00:00:00Z"
+    }
+  ]
 }
