@@ -1,98 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-11-20 19:12 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lily Hay Newman",
-            "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
-            "description": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
-            "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "urlToImage": "https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/191:100/w_1280,c_limit/Security_Claude%20Code's%20Guardrails%20Aren't%20Stopping%20Real-Life%20Attacks_v2.jpg",
-            "publishedAt": "2026-10-21T14:00:00Z",
-            "content": "The Chinese-speaking actor also used what's known as a run time patch, in this case a tool known as ClawGod, to add functionality on top of Claude Code and attempt to remove the CYBER_RISK_INSTRUCTIO\u2026 [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Adobe is going all in on agentic AI",
-            "description": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miam\u2026",
-            "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/FF-AIA-No-Logo-4.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-11-10T11:24:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThird-party AI agents can use Creative Cloud apps for you, and Fireflys AI Assistant can run your social media accounts.\r\nThird-party AI agents can use Creative \u2026 [+5219 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Will Knight",
-            "title": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
-            "description": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can\u2019t let AI be controlled by the few.",
-            "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-            "urlToImage": "https://media.wired.com/photos/6af4d05353156106eee176d7/16:9/w_1872,h_1053,c_limit/WWF-Clement-Delangue-1.jpg",
-            "publishedAt": "2026-11-17T11:00:00Z",
-            "content": "As the agents worked at superhuman speed to probe and exploit systems, Hugging Face confronted a bewildering deluge of data. The company\u2019s engineers were only able to analyze the attack by using an o\u2026 [+5461 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Rani Molla",
-            "title": "Remember the frontier AI pause? Chip companies don\u2019t either",
-            "description": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario A\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-            "publishedAt": "2026-11-18T15:45:02Z",
-            "content": "<ul><li></li><li></li></ul>\r\nNvidia and AMD earnings show booming demand. This is why a frontier slowdown might not derail it.\r\nNvidia and AMD earnings show booming demand. This is why a frontier slo\u2026 [+7237 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ece Yildirim",
-            "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-            "description": "DeepSeek could be sending sensitive data to Beijing, administration fears.",
-            "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/GettyImages-2297876071-1200x675.jpg",
-            "publishedAt": "2026-10-19T21:41:06Z",
-            "content": "The Department of Homeland Security just banned the use of DeepSeek\u2019s technology across much of the federal government.\r\nIn a notice posted on Monday, the DHS ordered federal civilian agencies like t\u2026 [+3062 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "The US is winning the AI race. Jensen Huang could have blown it",
-            "description": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-10T19:04:05Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias chips are powering Americas AI boom. Of course Chinese spies are interested.\r\nNvidias chips are powering Americas AI boom. Of course Chinese spies are in\u2026 [+8439 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Elizabeth Lopatto",
-            "title": "What is Nvidia without AI\u2019s sugar daddy in charge?",
-            "description": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Mus\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-            "publishedAt": "2026-11-18T18:34:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhat is Nvidia without AIs sugar daddy in charge?\r\nCollette Kress first earnings call gives us some clues.\r\nby\r\nElizabeth LopattoClose\r\nPosts from this author wi\u2026 [+12999 chars]"
-        }
-    ]
+  "updated": "2026-11-21 01:02:11 UTC",
+  "news": [
+    {
+      "title": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
+      "description": "[TECHCRUNCH] Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "date": "2026-11-20T19:53:41Z"
+    },
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis \u2014 and a human did, too",
+      "description": "[TECHCRUNCH] Mathematicians are having their minds blown by the latest AI-driven result \u2014 and there's a competing human solution, too.",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "date": "2026-11-20T19:32:08Z"
+    },
+    {
+      "title": "Chips can survive the space environment \u2014 can their financing?",
+      "description": "[TECHCRUNCH] Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "date": "2026-11-20T17:40:01Z"
+    },
+    {
+      "title": "The fallout from Nvidia\u2019s Jensen Huang scandal continues",
+      "description": "[TECHCRUNCH] In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will...",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "date": "2026-11-20T14:55:44Z"
+    },
+    {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "description": "[TECHCRUNCH] From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "date": "2026-11-20T14:00:00Z"
+    },
+    {
+      "title": "What would an AI-driven productivity boom mean for workers?",
+      "description": "[BUFFALO BUFFALO NEWS] Following record investment in the technology, artificial intelligence is reshaping the American workplace, from automated meeting summaries to assistance with radiology diagnostics.",
+      "url": "https://buffalonews.com/news/nation-world/business/article_3b77f751-e5df-5569-94d2-b816ac8ff98d.html",
+      "date": "2026-11-20T12:57:00Z"
+    },
+    {
+      "title": "Bill Gates reacts to Cambridge Dictionary's 2026 Word of the Year 'Human'",
+      "description": "[INDIA TODAY] Cambridge Dictionary has named \u2018human\u2019 its Word of the Year for 2026, highlighting growing debates about identity in the age of artificial intelligence. Bill Gates welcomed the choice, saying AI's success should be measured by how much it improves...",
+      "url": "https://www.indiatoday.in/education-today/news/story/bill-gates-reaction-cambridge-dictionary-word-of-the-year-2026-human-3043322-2026-11-20",
+      "date": "2026-11-20T12:50:53Z"
+    },
+    {
+      "title": "I gave my local LLM one job that runs every morning, and it's done more for me than a year of chatting with it",
+      "description": "[XDA DEVELOPERS] Finally putting local LLMs to good use.",
+      "url": "https://www.xda-developers.com/local-llm-one-job-runs-every-morning-done-more-year-chatting/",
+      "date": "2026-11-20T12:30:21Z"
+    },
+    {
+      "title": "Anil Kapoor meets French President Macron in Paris",
+      "description": "[NEWSBYTES] Bollywood star Anil Kapoor met French President Emmanuel Macron in Paris, discussing cinema, artificial intelligence, and their growing friendship.",
+      "url": "https://www.newsbytesapp.com/news/entertainment/anil-kapoor-s-parisian-encounter-with-president-macron/story",
+      "date": "2026-11-20T12:11:59Z"
+    },
+    {
+      "title": "Lok Sabha Speaker Om Birla calls for modern technology and AI to strengthen defence and land management",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Lok Sabha Speaker Om Birla on Friday called upon the Defence Estates Organisation to strengthen the management and protection of defence land through modern technology, digitisation, and Artificial Intelligence (AI).",
+      "url": "https://www.aninews.in/news/national/general-news/lok-sabha-speaker-om-birla-calls-for-modern-technology-and-ai-to-strengthen-defence-and-land-management16020261120174114/",
+      "date": "2026-11-20T12:11:14Z"
+    },
+    {
+      "title": "Jensen Huang\u2019s leather jacket couldn\u2019t protect Nvidia's shareholders (Opinion)",
+      "description": "[BOULDER DAILY CAMERA] We spend billions developing artificial intelligence. Maybe we should spend a little more time developing ordinary intelligence.",
+      "url": "https://www.dailycamera.com/2026/11/20/dont-let-spouse-buy-leather-jacket-jensen-huang-nvidia/",
+      "date": "2026-11-20T12:01:49Z"
+    },
+    {
+      "title": "Students shouldn't rely on AI to do the heavy lifting",
+      "description": "[CHICAGO SUN-TIMES] A quick search is OK, but artificial intelligence shouldn't do the learning. Also, criticism of Israel and some Chicago-related reasons to cheer.",
+      "url": "https://chicago.suntimes.com/letters-to-the-editor/2026/11/20/ai-students-research-holocaust-israel-palestinians-gaza-antisemitism-cubs-sox-pope",
+      "date": "2026-11-20T12:00:00Z"
+    },
+    {
+      "title": "China's AI Dreams Face Reality Check as Market Plummets Amid Valuation Concerns",
+      "description": "[LOKMAT TIMES] China's AI Dreams Face Reality Check as Market Plummets Amid Valuation Concerns - New Delhi: China's ambitious push to make artificial intelligence a cornerstone of its economic growth is facing significant headwinds. ... Get Latest News on...",
+      "url": "https://www.lokmattimes.com/international/chinas-ai-dreams-face-reality-check-as-market-plummets-amid-valuation-concerns-a001-w02/",
+      "date": "2026-11-20T11:51:56Z"
+    },
+    {
+      "title": "AI worries prompt global shares dip",
+      "description": "[CP24 TORONTO] Global shares dropped in Friday trading as a wide selloff hits issues related to artificial intelligence and computer chips.",
+      "url": "https://www.cp24.com/news/money/2026/11/20/global-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/",
+      "date": "2026-11-20T11:48:50Z"
+    },
+    {
+      "title": "AI worries prompt global shares dip",
+      "description": "[BNN BLOOMBERG] Global shares dropped in Friday trading as a wide selloff hits issues related to artificial intelligence and computer chips.",
+      "url": "https://www.bnnbloomberg.ca/markets/2026/11/20/global-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/",
+      "date": "2026-11-20T11:48:50Z"
+    },
+    {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "description": "[TECHCRUNCH] The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "date": "2026-11-20T00:56:01Z"
+    },
+    {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "date": "2026-11-20T00:00:00Z"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "date": "2026-11-20T00:00:00Z"
+    },
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "date": "2026-11-18T19:54:56Z"
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "date": "2026-11-18T18:53:43Z"
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "date": "2026-11-18T15:00:23Z"
+    },
+    {
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "date": "2026-11-18T00:00:00Z"
+    }
+  ]
 }
