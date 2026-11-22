@@ -1,98 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-11-22 18:36 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Adobe is going all in on agentic AI",
-            "description": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miam\u2026",
-            "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/FF-AIA-No-Logo-4.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-11-10T11:24:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThird-party AI agents can use Creative Cloud apps for you, and Fireflys AI Assistant can run your social media accounts.\r\nThird-party AI agents can use Creative \u2026 [+5219 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Will Knight",
-            "title": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
-            "description": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can\u2019t let AI be controlled by the few.",
-            "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-            "urlToImage": "https://media.wired.com/photos/6af4d05353156106eee176d7/16:9/w_1872,h_1053,c_limit/WWF-Clement-Delangue-1.jpg",
-            "publishedAt": "2026-11-17T11:00:00Z",
-            "content": "As the agents worked at superhuman speed to probe and exploit systems, Hugging Face confronted a bewildering deluge of data. The company\u2019s engineers were only able to analyze the attack by using an o\u2026 [+5461 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Rani Molla",
-            "title": "Remember the frontier AI pause? Chip companies don\u2019t either",
-            "description": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario A\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-            "publishedAt": "2026-11-18T15:45:02Z",
-            "content": "<ul><li></li><li></li></ul>\r\nNvidia and AMD earnings show booming demand. This is why a frontier slowdown might not derail it.\r\nNvidia and AMD earnings show booming demand. This is why a frontier slo\u2026 [+7237 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-            "description": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to lear\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0,3.8035109331691,100,92.392978133662",
-            "publishedAt": "2026-11-20T12:30:47Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSignal will now restrict screenshots on mobile devices, and says AI agents are hostile to privacy.\r\nSignal will now restrict screenshots on mobile devices, and s\u2026 [+4378 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "The US is winning the AI race. Jensen Huang could have blown it",
-            "description": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-10T19:04:05Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias chips are powering Americas AI boom. Of course Chinese spies are interested.\r\nNvidias chips are powering Americas AI boom. Of course Chinese spies are in\u2026 [+8439 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Elizabeth Lopatto",
-            "title": "What is Nvidia without AI\u2019s sugar daddy in charge?",
-            "description": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Mus\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-            "publishedAt": "2026-11-18T18:34:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhat is Nvidia without AIs sugar daddy in charge?\r\nCollette Kress first earnings call gives us some clues.\r\nby\r\nElizabeth LopattoClose\r\nPosts from this author wi\u2026 [+12999 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "OpenAI now trains its frontier AI models with no internet access",
-            "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web co\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-23T21:11:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nby\r\nEmm\u2026 [+2977 chars]"
-        }
-    ]
+  "updated": "2026-11-22 20:36:27 UTC",
+  "news": [
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "description": "[TECHCRUNCH] Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "date": "2026-11-22T18:08:43Z"
+    },
+    {
+      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+      "description": "[THE MANILA TIMES] A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude.",
+      "url": "https://www.manilatimes.net/2026/11/22/world/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai/2475618",
+      "date": "2026-11-22T07:21:00Z"
+    },
+    {
+      "title": "Jonathan Swift foresaw the pitfalls of AI in Gulliver's Travels",
+      "description": "[RTE.IE] We think of artificial intelligence based on large language models as a discovery of our own moment, writes Daniel Carey.",
+      "url": "https://www.rte.ie/culture/2026/1122/1598685-jonathan-swift-foresaw-the-pitfalls-of-ai-in-gullivers-travels/",
+      "date": "2026-11-22T07:00:39Z"
+    },
+    {
+      "title": "AI, 5G, Data Centres: India's Digital Leap Towards a New Era of Growth",
+      "description": "[LOKMAT TIMES] AI, 5G, Data Centres: India's Digital Leap Towards a New Era of Growth - New Delhi: India is on the cusp of a significant digital transformation, with Artificial Intelligence (AI), expanding 5G networks, ... Get Latest News on Technology only on...",
+      "url": "https://www.lokmattimes.com/technology/ai-5g-data-centres-indias-digital-leap-towards-a-new-era-of-growth-a001-w02/",
+      "date": "2026-11-22T06:44:24Z"
+    },
+    {
+      "title": "Who is Tao Lin? The Anthropic Researcher Warning that AI Could Make Humans Permanently Unemployable",
+      "description": "[TIMES NOW] Another hot take on artificial intelligence and what it could turn the world into on our feed isn't exactly news - but there's a reason everyone's taking Tao Lin's forecast a little too seriously. , People, Times Now",
+      "url": "https://www.timesnownews.com/lifestyle/people/who-is-tao-lin-the-anthropic-researcher-warning-that-ai-could-make-humans-permanently-unemployable-article-156549194",
+      "date": "2026-11-22T06:30:51Z"
+    },
+    {
+      "title": "Government, corporate spending to sustain global growth in 2027 as inflation eases: JPMorgan",
+      "description": "[THE ECONOMIC TIMES] Global economic growth is projected to be resilient in 2027 due to continued government investment and corporate spending. Investment in technology and recovery in consumer demand are expected to drive this growth forward. Corporate investment,...",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/government-corporate-spending-to-sustain-global-growth-in-2027-as-inflation-eases-jpmorgan/articleshow/136068673.cms",
+      "date": "2026-11-22T06:11:00Z"
+    },
+    {
+      "title": "Agentic AI, dark patterns and strategic partnerships: Current issues for AI and competition law in Australia",
+      "description": "[EUROPE SAYS] This article was co-authored with Lee-Oz Lifschitz.",
+      "url": "https://www.europesays.com/3392292/",
+      "date": "2026-11-22T06:07:07Z"
+    },
+    {
+      "title": "FBI warns healthcare organizations about agentic AI threat",
+      "description": "[EUROPE SAYS] The Federal Bureau of Investigation has issued a new alert to warn healthcare organizations and other critical infrastructure of a new agentic AI tactic that",
+      "url": "https://www.europesays.com/3392290/",
+      "date": "2026-11-22T06:06:36Z"
+    },
+    {
+      "title": "Australia spy chief warns of data centre, AI risks: Age",
+      "description": "[THE STAR] MELBOURNE, Australia: Australia's spy chief said that data centres and artificial intelligence risk exposing the nation to foreign interference and malicious state actors, according to an interview in The Age Sunday (Nov 22).",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/22/australia-spy-chief-warns-of-data-centre-ai-risks-age",
+      "date": "2026-11-22T05:44:00Z"
+    },
+    {
+      "title": "IMF Chief Calls for Tighter Monetary Policy as Global Inflation Reaches 4.7%",
+      "description": "[NATURAL NEWS] International Monetary ?Fund (IMF) Managing Director ?Kristalina ?Georgieva has called for a tighter monetary policy amid rising global inflation. According to Georgieva, the combination of energy supply disruptions and rising demand linked to...",
+      "url": "https://www.naturalnews.com/2026-11-22-imf-chief-calls-for-tighter-monetary-policy.html",
+      "date": "2026-11-22T05:20:15Z"
+    },
+    {
+      "title": "Elon Musk warns AI industry faces a massive cash crunch in 2027 over compute delays. Why?",
+      "description": "[BUSINESS TODAY] Musk\u2019s remarks highlight a growing structural strain behind the global AI infrastructure buildout. Across 2026, artificial intelligence capital expenditures have neared $1 trillion, backed by nearly $600 billion in global AI-related debt issuance,...",
+      "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/elon-musk-warns-ai-industry-faces-a-massive-cash-crunch-in-2027-over-compute-delays-why-568922-2026-11-22",
+      "date": "2026-11-22T04:24:11Z"
+    },
+    {
+      "title": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
+      "description": "[TECHCRUNCH] Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "date": "2026-11-21T21:37:10Z"
+    },
+    {
+      "title": "A tale of two Nvidias",
+      "description": "[TECHCRUNCH] We got two very different pictures of Nvidia \u2014 the company\u2019s latest earnings report vs. the tech executives loudly calling for Jensen Huang\u2019s return.",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "date": "2026-11-21T21:07:42Z"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "description": "[TECHCRUNCH] We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "date": "2026-11-21T17:00:00Z"
+    },
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "description": "[TECHCRUNCH] An actor has licensed his face to a microdrama startup \u2014 in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "date": "2026-11-21T16:00:00Z"
+    },
+    {
+      "title": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
+      "description": "[TECHCRUNCH] Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "date": "2026-11-20T19:53:41Z"
+    },
+    {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "date": "2026-11-20T00:00:00Z"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "date": "2026-11-20T00:00:00Z"
+    },
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "date": "2026-11-18T19:54:56Z"
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "date": "2026-11-18T18:53:43Z"
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "date": "2026-11-18T15:00:23Z"
+    },
+    {
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "date": "2026-11-18T00:00:00Z"
+    }
+  ]
 }
