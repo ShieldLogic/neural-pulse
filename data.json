@@ -1,98 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-11-24 21:26 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Adobe is going all in on agentic AI",
-            "description": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miam\u2026",
-            "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/FF-AIA-No-Logo-4.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-11-10T11:24:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThird-party AI agents can use Creative Cloud apps for you, and Fireflys AI Assistant can run your social media accounts.\r\nThird-party AI agents can use Creative \u2026 [+5219 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Will Knight",
-            "title": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
-            "description": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can\u2019t let AI be controlled by the few.",
-            "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-            "urlToImage": "https://media.wired.com/photos/6af4d05353156106eee176d7/16:9/w_1872,h_1053,c_limit/WWF-Clement-Delangue-1.jpg",
-            "publishedAt": "2026-11-17T11:00:00Z",
-            "content": "As the agents worked at superhuman speed to probe and exploit systems, Hugging Face confronted a bewildering deluge of data. The company\u2019s engineers were only able to analyze the attack by using an o\u2026 [+5461 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Rani Molla",
-            "title": "Remember the frontier AI pause? Chip companies don\u2019t either",
-            "description": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario A\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-            "publishedAt": "2026-11-18T15:45:02Z",
-            "content": "<ul><li></li><li></li></ul>\r\nNvidia and AMD earnings show booming demand. This is why a frontier slowdown might not derail it.\r\nNvidia and AMD earnings show booming demand. This is why a frontier slo\u2026 [+7237 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-            "description": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to lear\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0,3.8035109331691,100,92.392978133662",
-            "publishedAt": "2026-11-20T12:30:47Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSignal will now restrict screenshots on mobile devices, and says AI agents are hostile to privacy.\r\nSignal will now restrict screenshots on mobile devices, and s\u2026 [+4378 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "The US is winning the AI race. Jensen Huang could have blown it",
-            "description": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-10T19:04:05Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias chips are powering Americas AI boom. Of course Chinese spies are interested.\r\nNvidias chips are powering Americas AI boom. Of course Chinese spies are in\u2026 [+8439 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Elizabeth Lopatto",
-            "title": "What is Nvidia without AI\u2019s sugar daddy in charge?",
-            "description": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Mus\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-            "publishedAt": "2026-11-18T18:34:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhat is Nvidia without AIs sugar daddy in charge?\r\nCollette Kress first earnings call gives us some clues.\r\nby\r\nElizabeth LopattoClose\r\nPosts from this author wi\u2026 [+12999 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "OpenAI now trains its frontier AI models with no internet access",
-            "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web co\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-23T21:11:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nby\r\nEmm\u2026 [+2977 chars]"
-        }
-    ]
+  "updated": "2026-11-24 21:57:57 UTC",
+  "news": [
+    {
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he\u2019s in therapy",
+      "description": "[TECHCRUNCH] The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "date": "2026-11-24T21:48:27Z"
+    },
+    {
+      "title": "Even the best AI agents struggle with everyday life",
+      "description": "[TECHCRUNCH] As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "date": "2026-11-24T21:33:29Z"
+    },
+    {
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "description": "[TECHCRUNCH] Walmart now lets customers shop Black Friday deals through Muse, Meta\u2019s AI agent.",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "date": "2026-11-24T21:32:38Z"
+    },
+    {
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "description": "[TECHCRUNCH] The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "date": "2026-11-24T21:19:52Z"
+    },
+    {
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "description": "[TECHCRUNCH] Anthropic\u2019s post-IPO slump could put pressure on AI startup valuations.",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "date": "2026-11-24T18:30:42Z"
+    },
+    {
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "description": "[TECHCRUNCH] The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "date": "2026-11-24T18:02:59Z"
+    },
+    {
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "date": "2026-11-24T16:34:13Z"
+    },
+    {
+      "title": "AI agents emerge as new consumer gatekeepers, businesses urged to optimise for Bot-driven purchases: Report",
+      "description": "[LIVEMINT] Artificial intelligence (AI) agents are emerging as influential players in consumer purchasing decisions, prompting businesses to rethink their marketing, product visibility and online transaction strategies, according to a new report by venture...",
+      "url": "https://www.livemint.com/technology/ai-agents-emerge-as-new-consumer-gatekeepers-businesses-urged-to-optimise-for-bot-driven-purchases-report-11795513314869.html",
+      "date": "2026-11-24T09:41:54Z"
+    },
+    {
+      "title": "AI agents emerge as new consumer gatekeepers, businesses urged to optimise for Bot-driven purchases: Report",
+      "description": "[DEVDISCOURSE] Artificial intelligence (AI) agents are emerging as influential players in consumer purchasing decisions, prompting businesses to rethink their marketing, product visibility and online transaction strategies, according to a new report by venture...",
+      "url": "https://www.devdiscourse.com/article/business/4011276-ai-agents-emerge-as-new-consumer-gatekeepers-businesses-urged-to-optimise-for-bot-driven-purchases-report",
+      "date": "2026-11-24T09:41:48Z"
+    },
+    {
+      "title": "AI agents emerge as new consumer gatekeepers, businesses urged to optimise for Bot",
+      "description": "[THE TRIBUNE] Artificial intelligence (AI) agents are emerging as influential players in consumer purchasing decisions, prompting businesses to rethink their marketing, product visibility and online transaction strategies, according to a new report by venture...",
+      "url": "https://www.tribuneindia.com/news/business/ai-agents-emerge-as-new-consumer-gatekeepers-businesses-urged-to-optimise-for-bot-driven-purchases-report/",
+      "date": "2026-11-24T09:37:38Z"
+    },
+    {
+      "title": "AI agents emerge as new consumer gatekeepers, businesses urged to optimise for Bot-driven purchases: Report",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Artificial intelligence (AI) agents are emerging as influential players in consumer purchasing decisions, prompting businesses to rethink their marketing, product visibility and online transaction strategies, according to a new report by venture...",
+      "url": "https://www.aninews.in/news/business/ai-agents-emerge-as-new-consumer-gatekeepers-businesses-urged-to-optimise-for-bot-driven-purchases-report20261124150533/",
+      "date": "2026-11-24T09:35:33Z"
+    },
+    {
+      "title": "AI Agents Now Control What You Buy: Businesses Must Adapt for Bot",
+      "description": "[LOKMAT TIMES] AI Agents Now Control What You Buy: Businesses Must Adapt for Bot-Driven Shopping - New Delhi: Artificial intelligence (AI) agents are rapidly becoming key decision-makers in what consumers purchase, pushing businesses to urgently ... Get Latest...",
+      "url": "https://www.lokmattimes.com/business/ai-agents-now-control-what-you-buy-businesses-must-adapt-for-bot-driven-shopping-a001-w01/",
+      "date": "2026-11-24T09:35:33Z"
+    },
+    {
+      "title": "US officials keen to squeeze China's AI dreams should exercise caution-here's why",
+      "description": "[LIVEMINT] The global artificial intelligence (AI) value chain is deeply integrated and the AI trade has become so pervasive that it is almost impossible to hedge or diversify risks away. Any hit to chipmakers would reverberate far beyond Silicon Valley.",
+      "url": "https://www.livemint.com/opinion/online-views/us-officials-keen-to-squeeze-chinas-ai-dreams-should-exercise-caution-11795432221284.html",
+      "date": "2026-11-24T09:31:08Z"
+    },
+    {
+      "title": "Rural Alaskan hospitals use AI to create \u2018the Skynet of stroke\u2019",
+      "description": "[STAT] Artificial intelligence-powered stroke network helps rural hospitals in Alaska identify dangerous brain clots and get patients to treatment faster.",
+      "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/",
+      "date": "2026-11-24T09:30:00Z"
+    },
+    {
+      "title": "Beyond chatbots: How AI can actually improve student learning outcomes",
+      "description": "[TIMES OF INDIA] In the last couple of years, the main visible aspect of Artificial Intelligence in classrooms was the chatbot.",
+      "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/beyond-chatbots-how-ai-can-actually-improve-student-learning-outcomes/articleshow/136123034.cms",
+      "date": "2026-11-24T09:30:00Z"
+    },
+    {
+      "title": "Scaling up satellite production remains a challenge, India must reduce import dependence: ISRO chief",
+      "description": "[THE TRIBUNE] Scaling up satellite production remains a key challenge for India, Indian Space Research Organisation (ISRO) Chairman V Narayanan said on Tuesday, calling for greater collaboration between ISRO, industry and startups to boost domestic manufacturing,...",
+      "url": "https://www.tribuneindia.com/news/business/scaling-up-satellite-production-remains-a-challenge-india-must-reduce-import-dependence-isro-chief/",
+      "date": "2026-11-24T09:03:01Z"
+    },
+    {
+      "title": "US states sue Musk companies over flood of sexualised images made with AI chatbot Grok",
+      "description": "[THE STAR] Elon Musk's businesses harmed consumers by avoiding safeguards when they designed and launched an artificial intelligence chatbot capable of creating sexualised images, two Democratic attorneys general argued in lawsuits filed Monday.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/24/us-states-sue-musk-companies-over-flood-of-sexualised-images-made-with-ai-chatbot-grok",
+      "date": "2026-11-24T09:00:00Z"
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "date": "2026-11-23T17:20:37Z"
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "date": "2026-11-23T00:00:00Z"
+    },
+    {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "date": "2026-11-20T00:00:00Z"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "date": "2026-11-20T00:00:00Z"
+    },
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "date": "2026-11-18T19:54:56Z"
+    }
+  ]
 }
