@@ -1,98 +1,137 @@
 {
-    "title": "Neural Pulse",
-    "tagline": "The heartbeat of the AI frontier.",
-    "updated": "2026-11-23 22:50 UTC",
-    "news": [
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Adobe is going all in on agentic AI",
-            "description": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miam\u2026",
-            "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/FF-AIA-No-Logo-4.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-11-10T11:24:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThird-party AI agents can use Creative Cloud apps for you, and Fireflys AI Assistant can run your social media accounts.\r\nThird-party AI agents can use Creative \u2026 [+5219 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Will Knight",
-            "title": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
-            "description": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can\u2019t let AI be controlled by the few.",
-            "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-            "urlToImage": "https://media.wired.com/photos/6af4d05353156106eee176d7/16:9/w_1872,h_1053,c_limit/WWF-Clement-Delangue-1.jpg",
-            "publishedAt": "2026-11-17T11:00:00Z",
-            "content": "As the agents worked at superhuman speed to probe and exploit systems, Hugging Face confronted a bewildering deluge of data. The company\u2019s engineers were only able to analyze the attack by using an o\u2026 [+5461 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Rani Molla",
-            "title": "Remember the frontier AI pause? Chip companies don\u2019t either",
-            "description": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario A\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-            "publishedAt": "2026-11-18T15:45:02Z",
-            "content": "<ul><li></li><li></li></ul>\r\nNvidia and AMD earnings show booming demand. This is why a frontier slowdown might not derail it.\r\nNvidia and AMD earnings show booming demand. This is why a frontier slo\u2026 [+7237 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-            "description": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to lear\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0,3.8035109331691,100,92.392978133662",
-            "publishedAt": "2026-11-20T12:30:47Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nSignal will now restrict screenshots on mobile devices, and says AI agents are hostile to privacy.\r\nSignal will now restrict screenshots on mobile devices, and s\u2026 [+4378 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Robert Hart",
-            "title": "The US is winning the AI race. Jensen Huang could have blown it",
-            "description": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of \u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-10T19:04:05Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nNvidias chips are powering Americas AI boom. Of course Chinese spies are interested.\r\nNvidias chips are powering Americas AI boom. Of course Chinese spies are in\u2026 [+8439 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Elizabeth Lopatto",
-            "title": "What is Nvidia without AI\u2019s sugar daddy in charge?",
-            "description": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Mus\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-            "publishedAt": "2026-11-18T18:34:15Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhat is Nvidia without AIs sugar daddy in charge?\r\nCollette Kress first earnings call gives us some clues.\r\nby\r\nElizabeth LopattoClose\r\nPosts from this author wi\u2026 [+12999 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "OpenAI now trains its frontier AI models with no internet access",
-            "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web co\u2026",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-23T21:11:07Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nAI agents can still communicate without a network connection, OpenAI found.\r\nby\r\nEmm\u2026 [+2977 chars]"
-        }
-    ]
+  "updated": "2026-11-24 01:31:40 UTC",
+  "news": [
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "description": "[TECHCRUNCH] As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "date": "2026-11-23T22:05:50Z"
+    },
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "description": "[TECHCRUNCH] Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "date": "2026-11-23T22:02:05Z"
+    },
+    {
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "description": "[TECHCRUNCH] \"The mistake has been corrected,\" Elon Musk chimed in.",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "date": "2026-11-23T21:47:41Z"
+    },
+    {
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "description": "[TECHCRUNCH] Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "date": "2026-11-23T21:25:42Z"
+    },
+    {
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company\u2019s HQ",
+      "description": "[TECHCRUNCH] \"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "date": "2026-11-23T20:38:53Z"
+    },
+    {
+      "title": "Google Search\u2019s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "description": "[TECHCRUNCH] By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "date": "2026-11-23T19:14:46Z"
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "date": "2026-11-23T17:20:37Z"
+    },
+    {
+      "title": "A job offer could be more than it seems: How alleged Chinese spy recruitment targets Americans",
+      "description": "[THE ECONOMIC TIMES] Fake job listings are allegedly used by Chinese spies to target sensitive data from US officials and professionals. This tactic includes recruitment attempts via artificial intelligence and professional networking platforms. Investigations reveal...",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/a-job-offer-could-be-more-than-it-seems-how-alleged-chinese-spy-recruitment-targets-americans/articleshow/136104328.cms",
+      "date": "2026-11-23T13:25:00Z"
+    },
+    {
+      "title": "No government support for running open-weight AI models, says Sarvam's co-founder amid Chinese models row",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Amid growing controversy over the use of Chinese-developed artificial intelligence (AI) models by Indian startup Sarvam, its co-founder Pratyush Kumar has clarified that the company's Token Factory platform operates on privately procured computing...",
+      "url": "https://www.aninews.in/news/business/no-government-support-for-running-open-weight-ai-models-says-sarvams-co-founder-amid-chinese-models-row20261123184831/",
+      "date": "2026-11-23T13:18:31Z"
+    },
+    {
+      "title": "How Nvidia\u2019s turnaround in China is threatened by Huang\u2019s exit",
+      "description": "[BNN BLOOMBERG] Nvidia staged a comeback in China\u2019s booming artificial-intelligence industry by selling less powerful chips and software after U.S. export bans cost it billions in sales \u2013 but that business is now threatened by the scandal surrounding former CEO...",
+      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/23/how-nvidias-billion-dollar-turnaround-in-china-is-threatened-by-huangs-exit/",
+      "date": "2026-11-23T12:59:32Z"
+    },
+    {
+      "title": "CrowdStrike to acquire Zscaler for $43.9 billion in one of the biggest cybersecurity deals ever",
+      "description": "[TECHSTARTUPS.COM] CrowdStrike is making one of the biggest bets in cybersecurity history. The Austin, Texas-based security giant announced Monday that it will acquire Zscaler for approximately $43.9 billion in an all-stock deal, bringing together two major players in...",
+      "url": "https://techstartups.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-43-9-billion-in-one-of-the-biggest-cybersecurity-deals-ever/",
+      "date": "2026-11-23T12:59:16Z"
+    },
+    {
+      "title": "From AI Tools to AI Agents: TechnoBridge Launches 18",
+      "description": "[THE TRIBUNE] Pune (Maharashtra) [India], November 23: TechnoBridge Systems has introduced an 18-week Generative AI & Agentic AI course to help learners move from using AI tools to building useful AI applications. The course includes 90 instructor-led sessions,...",
+      "url": "https://www.tribuneindia.com/news/business/from-ai-tools-to-ai-agents-technobridge-launches-18-week-hands-on-generative-ai-agentic-ai-course/",
+      "date": "2026-11-23T12:57:41Z"
+    },
+    {
+      "title": "From AI Tools to AI Agents: TechnoBridge Launches 18",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] Pune (Maharashtra) [India], November 23: TechnoBridge Systems has introduced an 18-week Generative AI & Agentic AI course to help learners move from using AI tools to building useful AI applications. The course includes 90 instructor-led sessions,...",
+      "url": "https://www.aninews.in/news/business/from-ai-tools-to-ai-agents-technobridge-launches-18-week-hands-on-generative-ai-amp-agentic-ai-course20261123182637/",
+      "date": "2026-11-23T12:56:37Z"
+    },
+    {
+      "title": "Week Generative AI & Agentic AI Course in Pune",
+      "description": "[LOKMAT TIMES] TechnoBridge Rolls Out 18-Week Generative AI & Agentic AI Course in Pune - Pune, Maharashtra: TechnoBridge Systems has launched an intensive 18-week course focusing on Generative AI and Agentic AI, designed to ... Get Latest News on Business only on...",
+      "url": "https://www.lokmattimes.com/business/technobridge-rolls-out-18-week-generative-ai-agentic-ai-course-in-pune-a001-w01/",
+      "date": "2026-11-23T12:56:37Z"
+    },
+    {
+      "title": "Pixxel, IIT-Kanpur join hands to advance hyperspectral satellite imaging",
+      "description": "[INDIA TODAY] Pixxel and IIT Kanpur signed an MoU to advance hyperspectral imaging, artificial intelligence and geospatial research. The partnership seeks to turn academic research into practical environmental and natural-resource monitoring applications.",
+      "url": "https://www.indiatoday.in/science/story/pixxel-iit-kanpur-join-hands-to-advance-hyperspectral-satellite-imaging-3045210-2026-11-23",
+      "date": "2026-11-23T12:34:24Z"
+    },
+    {
+      "title": "Luc Besson, Peter Attia and Akcent Discuss the Future of Creativity and Technology in Moscow",
+      "description": "[THE TRIBUNE] New Delhi [India], November 23: At Culture. Media. Digital, the French filmmaker shared advice for aspiring directors, longevity expert Peter Attia discussed the foundations of healthy ageing, and Akcent founder Adrian S\u00een\u0103 explored the future of...",
+      "url": "https://www.tribuneindia.com/news/business/luc-besson-peter-attia-and-akcent-discuss-the-future-of-creativity-and-technology-in-moscow/",
+      "date": "2026-11-23T12:18:02Z"
+    },
+    {
+      "title": "Luc Besson, Peter Attia and Akcent Discuss the Future of Creativity and Technology in Moscow",
+      "description": "[ANI (ASIAN NEWS INTERNATIONAL)] New Delhi [India], November 23: At Culture. Media. Digital, the French filmmaker shared advice for aspiring directors, longevity expert Peter Attia discussed the foundations of healthy ageing, and Akcent founder Adrian S\u00een\u0103 explored the future of...",
+      "url": "https://www.aninews.in/news/business/luc-besson-peter-attia-and-akcent-discuss-the-future-of-creativity-and-technology-in-moscow20261123174403/",
+      "date": "2026-11-23T12:14:03Z"
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "date": "2026-11-23T00:00:00Z"
+    },
+    {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "date": "2026-11-20T00:00:00Z"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "date": "2026-11-20T00:00:00Z"
+    },
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "date": "2026-11-18T19:54:56Z"
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "description": "[HUGGINGFACE] No intel summary available.",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "date": "2026-11-18T18:53:43Z"
+    }
+  ]
 }
